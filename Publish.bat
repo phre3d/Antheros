@@ -1,8 +1,8 @@
 @echo off
 
-robocopy "C:\path\to\vault" "C:\path\to\quartz\content" /MIR /XD .obsidian .trash /XF .gitignore
+robocopy "F:\Bob\DOCUMENTS\ObsidianVaults\Antheros" "F:\Bob\DOCUMENTS\GitHub\quartz\content" /MIR /XD .obsidian .trash ~scripts ~WAInput /XF .gitignore
 
-cd /d "C:\path\to\quartz"
+cd /d "F:\Bob\DOCUMENTS\GitHub\quartz\content"
 git add .
 git commit -m "update notes"
 git push
