@@ -1,0 +1,24 @@
+#import #organization   #Free_City_of_Haven #type-family
+# Ilorim Family
+
+The family Ilorim is also relatively new to Haven.  [[person/Firlirrel Ilorim|Firlirrel Ilorim]], who is presently accounted as one of the five finest voices in Haven, arrived only some 120 years ago. After making a great impression on the Entertainers' Guild with his superb voice (as well as on the elves), he wooed, won, and married [[Person/Lachoriel Ilorim|Lachoriel]], a beautiful elfin maid of Londhin, a minor family in [[settlement/Erinhir|Erinhir]], and produced a daughter, [[Person/Adrielle Ilorim|Adrielle]]. 
+
+[[Person/Adrielle Ilorim|Adrielle]] disappeared for a number of years when still a very young girl of 30, but eventually returned, and now runs a shop ([[landmark/Fine Silks and Fabrics|Fine Silks and Fabrics]]) on Lorien Street in  [[settlement/Erinhir|Erinhir]] specializing in silks and other fine fabrics.
+
+[[person/Firlirrel Ilorim|Firlirrel Ilorim]] is still a power on [[Settlement/The Street of Harps|The Street of Harps]], but seldom performs now other than on special occasions. He is engaged in writing a history of the elvish peoples, and devotes most of his time to that project.
+
+>[!Private]
+>The family isn't very powerful in either the political or business structures of the city, since elves do not usually concern themselves with the idiosyncrasies of other races, but they do play a great role in some of the city's major institutions for recreation, construction, and music. 
+
+They are legitimate equals of the non-elven higher classes, but, beyond their residences in [[settlement/Erinhir|Erinhir]], they are not considered as nobles in the classical sense. Overall, elves in general and those of [[settlement/Erinhir|Erinhir]] in particular, are respected more than many of the nobles of the city, so they do not force issues with them (after all, what is the point?).
+
+![[DnDLine.png]]
+
+**Family Leader:** [[person/Firlirrel Ilorim|Firlirrel Ilorim]]
+
+**Members:** 
+```dataview
+LIST
+FROM #ilorim-family
+SORT file.name
+```

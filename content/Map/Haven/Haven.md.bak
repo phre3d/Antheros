@@ -1,0 +1,287 @@
+#import #map
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 29%]
+border: [off]
+shadow: off
+```
+
+# Description
+
+A map of the [[settlement/Free City of Haven]], which serves as the starting point for the [Haven Irregulars](https://www.worldanvil.com/epic/phre3d-haven-irregulars) campaign.
+
+# Image
+
+![[~attachments/The Free City of Haven - Players' map Base Map Image.png]]
+
+# Legend
+
+**Legend**
+
+
+| Pin | Location Type  |
+|---|---|
+| ![[City Guard.png]] | City Watch  |
+| ![[Dining.png]] | Dining  |
+| ![[Education.png]] | Education  |
+| ![[Entertainment.png]] | Entertainment  |
+| ![[Government.png]] | Government  |
+| ![[Guild.png]] | Guilds  |
+| ![[Inns & Taverns.png]] | Inns & Taverns   |
+| ![[Landmark.png]] | Major Landmarks   |
+| ![[Medical.png]] | Medical   |
+| ![[Religion.png]] | Religious  |
+| ![[Residential.png]] | Residential  |
+| ![[Service.png]] | Services  |
+| ![[Shopping.png]] | Shopping  |
+
+
+--- end-column ---
+
+**Image Name:** The Free City of Haven - Players' map Base Map Image<br>
+**Image #** 5133513<br>
+**Compass:** <br>
+
+**Location:**[[Article/Free City of Haven]]<br>
+**Organization:**
+
+**Campaign(s):**
+- [[Campaign/Haven Irregulars]]
+
+
+**Markers:**
+- [[Map/Haven/Markers/Guildhall of Drayers]]
+
+- [[Map/Haven/Markers/Courts]]
+
+- [[Map/Haven/Markers/The Black Swan]]
+
+- [[Map/Haven/Markers/Mint Station]]
+
+- [[Map/Haven/Markers/Temple of Strathos]]
+
+- [[Map/Haven/Markers/Mystic Valley Inn]]
+
+- [[Map/Haven/Markers/The Pendragon Inn]]
+
+- [[Map/Haven/Markers/The Sackbut and Psalter]]
+
+- [[Map/Haven/Markers/Academy Barracks]]
+
+- [[Map/Haven/Markers/Temple of Ladros]]
+
+- [[Map/Haven/Markers/The Lamb and Lime]]
+
+- [[Map/Haven/Markers/College of the Mystic Arts]]
+
+- [[Map/Haven/Markers/Gold Alley]]
+
+- [[Map/Haven/Markers/Caravan Station]]
+
+- [[Map/Haven/Markers/Judgement Gate Barracks]]
+
+- [[Map/Haven/Markers/College of Physical Naturalism]]
+
+- [[Map/Haven/Markers/The Man-at-Arms]]
+
+- [[Map/Haven/Markers/Tower Station]]
+
+- [[Map/Haven/Markers/Temple of Maedhros]]
+
+- [[Map/Haven/Markers/The Trembling Heart]]
+
+- [[Map/Haven/Markers/The Blue Harper]]
+
+- [[Map/Haven/Markers/Northgate Barracks]]
+
+- [[Map/Haven/Markers/The Stone Hammer]]
+
+- [[Map/Haven/Markers/Shield Barracks]]
+
+- [[Map/Haven/Markers/Wagoneer's Delight]]
+
+- [[Map/Haven/Markers/The Navy Yard of Haven]]
+
+- [[Map/Haven/Markers/Guildhall of Provenders]]
+
+- [[Map/Haven/Markers/Guildhall of the Loom]]
+
+- [[Map/Haven/Markers/Temple of Mandos]]
+
+- [[Map/Haven/Markers/Garduccio's]]
+
+- [[Map/Haven/Markers/Corridor Barracks]]
+
+- [[Map/Haven/Markers/Temple of Azriel]]
+
+- [[Map/Haven/Markers/The House of Healing]]
+
+- [[Map/Haven/Markers/Temple of Istara]]
+
+- [[Map/Haven/Markers/Ruin of Rogues' Roost]]
+
+- [[Map/Haven/Markers/The Hanged Man]]
+
+- [[Map/Haven/Markers/The Lying Lawyer]]
+
+- [[Map/Haven/Markers/College of Common Law]]
+
+- [[Map/Haven/Markers/Horsegate Barracks]]
+
+- [[Map/Haven/Markers/Temple of Serindë]]
+
+- [[Map/Haven/Markers/Rose Garden Inn]]
+
+- [[Map/Haven/Markers/College of Natural Philosophy]]
+
+- [[Map/Haven/Markers/The Bronze Rat Memorial]]
+
+- [[Map/Haven/Markers/The Prancing Pony]]
+
+- [[Map/Haven/Markers/Studio Lane]]
+
+- [[Map/Haven/Markers/Giggling Gryphon]]
+
+- [[Map/Haven/Markers/College of Rhetoric]]
+
+- [[Map/Haven/Markers/Illusionist's Park]]
+
+- [[Map/Haven/Markers/Iron Gate Barracks]]
+
+- [[Map/Haven/Markers/Guildhall of the Hearth]]
+
+- [[Map/Haven/Markers/The Green]]
+
+- [[Map/Haven/Markers/Institute of Mathematics]]
+
+- [[Map/Haven/Markers/Lohisian Place]]
+
+- [[Map/Haven/Markers/Temple of Ariel]]
+
+- [[Map/Haven/Markers/Temple of Ea]]
+
+- [[Map/Haven/Markers/The Shady Rest Inn]]
+
+- [[Map/Haven/Markers/Circus Park]]
+
+- [[Map/Haven/Markers/The Surgery]]
+
+- [[Map/Haven/Markers/The Ruins of the South Keep]]
+
+- [[Map/Haven/Markers/Coppergate Barracks]]
+
+- [[Map/Haven/Markers/Frod's Theater]]
+
+- [[Map/Haven/Markers/Hall of the Council of Boroughs]]
+
+- [[Map/Haven/Markers/School of Medicine]]
+
+- [[Map/Haven/Markers/Old City Walls]]
+
+- [[Map/Haven/Markers/The Old Walls]]
+
+- [[Map/Haven/Markers/The Gray Halls]]
+
+- [[Map/Haven/Markers/The Aerie]]
+
+- [[Map/Haven/Markers/The Speedwell Inn]]
+
+- [[Map/Haven/Markers/The Hall of All Guilds]]
+
+- [[Map/Haven/Markers/The Mint]]
+
+- [[Map/Haven/Markers/Street of Silk Veils]]
+
+- [[Map/Haven/Markers/Academy Armory]]
+
+- [[Map/Haven/Markers/Holiday Inn]]
+
+- [[Map/Haven/Markers/Tarmialda 'The Loft']]
+
+- [[Map/Haven/Markers/Cab and Trolley Barns]]
+
+- [[Map/Haven/Markers/Temple of Vairë]]
+
+- [[Map/Haven/Markers/Guildhall of the Ship]]
+
+- [[Map/Haven/Markers/Guildhouse of Magic]]
+
+- [[Map/Haven/Markers/Horn and Hardart]]
+
+- [[Map/Haven/Markers/The Silver Trumpet]]
+
+- [[Map/Haven/Markers/Boutique Lane]]
+
+- [[Map/Haven/Markers/Guildhall of Entertainers]]
+
+- [[Map/Haven/Markers/Guardian]]
+
+- [[Map/Haven/Markers/Wizard's Isle]]
+
+- [[Map/Haven/Markers/Kurgan's Hill Apex]]
+
+- [[Map/Haven/Markers/Temple of Narconal]]
+
+- [[Map/Haven/Markers/The Lonely Lecher]]
+
+- [[Map/Haven/Markers/Guildhall of Erectors]]
+
+- [[Map/Haven/Markers/The Golden Ducat]]
+
+- [[Map/Haven/Markers/Temple of Etheah]]
+
+- [[Map/Haven/Markers/The Jumping Jade]]
+
+- [[Map/Haven/Markers/Temple of Nenya]]
+
+- [[Map/Haven/Markers/The Market Inn]]
+
+- [[Map/Haven/Markers/Lohisian Place]]
+
+- [[Map/Haven/Markers/Market Barracks]]
+
+- [[Map/Haven/Markers/Two for the Road]]
+
+- [[Map/Haven/Markers/The Shieldwood]]
+
+- [[Map/Haven/Markers/Kurgan's Rout]]
+
+- [[Map/Haven/Markers/The Wizards' Staff]]
+
+- [[Map/Haven/Markers/The Maid of Asdor]]
+
+- [[Map/Haven/Markers/Nobles' Way Station]]
+
+- [[Map/Haven/Markers/Wayfarers Rest]]
+
+- [[Map/Haven/Markers/The Citadel]]
+
+- [[Map/Haven/Markers/School of Alchemy]]
+
+- [[Map/Haven/Markers/Student Tenements]]
+
+- [[Map/Haven/Markers/The Inn of the Seven Sisters]]
+
+- [[Map/Haven/Markers/The Tower of the Kindred Races]]
+
+- [[Map/Haven/Markers/Southbridge Barracks]]
+
+- [[Map/Haven/Markers/Open Air Theater of the Performing Arts]]
+
+- [[Map/Haven/Markers/Temple of Thalos]]
+
+- [[Map/Haven/Markers/Mayor's Palace]]
+
+- [[Map/Haven/Markers/Academy Training Field]]
+
+- [[Map/Haven/Markers/Grey Halls Station]]
+
+- [[Map/Haven/Markers/Guildhall of the Artisan]]
+
+
+--- end-multi-column
+
+
+
+

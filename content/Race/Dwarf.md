@@ -1,0 +1,88 @@
+#import #ethnicity#race
+# Dwarven Race
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Description
+Dwarves are a stoic but stern race, ensconced in cities carved from the hearts of mountains and fiercely determined to repel the depredations of savage races like orcs and goblins. More than any other race, dwarves have acquired a reputation as dour and humorless artisans of the earth. It could be said that their history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other such horrors.
+
+Dwarves are lovers of history and tradition, and their long lifespan leads to far less in the way of generational shifts in attitudes, styles, fashions, and trends than shorter-lived races exhibit. If a thing is not broken, they do not fix it or change it; and if it is broken, they fix it rather than replace it. Thrifty as a rule, dwarves are loath to discard anything unless it is truly ruined and unable to be fixed. At the same time, dwarves' meticulous, near-obsessive attention to detail and durability in their craftsmanship makes that a rare occurrence, as the things they make are built to last. As a result, buildings, artwork, tools, housewares, garments, weapons, and virtually everything else made by dwarves still sees regular use at an age when such items would be relegated to museum pieces, dusty antique shelves, or junkyard fodder by other races. 
+
+Taken together, these traits create the impression that dwarves are a race frozen in time. Nothing could be further from the truth, however, as dwarves are both thoughtful and imaginative, willing to experiment, if always keen to refine and perfect a new technique or product before moving on to the next one. Dwarves have achieved feats of metallurgy, stonework, and engineering that have consistently outpaced the technological advances of other races, though some non-dwarven races have used magic to supplement and perfect their own creations to achieve the same ends through mystical rather than mundane means. 
+
+They are also a race typified by stubborn courage and dedication to seeing tasks through to completion, whatever the risks. These traits have led dwarves to explore and settle in extreme environments that would cause other races to quail and retreat. From the darkest depths of the underworld to the highest mountain peaks, from rusting iron citadels along desolate rocky coasts to squat jungle ziggurats, dwarves have established their enclaves and redoubts, holding them against all comers or perishing to the last and leaving only their enduring monuments to stand as their legacy. 
+
+While it is said that dwarves are not venturesome or inventive, it would be more accurate to say that they maintain a focus on and dedication to each task they undertake and every change they adopt, vetting such changes thoroughly before adopting them wholeheartedly. When faced with new circumstances and new needs, they react by applying tried and true tools and techniques systematically, using existing methods whenever possible rather than trying to invent novel solutions for every situation. If necessity requires, however, they throw themselves with equal vigor into developing the next perfect procedure for demolishing the obstacles that get in their way. Once their desired goal is obtained, they focus on consolidating each new piece of territory or conceptual advance. Dwarves thus rarely overextend themselves, but they also may miss opportunities to seize the initiative and maximize the advantages they create.
+
+## Physical Description 
+Dwarves are a short and stocky race, and stand about a foot shorter than most humans, with wide, compact bodies that account for their burly appearance. Male and female dwarves pride themselves on the long length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Clean-shavenness on a male dwarf is a sure sign of madness, or worse-no one familiar with their race trusts a beardless dwarven man.
+
+## Sub-races
+### Hill Dwarf
+As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as 
+are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
+
+In addition to the base abilities/feats, Hill Dwarfs gain the following:
+- **Ability Score Increase.** Your Wisdom score increases by 1.
+- **Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+
+### Mountain Dwarf
+As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You’re probably on the tall side (for a dwarf), and tend toward 
+lighter coloration. The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.
+
+In addition to the base abilities/feats, Mountain Dwarfs gain the following:
+- **Ability Score Increase.** Your Strength score increases by 2.
+- **Dwarven Armor Training.** You have proficiency with light and medium armor.
+
+## Society 
+The great distances between dwarves' mountain citadels account for many of the cultural differences that exist within their society. Despite these schisms, dwarves throughout the world are characterized by their love of stonework, their passion for stone- and metal-based craftsmanship and architecture, and their fierce hatred of giants, orcs, and goblinoids. In some remote enclaves, such as those areas where these races are uncommon or unheard of, dwarves' fixation on security and safety combined with their rather pugnacious nature leads them to find enemies or at least rivals wherever they settle. While they are not precisely militaristic, they learned long ago that those without axes can be hewn apart by them, and thus dwarves everywhere are schooled to be ready to enforce their rights and claims by force of arms. When their patience with diplomacy is exhausted, dwarves do not hesitate to adopt what they call “aggressive negotiations.”
+
+## Relations 
+Dwarves and orcs have long dwelt in proximity to one another, and share a history of violence as old as both races. Dwarves generally distrust and shun half-orcs. They find elves, gnomes, and halflings to be too frail, flighty, or “pretty” to be worthy of proper respect. It is with humans that dwarves share the strongest link, for humans' industrious nature and hearty appetites come closest to matching those of the dwarven ideal.
+
+## Alignment and Religion 
+Dwarves are driven by honor and tradition. While they are often stereotyped as standoffish, they have a strong sense of friendship and justice, and those who win their trust understand that while they work hard, they play even harder-especially when good ale is involved. Most dwarves are lawful good.
+
+## Adventurers 
+Although dwarven adventurers are rare compared to humans, they can be found in most regions of the world. Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels from racial enemies. Dwarven warfare is often characterized by tunnel fighting and melee combat, and as such most dwarves tend toward classes such as fighters and barbarians.
+
+---
+
+# Naming Traditions
+## Feminine Names
+Dolgrin, Grunyar, Harsk, Kazmuk, Morgrym, Rogar.
+
+## Masculine Names
+Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
+
+```
+```col-md
+**<span style="font-size:1.5em">Traits</span>**<br>
+**Ability Score Increase:** +2 CON<br>
+**Age:** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age o f 50. On average, they live about 350 years.<br>
+**Alignment:** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.<br>
+**Size:** Medium<br>
+**Speed:** 25', not reduced by wearing heavy armor.<br>
+**Languages:** Common and Dwarvish.<br>
+**Parent Race:** <br>
+**Sub Race(s):** Hill Dwarf, Mountain Dwarf
+
+---
+
+**<span style="font-size:1.5em">Traits</span>**<br>
+**Darkvision.**  Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.   
+
+**Dwarven Resilience.**  You have advantage on saving throws against poison, and you have resistance against poison damage.    
+
+**Dwarven Combat Training.**  You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.   
+
+**Tool Proficiency.**  You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.   
+
+**Stonecunning.**  Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.   
+
+```
+````
+---
+*Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

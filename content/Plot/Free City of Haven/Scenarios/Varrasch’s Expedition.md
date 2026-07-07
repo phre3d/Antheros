@@ -1,0 +1,62 @@
+#import #plot  #Free_City_of_Haven
+# Varrasch’s Expedition
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+## Players' Information 
+The word has spread about the [[settlement/Horse Market|Horse Market]] - [[person/Heidel Varrasch|Heidel Varrasch]] is organizing a relatively large group to go capture horses on the Golden Plateau, the only southerly entrance to which is about 350 miles north and slightly west, some 50 miles north of Huy Lankh. The "old man of the Horse Market" is interviewing prospective drovers at his office in the afternoons, and the expedition is slated to leave in about two weeks (it is expected to be gone about six months). It is said he needs men who are good with both horses and weapons, since the tribes of the Plateau frequently object to "their" wild horse herds being raided.
+
+## GM's Notes 
+Varrasch is looking for adventurers with Horsemanship and substantial weapons training. There are currently 23 openings left; 2d3 will be filled each day (exclusive of the players) until all are filled. 
+
+- Base chance of being hired: 15%
+- Add 25% for Horsmanship
+- 15% more for mastery
+- 3% for every plus with weapons (double this for bows)
+- Knowledge of lariat and whip adds 10% for each
+- Ambush Sensing add 35%
+
+Heidel also appreciates people who are confident of their own abilities. If the interviewee is timid or unsure, there is a 50% chance Heidel will turn him down regardless of his adjusted employment chances.
+
+Once the troop has travelled to [[settlement/Huy Lankh]] and gained entrance to the Golden Plateau, the business of catching and breaking horses may begin (rules on driving and capturing horses, and the proper methods for breaking them, will be provided in other books in this series). 
+
+<u>[[person/Enver|Enver]] (#1709)</u>, the trail boss for this expedition, has an Excellent rating, and is willing to teach the tricks of his trade to qualified newcomers (those who do not have Horsemanship at the beginning of the trip will surely have learned it by the end). 
+
+Half of any profits from the sale of the horses after the group's return to Haven will be split among the party, share-and-share-alike.
+```
+
+```col-md
+**Location/Start** 
+- The [[Settlement/Horse Market|Horse Market]]
+
+ **Key Participants** 
+- [[person/Heidel Varrasch|Heidel Varrasch]]
+- [[person/Enver|Enver]]
+
+---
+
+### World Anvil Metadata
+**Id:** 23ea9e01-debb-4055-89b1-05d6630ee5c0<br>
+**Entity Type:** Article / plot<br>
+**Category:** Haven Encounters and Scenarios<br>
+**Tags:** FCoH-plot
+```
+````
+
+
+---
+
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

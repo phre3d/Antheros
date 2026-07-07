@@ -1,0 +1,221 @@
+#import #person #Free_City_of_Haven #the-street-of-harps #npc
+# Eglath Thunukalathi
+
+### 
+
+**Full Name:**  Eglath  Thunukalathi    Horncarver
+
+`````col
+````col-md
+flexGrow=2.5
+===
+# General Info
+A seven foot goliath ex-gladiator who helps [[person/Old Olaf|Old Olaf]] run his inn.
+
+![[DnDLine.png]]
+
+# Physical Description
+## General Physical Condition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+## Personal History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Personality Characteristics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Relationships
+
+## Parents
+
+| Biological | Adoptive |
+|------------|----------|
+|<br> | <br> |
+
+## Siblings
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/eglath-thunukalathi-person)
+
+## Children
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/eglath-thunukalathi-person)
+
+## Ancestors
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/eglath-thunukalathi-person)
+
+````
+````col-md
+
+
+**ID #**  746
+
+
+ **Class/Profession:**  Fighter 5th
+
+
+ **Places Encountered** 
+- [[landmark/Sign of the Jester|Sign of the Jester]]
+- [[settlement/The Street of Harps|The Street of Harps]]
+
+
+---
+![[DnDLine.png]]
+
+
+#### Presentation
+**Eyes:**  <br>
+**Hair:** <br>
+**Pigmentation:** <br>
+**Height:**  <br>
+**Weight:** <br>
+**Sex:** Male<br>
+
+#### Origins
+**Family:** <br>
+**Race:** [[Race/Goliath Race|Goliath Race]]<br>
+
+
+#### Birth
+**Age:**  <br>
+**Date of Birth:**  <br>
+**Place of Birth:** <br>
+
+#### Death
+**Date of Death:**  <br>
+**Place of Death:** <br>
+**Circumstances of Death:** 
+
+#### Current State
+**Alignment:** <br>
+**Known Language(s):**  Giant | Common<br>
+**Current Status:** <br>
+**Current Residence:** <br>
+**Current Location:**  [[Article/The Street of Harps|The Street of Harps]]<br>
+
+#### Affiliations
+**Deity:**  <br>
+**Affiliated Organization:**  <br>
+
+
+
+![[DnDLine.png]]
+
+
+````
+`````
+
+![[DnDLine.png]]
+
+
+
+![[Person/Blocks/Eglath Thunukalathi]]
+
+
+<!-- Standard page footer -->
+![[~attachments/DnDLine.png]]
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

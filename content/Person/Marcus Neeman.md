@@ -1,0 +1,221 @@
+#import #person #Free_City_of_Haven #guild-of-the-loom #the-south-docks
+# Marcus Neeman
+
+### 
+
+**Full Name:**  Marcus  Neeman    
+
+`````col
+````col-md
+flexGrow=2.5
+===
+# General Info
+Neeman is a textile merchant who specializes in tapestries and carpets, many of which are woven in Haven, and some [[person/Imported|Imported]]. He also owns several warehouses in other locations in [[settlement/The Commons|The Commons]], as well as several blocks of row houses and tenements where many of his weavers live. Marcus himself is a small, disagreeable, scrawny old man, known to be extremely tight with money. He has no known family or friends, but is supposed to be very wealthy.
+
+![[DnDLine.png]]
+
+# Physical Description
+## General Physical Condition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+## Personal History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Personality Characteristics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Relationships
+
+## Parents
+
+| Biological | Adoptive |
+|------------|----------|
+|<br> | <br> |
+
+## Siblings
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/marcus-neeman-person)
+
+## Children
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/marcus-neeman-person)
+
+## Ancestors
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/marcus-neeman-person)
+
+````
+````col-md
+
+
+**ID #**  280
+
+
+ **Class/Profession:**  Trader 4th
+
+
+ **Places Encountered** 
+- [[landmark/Warehouse of Marcus Neeman|Warehouse of Marcus Neeman]]
+- [[settlement/The South Docks|The South Docks]]
+
+
+---
+![[DnDLine.png]]
+
+
+#### Presentation
+**Eyes:**  <br>
+**Hair:** <br>
+**Pigmentation:** <br>
+**Height:**  <br>
+**Weight:** <br>
+**Sex:** Male<br>
+
+#### Origins
+**Family:** <br>
+**Race:** [[Race/Human Race|Human Race]]<br>
+
+
+#### Birth
+**Age:**  <br>
+**Date of Birth:**  <br>
+**Place of Birth:** <br>
+
+#### Death
+**Date of Death:**  <br>
+**Place of Death:** <br>
+**Circumstances of Death:** 
+
+#### Current State
+**Alignment:** <br>
+**Known Language(s):**  Common | Choose 1<br>
+**Current Status:** <br>
+**Current Residence:** <br>
+**Current Location:**  [[Article/The South Docks|The South Docks]]<br>
+
+#### Affiliations
+**Deity:**  <br>
+**Affiliated Organization:**  <br>
+
+
+
+![[DnDLine.png]]
+
+
+````
+`````
+
+![[DnDLine.png]]
+
+
+
+![[Person/Blocks/Marcus Neeman]]
+
+
+<!-- Standard page footer -->
+![[~attachments/DnDLine.png]]
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

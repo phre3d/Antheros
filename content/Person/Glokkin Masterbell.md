@@ -1,0 +1,223 @@
+#import #person #Free_City_of_Haven #guild-of-metalsmiths #the-street-of-harps #npc
+# Glokkin Masterbell
+
+### 
+
+**Full Name:**  Glokkin  Masterbell    
+
+`````col
+````col-md
+flexGrow=2.5
+===
+# General Info
+Black bearded, well-muscled, and perpetually scowling. He is notoriously hard to please, whether it be the tuning of a bell or the way the shop is swept by his apprentices. It is said that the only time he ever smiles is when he hears the Tower bells ring the changes.
+
+![[DnDLine.png]]
+
+# Physical Description
+## General Physical Condition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+## Personal History
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Personality Characteristics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Relationships
+
+## Parents
+
+| Biological | Adoptive |
+|------------|----------|
+|<br> | <br> |
+
+## Siblings
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/glokkin-masterbell-person)
+
+## Children
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/glokkin-masterbell-person)
+
+## Ancestors
+**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/glokkin-masterbell-person)
+
+````
+````col-md
+
+
+**ID #**  732
+
+
+ **Class/Profession:**  Merchant 3rd
+
+
+ **Places Encountered** 
+- [[landmark/Bell Foundry|Bell Foundry]]
+- [[settlement/The Street of Harps|The Street of Harps]]
+
+
+ **Purse:**   gp
+
+---
+![[DnDLine.png]]
+
+
+#### Presentation
+**Eyes:**  <br>
+**Hair:** <br>
+**Pigmentation:** <br>
+**Height:**  <br>
+**Weight:** <br>
+**Sex:** Male<br>
+
+#### Origins
+**Family:** <br>
+**Race:** [[Race/Dwarven Race|Dwarven Race]]<br>
+
+
+#### Birth
+**Age:**  <br>
+**Date of Birth:**  <br>
+**Place of Birth:** <br>
+
+#### Death
+**Date of Death:**  <br>
+**Place of Death:** <br>
+**Circumstances of Death:** 
+
+#### Current State
+**Alignment:** <br>
+**Known Language(s):**  Dwarvish |  Common<br>
+**Current Status:** <br>
+**Current Residence:** <br>
+**Current Location:**  [[Article/The Street of Harps|The Street of Harps]]<br>
+
+#### Affiliations
+**Deity:**  <br>
+**Affiliated Organization:**  <br>
+
+
+
+![[DnDLine.png]]
+
+
+````
+`````
+
+![[DnDLine.png]]
+
+
+
+![[Person/Blocks/Glokkin Masterbell]]
+
+
+<!-- Standard page footer -->
+![[~attachments/DnDLine.png]]
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

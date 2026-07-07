@@ -1,0 +1,60 @@
+#import #profession 
+# Herbalist
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+An Herbalist is an expert at identifying plants/fungi and combining them to produce mystical effects. Their output can be anything from herbal teas, to remedys and poultices, to powerful potions.
+
+Some  [[profession/Alchemist|Alchemists]]  make potions  similar to those of an herbalist but health related potions are unique to herblaists.
+
+There are six essences: Air, Earth, Fire, Life, Shadow, and Water. Each brings unique properties to the mixture.
+
+![[DnDLine.png]]
+
+# Operations
+## Tools
+The primary tool of the herbalist is the herbalism kit. This kit includes pouches to store herbs, clippers and leather   gloves for collecting plants, a mortar and pestle, and several   glass jars. 
+
+Proficiency with this kit lets you to add your   proficiency bonus to any ability checks you make to create a   range of natural remedies and potions, including common   antitoxins and all rarities of potion of healing. Also,   proficiency with this kit gives you advantage on any ability   checks you make to locate or identify plants.
+
+## Materials
+
+## Workplace
+
+## Provided Services
+
+## Hazards
+
+--- end-column ---
+
+**Guild:** [[Organization/Guilds/Brotherhood of the Amalgam|Brotherhood of the Amalgam]]
+
+---
+
+### World Anvil Metadata
+**Id:** 1848d3a7-6f83-44af-a930-7fd4c9e351d0<br>
+**Entity Type:** Article / profession<br>
+**Category:** Professions<br>
+**Tags:** profession, class
+
+--- end-multi-column
+
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+
+--- end-column ---
+
+--- end-multi-column 

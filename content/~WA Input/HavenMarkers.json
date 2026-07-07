@@ -1,0 +1,5284 @@
+{
+    "markers": [{
+            "name": "Acadamie of Classical Dance",
+            "map": "Haven",
+            "fCoords": "2255, 4834",
+            "waCoords": "--, --",
+            "leaflet": "2397.636,  2301.02",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: G07 (MG)",
+            "type": "Dance",
+            "description": ""
+        }, {
+            "name": "Academy Armory",
+            "map": "Haven",
+            "fCoords": "1251, 5359",
+            "waCoords": "1244, 1820",
+            "leaflet": "1861.921,  1276.531",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: D06 (OP)",
+            "type": "City Guard",
+            "description": "Part of the City Watch Academy"
+        }, {
+            "name": "Academy Barracks",
+            "map": "Haven",
+            "fCoords": "1195, 5250",
+            "waCoords": "1185, 1912",
+            "leaflet": "1973.146,  1219.388",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: D06 (OO)",
+            "type": "City Guard",
+            "description": "Part of the City Watch Academy"
+        }, {
+            "name": "Academy Training Field",
+            "map": "Haven",
+            "fCoords": "1352, 5271",
+            "waCoords": "1336, 1880",
+            "leaflet": "1951.717,  1379.592",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: D06 (OQ)",
+            "type": "City Guard",
+            "description": "Part of the City Watch Academy"
+        }, {
+            "name": "Alekhine's Boarding House",
+            "map": "Haven",
+            "fCoords": "6237, 5348",
+            "waCoords": "--, --",
+            "leaflet": "1873.146,  6364.286",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U06 (AQ)",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "Ambrosia",
+            "map": "Haven",
+            "fCoords": "3939, 5371",
+            "waCoords": "--, --",
+            "leaflet": "1849.677,  4019.388",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M06 (DW)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Americus - Healer",
+            "map": "Haven",
+            "fCoords": "2321, 998",
+            "waCoords": "--, --",
+            "leaflet": "6311.921,  2368.367",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: H20 (CN)",
+            "type": "Medical",
+            "description": ""
+        }, {
+            "name": "Andre de Monteville's Spice Emporium",
+            "map": "Haven",
+            "fCoords": "6488, 5064",
+            "waCoords": "--, --",
+            "leaflet": "2162.942,  6620.408",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: V07 (BR)",
+            "type": "Spices",
+            "description": ""
+        }, {
+            "name": "Anise Thyme's Spice Rack",
+            "map": "Haven",
+            "fCoords": "2238, 995",
+            "waCoords": "--, --",
+            "leaflet": "6314.983,  2283.673",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CM)",
+            "type": "Spices",
+            "description": ""
+        }, {
+            "name": "Apex Metalworks",
+            "map": "Haven",
+            "fCoords": "751, 2991",
+            "waCoords": "--, --",
+            "leaflet": "4278.248,  766.327",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B13 (IF)",
+            "type": "Metalwork",
+            "description": ""
+        }, {
+            "name": "Arkmonides - Scribe",
+            "map": "Haven",
+            "fCoords": "2229, 1030",
+            "waCoords": "--, --",
+            "leaflet": "6279.268,  2274.49",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: G20 (CG)",
+            "type": "Scribe",
+            "description": ""
+        }, {
+            "name": "Avrodel's Wine Shop",
+            "map": "Haven",
+            "fCoords": "4020, 5405",
+            "waCoords": "--, --",
+            "leaflet": "1814.983,  4102.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M05 (DT)",
+            "type": "Vintner",
+            "description": ""
+        }, {
+            "name": "Bagohas - Wainwright",
+            "map": "Haven",
+            "fCoords": "3017, 4524",
+            "waCoords": "--, --",
+            "leaflet": "2713.962,  3078.571",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: J08 (OB)",
+            "type": "Wainwright",
+            "description": ""
+        }, {
+            "name": "Bambur - Tobacconist",
+            "map": "Haven",
+            "fCoords": "464, 3106",
+            "waCoords": "--, --",
+            "leaflet": "4160.901,  473.469",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A13 (HN)",
+            "type": "Tobacco",
+            "description": ""
+        }, {
+            "name": "Baraggio's Warehouse and Yard",
+            "map": "Haven",
+            "fCoords": "1344, 4755",
+            "waCoords": "--, --",
+            "leaflet": "2478.248,  1371.429",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: D08 (ON)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Bell Foundry",
+            "map": "Haven",
+            "fCoords": "2271, 4886",
+            "waCoords": "--, --",
+            "leaflet": "2344.574,  2317.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G07 (MB)",
+            "type": "Foundry",
+            "description": ""
+        }, {
+            "name": "Belossan - Locksmith",
+            "map": "Haven",
+            "fCoords": "3430, 3764",
+            "waCoords": "--, --",
+            "leaflet": "3489.472,  3500.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K11 (JO)",
+            "type": "Locksmith",
+            "description": ""
+        }, {
+            "name": "Bendelhoff's Supplies",
+            "map": "Haven",
+            "fCoords": "2369, 5698",
+            "waCoords": "--, --",
+            "leaflet": "1516.003,  2417.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H04 (QM)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "Bessie's Breadbox",
+            "map": "Haven",
+            "fCoords": "1033, 3498",
+            "waCoords": "--, --",
+            "leaflet": "3760.901,  1054.082",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C12 (LG)",
+            "type": "Baker",
+            "description": ""
+        }, {
+            "name": "Bethli's Iron Works",
+            "map": "Haven",
+            "fCoords": "507, 2507",
+            "waCoords": "--, --",
+            "leaflet": "4772.126,  517.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A15 (II)",
+            "type": "Foundry",
+            "description": ""
+        }, {
+            "name": "Bettina's",
+            "map": "Haven",
+            "fCoords": "4396, 4761",
+            "waCoords": "--, --",
+            "leaflet": "2472.126,  4485.714",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: O08 (DN)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Bidurum - Chartmaker",
+            "map": "Haven",
+            "fCoords": "6118, 5592",
+            "waCoords": "--, --",
+            "leaflet": "1624.166,  6242.857",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U05 (AI)",
+            "type": "Nautical Supplies",
+            "description": ""
+        }, {
+            "name": "Black Padre's",
+            "map": "Haven",
+            "fCoords": "6176, 5137",
+            "waCoords": "--, --",
+            "leaflet": "2088.452,  6302.041",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U06 (AY)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Blackbourne Family Residence",
+            "map": "Haven",
+            "fCoords": "2239, 1670",
+            "waCoords": "--, --",
+            "leaflet": "5626.207,  2284.694",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: G18 (CY)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Blackbourne Warehouse",
+            "map": "Haven",
+            "fCoords": "6169, 5052",
+            "waCoords": "--, --",
+            "leaflet": "2175.187,  6294.898",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: U07 (BE)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Boarshead Tavern",
+            "map": "Haven",
+            "fCoords": "415, 3600",
+            "waCoords": "--, --",
+            "leaflet": "3656.819,  423.469",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: A11 (KI)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Bolihank's Feed and Grain",
+            "map": "Haven",
+            "fCoords": "896, 4940",
+            "waCoords": "--, --",
+            "leaflet": "2289.472,  914.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C07 (QA)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Bonanza Transport",
+            "map": "Haven",
+            "fCoords": "3280, 4539",
+            "waCoords": "--, --",
+            "leaflet": "2698.656,  3346.939",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: K08 (RB)",
+            "type": "Courier",
+            "description": ""
+        }, {
+            "name": "Borin - Clockmaker",
+            "map": "Haven",
+            "fCoords": "613, 3204",
+            "waCoords": "--, --",
+            "leaflet": "4060.901,  625.51",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B13 (KB)",
+            "type": "Timepieces",
+            "description": ""
+        }, {
+            "name": "Boutique Lane",
+            "map": "Haven",
+            "fCoords": "2349, 1115",
+            "waCoords": "2315, 6113",
+            "leaflet": "6192.534,  2396.939",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: H20 (SH)",
+            "type": "Street",
+            "description": "The main, and only, shopping area in the Heights. Several high-end shops can be found here"
+        }, {
+            "name": "Brannigan's Express",
+            "map": "Haven",
+            "fCoords": "1371, 4609",
+            "waCoords": "--, --",
+            "leaflet": "2627.228,  1398.98",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: D08 (QC)",
+            "type": "Courier",
+            "description": ""
+        }, {
+            "name": "Brisket Butcher Shop",
+            "map": "Haven",
+            "fCoords": "6814, 4875",
+            "waCoords": "--, --",
+            "leaflet": "2355.799,  6953.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: W07 (CB)",
+            "type": "Butcher",
+            "description": ""
+        }, {
+            "name": "Brodsky's",
+            "map": "Haven",
+            "fCoords": "3047, 5528",
+            "waCoords": "1022, 1037",
+            "leaflet": "1689.472,  3109.184",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: J05 (QV)",
+            "type": "Dairy",
+            "description": ""
+        }, {
+            "name": "Bucklander's Import Emporium",
+            "map": "Haven",
+            "fCoords": "1534, 3080",
+            "waCoords": "--, --",
+            "leaflet": "4187.432,  1565.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E13 (IP)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "Bull of Anathor",
+            "map": "Haven",
+            "fCoords": "3778, 4374",
+            "waCoords": "--, --",
+            "leaflet": "2867.023,  3855.102",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M09 (SK)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Burbas 'the Finder' - Locating Service",
+            "map": "Haven",
+            "fCoords": "476, 965",
+            "waCoords": "476, 843",
+            "leaflet": "6345.595,  485.714",
+            "pinType": "Service",
+            "mapRef": "near fountain",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Burdee's Mill",
+            "map": "Haven",
+            "fCoords": "1715, 2960",
+            "waCoords": "--, --",
+            "leaflet": "4309.881,  1750.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E14 (KG)",
+            "type": "Mill",
+            "description": ""
+        }, {
+            "name": "Burgallo's Apothecary",
+            "map": "Haven",
+            "fCoords": "3858, 4941",
+            "waCoords": "--, --",
+            "leaflet": "2288.452,  3936.735",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M07 (DL)",
+            "type": "Apothecary",
+            "description": ""
+        }, {
+            "name": "Buteo Condor - Hawk Trainer",
+            "map": "Haven",
+            "fCoords": "740, 3625",
+            "waCoords": "--, --",
+            "leaflet": "3631.309,  755.102",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: B11 (KU)",
+            "type": "Animal Trainer",
+            "description": ""
+        }, {
+            "name": "Cab and Trolley Barns",
+            "map": "Haven",
+            "fCoords": "1263, 4518",
+            "waCoords": "1251, 2666",
+            "leaflet": "2720.085,  1288.776",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: D08 (PI)",
+            "type": "Taxi/Bus",
+            "description": "Home of the centaur trolley system"
+        }, {
+            "name": "Cacodyl - Potioner",
+            "map": "Haven",
+            "fCoords": "3763, 6104",
+            "waCoords": "--, --",
+            "leaflet": "1101.717,  3839.796",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FA)",
+            "type": "Potions",
+            "description": ""
+        }, {
+            "name": "Caddis Fly's Rooms",
+            "map": "Haven",
+            "fCoords": "3715, 6110",
+            "waCoords": "--, --",
+            "leaflet": "1095.595,  3790.816",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: L03 (EY)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Caradallo's Storage",
+            "map": "Haven",
+            "fCoords": "6317, 5249",
+            "waCoords": "--, --",
+            "leaflet": "1974.166,  6445.918",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: U06 (BA)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Caravan Station",
+            "map": "Haven",
+            "fCoords": "6079, 1804",
+            "waCoords": "6076, 5372",
+            "leaflet": "5489.472,  6203.061",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: U17 (RU)",
+            "type": "City Guard",
+            "description": "Station of the City Watch"
+        }, {
+            "name": "Carillon Tower",
+            "map": "Haven",
+            "fCoords": "2253, 4662",
+            "waCoords": "--, --",
+            "leaflet": "2573.146,  2298.98",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: G08 (ML)",
+            "type": "Monument",
+            "description": ""
+        }, {
+            "name": "Carpeters Ltd.",
+            "map": "Haven",
+            "fCoords": "3369, 3815",
+            "waCoords": "--, --",
+            "leaflet": "3437.432,  3437.755",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K11 (JM)",
+            "type": "Textiles",
+            "description": ""
+        }, {
+            "name": "Cellini's Metalworks",
+            "map": "Haven",
+            "fCoords": "1974, 2357",
+            "waCoords": "--, --",
+            "leaflet": "4925.187,  2014.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: F16 (RR)",
+            "type": "Foundry",
+            "description": ""
+        }, {
+            "name": "Centauri Transport Company",
+            "map": "Haven",
+            "fCoords": "791, 4212",
+            "waCoords": "--, --",
+            "leaflet": "3032.33,  807.143",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: B09 (LM)",
+            "type": "Courier",
+            "description": ""
+        }, {
+            "name": "Choirmaster's House",
+            "map": "Haven",
+            "fCoords": "2366, 4747",
+            "waCoords": "--, --",
+            "leaflet": "2486.411,  2414.286",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: H08 (MI)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "Circus Park",
+            "map": "Haven",
+            "fCoords": "2614, 4876",
+            "waCoords": "2640, 2297",
+            "leaflet": "2354.779,  2667.347",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: I07 (MH)",
+            "type": "Park",
+            "description": "Often used y circuses when in town"
+        }, {
+            "name": "City of the Dead",
+            "map": "Haven",
+            "fCoords": "3413, 1537",
+            "waCoords": "--, --",
+            "leaflet": "5761.921,  3482.653",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: K18 (UD)",
+            "type": "Park",
+            "description": ""
+        }, {
+            "name": "Clanahan's Pub",
+            "map": "Haven",
+            "fCoords": "4823, 5070",
+            "waCoords": "--, --",
+            "leaflet": "2156.819,  4921.429",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: P07 (EP)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Cockleberry's Cabinets",
+            "map": "Haven",
+            "fCoords": "976, 3531",
+            "waCoords": "--, --",
+            "leaflet": "3727.228,  995.918",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C12 (LF)",
+            "type": "Carpenter",
+            "description": ""
+        }, {
+            "name": "College of Common Law",
+            "map": "Haven",
+            "fCoords": "1907, 4131",
+            "waCoords": "1745, 3109",
+            "leaflet": "3114.983,  1945.918",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F10 (LT)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "College of Natural Philosophy",
+            "map": "Haven",
+            "fCoords": "1816, 4055",
+            "waCoords": "1812, 3122",
+            "leaflet": "3192.534,  1853.061",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F10 (LR)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "College of Physical Naturalism",
+            "map": "Haven",
+            "fCoords": "1991, 4018",
+            "waCoords": "1993, 3150",
+            "leaflet": "3230.289,  2031.633",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F10 (JQ)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "College of Rhetoric",
+            "map": "Haven",
+            "fCoords": "1773, 4002",
+            "waCoords": "1771, 3177",
+            "leaflet": "3246.615,  1809.184",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F10 (LS)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "College of the Mystic Arts",
+            "map": "Haven",
+            "fCoords": "2119, 4211",
+            "waCoords": "2114, 2968",
+            "leaflet": "3033.35,  2162.245",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: G09 (NK)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "Composer's Studio",
+            "map": "Haven",
+            "fCoords": "2430, 4831",
+            "waCoords": "--, --",
+            "leaflet": "2400.697,  2479.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H07 (MU)",
+            "type": "Music",
+            "description": ""
+        }, {
+            "name": "Condemned Building",
+            "map": "Haven",
+            "fCoords": "3413, 3776",
+            "waCoords": "--, --",
+            "leaflet": "3477.228,  3482.653",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: K11 (JL)",
+            "type": "Ruin",
+            "description": ""
+        }, {
+            "name": "Coppergate Barracks",
+            "map": "Haven",
+            "fCoords": "6862, 4004",
+            "waCoords": "6863, 3174",
+            "leaflet": "3244.574,  7002.041",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: W10 (RV)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Corridor Barracks",
+            "map": "Haven",
+            "fCoords": "3497, 4101",
+            "waCoords": "3493, 3067",
+            "leaflet": "3145.595,  3568.367",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: L10 (OF)",
+            "type": "City Guard",
+            "description": "A City Watch Station"
+        }, {
+            "name": "Courts",
+            "map": "Haven",
+            "fCoords": "4308, 2253",
+            "waCoords": "4302, 4933",
+            "leaflet": "5031.309,  4395.918",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: N16 (HH)",
+            "type": "Courthouse",
+            "description": "The courthouse"
+        }, {
+            "name": "Cowry Keltus - Investigations",
+            "map": "Haven",
+            "fCoords": "4423, 2421",
+            "waCoords": "--, --",
+            "leaflet": "4859.881,  4513.265",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: O15 (GN)",
+            "type": "Investigations",
+            "description": ""
+        }, {
+            "name": "Culvarran Ltd. - Storage",
+            "map": "Haven",
+            "fCoords": "6122, 4739",
+            "waCoords": "--, --",
+            "leaflet": "2494.574,  6246.939",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: U08 (BI)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Cust Way Crotofiran Mission",
+            "map": "Haven",
+            "fCoords": "3901, 6112",
+            "waCoords": "--, --",
+            "leaflet": "1093.554,  3980.612",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: M03 (EV)",
+            "type": "Mission",
+            "description": ""
+        }, {
+            "name": "Dalbert's Apothecary",
+            "map": "Haven",
+            "fCoords": "6502, 4772",
+            "waCoords": "--, --",
+            "leaflet": "2460.901,  6634.694",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: V08 (BL)",
+            "type": "Apothecary",
+            "description": ""
+        }, {
+            "name": "Damiano's Dwarven Work",
+            "map": "Haven",
+            "fCoords": "4089, 3413",
+            "waCoords": "--, --",
+            "leaflet": "3847.636,  4172.449",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: N12 (RO)",
+            "type": "Toymaker",
+            "description": ""
+        }, {
+            "name": "Dancing Green",
+            "map": "Haven",
+            "fCoords": "1264, 3808",
+            "waCoords": "--, --",
+            "leaflet": "3444.574,  1289.796",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: D11 (KV)",
+            "type": "Park",
+            "description": ""
+        }, {
+            "name": "Darius and Sons - Saddlers",
+            "map": "Haven",
+            "fCoords": "711, 4351",
+            "waCoords": "--, --",
+            "leaflet": "2890.493,  725.51",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B09 (LN)",
+            "type": "Saddler",
+            "description": ""
+        }, {
+            "name": "de Kammeron Family Residence",
+            "map": "Haven",
+            "fCoords": "1845, 1411",
+            "waCoords": "--, --",
+            "leaflet": "5890.493,  1882.653",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: F19 (DA)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "de la Riis Family Residence",
+            "map": "Haven",
+            "fCoords": "2751, 1552",
+            "waCoords": "--, --",
+            "leaflet": "5746.615,  2807.143",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: I18 (CU)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Delmarva's Fine Eggs and Poultry",
+            "map": "Haven",
+            "fCoords": "1793, 5055",
+            "waCoords": "--, --",
+            "leaflet": "2172.126,  1829.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: F07 (QY)",
+            "type": "Poultry",
+            "description": ""
+        }, {
+            "name": "D'Lormaii Warehouses",
+            "map": "Haven",
+            "fCoords": "6313, 4831",
+            "waCoords": "--, --",
+            "leaflet": "2400.697,  6441.837",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: U07 (BQ)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Dockside Warehouse Services",
+            "map": "Haven",
+            "fCoords": "6507, 5496",
+            "waCoords": "--, --",
+            "leaflet": "1722.126,  6639.796",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: V05 (BB)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Dortmund's Furniture Compound",
+            "map": "Haven",
+            "fCoords": "3430, 4842",
+            "waCoords": "--, --",
+            "leaflet": "2389.472,  3500.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K07 (OJ)",
+            "type": "Carpenter",
+            "description": ""
+        }, {
+            "name": "Dradd Plen-or - Healer's House",
+            "map": "Haven",
+            "fCoords": "3969, 6021",
+            "waCoords": "--, --",
+            "leaflet": "1186.411,  4050.",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: M03 (FN)",
+            "type": "Medical",
+            "description": ""
+        }, {
+            "name": "Drum-makers",
+            "map": "Haven",
+            "fCoords": "2316, 4890",
+            "waCoords": "--, --",
+            "leaflet": "2340.493,  2363.265",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H07 (MK)",
+            "type": "Musical Instruments",
+            "description": ""
+        }, {
+            "name": "Dublin Lumber Yards",
+            "map": "Haven",
+            "fCoords": "4739, 4861",
+            "waCoords": "--, --",
+            "leaflet": "2370.085,  4835.714",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: P07 (EQ)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Duhm's Rooms",
+            "map": "Haven",
+            "fCoords": "6664, 3496",
+            "waCoords": "--, --",
+            "leaflet": "3762.942,  6800.",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: W12 (AD)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Dunk's Tavern",
+            "map": "Haven",
+            "fCoords": "1385, 4978",
+            "waCoords": "--, --",
+            "leaflet": "2250.697,  1413.265",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: D07 (OM)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Dunnigan's Pawnshop",
+            "map": "Haven",
+            "fCoords": "2970, 5886",
+            "waCoords": "--, --",
+            "leaflet": "1324.166,  3030.612",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: J04 (QR)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "Dunstan's - Pipe Weed",
+            "map": "Haven",
+            "fCoords": "5630, 2551",
+            "waCoords": "--, --",
+            "leaflet": "4727.228,  5744.898",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: S15 (GO)",
+            "type": "Tobacco",
+            "description": ""
+        }, {
+            "name": "Durbinmeyer's Mill",
+            "map": "Haven",
+            "fCoords": "4817, 4988",
+            "waCoords": "--, --",
+            "leaflet": "2240.493,  4915.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P07 (EK)",
+            "type": "Mill",
+            "description": ""
+        }, {
+            "name": "Durki's Cement Mill",
+            "map": "Haven",
+            "fCoords": "4651, 4682",
+            "waCoords": "--, --",
+            "leaflet": "2552.738,  4745.918",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: P08 (EI)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Dynasty Potters",
+            "map": "Haven",
+            "fCoords": "6784, 4972",
+            "waCoords": "--, --",
+            "leaflet": "2256.819,  6922.449",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: W07 (BX)",
+            "type": "Potter",
+            "description": ""
+        }, {
+            "name": "East Street Bakery",
+            "map": "Haven",
+            "fCoords": "1628, 3238",
+            "waCoords": "--, --",
+            "leaflet": "4026.207,  1661.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E13 (IW)",
+            "type": "Baker",
+            "description": ""
+        }, {
+            "name": "Eldri - Weaponsmaster",
+            "map": "Haven",
+            "fCoords": "548, 3210",
+            "waCoords": "--, --",
+            "leaflet": "4054.779,  559.184",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: A13 (HY)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "Ellerie Woolgather - seamstress",
+            "map": "Haven",
+            "fCoords": "942, 3634",
+            "waCoords": "--, --",
+            "leaflet": "3622.126,  961.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C11 (LJ)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Elsi Klukoo - Watchmaker",
+            "map": "Haven",
+            "fCoords": "2320, 1040",
+            "waCoords": "--, --",
+            "leaflet": "6269.064,  2367.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H20 (CR)",
+            "type": "Timepieces",
+            "description": ""
+        }, {
+            "name": "Elven Bowyer",
+            "map": "Haven",
+            "fCoords": "2121, 4027",
+            "waCoords": "--, --",
+            "leaflet": "3221.105,  2164.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G10 (JX)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Elvish Herbs and Spices",
+            "map": "Haven",
+            "fCoords": "1212, 3749",
+            "waCoords": "--, --",
+            "leaflet": "3504.779,  1236.735",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: D11 (LA)",
+            "type": "Spices",
+            "description": ""
+        }, {
+            "name": "Emmetik - Greengrocer",
+            "map": "Haven",
+            "fCoords": "3631, 6105",
+            "waCoords": "--, --",
+            "leaflet": "1100.697,  3705.102",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L03 (EW)",
+            "type": "Greengrocer",
+            "description": ""
+        }, {
+            "name": "Emperor Clothiers",
+            "map": "Haven",
+            "fCoords": "2273, 963",
+            "waCoords": "--, --",
+            "leaflet": "6347.636,  2319.388",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CK)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Empty Shop - Ferdinand's",
+            "map": "Haven",
+            "fCoords": "2322, 4348",
+            "waCoords": "--, --",
+            "leaflet": "2893.554,  2369.388",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: H09 (NR)",
+            "type": "Other Landmark",
+            "description": ""
+        }, {
+            "name": "Enchantments Ltd.",
+            "map": "Haven",
+            "fCoords": "2412, 4471",
+            "waCoords": "--, --",
+            "leaflet": "2768.044,  2461.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H09 (NU)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Eng's Livery and Smithy",
+            "map": "Haven",
+            "fCoords": "3900, 5065",
+            "waCoords": "--, --",
+            "leaflet": "2161.921,  3979.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M07 (DP)",
+            "type": "Livery",
+            "description": ""
+        }, {
+            "name": "Eye of Newt",
+            "map": "Haven",
+            "fCoords": "2192, 4272",
+            "waCoords": "--, --",
+            "leaflet": "2971.105,  2236.735",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G09 (NH)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Falstaff Family Residence",
+            "map": "Haven",
+            "fCoords": "1975, 1343",
+            "waCoords": "--, --",
+            "leaflet": "5959.881,  2015.306",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: F19 (DB)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Fandral's Weapon Shop",
+            "map": "Haven",
+            "fCoords": "3825, 6148",
+            "waCoords": "--, --",
+            "leaflet": "1056.819,  3903.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FF)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Farspeakers",
+            "map": "Haven",
+            "fCoords": "2219, 4345",
+            "waCoords": "--, --",
+            "leaflet": "2896.615,  2264.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G09 (NE)",
+            "type": "Messages",
+            "description": ""
+        }, {
+            "name": "Fawset Street Market",
+            "map": "Haven",
+            "fCoords": "6854, 4914",
+            "waCoords": "--, --",
+            "leaflet": "2316.003,  6993.878",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: W07 (BU)",
+            "type": "Victualer",
+            "description": ""
+        }, {
+            "name": "Feddy Rhal Courier Service",
+            "map": "Haven",
+            "fCoords": "1354, 4981",
+            "waCoords": "--, --",
+            "leaflet": "2247.636,  1381.633",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: D07 (RC)",
+            "type": "Courier",
+            "description": ""
+        }, {
+            "name": "Fine Silks and Fabrics",
+            "map": "Haven",
+            "fCoords": "3513, 3675",
+            "waCoords": "--, --",
+            "leaflet": "3580.289,  3584.694",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L11 (JB)",
+            "type": "Textiles",
+            "description": ""
+        }, {
+            "name": "Fisherman's Cay",
+            "map": "Haven",
+            "fCoords": "5238, 5947",
+            "waCoords": "--, --",
+            "leaflet": "1261.921,  5344.898",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: R04 (EO)",
+            "type": "Other Landmark",
+            "description": ""
+        }, {
+            "name": "Flicker's Pawnshop",
+            "map": "Haven",
+            "fCoords": "3783, 6107",
+            "waCoords": "--, --",
+            "leaflet": "1098.656,  3860.204",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FB)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "Florina's Flutes",
+            "map": "Haven",
+            "fCoords": "2314, 4771",
+            "waCoords": "--, --",
+            "leaflet": "2461.921,  2361.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H08 (MA)",
+            "type": "Musical Instruments",
+            "description": ""
+        }, {
+            "name": "Fountain of Porpidolphus",
+            "map": "Haven",
+            "fCoords": "2919, 5577",
+            "waCoords": "--, --",
+            "leaflet": "1639.472,  2978.571",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: J05 (QU)",
+            "type": "Fountain",
+            "description": ""
+        }, {
+            "name": "Franklin's Odds Bodkins",
+            "map": "Haven",
+            "fCoords": "6756, 4971",
+            "waCoords": "--, --",
+            "leaflet": "2257.84,  6893.878",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: W07 (BY)",
+            "type": "Dry Goods",
+            "description": ""
+        }, {
+            "name": "Free Companies House",
+            "map": "Haven",
+            "fCoords": "3987, 4514",
+            "waCoords": "--, --",
+            "leaflet": "2724.166,  4068.367",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: M08 (OE)",
+            "type": "Guildhouse",
+            "description": ""
+        }, {
+            "name": "Frod's Theater",
+            "map": "Haven",
+            "fCoords": "3917, 4802",
+            "waCoords": "3928, 2376",
+            "leaflet": "2430.289,  3996.939",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M07 (ED)",
+            "type": "Theatre",
+            "description": "Best theatre for live performances."
+        }, {
+            "name": "Frogal's",
+            "map": "Haven",
+            "fCoords": "2793, 5598",
+            "waCoords": "44, 937",
+            "leaflet": "1618.044,  2850.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: I05 (OV)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "Gallows Hill",
+            "map": "Haven",
+            "fCoords": "2050, 6188",
+            "waCoords": "--, --",
+            "leaflet": "1016.003,  2091.837",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: G03 (TA)",
+            "type": "Other Landmark",
+            "description": ""
+        }, {
+            "name": "Gallows Hill Tavern",
+            "map": "Haven",
+            "fCoords": "2379, 5933",
+            "waCoords": "--, --",
+            "leaflet": "1276.207,  2427.551",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: H04 (QO)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Gandi's Goods",
+            "map": "Haven",
+            "fCoords": "2106, 3994",
+            "waCoords": "--, --",
+            "leaflet": "3254.779,  2148.98",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G10 (JY)",
+            "type": "Dry Goods",
+            "description": ""
+        }, {
+            "name": "Garduccio's",
+            "map": "Haven",
+            "fCoords": "4843, 2143",
+            "waCoords": "4820, 5016",
+            "leaflet": "5143.554,  4941.837",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: P16 (GB)",
+            "type": "Tavern",
+            "description": "One of the best dining establishments in the city"
+        }, {
+            "name": "Geraldine's Rooms",
+            "map": "Haven",
+            "fCoords": "6729, 4861",
+            "waCoords": "--, --",
+            "leaflet": "2370.085,  6866.327",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: W07 (BT)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Geronde Family Mausoleum",
+            "map": "Haven",
+            "fCoords": "3550, 1450",
+            "waCoords": "--, --",
+            "leaflet": "5850.697,  3622.449",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: L19",
+            "type": "Other Landmark",
+            "description": ""
+        }, {
+            "name": "Geronde Family Residence",
+            "map": "Haven",
+            "fCoords": "2800, 850",
+            "waCoords": "--, --",
+            "leaflet": "6462.942,  2857.143",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: I21 (DE)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Geronio's Games",
+            "map": "Haven",
+            "fCoords": "2036, 4840",
+            "waCoords": "--, --",
+            "leaflet": "2391.513,  2077.551",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: G07 (MM)",
+            "type": "Theatre",
+            "description": ""
+        }, {
+            "name": "Gip's Clothing",
+            "map": "Haven",
+            "fCoords": "5714, 3455",
+            "waCoords": "--, --",
+            "leaflet": "3804.779,  5830.612",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: S12 (AB)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Gladshaw's Aviary",
+            "map": "Haven",
+            "fCoords": "2406, 1199",
+            "waCoords": "--, --",
+            "leaflet": "6106.819,  2455.102",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: H19 (CT)",
+            "type": "Animal Trainer",
+            "description": ""
+        }, {
+            "name": "Golbur - Gem Appraiser",
+            "map": "Haven",
+            "fCoords": "885, 3109",
+            "waCoords": "--, --",
+            "leaflet": "4157.84,  903.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C13 (HU)",
+            "type": "Jeweler",
+            "description": ""
+        }, {
+            "name": "Gold Alley",
+            "map": "Haven",
+            "fCoords": "5043, 2055",
+            "waCoords": "5052, 5124",
+            "leaflet": "5233.35,  5145.918",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: Q17 (SM)",
+            "type": "Street",
+            "description": "Home to several jewelers & moneylenders"
+        }, {
+            "name": "Goodreau's Market",
+            "map": "Haven",
+            "fCoords": "2213, 998",
+            "waCoords": "--, --",
+            "leaflet": "6311.921,  2258.163",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CJ)",
+            "type": "Victualer",
+            "description": ""
+        }, {
+            "name": "Grande Salle d'Armes",
+            "map": "Haven",
+            "fCoords": "3004, 5888",
+            "waCoords": "--, --",
+            "leaflet": "1322.126,  3065.306",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: J04 (QQ)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "Greataxe Printing",
+            "map": "Haven",
+            "fCoords": "421, 2891",
+            "waCoords": "--, --",
+            "leaflet": "4380.289,  429.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A14 (TJ)",
+            "type": "Written Word",
+            "description": ""
+        }, {
+            "name": "Grey Halls Station",
+            "map": "Haven",
+            "fCoords": "2423, 5785",
+            "waCoords": "2421, 1398",
+            "leaflet": "1427.228,  2472.449",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: H04 (TV)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Greysoul's Crotofiran Mission",
+            "map": "Haven",
+            "fCoords": "4280, 6169",
+            "waCoords": "--, --",
+            "leaflet": "1035.391,  4367.347",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: N03 (SJ)",
+            "type": "Mission",
+            "description": ""
+        }, {
+            "name": "Groton's Perfumery",
+            "map": "Haven",
+            "fCoords": "2257, 944",
+            "waCoords": "--, --",
+            "leaflet": "6367.023,  2303.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CH)",
+            "type": "Perfumer",
+            "description": ""
+        }, {
+            "name": "Guardian",
+            "map": "Haven",
+            "fCoords": "4727, 1734",
+            "waCoords": "4715, 5444",
+            "leaflet": "5560.901,  4823.469",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: P18 (SB)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Guildhall of Drayers",
+            "map": "Haven",
+            "fCoords": "4016, 2363",
+            "waCoords": "4021, 4815",
+            "leaflet": "4919.064,  4097.959",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: M16 (HD)",
+            "type": "Guildhouse",
+            "description": "This guild's scope includes anything to do with freight and transportation."
+        }, {
+            "name": "Guildhall of Entertainers",
+            "map": "Haven",
+            "fCoords": "2244, 5152",
+            "waCoords": "2265, 2040",
+            "leaflet": "2073.146,  2289.796",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: G06 (LZ)",
+            "type": "Guildhouse",
+            "description": "This guild includes anyone who provides entertainment in Haven"
+        }, {
+            "name": "Guildhall of Erectors",
+            "map": "Haven",
+            "fCoords": "4575, 1884",
+            "waCoords": "4576, 5304",
+            "leaflet": "5407.84,  4668.367",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: O17 (GZ)",
+            "type": "Guildhouse",
+            "description": "Represents all those involved in the building construction trades."
+        }, {
+            "name": "Guildhall of Provenders",
+            "map": "Haven",
+            "fCoords": "4254, 2118",
+            "waCoords": "4271, 5066",
+            "leaflet": "5169.064,  4340.816",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: N16 (HC)",
+            "type": "Guildhouse",
+            "description": "The Provenders represents all who provide and sell foodstuffs. Basically everything between the farm and the kitchen. "
+        }, {
+            "name": "Guildhall of the Artisan",
+            "map": "Haven",
+            "fCoords": "4154, 2116",
+            "waCoords": "4154, 5080",
+            "leaflet": "5171.105,  4238.776",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: N16 (HE)",
+            "type": "Guildhouse",
+            "description": "The guild represents those who make things for their looks or artistic merit rather than for usefulness"
+        }, {
+            "name": "Guildhall of the Hearth",
+            "map": "Haven",
+            "fCoords": "4156, 2336",
+            "waCoords": "4161, 4830",
+            "leaflet": "4946.615,  4240.816",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: N16 (HA)",
+            "type": "Guildhouse",
+            "description": "Members of this guild are those whose business is making pepole feel welcome."
+        }, {
+            "name": "Guildhall of the Loom",
+            "map": "Haven",
+            "fCoords": "4574, 2106",
+            "waCoords": "4579, 5099",
+            "leaflet": "5181.309,  4667.347",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: O16 (HF)",
+            "type": "Guildhouse",
+            "description": "The guild looks after anyone who makes or works with cloth and textiles."
+        }, {
+            "name": "Guildhall of the Ship",
+            "map": "Haven",
+            "fCoords": "3920, 2311",
+            "waCoords": "3930, 4885",
+            "leaflet": "4972.126,  4000.",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: M16 (HB)",
+            "type": "Guildhouse",
+            "description": "For those involved in sailing and shipbuilding"
+        }, {
+            "name": "Guildhouse of Magic",
+            "map": "Haven",
+            "fCoords": "2274, 4243",
+            "waCoords": "2278, 2924",
+            "leaflet": "3000.697,  2320.408",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: G09 (NJ)",
+            "type": "Guildhouse",
+            "description": "Most practitioners of magic in Haven are members of this guild"
+        }, {
+            "name": "Guski's Sausage Factory",
+            "map": "Haven",
+            "fCoords": "3621, 3916",
+            "waCoords": "--, --",
+            "leaflet": "3334.37,  3694.898",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L10 (OG)",
+            "type": "Butcher",
+            "description": ""
+        }, {
+            "name": "Hall of the Council of Boroughs",
+            "map": "Haven",
+            "fCoords": "4466, 2290",
+            "waCoords": "4466, 4898",
+            "leaflet": "4993.554,  4557.143",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: O16 (HG)",
+            "type": "Government",
+            "description": "Sort like a city hall"
+        }, {
+            "name": "Hall of the Word",
+            "map": "Haven",
+            "fCoords": "2246, 4204",
+            "waCoords": "--, --",
+            "leaflet": "3040.493,  2291.837",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: G09 (NL)",
+            "type": "Guildhouse",
+            "description": ""
+        }, {
+            "name": "Halson's Stable & Livery",
+            "map": "Haven",
+            "fCoords": "4314, 5647",
+            "waCoords": "--, --",
+            "leaflet": "1568.044,  4402.041",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: N05 (FR)",
+            "type": "Stable",
+            "description": ""
+        }, {
+            "name": "Hamilton - Corder",
+            "map": "Haven",
+            "fCoords": "6243, 5576",
+            "waCoords": "--, --",
+            "leaflet": "1640.493,  6370.408",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U05 (AF)",
+            "type": "Corder",
+            "description": ""
+        }, {
+            "name": "Hamilton's Hockshop",
+            "map": "Haven",
+            "fCoords": "3554, 4023",
+            "waCoords": "--, --",
+            "leaflet": "3225.187,  3626.531",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L10 (OH)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "Harrido's Rooms to Let",
+            "map": "Haven",
+            "fCoords": "3145, 5594",
+            "waCoords": "--, --",
+            "leaflet": "1622.126,  3209.184",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: J05 (QX)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Hasbin - Healer",
+            "map": "Haven",
+            "fCoords": "3991, 6347",
+            "waCoords": "--, --",
+            "leaflet": "853.758,  4072.449",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: M02 (TP)",
+            "type": "Medical",
+            "description": ""
+        }, {
+            "name": "Heaven's Gate",
+            "map": "Haven",
+            "fCoords": "4001, 5331",
+            "waCoords": "--, --",
+            "leaflet": "1890.493,  4082.653",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M06 (DS)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Heidel Varrasch's Office",
+            "map": "Haven",
+            "fCoords": "978, 4734",
+            "waCoords": "--, --",
+            "leaflet": "2499.677,  997.959",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C08 (PM)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Herundor Holdings",
+            "map": "Haven",
+            "fCoords": "2284, 3444",
+            "waCoords": "--, --",
+            "leaflet": "3816.003,  2330.612",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: G12 (TL)",
+            "type": "Real Estate",
+            "description": ""
+        }, {
+            "name": "Hire-a-Mage",
+            "map": "Haven",
+            "fCoords": "2357, 4398",
+            "waCoords": "--, --",
+            "leaflet": "2842.534,  2405.102",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H09 (NT)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Hochritter Family Residence",
+            "map": "Haven",
+            "fCoords": "1890, 1079",
+            "waCoords": "--, --",
+            "leaflet": "6229.268,  1928.571",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: F20 (DC)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Hofstra Family Residence",
+            "map": "Haven",
+            "fCoords": "3944, 1114",
+            "waCoords": "--, --",
+            "leaflet": "6193.554,  4024.49",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: M20 (FG)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Holiday Inn",
+            "map": "Haven",
+            "fCoords": "5300, 2600",
+            "waCoords": "5235, 4587",
+            "leaflet": "4677.228,  5408.163",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: R15 (SC)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Holsum - Greengrocer",
+            "map": "Haven",
+            "fCoords": "1809, 5458",
+            "waCoords": "--, --",
+            "leaflet": "1760.901,  1845.918",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: F05 (QL)",
+            "type": "Greengrocer",
+            "description": ""
+        }, {
+            "name": "Home of Artemus Faraday",
+            "map": "Haven",
+            "fCoords": "2184, 4473",
+            "waCoords": "--, --",
+            "leaflet": "2766.003,  2228.571",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: G09 (OA)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Home of Balin arn Malbar",
+            "map": "Haven",
+            "fCoords": "369, 3703",
+            "waCoords": "--, --",
+            "leaflet": "3551.717,  376.531",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: A11 (KM)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Home of Colchester Tibbits",
+            "map": "Haven",
+            "fCoords": "2233, 4480",
+            "waCoords": "--, --",
+            "leaflet": "2758.86,  2278.571",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: G09 (NZ)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Home of Jarius Gildenhoof",
+            "map": "Haven",
+            "fCoords": "599, 4125",
+            "waCoords": "--, --",
+            "leaflet": "3121.105,  611.224",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: B10 (KR)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Home of Master Nimoyin",
+            "map": "Haven",
+            "fCoords": "1529, 3914",
+            "waCoords": "--, --",
+            "leaflet": "3336.411,  1560.204",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: E10 (LO)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "Home of Nikkolai",
+            "map": "Haven",
+            "fCoords": "534, 3671",
+            "waCoords": "--, --",
+            "leaflet": "3584.37,  544.898",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: A11 (KN)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Honest Boris - Fine Jewellery",
+            "map": "Haven",
+            "fCoords": "6205, 5375",
+            "waCoords": "--, --",
+            "leaflet": "1845.595,  6331.633",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U06 (AR)",
+            "type": "Jeweler",
+            "description": ""
+        }, {
+            "name": "Honest John the Used Horse Dealer",
+            "map": "Haven",
+            "fCoords": "775, 4763",
+            "waCoords": "--, --",
+            "leaflet": "2470.085,  790.816",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B08 (PR)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Honsen's Weapons Foundry",
+            "map": "Haven",
+            "fCoords": "1517, 5326",
+            "waCoords": "--, --",
+            "leaflet": "1895.595,  1547.959",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E06 (QG)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Hood - Fletching and Bowery",
+            "map": "Haven",
+            "fCoords": "1481, 5270",
+            "waCoords": "--, --",
+            "leaflet": "1952.738,  1511.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E06 (QI)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Horn and Hardart",
+            "map": "Haven",
+            "fCoords": "2197, 4837",
+            "waCoords": "2197, 2350",
+            "leaflet": "2394.574,  2241.837",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: G07 (MX)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Horsegate Barracks",
+            "map": "Haven",
+            "fCoords": "970, 5040",
+            "waCoords": "982, 2138",
+            "leaflet": "2187.432,  989.796",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: C07 (PF)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Hotel d'Ville",
+            "map": "Haven",
+            "fCoords": "2786, 5669",
+            "waCoords": "--, --",
+            "leaflet": "1545.595,  2842.857",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: I05 (QT)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "House and Garden of Thaddeus Chiselwick",
+            "map": "Haven",
+            "fCoords": "2260, 4475",
+            "waCoords": "--, --",
+            "leaflet": "2763.962,  2306.122",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: G09 (NY)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "House of Captain Emmanuel York",
+            "map": "Haven",
+            "fCoords": "6350, 4473",
+            "waCoords": "--, --",
+            "leaflet": "2766.003,  6479.592",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: V09 (BM)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "House of Fagin Childstealer",
+            "map": "Haven",
+            "fCoords": "4183, 6521",
+            "waCoords": "--, --",
+            "leaflet": "676.207,  4268.367",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: N02 (FZ)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "House of Fashion",
+            "map": "Haven",
+            "fCoords": "6366, 4657",
+            "waCoords": "--, --",
+            "leaflet": "2578.248,  6495.918",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: V08 (AN)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "House of Flanderin",
+            "map": "Haven",
+            "fCoords": "1031, 3745",
+            "waCoords": "--, --",
+            "leaflet": "3508.86,  1052.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C11 (KY)",
+            "type": "Textiles",
+            "description": ""
+        }, {
+            "name": "House of Hanki",
+            "map": "Haven",
+            "fCoords": "4035, 882",
+            "waCoords": "--, --",
+            "leaflet": "6430.289,  4117.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: N20 (TQ)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "House of Hofstra",
+            "map": "Haven",
+            "fCoords": "5086, 2304",
+            "waCoords": "--, --",
+            "leaflet": "4979.268,  5189.796",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: Q16 (GC)",
+            "type": "Banking",
+            "description": ""
+        }, {
+            "name": "House of Ivan and Sheela",
+            "map": "Haven",
+            "fCoords": "4775, 5931",
+            "waCoords": "--, --",
+            "leaflet": "1278.248,  4872.449",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: P04 (TF)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "House of Jurgan Bland",
+            "map": "Haven",
+            "fCoords": "3615, 5671",
+            "waCoords": "--, --",
+            "leaflet": "1543.554,  3688.776",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: L05 (FH)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "House of Linneas Mauray",
+            "map": "Haven",
+            "fCoords": "6497, 4730",
+            "waCoords": "--, --",
+            "leaflet": "2503.758,  6629.592",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: V08 (BN)",
+            "type": "Medical",
+            "description": ""
+        }, {
+            "name": "House of Lisa Duncan",
+            "map": "Haven",
+            "fCoords": "2950, 4160",
+            "waCoords": "--, --",
+            "leaflet": "3085.391,  3010.204",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: J10 (OD)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "House of Lucius Cardallo",
+            "map": "Haven",
+            "fCoords": "4290, 2372",
+            "waCoords": "--, --",
+            "leaflet": "4909.881,  4377.551",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: N16 (GY)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "House of Rael Gavotte",
+            "map": "Haven",
+            "fCoords": "2383, 4803",
+            "waCoords": "--, --",
+            "leaflet": "2429.268,  2431.633",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: H07 (MT)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "House of Rand",
+            "map": "Haven",
+            "fCoords": "4927, 2373",
+            "waCoords": "--, --",
+            "leaflet": "4908.86,  5027.551",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: Q16 (GD)",
+            "type": "Banking",
+            "description": ""
+        }, {
+            "name": "Hrubilasz Riding Academy",
+            "map": "Haven",
+            "fCoords": "750, 4450",
+            "waCoords": "--, --",
+            "leaflet": "2789.472,  765.306",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: B09 (PT)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "Hughar Wolfskill - trained canines",
+            "map": "Haven",
+            "fCoords": "894, 4392",
+            "waCoords": "--, --",
+            "leaflet": "2848.656,  912.245",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: C09 (QZ)",
+            "type": "Animal Trainer",
+            "description": ""
+        }, {
+            "name": "Hyrim's Looms",
+            "map": "Haven",
+            "fCoords": "6790, 4902",
+            "waCoords": "--, --",
+            "leaflet": "2328.248,  6928.571",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: W07 (BW)",
+            "type": "Textiles",
+            "description": ""
+        }, {
+            "name": "Illusionist's Park",
+            "map": "Haven",
+            "fCoords": "2262, 4367",
+            "waCoords": "2259, 2820",
+            "leaflet": "2874.166,  2308.163",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: G09 (NI)",
+            "type": "Park",
+            "description": "A public park on Magic St."
+        }, {
+            "name": "Ilrin the Bowyer",
+            "map": "Haven",
+            "fCoords": "1044, 3840",
+            "waCoords": "--, --",
+            "leaflet": "3411.921,  1065.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C11 (KZ)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Institute of Mathematics",
+            "map": "Haven",
+            "fCoords": "1879, 3951",
+            "waCoords": "1877, 3226",
+            "leaflet": "3298.656,  1917.347",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F10 (LQ)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "Instruments 'n' Stuff",
+            "map": "Haven",
+            "fCoords": "1988, 4722",
+            "waCoords": "--, --",
+            "leaflet": "2511.921,  2028.571",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: F08 (TR)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "Iron Gate Barracks",
+            "map": "Haven",
+            "fCoords": "372, 3392",
+            "waCoords": "367, 3762",
+            "leaflet": "3869.064,  379.592",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: A12 (KA)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Iron Phalanx",
+            "map": "Haven",
+            "fCoords": "4117, 4209",
+            "waCoords": "--, --",
+            "leaflet": "3035.391,  4201.02",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: N09 (SO)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Ironhoof Stables",
+            "map": "Haven",
+            "fCoords": "7138, 3825",
+            "waCoords": "--, --",
+            "leaflet": "3427.228,  7283.673",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: X11 (PR)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Jakkob the Sailmaker",
+            "map": "Haven",
+            "fCoords": "6109, 5534",
+            "waCoords": "--, --",
+            "leaflet": "1683.35,  6233.673",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U05 (AO)",
+            "type": "Nautical Supplies",
+            "description": ""
+        }, {
+            "name": "Jarien the Jeweler",
+            "map": "Haven",
+            "fCoords": "4092, 3188",
+            "waCoords": "--, --",
+            "leaflet": "4077.228,  4175.51",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: N13 (RJ)",
+            "type": "Jeweler",
+            "description": ""
+        }, {
+            "name": "Jasmine's House of Tattoos",
+            "map": "Haven",
+            "fCoords": "6154, 5643",
+            "waCoords": "--, --",
+            "leaflet": "1572.126,  6279.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U05 (AG)",
+            "type": "Tattoos",
+            "description": ""
+        }, {
+            "name": "Judgement Gate Barracks",
+            "map": "Haven",
+            "fCoords": "2433, 6000",
+            "waCoords": "2438, 1177",
+            "leaflet": "1207.84,  2482.653",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: H03 (PE)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Karki's Sweets and Flowers",
+            "map": "Haven",
+            "fCoords": "3843, 4930",
+            "waCoords": "--, --",
+            "leaflet": "2299.677,  3921.429",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M07 (DK)",
+            "type": "Confectioner",
+            "description": ""
+        }, {
+            "name": "Katzi's Dwarven Deli",
+            "map": "Haven",
+            "fCoords": "744, 2840",
+            "waCoords": "--, --",
+            "leaflet": "4432.33,  759.184",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: B14 (IJ)",
+            "type": "Restaurant",
+            "description": ""
+        }, {
+            "name": "Kazan the Mender",
+            "map": "Haven",
+            "fCoords": "4836, 3920",
+            "waCoords": "--, --",
+            "leaflet": "3330.289,  4934.694",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: P10 (RL)",
+            "type": "Repair",
+            "description": ""
+        }, {
+            "name": "Keabler's Bakery",
+            "map": "Haven",
+            "fCoords": "1398, 3718",
+            "waCoords": "--, --",
+            "leaflet": "3536.411,  1426.531",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: D11 (LB)",
+            "type": "Baker",
+            "description": ""
+        }, {
+            "name": "Kelvar - Armorer",
+            "map": "Haven",
+            "fCoords": "2292, 1146",
+            "waCoords": "--, --",
+            "leaflet": "6160.901,  2338.776",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CP)",
+            "type": "Armor",
+            "description": ""
+        }, {
+            "name": "Kelvin the Tinsmith",
+            "map": "Haven",
+            "fCoords": "4807, 5940",
+            "waCoords": "--, --",
+            "leaflet": "1269.064,  4905.102",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P04 (TB)",
+            "type": "Metalwork",
+            "description": ""
+        }, {
+            "name": "Kenzo's Caravan Services",
+            "map": "Haven",
+            "fCoords": "1102, 5157",
+            "waCoords": "--, --",
+            "leaflet": "2068.044,  1124.49",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: C06 (QE)",
+            "type": "Caravan",
+            "description": ""
+        }, {
+            "name": "Keziniel - Scribe",
+            "map": "Haven",
+            "fCoords": "3400, 3795",
+            "waCoords": "--, --",
+            "leaflet": "3457.84,  3469.388",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: K11 (JN)",
+            "type": "Scribe",
+            "description": ""
+        }, {
+            "name": "Klekbek",
+            "map": "Haven",
+            "fCoords": "464, 2735",
+            "waCoords": "--, --",
+            "leaflet": "4539.472,  473.469",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A14 (IA)",
+            "type": "Metalwork",
+            "description": ""
+        }, {
+            "name": "Kobri's Cobblery",
+            "map": "Haven",
+            "fCoords": "856, 3292",
+            "waCoords": "--, --",
+            "leaflet": "3971.105,  873.469",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B12 (KD)",
+            "type": "Footwear",
+            "description": ""
+        }, {
+            "name": "Konig - Master Armorer",
+            "map": "Haven",
+            "fCoords": "705, 2737",
+            "waCoords": "--, --",
+            "leaflet": "4537.432,  719.388",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B14 (HQ)",
+            "type": "Armor",
+            "description": ""
+        }, {
+            "name": "Kurgan's Hill Apex",
+            "map": "Haven",
+            "fCoords": "4743, 6167",
+            "waCoords": "4745, 1024",
+            "leaflet": "1037.432,  4839.796",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: P03 (FO)",
+            "type": "Other Landmark",
+            "description": "The highest point on the south side of the river."
+        }, {
+            "name": "Kurgan's Rout",
+            "map": "Haven",
+            "fCoords": "3566, 5448",
+            "waCoords": "3553, 1732",
+            "leaflet": "1771.105,  3638.776",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: L05 (EE)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Kwartz - Stonemason",
+            "map": "Haven",
+            "fCoords": "444, 3973",
+            "waCoords": "--, --",
+            "leaflet": "3276.207,  453.061",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: A10 (KL)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Lanella - Silversmith",
+            "map": "Haven",
+            "fCoords": "737, 2761",
+            "waCoords": "--, --",
+            "leaflet": "4512.942,  752.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B14 (KC)",
+            "type": "Silversmith",
+            "description": ""
+        }, {
+            "name": "Lazarini's Baths",
+            "map": "Haven",
+            "fCoords": "5828, 4337",
+            "waCoords": "--, --",
+            "leaflet": "2904.779,  5946.939",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: T09 (BP)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Lexington Fish Market",
+            "map": "Haven",
+            "fCoords": "4928, 5416",
+            "waCoords": "--, --",
+            "leaflet": "1803.758,  5028.571",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: Q05 (EM)",
+            "type": "Fishmonger",
+            "description": ""
+        }, {
+            "name": "Lilies of the Valley",
+            "map": "Haven",
+            "fCoords": "4816, 5993",
+            "waCoords": "--, --",
+            "leaflet": "1214.983,  4914.286",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: P03 (TC)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Locks and Keys Made",
+            "map": "Haven",
+            "fCoords": "1470, 5363",
+            "waCoords": "--, --",
+            "leaflet": "1857.84,  1500.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E06 (QJ)",
+            "type": "Locksmith",
+            "description": ""
+        }, {
+            "name": "Lohisian Place",
+            "map": "Haven",
+            "fCoords": "5246, 3465",
+            "waCoords": "5246, 3719",
+            "leaflet": "3794.574,  5353.061",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: R12 (TT)",
+            "type": "Medical",
+            "description": "This 'temple' to Lohi, Goddess of Healing, is in fact a working hospital"
+        }, {
+            "name": "Longshoreman's Inc.",
+            "map": "Haven",
+            "fCoords": "5990, 5266",
+            "waCoords": "--, --",
+            "leaflet": "1956.819,  6112.245",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: T06 (AZ)",
+            "type": "Stevedores",
+            "description": ""
+        }, {
+            "name": "Lorien Leathergoods",
+            "map": "Haven",
+            "fCoords": "3284, 3858",
+            "waCoords": "--, --",
+            "leaflet": "3393.554,  3351.02",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K11 (JC)",
+            "type": "Leatherworker",
+            "description": ""
+        }, {
+            "name": "Ludwig's Brauhaus",
+            "map": "Haven",
+            "fCoords": "3988, 4333",
+            "waCoords": "--, --",
+            "leaflet": "2908.86,  4069.388",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M09 (UA)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Lutes and Viols",
+            "map": "Haven",
+            "fCoords": "2253, 4773",
+            "waCoords": "--, --",
+            "leaflet": "2459.881,  2298.98",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G08 (MO)",
+            "type": "Musical Instruments",
+            "description": ""
+        }, {
+            "name": "Lydian House",
+            "map": "Haven",
+            "fCoords": "3890, 3987",
+            "waCoords": "--, --",
+            "leaflet": "3261.921,  3969.388",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: M10 (UB)",
+            "type": "Guildhouse",
+            "description": ""
+        }, {
+            "name": "Maas Turkar - Weaponeer",
+            "map": "Haven",
+            "fCoords": "2253, 1044",
+            "waCoords": "--, --",
+            "leaflet": "6264.983,  2298.98",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CO)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Madame Ruth's",
+            "map": "Haven",
+            "fCoords": "3841, 5149",
+            "waCoords": "--, --",
+            "leaflet": "2076.207,  3919.388",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M06 (DY)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Madame Zanwig's",
+            "map": "Haven",
+            "fCoords": "3789, 6147",
+            "waCoords": "--, --",
+            "leaflet": "1057.84,  3866.327",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (TE)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Madame Zaurig - Oracle",
+            "map": "Haven",
+            "fCoords": "3822, 6111",
+            "waCoords": "--, --",
+            "leaflet": "1094.574,  3900.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FD)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Maggia Family Residence",
+            "map": "Haven",
+            "fCoords": "2687, 1306",
+            "waCoords": "--, --",
+            "leaflet": "5997.636,  2741.837",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: I19 (CV)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Magic Books and Scrolls",
+            "map": "Haven",
+            "fCoords": "2316, 4450",
+            "waCoords": "--, --",
+            "leaflet": "2789.472,  2363.265",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H09 (ND)",
+            "type": "Written Word",
+            "description": ""
+        }, {
+            "name": "Mahti - Weaponeer",
+            "map": "Haven",
+            "fCoords": "788, 3355",
+            "waCoords": "--, --",
+            "leaflet": "3906.819,  804.082",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B12 (HP)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Malakki - Jewelsmith",
+            "map": "Haven",
+            "fCoords": "835, 2787",
+            "waCoords": "--, --",
+            "leaflet": "4486.411,  852.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B14 (HX)",
+            "type": "Jeweler",
+            "description": ""
+        }, {
+            "name": "Malbar Printing and Bindery",
+            "map": "Haven",
+            "fCoords": "409, 3827",
+            "waCoords": "--, --",
+            "leaflet": "3425.187,  417.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A11 (KH)",
+            "type": "Written Word",
+            "description": ""
+        }, {
+            "name": "Malikor's Exchange",
+            "map": "Haven",
+            "fCoords": "3678, 5847",
+            "waCoords": "--, --",
+            "leaflet": "1363.962,  3753.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L04 (FM)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "Malin Kenny - Cobbler",
+            "map": "Haven",
+            "fCoords": "6831, 4978",
+            "waCoords": "--, --",
+            "leaflet": "2250.697,  6970.408",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: W07 (BV)",
+            "type": "Footwear",
+            "description": ""
+        }, {
+            "name": "Mama Rosa's Rooming House",
+            "map": "Haven",
+            "fCoords": "3887, 4951",
+            "waCoords": "--, --",
+            "leaflet": "2278.248,  3966.327",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: M07 (DO)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Manalla - Seamstress",
+            "map": "Haven",
+            "fCoords": "3179, 3906",
+            "waCoords": "--, --",
+            "leaflet": "3344.574,  3243.878",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K10 (JT)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Market Barracks",
+            "map": "Haven",
+            "fCoords": "3491, 5429",
+            "waCoords": "3476, 1743",
+            "leaflet": "1790.493,  3562.245",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: L05 (EF)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Martin Metals",
+            "map": "Haven",
+            "fCoords": "622, 2895",
+            "waCoords": "--, --",
+            "leaflet": "4376.207,  634.694",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B14 (HS)",
+            "type": "Artist",
+            "description": ""
+        }, {
+            "name": "Mayor's Palace",
+            "map": "Haven",
+            "fCoords": "4590, 2287",
+            "waCoords": "4580, 4899",
+            "leaflet": "4996.615,  4683.673",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: O16 (HI)",
+            "type": "Government",
+            "description": "Where the mayor lives and conducts most business"
+        }, {
+            "name": "Melanie's",
+            "map": "Haven",
+            "fCoords": "4997, 2872",
+            "waCoords": "--, --",
+            "leaflet": "4399.677,  5098.98",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: Q14 (GP)",
+            "type": "Restaurant",
+            "description": ""
+        }, {
+            "name": "Meriwether - Cordwainer",
+            "map": "Haven",
+            "fCoords": "5209, 2715",
+            "waCoords": "--, --",
+            "leaflet": "4559.881,  5315.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: R14 (GT)",
+            "type": "Footwear",
+            "description": ""
+        }, {
+            "name": "Merry Maid Tavern",
+            "map": "Haven",
+            "fCoords": "6880, 4977",
+            "waCoords": "--, --",
+            "leaflet": "2251.717,  7020.408",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: W07 (BZ)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Meryn's Elvish Cloaks",
+            "map": "Haven",
+            "fCoords": "4535, 3509",
+            "waCoords": "--, --",
+            "leaflet": "3749.677,  4627.551",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: O12 (RM)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Message Drop",
+            "map": "Haven",
+            "fCoords": "3794, 4685",
+            "waCoords": "--, --",
+            "leaflet": "2549.677,  3871.429",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: M08 (RA)",
+            "type": "Fountain",
+            "description": ""
+        }, {
+            "name": "Meydal - Matchmaker",
+            "map": "Haven",
+            "fCoords": "421, 2832",
+            "waCoords": "--, --",
+            "leaflet": "4440.493,  429.592",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: A14 (HT)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Minotaur Metalworks",
+            "map": "Haven",
+            "fCoords": "710, 3033",
+            "waCoords": "--, --",
+            "leaflet": "4235.391,  724.49",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B13 (IK)",
+            "type": "Metalwork",
+            "description": ""
+        }, {
+            "name": "Mint Station",
+            "map": "Haven",
+            "fCoords": "5225, 3106",
+            "waCoords": "5224, 4077",
+            "leaflet": "4160.901,  5331.633",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: R13 (TU)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Mintaki's",
+            "map": "Haven",
+            "fCoords": "2446, 5724",
+            "waCoords": "--, --",
+            "leaflet": "1489.472,  2495.918",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H04 (QN)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Mintar - Ship's Weaponry",
+            "map": "Haven",
+            "fCoords": "6073, 5297",
+            "waCoords": "--, --",
+            "leaflet": "1925.187,  6196.939",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U06 (AT)",
+            "type": "Nautical Supplies",
+            "description": ""
+        }, {
+            "name": "Mixolydian Mode",
+            "map": "Haven",
+            "fCoords": "2328, 4961",
+            "waCoords": "--, --",
+            "leaflet": "2268.044,  2375.51",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: H07 (MW)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Mordecai - Surgeon",
+            "map": "Haven",
+            "fCoords": "3807, 4815",
+            "waCoords": "--, --",
+            "leaflet": "2417.023,  3884.694",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: M07 (DI)",
+            "type": "Medical",
+            "description": ""
+        }, {
+            "name": "Mother Yosofal the Witch",
+            "map": "Haven",
+            "fCoords": "4779, 3761",
+            "waCoords": "--, --",
+            "leaflet": "3492.534,  4876.531",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: P11 (RF)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Mrs. McKenzie's Boarding House",
+            "map": "Haven",
+            "fCoords": "6858, 4807",
+            "waCoords": "--, --",
+            "leaflet": "2425.187,  6997.959",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: W07 (CA)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Mrs. O'Leary's Rooms",
+            "map": "Haven",
+            "fCoords": "4686, 5134",
+            "waCoords": "--, --",
+            "leaflet": "2091.513,  4781.633",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: P06 (ES)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Mudikar's Saddlery and Tack Shop",
+            "map": "Haven",
+            "fCoords": "895, 4473",
+            "waCoords": "--, --",
+            "leaflet": "2766.003,  913.265",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C09 (PX)",
+            "type": "Saddler",
+            "description": ""
+        }, {
+            "name": "Muses' Theatre",
+            "map": "Haven",
+            "fCoords": "2265, 4983",
+            "waCoords": "--, --",
+            "leaflet": "2245.595,  2311.224",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: G07 (MZ)",
+            "type": "Theatre",
+            "description": ""
+        }, {
+            "name": "Music Copiers",
+            "map": "Haven",
+            "fCoords": "2318, 4843",
+            "waCoords": "--, --",
+            "leaflet": "2388.452,  2365.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H07 (MC)",
+            "type": "Scribe",
+            "description": ""
+        }, {
+            "name": "Mustard and Fennel",
+            "map": "Haven",
+            "fCoords": "3070, 5554",
+            "waCoords": "--, --",
+            "leaflet": "1662.942,  3132.653",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: J05 (QW)",
+            "type": "Herbalist",
+            "description": ""
+        }, {
+            "name": "Mystic Valley Inn",
+            "map": "Haven",
+            "fCoords": "2253, 4571",
+            "waCoords": "2254, 2610",
+            "leaflet": "2666.003,  2298.98",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: G08 (LY)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Nicodemus Bottleboro - Apothecary",
+            "map": "Haven",
+            "fCoords": "1332, 3499",
+            "waCoords": "--, --",
+            "leaflet": "3759.881,  1359.184",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: D12 (LH)",
+            "type": "Apothecary",
+            "description": ""
+        }, {
+            "name": "Nimrodel's South City Shipyard",
+            "map": "Haven",
+            "fCoords": "5944, 4959",
+            "waCoords": "--, --",
+            "leaflet": "2270.085,  6065.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: T07 (BC)",
+            "type": "Nautical Supplies",
+            "description": ""
+        }, {
+            "name": "Nobles' Way Station",
+            "map": "Haven",
+            "fCoords": "3356, 2364",
+            "waCoords": "3357, 4827",
+            "leaflet": "4918.044,  3424.49",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: K16 (RW)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Northgate Barracks",
+            "map": "Haven",
+            "fCoords": "4633, 774",
+            "waCoords": "4634, 6398",
+            "leaflet": "6540.493,  4727.551",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: P21 (RX)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "No-Yen Drachmah - Goldsmith",
+            "map": "Haven",
+            "fCoords": "4823, 1255",
+            "waCoords": "--, --",
+            "leaflet": "6049.677,  4921.429",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P19 (GK)",
+            "type": "Banking",
+            "description": ""
+        }, {
+            "name": "Numirolakos the Gentler",
+            "map": "Haven",
+            "fCoords": "1107, 4423",
+            "waCoords": "--, --",
+            "leaflet": "2817.023,  1129.592",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: C09 (PJ)",
+            "type": "Animal Trainer",
+            "description": ""
+        }, {
+            "name": "Odino's Dance and Tumbling",
+            "map": "Haven",
+            "fCoords": "2262, 4734",
+            "waCoords": "--, --",
+            "leaflet": "2499.677,  2308.163",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: G08 (MQ)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "Office of Ports and Shipping",
+            "map": "Haven",
+            "fCoords": "6096, 5004",
+            "waCoords": "--, --",
+            "leaflet": "2224.166,  6220.408",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: U07 (BG)",
+            "type": "Government",
+            "description": ""
+        }, {
+            "name": "Ohlfaardt Family Residence",
+            "map": "Haven",
+            "fCoords": "1924, 1660",
+            "waCoords": "--, --",
+            "leaflet": "5636.411,  1963.265",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: F18 (CZ)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Old City Walls",
+            "map": "Haven",
+            "fCoords": "1581, 4561",
+            "waCoords": "1582, 2611",
+            "leaflet": "2676.207,  1613.265",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: E08 (SR)",
+            "type": "Ruin",
+            "description": "The remains of the city walls from over a century ago can still be found circling the inner parts of the city. For the most part they are crumbling or now form walls for newer buildings."
+        }, {
+            "name": "Old Lea's Sweets",
+            "map": "Haven",
+            "fCoords": "4273, 3251",
+            "waCoords": "--, --",
+            "leaflet": "4012.942,  4360.204",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: N13 (RH)",
+            "type": "Confectioner",
+            "description": ""
+        }, {
+            "name": "Old Wall Market",
+            "map": "Haven",
+            "fCoords": "4627, 5407",
+            "waCoords": "--, --",
+            "leaflet": "1812.942,  4721.429",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P05 (EN)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "Oldgate Tavern",
+            "map": "Haven",
+            "fCoords": "2171, 4095",
+            "waCoords": "--, --",
+            "leaflet": "3151.717,  2215.306",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: G10 (LV)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Open Air Theater of the Performing Arts",
+            "map": "Haven",
+            "fCoords": "2060, 5064",
+            "waCoords": "2067, 2126",
+            "leaflet": "2162.942,  2102.041",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: G07 (NA)",
+            "type": "Theatre",
+            "description": "An outdoor theatre"
+        }, {
+            "name": "Othmar the Astrologer",
+            "map": "Haven",
+            "fCoords": "2294, 1090",
+            "waCoords": "--, --",
+            "leaflet": "6218.044,  2340.816",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: G20 (CF)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Otto Chubb - Butcher",
+            "map": "Haven",
+            "fCoords": "1608, 3219",
+            "waCoords": "--, --",
+            "leaflet": "4045.595,  1640.816",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E13 (IT)",
+            "type": "Butcher",
+            "description": ""
+        }, {
+            "name": "Paddy's Wagons",
+            "map": "Haven",
+            "fCoords": "4718, 5051",
+            "waCoords": "--, --",
+            "leaflet": "2176.207,  4814.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P07 (ER)",
+            "type": "Wainwright",
+            "description": ""
+        }, {
+            "name": "Pando's Leather Gear",
+            "map": "Haven",
+            "fCoords": "845, 4427",
+            "waCoords": "--, --",
+            "leaflet": "2812.942,  862.245",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B09 (PW)",
+            "type": "Leatherworker",
+            "description": ""
+        }, {
+            "name": "Pane in the Glass",
+            "map": "Haven",
+            "fCoords": "5387, 3207",
+            "waCoords": "--, --",
+            "leaflet": "4057.84,  5496.939",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: R13 (SS)",
+            "type": "Glass",
+            "description": ""
+        }, {
+            "name": "Pens and Barns of the Varrasches",
+            "map": "Haven",
+            "fCoords": "976, 4615",
+            "waCoords": "--, --",
+            "leaflet": "2621.105,  995.918",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C08 (PL)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Petals of the Rose",
+            "map": "Haven",
+            "fCoords": "6164, 5537",
+            "waCoords": "--, --",
+            "leaflet": "1680.289,  6289.796",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: U05 (AJ)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Pierre Farce's House of Beauty",
+            "map": "Haven",
+            "fCoords": "2272, 1049",
+            "waCoords": "--, --",
+            "leaflet": "6259.881,  2318.367",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CI)",
+            "type": "Cosmetician",
+            "description": ""
+        }, {
+            "name": "Pilgrim's Progress Tavern",
+            "map": "Haven",
+            "fCoords": "5056, 3192",
+            "waCoords": "--, --",
+            "leaflet": "4073.146,  5159.184",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: Q13 (SP)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Piper's",
+            "map": "Haven",
+            "fCoords": "4153, 1009",
+            "waCoords": "--, --",
+            "leaflet": "6300.697,  4237.755",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: N20 (NP)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Pirandello's Pastries",
+            "map": "Haven",
+            "fCoords": "2352, 1039",
+            "waCoords": "--, --",
+            "leaflet": "6270.085,  2400.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H20 (CQ)",
+            "type": "Baker",
+            "description": ""
+        }, {
+            "name": "Piringolli's",
+            "map": "Haven",
+            "fCoords": "2646, 5212",
+            "waCoords": "--, --",
+            "leaflet": "2011.921,  2700.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: I06 (PD)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "Pocheffski's School of Arms",
+            "map": "Haven",
+            "fCoords": "4814, 5820",
+            "waCoords": "--, --",
+            "leaflet": "1391.513,  4912.245",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: P04 (FX)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "Poor Larry's",
+            "map": "Haven",
+            "fCoords": "471, 4320",
+            "waCoords": "--, --",
+            "leaflet": "2922.126,  480.612",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: A09 (PV)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Potiphar's House",
+            "map": "Haven",
+            "fCoords": "3796, 5039",
+            "waCoords": "--, --",
+            "leaflet": "2188.452,  3873.469",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M07 (EA)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Professor's Challenge",
+            "map": "Haven",
+            "fCoords": "3086, 3941",
+            "waCoords": "--, --",
+            "leaflet": "3308.86,  3148.98",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: J10 (JF)",
+            "type": "Gaming",
+            "description": ""
+        }, {
+            "name": "Profundo's Studio",
+            "map": "Haven",
+            "fCoords": "2362, 5284",
+            "waCoords": "--, --",
+            "leaflet": "1938.452,  2410.204",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: H06 (SL)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "Public Corrals and Pens",
+            "map": "Haven",
+            "fCoords": "816, 4551",
+            "waCoords": "--, --",
+            "leaflet": "2686.411,  832.653",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B08 (PS)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Public Square",
+            "map": "Haven",
+            "fCoords": "2463, 4550",
+            "waCoords": "--, --",
+            "leaflet": "2687.432,  2513.265",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: H08 (NB)",
+            "type": "Square",
+            "description": ""
+        }, {
+            "name": "Public Stables and Rental",
+            "map": "Haven",
+            "fCoords": "996, 4553",
+            "waCoords": "--, --",
+            "leaflet": "2684.37,  1016.327",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: C08 (PY)",
+            "type": "Stable",
+            "description": ""
+        }, {
+            "name": "Queen Takes Pawn",
+            "map": "Haven",
+            "fCoords": "3386, 3804",
+            "waCoords": "--, --",
+            "leaflet": "3448.656,  3455.102",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K11 (IZ)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "R. Thor Gofree - Talent Scout",
+            "map": "Haven",
+            "fCoords": "2506, 4927",
+            "waCoords": "--, --",
+            "leaflet": "2302.738,  2557.143",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: H07 (NO)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Rackley's Museum of Oddities",
+            "map": "Haven",
+            "fCoords": "3076, 5722",
+            "waCoords": "--, --",
+            "leaflet": "1491.513,  3138.776",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: J04 (OZ)",
+            "type": "Museum",
+            "description": ""
+        }, {
+            "name": "Raku the Potter",
+            "map": "Haven",
+            "fCoords": "4437, 3392",
+            "waCoords": "--, --",
+            "leaflet": "3869.064,  4527.551",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: O12 (RG)",
+            "type": "Potter",
+            "description": ""
+        }, {
+            "name": "Ralki - Men's Tailor",
+            "map": "Haven",
+            "fCoords": "835, 3131",
+            "waCoords": "--, --",
+            "leaflet": "4135.391,  852.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B13 (IE)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Rand Family Residence",
+            "map": "Haven",
+            "fCoords": "4100, 1425",
+            "waCoords": "--, --",
+            "leaflet": "5876.207,  4183.673",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: N19 (UC)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Red Nick's Tavern",
+            "map": "Haven",
+            "fCoords": "6196, 5504",
+            "waCoords": "--, --",
+            "leaflet": "1713.962,  6322.449",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U05 (AX)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Redonso's Grain Mill",
+            "map": "Haven",
+            "fCoords": "5786, 4828",
+            "waCoords": "--, --",
+            "leaflet": "2403.758,  5904.082",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: T07 (BF)",
+            "type": "Mill",
+            "description": ""
+        }, {
+            "name": "Residence of Arquephus",
+            "map": "Haven",
+            "fCoords": "4760, 5975",
+            "waCoords": "--, --",
+            "leaflet": "1233.35,  4857.143",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: P03 (TH)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Residence of Resoom",
+            "map": "Haven",
+            "fCoords": "4824, 5983",
+            "waCoords": "--, --",
+            "leaflet": "1225.187,  4922.449",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: P04 (TG)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Residence of Rigaletto and Paladin Brandybuck",
+            "map": "Haven",
+            "fCoords": "1257, 3025",
+            "waCoords": "--, --",
+            "leaflet": "4243.554,  1282.653",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: D13 (IQ)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "Residence of Rombo Alecastle",
+            "map": "Haven",
+            "fCoords": "1120, 3072",
+            "waCoords": "--, --",
+            "leaflet": "4195.595,  1142.857",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: C13 (IY)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "Rima's",
+            "map": "Haven",
+            "fCoords": "3841, 4953",
+            "waCoords": "--, --",
+            "leaflet": "2276.207,  3919.388",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M07 (DM)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Roah the Tailor",
+            "map": "Haven",
+            "fCoords": "3802, 6112",
+            "waCoords": "--, --",
+            "leaflet": "1093.554,  3879.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FC)",
+            "type": "Tailor",
+            "description": ""
+        }, {
+            "name": "Rocky's Tavern and Arena",
+            "map": "Haven",
+            "fCoords": "4309, 5828",
+            "waCoords": "--, --",
+            "leaflet": "1383.35,  4396.939",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: N04 (FT)",
+            "type": "Gaming",
+            "description": ""
+        }, {
+            "name": "Rose Garden Inn",
+            "map": "Haven",
+            "fCoords": "2192, 792",
+            "waCoords": "2182, 6399",
+            "leaflet": "6522.126,  2236.735",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: G21 (DF)",
+            "type": "Tavern",
+            "description": "One of the best inns in Haven"
+        }, {
+            "name": "Ruin of Rogues' Roost",
+            "map": "Haven",
+            "fCoords": "3679, 6178",
+            "waCoords": "3680, 1002",
+            "leaflet": "1026.207,  3754.082",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: L03 (ET)",
+            "type": "Ruin",
+            "description": "The burned out remains of the headquarters of the Thieves' Guild"
+        }, {
+            "name": "Sakbar - Excavation Contractor",
+            "map": "Haven",
+            "fCoords": "876, 3092",
+            "waCoords": "--, --",
+            "leaflet": "4175.187,  893.878",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: C13 (HZ)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Samoradat's Soup",
+            "map": "Haven",
+            "fCoords": "4759, 3877",
+            "waCoords": "--, --",
+            "leaflet": "3374.166,  4856.122",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: P11 (RK)",
+            "type": "Restaurant",
+            "description": ""
+        }, {
+            "name": "Savonna Family Residence",
+            "map": "Haven",
+            "fCoords": "2500, 796",
+            "waCoords": "--, --",
+            "leaflet": "6518.044,  2551.02",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: H21 (CX)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Scholl's Tavern",
+            "map": "Haven",
+            "fCoords": "2090, 4806",
+            "waCoords": "--, --",
+            "leaflet": "2426.207,  2132.653",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: G07 (MS)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "School of Alchemy",
+            "map": "Haven",
+            "fCoords": "1855, 3877",
+            "waCoords": "1849, 3300",
+            "leaflet": "3374.166,  1892.857",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F11 (LP)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "School of Medicine",
+            "map": "Haven",
+            "fCoords": "1938, 4020",
+            "waCoords": "1929, 3163",
+            "leaflet": "3228.248,  1977.551",
+            "pinType": "Education",
+            "mapRef": "Map Ref.: F10 (SI)",
+            "type": "University",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "Scribe and Messenger Service",
+            "map": "Haven",
+            "fCoords": "2292, 1004",
+            "waCoords": "--, --",
+            "leaflet": "6305.799,  2338.776",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: G20 (CE)",
+            "type": "Courier",
+            "description": ""
+        }, {
+            "name": "Sew Simple",
+            "map": "Haven",
+            "fCoords": "4571, 6150",
+            "waCoords": "--, --",
+            "leaflet": "1054.779,  4664.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: O03 (FY)",
+            "type": "Seamstress",
+            "description": ""
+        }, {
+            "name": "Shadowfall Crotofiran Mission",
+            "map": "Haven",
+            "fCoords": "4831, 5952",
+            "waCoords": "--, --",
+            "leaflet": "1256.819,  4929.592",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: P04 (FW)",
+            "type": "Mission",
+            "description": ""
+        }, {
+            "name": "Shield Barracks",
+            "map": "Haven",
+            "fCoords": "2231, 874",
+            "waCoords": "2228, 6303",
+            "leaflet": "6438.452,  2276.531",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: G21 (RY)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Ship's Chandler - Martin Boggle",
+            "map": "Haven",
+            "fCoords": "6082, 5469",
+            "waCoords": "--, --",
+            "leaflet": "1749.677,  6206.122",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U05 (AS)",
+            "type": "Nautical Supplies",
+            "description": ""
+        }, {
+            "name": "Shoes & Saddles",
+            "map": "Haven",
+            "fCoords": "2166, 938",
+            "waCoords": "--, --",
+            "leaflet": "6373.146,  2210.204",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CS)",
+            "type": "Blacksmith",
+            "description": ""
+        }, {
+            "name": "Sign of the Jester",
+            "map": "Haven",
+            "fCoords": "2516, 4989",
+            "waCoords": "--, --",
+            "leaflet": "2239.472,  2567.347",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: H07 (MP)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Silvante's",
+            "map": "Haven",
+            "fCoords": "3902, 923",
+            "waCoords": "--, --",
+            "leaflet": "6388.452,  3981.633",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: M20 (SW)",
+            "type": "Restaurant",
+            "description": ""
+        }, {
+            "name": "Sirius the Scribe",
+            "map": "Haven",
+            "fCoords": "4497, 3994",
+            "waCoords": "--, --",
+            "leaflet": "3254.779,  4588.776",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: O10 (RN)",
+            "type": "Scribe",
+            "description": ""
+        }, {
+            "name": "Sorilla' s Fresh Produce",
+            "map": "Haven",
+            "fCoords": "1393, 3768",
+            "waCoords": "--, --",
+            "leaflet": "3485.391,  1421.429",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: D11 (LC)",
+            "type": "Greengrocer",
+            "description": ""
+        }, {
+            "name": "Soul's Anchor",
+            "map": "Haven",
+            "fCoords": "6211, 5187",
+            "waCoords": "--, --",
+            "leaflet": "2037.432,  6337.755",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U06 (AU)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Southbridge Barracks",
+            "map": "Haven",
+            "fCoords": "4964, 5259",
+            "waCoords": "4954, 1920",
+            "leaflet": "1963.962,  5065.306",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: P06 (EL)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Spearchucker's",
+            "map": "Haven",
+            "fCoords": "1430, 5296",
+            "waCoords": "--, --",
+            "leaflet": "1926.207,  1459.184",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: D06 (QF)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Spectacular Spectacles",
+            "map": "Haven",
+            "fCoords": "2902, 4051",
+            "waCoords": "--, --",
+            "leaflet": "3196.615,  2961.224",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: J10 (JI)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Stables and Pens of Darankis t'Goran",
+            "map": "Haven",
+            "fCoords": "627, 4500",
+            "waCoords": "--, --",
+            "leaflet": "2738.452,  639.796",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B08 (PU)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Stage Depot - Fargot & Weishe",
+            "map": "Haven",
+            "fCoords": "1256, 4828",
+            "waCoords": "--, --",
+            "leaflet": "2403.758,  1281.633",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: D07 (QB)",
+            "type": "Stagecoach",
+            "description": ""
+        }, {
+            "name": "Stammrig - Bootblack",
+            "map": "Haven",
+            "fCoords": "493, 2837",
+            "waCoords": "--, --",
+            "leaflet": "4435.391,  503.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A14 (HW)",
+            "type": "Footwear",
+            "description": ""
+        }, {
+            "name": "Starkedelve Brewery",
+            "map": "Haven",
+            "fCoords": "390, 2482",
+            "waCoords": "--, --",
+            "leaflet": "4797.636,  397.959",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A15 (IH)",
+            "type": "Brewer",
+            "description": ""
+        }, {
+            "name": "Starkindler",
+            "map": "Haven",
+            "fCoords": "2084, 4283",
+            "waCoords": "--, --",
+            "leaflet": "2959.881,  2126.531",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G09 (NG)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "Stock Yards",
+            "map": "Haven",
+            "fCoords": "843, 4768",
+            "waCoords": "--, --",
+            "leaflet": "2464.983,  860.204",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B08 (PQ)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Stonecutter's Yards",
+            "map": "Haven",
+            "fCoords": "4870, 5140",
+            "waCoords": "--, --",
+            "leaflet": "2085.391,  4969.388",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: P06 (EJ)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Student Tenements",
+            "map": "Haven",
+            "fCoords": "1711, 4216",
+            "waCoords": "1710, 2955",
+            "leaflet": "3028.248,  1745.918",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: E09 (LU)",
+            "type": "Student Tenements",
+            "description": "Part of the University of Haven"
+        }, {
+            "name": "Studio Lane",
+            "map": "Haven",
+            "fCoords": "3346, 1742",
+            "waCoords": "3236, 5644",
+            "leaflet": "5552.738,  3414.286",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: K18 (SY)",
+            "type": "Street",
+            "description": "At one time, the home for many artists who served the whims of wealthy patrons in the Heights. Mostly residential now."
+        }, {
+            "name": "Studio of Albrekki arn Dur - artist",
+            "map": "Haven",
+            "fCoords": "364, 3776",
+            "waCoords": "--, --",
+            "leaflet": "3477.228,  371.429",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A11 (KQ)",
+            "type": "Artist",
+            "description": ""
+        }, {
+            "name": "Style Matters",
+            "map": "Haven",
+            "fCoords": "2312, 4335",
+            "waCoords": "--, --",
+            "leaflet": "2906.819,  2359.184",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H09 (NQ)",
+            "type": "Tailor",
+            "description": ""
+        }, {
+            "name": "Summ Mercenaries",
+            "map": "Haven",
+            "fCoords": "3538, 3725",
+            "waCoords": "--, --",
+            "leaflet": "3529.268,  3610.204",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: L11 (JJ)",
+            "type": "Mercenaries",
+            "description": ""
+        }, {
+            "name": "Sundance - Inc.",
+            "map": "Haven",
+            "fCoords": "2357, 4902",
+            "waCoords": "--, --",
+            "leaflet": "2328.248,  2405.102",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: H07 (MV)",
+            "type": "Dance",
+            "description": ""
+        }, {
+            "name": "Suttler on the Green",
+            "map": "Haven",
+            "fCoords": "1500, 3247",
+            "waCoords": "--, --",
+            "leaflet": "4017.023,  1530.612",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E13 (IS)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "Sweet Springs",
+            "map": "Haven",
+            "fCoords": "3511, 3774",
+            "waCoords": "--, --",
+            "leaflet": "3479.268,  3582.653",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: L11 (JK)",
+            "type": "Laundry",
+            "description": ""
+        }, {
+            "name": "Sym's Storage Company",
+            "map": "Haven",
+            "fCoords": "6250, 5426",
+            "waCoords": "--, --",
+            "leaflet": "1793.554,  6377.551",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: U05 (AM)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "T. Barnum Pott Memorial Museum",
+            "map": "Haven",
+            "fCoords": "880, 3690",
+            "waCoords": "--, --",
+            "leaflet": "3564.983,  897.959",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: C11 (LD)",
+            "type": "Museum",
+            "description": ""
+        }, {
+            "name": "Tabitha's",
+            "map": "Haven",
+            "fCoords": "4632, 1362",
+            "waCoords": "--, --",
+            "leaflet": "5940.493,  4726.531",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P19 (GS)",
+            "type": "Baker",
+            "description": ""
+        }, {
+            "name": "Tainley Family Residence",
+            "map": "Haven",
+            "fCoords": "2550, 1088",
+            "waCoords": "--, --",
+            "leaflet": "6220.085,  2602.041",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: H20 (CW)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Taki's Storage",
+            "map": "Haven",
+            "fCoords": "2848, 5832",
+            "waCoords": "--, --",
+            "leaflet": "1379.268,  2906.122",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: I04 (QP)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Tambel - Sculptress",
+            "map": "Haven",
+            "fCoords": "980, 2784",
+            "waCoords": "--, --",
+            "leaflet": "4489.472,  1000.",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C14 (HV)",
+            "type": "Artist",
+            "description": ""
+        }, {
+            "name": "Tandouray Spice Co.",
+            "map": "Haven",
+            "fCoords": "6234, 4896",
+            "waCoords": "--, --",
+            "leaflet": "2334.37,  6361.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U07 (BH)",
+            "type": "Spices",
+            "description": ""
+        }, {
+            "name": "Tandy - Leathers",
+            "map": "Haven",
+            "fCoords": "6463, 2555",
+            "waCoords": "--, --",
+            "leaflet": "4723.146,  6594.898",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: V15 (AC)",
+            "type": "Leatherworker",
+            "description": ""
+        }, {
+            "name": "Tarmialda 'The Loft'",
+            "map": "Haven",
+            "fCoords": "2250, 3821",
+            "waCoords": "2251, 3367",
+            "leaflet": "3431.309,  2295.918",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: G11 (JE)",
+            "type": "Restaurant",
+            "description": "One of the best dining establishments in the city"
+        }, {
+            "name": "Tedius and Sprig",
+            "map": "Haven",
+            "fCoords": "1011, 4525",
+            "waCoords": "--, --",
+            "leaflet": "2712.942,  1031.633",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C08 (PZ)",
+            "type": "Weapons",
+            "description": ""
+        }, {
+            "name": "Teleril - Architect",
+            "map": "Haven",
+            "fCoords": "3471, 3723",
+            "waCoords": "--, --",
+            "leaflet": "3531.309,  3541.837",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: L11 (JA)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Temple of Ariel",
+            "map": "Haven",
+            "fCoords": "4729, 3221",
+            "waCoords": "4735, 3974",
+            "leaflet": "4043.554,  4825.51",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: P13 (RZ)",
+            "type": "Temple",
+            "description": "Ariel: Goddess of Love and Beauty, Patron of the Arts"
+        }, {
+            "name": "Temple of Azriel",
+            "map": "Haven",
+            "fCoords": "5083, 3368",
+            "waCoords": "5091, 3823",
+            "leaflet": "3893.554,  5186.735",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: Q12 (TX)",
+            "type": "Temple",
+            "description": "Azriel: Goddess of Disease and Suffering, Mistress of Pain"
+        }, {
+            "name": "Temple of Ea",
+            "map": "Haven",
+            "fCoords": "5281, 3634",
+            "waCoords": "5284, 3556",
+            "leaflet": "3622.126,  5388.776",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: R11 (HM)",
+            "type": "Temple",
+            "description": "Ea: Goddess of the Air"
+        }, {
+            "name": "Temple of Etheah",
+            "map": "Haven",
+            "fCoords": "4646, 3117",
+            "waCoords": "4642, 4076",
+            "leaflet": "4149.677,  4740.816",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: P13 (RS)",
+            "type": "Temple",
+            "description": "Etheah: Goddess of Nature"
+        }, {
+            "name": "Temple of Istara",
+            "map": "Haven",
+            "fCoords": "5122, 3569",
+            "waCoords": "5111, 3610",
+            "leaflet": "3688.452,  5226.531",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: Q12 (BO)",
+            "type": "Temple",
+            "description": "Istara: Goddess of Magic"
+        }, {
+            "name": "Temple of Ladros",
+            "map": "Haven",
+            "fCoords": "4267, 2631",
+            "waCoords": "4268, 4534",
+            "leaflet": "4645.595,  4354.082",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: N15 (GW)",
+            "type": "Temple",
+            "description": "Ladros: God of Knowledge, Father of the Gods"
+        }, {
+            "name": "Temple of Maedhros",
+            "map": "Haven",
+            "fCoords": "4878, 3180",
+            "waCoords": "4887, 4007",
+            "leaflet": "4085.391,  4977.551",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: P13 (NN)",
+            "type": "Temple",
+            "description": "Maedhros: God of Fire, Patron of Metalworkers"
+        }, {
+            "name": "Temple of Mandos",
+            "map": "Haven",
+            "fCoords": "4990, 3430",
+            "waCoords": "4978, 3750",
+            "leaflet": "3830.289,  5091.837",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: Q12 (TW)",
+            "type": "Temple",
+            "description": "Mandos : God of Death"
+        }, {
+            "name": "Temple of Narconal",
+            "map": "Haven",
+            "fCoords": "4836, 3306",
+            "waCoords": "4830, 3876",
+            "leaflet": "3956.819,  4934.694",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: P12 (HK)",
+            "type": "Temple",
+            "description": "Narconal: God of the Earth and Agriculture"
+        }, {
+            "name": "Temple of Nenya",
+            "map": "Haven",
+            "fCoords": "4365, 2882",
+            "waCoords": "4362, 4318",
+            "leaflet": "4389.472,  4454.082",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: O14 (GV)",
+            "type": "Temple",
+            "description": "Nenya: Goddess of the Sea, Mother of Storms, Patron of Sailors"
+        }, {
+            "name": "Temple of Serindë",
+            "map": "Haven",
+            "fCoords": "3916, 2667",
+            "waCoords": "3921, 4566",
+            "leaflet": "4608.86,  3995.918",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: M15 (GU)",
+            "type": "Temple",
+            "description": "Serindë: Goddess of Truth, Mother of the Gods"
+        }, {
+            "name": "Temple of Strathos",
+            "map": "Haven",
+            "fCoords": "4457, 2750",
+            "waCoords": "4455, 4426",
+            "leaflet": "4524.166,  4547.959",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: O14 (GX)",
+            "type": "Temple",
+            "description": "Strathos: God of War, Strength & Courage, Patron of Warriors"
+        }, {
+            "name": "Temple of Thalos",
+            "map": "Haven",
+            "fCoords": "5014, 3328",
+            "waCoords": "5010, 3858",
+            "leaflet": "3934.37,  5116.327",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: Q12 (HL)",
+            "type": "Temple",
+            "description": "Thalos: God of the Night, Patron of Thieves, Lord of Mischief"
+        }, {
+            "name": "Temple of Vairë",
+            "map": "Haven",
+            "fCoords": "4966, 3235",
+            "waCoords": "4959, 3940",
+            "leaflet": "4029.268,  5067.347",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: Q13 (TY)",
+            "type": "Temple",
+            "description": ""
+        }, {
+            "name": "Tent of Miranda",
+            "map": "Haven",
+            "fCoords": "4356, 3815",
+            "waCoords": "--, --",
+            "leaflet": "3437.432,  4444.898",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: O11 (RI)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Abbey of Eollana",
+            "map": "Haven",
+            "fCoords": "1102, 3969",
+            "waCoords": "--, --",
+            "leaflet": "3280.289,  1124.49",
+            "pinType": "Religion",
+            "mapRef": "Map Ref.: C10 (KX)",
+            "type": "Abbey",
+            "description": ""
+        }, {
+            "name": "The Academy",
+            "map": "Haven",
+            "fCoords": "1271, 5272",
+            "waCoords": "--, --",
+            "leaflet": "1950.697,  1296.939",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: D06 (RT)",
+            "type": "City Guard",
+            "description": ""
+        }, {
+            "name": "The Aerie",
+            "map": "Haven",
+            "fCoords": "1947, 2124",
+            "waCoords": "1988, 5049",
+            "leaflet": "5162.942,  1986.735",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: F16 (CD)",
+            "type": "Restaurant",
+            "description": "One of the best dining establishments in the city"
+        }, {
+            "name": "The Arrow's Flight",
+            "map": "Haven",
+            "fCoords": "1060, 4729",
+            "waCoords": "--, --",
+            "leaflet": "2504.779,  1081.633",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: C08 (PK)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Auction Block",
+            "map": "Haven",
+            "fCoords": "995, 4849",
+            "waCoords": "--, --",
+            "leaflet": "2382.33,  1015.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C07 (PN)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "The Auction Pens",
+            "map": "Haven",
+            "fCoords": "893, 4870",
+            "waCoords": "--, --",
+            "leaflet": "2360.901,  911.224",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C07 (PO)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "The Axe and Anvil",
+            "map": "Haven",
+            "fCoords": "534, 3763",
+            "waCoords": "--, --",
+            "leaflet": "3490.493,  544.898",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: A11 (KK)",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "The Bandersnatch Inn",
+            "map": "Haven",
+            "fCoords": "1697, 3233",
+            "waCoords": "--, --",
+            "leaflet": "4031.309,  1731.633",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: E13 (IN)",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "The Bar None",
+            "map": "Haven",
+            "fCoords": "3056, 5626",
+            "waCoords": "1030, 605",
+            "leaflet": "1589.472,  3118.367",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: J05 (QS)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Bargain Barn",
+            "map": "Haven",
+            "fCoords": "3859, 6110",
+            "waCoords": "--, --",
+            "leaflet": "1095.595,  3937.755",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FE)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "The Barn",
+            "map": "Haven",
+            "fCoords": "2506, 5940",
+            "waCoords": "--, --",
+            "leaflet": "1269.064,  2557.143",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H04 (TS)",
+            "type": "Livery",
+            "description": ""
+        }, {
+            "name": "The Bent Page",
+            "map": "Haven",
+            "fCoords": "2935, 4036",
+            "waCoords": "--, --",
+            "leaflet": "3211.921,  2994.898",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: J10 (JG)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Black Halls",
+            "map": "Haven",
+            "fCoords": "4369, 2314",
+            "waCoords": "--, --",
+            "leaflet": "4969.064,  4458.163",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: O16 (GL)",
+            "type": "Prison",
+            "description": ""
+        }, {
+            "name": "The Black Swan",
+            "map": "Haven",
+            "fCoords": "5776, 2476",
+            "waCoords": "5778, 4702",
+            "leaflet": "4803.758,  5893.878",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: T15 (SA)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Black Whip",
+            "map": "Haven",
+            "fCoords": "3769, 4936",
+            "waCoords": "--, --",
+            "leaflet": "2293.554,  3845.918",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M07 (DU)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Blue Harper",
+            "map": "Haven",
+            "fCoords": "3615, 4656",
+            "waCoords": "3596, 2517",
+            "leaflet": "2579.268,  3688.776",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: L08 (TN)",
+            "type": "Restaurant",
+            "description": "One of the finer placest to eat in the city"
+        }, {
+            "name": "The Blue Lantern",
+            "map": "Haven",
+            "fCoords": "3872, 5006",
+            "waCoords": "--, --",
+            "leaflet": "2222.126,  3951.02",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M07 (DG)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Blue Moon Tavern",
+            "map": "Haven",
+            "fCoords": "4730, 5930",
+            "waCoords": "--, --",
+            "leaflet": "1279.268,  4826.531",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: P04 (SX)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Boar's Head",
+            "map": "Haven",
+            "fCoords": "2768, 5465",
+            "waCoords": "39, 1238",
+            "leaflet": "1753.758,  2824.49",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: I05 (OU)",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "The Bookworm",
+            "map": "Haven",
+            "fCoords": "2085, 3954",
+            "waCoords": "--, --",
+            "leaflet": "3295.595,  2127.551",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G10 (JZ)",
+            "type": "Written Word",
+            "description": ""
+        }, {
+            "name": "The Brass Blade",
+            "map": "Haven",
+            "fCoords": "4238, 4550",
+            "waCoords": "--, --",
+            "leaflet": "2687.432,  4324.49",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: N08 (TZ)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Briarthorn Inn",
+            "map": "Haven",
+            "fCoords": "3689, 5913",
+            "waCoords": "--, --",
+            "leaflet": "1296.615,  3764.286",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: L04 (FJ)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "The Bronze Rat Memorial",
+            "map": "Haven",
+            "fCoords": "4867, 6251",
+            "waCoords": "4857, 921",
+            "leaflet": "951.717,  4966.327",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: P03 (FP)",
+            "type": "Monument",
+            "description": "The statue of a rat, a memorial to who knows what."
+        }, {
+            "name": "The Citadel",
+            "map": "Haven",
+            "fCoords": "3293, 3085",
+            "waCoords": "3309, 4111",
+            "leaflet": "4182.33,  3360.204",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: K13 (RE)",
+            "type": "Government",
+            "description": "The ceremonial center of Haven. "
+        }, {
+            "name": "The Cleff",
+            "map": "Haven",
+            "fCoords": "2423, 4996",
+            "waCoords": "--, --",
+            "leaflet": "2232.33,  2472.449",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: H07 (ME)",
+            "type": "Street",
+            "description": ""
+        }, {
+            "name": "The Clothes Closet",
+            "map": "Haven",
+            "fCoords": "990, 3056",
+            "waCoords": "--, --",
+            "leaflet": "4211.921,  1010.204",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C13 (ID)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "The Cock and Bull",
+            "map": "Haven",
+            "fCoords": "2045, 5422",
+            "waCoords": "--, --",
+            "leaflet": "1797.636,  2086.735",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: G05 (OY)",
+            "type": "Gaming",
+            "description": ""
+        }, {
+            "name": "The Crocked Constable",
+            "map": "Haven",
+            "fCoords": "3060, 5673",
+            "waCoords": "1029, 414",
+            "leaflet": "1541.513,  3122.449",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: J05 (PA)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Crystal Ship",
+            "map": "Haven",
+            "fCoords": "6320, 5466",
+            "waCoords": "--, --",
+            "leaflet": "1752.738,  6448.98",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U05 (AK)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Dancing Horse",
+            "map": "Haven",
+            "fCoords": "1393, 5347",
+            "waCoords": "--, --",
+            "leaflet": "1874.166,  1421.429",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: D06 (QH)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Delver's Trove",
+            "map": "Haven",
+            "fCoords": "696, 2837",
+            "waCoords": "--, --",
+            "leaflet": "4435.391,  710.204",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: B14 (IL)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Dreamseller's",
+            "map": "Haven",
+            "fCoords": "3787, 6193",
+            "waCoords": "--, --",
+            "leaflet": "1010.901,  3864.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FK)",
+            "type": "Potions",
+            "description": ""
+        }, {
+            "name": "The Ducal Arms Theater",
+            "map": "Haven",
+            "fCoords": "2207, 4957",
+            "waCoords": "--, --",
+            "leaflet": "2272.126,  2252.041",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: G07 (MM)",
+            "type": "Theatre",
+            "description": ""
+        }, {
+            "name": "The Dwarrow Smithy",
+            "map": "Haven",
+            "fCoords": "947, 2677",
+            "waCoords": "--, --",
+            "leaflet": "4598.656,  966.327",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C15 (IG)",
+            "type": "Blacksmith",
+            "description": ""
+        }, {
+            "name": "The Feather and Frock",
+            "map": "Haven",
+            "fCoords": "5539, 1598",
+            "waCoords": "--, --",
+            "leaflet": "5699.677,  5652.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: S18 (GJ)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "The Fluttering Veil",
+            "map": "Haven",
+            "fCoords": "4351, 5970",
+            "waCoords": "--, --",
+            "leaflet": "1238.452,  4439.796",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: O04 (FU)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Foundry",
+            "map": "Haven",
+            "fCoords": "6071, 5076",
+            "waCoords": "--, --",
+            "leaflet": "2150.697,  6194.898",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U07 (BD)",
+            "type": "Foundry",
+            "description": ""
+        }, {
+            "name": "The Four of Swords",
+            "map": "Haven",
+            "fCoords": "1124, 4251",
+            "waCoords": "--, --",
+            "leaflet": "2992.534,  1146.939",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: C09 (LK)",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "The Four Ox Team",
+            "map": "Haven",
+            "fCoords": "1104, 4928",
+            "waCoords": "--, --",
+            "leaflet": "2301.717,  1126.531",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: C07 (PG)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Fox and Goose",
+            "map": "Haven",
+            "fCoords": "3926, 5157",
+            "waCoords": "--, --",
+            "leaflet": "2068.044,  4006.122",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M06 (DH)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Giggling Gryphon",
+            "map": "Haven",
+            "fCoords": "6428, 2802",
+            "waCoords": "--, --",
+            "leaflet": "4471.105,  6559.184",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: V14 (ME)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Gilded Cage",
+            "map": "Haven",
+            "fCoords": "3338, 3850",
+            "waCoords": "--, --",
+            "leaflet": "3401.717,  3406.122",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: K11 (JP)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Glass Smelter",
+            "map": "Haven",
+            "fCoords": "4389, 4373",
+            "waCoords": "--, --",
+            "leaflet": "2868.044,  4478.571",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: O09 (EG)",
+            "type": "Glass",
+            "description": ""
+        }, {
+            "name": "The Golden Ducat",
+            "map": "Haven",
+            "fCoords": "2172, 1075",
+            "waCoords": "2169, 6092",
+            "leaflet": "6233.35,  2216.327",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: G20 (CC)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Golden Goblet",
+            "map": "Haven",
+            "fCoords": "5404, 2701",
+            "waCoords": "--, --",
+            "leaflet": "4574.166,  5514.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: R14 (GR)",
+            "type": "Drinkware",
+            "description": ""
+        }, {
+            "name": "The Golden Sovereign",
+            "map": "Haven",
+            "fCoords": "3020, 5413",
+            "waCoords": "--, --",
+            "leaflet": "1806.819,  3081.633",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: J05 (PC)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Gray Halls",
+            "map": "Haven",
+            "fCoords": "2122, 5795",
+            "waCoords": "2155, 1383",
+            "leaflet": "1417.023,  2165.306",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: G04 (OS)",
+            "type": "Prison",
+            "description": "A prision"
+        }, {
+            "name": "The Green",
+            "map": "Haven",
+            "fCoords": "1453, 3167",
+            "waCoords": "1461, 4014",
+            "leaflet": "4098.656,  1482.653",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: E13 (SN)",
+            "type": "Park",
+            "description": "The central of life in The Dell. Ironic since it's mostly brown or grey stone"
+        }, {
+            "name": "The Green Gryphon",
+            "map": "Haven",
+            "fCoords": "4458, 6068",
+            "waCoords": "--, --",
+            "leaflet": "1138.452,  4548.98",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: O03 (FV)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Grey Halls",
+            "map": "Haven",
+            "fCoords": "2285, 5830",
+            "waCoords": "--, --",
+            "leaflet": "1381.309,  2331.633",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: G04",
+            "type": "Prison",
+            "description": ""
+        }, {
+            "name": "The Grubstake",
+            "map": "Haven",
+            "fCoords": "472, 3339",
+            "waCoords": "--, --",
+            "leaflet": "3923.146,  481.633",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A12 (IC)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "The Hall of All Guilds",
+            "map": "Haven",
+            "fCoords": "4091, 2219",
+            "waCoords": "4100, 4959",
+            "leaflet": "5066.003,  4174.49",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: N16 (GH)",
+            "type": "Guildhouse",
+            "description": "This building serves a couple purposes. First, it provides a meeting place for guilds that don't have their own hall. It is also where the Council of Masters meets."
+        }, {
+            "name": "The Hanged Man",
+            "map": "Haven",
+            "fCoords": "4343, 2372",
+            "waCoords": "4334, 4809",
+            "leaflet": "4909.881,  4431.633",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: O16 (GF)",
+            "type": "Tavern",
+            "description": "A tavern popular with the legal crowd"
+        }, {
+            "name": "The Harp Sellers",
+            "map": "Haven",
+            "fCoords": "2264, 4937",
+            "waCoords": "--, --",
+            "leaflet": "2292.534,  2310.204",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G07 (MJ)",
+            "type": "Musical Instruments",
+            "description": ""
+        }, {
+            "name": "The Hearth and Hound",
+            "map": "Haven",
+            "fCoords": "4016, 5662",
+            "waCoords": "--, --",
+            "leaflet": "1552.738,  4097.959",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M05 (FI)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The House of Healing",
+            "map": "Haven",
+            "fCoords": "2474, 4386",
+            "waCoords": "2472, 2807",
+            "leaflet": "2854.779,  2524.49",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: H09 (NV)",
+            "type": "Medical",
+            "description": "One of the more trustworthy places to be healed."
+        }, {
+            "name": "The House of Lionel",
+            "map": "Haven",
+            "fCoords": "3635, 4556",
+            "waCoords": "--, --",
+            "leaflet": "2681.309,  3709.184",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: L08 (OI)",
+            "type": "Inn (Caravanserai)",
+            "description": ""
+        }, {
+            "name": "The House of Mordecai - Healer",
+            "map": "Haven",
+            "fCoords": "4650, 6259",
+            "waCoords": "--, --",
+            "leaflet": "943.554,  4744.898",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: P03 (FQ)",
+            "type": "House",
+            "description": ""
+        }, {
+            "name": "The House of Mr. Rasputin",
+            "map": "Haven",
+            "fCoords": "3638, 6154",
+            "waCoords": "--, --",
+            "leaflet": "1050.697,  3712.245",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: L03 (EU)",
+            "type": "Large House",
+            "description": ""
+        }, {
+            "name": "The Inn of the Seven Sisters",
+            "map": "Haven",
+            "fCoords": "5780, 2203",
+            "waCoords": "5783, 4967",
+            "leaflet": "5082.33,  5897.959",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: T16 (GM)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Invisible Shop",
+            "map": "Haven",
+            "fCoords": "2343, 4264",
+            "waCoords": "--, --",
+            "leaflet": "2979.268,  2390.816",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H09 (NM)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "The Iron Horse",
+            "map": "Haven",
+            "fCoords": "1029, 4982",
+            "waCoords": "--, --",
+            "leaflet": "2246.615,  1050.",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: C07 (PP)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Ironmongery",
+            "map": "Haven",
+            "fCoords": "504, 3579",
+            "waCoords": "--, --",
+            "leaflet": "3678.248,  514.286",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A12 (KJ)",
+            "type": "Metalwork",
+            "description": ""
+        }, {
+            "name": "The Jumping Jade",
+            "map": "Haven",
+            "fCoords": "1177, 4716",
+            "waCoords": "1192, 2460",
+            "leaflet": "2518.044,  1201.02",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: D08 (PH)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Kitchen Cabinet",
+            "map": "Haven",
+            "fCoords": "1668, 3199",
+            "waCoords": "--, --",
+            "leaflet": "4066.003,  1702.041",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E13 (IU)",
+            "type": "Carpenter",
+            "description": ""
+        }, {
+            "name": "The Knighte Oute",
+            "map": "Haven",
+            "fCoords": "2853, 5374",
+            "waCoords": "--, --",
+            "leaflet": "1846.615,  2911.224",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: I06 (OT)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Lamb and Lime",
+            "map": "Haven",
+            "fCoords": "1528, 4312",
+            "waCoords": "1527, 2874",
+            "leaflet": "2930.289,  1559.184",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: E09 (TO)",
+            "type": "Restaurant",
+            "description": "One of the finer placest to eat in the city"
+        }, {
+            "name": "The Leaf and Jar",
+            "map": "Haven",
+            "fCoords": "1817, 3416",
+            "waCoords": "--, --",
+            "leaflet": "3844.574,  1854.082",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: F12 (IM)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Library",
+            "map": "Haven",
+            "fCoords": "1935, 3919",
+            "waCoords": "--, --",
+            "leaflet": "3331.309,  1974.49",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: F10 (JW)",
+            "type": "Government",
+            "description": ""
+        }, {
+            "name": "The Lonely Lecher",
+            "map": "Haven",
+            "fCoords": "4133, 5557",
+            "waCoords": "4147, 1627",
+            "leaflet": "1659.881,  4217.347",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: N05 (SD)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Lover's Not",
+            "map": "Haven",
+            "fCoords": "3857, 4868",
+            "waCoords": "--, --",
+            "leaflet": "2362.942,  3935.714",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M07 (EB)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Lying Lawyer",
+            "map": "Haven",
+            "fCoords": "4632, 2472",
+            "waCoords": "4632, 4703",
+            "leaflet": "4807.84,  4726.531",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: P15 (GG)",
+            "type": "Tavern",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Maid of Asdor",
+            "map": "Haven",
+            "fCoords": "5530, 2215",
+            "waCoords": "5559, 4957",
+            "leaflet": "5070.085,  5642.857",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: S16 (SE)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Mallorn",
+            "map": "Haven",
+            "fCoords": "1338, 3611",
+            "waCoords": "--, --",
+            "leaflet": "3645.595,  1365.306",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: D11 (KW)",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "The Man-at-Arms",
+            "map": "Haven",
+            "fCoords": "6068, 1948",
+            "waCoords": "6073, 5228",
+            "leaflet": "5342.534,  6191.837",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U17 (SF)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Market Inn",
+            "map": "Haven",
+            "fCoords": "3056, 5495",
+            "waCoords": "3055, 1690",
+            "leaflet": "1723.146,  3118.367",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: J05 (PB)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Mask Maker's Shop",
+            "map": "Haven",
+            "fCoords": "707, 3546",
+            "waCoords": "--, --",
+            "leaflet": "3711.921,  721.429",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B12 (KT)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "The Master Puppeteer",
+            "map": "Haven",
+            "fCoords": "2155, 4982",
+            "waCoords": "--, --",
+            "leaflet": "2246.615,  2198.98",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G07 (MF)",
+            "type": "Toymaker",
+            "description": ""
+        }, {
+            "name": "The Master's Quill",
+            "map": "Haven",
+            "fCoords": "471, 3751",
+            "waCoords": "--, --",
+            "leaflet": "3502.738,  480.612",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A11 (KO)",
+            "type": "Written Word",
+            "description": ""
+        }, {
+            "name": "The Mathom House",
+            "map": "Haven",
+            "fCoords": "1623, 3205",
+            "waCoords": "--, --",
+            "leaflet": "4059.881,  1656.122",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: E13 (IV)",
+            "type": "General Goods",
+            "description": ""
+        }, {
+            "name": "The Mermaid",
+            "map": "Haven",
+            "fCoords": "5952, 5206",
+            "waCoords": "--, --",
+            "leaflet": "2018.044,  6073.469",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: T06 (AW)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Midnight Oil",
+            "map": "Haven",
+            "fCoords": "3544, 2467",
+            "waCoords": "--, --",
+            "leaflet": "4812.942,  3616.327",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: L15 (UF)",
+            "type": "The Midnight Oil",
+            "description": ""
+        }, {
+            "name": "The Mint",
+            "map": "Haven",
+            "fCoords": "5146, 3046",
+            "waCoords": "5156, 4107",
+            "leaflet": "4222.126,  5251.02",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: Q13 (GE)",
+            "type": "Government",
+            "description": "Where coins and other valuables are struck"
+        }, {
+            "name": "The Moneymonger",
+            "map": "Haven",
+            "fCoords": "6114, 4887",
+            "waCoords": "--, --",
+            "leaflet": "2343.554,  6238.776",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U07 (TK)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "The Navy Yard of Haven",
+            "map": "Haven",
+            "fCoords": "6004, 5691",
+            "waCoords": "6038, 1468",
+            "leaflet": "1523.146,  6126.531",
+            "pinType": "Government",
+            "mapRef": "Map Ref.: T04 (AE)",
+            "type": "Military",
+            "description": "Naval docks"
+        }, {
+            "name": "The Offices of Miller & Co.",
+            "map": "Haven",
+            "fCoords": "1044, 3552",
+            "waCoords": "--, --",
+            "leaflet": "3705.799,  1065.306",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C12 (LE)",
+            "type": "Cooper",
+            "description": ""
+        }, {
+            "name": "The Old Clothes Shop",
+            "map": "Haven",
+            "fCoords": "4789, 5934",
+            "waCoords": "--, --",
+            "leaflet": "1275.187,  4886.735",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P04 (SZ)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "The Old Walls",
+            "map": "Haven",
+            "fCoords": "6001, 3045",
+            "waCoords": "5998, 4135",
+            "leaflet": "4223.146,  6123.469",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: T13 (ST)",
+            "type": "Tavern",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Orc Warren",
+            "map": "Haven",
+            "fCoords": "4114, 6575",
+            "waCoords": "--, --",
+            "leaflet": "621.105,  4197.959",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: N02 (GA)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Pendragon Inn",
+            "map": "Haven",
+            "fCoords": "1484, 4688",
+            "waCoords": "1483, 2478",
+            "leaflet": "2546.615,  1514.286",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: E08 (OL)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Pentacle",
+            "map": "Haven",
+            "fCoords": "2218, 4306",
+            "waCoords": "--, --",
+            "leaflet": "2936.411,  2263.265",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G09 (NF)",
+            "type": "Magic",
+            "description": ""
+        }, {
+            "name": "The Perfumed Garden",
+            "map": "Haven",
+            "fCoords": "3875, 5253",
+            "waCoords": "--, --",
+            "leaflet": "1970.085,  3954.082",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M06 (DX)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Prancing Pony",
+            "map": "Haven",
+            "fCoords": "3315, 5692",
+            "waCoords": "3313, 1485",
+            "leaflet": "1522.126,  3382.653",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: K04 (RD)",
+            "type": "Tavern",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Purple Cow",
+            "map": "Haven",
+            "fCoords": "2829, 1973",
+            "waCoords": "--, --",
+            "leaflet": "5317.023,  2886.735",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: I17 (SU)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Red Rooster",
+            "map": "Haven",
+            "fCoords": "3955, 5252",
+            "waCoords": "--, --",
+            "leaflet": "1971.105,  4035.714",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M06 (DR)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Ruined Barracks of the Strathspey Regiment",
+            "map": "Haven",
+            "fCoords": "1943, 3796",
+            "waCoords": "--, --",
+            "leaflet": "3456.819,  1982.653",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: F11 (JV)",
+            "type": "Ruin",
+            "description": ""
+        }, {
+            "name": "The Ruins of the South Keep",
+            "map": "Haven",
+            "fCoords": "4988, 4449",
+            "waCoords": "5014, 2723",
+            "leaflet": "2790.493,  5089.796",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: Q09 (RQ)",
+            "type": "Ruin",
+            "description": "The ruins of the original keep built on what is now Trade Island"
+        }, {
+            "name": "The Sackbut and Psalter",
+            "map": "Haven",
+            "fCoords": "2331, 4672",
+            "waCoords": "2332, 2510",
+            "leaflet": "2562.942,  2378.571",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: H08 (MN)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Seasick Parrot",
+            "map": "Haven",
+            "fCoords": "6136, 5622",
+            "waCoords": "--, --",
+            "leaflet": "1593.554,  6261.224",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U05 (AH)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Secret Cabinet",
+            "map": "Haven",
+            "fCoords": "3488, 3688",
+            "waCoords": "--, --",
+            "leaflet": "3567.023,  3559.184",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L11 (JU)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "The Shady Rest Inn",
+            "map": "Haven",
+            "fCoords": "1809, 5159",
+            "waCoords": "1806, 2023",
+            "leaflet": "2066.003,  1845.918",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: F06 (OR)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Shaving Mill",
+            "map": "Haven",
+            "fCoords": "3952, 5470",
+            "waCoords": "--, --",
+            "leaflet": "1748.656,  4032.653",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: M05 (DV)",
+            "type": "Barber",
+            "description": ""
+        }, {
+            "name": "The Shieldwood",
+            "map": "Haven",
+            "fCoords": "2657, 3352",
+            "waCoords": "2643, 3803",
+            "leaflet": "3909.881,  2711.224",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: I12 (SV)",
+            "type": "Park",
+            "description": "These woods form the northern boundry of Erinhir, along the south bank of the Dorian."
+        }, {
+            "name": "The Silken Chain",
+            "map": "Haven",
+            "fCoords": "3811, 5107",
+            "waCoords": "--, --",
+            "leaflet": "2119.064,  3888.776",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M06 (DZ)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "The Silver Penny",
+            "map": "Haven",
+            "fCoords": "3736, 6111",
+            "waCoords": "--, --",
+            "leaflet": "1094.574,  3812.245",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: L03 (EZ)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Silver Star",
+            "map": "Haven",
+            "fCoords": "3255, 3867",
+            "waCoords": "--, --",
+            "leaflet": "3384.37,  3321.429",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: K11 (JD)",
+            "type": "Restaurant",
+            "description": ""
+        }, {
+            "name": "The Silver Stringed Bouzouki",
+            "map": "Haven",
+            "fCoords": "2889, 5784",
+            "waCoords": "--, --",
+            "leaflet": "1428.248,  2947.959",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: J04 (OW)",
+            "type": "Theatre",
+            "description": ""
+        }, {
+            "name": "The Silver Trumpet",
+            "map": "Haven",
+            "fCoords": "3021, 4652",
+            "waCoords": "3018, 2522",
+            "leaflet": "2583.35,  3082.653",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: J08 (LX)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Slop Chest",
+            "map": "Haven",
+            "fCoords": "6169, 5478",
+            "waCoords": "--, --",
+            "leaflet": "1740.493,  6294.898",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U05 (AP)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Snowblind Mouse",
+            "map": "Haven",
+            "fCoords": "6216, 3373",
+            "waCoords": "--, --",
+            "leaflet": "3888.452,  6342.857",
+            "pinType": "Dining",
+            "mapRef": "Map Ref.: U12 (AA)",
+            "type": "Restaurant",
+            "description": ""
+        }, {
+            "name": "The Speedwell Inn",
+            "map": "Haven",
+            "fCoords": "4814, 2791",
+            "waCoords": "4810, 4395",
+            "leaflet": "4482.33,  4912.245",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: P14 (SG)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Stone Hammer",
+            "map": "Haven",
+            "fCoords": "744, 3121",
+            "waCoords": "747, 4061",
+            "leaflet": "4145.595,  759.184",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: B13 (HO)",
+            "type": "Tavern",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Surgery",
+            "map": "Haven",
+            "fCoords": "1692, 3932",
+            "waCoords": "1701, 3278",
+            "leaflet": "3318.044,  1726.531",
+            "pinType": "Medical",
+            "mapRef": "Map Ref.: E10 (TM)",
+            "type": "Medical",
+            "description": "One of the more trustworthy places to be healed."
+        }, {
+            "name": "The Thieves' Guild House",
+            "map": "Haven",
+            "fCoords": "4775, 5955",
+            "waCoords": "--, --",
+            "leaflet": "1253.758,  4872.449",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: P04 (FS)",
+            "type": "Guildhouse",
+            "description": ""
+        }, {
+            "name": "The Tool Shed",
+            "map": "Haven",
+            "fCoords": "2296, 959",
+            "waCoords": "--, --",
+            "leaflet": "6351.717,  2342.857",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G20 (CL)",
+            "type": "Tools",
+            "description": ""
+        }, {
+            "name": "The Topaz Health Center",
+            "map": "Haven",
+            "fCoords": "5489, 1274",
+            "waCoords": "--, --",
+            "leaflet": "6030.289,  5601.02",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: S19 (HJ)",
+            "type": "Training",
+            "description": ""
+        }, {
+            "name": "The Tower of the Kindred Races",
+            "map": "Haven",
+            "fCoords": "1244, 2875",
+            "waCoords": "1192, 4348",
+            "leaflet": "4396.615,  1269.388",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: D14 (IX)",
+            "type": "Monument",
+            "description": "A monument to racial harmony"
+        }, {
+            "name": "The Trembling Heart",
+            "map": "Haven",
+            "fCoords": "1219, 4217",
+            "waCoords": "1216, 2957",
+            "leaflet": "3027.228,  1243.878",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: D09 (LL)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "The Troubled Troubadour",
+            "map": "Haven",
+            "fCoords": "3853, 4915",
+            "waCoords": "--, --",
+            "leaflet": "2314.983,  3931.633",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M07 (DJ)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Trumpet's Call",
+            "map": "Haven",
+            "fCoords": "2328, 4812",
+            "waCoords": "--, --",
+            "leaflet": "2420.085,  2375.51",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H07 (MR)",
+            "type": "Musical Instruments",
+            "description": ""
+        }, {
+            "name": "The Virgin's Flute",
+            "map": "Haven",
+            "fCoords": "3809, 4759",
+            "waCoords": "--, --",
+            "leaflet": "2474.166,  3886.735",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: M08 (EC)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Wandering Folk Camp",
+            "map": "Haven",
+            "fCoords": "4821, 4223",
+            "waCoords": "--, --",
+            "leaflet": "3021.105,  4919.388",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: P09 (RP)",
+            "type": "Campsite",
+            "description": ""
+        }, {
+            "name": "The Waterlogged Rat",
+            "map": "Haven",
+            "fCoords": "6181, 4734",
+            "waCoords": "--, --",
+            "leaflet": "2499.677,  6307.143",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: U08 (BK)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "The Widow Shelakii - Rooms",
+            "map": "Haven",
+            "fCoords": "1846, 5504",
+            "waCoords": "--, --",
+            "leaflet": "1713.962,  1883.673",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: F05 (QK)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "The Wine Shop",
+            "map": "Haven",
+            "fCoords": "3207, 3896",
+            "waCoords": "--, --",
+            "leaflet": "3354.779,  3272.449",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: K10 (JR)",
+            "type": "Vintner",
+            "description": ""
+        }, {
+            "name": "The Wizards' Staff",
+            "map": "Haven",
+            "fCoords": "2798, 4008",
+            "waCoords": "2797, 3171",
+            "leaflet": "3240.493,  2855.102",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: I10 (JH)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Theseus Pennywhistle - Caterer",
+            "map": "Haven",
+            "fCoords": "3229, 3876",
+            "waCoords": "--, --",
+            "leaflet": "3375.187,  3294.898",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: K11 (JS)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Thieves' Guild Meeting Hall",
+            "map": "Haven",
+            "fCoords": "4791, 5957",
+            "waCoords": "--, --",
+            "leaflet": "1251.717,  4888.776",
+            "pinType": "Guild",
+            "mapRef": "Map Ref.: P04 (TI)",
+            "type": "Guildhouse",
+            "description": ""
+        }, {
+            "name": "Thorn - Wheelwright",
+            "map": "Haven",
+            "fCoords": "2969, 4429",
+            "waCoords": "--, --",
+            "leaflet": "2810.901,  3029.592",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: J09 (OC)",
+            "type": "Wheelwright",
+            "description": ""
+        }, {
+            "name": "Thrivin - Goldsmith",
+            "map": "Haven",
+            "fCoords": "1032, 2903",
+            "waCoords": "--, --",
+            "leaflet": "4368.044,  1053.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: C14 (IB)",
+            "type": "Banking",
+            "description": ""
+        }, {
+            "name": "Tiropodus - Wheelwright",
+            "map": "Haven",
+            "fCoords": "3678, 6109",
+            "waCoords": "--, --",
+            "leaflet": "1096.615,  3753.061",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: L03 (EX)",
+            "type": "Wheelwright",
+            "description": ""
+        }, {
+            "name": "Tobler's Livery Stable",
+            "map": "Haven",
+            "fCoords": "2972, 5843",
+            "waCoords": "--, --",
+            "leaflet": "1368.044,  3032.653",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: J04 (OX)",
+            "type": "Livery",
+            "description": ""
+        }, {
+            "name": "Tower Station",
+            "map": "Haven",
+            "fCoords": "1322, 2871",
+            "waCoords": "1299, 4301",
+            "leaflet": "4400.697,  1348.98",
+            "pinType": "City Guard",
+            "mapRef": "Map Ref.: D14 (KF)",
+            "type": "City Guard",
+            "description": "A City Watch station."
+        }, {
+            "name": "Treehouse Residence of Osondrea",
+            "map": "Haven",
+            "fCoords": "2182, 2315",
+            "waCoords": "--, --",
+            "leaflet": "4968.044,  2226.531",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: G16 (SQ)",
+            "type": "Treehouse",
+            "description": ""
+        }, {
+            "name": "Trencher's Pony Stable",
+            "map": "Haven",
+            "fCoords": "1736, 3232",
+            "waCoords": "--, --",
+            "leaflet": "4032.33,  1771.429",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: F13 (IR)",
+            "type": "Stable",
+            "description": ""
+        }, {
+            "name": "Two For The Road",
+            "map": "Haven",
+            "fCoords": "1805, 4682",
+            "waCoords": "1805, 2509",
+            "leaflet": "2552.738,  1841.837",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: F08 (QD)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "U.N. Owen - Jeweler",
+            "map": "Haven",
+            "fCoords": "4705, 2329",
+            "waCoords": "--, --",
+            "leaflet": "4953.758,  4801.02",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: P16 (GI)",
+            "type": "Jeweler",
+            "description": ""
+        }, {
+            "name": "Unusual Pets",
+            "map": "Haven",
+            "fCoords": "2338, 4357",
+            "waCoords": "--, --",
+            "leaflet": "2884.37,  2385.714",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H09 (NS)",
+            "type": "Livestock",
+            "description": ""
+        }, {
+            "name": "Valli - Armorer",
+            "map": "Haven",
+            "fCoords": "743, 2667",
+            "waCoords": "--, --",
+            "leaflet": "4608.86,  758.163",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B15 (HR)",
+            "type": "Armor",
+            "description": ""
+        }, {
+            "name": "Varrasch Family Residence",
+            "map": "Haven",
+            "fCoords": "2075, 981",
+            "waCoords": "--, --",
+            "leaflet": "6329.268,  2117.347",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: G20 (DD)",
+            "type": "Mansion",
+            "description": ""
+        }, {
+            "name": "Vekkio's Foundry",
+            "map": "Haven",
+            "fCoords": "391, 3644",
+            "waCoords": "--, --",
+            "leaflet": "3611.921,  398.98",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: A11 (KP)",
+            "type": "Foundry",
+            "description": ""
+        }, {
+            "name": "Verdintro Brickyard",
+            "map": "Haven",
+            "fCoords": "4492, 4514",
+            "waCoords": "--, --",
+            "leaflet": "2724.166,  4583.673",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: O08 (EH)",
+            "type": "Construction",
+            "description": ""
+        }, {
+            "name": "Voelkher's Sea Transport",
+            "map": "Haven",
+            "fCoords": "5983, 5231",
+            "waCoords": "--, --",
+            "leaflet": "1992.534,  6105.102",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: T06 (AV)",
+            "type": "Warehouse",
+            "description": ""
+        }, {
+            "name": "Wagoneer's Delight",
+            "map": "Haven",
+            "fCoords": "3434, 4174",
+            "waCoords": "3421, 3007",
+            "leaflet": "3071.105,  3504.082",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: K10 (LW)",
+            "type": "Inn",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Warehouse of Marcus Neeman",
+            "map": "Haven",
+            "fCoords": "6278, 4979",
+            "waCoords": "--, --",
+            "leaflet": "2249.677,  6406.122",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: U07 (BJ)",
+            "type": "Textiles",
+            "description": ""
+        }, {
+            "name": "Wayfarers Rest",
+            "map": "Haven",
+            "fCoords": "1594, 3006",
+            "waCoords": "1594, 4175",
+            "leaflet": "4262.942,  1626.531",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: E13 (IO)",
+            "type": "Tavern",
+            "description": "One of the more well known inns/taverns in haven"
+        }, {
+            "name": "Weavers' Plus",
+            "map": "Haven",
+            "fCoords": "2761, 4236",
+            "waCoords": "--, --",
+            "leaflet": "3007.84,  2817.347",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: I09 (NW)",
+            "type": "Textiles",
+            "description": ""
+        }, {
+            "name": "Wellington Thistlebottom - P.I.",
+            "map": "Haven",
+            "fCoords": "959, 3616",
+            "waCoords": "--, --",
+            "leaflet": "3640.493,  978.571",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: C11 (LI)",
+            "type": "Other Services",
+            "description": ""
+        }, {
+            "name": "Wenches' Walk",
+            "map": "Haven",
+            "fCoords": "3977, 5227",
+            "waCoords": "--, --",
+            "leaflet": "1996.615,  4058.163",
+            "pinType": "Entertainment",
+            "mapRef": "Map Ref.: M06 (DQ)",
+            "type": "Brothel",
+            "description": ""
+        }, {
+            "name": "Wicker and Withy",
+            "map": "Haven",
+            "fCoords": "5422, 1965",
+            "waCoords": "--, --",
+            "leaflet": "5325.187,  5532.653",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: R17 (GQ)",
+            "type": "Basket Maker",
+            "description": ""
+        }, {
+            "name": "Widow Bupkes' Rooming House",
+            "map": "Haven",
+            "fCoords": "6371, 5428",
+            "waCoords": "--, --",
+            "leaflet": "1791.513,  6501.02",
+            "pinType": "Residence",
+            "mapRef": "Map Ref.: V05 (AL)",
+            "type": "Rooming House",
+            "description": ""
+        }, {
+            "name": "Wig and Masque",
+            "map": "Haven",
+            "fCoords": "2334, 5012",
+            "waCoords": "--, --",
+            "leaflet": "2216.003,  2381.633",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: H07 (MD)",
+            "type": "General Clothing",
+            "description": ""
+        }, {
+            "name": "Windrider Courier Service",
+            "map": "Haven",
+            "fCoords": "700, 3611",
+            "waCoords": "--, --",
+            "leaflet": "3645.595,  714.286",
+            "pinType": "Service",
+            "mapRef": "Map Ref.: B11 (KS)",
+            "type": "Courier",
+            "description": ""
+        }, {
+            "name": "Wizard's Isle",
+            "map": "Haven",
+            "fCoords": "2988, 2905",
+            "waCoords": "2994, 4276",
+            "leaflet": "4366.003,  3048.98",
+            "pinType": "Landmark",
+            "mapRef": "Map Ref.: J14 (TD)",
+            "type": "Other Landmark",
+            "description": "Off the north end of Trade Island, this was once used by smugglers moving good upreiver."
+        }, {
+            "name": "Wizard's Watering Hole",
+            "map": "Haven",
+            "fCoords": "2412, 4380",
+            "waCoords": "--, --",
+            "leaflet": "2860.901,  2461.224",
+            "pinType": "Inns & Taverns",
+            "mapRef": "Map Ref.: H09 (NX)",
+            "type": "Tavern",
+            "description": ""
+        }, {
+            "name": "Ye Apothecary Shoppe",
+            "map": "Haven",
+            "fCoords": "2108, 4130",
+            "waCoords": "--, --",
+            "leaflet": "3116.003,  2151.02",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: G10 (NC)",
+            "type": "Apothecary",
+            "description": ""
+        }, {
+            "name": "Zafforo the Lender",
+            "map": "Haven",
+            "fCoords": "3946, 6051",
+            "waCoords": "--, --",
+            "leaflet": "1155.799,  4026.531",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: M03 (FL)",
+            "type": "Pawnbroker",
+            "description": ""
+        }, {
+            "name": "Zaubel - Jeweler",
+            "map": "Haven",
+            "fCoords": "704, 3147",
+            "waCoords": "--, --",
+            "leaflet": "4119.064,  718.367",
+            "pinType": "Shopping",
+            "mapRef": "Map Ref.: B13 (KE)",
+            "type": "Jeweler",
+            "description": ""
+        }
+    ]
+}

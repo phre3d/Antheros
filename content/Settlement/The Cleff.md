@@ -1,0 +1,98 @@
+#import #settlement #Free_City_of_Haven #neighbourhood
+# The Cleff
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+The Cleff is a narrow street the runs north from Liederstrasse, halfway between Vine and [[Settlement/The Street of Harps|The Street of Harps]]. It is lined with old stucco and half-timbered row homes and apartments. Balconies, porches, and covered walkways line the street, with ornate wood and iron work. Window boxes and hanging plants adorn the old homes.  These houses and apartments are charming and comfortable, as well as moderately priced. The people who live here are all musicians, who are based semi-permanently in Haven. Many have families and children.  
+
+There is a 5% chance of an apartment or house being available for rent. The whole street is owned by the [[Organization/Families/Maggia Family|Maggia Family]].
+
+## People and Locations in The Cleff 
+
+| People      | Places   |
+|---|---|
+|  [tagged:the-cleff-person|list|none]       |  [tagged:the-cleff-location|list|none]    |
+
+# Demographics
+
+# Government
+
+# Defenses
+
+# Industry & Trade
+
+# Infrastructure
+
+# Districts
+
+# Assets
+
+# Guilds & Factions
+
+# History
+
+# Points of Interest
+
+# Tourism
+
+# Architecture
+
+# Geography
+
+# Climate
+
+# Natural Resources
+
+--- end-column ---
+
+**Image:** 
+
+**Type:** Neighbourhood<br>
+**Other Name(s):** <br>
+**Located In:** [[Settlement/The South Corridor|The South Corridor]]
+
+**Population:** <br>
+**Demonym:** <br>
+**Founded:** <br>
+**Runied:** 
+
+**Ruler:** <br>
+**Rank:**  <br>
+**Ruling Organization:**  <br>
+**Other Rulers:** 
+
+**Founders:** 
+
+---
+
+### World Anvil Metadata
+**Id:** a16bded8-1db4-4f82-88d1-5e272e9e5f75<br>
+**Entity Type:** Article / settlement<br>
+**Category:** <br>
+**Tags:** fcoh,neighbourhood
+
+--- end-multi-column
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+Previous:
+b900cfce-3f5f-47c6-9e7f-1e78181fe33b
+
+--- end-column ---
+
+Next:
+29cb4deb-4fef-475f-8c31-0d8e6f188cda
+
+--- end-multi-column

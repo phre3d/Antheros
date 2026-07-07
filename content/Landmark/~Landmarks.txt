@@ -1,0 +1,554 @@
+ Volume in drive F is Data
+ Volume Serial Number is A436-0773
+
+ Directory of F:\Bob\Documents\ObsidianVaults\Antheros\Landmark
+
+2026-06-18  09:45 PM    <DIR>          .
+2026-06-18  09:43 PM    <DIR>          ..
+2026-05-29  04:52 PM             2,678 Acadamie of Classical Dance.md
+2026-05-29  04:52 PM             1,739 Academy Armory.md
+2026-05-29  04:52 PM             1,901 Academy Barracks.md
+2026-05-29  04:52 PM             2,087 Academy Training Field.md
+2026-05-29  04:52 PM             2,415 Alekhine's Boarding House.md
+2026-05-29  04:52 PM             1,671 Ambrosia.md
+2026-05-29  04:52 PM             2,438 Americus - Healer.md
+2026-05-29  04:52 PM             2,614 Anathea the Seeress - Fortune Telling Service.md
+2026-05-29  04:52 PM             1,607 Andre de Monteville's Spice Emporium.md
+2026-05-29  04:52 PM             2,050 Angus MacFarlane - Spices and Medicinals.md
+2026-05-29  04:52 PM             2,289 Anise Thyme's Spice Rack.md
+2026-05-29  04:52 PM             2,732 Apex Metalworks.md
+2026-05-29  04:52 PM             2,439 Arkmonides - Scribe.md
+2026-05-29  04:52 PM             1,567 Avrodel's Wine Shop.md
+2026-05-29  04:52 PM             1,546 Bagohas - Wainwright.md
+2026-05-29  04:52 PM             2,243 Ballard Lindsey - Produce.md
+2026-05-29  04:52 PM             5,157 Bambur - Tobacconist.md
+2026-05-29  04:52 PM             3,208 Baraggio's Warehouse and Yard.md
+2026-05-29  04:52 PM             2,737 Barbara Weyr - Rugs and Carpets.md
+2026-05-29  04:52 PM             2,821 Bell Foundry.md
+2026-05-29  04:52 PM             1,541 Belossan - Locksmith.md
+2026-05-29  04:52 PM             1,567 Bendelhoff's Supplies.md
+2026-05-29  04:52 PM             1,931 Bessie's Breadbox.md
+2026-05-29  04:52 PM             2,767 Bethli's Iron Works.md
+2026-05-29  04:52 PM             1,914 Bettina's.md
+2026-05-29  04:52 PM             2,270 Beydom & Son - General.md
+2026-05-29  04:52 PM             1,596 Bidurum - Chartmaker.md
+2026-05-29  04:52 PM             2,184 Biff Tekk - Butcher.md
+2026-05-29  04:52 PM             3,238 Black Padre's.md
+2026-05-29  04:52 PM             1,798 Blackbourne Family Residence.md
+2026-05-29  04:52 PM             1,905 Blackbourne Warehouse.md
+2026-05-29  04:52 PM             3,026 Boarshead Tavern.md
+2026-05-29  04:52 PM             1,530 Bolihank's Feed and Grain.md
+2026-05-29  04:52 PM             1,574 Bonanza Transport.md
+2026-05-29  04:52 PM             1,572 Borin - Clockmaker.md
+2026-05-29  04:52 PM             1,614 Boutique Lane.md
+2026-05-29  04:52 PM             1,576 Brannigan's Express.md
+2026-05-29  04:52 PM             2,007 Brisket Butcher Shop.md
+2026-05-29  04:52 PM             1,500 Brodsky's.md
+2026-05-29  04:52 PM             4,675 Bucklander's Import Emporium.md
+2026-05-29  04:52 PM             1,581 Bull of Anathor.md
+2026-05-29  04:52 PM             3,372 Burbas 'the Finder' - Locating Service.md
+2026-05-29  04:52 PM             1,450 Burdee's Mill.md
+2026-05-29  04:52 PM             1,800 Burgallo's Apothecary.md
+2026-05-29  04:52 PM             1,558 Buteo Condor - Hawk Trainer.md
+2026-05-29  04:52 PM             2,132 Cab and Trolley Barns.md
+2026-06-13  09:03 PM             1,519 Cacodyl - Potioner.md
+2026-05-29  04:52 PM             1,556 Caddis Fly's Rooms.md
+2026-05-29  04:52 PM             1,828 Caradallo's Storage.md
+2026-05-29  04:52 PM             1,783 Caravan Station.md
+2026-05-29  04:52 PM             2,784 Carillon Tower.md
+2026-05-29  04:52 PM             1,536 Carpeters Ltd..md
+2026-05-29  04:52 PM             1,667 Cellini's Metalworks.md
+2026-05-29  04:52 PM             2,468 Centauri Transport Company.md
+2026-05-29  04:52 PM             2,237 Choirmaster's House.md
+2026-05-29  04:52 PM             2,667 Circus Park.md
+2026-05-29  04:52 PM             2,629 City of the Dead.md
+2026-05-29  04:52 PM             1,550 Clanahan's Pub.md
+2026-05-29  04:52 PM             2,014 Cockleberry's Cabinets.md
+2026-05-29  04:52 PM             1,577 College of Common Law.md
+2026-05-29  04:52 PM             1,585 College of Natural Philosophy.md
+2026-05-29  04:52 PM             1,586 College of Physical Naturalism.md
+2026-05-29  04:52 PM             1,575 College of Rhetoric.md
+2026-05-29  04:52 PM             1,880 College of the Mystic Arts.md
+2026-05-29  04:52 PM             1,526 Composer's Studio.md
+2026-05-29  04:52 PM             1,612 Condemned Building.md
+2026-05-29  04:52 PM             1,811 Coppergate Barracks.md
+2026-05-29  04:52 PM             1,924 Corridor Barracks.md
+2026-05-29  04:52 PM             2,173 Courts.md
+2026-05-29  04:52 PM             2,501 Cowry Keltus - Investigations.md
+2026-05-29  04:52 PM             1,657 Culvarran Ltd. - Storage.md
+2026-05-29  04:52 PM             1,919 Cust Way Crotofiran Mission.md
+2026-05-29  04:52 PM             1,653 D'Lormaii Warehouses.md
+2026-05-29  04:52 PM             2,112 Dalbert's Apothecary.md
+2026-05-29  04:52 PM             1,891 Damiano's Dwarven Work.md
+2026-05-29  04:52 PM             2,377 Dancing Green.md
+2026-05-29  04:52 PM             1,926 Daran Tiko - Furniture.md
+2026-05-29  04:52 PM             1,518 Darius and Sons - Saddlers.md
+2026-05-29  04:52 PM             1,750 de Kammeron Family Residence.md
+2026-05-29  04:52 PM             2,399 de la Riis Family Residence.md
+2026-05-29  04:52 PM             1,553 Delmarva's Fine Eggs and Poultry.md
+2026-05-29  04:52 PM             3,840 Dockside Warehouse Services.md
+2026-05-29  04:52 PM             2,231 Dorki and his Dancing Girls - 'Entertainment'.md
+2026-05-29  04:52 PM             1,792 Dortmund's Furniture Compound.md
+2026-05-29  04:52 PM             1,459 Dradd Plen-or - Healer's House.md
+2026-05-29  04:52 PM             2,202 Drum-makers.md
+2026-05-29  04:52 PM             1,530 Dublin Lumber Yards.md
+2026-05-29  04:52 PM             3,735 Duhm's Rooms.md
+2026-05-29  04:52 PM             3,089 Dunk's Tavern.md
+2026-05-29  04:52 PM             1,419 Dunnigan's Pawnshop.md
+2026-05-29  04:52 PM             2,553 Dunstan's - Pipe Weed.md
+2026-05-29  04:52 PM             1,485 Durbinmeyer's Mill.md
+2026-05-29  04:52 PM             1,530 Durki's Cement Mill.md
+2026-05-29  04:52 PM             1,964 Dynasty Potters.md
+2026-05-15  08:16 PM             2,602 East Street Bakery.md
+2026-05-29  04:52 PM             2,962 Eldri - Weaponsmaster.md
+2026-05-29  04:52 PM             1,556 Ellerie Woolgather - seamstress.md
+2026-05-29  04:52 PM             2,278 Elsi Klukoo - Watchmaker.md
+2026-05-29  04:52 PM             1,457 Elven Bowyer.md
+2026-05-29  04:52 PM             2,395 Elvish Herbs and Spices.md
+2026-05-29  04:52 PM             1,532 Emmetik - Greengrocer.md
+2026-05-29  04:52 PM             2,411 Emperor Clothiers.md
+2026-05-29  04:52 PM             1,737 Empty Shop - Ferdinand's.md
+2026-05-29  04:52 PM             3,061 Enchantments Ltd..md
+2026-05-29  04:52 PM             1,615 Eng's Livery and Smithy.md
+2026-05-29  04:52 PM             1,710 Eye of Newt.md
+2026-05-29  04:52 PM             1,688 Falstaff Family Residence.md
+2026-05-15  07:21 PM                 0 Fandral's Weapon Shop.md
+2026-05-29  04:52 PM             1,504 Fandral's Weapon Shop.md
+2026-05-29  04:52 PM             1,701 Farspeakers.md
+2026-05-29  04:52 PM             1,533 Fawset Street Market.md
+2026-05-29  04:52 PM             1,595 Feddy Rhal Courier Service.md
+2026-05-29  04:52 PM             1,826 Fernando 'Fig' Garo - Barbering Service.md
+2026-05-29  04:52 PM             4,550 Fine Silks and Fabrics.md
+2026-05-29  04:52 PM             1,846 Fisherman's Cay.md
+2026-05-29  04:52 PM             1,474 Flicker's Pawnshop.md
+2026-05-29  04:52 PM             4,292 Florina's Flutes.md
+2026-05-29  04:52 PM             1,484 Fountain of Porpidolphus.md
+2026-05-29  04:52 PM             1,791 Franklin's Odds Bodkins.md
+2026-05-29  04:52 PM             2,057 Free Companies House.md
+2026-05-29  04:52 PM             1,607 Frod's Theater.md
+2026-05-29  04:52 PM             2,297 Frogal's.md
+2026-05-29  04:52 PM             1,585 Gallows Hill Tavern.md
+2026-05-29  04:52 PM             2,038 Gallows Hill.md
+2026-05-29  04:52 PM             1,478 Gandi's Goods.md
+2026-05-29  04:52 PM             4,615 Garduccio's.md
+2026-05-29  04:52 PM             1,724 Geraldine's Rooms.md
+2026-05-30  10:00 AM               629 Geronde Family Mausoleum.md
+2026-05-29  04:52 PM             1,995 Geronde Family Residence.md
+2026-05-29  04:52 PM             2,894 Geronio's Games.md
+2026-05-29  04:52 PM             4,222 Gip's Clothing.md
+2026-05-29  04:52 PM             4,707 Gladshaw's Aviary.md
+2026-05-29  04:52 PM             2,573 Golbur - Gem Appraiser.md
+2026-05-29  04:52 PM             1,482 Gold Alley.md
+2026-05-30  08:03 PM             1,356 Golden Wheat Inn.md
+2026-05-29  04:52 PM             2,094 Goodreau's Market.md
+2026-05-29  04:52 PM             1,456 Grande Salle d'Armes.md
+2026-05-29  04:52 PM             1,924 Greataxe Printing.md
+2026-05-29  04:52 PM             1,879 Grey Halls Station.md
+2026-05-29  04:52 PM             2,370 Greysoul's Crotofiran Mission.md
+2026-05-29  04:52 PM             2,501 Groton's Perfumery.md
+2026-05-29  04:52 PM             1,505 Guardian.md
+2026-05-29  04:52 PM             1,602 Guildhall of Drayers.md
+2026-05-29  04:52 PM             5,140 Guildhall of Entertainers.md
+2026-05-29  04:52 PM             1,607 Guildhall of Erectors.md
+2026-05-29  04:52 PM             1,617 Guildhall of Provenders.md
+2026-05-29  04:52 PM             1,622 Guildhall of the Artisan.md
+2026-05-29  04:52 PM             1,617 Guildhall of the Hearth.md
+2026-05-29  04:52 PM             1,607 Guildhall of the Loom.md
+2026-05-29  04:52 PM             1,607 Guildhall of the Ship.md
+2026-05-29  04:52 PM             1,545 Guildhouse of Magic.md
+2026-05-29  04:52 PM             1,563 Guski's Sausage Factory.md
+2026-05-29  04:52 PM             2,459 Hall of the Council of Boroughs.md
+2026-05-29  04:52 PM             1,497 Hall of the Word.md
+2026-05-29  04:52 PM             1,445 Halson's Stable & Livery.md
+2026-05-29  04:52 PM             2,048 Hamilton - Corder.md
+2026-05-29  04:52 PM             1,505 Hamilton's Hockshop.md
+2026-05-29  04:52 PM             1,570 Harrido's Rooms to Let.md
+2026-05-29  04:52 PM             1,736 Hasbin - Healer.md
+2026-05-29  04:52 PM             1,696 Heaven's Gate.md
+2026-05-29  04:52 PM             2,016 Heidel Varrasch's Office.md
+2026-05-29  04:52 PM             1,769 Herundor Holdings.md
+2026-05-29  04:52 PM             1,558 Hire-a-Mage.md
+2026-05-29  04:52 PM             1,654 Hochritter Family Residence.md
+2026-05-29  04:52 PM             1,880 Hofstra Family Residence.md
+2026-05-29  04:52 PM             1,508 Holiday Inn.md
+2026-05-29  04:52 PM             1,561 Holsum - Greengrocer.md
+2026-05-29  04:52 PM             1,495 Home of Artemus Faraday.md
+2026-05-29  04:52 PM             1,585 Home of Balin arn Malbar.md
+2026-05-29  04:52 PM             1,462 Home of Colchester Tibbits.md
+2026-05-29  04:52 PM             1,461 Home of Jarius Gildenhoof.md
+2026-05-29  04:52 PM             1,567 Home of Master Nimoyin.md
+2026-05-29  04:52 PM             1,459 Home of Nikkolai.md
+2026-05-29  04:52 PM             1,766 Honest Boris - Fine Jewellery.md
+2026-05-29  04:52 PM             2,872 Honest John the Used Horse Dealer.md
+2026-05-29  04:52 PM             1,535 Honsen's Weapons Foundry.md
+2026-05-29  04:52 PM             1,538 Hood - Fletching and Bowery.md
+2026-05-29  04:52 PM             6,817 Horn and Hardart.md
+2026-05-29  04:52 PM             1,799 Horsegate Barracks.md
+2026-05-29  04:52 PM             1,559 Hotel d'Ville.md
+2026-05-29  04:52 PM             1,500 House and Garden of Thaddeus Chiselwick.md
+2026-05-29  04:52 PM             2,093 House of Captain Emmanuel York.md
+2026-05-29  04:52 PM             2,204 House of Fagin Childstealer.md
+2026-05-29  04:52 PM             2,030 House of Fashion.md
+2026-05-29  04:52 PM             3,371 House of Flanderin.md
+2026-05-29  04:52 PM             2,016 House of Hanki.md
+2026-05-29  04:52 PM             3,604 House of Hofstra.md
+2026-05-29  04:52 PM             1,720 House of Ivan and Sheela.md
+2026-05-29  04:52 PM             1,634 House of Jurgan Bland.md
+2026-05-29  04:52 PM             2,128 House of Linneas Mauray.md
+2026-05-29  04:52 PM             1,642 House of Lisa Duncan.md
+2026-05-29  04:52 PM             1,716 House of Lucius Cardallo.md
+2026-05-29  04:52 PM             2,271 House of Rael Gavotte.md
+2026-05-29  04:52 PM             2,980 House of Rand.md
+2026-05-29  04:52 PM             2,361 Hrubilasz Riding Academy.md
+2026-05-29  04:52 PM             1,821 Hughar Wolfskill - trained canines.md
+2026-05-29  04:52 PM             1,517 Hyrim's Looms.md
+2026-05-29  04:52 PM             1,616 Illusionist's Park.md
+2026-05-29  04:52 PM             1,491 Ilrin the Bowyer.md
+2026-05-29  04:52 PM             1,631 Institute of Mathematics.md
+2026-05-29  04:52 PM             1,938 Instruments 'n' Stuff.md
+2026-05-29  04:52 PM             1,760 Iron Gate Barracks.md
+2026-05-29  04:52 PM             1,673 Iron Phalanx.md
+2026-05-29  04:52 PM             7,342 Ironhoof Stables.md
+2026-05-29  04:52 PM             1,807 Jakkob the Sailmaker.md
+2026-05-29  04:52 PM             1,553 Jarien the Jeweler.md
+2026-05-29  04:52 PM             2,612 Jasmine's House of Tattoos.md
+2026-05-29  04:52 PM             1,717 Judgement Gate Barracks.md
+2026-05-29  04:52 PM             1,795 Karki's Sweets and Flowers.md
+2026-05-29  04:52 PM             2,332 Katzi's Dwarven Deli.md
+2026-05-29  04:52 PM             1,545 Kazan the Mender.md
+2026-05-29  04:52 PM             1,486 Keabler's Bakery.md
+2026-05-29  04:52 PM             2,675 Kelvar - Armorer.md
+2026-05-29  04:52 PM             1,763 Kelvin the Tinsmith.md
+2026-05-29  04:52 PM             1,583 Kenzo's Caravan Services.md
+2026-05-29  04:52 PM             1,528 Keziniel - Scribe.md
+2026-05-29  04:52 PM             2,498 Klekbek.md
+2026-05-29  04:52 PM             1,601 Kobri's Cobblery.md
+2026-05-29  04:52 PM             4,273 Konig - Master Armorer.md
+2026-05-29  04:52 PM             1,866 Kurgan's Hill Apex.md
+2026-05-29  04:52 PM             1,480 Kurgan's Rout.md
+2026-05-29  04:52 PM             1,524 Kwartz - Stonemason.md
+2026-05-29  04:52 PM             1,510 Lanella - Silversmith.md
+2026-05-29  04:52 PM             2,326 Laudie Daly - Cooked Food.md
+2026-05-29  04:52 PM             2,049 Lazarini's Baths.md
+2026-05-29  04:52 PM             1,527 Lexington Fish Market.md
+2026-05-29  04:52 PM             1,636 Lilies of the Valley.md
+2026-05-29  04:52 PM             1,540 Locks and Keys Made.md
+2026-05-29  04:52 PM             1,444 Lohisian Place.md
+2026-05-29  04:52 PM             1,950 Longshoreman's Inc..md
+2026-05-29  04:52 PM             3,556 Lorien Leathergoods.md
+2026-05-29  04:52 PM             1,604 Ludwig's Brauhaus.md
+2026-05-29  04:52 PM             2,463 Lutes and Viols.md
+2026-05-29  04:52 PM             1,677 Lydian House.md
+2026-05-29  04:53 PM             2,668 Maas Turkar - Weaponeer.md
+2026-05-29  04:53 PM             1,659 Madame Ruth's.md
+2026-05-29  04:53 PM             1,532 Madame Zanwig's.md
+2026-05-29  04:53 PM             1,658 Madame Zaurig - Oracle.md
+2026-05-29  04:53 PM             1,650 Maggia Family Residence.md
+2026-05-29  04:53 PM             1,529 Magic Books and Scrolls.md
+2026-05-29  04:53 PM             4,600 Mahti - Weaponeer.md
+2026-05-29  04:53 PM             2,230 Malakki - Jewelsmith.md
+2026-05-29  04:53 PM             3,524 Malbar Printing and Bindery.md
+2026-05-29  04:53 PM             2,645 Malikor's Exchange.md
+2026-05-29  04:53 PM             1,525 Malin Kenny - Cobbler.md
+2026-05-29  04:53 PM             1,617 Mama Rosa's Rooming House.md
+2026-05-29  04:53 PM             1,581 Manalla - Seamstress.md
+2026-05-29  04:53 PM             1,801 Market Barracks.md
+2026-05-29  04:53 PM             2,741 Martin Metals.md
+2026-05-29  04:53 PM             1,825 Mayor's Palace.md
+2026-05-29  04:53 PM             3,060 Melanie's.md
+2026-05-29  04:53 PM             2,417 Meriwether - Cordwainer.md
+2026-05-29  04:53 PM             1,565 Merry Maid Tavern.md
+2026-05-29  04:53 PM             1,600 Meryn's Elvish Cloaks.md
+2026-05-29  04:53 PM             1,802 Message Drop.md
+2026-05-29  04:53 PM             2,335 Meydal - Matchmaker.md
+2026-05-29  04:53 PM             4,416 Minotaur Metalworks.md
+2026-05-29  04:53 PM             1,870 Mint Station.md
+2026-05-29  04:53 PM             1,960 Mintaki's.md
+2026-05-29  04:53 PM             1,573 Mintar - Ship's Weaponry.md
+2026-05-29  04:53 PM             8,695 Mixolydian Mode.md
+2026-05-29  04:53 PM             2,981 Mordecai - Surgeon.md
+2026-05-29  04:53 PM             1,526 Mother Yosofal the Witch.md
+2026-05-29  04:53 PM             1,556 Mrs. McKenzie's Boarding House.md
+2026-05-29  04:53 PM             1,558 Mrs. O'Leary's Rooms.md
+2026-05-29  04:53 PM             2,351 Mudikar's Saddlery and Tack Shop.md
+2026-05-29  04:53 PM             3,096 Muses' Theatre.md
+2026-05-29  04:53 PM             2,942 Music Copiers.md
+2026-05-29  04:53 PM             2,357 Mustard and Fennel.md
+2026-05-29  04:53 PM             5,137 Mystic Valley Inn.md
+2026-05-29  04:53 PM             1,544 Nicodemus Bottleboro - Apothecary.md
+2026-05-29  04:53 PM             3,284 Nimrodel's South City Shipyard.md
+2026-05-29  04:53 PM             2,731 No-Yen Drachmah - Goldsmith.md
+2026-05-29  04:53 PM             1,785 Nobles' Way Station.md
+2026-05-29  04:53 PM             1,735 Northgate Barracks.md
+2026-05-29  04:53 PM             2,709 Numirolakos the Gentler.md
+2026-05-29  04:53 PM             2,806 Odino's Dance and Tumbling.md
+2026-05-29  04:53 PM             1,638 Office of Ports and Shipping.md
+2026-05-29  04:53 PM             1,783 Ohlfaardt Family Residence.md
+2026-05-29  04:53 PM             1,722 Old City Walls.md
+2026-05-29  04:53 PM             1,526 Old Lea's Sweets.md
+2026-05-29  04:53 PM             1,531 Old Wall Market.md
+2026-05-29  04:53 PM             1,544 Oldgate Tavern.md
+2026-05-29  04:53 PM             1,657 Open Air Theater of the Performing Arts.md
+2026-05-29  04:53 PM             4,004 Othmar the Astrologer.md
+2026-05-29  04:53 PM             2,605 Otto Chubb - Butcher.md
+2026-05-29  04:53 PM             1,510 Paddy's Wagons.md
+2026-05-29  04:53 PM             1,649 Pando's Leather Gear.md
+2026-05-29  04:53 PM             2,118 Pane in the Glass.md
+2026-05-29  04:53 PM             1,776 Pens and Barns of the Varrasches.md
+2026-05-29  04:53 PM             2,703 Petals of the Rose.md
+2026-05-29  04:53 PM             3,130 Pickett 'Lefty' Post - Merchandise.md
+2026-05-29  04:53 PM             2,414 Pierre Farce's House of Beauty.md
+2026-05-29  04:53 PM             1,650 Pilgrim's Progress Tavern.md
+2026-05-29  04:53 PM             2,028 Piper's.md
+2026-05-29  04:53 PM             2,225 Pirandello's Pastries.md
+2026-05-29  04:53 PM             2,564 Piringolli's.md
+2026-05-29  04:53 PM             3,027 Pocheffski's School of Arms.md
+2026-05-29  04:53 PM             2,783 Poor Larry's.md
+2026-05-29  04:53 PM             1,553 Potiphar's House.md
+2026-05-29  04:53 PM             3,240 Professor's Challenge.md
+2026-05-29  04:53 PM             1,665 Profundo's Studio.md
+2026-05-29  04:53 PM             1,528 Public Corrals and Pens.md
+2026-05-29  04:53 PM             1,777 Public Square.md
+2026-05-29  04:53 PM             1,532 Public Stables and Rental.md
+2026-05-29  04:53 PM             4,368 Queen Takes Pawn.md
+2026-05-29  04:53 PM             1,534 R. Thor Gofree - Talent Scout.md
+2026-05-29  04:53 PM             3,138 Rackley's Museum of Oddities.md
+2026-05-29  04:53 PM             1,542 Raku the Potter.md
+2026-05-29  04:53 PM             2,962 Ralki - Men's Tailor.md
+2026-05-29  04:53 PM             1,691 Rand Family Residence.md
+2026-05-29  04:53 PM             2,733 Red Nick's Tavern.md
+2026-05-29  04:53 PM             2,107 Redonso's Grain Mill.md
+2026-05-29  04:53 PM             1,802 Residence of Arquephus.md
+2026-05-29  04:53 PM             1,655 Residence of Resoom.md
+2026-05-29  04:53 PM             3,727 Residence of Rigaletto and Paladin Brandybuck.md
+2026-05-29  04:53 PM             2,612 Residence of Rombo Alecastle.md
+2026-05-29  04:53 PM             2,093 Rima's.md
+2026-05-29  04:53 PM             1,496 Roah the Tailor.md
+2026-05-29  04:53 PM             4,231 Rocky's Tavern and Arena.md
+2026-05-29  04:53 PM             8,841 Rose Garden Inn.md
+2026-05-29  04:53 PM             2,128 Ruin of Rogues' Roost.md
+2026-05-29  04:53 PM             2,515 Sakbar - Excavation Contractor.md
+2026-05-29  04:53 PM             1,565 Samoradat's Soup.md
+2026-05-29  04:53 PM             1,629 Savonna Family Residence.md
+2026-05-29  04:53 PM             2,200 Scholl's Tavern.md
+2026-05-29  04:53 PM             1,573 School of Alchemy.md
+2026-05-29  04:53 PM             1,698 School of Medicine.md
+2026-05-29  04:53 PM             5,067 Scribe and Messenger Service.md
+2026-05-29  04:53 PM             1,793 Sew Simple.md
+2026-05-29  04:53 PM             2,219 Shadowfall Crotofiran Mission.md
+2026-05-29  04:53 PM             1,824 Shield Barracks.md
+2026-05-29  04:53 PM             1,637 Ship's Chandler - Martin Boggle.md
+2026-05-29  04:53 PM             5,144 Shoes & Saddles.md
+2026-05-29  04:53 PM             2,350 Sign of the Jester.md
+2026-05-29  04:53 PM             1,606 Silvante's.md
+2026-05-29  04:53 PM             1,556 Sirius the Scribe.md
+2026-05-29  04:53 PM             1,529 Sorilla' s Fresh Produce.md
+2026-05-29  04:53 PM             1,626 Soul's Anchor.md
+2026-05-29  04:53 PM             1,770 Southbridge Barracks.md
+2026-05-29  04:53 PM             2,975 Spearchucker's.md
+2026-05-29  04:53 PM             4,226 Spectacular Spectacles.md
+2026-05-29  04:53 PM             1,601 Stables and Pens of Darankis t'Goran.md
+2026-05-29  04:53 PM             1,607 Stage Depot - Fargot & Weishe.md
+2026-05-29  04:54 PM             2,437 Stammrig - Bootblack.md
+2026-05-29  04:54 PM             2,167 Starkedelve Brewery.md
+2026-05-29  04:54 PM             1,625 Starkindler.md
+2026-05-29  04:54 PM             1,516 Stock Yards.md
+2026-05-29  04:54 PM             1,530 Stonecutter's Yards.md
+2026-05-29  04:54 PM             1,571 Student Tenements.md
+2026-05-29  04:54 PM             1,997 Studio Lane.md
+2026-05-29  04:54 PM             1,517 Studio of Albrekki arn Dur - artist.md
+2026-05-29  04:54 PM             1,784 Style Matters.md
+2026-05-29  04:54 PM             1,562 Summ Mercenaries.md
+2026-05-29  04:54 PM             1,954 Sundance - Inc..md
+2026-05-29  04:54 PM             2,808 Suttler on the Green.md
+2026-05-29  04:54 PM             1,717 Sweet Springs.md
+2026-05-29  04:54 PM             2,824 Sym's Storage Company.md
+2026-05-29  04:54 PM             2,724 T. Barnum Pott Memorial Museum.md
+2026-05-29  04:54 PM             2,473 Tabitha's.md
+2026-05-29  04:54 PM             3,431 Tael I'she-Kel - Money Changing Service.md
+2026-05-29  04:54 PM             1,988 Tainley Family Residence.md
+2026-05-29  04:54 PM             1,460 Taki's Storage.md
+2026-05-29  04:54 PM             2,604 Tambel - Sculptress.md
+2026-05-29  04:54 PM             1,770 Tandouray Spice Co..md
+2026-05-29  04:54 PM             4,651 Tandy - Leathers.md
+2026-05-29  04:54 PM             3,627 Tarmialda 'The Loft'.md
+2026-05-29  04:54 PM             2,573 Tedius and Sprig.md
+2026-05-29  04:54 PM             3,531 Teleril - Architect.md
+2026-05-29  04:54 PM             1,526 Temple of Ariel.md
+2026-05-29  04:54 PM             1,539 Temple of Azriel.md
+2026-05-29  04:54 PM             1,950 Temple of Ea.md
+2026-05-29  04:54 PM             1,725 Temple of Etheah.md
+2026-05-29  04:54 PM             1,505 Temple of Istara.md
+2026-05-29  04:54 PM             1,525 Temple of Ladros.md
+2026-05-29  04:54 PM             1,502 Temple of Maedhros.md
+2026-05-29  04:54 PM             1,501 Temple of Mandos.md
+2026-05-29  04:54 PM             1,507 Temple of Narconal.md
+2026-05-29  04:54 PM             1,543 Temple of Nenya.md
+2026-05-29  04:54 PM             1,565 Temple of Serind‰.md
+2026-05-29  04:54 PM             1,919 Temple of Strathos.md
+2026-05-29  04:54 PM             2,371 Temple of Thalos.md
+2026-05-29  04:54 PM             1,569 Temple of Vair‰.md
+2026-05-29  04:53 PM             1,930 Tent of Miranda.md
+2026-05-29  04:54 PM             3,364 The Abbey of Eollana.md
+2026-05-29  04:54 PM             2,218 The Academy.md
+2026-05-29  04:54 PM             7,096 The Aerie.md
+2026-05-29  04:54 PM             2,264 The Arrow's Flight.md
+2026-05-29  04:54 PM             2,348 The Auction Block.md
+2026-05-29  04:54 PM             1,558 The Auction Pens.md
+2026-05-29  04:54 PM             2,481 The Axe and Anvil.md
+2026-05-29  04:54 PM             4,763 The Bandersnatch Inn.md
+2026-05-29  04:54 PM             1,558 The Bar None.md
+2026-05-29  04:54 PM             1,532 The Bargain Barn.md
+2026-05-29  04:54 PM             1,734 The Barn.md
+2026-05-29  04:54 PM             3,469 The Bent Page.md
+2026-05-29  04:54 PM             5,068 The Black Halls.md
+2026-05-29  04:54 PM             1,511 The Black Swan.md
+2026-05-29  04:54 PM             2,021 The Black Whip.md
+2026-05-29  04:54 PM             1,561 The Blue Harper.md
+2026-05-29  04:54 PM             5,738 The Blue Lantern.md
+2026-05-29  04:54 PM             1,826 The Blue Moon Tavern.md
+2026-05-29  04:54 PM             1,911 The Boar's Head.md
+2026-05-29  04:54 PM             1,488 The Bookworm.md
+2026-05-29  04:54 PM             1,602 The Brass Blade.md
+2026-05-29  04:54 PM             2,853 The Briarthorn Inn.md
+2026-05-29  04:54 PM             1,732 The Bronze Rat Memorial.md
+2026-05-29  04:54 PM             1,554 The Citadel.md
+2026-05-29  04:54 PM             2,736 The Cleff.md
+2026-05-29  04:54 PM             2,742 The Clothes Closet.md
+2026-05-29  04:54 PM             8,196 The Cock and Bull.md
+2026-05-29  04:54 PM             2,620 The Crocked Constable.md
+2026-05-29  04:54 PM             2,942 The Crystal Ship.md
+2026-05-29  04:54 PM             2,535 The Dancing Horse.md
+2026-05-29  04:54 PM             4,206 The Delver's Trove.md
+2026-06-13  09:03 PM             3,664 The Dreamseller's.md
+2026-05-29  04:54 PM             2,559 The Ducal Arms Theater.md
+2026-05-29  04:54 PM             2,458 The Dwarrow Smithy.md
+2026-05-29  04:54 PM             2,359 The Feather and Frock.md
+2026-05-29  04:54 PM             2,915 The Fluttering Veil.md
+2026-05-29  04:54 PM             1,510 The Foundry.md
+2026-05-29  04:54 PM             2,856 The Four of Swords.md
+2026-05-29  04:54 PM             2,327 The Four Ox Team.md
+2026-05-29  04:54 PM             3,166 The Fox and Goose.md
+2026-05-29  04:54 PM             1,724 The Giggling Gryphon.md
+2026-05-29  04:54 PM             1,581 The Gilded Cage.md
+2026-05-29  04:54 PM             1,530 The Glass Smelter.md
+2026-05-29  04:54 PM             6,716 The Golden Ducat.md
+2026-05-29  04:54 PM             2,827 The Golden Goblet.md
+2026-05-29  04:54 PM             1,825 The Golden Sovereign.md
+2026-05-29  04:54 PM             1,502 The Gray Halls.md
+2026-05-29  04:54 PM             2,438 The Green Gryphon.md
+2026-05-29  04:54 PM             1,700 The Green.md
+2026-05-29  04:54 PM             9,160 The Grey Halls.md
+2026-05-29  04:54 PM             2,906 The Grubstake.md
+2026-05-29  04:54 PM             3,204 The Hall of All Guilds.md
+2026-05-29  04:54 PM             4,515 The Hanged Man.md
+2026-05-29  04:54 PM             3,080 The Harp Sellers.md
+2026-05-29  04:54 PM             1,500 The Hearth and Hound.md
+2026-05-29  04:54 PM             1,441 The House of Healing.md
+2026-05-29  04:54 PM             3,838 The House of Lionel.md
+2026-05-29  04:54 PM             1,508 The House of Mordecai - Healer.md
+2026-05-29  04:54 PM             2,483 The House of Mr. Rasputin.md
+2026-05-29  04:54 PM             4,837 The Inn of the Seven Sisters.md
+2026-05-29  04:54 PM             1,475 The Invisible Shop.md
+2026-05-29  04:54 PM             2,517 The Iron Horse.md
+2026-05-29  04:54 PM             3,795 The Ironmongery.md
+2026-05-29  04:54 PM             1,489 The Jumping Jade.md
+2026-05-29  04:54 PM             2,697 The Kitchen Cabinet.md
+2026-05-29  04:54 PM             2,347 The Knighte Oute.md
+2026-05-29  04:54 PM             1,563 The Lamb and Lime.md
+2026-05-29  04:54 PM             4,747 The Leaf and Jar.md
+2026-05-29  04:54 PM             1,509 The Library.md
+2026-05-29  04:54 PM             1,428 The Lonely Lecher.md
+2026-05-29  04:54 PM             1,552 The Lover's Not.md
+2026-05-29  04:54 PM             5,606 The Lying Lawyer.md
+2026-05-29  04:54 PM             1,514 The Maid of Asdor.md
+2026-05-29  04:54 PM             4,367 The Mallorn.md
+2026-05-29  04:54 PM             1,512 The Man-at-Arms.md
+2026-05-29  04:54 PM             1,491 The Market Inn.md
+2026-05-29  04:54 PM             2,391 The Mask Maker's Shop.md
+2026-05-29  04:54 PM             2,913 The Master Puppeteer.md
+2026-05-29  04:54 PM             3,001 The Master's Quill.md
+2026-05-29  04:54 PM             2,971 The Mathom House.md
+2026-05-29  04:54 PM             1,559 The Mermaid.md
+2026-05-29  04:54 PM             1,738 The Midnight Oil.md
+2026-05-29  04:54 PM             2,688 The Mint.md
+2026-05-29  04:54 PM             2,319 The Moneymonger.md
+2026-05-29  04:54 PM             2,426 The Navy Yard of Haven.md
+2026-05-29  04:54 PM             2,205 The Offices of Miller & Co..md
+2026-05-29  04:54 PM             1,818 The Old Clothes Shop.md
+2026-05-29  04:54 PM             1,521 The Old Walls.md
+2026-05-29  04:54 PM             1,494 The Orc Warren.md
+2026-05-29  04:54 PM             3,786 The Pendragon Inn.md
+2026-05-29  04:54 PM             1,650 The Pentacle.md
+2026-05-29  04:54 PM             1,556 The Perfumed Garden.md
+2026-05-29  04:54 PM             2,207 The Prancing Pony.md
+2026-05-29  04:54 PM             1,639 The Purple Cow.md
+2026-05-29  04:54 PM             1,605 The Red Rooster.md
+2026-05-29  04:54 PM             1,781 The Ruined Barracks of the Strathspey Regiment.md
+2026-05-29  04:54 PM             1,456 The Ruins of the South Keep.md
+2026-05-29  04:54 PM             2,918 The Sackbut and Psalter.md
+2026-05-29  04:54 PM             3,179 The Seasick Parrot.md
+2026-05-29  04:54 PM             1,669 The Secret Cabinet.md
+2026-05-29  04:54 PM             1,515 The Shady Rest Inn.md
+2026-05-29  04:54 PM             1,613 The Shaving Mill.md
+2026-05-29  04:54 PM             1,636 The Shieldwood.md
+2026-05-29  04:54 PM             1,724 The Silken Chain.md
+2026-05-29  04:54 PM             3,921 The Silver Penny.md
+2026-05-29  04:54 PM             2,865 The Silver Star.md
+2026-05-29  04:54 PM             4,035 The Silver Stringed Bouzouki.md
+2026-05-29  04:54 PM             4,139 The Silver Trumpet.md
+2026-05-29  04:54 PM             1,562 The Slop Chest.md
+2026-05-29  04:54 PM             3,946 The Snowblind Mouse.md
+2026-05-29  04:54 PM             1,514 The Speedwell Inn.md
+2026-05-29  04:54 PM             6,017 The Stone Hammer.md
+2026-05-29  04:54 PM             1,466 The Surgery.md
+2026-05-30  08:19 PM             9,072 The Thieves' Guild House.md
+2026-05-29  04:54 PM             2,165 The Tool Shed.md
+2026-05-29  04:54 PM             1,883 The Topaz Health Center.md
+2026-05-29  04:54 PM             2,225 The Tower of the Kindred Races.md
+2026-05-29  04:54 PM             1,480 The Trembling Heart.md
+2026-05-29  04:54 PM             1,613 The Troubled Troubadour.md
+2026-05-29  04:54 PM             2,534 The Trumpet's Call.md
+2026-05-29  04:54 PM             1,608 The Virgin's Flute.md
+2026-05-29  04:54 PM             1,483 The Wandering Folk Camp.md
+2026-05-29  04:54 PM             1,784 The Waterlogged Rat.md
+2026-05-29  04:54 PM             1,795 The Widow Shelakii - Rooms.md
+2026-05-29  04:54 PM             1,537 The Wine Shop.md
+2026-05-29  04:54 PM             3,461 The Wizards' Staff.md
+2026-05-29  04:54 PM             1,535 Theseus Pennywhistle - Caterer.md
+2026-05-29  04:54 PM             1,787 Thieves' Guild Meeting Hall.md
+2026-05-29  04:54 PM             1,610 Thorn - Wheelwright.md
+2026-05-29  04:54 PM             3,193 Thrivin - Goldsmith.md
+2026-05-29  04:54 PM             1,524 Tiropodus - Wheelwright.md
+2026-05-29  04:54 PM             3,290 Tobler's Livery Stable.md
+2026-05-29  04:54 PM             1,793 Tower Station.md
+2026-05-29  04:54 PM             1,759 Treehouse Residence of Osondrea.md
+2026-05-29  04:54 PM             2,980 Trencher's Pony Stable.md
+2026-05-29  04:54 PM             1,513 Two For The Road.md
+2026-05-29  04:54 PM             2,335 U.N. Owen - Jeweler.md
+2026-05-29  04:54 PM             1,604 Unusual Pets.md
+2026-05-29  04:54 PM             4,995 Valli - Armorer.md
+2026-05-29  04:54 PM             1,822 Varrasch Family Residence.md
+2026-05-29  04:54 PM             2,321 Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products.md
+2026-05-29  04:54 PM             1,497 Vekkio's Foundry.md
+2026-05-29  04:54 PM             1,619 Verdintro Brickyard.md
+2026-05-29  04:54 PM             2,367 Voelkher's Sea Transport.md
+2026-06-13  09:03 PM             2,470 Vorikooreis - Herbs and Minor Potions.md
+2026-05-29  04:54 PM             3,990 Wagoneer's Delight.md
+2026-05-29  04:54 PM             1,746 Warehouse of Marcus Neeman.md
+2026-05-29  04:54 PM             4,208 Wayfarers Rest.md
+2026-05-29  04:54 PM             1,535 Weavers' Plus.md
+2026-05-29  04:54 PM             1,500 Wellington Thistlebottom - P.I..md
+2026-05-29  04:54 PM             1,771 Wenches' Walk.md
+2026-05-29  04:54 PM             2,572 Wicker and Withy.md
+2026-05-29  04:54 PM             1,728 Widow Bupkes' Rooming House.md
+2026-05-29  04:54 PM             2,642 Wig and Masque.md
+2026-05-29  04:54 PM             2,591 Windrider Courier Service.md
+2026-05-29  04:54 PM             1,694 Wizard's Isle.md
+2026-05-29  04:54 PM             8,315 Wizard's Watering Hole.md
+2026-05-29  04:54 PM             1,531 Ye Apothecary Shoppe.md
+2026-05-29  04:54 PM             2,677 Zafforo the Lender.md
+2026-05-29  04:54 PM             1,554 Zaubel - Jeweler.md
+2026-06-18  09:45 PM                 0 ~Landmarks.txt
+             545 File(s)      1,246,662 bytes
+               2 Dir(s)  1,048,509,480,960 bytes free

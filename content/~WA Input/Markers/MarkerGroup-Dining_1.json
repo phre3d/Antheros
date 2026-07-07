@@ -1,0 +1,30 @@
+{
+    "id": "f4b6289b-fe3d-48db-abae-e16ede3a6b40",
+    "title": "Dining",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [
+        {
+            "id": "b153b24e-2dcf-4d2c-8615-0c24bdc06d16",
+            "title": "Haven Irregulars",
+            "slug": null,
+            "state": null,
+            "entityClass": "SubscriberGroup",
+            "icon": null,
+            "url": null,
+            "subscribergroups": []
+        }
+    ],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": 880,
+    "isEditable": true,
+    "success": true
+}

@@ -1,0 +1,19 @@
+{
+    "id": "e7ca5296-f6dc-4434-95d1-3131c231da06",
+    "title": "Inns & Taverns",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": true,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

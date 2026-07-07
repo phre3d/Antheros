@@ -1,0 +1,181 @@
+#import #settlement #Free_City_of_Haven #quarter
+# Trade Island
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+Trade Island splits the River Dorian into two deep and rocky gorges of rushing rapids. The island is nearly a mile in length. Two sets of bridges, Stonebridge and Woodbridge, cross the river via the island. This is the only place the Dorian may be bridged for commercial traffic. Trade Island has served as a neutral meeting place for merchants and traders for countless centuries, even before the city existed. Those who buy and sell on Trade Island, rate no warehouses, large caravans, or trade ships; they are considered the least of the merchants and traders of Haven; they are the [[organization/Free Traders|Free Traders]], Wandering Folk, and various craftsmen.
+
+The greater part of the island is an open-air bazaar, where all manner of goods may be found (if one looks hard enough). The bazaar is a sprawling tapestry of color and sound, where traders and craftsmen display their wares from wagons, tents, pavilions, hastily constructed booths, or from scattered camps.   
+
+All manner of trinket may be found: things to delight the eye or tempt the jaded palate; things to make life easier, and things to give a moment's joy. The voices of traders fill the air, calling attention to their wares, "which are like no other", and further calling attention to their prices, "which are the lowest in Haven!” The sounds of [[article/haggling|haggling]] over costs of such precious goods as spices from Seki, and knick-knacks from far Namorin, resounds amidst the stirring crowd. The atmosphere is electric; a bustling panorama of noise and riotous color exists, unmatched anywhere in Haven (who else would wear such lousy looking clothes?).
+
+The booths of the major traders and craftsmen line the length of the Loop, a wide, well-trodden dirt road that circles the island, and Caravan Street, between the north and south bridges. Lesser traders form along lanes that run from one side of the Loop to the other, but rarely set up near the forbidding ruins of the South Keep (which is fearfully haunted, as any Havener will tell). The Wandering Folk have traditionally encamped along the South Loop, near the ruins. As the Loop moves north, it climbs a low hill and forms a ramp leading to the gates of [[landmark/The Citadel|The Citadel]], the imposing stone castle that has guarded the island and its vital bridges for over 4,000 years.
+
+The population of Trade Island is transient; except for [[landmark/The Citadel|The Citadel]] guards and a small number of semi-permanent residences, peoples are always on the move. Of all the populace, the [[organization/Free Traders|Free Traders]] are the most numerous. 
+
+There is stiff competition for the choice spots to set up stalls, those on the Bridge roads, and on the Loop near [[landmark/The Citadel|The Citadel]] and between [[Settlement/The Bridges|The Bridges]]. 
+
+[var:private-access-phre3d]Among the [[organization/Free Traders|Free Traders]], there is a loose hierarchy, measured by the size of one's business, and its apparent wealth, as well as by reputation of trading acumen. Well-established traders of higher prestige usually get the best spots in the bazaar, while the younger traders and smaller operations take what is left. The poorest end up on the far end of the Loop, near the gypsies. Disputes over precedence or other matters are usually settled peacefully by arbitration by another Free Trader who is known for his fairness as violence is considered to be very bad for business. 
+
+Not all on Trade Island are [[organization/Free Traders|Free Traders]]. Many craftsmen and artisans bring their wares to the Island from workshops in Haven and nearby villages to better catch the eye - and the purses - of customers. Food and drink vendors operate out of pushcarts and simple stalls, and the ever-present beggars and thieves roam the bazaar in search of marks. There are even those who have made Trade Island their home, living in simple shacks or tents, and rarely crossing either Bridge.
+
+The most visually impressive residents of the Island have the least to do with it. The brightly garbed, well-armored members of the [[organization/Citadel Guard|Citadel Guard]], traditional guardians of the sanctity of Trade Island, who ride primarily on their reputation and their ancient heritage.
+
+Below the southern bend of the Loop is the traditional camping spot of the [[ethnicity/Wandering Folk|Wandering Folk]]. The Ursa clan that presently occupies this spot are primarily horse dealers and trainers from the Great Plains area, dark of skin and hair, and wear brightly colored, embroidered garb. They are in town for the annual Stallion's Challenge, the most prestigious horse race in the region [var:private-access-phre3d] (see [[../Plot/Free City of Haven/Scenarios/The Challenge Cup|Plot/Free City of Haven/Scenarios/The Challenge Cup]]). This race has been dominated for years by the [[Organization/Families/Varrasch Family|Varrasch Family]] of [[Settlement/The Heights|The Heights]], but this year, the Wandering Folk have a surprise entry, a magnificent chestnut stallion named Firebringer, who has won many a race in the Plains.  
+
+[var:private-access-phre3d]]Clan Ursa  is led by [[person/Daruko Ken-Ursa|Daruko Ken-Ursa]], a proud, shrewd man, and a charismatic leader whose total authority is rarely questioned. They are a close knit group of around forty men, women and children, and keep mostly to themselves, although they may wander the bazaar. The Ursa speak their own language among themselves, but they also know the Common tongue and many other languages from their constant traveling. The gypsies are also renowned for their "second sight", and several members of the clan will see clients for foreseeing, answering questions, etc. during the day - for a reasonable fee, of course. 
+
+Beyond the Wandering Folk camp, are the ruins of an ancient stone fortress, long abandoned, known as the South Keep. No one ventures past its overgrown, crumbling walls or even camps within a hundred yards of it at night. All Haveners and Islanders know it to be haunted. The restless, vengeful spirits of the long-dead guardians of the Island still keep vigilance among the fallen towers and grass-grown barrows. At times, one can hear the tramping of feet, the clinking of ghostly arms and armor, or glimpse shadowy forms moving in the twilight or early dawn near the Keep. On stormy nights, there are often pale, luminous figures flitting about the stones, and unearthly moans fill the air. [var:private-access-phre3d] More detailed information about the inhabitants of the South Keep, both living and dead, can be found in the [[Plot/Free City of Haven/Haven Scenarios|Haven Scenarios]] at the rear of the section.
+
+When [[Settlement/The Bridges|The Bridges]] close at midnight those still on the Island stay there until dawn when they re-open. The Island at night becomes a community of friends; although many have just met, and may never meet again. Campfires glow cheerfully in front of the wagons and pavilions, or behind booths, and the heady aromas of roasting meat and trader's stew (made of whatever's donated) draw the Islander's together in congenial circles. 
+
+Should the player-characters spend a night on Trade Island, they will find the Islanders open and hospitable, sharing food and around the many campfires, laughing, talking, singing, dancing, drinking, and storytelling far into the night. It is said the Islanders celebrate a festival every night, and there are those who seem the worse for it the next morning.
+
+When morning comes, the wagons of those who are moving on rumble over [[Settlement/The Bridges|The Bridges]] down the Long Road, and those who remain, and those who have come in to set up the evening before, make ready for another day.
+
+[var:private-access-phre3d]]
+## Persons of Interest 
+As was mentioned earlier, most of the population of Trade Island is transient. For the GM' s convenience, it is assumed that all NPC's hereafter described are all present when the players first encounter them. After each NPC's name there is a percentage figure in parentheses - this is the percentage chance that the NPC will still be on (or returned to) the Island the next time the players are looking for them. 
+
+As there are no shops, per se, the NPC descriptions contain information on the wares they sell and the type of booth, stall, or tent they have. Their location on the Loop (on the neighborhood maps) gives an idea of their prestige in the Free Trader's pecking order.
+[anchor|street_encounters]
+
+## Random [[Plot/Free City of Haven/Street Encounters|Street Encounters]] 
+While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
+
+| [roll:d1000]       | Encounter       | Roll      | Encounter       | Roll      | Encounter    |
+|---|---|---|---|---|---|
+| 001-028       | [Boy Fight](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Boy_Fight)       | 286-327       | [Book sale](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Book_sale)       | 657-684       | [Directions](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Directions)    |
+| 029-070       | [Shell Game](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Shell_Game)       | 326-369       | [Buy a Duck?](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Buy_a_Duck)       | 685-698       | [Jingle Bells](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Jingle_Bells)    |
+| 071-084       | [Caravan](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Caravan)       | 370-397       | [Auction](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Auction)       | 699-712       | [[[person/Bag Lady|Bag Lady]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Bag_Lady)    |
+| 085-098       | [Land Scam](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Land_Scam)       | 398-425       | [[[person/Mang|Mang]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Mang)       | 713-768       | [[[person/Storyteller|Storyteller]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Storyteller)    |
+| 099-126       | [Rats](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Rats)       | 426-481       | [Veils](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Veils)       | 769-782       | [Tumbril Girl](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Tumbril_Girl)    |
+| 127-166       | [Puppets](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Puppets)       | 482-495       | [Trick Shot](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Trick_Shot)       | 783-810       | [Lost Child](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Lost_Child)    |
+| 167-180       | [Warning](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Warning)       | 496-523       | [Carlo](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Carlo)       | 811-866       | [Peddlers](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Peddlers)    |
+| 181-208       | [Collection](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Collection)       | 524-537       | [Ransoming](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Ransoming)       | 867-894       | [Cock Fight](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Cock_Fight)    |
+| 209-215       | [Relative?](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Relative)       | 538-544       | [Beggars](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Beggars)       | 895-944       | [Green Cards](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Green_Cards)    |
+| 216-229       | [Assassin](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Assassin)       | 545-586       | [Crier](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Crier)       | 945-986       | [Old Man](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Old_Man)    |
+| 230-243       | [Chase](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Chase)       | 587-628       | [[[person/Astrologer|Astrologer]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Astrologer)       | 987-000       | [Tumbril Men](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Tumbril_Men)    |
+| 244-285       | [Hell-fire](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Hell-fire)       | 629-656       | [Crotofiran](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Crotofiran)       |       |    |
+
+## People and Locations on Trade Island 
+
+| People      | Places   |
+|---|---|
+|  [tagged:trade-island-person|list|none]       |  [tagged:trade-island-location|list|none]    |
+
+# Demographics
+The population of Trade Island is transient - except for the Citadel guards and a small number of semi-permanent residences, peoples are always on the move. Of all the populace, the Free Traders are the most numerous.
+
+# Government
+
+# Defenses
+
+# Industry & Trade
+
+# Infrastructure
+
+# Districts
+
+# Assets
+
+# Guilds & Factions
+
+# History
+
+# Points of Interest
+
+# Tourism
+
+# Architecture
+
+# Geography
+
+# Climate
+
+# Natural Resources
+
+--- end-column ---
+
+**Image:** 
+
+![[Map/Haven/Trade Island (full).jpg]]
+
+---
+]
+ **Persons of Interest** 
+- [[person/Emel d'Lormai|Emel d'Lormai]] (65%)
+- [[person/Magda Cordovan|Magda Cordovan]] (20%)
+- Mother [[person/Yosofal|Yosofal]] (90%) 
+- [[person/Bonyodel|Bonyodel]] (90%)
+- Jaquel Estankris (40%)
+- [[person/Raku the Potter|Raku the Potter]] (40%)
+- [[person/Old Lea|Old Lea]] (80%)
+- [[person/Miranda|Miranda]] (75%)
+- [[person/Jarien the Jeweler|Jarien the Jeweler]] (40%)
+- [[person/Samoradat|Samoradat]] (70%)
+- [[person/Kazan the Mender|Kazan the Mender]] (85%)
+- [[person/Kopernikos|Kopernikos]] (30%)
+- [[person/Darius|Darius]] (85%)
+- [[person/Meryn Longleaf|Meryn Longleaf]] (30%)
+- [[person/Sirius the Scribe|Sirius the Scribe]] (90%)
+- [[person/Pippin Frosh|Pippin Frosh]] (45%)
+- [[person/Damiano Dwarf-Friend|Damiano Dwarf-Friend]] (30%)
+- [[person/Daruko Ken-Ursa|Daruko Ken-Ursa]] (90%)
+- [[person/Dzarina|Dzarina]] Ken-Ursa (100%)
+- [[person/Damon N. Pythias|Damon N. Pythias]] (80%)
+% = chance of being on the island at any point in time
+
+---
+
+---
+
+**Type:** Quarter<br>
+**Other Name(s):** <br>
+**Located In:** [[Settlement/Free City of Haven|Free City of Haven]]
+
+**Population:** <br>
+**Demonym:** <br>
+**Founded:** <br>
+**Runied:** 
+
+**Ruler:** <br>
+**Rank:**  <br>
+**Ruling Organization:**  <br>
+**Other Rulers:** 
+
+**Founders:** 
+
+---
+
+### World Anvil Metadata
+**Id:** eec2fc60-5565-40fa-9047-69924589c400<br>
+**Entity Type:** Article / settlement<br>
+**Category:** Districts of Haven<br>
+**Tags:** fcoh,quarter
+
+--- end-multi-column
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+Previous:
+3a847a4d-42be-490b-a109-5bd60a093e1f
+
+--- end-column ---
+
+Next:
+433922e7-e67a-4bfc-a438-e591c5497f24
+
+--- end-multi-column

@@ -1,0 +1,78 @@
+#import #statblock #person #npc 
+# Oriol
+
+````col
+```col-md
+flexGrow=2
+===
+**Race:** Avanthar<br>
+**Profession:** Merchant/4th<br>
+**Challenge Rating:** 5<br>
+**Proficiency Bonus:** <br>
+**Size:**  Medium<br>
+**Languages:** Elvish | Common | speak Celestial<br>
+**Alignment:** Unaligned<br>
+**Armour Class:** 15 - None<br>
+**Hit Points:** 14<br>
+**Movement:** 30$\quad$ *Burrow:* 0$\quad$ *Swim:* 0$\quad$ *Climb:* 0$\quad$ *Fly:* 80$\quad$ *Hover:* 0
+
+![[DnDLine.png]]
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 9 (-1) | 15 (+2) | 8 (-1) | 13 (+1) | 14 (+2) | 14 (+2) |
+
+![[DnDLine.png]]
+
+**Saving Throws:** Charisma | Intelligence<br>
+**Damage Resistances:** Adv. Vs. Charm | Necrotic | Radiant<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common | speak Celestial<br>**Challenge:** 5 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Silent Flight | Fey Ancestry | Heavenly Touch (see spells) | Celestial Resistance | Light Bearer (see spells)
+
+```
+
+```col-md
+
+**Source:** The Free City of Haven<br>
+
+
+```
+````
+
+
+
+
+
+![[DnDLine.png]]
+
+# Spellcasting
+**Heavenly Touch: ** Heal xd4 damage where x = proficiency bonus. Needs long rest to recharge 
+ **Light**  cantrip
+
+
+
+
+
+
+
+
+
+
+
+
+![[DnDLine.png]]
+
+# Actions
+**Club:**  +1 to hit , 1d4-1 bludgeoning damage  
+  **Dagger:**  +4 to hit , 1d4+2 piercing damage
+
+
+
+
+
+
+
+
+
+
+
+
+

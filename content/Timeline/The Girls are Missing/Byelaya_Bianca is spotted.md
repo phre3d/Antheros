@@ -1,0 +1,60 @@
+---
+aat-render-enabled: true
+timelines:
+  - The-Girls-Are-Missing
+aat-event-start-date: 1172/8/9 14:30
+---
+#import #history 
+# Byelaya/Bianca is spotted
+````col
+```col-md
+flexGrow=2.5
+===
+**Summary**<br>
+[[person/Bianca|Bianca]] goes out to do a little shopping and forgot to wear her veil. 
+
+[[person/Cortina de la Riis|Cortina de la Riis]], Belaya's only close friend, spots a girl who closely resembles Byelaya except for the hair color. Cortina, asks her brother [[Person/Thomas de la Riis|Thomas de la Riis]] to quietly check out the girl.
+
+**Description**<br>
+See [[Plot/Free City of Haven/Scenarios/The Nobleman's Daughter|The Nobleman's Daughter]]
+
+# Related Content
+**Article:** <br>
+**Location:** <br>
+**Species:** <br>
+**Report:** <br>
+**Conflict:** 
+
+**Characters:** <br>
+$\quad$[[Person/Bianca|Bianca]] / [[Person/Byelaya Tainley|Byelaya Tainley]]<br>
+$\quad$[[Person/Cortina de la Riis|Cortina de la Riis]]<br>
+$\quad$[[Person/Thomas de la Riis|Thomas de la Riis]]
+ 
+**Organizations:** 
+
+**Timelines**<br>
+$\quad$[[Timeline/The Girls Are Missing]]<br>
+
+```
+
+```col-md
+**Start**<br>
+*Date:* 1172-8-9<br>
+*Time:* 14:30<br>
+
+
+**End**<br>
+*Date:* --<br>
+*Time:*  : 
+
+**Significance:** Insignificant
+
+**Lane:** <br>
+**Background Colour:** <br>
+
+```
+````
+
+
+
+

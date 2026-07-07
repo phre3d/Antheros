@@ -1,0 +1,19 @@
+#import #organization   #Free_City_of_Haven #type-family
+# Savonna Family
+
+[[person/Margery Savonna|Lady Margery Savonna]] is the very wealthy matronly widow of Eklund Savonna, the late lord of Kinselbrock. The family retains substantial feudal land holdings in the west, now governed by Eklund's half-brother, Tolman Burlingame. 
+
+Margery herself has no interest in politics or administration, and much, prefers the active social life of the city. She shares the family's city estate with her younger daughter [[person/Donia Savonna|Donia Savonna]] and a host of servants; her elder daughter, Karys, is a priestess of [[Religion/Etheah|Etheah]] at a temple in Kinselbrock.
+
+The [[landmark/Savonna Family Residence|Savonna Family Residence]] in Haven is located in The [[Settlement/The Heights|The Heights]]
+
+![[DnDLine.png]]
+
+**Family Leader:** [[person/Margery Savonna|Lady Margery Savonna]]
+
+**Members:** 
+```dataview
+LIST
+FROM #savonna-family 
+SORT file.name
+```

@@ -1,0 +1,91 @@
+#import #settlement #Free_City_of_Haven #dummy
+# Random Location
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+This is a dummy article to allow grouping of people/things that can appear anywhere.
+
+## People Appearing Anywhere 
+
+| Street Encounters | Scenarios | Random Use as Needed  |
+|---|---|---|
+| [tagged:street-encounters-person|list|none]    | [tagged:scenarios-person|list|none]    | [tagged:generic-person|list|none]   |
+
+# Demographics
+
+# Government
+
+# Defenses
+
+# Industry & Trade
+
+# Infrastructure
+
+# Districts
+
+# Assets
+
+# Guilds & Factions
+
+# History
+
+# Points of Interest
+
+# Tourism
+
+# Architecture
+
+# Geography
+
+# Climate
+
+# Natural Resources
+
+--- end-column ---
+
+**Image:** 
+
+**Type:** <br>
+**Other Name(s):** <br>
+**Located In:** 
+
+**Population:** <br>
+**Demonym:** <br>
+**Founded:** <br>
+**Runied:** 
+
+**Ruler:**  <br>
+**Rank:**  <br>
+**Ruling Organization:**  <br>
+**Other Rulers:** 
+
+**Founders:** 
+
+---
+
+### World Anvil Metadata
+**Id:** 11589327-2679-4d29-8291-2a23a5de0603<br>
+**Entity Type:** Article / settlement<br>
+**Category:** Places in Haven<br>
+**Tags:** fcoh,dummy
+
+--- end-multi-column
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+
+--- end-column ---
+
+--- end-multi-column

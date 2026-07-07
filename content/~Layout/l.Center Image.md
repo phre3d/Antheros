@@ -1,0 +1,1 @@
+<div style="text-align: center;"><img src="assets/image-filename.png" width="400"></div>

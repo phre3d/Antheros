@@ -1,0 +1,30 @@
+{
+    "id": "3141d7f2-b139-420e-bedf-9031ebf95f7c",
+    "title": "Services",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [
+        {
+            "id": "b153b24e-2dcf-4d2c-8615-0c24bdc06d16",
+            "title": "Haven Irregulars",
+            "slug": null,
+            "state": null,
+            "entityClass": "SubscriberGroup",
+            "icon": null,
+            "url": null,
+            "subscribergroups": []
+        }
+    ],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": 700,
+    "isEditable": true,
+    "success": true
+}

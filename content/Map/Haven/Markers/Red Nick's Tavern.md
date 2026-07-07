@@ -1,0 +1,23 @@
+---
+location: [1713.962,  6322.449]
+mapmarker: Inns & Taverns
+---
+#map-marker 
+# Red Nick's Tavern
+
+**Map:** [[Map/Haven/Haven|Free City of Haven]]
+
+**Coordinates** <br>
+*World Anvil:* --, --<br>
+*Foundry:* 6196, 5504<br>
+*Leaflet:* [1713.962,  6322.449]
+
+**Marker Type:** Inns & Taverns
+
+**Map Ref:** Map Ref.: U05 (AX)
+
+**Location:** [[Landmark/Red Nick's Tavern|Red Nick's Tavern]]<br>
+**Location Type:** Tavern
+
+**Description**<br> 
+

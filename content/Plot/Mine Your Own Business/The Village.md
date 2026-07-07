@@ -1,0 +1,96 @@
+#import #plot  #Mine_Your_Own_Business
+# The Village
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Oakridge 
+Oakridge is a tranquil village that enjoys safety, mainly due to frequent patrols by the king's guards. Its recent growth can be attributed to a newly constructed road linking the kingdom's North and South, drawing caravans and travelers alike. To the village's north lies a monastery dedicated to Felicida, the goddess of happiness, whose followers make regular pilgrimages to Oakridge, imbuing the village with their joy.
+
+The residents of Oakridge are primarily simple farmers and craftsmen. Notably, the village lacks its own guards, relying instead on the protection provided by the kingdom. There's a small shop catering to the community's needs, offering a range of general goods and farming equipment.
+
+# The Golden Wheat Inn 
+The Golden Wheat Inn is a cozy and welcoming place in the center of Oakridge, known for its friendly atmosphere. The inn, named after the fields around the village, provides a warm spot for both travelers and locals. Made of wood and stone, the inn looks charming, with ivy and flowers around the outside.
+
+Inside, the inn is just as inviting. The main room is always alive with people talking, the sound of mugs clinking, and the warmth from the fireplace. Wooden beams across the ceiling and tables lit by candles make it a comfortable spot for guests to enjoy a meal or a drink.
+
+Rico, the innkeeper, runs the Golden Wheat with care. It's famous for its good food that uses fresh, local ingredients and old family recipes. The rooms at the inn are simple but clean, offering a peaceful rest for anyone who's been traveling. The Golden Wheat Inn is a key part of life in Oakridge, offering a place where everyone can feel at home.
+
+An intriguing offer hangs on the inn's wall:
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+ > Free Night on the House!!
+
+ > Simply devour our Hefty-Boy<sup>(tm)</sup> steak, one (1) loaf of bread and two (2) flagons of ale in under an hour!
+ > 
+
+A Constitution check at DC 15 is required to succeed and gains the winnder a free night's stay, including breakfast.
+
+## Plot 
+While the party enjoys their lunch at the Golden Wheat, chatting with Rico, the innkeeper, a group of miners nervously approaches them. 
+
+ **Other Names** 
+'Diggy' Fuff
+Sater ToupThe spokesperson for the miners, known as  ==Cham Clowder== ,  bears the marks of at least 50 years of life, his skin wrinkled and darkened from decades spent in a mine. His behaviour is one of honesty and transparency, reflecting his sincere desire for the well-being of the miners and their families. When he addresses the adventurers, he nervously holds his dusty hat in his hands, twisting it back and forth, a clear sign of his anxiety. Humble and hesitant, they share their story. These miners from the coal mine have always relied on it for income, but a stroke of luck led them to discover a gold vein four weeks ago-a potential fortune for both them and the town.
+
+Their joy, however, was short-lived. Strange occurrences plagued them a fortnight into mining. Bedsits were vandalised, tools scattered and broken, and food devoured as if by wild animals. Then came the monster: black with red eyes, long claws, a walking horror. The beast grabbed Icah, one of the young miners, ripped his body apart, and feasted on his flesh.
+
+Terrified, they abandoned the mine, prompting mayor Gingar Terion to seal it off, fearing the creature's escape. 
+
+Now, the miners, desperate and with little to offer, ask the party for help. They promise 150 gp upfront and a five per cent share from the mine if the party can rid it of the monster and restore normal operations. 
+
+But first, they must convince Mayor Gingar to hand over the key.
+
+# The Terion Residence 
+The mayor's residence rests peacefully by the lake, boasting a charming garden with benches. Inviting the party for afternoon tea, he shares tales of the village's growth and newfound popularity, thanks to increased traffic on the main road.
+
+As the party brings up the topic of the mine, his behaviour shifts to sadness, and he becomes nervous. He acknowledges the issue but emphasises the dangers lurking within the mine, dangers that should not be unleashed. Fearful for the village and concerned that news of the creature could divert travellers away, he firmly denies the party access, refusing to part with the key.
+
+If the party inquires why mayor Gingar Terion did not seek assistance from the king's castle, he hesitantly explains that the severity of the threat within the mine was unclear. He believed it premature to alarm the crown. "It wasn't time yet," he murmurs, a shadow of doubt flickering across his face. "We didn't fully grasp the magnitude of the danger lurking beneath our feet."
+
+However, a tumultuous inner conflict lies beneath his mask of concern for protocol. The mayor is acutely aware of his wife Theresia's secret dealings with Pardin and her ambitious, if not dangerous, plans to ascend the social ladder. This knowledge places him at a moral crossroads, torn between his duty to uphold the law and his loyalty as a husband. The thought of betraying Theresia by exposing her schemes to the authorities-and possibly condemning her to custody-weighs heavily on his conscience. Thus, he finds himself trapped in a shaky balance, attempting to protect her secret while fulfilling his responsibilities as mayor.
+
+The party have four choices: 
+1. **Threatening mayor Gingar:**  While this approach may secure the key for the party, it has <u>significant consequences</u>. Choosing to intimidate the mayor into compliance will 
+
+ - tarnish the party's reputation within Oakridge
+ - complimentary accommodations at the inn will be revoked - if they had it -,
+ - word of their strong-arm tactics will spread quickly.
+ - local merchants, influenced by the mayor's account of events, will increase their prices by at least 10%, making every purchase in the village more costly for the adventurers.
+
+To succeed, the player needs to roll a <u>Charisma (Intimidation) check against DC14</u>.
+2. **Steal the key:**  The party can attempt to covertly take matters into their own hands.
+3. **Leave and find another way:**  Through lockpicking, magic, or other means, they can explore alternative methods to open the sealed mine.Notably, the party might observe the mayor's unease when the mine is mentioned, which could originate from genuine fear rather than malicious intent.
+4. **Persuading the mayor:**  The party can persuade the mayor to cooperate. However, convincing him won't be easy, given his strong protective instincts towards his wife and his genuine concern that the monster in the mine poses a real threat to the village. It will require a successful <u>Charisma (Persuasion) check with a difficulty class DC18</u>.
+
+
+## Stealing the Key  
+<u>The key is hidden in the mayor's office, within a secret compartment in his desk.</u> The adventurers must break into the office. This can be achieved by bypassing the fence from the lakeside or directly through the main entrance. The residence is unguarded, and the mayor and his wife sleep in their bedroom.
+
+Should the adventurers encounter the mayor during the operation, word of their intrusion will inevitably spread throughout Oakridge, souring the villagers' perception of them-unless the party manages to unveil the truth or deal with it otherwise.
+```
+
+```col-md
+![[Plot/Mine Your Own Business/Table of Contents]]
+
+![[~attachments/DnDLine.png]]
+
+```
+````
+
+
+---
+
+````col
+```col-md
+Previous: ebca0f33-09a4-4b39-85a0-992137e2152c
+```
+
+```col-md
+textAlign=right
+===
+Next: 9d1dab5a-8937-4887-ad54-fc80302d650e
+```
+````

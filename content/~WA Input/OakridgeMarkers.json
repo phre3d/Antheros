@@ -1,0 +1,24 @@
+{
+    "markers": [{
+            "name": "Golden Wheat Inn",
+            "xxxxxx": "Oakridge",
+            "fCoords": "750, 2150",
+            "waCoords": "--, --",
+            "leaflet": "",
+            "pinType": "Inns & Taverns",
+            "mapRef": "--",
+            "type": "Inn",
+            "description": ""
+        }, {
+            "name": "Temple of Ariel",
+            "xxxxxx": "Oakridge",
+            "fCoords": "900, 1050",
+            "waCoords": "4735, 3974",
+            "leaflet": "",
+            "pinType": "Religion",
+            "mapRef": "--",
+            "type": "Temple",
+            "description": "Ariel: Goddess of Love and Beauty, Patron of the Arts"
+        }
+    ]
+}

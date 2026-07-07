@@ -1,0 +1,83 @@
+---
+cr_type: person
+cr_id: kordaal-vanagas
+name: Kordaal Vanagas
+sex: male
+born: 1152
+mother: "[[Plot/The Gypsy Train/NPCs/Zanthira Vanagas|Zanthira Vanagas]]"
+mother-id: zanthira-vanagas
+father: "[[Plot/The Gypsy Train/NPCs/Balkrin Vanagas|Balkrin Vanagas]]"
+father_id: balkrin-vanagas
+tags: [npc, person, The_Gypsy_Train]
+date modified: 2026-06-12, 4:05:40 pm
+---
+
+#person #npc #The_Gypsy_Train
+
+# Kordaal Vanagas
+
+Medium, humanoid (human), chaotic neutral
+
+**Profession:**
+
+**Armour Class:** <br>
+**Hit Points:** <br>
+**Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:*
+
+---
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+|  () |  () |  () |  () |  () |  () |
+
+---
+
+**Proficiency Bonus:** <br>
+**Saving Throws:** <br>
+**Damage Vulnerabilities:** <br>
+**Damage Resistances:** <br>
+**Damage Immunities:** <br>
+**Condition Immunities:** <br>
+**Languages:** <br>
+**Challenge:**  / (XP)<br>
+**Senses:** <br>
+**Skills:**
+
+>[!infobox]
+>!![[Plot/The Gypsy Train/Images/Kordal Vanagas.jpg]]
+
+---
+
+# Description
+
+Oldest son of [[Plot/The Gypsy Train/NPCs/Balkrin Vanagas|Balkrin Vanagas]] and [[Plot/The Gypsy Train/NPCs/Zanthira Vanagas|Zanthira Vanagas]]
+
+This young man looks much like his father, only smaller built and (obviously) younger, and has just recently celebrated his coming of age (20 years old). He stands by his father in all matters and can usually be found beside him whenever the caravan is not moving. His attitudes are also much the same as his father’s. Kordaal’s job is to drive his grandmother’s wagon. When his father dies, Kordaal will become the leader of the caravan.
+
+Kordaal is a 2nd-level human fighter, chaotic neutral, with Str 17, Int 7, Wis 10, Dex 16, Con 16, Cha 13, AC 6, and 20 hp. He wears leather armor and uses a _short sword_ and a _dagger_.
+
+Kordaal normally keeps his father’s weapons when Balkrin is wrestling so that if trouble starts, Kordaal can toss Balkrin’s _+2 dagger_ to him. If the odds seem stacked against his father, Kordaal will be the first to step in, wielding his _short sword_.
+
+---
+
+# Spellcasting
+
+---
+
+# Special Abilities
+
+---
+
+# Actions
+
+**Long Sword.**<br>
+*Attack:*      <br>
+*Hit:*
+
+**Dagger +2.**<br>
+*Attack:*      <br>
+*Hit:*
+
+---
+
+**Source:** [[Plot/The Gypsy Train/The Gypsy Train|The Gypsy Train]]

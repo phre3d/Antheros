@@ -1,0 +1,23 @@
+---
+location: [6462.942,  2857.143]
+mapmarker: Residence
+---
+#map-marker 
+# Geronde Family Residence
+
+**Map:** [[Map/Haven/Haven|Free City of Haven]]
+
+**Coordinates** <br>
+*World Anvil:* --, --<br>
+*Foundry:* 2800, 850<br>
+*Leaflet:* [6462.942,  2857.143]
+
+**Marker Type:** Residence
+
+**Map Ref:** Map Ref.: I21 (DE)
+
+**Location:** [[Landmark/Geronde Family Residence|Geronde Family Residence]]<br>
+**Location Type:** Mansion
+
+**Description**<br> 
+

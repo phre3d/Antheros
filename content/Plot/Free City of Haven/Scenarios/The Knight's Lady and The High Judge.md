@@ -1,0 +1,68 @@
+#import #plot  #Free_City_of_Haven
+# The Knight's Lady and The High Judge
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+## Players Information 
+Some three years ago, a down on his luck noble named Sir Luron Pailly became involved in a scheme to recoup his family's failing fortunes. Unfortunately, the scheme was not only illegal but dangerous, and the denouement cost the lives of eleven people, including three City Guardsmen. Luron was implicated, and was apprehended, indicted, and put to trial. The trial was presided over by High Judge [[person/Lucius Cardallo|Lucius Cardallo]].
+
+At the conclusion of the trial, when sentencing was due, Cardallo revealed that the defendant's wife had attempted to bribe him. He sentenced Luron to death and ordered the confiscation of all the family's lands and resources in the demesnes of Haven. Subsequently, the young widow, now in disgrace, found employment in a fine clothing shop. She can frequently be found at some of the taverns the adventurous people favor. She is said to be quite beautiful.
+
+## GM's Notes 
+Lady [[person/Jarenni Pailly|Jarenni Pailly]], Luron's wife, seeing that her husband was going to be found guilty, and would be sentenced to prison or death, went to the High Judge, and pleaded with him to mitigate the sentence to banishment. Cardallo agreed, provided that the young woman spent the remainder of the time of the trial as his mistress (Jarenni is one of the most notable beauties of the city, and Haven is noted for the many beautiful women within its walls). To save her husband, Jarenni agreed.
+
+After the conclusion of the trial, Cardallo prolonged the agony by waiting an extra week to "ponder the proper punishment". During that period, he enjoyed Jarenni's company to the fullest. When he returned to his bench to announce the sentence, he exposed her "attempted bribery" by Jarenni (he was feeling some pressure from the [[organization/Young Stallions|Young Stallions]], and he had not been as discreet as was his usual wont in this affair), and announced his decision to give the harshest sentence, to extract the maximum punishment - Luron was sentenced to death. Scarcely a week later, the lady's husband was beheaded (hanging is the execution method reserved for the lower classes, or for crimes in which a public example must be made). Lady Jarenni was disgraced, and subsequently ostracized by most of the nobility in Haven. The remains of the family's fortune were confiscated, leaving her without means. 
+
+Since her husband's execution, she has been planning revenge, not as direct retribution (like having him killed outright), but a drawn-out process, designed to cause Cardallo as much anguish as possible. While she was sojourning as the judge's mistress, she discovered (unbeknownst to her erstwhile lover) the location of a cache of papers containing incriminating evidence of Cardallo's extralegal activities, the release of which would destroy him politically if not totally. Between the jewelry she was able to secrete before the confiscation, and the money she has saved from her salary as a shop girl in Adrielle's [[landmark/Fine Silks and Fabrics|Fine Silks and Fabrics]] shop, she has some 2,000gp. She will give a group of adventurers willing to break into Cardallo's residence the location of the evidence, along with another location, that of a cache of jewelry (none of which is likely to be notorious, and all of which could be easily fenced), and will pay the 2,000gp to them when they return the papers to her. She does not want Cardallo killed (cutting him up a little would be all right, but nothing fatal - she wants to watch him squirm).
+
+If a group takes the assignment (there should be 3 to 5, including at least one person skilled in lock-manipulation), the papers are hidden in a small niche behind a locked panel in Cardallo's private suite (on the third floor of the house). The panel is hidden behind the draperies at the head of the large four-poster bed, sunk into the wall. The lock is Complexity 3, but the wall and the panel will succumb to 60 points of damage. The jewelry, in a carved wooden jewelry case, is hidden in the large bottom right-hand drawer of the desk in Cardallo's den on the second floor. There are 8 pieces, worth an aggregate value of 15,000gp - the carved box is worth about 1,000gp.
+
+If the break-in is attempted during the day, there is a 25% chance someone in the street outside will notice something suspicious and summon the local Guard. Cardallo is unlikely to be home, and his three servants are 80% likely to be out shopping (or simply goofing off) - the Judge only demands service when he's there. 
+
+If the break-in is made in the evening, the chances of the Guard being summoned on suspicion drop to 10%, but all three servants will be in the house and fairly active. There is also a 65% chance Cardallo will be home, possibly (50%) enjoying the "company" of some feckless lady who has had the bad fortune to come under his jurisdiction. 
+
+At night, there is only a 2% chance of the Guard being summoned, and the servants will be asleep (a 35% chance they will awaken if there is excessive noise). Cardallo will likely (85%) be in his bedroom, with his lady (if any) - if before 1:00am, they will be engaged, if after, asleep (it seems unfair, given his character and the blackness of his soul, but Cardallo sleeps like a baby, totally at peace with himself).
+
+```
+
+```col-md
+**Start / Locations** 
+
+- [[Landmark/Fine Silks and Fabrics|Fine Silks and Fabrics]]
+- [[landmark/House of Lucius Cardallo|House of Lucius Cardallo]]
+
+ **Key Participants** 
+
+- [[person/Jarenni Pailly|Jarenni Pailly]]
+- [[person/Lucius Cardallo|Lucius Cardallo]]
+
+---
+
+![[Caradallo's House.jpg]]
+
+---
+### World Anvil Metadata
+**Id:** 3916a0d1-3934-4297-a39c-624e84e595ef<br>
+**Entity Type:** Article / plot<br>
+**Category:** Haven Encounters and Scenarios<br>
+**Tags:** FCoH-plot
+```
+````
+
+
+---
+
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

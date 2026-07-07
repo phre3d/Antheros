@@ -1,0 +1,52 @@
+#import #profession 
+# Alchemist
+
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is an old tradition and its versatility has long been valued during times of war and peace. Among the major products of alchemy are oils, potions and improvised weapons. 
+
+The Alchemist uses various reagents chosen for the essences they provide. These essences are manipulated and combined in various ways to produce produce an end effect. The mechanisms and techniques employed are what what leads to a different outcome.
+
+While many alchemical products may also be produced by an [[Profession/Herbalist|Herbalist]],  oils, acids and improvised weapons are the domain of alchemists while health related portions are unique to herbalists.
+
+There are six essences: Air, Earth, Fire, Life, Shadow, and Water. Each brings unique properties to the mixture.
+
+![[~attachments/DnDLine.png]]
+
+# Operations
+## Tools
+An alchemist is never far from their alchemist's supplies.   This set of equipment includes beakers, mixing and   measuring containers, a small mortar and pestle, and a   miscellany of common alchemical ingredients, including salt,  powdered iron, and purified water. 
+
+Proficiency with these tools lets you to add your proficiency bonus to any ability checks you make to craft alchemical concoctions including acids, explosives, and a wide range of potions.
+
+## Materials
+
+
+## Workplace
+
+
+--- end-column ---
+
+**Guild:** [[Organization/Guilds/Brotherhood of the Amalgam|Brotherhood of the Amalgam]]
+
+--- end-multi-column
+
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+
+--- end-column ---
+
+
+--- end-multi-column 

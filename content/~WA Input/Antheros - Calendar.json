@@ -1,0 +1,146 @@
+{
+    "notes": [],
+    "calendarVersion": "0.8.3",
+    "eventsdata": {
+        "importantDates": [],
+        "countOfUniqueEvents": 0,
+        "countOfDaysWithEvents": 0,
+        "countOfTotalEvents": 0
+    },
+    "name": "Haven Calendar",
+    "description": "The calendar as commonly used across the Confederation of the Ten Cities consists of 12 months of 28 days. Every three months there is a week-long festival \"month\" inserted, resulting in a year that is 364 days long.\n\nThe year 1 was declared upon the funding of the 2nd Namori Empire which came at the end of its westward expansion. Because of this the year is sometimes suffixed \"2E\".\n\n",
+    "monthOffset": "",
+    "startAtZero": false,
+    "defaultYear": "1172",
+    "showDays": false,
+    "days": ["Starday", "Sunday", "Moonday", "Godsday", "Waterday", "Earthday", "Freeday"],
+    "daysPerWeek": 7,
+    "months": [{
+            "name": "Needfest",
+            "length": "7",
+            "desc": "An inter-month, weeklong festival marking the start of the new year.",
+            "reset": false
+        }, {
+            "name": "Fireseek",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Coldeven",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Readying",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Growfest",
+            "length": "7",
+            "desc": "An inter-month, weeklong festival marking the start of the growing season.",
+            "reset": false
+        }, {
+            "name": "Planting",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Flocktime",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Wealsun",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Richfest",
+            "length": "7",
+            "desc": "An inter-month, weeklong festival marking summer and what most people consider the best part of the year.",
+            "reset": false
+        }, {
+            "name": "Goodmonth",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Reaping",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Harvester",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Brewfest",
+            "length": "7",
+            "desc": "An inter-month, weeklong festival marking the end of the harvest and time to start preparing for winter.",
+            "reset": false
+        }, {
+            "name": "Patchwall",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Ready'reat",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }, {
+            "name": "Sunsebb",
+            "length": "28",
+            "desc": "",
+            "reset": false
+        }
+    ],
+    "monthsPerYear": 16,
+    "celestials": [{
+            "name": "Hasp",
+            "cycle": "16",
+            "shift": "",
+            "icon": "fas fa-moon",
+            "color": "#FBE790",
+            "classes": "",
+            "desc": "The smaller moon with shorter cycle. Slightly yellowish in hue.",
+            "phaseNames": {
+                "new": "New",
+                "young": "Young",
+                "waxingCrescent": "Waxing Crescent",
+                "waxingQuarter": "Waxing Quarter",
+                "waxingGibbous": "Waxing Gibbous",
+                "full": "Full",
+                "waningGibbous": "Waning Gibbous",
+                "waningQuarter": "Waning Quarter",
+                "waningCrescent": "Waning Crescent",
+                "old": "Old"
+            },
+            "showphases": true
+        }, {
+            "name": "Celene",
+            "cycle": "28",
+            "shift": "",
+            "icon": "fas fa-moon",
+            "color": "#82EEFD",
+            "classes": "",
+            "desc": "The larger of the two moon and has a slightly bluish tint.",
+            "phaseNames": {
+                "new": "New",
+                "young": "Young",
+                "waxingCrescent": "Waxing Crescent",
+                "waxingQuarter": "Waxing Quarter",
+                "waxingGibbous": "Waxing Gibbous",
+                "full": "Full",
+                "waningGibbous": "Waning Gibbous",
+                "waningQuarter": "Waning Quarter",
+                "waningCrescent": "Waning Crescent",
+                "old": "Old"
+            },
+            "showphases": true
+        }
+    ],
+    "celestialBodyCount": 2
+}

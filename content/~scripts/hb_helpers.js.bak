@@ -1,0 +1,818 @@
+//=====================================================================================
+//=====================================================================================
+//  handlebar helper to convert bbcode text into obsidian markdown
+//=====================================================================================
+//=====================================================================================
+
+//=====================================================================================
+//=====================================================================================
+//  convert image tags to markdown while changing block # to the image name
+//=====================================================================================
+//=====================================================================================
+function img2img(imgTag) {
+
+    const imgTable = [
+        ["7002204", "Abjurer's Compendium.jpg"], ["4288057", "Acadia Forest.jpg"], ["6459482", "Adventure Flowchart.jpg"],
+        ["5971386", "AnimatedDoll.jpeg"], ["4590168", "Antheros article header.jpg"], ["4470037", "Antheros Pantheon of Deities"],
+        ["5661356", "Antheros.jpg"], ["6571393", "Assembly Room.jpg"], ["5199899", "Avanthari Female.jpg"],
+        ["6571392", "Beep Beep (MAINTENANCE).jpg"], ["5719525", "Berensten, Antonio.jpg"], ["5577329", "Bianca (aka Byelaya Tainley).jpg"],
+        ["7020912", "Black Pimp.webp"], ["6573670", "black-hand-sign-on-tan.png"], ["5685479", "Blind Rat Nolabel.png"],
+        ["6571309", "Book & Energy Field.jpg"], ["5685452", "Books of the New Living Nolabel.png"], ["6572351", "Boulderbeard, Grimm.jpg"],
+        ["6999990", "Bracelet of the Wolf.webp"], ["6459638", "Cael.png"], ["4341613", "Caradallo's House.jpg"],
+        ["5685453", "Charred Rosary Nolabel.png"], ["5555538", "Chronosmith, Constantine.jpg"], ["5556085", "Chronosmith, Olivia.jpg"],
+        ["5547077", "Chronosmith's Timepeice.png"], ["5685478", "Church Gargoyle Nolabel.png"], ["5146740", "City Guard.png"],
+        ["5547072", "Clockwork Guardian.png"], ["5547074", "Clockwork Shadow.png"], ["6571255", "Clockwork Tower Exterior.jpg"],
+        ["5617899", "Clockwork Tower Header.jpg"], ["5687144", "ClockworkTower (cover page).png"], ["5547073", "Cogsprocket Sentinel.png"],
+        ["6571346", "Cogsprocket Spider.png"], ["6572392", "Cogsprocket Weaver.png"], ["5971628", "Constable Jorran.png"],
+        ["6088733", "Council Chamber.png"], ["6459655", "cover-matowi.jpg"], ["5971387", "CursedDoll.jpeg"],
+        ["6571917", "Dark Alley.jpg"], ["6572314", "Dark Alley.jpg"], ["5685477", "Dark Knight Nolabel.png"],
+        ["5685476", "Dark Mother Superior Nolabel.png"], ["5685475", "Dark Nun Ghost Nolabel.png"], ["5685473", "Dark Nun Nolabel.png"],
+        ["5558385", "Dark Nun's Church cover.png"], ["5653748", "Dathret, Rani.jpg"], ["5450506", "de la Riis, Claudia.jpg"],
+        ["6605066", "de la Riis, Cortina.jpg"], ["5509054", "de la Riis, Harz.jpg"], ["6657146", "Depths of Erdea (cover).jpg"],
+        ["6657147", "Depths of Erdea (header).jpg"], ["5142460", "Dining.png"], ["7001810", "DM 1st Floor.jpg"],
+        ["7001811", "DM 2nd Floor.jpg"], ["5685530", "Dm Thechurch.png"], ["4589562", "DND-Races.jpg"], ["4549049", "dndline.png"],
+        ["7012389", "Ebony Whistle Resize.webp"], ["6571271", "Echo Chamber (20x20).png"], ["5142430", "Education.png"],
+        ["6459601", "Empty potion of Healing.png"], ["6459640", "Enoch.png"], ["5145497", "Entertainment.png"], ["6571390", "Eternity Warden.jpg"],
+        ["5547075", "Eternity Warden.png"], ["5547078", "Eternity Warden's Shield.png"], ["4359511", "ExternalLink-icon.png"],
+        ["6423125", "First Level.jpg"], ["6422699", "Forest of Doom (cover).png"], ["6422703", "Forest of Doom (header).png"],
+        ["6572335", "Forgestoker, Dalia.jpg"], ["5687464", "Free City of Haven (header).jpg"], ["5687459", "Free City of Haven Cover.jpg"],
+        ["5556123", "Gearhardt, Thaddeus.jpg"], ["5837338", "Gearhound.png"], ["6527170", "Geronde Mausoleum (Journal version).png"],
+        ["5443836", "Geronde, Adrienne.jpg"], ["5653685", "Geronde, Nesan.png"], ["5719435", "Geronde, Rowena.jpg"],
+        ["5174384", "Giggling Gryphon Sign.jpg"], ["7012393", "Gingar Terion.webp"], ["5917420", "Goblin Trouble (cover).jpg"],
+        ["5917425", "Goblin Trouble (header 1).png"], ["5917417", "Goblin Trouble (header 2).jpg"], ["7058867", "Golden Wheat Inn 1st.webp"],
+        ["7058868", "Golden Wheat Inn 2nd.webp"], ["5145498", "Government.png"], ["7012390", "Great Black.webp"], ["7002627", "Gredel (human form).webp"],
+        ["5685502", "Grilia Nolabel.png"], ["5145561", "Guild.png"], ["6569691", "Half-Ogre.jpg"], ["4330722", "Haven Public Transit.jpg"],
+        ["7017615", "HGB cover-page.webp"], ["7017616", "HGB page-header.webp"], ["5685454", "Holy Feather Nolabel.png"], ["4583098", "HouseRules.png"],
+        ["6459641", "Hugo.png"], ["6602620", "Iffleren, Gerogio.jpg"], ["6459642", "Inga.png"], ["6459653", "Inn sign.png"], ["5145499", "Inns & Taverns.png"],
+        ["6995047", "Inturisdan, Karilinia.jpg"], ["6459643", "Jon.png"], ["6572385", "Junkyard.jpg"], ["6459645", "Kara.png"],
+        ["5685462", "Kethend Nolabel.png"], ["6572407", "Khuz Mountains.jpg"], ["6569683", "Lalalna.jpg"], ["5145531", "Landmark.png"],
+        ["7012400", "Lanita.webp"], ["6572315", "Location.jpg"], ["6459605", "Loki's Talisman.png"], ["5168105", "Lucille Rilossa.jpg"],
+        ["5168102", "Lucille's Path.png"], ["7012392", "Ludmilla.webp"], ["6524018", "Maggia, Gilberto.jpg"], ["6524019", "Maggia, Graella.jpg"],
+        ["5719441", "Maggia, Marita.jpg"], ["6524020", "Maggia, Romano.jpg"], ["5971388", "MagicMirror.jpg"], ["5917462", "map1_meadow_DM.jpg"],
+        ["5917463", "Map2_newclearing_DM.jpg"], ["5917466", "Map3_olddungeon_DM.jpg"], ["6459417", "MatOWI (cover page).jpg"],
+        ["6459420", "MatOWI (page header).jpg"], ["5140315", "Medical.png"], ["6459656", "menu.jpg"],
+        ["6527625", "Midnight Oil, The.png"], ["5908118", "Mnemosyne Symbol.png"], ["7015024", "MYOB Cover Page.jpg"],
+        ["7015025", "MYOB Page Header.jpg"], ["5971362", "NotLD-CoverPage.jpg"], ["5971363", "NotLD-PageHeader.png"],
+        ["5917467", "oakenville_map.jpg"], ["6569583", "oakenville_map.jpg"], ["6999736", "Oakridge Village.webp"],
+        ["5450481", "Ohlfaardt, Sui Tuong Ding.jpg"], ["6571915", "Olivia's Shop.jpg"], ["6571916", "Olivia's Sprite.jpg"],
+        ["4463901", "Org Chart - Black Hand.png"], ["6461900", "OWI Basement.jpg"], ["6461897", "OWI Ground Floor.jpg"],
+        ["6461899", "OWI Upstairs.jpg"], ["5453099", "Page Top - parchment.png"], ["5453100", "Page Top - red.png"],
+        ["5547076", "Paradox Phantom.png"], ["5837305", "Pendulum Horror.png"], ["4346847", "Pinocchio Gambit Table.jpg"],
+        ["4346720", "Pinocchio Gambit.jpg"], ["6571306", "Platorm.jpg"], ["4688033", "Porky.jpg"],
+        ["6459614", "Potion of Magic Mischief.png"], ["4573117", "Power Relationships.png"], ["4341378", "RaceCourse.jpg"],
+        ["6602511", "Ravenwood, Agatha.jpg"], ["5685466", "Reanimated Hand Nolabel.png"], ["6423529", "Region.jpg"],
+        ["5142428", "Religion.png"], ["5146303", "Residential.png"], ["7012394", "Rico.webp"],
+        ["4697268", "Roc Lobster (Small).jpg"], ["5685467", "Rotting Mummy Nolabel.png"], ["6580523", "Rust Engineer.png"],
+        ["7002604", "Sanguine Werewolf.webp"], ["5653749", "Sask, Haral.jpg"], ["6423123", "Second Level.jpg"],
+        ["5145947", "Service.png"], ["5139672", "Shopping.png"], ["5687441", "Sins of the Past (cover page).jpg"],
+        ["5617467", "Sins of the Past Header.jpg"], ["5685463", "Sister Alotel Galamin Nolabel.png"], ["5685461", "Sister Ervina Banksi Nolabel.png"],
+        ["5734357", "Sisters of the Unicorn Pendant.jpg"], ["5685468", "Skeleton Nun Nolabel.png"], ["6423124", "Sludge Pit.jpg"],
+        ["6572345", "Steamspark, Seraphina.jpg"], ["6459646", "Stenbumling troll.png"], ["6605049", "Summ Plaza.jpg"],
+        ["5719738", "Swiftsword, Mikyl.jpg"], ["5719437", "Tainley, Alain.jpg"], ["5577331", "Tainley, Byelaya (aka Bianca).jpg"],
+        ["6605011", "Tainley, Byelaya (painting).jpg"], ["5719439", "Tainley, Stella.jpg"], ["5719438", "Tainley, Tenley.jpg"],
+        ["7058671", "Tarnswith Village.png"], ["7058782", "Tarnsworth Base Map Image"], ["4566941", "TCW - The Escape Dungeon 2.jpg"],
+        ["4560623", "TCW - The Escape Dungeon.jpg"], ["5547081", "Temporal Quill.png"], ["5687402", "The City Watch (Cover Page).jpg"],
+        ["4297474", "The Commons (full).jpg"], ["5617861", "The Dark Nun's Church Header.jpg"], ["5133513", "The Free City of Haven - Players' map Base Map Image"],
+        ["4951157", "The Giggling Gryphon - ground floor Base Map Image"], ["4297462", "The Heights (full).jpg"], ["7002678", "The Howling in the Wood (cover).jpg"],
+        ["7002677", "The Howling in the Wood (header).png"], ["4297463", "The Labyrinth (full).jpg"], ["4564518", "The Night Watch (article cover).jpg"],
+        ["4566218", "The Night Watch crop.jpg"], ["4566221", "The Night Watch crop.jpg"], ["4566112", "The Night Watch.jpg"],
+        ["4841799", "The Nightmare Deck Plans.png"], ["4297464", "The North Corridor (full).jpg"], ["4297465", "The Outlands (full).jpg"],
+        ["4297466", "The South Corridor (full).jpg"], ["4297467", "The South Docks (full).jpg"], ["7012395", "Theresia Terion.webp"],
+        ["5168386", "Thieves Market Base Map Image"], ["4305917", "Thieves Market Scene.jpg"], ["4304149", "Thieves Market.jpg"],
+        ["4414557", "Thieves' Guild House.jpg"], ["4463768", "Thieves' Guild Org.png"], ["6423121", "Third Leveeel.jpg"],
+        ["7012401", "Thomas.webp"], ["4668053", "Thomasina.png"], ["5548959", "Tick and Tock.png"],
+        ["6572399", "Timepiece of Eternity - again.jpg"], ["6571391", "Timepiece of Eternity.jpg"], ["7015753", "Token_Mine_Beast.png"],
+        ["7015752", "Token_Mine_Monster_Cub_B.png"], ["7015757", "Token_Sellsword_Male_A.png"], ["6691712", "Torik.jpg"],
+        ["6572316", "Toy Shop.jpg"], ["4297423", "Trade Island (full).jpg"], ["6422745", "Tree Cross-Section.jpg"],
+        ["6459626", "Triptych.png"], ["6569473", "UdU 01.png"], ["6569493", "UdU 02.png"],
+        ["5685455", "Vampiric Dagger Nolabel.png"], ["6459647", "Vittra.png"], ["4685614", "Watch Captain Lyza.jpg"],
+        ["6571261", "We Entered.jpg"], ["6459648", "William.png"], ["6088605", "Windermere, Elsbeth.jpg"],
+        ["6459628", "Zacki Buttercup’s Magnificent Bathtub.png"]
+    ];
+
+    //console.log("-----------------------\nExtract block # from " + imgTag + '\nwhich is of type: ' + typeof imgTag)
+
+    // extracts the image block number (undefined if not found)
+    const block = (imgTag.match(/\d+/) || [])[0];
+
+    // get file name from block #
+    let name = "unknown image"
+        for (x of imgTable) {
+            if (x[0] == block) {
+                name = x[1]
+                    break;
+            }
+        }
+
+        return '![[' + name + ']]'
+}
+
+//------------------------------------------------------------
+// convert [aloud] blocks to Obsidian callouts
+//
+// note: requires Obsidian CSS snippet to define the
+//    callout [!read-aloud]
+//------------------------------------------------------------
+function Aloud2Markdown(block) {
+    block = block.replace("[aloud]", "> [!read-aloud] **Read Aloud** \r\n \r\n");
+    block = block.replaceAll("\r\n", "\r\n > ");
+    block = block.replace("[/aloud]", "\r\n");
+    return block;
+}
+
+//------------------------------------------------------------
+// convert World Anvil links markdown links
+//------------------------------------------------------------1
+function Link2Markdown(link) {
+    // get the link text, type and target
+    const regex = /@\[([^\]]*)\]\(([^\):]*):([^\)]*)\)/gi;
+    match = regex.exec(link);
+
+    // construct new link using type as a subdirectory
+    const newLink = "[[" + match[2] + "/" + match[1] + "|" + match[1] + "]]";
+
+    return newLink;
+}
+
+//-----------------------------------------------
+// convert bbcode table to markdown
+//-----------------------------------------------
+function Table2Markdown(bbcode) {
+	
+    // get rid of \r & \n 
+    bbcode = bbcode.replaceAll("\r\n", "\n");
+    bbcode = bbcode.replaceAll("\n\r", "\n");
+    bbcode = bbcode.replaceAll("\n\n", "\n");
+    bbcode = bbcode.replaceAll("\n"," ")
+
+	// remove column sizes from [th] tags
+	bbcode = bbcode.replace(/\[th:\d+\]/g, '[th]')
+	
+    // Remove [table] and [/table] tags (they are not needed in markdown)
+    bbcode = bbcode.replace(/\[table\](.*?)\[\/table\]/gis, '$1');
+
+    // Convert [tr] to a new row in markdown table (line breaks)
+    bbcode = bbcode.replaceAll("[tr]", " ")
+    bbcode = bbcode.replaceAll("[/tr]", " \|\n")
+
+    // Convert [td] to normal table cell (with a pipe symbol '|')
+    bbcode = bbcode.replace(/\[td\](.*?)\[\/td\]/gis, '| $1 ');
+
+    // Convert [th] to table header ('|')
+    bbcode = bbcode.replace(/\[th\](.*?)\[\/th\]/gis, '| $1 ');
+
+    // remove whitespace at the start of new line (i.e. after \n)
+    bbcode = bbcode.replace(/\n\s+/g, '\n')
+    // and the start/end of the string
+    bbcode = bbcode.trimStart().trimEnd()
+
+    // Add the table header separator row for markdown (---)
+    let rows = bbcode.split('\n');
+    if (rows.length > 1) {
+        rows.splice(1, 0, '|---|'.repeat(rows[0].split('|').length - 2)); // Adding separator row
+    }
+    bbcode = rows.join('|\n');
+
+    // remove double pipes
+    bbcode = bbcode.replaceAll("||", "|")
+
+	// ensure a line before and after the Table
+	bbcode = '\n' + bbcode + '\n'
+
+    return bbcode;
+}
+
+//----------------------------------------------
+// convert [roll:XdY] tags to text
+//----------------------------------------------
+function Roll2Markdown(text) {
+console.log("Roll2Md::: " + text)
+
+	let result
+	// remove whitespace
+	text = text.replace(/\s+/g, '')
+	// now parse it
+    const regex = /\[roll:(\d*)d(\d+)(?:\+(\d+))?\]/i;
+    let match = text.match(regex);
+
+
+console.log("Roll2Md:::::::m1=" + match[1])
+console.log("Roll2Md:::::::m2=" + match[2]) 
+console.log("Roll2Md:::::::m3=" + match[3])
+
+
+    if (match) {
+        result = match[1] + "d" + match[2]
+		if (match[3] !== undefined) {
+			result = result + match[3];
+		}
+    } else {
+        result = "roll xDy";
+    }
+	return result
+}
+
+//-------------------------------------------
+// convert bbcode lists to markdown
+//-------------------------------------------
+function List2Markdown(input) {
+    const tokens = tokenize(input);
+    let index = 0;
+
+    function parseList(indent = 0) {
+        let md = "";
+        let listType = "ul";
+        let counter = 1;
+
+        // open tag
+        if (tokens[index]?.type === "list_open") {
+            listType = tokens[index].listType;
+            index++;
+        }
+
+        while (index < tokens.length) {
+            const token = tokens[index];
+
+            if (token.type === "list_close") {
+                index++;
+                break;
+            }
+
+            if (token.type === "item_open") {
+                index++;
+                let content = "";
+
+                while (
+                    index < tokens.length &&
+                    !["item_open", "list_close"].includes(tokens[index].type)) {
+                    if (tokens[index].type === "list_open") {
+                        content += "\n" + parseList(indent + 1);
+                    } else {
+                        content += tokens[index].value || "";
+                        index++;
+                    }
+                }
+
+                const prefix =
+                    listType === "ol"
+                     ? `${counter++}. `
+                     : `- `;
+
+                md +=
+                " ".repeat(indent) +
+                prefix +
+                content.trim().replace(/\n+$/, "") +
+                "\n";
+            } else {
+                index++;
+            }
+        }
+
+        return md;
+    }
+
+    function tokenize(str) {
+        const regex = /\[\/?(ul|ol)\]|\[\*\]|\[li\]|\[\/li\]/gi;
+        const result = [];
+        let lastIndex = 0;
+        let match;
+
+        while ((match = regex.exec(str)) !== null) {
+            if (match.index > lastIndex) {
+                result.push({
+                    type: "text",
+                    value: str.slice(lastIndex, match.index)
+                });
+            }
+
+            const tag = match[0].toLowerCase();
+
+            if (tag === "[ul]" || tag === "[ol]") {
+                result.push({
+                    type: "list_open",
+                    listType: tag === "[ol]" ? "ol" : "ul"
+                });
+            } else if (tag === "[/ul]" || tag === "[/ol]") {
+                result.push({
+                    type: "list_close"
+                });
+            } else if (tag === "[*]" || tag === "[li]") {
+                result.push({
+                    type: "item_open"
+                });
+            } else if (tag === "[/li]") {
+                // ignored (graceful handling)
+            }
+
+            lastIndex = regex.lastIndex;
+        }
+
+        if (lastIndex < str.length) {
+            result.push({
+                type: "text",
+                value: str.slice(lastIndex)
+            });
+        }
+
+        return result;
+    }
+
+    let output = "";
+    while (index < tokens.length) {
+        if (tokens[index].type === "list_open") {
+            output += parseList(0);
+        } else {
+            output += tokens[index].value || "";
+            index++;
+        }
+    }
+
+    return output.trim();
+}
+
+//===============================================
+//
+// main function to convert bbcode to markdown
+//
+//===============================================
+function hb_bb2md(text) {
+
+    const DEBUG = false;
+    const DEBUG2 = false;
+
+    if (DEBUG2 == true) {
+        console.log('\n========================================\nBB2MD::::\n' + text)
+    };
+
+    // if text is null, undefined or empty, return an empty string
+    if (text == null) {
+        if (DEBUG == true) {
+            console.log('BB2MD::::Skipping null/undefined text')
+        }
+        return ''
+    }
+    if (text == '') {
+        if (DEBUG == true) {
+            console.log('BB2MD::::Skipping empty text')
+        }
+        return ''
+    }
+
+    const conversions = [
+        // basic tags that have obsidian/markdown equivalents
+        ['[b]', ' **'],           ['[/b]', '** '],
+        ['[i]', ' *'],            ['[/i]', '* '],
+        ['[u]', '<u>'],           ['[/u]', '</u>'],
+        ['[mark]', ' =='],        ['[/mark]', '== '],
+        ['[s]', ' ~~'],           ['[/s]', '~~ '],
+        ['[sup]', '<sup>'],       ['[/sup]', '</sup>'],
+        ['[sub]', '<sub>'],       ['[/sub]', '</sub>'],
+        ['[center]', '<center>'], ['[/center]', '</center>'],
+        ['[small]', '<small>'],   ['[/small]', '</small>'],
+        ['[br]', '<br>'],
+        ['[hr]', '\n---\n'],
+
+        // tags where obsidian/markdown doesn't have an end-tag
+        ['[p]', '\n\n'], ['[/p]', ' '],
+        ['[h1]', '# '], ['[/h1]', ' '],
+        ['[h2]', '## '], ['[/h2]', ' '],
+        ['[h3]', '### '], ['[/h3]', ' '],
+        ['[h4]', '#### '], ['[/h4]', ' '],
+        ['[h5]', '##### '], ['[/h5]', ' '],
+        ['[h6]', '###### '], ['[/h6]', ' '],
+
+        // tags we're going to just remove for now
+        //   note: container/subcontainer need special processing
+        ['[row]', ''],    ['[/row]', ''],
+        ['[col]', ''],    ['[/col]', ''],
+        ['[col3]', ''],   ['[/col3]', ''],
+		['[spoiler]', ''], ['[/spoiler]', ''],
+
+        // Unicode characters
+        ['\0022', '"'], ['\0026', '&'], ['\0027', "'"],
+        ['\003c', '<'], ['\003e', '>'], ['\2014', '-'],
+        ['\2018', "'"], ['\2019', "'"], ['\2026', '…'],
+
+        // HTML  (for Foundry exports)
+        ['<p>', '\n\n'], ['</p>', ' '],
+        ['<br>', '\n'],  ['<br/>', '\n'], ['<br />', '\n'],
+        ['&gt;', '>'],   ['&lt;', '<'],
+        ['\u0022', '"'], ['\u0026', '&'], ['\u0027', "'"],
+        ['\u003c', '<'], ['\u003e', '>'], ['\u2014', '-'],
+        ['\u2018', "'"], ['\u2019', "'"], ['\u2026', '…']
+	]
+
+        //
+        // remove anchors in bbcode headings
+        //  e.g. [h2|anchorName]
+        //
+        text = text.replaceAll(/\[h2\|[^\]]+\]/gi, "[h2]");
+        if (DEBUG) {
+            console.log('BB2MD::::   After anchors >>' + text + '<<')
+        }
+
+        // ensure headings are at the start of a line
+        text = text.replace(/(?<!\n)\[h[1-6]\]/g, '\n$&');
+        // ensure headings are followed by a new line
+        text = text.replace(/\[\/h[1-6]\](?!\s*\n)/g, (match) => match + '\n');
+        if (DEBUG) {
+            console.log('BB2MD::::   After Headings >>' + text + '<<')
+        }
+
+        // remove \r
+        text = text.replace("\\r", "");
+
+        //
+        // remove [container] and [subcontainer] tags
+        //
+        text = text.replace(/\[container:[^\]]*\]/gi, "");
+        text = text.replaceAll("[/container]", "");
+        text = text.replace(/\[subcontainer:[^\]]*\]/gi, "");
+        text = text.replaceAll("[/subcontainer]", "");
+        if (DEBUG) {
+            console.log('BB2MD::::   After [container] >>' + text + '<<')
+        }
+
+        //
+        // do simple replacements
+        //
+        for (let i = 0; i < conversions.length; i++) {
+            const [search, replace] = conversions[i];
+            text = text.replaceAll(search, replace);
+        }
+        if (DEBUG) {
+            console.log('BB2MD::::   After tags >>' + text + '<<')
+        }
+
+        //
+        // replace [roll:xdy]
+        //
+        //text = text.replace(/\[roll:(\d*)d(\d+)(?:\+(\d+))?\]/gi, (match) => {
+        //    return Roll2Markdown(match);
+        //});
+		text = text.replace(/\[roll:[^\]]*\]/g, '')
+        if (DEBUG) {
+            console.log('BB2MD::::   After [roll] >>' + text + '<<')
+        }
+
+        //
+        // convert WA block references to obsidian embeds
+        //
+        text = text.replace(/\[block:(\d+)\]/g, '![[$1]]');
+        text = text.replace(/\[blocklink:(\d+)\]/g, '![[$1]]');
+
+        //
+        // Replace [url] links with [text](url)
+        //
+        text = text.replace(/\[url:([^\]]+)\]\s*([\s\S]+?)\s*\[\/url\]/gi, '[$2]($1)');
+        if (DEBUG) {
+            console.log('BB2MD::::   After [url] links >>' + text + '<<')
+        }
+
+        //
+        // Replace [img] with ![alt text](url)
+        //
+        let oldTag = (text.match(/\[img:[^\]]+\]/i) || [])[0];
+        //console.log("-----------------------\n[img]tag is " + oldTag + '\nwhich is of type: ' + typeof oldTag)
+        while (oldTag != null) {
+            let newTag = img2img(oldTag);
+            text = text.replace(oldTag, newTag);
+            oldTag = (text.match(/\[img:[^\]]+\]/i) || [])[0];
+            //console.log("-----------------------\n[img]tag is " + oldTag + '\nwhich is of type: ' + typeof oldTag)
+        }
+        if (DEBUG) {
+            console.log('BB2MD::::   After [img] >>' + text + '<<')
+        }
+
+        //
+        // Replace [quote]...[/quote] with > ... (quote block)
+        //
+        text = text.replace(/\[quote\](.*?)\[\/quote\]/gs, '> $1');
+        if (DEBUG) {
+            console.log('BB2MD::::   After [quote] >>' + text + '<<')
+        }
+
+        //
+        // Replace [code]...[/code] with inline code `...`
+        //
+        text = text.replace(/\[code\](.*?)\[\/code\]/gis, '`$1`');
+        if (DEBUG) {
+            console.log('BB2MD::::   After [code] >>' + text + '<<')
+        }
+
+        //
+        // convert [aloud]
+        //
+        text = text.replace(/\[aloud\](.*?)\[\/aloud\]/gis, (match) => {
+            return Aloud2Markdown(match);
+        });
+        if (DEBUG) {
+            console.log('BB2MD::::   After [aloud] >>' + text + '<<')
+        }
+
+        //
+        // convert WA links
+        //
+        text = text.replace(/@\[([^\]]*)\]\(([^\):]*):([^\)]*)\)/gi, (match) => {
+            return Link2Markdown(match);
+        });
+        if (DEBUG) {
+            console.log('BB2MD::::   After WA links >>' + text + '<<')
+        }
+
+        //
+        // convert lists
+        //
+        text = List2Markdown(text);
+        if (DEBUG) {
+            console.log('BB2MD::::   After [ol], [ul] >>' + text + '<<')
+        }
+
+        //
+        // convert [table]
+        //
+        text = text.replace(/\[table\](.*?)\[\/table\]/gis, (match) => {
+            return Table2Markdown(match);
+        });
+        if (DEBUG) {
+            console.log('BB2MD::::   After [table] >>' + text + '<<')
+        }
+
+		// flip <center>**text**</center> to be **<center>text</center>**
+		text = text.replace(/<center>\s*\*\*([\s\S]*?)\*\*\s*<\/center>/g, '**<center>$1</center>**')
+
+        // return the converted string
+        return text;
+}
+ 
+ 
+//=====================================================================================
+//=====================================================================================
+//  handlebar helper to process an array, returning a list of names
+//=====================================================================================
+//=====================================================================================
+function hb_array2list(items, type) {
+
+    let titles;
+    const joiner = ']]\n- [[' + type + '/'
+
+        titles = '- [[' + type + '/' + items.map(item => item.title).join(joiner) + ']]'
+
+        return titles;
+
+}
+
+
+//=====================================================================================
+//=====================================================================================
+//  take a YAML string and find the value of a given tag
+//=====================================================================================
+//=====================================================================================
+function hb_yamlvalue(yamlString, tag) {
+
+    function yamlToJson(yamlString) {
+        const lines = yamlString.split("\n");
+        const result = {};
+        const stack = [{
+                obj: result,
+                indent: -1
+            }
+        ];
+
+        for (let line of lines) {
+            if (!line.trim() || line.trim().startsWith("#"))
+                continue;
+
+            const indent = line.search(/\S/);
+            const [key, ...rest] = line.trim().split(":");
+            const value = rest.join(":").trim();
+
+            while (stack.length > 1 && stack[stack.length - 1].indent >= indent) {
+                stack.pop();
+            }
+
+            const parent = stack[stack.length - 1].obj;
+
+            if (value === "" || value === null) {
+                parent[key.trim()] = {};
+                stack.push({
+                    obj: parent[key.trim()],
+                    indent
+                });
+            } else {
+                parent[key.trim()] = isNaN(value)
+                     ? value === "true" ? true : value === "false" ? false : value
+                     : Number(value);
+            }
+        }
+
+        return result;
+    }
+
+    //
+    // mainline
+    //
+    let result;
+
+    //console.log('Looking for: ' + tag);
+
+    // cconvert yampl to json
+    const json = yamlToJson(yamlString);
+
+    // if the field exists and is defined get the value
+    if (json[tag] != null) {
+        const yValue = tag.split(".").reduce((obj, key) => obj?.[key], json);
+        result = yValue;
+        // trim start/end quote marks if present
+        if (yValue[0] == "'" || yValue[0] == '"') {
+            // remove quotes around the result
+            result = yValue.slice(1, -1);
+        }
+
+        // ensure headings are at the start of a line
+        result = result.replace(/(?<!\n)\[h[1-6]\]/g, '\n$&');
+        // ensure headings are followed by a new line
+        result = result.replace(/\[\/h[1-6]\](?!\s*\n)/g, (match) => match + '\n');
+
+        // more clean up
+        result = result.replace(/\\r\\n/g, ' ');
+    } else {
+        result = null;
+    }
+
+    //console.log('     Found: ' + result);
+
+    return result;
+
+}
+
+//=====================================================================================
+//=====================================================================================
+//  Determine attribute modifier from score
+//=====================================================================================
+//=====================================================================================
+function hb_getMod(score) {
+
+    const scoreMod = [
+        ['1', '-5'], ['2', '-4'], ['3', '-4'], ['4', '-3'], ['5', '-3'], ['6', '-2'], ['7', '-2'], ['8', '-1'], ['9', '-1'], ['10', '+0'],
+        ['11', '+0'], ['12', '+1'], ['13', '+1'], ['14', '+2'], ['15', '+2'], ['16', '+3'], ['17', '+3'], ['18', '+4'], ['19', '+4'], ['20', '+5'],
+        ['21', '+5'], ['22', '+6'], ['23', '+6'], ['24', '+7'], ['25', '+7'], ['26', '+8'], ['27', '+8'], ['28', '+9'], ['29', '+9'], ['30', '+10']
+    ];
+
+    for (const x of scoreMod) {
+        if (score == x[0]) {
+            return x[1];
+        }
+    }
+    return 'n/a';
+}
+
+//=====================================================================================
+//=====================================================================================
+//  take a World Anvil 'slug' and extract the article type
+//=====================================================================================
+//=====================================================================================
+function hb_slug2type(slug) {
+
+    // grab everything after the last "-"
+    let type = slug.slice(slug.lastIndexOf('-') + 1);
+
+    // upper case the 1st character
+    type = type.charAt(0).toUpperCase() + type.slice(1);
+
+    return type;
+
+}
+
+//=====================================================================================
+//=====================================================================================
+//  take a World Anvil tags and convert to Obsidian tags
+//=====================================================================================
+//=====================================================================================
+function hb_tags2tags(tags) {
+
+	if (tags == null) {
+	    return ""
+    } 
+	if (tags == "") {
+        return ""
+    }
+
+    const obsTags = "#" + tags.replaceAll(" ", "_").replaceAll(",", " #");
+
+    return obsTags;
+
+}
+
+//=====================================================================================
+//=====================================================================================
+//  return the value of a given field.   solves issues where directly accessing it
+//  in the template causes an issue.  e.g. {{length}}
+//=====================================================================================
+//=====================================================================================
+function hb_json2value(field) {
+    return field;
+}
+
+
+//=====================================================================================
+//=====================================================================================
+//  in some places WA uses a form a a Markdown table that needs tweaking
+//=====================================================================================
+//=====================================================================================
+function hb_mdtable(text) {
+
+    let table = text
+
+    // fix piping and newlines
+    table = table.replaceAll("\\r", "");
+    table = table.replaceAll("\\n", "|\n|");
+    table = "|" + table + "|";
+
+    // Add the table header separator row for markdown (---)
+    let rows = table.split('\n');
+    if (rows.length > 1) {
+        rows.splice(1, 0, '|---|'.repeat(rows[0].split('|').length - 2)); // Adding separator row
+    }
+    table = rows.join('|\n|');
+    table = table.replaceAll("||", "|")
+
+    // remove attempts at bolding the heading
+    table= table.replaceAll("[b]", "")
+    table= table.replaceAll("[\/b]", "")
+
+    return table;
+
+}
+
+//=====================================================================================
+//=====================================================================================
+//  generate random character string for use as a (probably) unique id
+//=====================================================================================
+//=====================================================================================
+function hb_uuid(howLong) {
+
+	let x
+	// make sure the parm is an integer
+	if(howLong != null && /^\d+$/.test(howLong)) {
+		x = +howLong
+	} else {
+		return "Invalid length"
+	}
+
+	const id = Array.from({length: x}, () => 
+		'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
+		.charAt(Math.floor(Math.random() * 62))).join('');
+	return id
+}
+
+
+//=====================================================================================
+//=====================================================================================
+//  translate History significance to text
+//=====================================================================================
+//=====================================================================================
+function hb_sig2text(significance) {
+//console.log('Significance: ' + significance);
+	switch(significance) {
+		case 0:
+			return 'Milestone';
+		case 1:
+			return 'Major';
+		case 2:
+			return 'Important';
+		case 3:
+			return 'Minor';
+		case 4:
+			return 'Trivial';
+		case 5:
+			return 'Insignificant';
+	default:
+		return ' '
+	} 
+
+}
+
+
+//
+// register the functions as handlebars helpers
+//
+handlebars.registerHelper('bb2md', hb_bb2md);
+handlebars.registerHelper('array2list', hb_array2list);
+handlebars.registerHelper('yamlvalue', hb_yamlvalue);
+handlebars.registerHelper('getMod', hb_getMod);
+handlebars.registerHelper('slug2type', hb_slug2type);
+handlebars.registerHelper('tags2tags', hb_tags2tags);
+handlebars.registerHelper('json2value', hb_json2value);
+handlebars.registerHelper('mdtable', hb_mdtable);
+handlebars.registerHelper('uuid', hb_uuid);
+handlebars.registerHelper('sig2text', hb_sig2text);
+
+//
+// register partial templates
+//
+//handlebars.registerPartial('MonsterBlock', './templates/statblocks/t.MonsterBlock.md');
+//handlebars.registerPartial('ItemBlock', './templates/statblocks/t.ItemBlock');
+//handlebars.registerPartial('NPCBlock', './templates/statblocks/t.NPCBlock');
+//handlebars.registerPartial('CharacterBlock', './templates/statblocks/t.CharacterBlock');
+//handlebars.registerPartial('ClassBlock', './templates/statblocks/t.ClassBloc}');

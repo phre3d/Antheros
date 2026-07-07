@@ -1,0 +1,19 @@
+{
+    "id": "1ddbed29-4119-4bec-a49b-fd3def9d6762",
+    "title": "Services",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": true,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

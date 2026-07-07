@@ -1,0 +1,23 @@
+---
+location: [5959.881,  2015.306]
+mapmarker: Residence
+---
+#map-marker 
+# Falstaff Family Residence
+
+**Map:** [[Map/Haven/Haven|Free City of Haven]]
+
+**Coordinates** <br>
+*World Anvil:* --, --<br>
+*Foundry:* 1975, 1343<br>
+*Leaflet:* [5959.881,  2015.306]
+
+**Marker Type:** Residence
+
+**Map Ref:** Map Ref.: F19 (DB)
+
+**Location:** [[Landmark/Falstaff Family Residence|Falstaff Family Residence]]<br>
+**Location Type:** Mansion
+
+**Description**<br> 
+

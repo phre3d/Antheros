@@ -1,0 +1,30 @@
+{
+    "id": "9a53577d-b15f-4ab1-9519-e38af908a3cf",
+    "title": "Education",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [
+        {
+            "id": "b153b24e-2dcf-4d2c-8615-0c24bdc06d16",
+            "title": "Haven Irregulars",
+            "slug": null,
+            "state": null,
+            "entityClass": "SubscriberGroup",
+            "icon": null,
+            "url": null,
+            "subscribergroups": []
+        }
+    ],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": 860,
+    "isEditable": true,
+    "success": true
+}

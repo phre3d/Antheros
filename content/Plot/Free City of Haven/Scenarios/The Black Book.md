@@ -1,0 +1,77 @@
+#import #plot  #Free_City_of_Haven
+# The Black Book
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+## Players' Information 
+The players are approached in a bar by a large, heavily muscled man dressed in loose clothing. He indicates that he wishes to hire a group of venturesome people, unaffiliated with power groups in Haven, to handle a "job" sometime in the near future. He adds that it will require a fair amount of discretion, that it is likely to be somewhat dangerous, and that the monetary rewards will be high. Pleading other engagements, he tells the players to meet him at a boarding house behind the tavern called [[landmark/The Fox and Goose|The Fox and Goose]] on the [[settlement/Street of Silk Veils|Street of Silk Veils]] at six o'clock sharp, and then exits the bar.
+
+Should the players decide to investigate his proposition more closely, they will discover that a seedy, disreputable looking boarding house does indeed exist in the alleyway behind the "Fox and Goose". The tired and worn doorman seems to be expecting them and directs them to a second story room. After a wait of some fifteen or twenty minutes, a trio of toughs, led by a thickset, heavily scarred man, enters the room (the original contact, the muscular man, is nowhere to be seen). There is a chance (saving roll against WIS+6) that the players will notice that the scarred man bears, neatly tattooed upon the inside of his left wrist, a caricature of a lidless eye.
+
+The proposition is simple. The scarred man explains that he represents an organization that desires certain information. Because his face, and the faces of his men, are known to certain groups that oppose him, he cannot get this information himself, and so he wishes to hire the players to get it for him. The information consists of a nautical logbook, and the scarred man says his organization has reason to believe that it will be carried by a man named [[person/Esteban de Martin|Esteban de Martin]] to a bar on the [[settlement/South Docks|South Docks]] called [[landmark/Black Padre's|Black Padre's]] sometime the following evening. Esteban may be known by the two gold earrings that he wears in his left ear, and by the heavy red scar across his balding forehead. At this bar, Esteban will meet someone, the scarred man does not know who, and will then leave the bar, carrying the book with him. The scarred man desires the players to remove the book from Esteban's possession, after the meeting at Padre's has taken place. The party is then to meet him and his men at the alley behind [[landmark/Voelkher's Sea Transport|Voelkher's Sea Transport]]. In exchange for this bit of thievery, he offers the players 10,000 GP, 500 down and 9,500 on receipt of the book.
+
+## GM's Notes 
+The "scarred man" is [[person/Juliano Monferrat|Juliano Monferrat]], one of [[person/Mr. Rasputin's|Mr. Rasputin's]] trusted lieutenants and commander of his bully boys. The other two men, despite their bulk, are skilled thieves in [[person/Rasputin's|Rasputin's]] employ. 
+
+The apparent tattoo on Monferrat's wrist is actually a pretty fake, drawn in water soluble ink. It is a decent, passable imitation of the Thieves Guild insignia, although lacking some of the proper details. 
+
+Esteban is the Captain of one of [[organization/The Black Hand|The Black Hand]] smuggler ships, whose movements in the past have been well enough documented by [[person/Rasputin's|Rasputin's]] men to verify that, on the second night after he puts into port, he visits [[landmark/Black Padre's|Black Padre's]], probably to receive instructions. That he consistently carries his log book with him on such excursions only serves to confirm [[person/Rasputin|Rasputin]]'s suspicions.
+
+Reports from other sources indicate that [[organization/The Black Hand|The Black Hand]] is organizing another major drug "importation" operation, and [[person/Rasputin|Rasputin]] hopes that the log book will contain information about the Hand's plans. As it turns out, his reasoning is 100% correct. The book itself is a typical ship's log, and as such would only be useful to people who knew sea trading intimately, so that discrepancies and anomalies in the log could be detected, and their significance analyzed. 
+
+Much more serious, however, at least as far as [[organization/The Black Hand|The Black Hand]] is concerned, are the letters instructing the movements of ships belonging to the Tandoway Spice Company, to be given to their captains in the port of Clermont, some fifty miles east of the Dorian delta. These letters, written in a complicated substitution cipher, provide detailed instructions regarding the buying and carrying of an unnamed substance, referred to as "the cargo", and include a carefully plotted timetable. 
+
+A thorough search of the book will reveal these documents, hidden in a secret pocket on the inside of the logbook's cover. In this pocket, the players will also find a 2,000 GP letter of credit, drawn on the [[landmark/House of Rand|House of Rand]], that was to finance Esteban's next voyage. Esteban, needless to say, will be an unhappy man should he lose the book, while the information within it is of obvious usefulness for [[person/Rasputin's|Rasputin's]] attempt to monopolize the Haven drug trade.
+
+Should the plan go as Monferrat hopes, the players will successfully steal the book from Esteban and show up at the rendezvous, there to be met by a dozen or so thugs, waiting in ambush near the blind alley behind [[landmark/Voelkher's Sea Transport|Voelkher's Sea Transport]]. When the players enter the alley, the thugs will enter behind them, thus cutting them off, and overwhelm them. Taking the book and such of the 500 GP as they can find, they will leave the unconscious players behind, to be found by [[organization/The Black Hand|The Black Hand]] operatives the ruckus will no doubt soon attract. When the players are interrogated by the Hand, the only clue that they will have to the identity of their employers will be Monferrat's wrist tattoo, intentionally displayed when the players were hired so that it will firmly establish the Thieves Guild as the culprits ... In this way, [[person/Rasputin|Rasputin]] will have the book for the loss of a few GP, while any Black Hand countermoves will be taken against the Thieves Guild.
+
+Should the players elect to visit the rendezvous before they go to [[landmark/Black Padre's|Black Padre's]] to await Esteban, they will notice that it is a long, litter strewn alley that ends in a long boarded-up door. It would be a relatively simple matter to open a crawlspace into the interior of the abandoned warehouse. Otherwise, there are no exits from the alley, and the buildings to either side are uniformly of two or three stories in height. Clearly, the alley is a place just begging for an ambush.
+
+Esteban will be accompanied by his burly first mate when he goes to [[landmark/Black Padre's|Black Padre's]]. The mate will wait for him in the bar while Esteban himself goes to the backroom to receive his instructions from the local Black Hand commander, Alfonso Caradallo. Esteban will then return to the bar to collect the mate, and leave Padre's by the rear exit. From there, the two will proceed to [[landmark/The Crystal Ship|The Crystal Ship]], where they will become quite drunk, before returning to their ship.
+
+[[person/Alfonso Caradallo|Alfonso Caradallo]], knowing of Esteban's propensity for epic binges, has assigned two of his toughs to tail the two, to make sure they make it safely back to Dark of the Moon. Since these two expect only a routine tailing job, they are not particularly watchful, and thus may easily be seen by the players if they look for people who might be tailing the Captain and his Mate. Should Esteban get into any trouble while these two are watching, they will probably move directly to his assistance, although if it looks too big for them to handle, one will return to Padre's for help while the other remains watching.
+
+Monferrat's two bullies/thieves will wait for the players at [[landmark/Black Padre's|Black Padre's]], to guard against the possibility that they avoid the ambush (Monferrat is a reasonably careful man). It is possible that the players will recognize the two while at Padre's, and they may become suspicious of Monferrat's intentions (after all, Monferrat's men were not supposed to be able to enter Padre's, to avoid recognition by their opponents). Should they be undetected, the two will leave Padre's after the players, and set up an exchange tail behind the party. They will be difficult to spot. If the players do not, in fact, fall for the ambush, these two will wait for an opportune moment, and try to steal the logbook.
+
+The players, of course, may decide to double-cross Monferrat, and attempt to sell the information that they have found. The precise value of the logbook will take quite a bit of investigation to determine, and both [[person/Rasputin|Rasputin]] and [[organization/The Black Hand|The Black Hand]] will be looking for them. This is a highly dangerous road to follow, but likely to prove profitable, as there are four potential buyers (the Hand, the Thieves Guild, [[person/Rasputin|Rasputin]], and the City Guard). Depending upon the buyer, the book may be worth as much as 15-20,000 GP.
+
+Should the players be captured by the Hand, they are in for an unpleasant experience. Since the players are not strictly opposed to the Hand, and in fact have been duped by the Hand's enemies, Caradallo and his henchmen are not likely to kill them outright - a few warning scars and some painful and slow-healing cuts in strategic locations, will probably (85%) suffice. After their ordeal, the players will find themselves thrown penniless and naked upon the Common's streets, an object lesson to others foolhardy enough to cross the Hand.
+
+```
+
+```col-md
+**Start / Locations** 
+
+- 
+
+ **Key Participants** 
+
+- 
+
+---
+
+### World Anvil Metadata
+**Id:** 3cc4a72c-de15-4686-8aca-76be0a13547e<br>
+**Entity Type:** Article / plot<br>
+**Category:** Haven Encounters and Scenarios<br>
+**Tags:** FCoH-plot
+```
+````
+
+
+---
+
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

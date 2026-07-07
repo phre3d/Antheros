@@ -1,0 +1,97 @@
+#import #plot  #The_City_Watch
+# TCW: My Baby!
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+# Introduction 
+ > [!read-aloud] **Read Aloud** 
+ >  
+ > 
+ > You are on duty at Shield Gate (G21) when a young woman comes running up to you, yelling "Help! Help! My baby! My baby! It's taken Billy! It's taken Billy!" Panicking, and barely coherent, she tells you that a flying monster has picked up her baby and carried it off. She points out of the city into the sky, where a winged creature can indeed be seen carrying a small wriggling thing, towards some crags a mile or two distant.
+ > 
+ > Grimly, [[person/Lyza]] instructs you to take some horses, follow the creature to its lair, and bring back the baby. She warns you that goblins have been spotted in the area. She tells you not to waste a second, before adding under her breath that it is probably already too late.
+ > 
+
+The woman is [[person/Claudia de la Riis]], and her "baby" is in fact her dog Billy. At no time will this fact come up as she's too freaked out to say much other than to rescuee her baby.
+
+# Act I 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+ > You gallop across the plains towards the crags and eventually the road runs though a small canyon. There are scattered bushes on either side and if it weren't for your mad rush it would be a very tranquil scene.  The air dances with the sweet scent of blooming flowers, and the melody of birdsong painted a symphony of nature's delight. Everything appeared idyllic, as if worries and fears were banished from this serene realm.
+ > 
+ > In the road ahead you see what looks like a small boulder in the middle. As you get closer though, you see that it is a tattered leather pack spilling its contents - what looks to be gold nuggets.
+ > 
+
+Any PC who says they are on their guard, will, on passing a DC10 perception check, identify this as a good place for an ambush.
+
+A party of six ![[1235982]]|Goblins (MM p166) are hiding in the bushes (5 to the east and on in a tree in the middle of the river), waiting to attack. 
+
+If the players sense a trap, or for some other reason ride past on the west side of the stream they can bypass the goblin for the most part. 3 arrows will still be fired. Riding past on the road results in 6 arrows. The goblins will be unable to follow as they do no have mounts. As they leave the area, they might hear one of them shouting expletives in Goblin.
+
+Any player who stops to investigate will be targeted by six more arrows. The goblins have three arrows each, and after they run out, the goblins will rush out to attack.
+
+The goblins have no treasure. The sack is actually full of pebbles, with the top ones painted gold.
+
+ 
+# Act II 
+  > [!read-aloud] **Read Aloud** 
+ >  
+ > 
+ > Eventually you reach the base of the high hills, and looking up you can see something large flying launch itself into the air and fly away to the north. To the left you see a path that climbs the steep hill via a series of switchbacks.
+ >  
+
+ 
+When the party is halfway up, they will be attacked by ![[703998]]|8 Stirges (MM p284) who have a nest nearby.
+
+# Act III 
+As the PCs near to top, they will hear screeching and *probably/maybe* barking? It turns out the “baby” is actually the woman's beloved pet dog. It has escaped from the nest and is cowering some thick bushes while the creature, a ![[504280]]|Hippogriff (MM p184), tries to catch it again, to feed it to its ![[436689]]|3 baby hippogriffs.
+
+The players should be able to rescue the dog without having to kill the hippogriff. They could distract it with their food rations. Also, a dead stirge makes a tasty baby hippogriff snack. A skill check will be needed, but they can have advantage if they can remember the dog's name.
+
+* If the players were slow to get here (e.g., they fought the goblins in Act One ) then they will find three well fed baby hippogriffs, and a discarded dog collar with a tag saying “Billy” on it.
+
+# Epilogue 
+If the PCs manage to return Billy to its owner, Claudia will be extrememly grateful and will the one who has Billy (her hero) with a
+![[1237850]]|Stone of Good Luck. 
+
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+ > Back at the Gryphon, you find Porkey struggling with today's Riddling Rascal conundrum:
+ > 
+ >  Under the light of the moon my form does twist, 
+
+ > With fur and fangs, in shadows, I exist. 
+
+ > A howl in the night, a hunger untamed, 
+
+ > What creature am I, with a curse named? 
+ > 
+
+ **Answer:**  a werewolf, or any other form of were.
+```
+
+```col-md
+![[Plot/The City Watch/Table of Contents|Table of Contents]]
+```
+````
+
+<center>Copyright © Steve Dee 2022</center>
+
+---
+
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````
