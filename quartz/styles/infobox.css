@@ -1,0 +1,120 @@
+// --------------------------------------
+// Infobox callout  (adapted for Quartz)
+// --------------------------------------
+
+:root {
+    --infobox-font-size: 0.85em;
+    --infobox-gap: 16px;
+    --infobox-width: 400px;
+}
+
+/* Widen the page when an infobox is present */
+.page-content:has([data-callout="infobox"]) {
+    position: relative;
+    max-width: calc(700px + var(--infobox-width));
+}
+
+/* Float the infobox to the right */
+.page-content > div:has([data-callout="infobox"]) {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: var(--infobox-width);
+    margin-bottom: 1em;
+}
+
+/* Push main content left to make room */
+.page-content > *:not(div:has([data-callout="infobox"])) {
+    margin-right: calc(var(--infobox-width) + var(--infobox-gap));
+}
+
+/* Infobox base styles */
+[data-callout="infobox"] {
+    background: transparent;
+    border: 1px solid var(--lightgray);
+    font-size: var(--infobox-font-size);
+    margin: 0;
+}
+
+/* Hide the callout title bar */
+[data-callout="infobox"] .callout-title {
+    display: none !important;
+}
+
+[data-callout="infobox"] .callout-content {
+    background: transparent;
+}
+
+/* Headings inside infobox */
+[data-callout="infobox"] .callout-content h2 {
+    font-size: 1.25em;
+    margin: 0 0 0.5em;
+    text-align: left;
+}
+
+[data-callout="infobox"] .callout-content h3 {
+    background: var(--light);
+    font-size: 1.0625em;
+    margin: 0.25em 0 !important;
+    padding: 0.25em 0.5em;
+    text-align: left;
+}
+
+/* Table styles */
+[data-callout="infobox"] .callout-content table {
+    width: 100%;
+    margin: 0.5em 0;
+}
+
+[data-callout="infobox"] .callout-content thead {
+    display: none;
+}
+
+[data-callout="infobox"] .callout-content td,
+[data-callout="infobox"] .callout-content th {
+    border-width: 0 !important;
+    padding: 0.125em 0 0.125em 0.5em;
+    width: 65%;
+}
+
+[data-callout="infobox"] .callout-content td:first-child,
+[data-callout="infobox"] .callout-content th:first-child {
+    font-weight: bold;
+    padding: 0;
+    text-align: right;
+    width: 35%;
+}
+
+/* Other content */
+[data-callout="infobox"] .callout-content p {
+    text-align: left;
+    margin: 0.5em 0;
+}
+
+[data-callout="infobox"] .callout-content li {
+    line-height: 1.2;
+}
+
+[data-callout="infobox"] .callout-content p:has(img) {
+    margin: 0;
+}
+
+[data-callout="infobox"] .callout-content img {
+    border-radius: 0;
+    width: 100%;
+}
+
+/* Mobile - stack infobox above content */
+@media (max-width: 768px) {
+    .page-content:has([data-callout="infobox"]) {
+        max-width: 100%;
+    }
+    .page-content > div:has([data-callout="infobox"]) {
+        position: relative;
+        right: auto;
+        width: 100%;
+    }
+    .page-content > *:not(div:has([data-callout="infobox"])) {
+        margin-right: 0;
+    }
+}

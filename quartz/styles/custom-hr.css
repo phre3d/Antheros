@@ -1,0 +1,13 @@
+// ------------------------------------------
+//  customize the <hr> (adapted for Quartz)
+// ------------------------------------------
+body {
+  --hr-color: #AC2729;
+  --hr-thickness: 4px;
+}
+
+hr {
+  border: none;
+  border-top: var(--hr-thickness) solid var(--hr-color);
+  margin: 2em 0;
+}

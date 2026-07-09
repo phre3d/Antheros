@@ -1,0 +1,8 @@
+// ------------------------------------
+//   read-aloud callout
+// ------------------------------------
+.callout[data-callout="read-aloud"] {
+    --callout-color: 0, 255, 0;
+    --callout-icon: lucide-volume-2;
+}
+
