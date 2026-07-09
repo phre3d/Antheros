@@ -1,6 +1,3 @@
-// ------------------------------------------
-//  customize the <hr> (adapted for Quartz)
-// ------------------------------------------
 body {
   --hr-color: #AC2729;
   --hr-thickness: 4px;

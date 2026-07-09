@@ -1,6 +1,3 @@
-// ---------------------------------------------
-//   outline all callouts (adapted for Quartz)
-// ---------------------------------------------
 .callouts-outlined .callout .callout-title {
   background-color: var(--light);
   margin-top: -24px;
