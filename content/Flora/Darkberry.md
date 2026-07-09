@@ -18,7 +18,7 @@ Forests and Underground
 When a darkberry is split or crushed, it releases shadowstuff, creating a circle of magical darkness with a 5-foot radius sphere, lasting for 1 minute.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Shadow|Essence of Shadow]]
+- Can be processed to produce  [[material/essence-of-shadow|Essence of Shadow]]
 - Can be used in potion making
 
 ---

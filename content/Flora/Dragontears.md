@@ -22,7 +22,7 @@ Properly prepared, determined by succeeding on an Intelligence (Nature) check (D
 The unguent can be fatal when prepared incorrectly and applied to an open wound, as it's numbing properties can cause choking or heart failure.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Water|Essence of Water]]
+- Can be processed to produce  [[material/essence-of-water|Essence of Water]]
 - Can be used in potion making
 
 ---

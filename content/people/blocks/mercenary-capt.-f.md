@@ -1,0 +1,75 @@
+#import #statblock #person #npc 
+# Mercenary Capt. F
+
+````col
+```col-md
+flexGrow=2
+===
+**Race:** Centaur<br>
+**Profession:** Fighter/11th<br>
+**Challenge Rating:** 15<br>
+**Proficiency Bonus:** <br>
+**Size:**  Medium<br>
+**Languages:** Elvish | Sylvan | Common<br>
+**Alignment:** Unaligned<br>
+**Armour Class:** 16 - Padded<br>
+**Hit Points:** 69<br>
+**Movement:** 30$\quad$ *Burrow:* 0$\quad$ *Swim:* 0$\quad$ *Climb:* 0$\quad$ *Fly:* 0$\quad$ *Hover:* 0
+
+![[dndline.png]]
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 14 (+2) | 11 (+0) | 12 (+1) | 10 (+0) | 11 (+0) |
+
+![[dndline.png]]
+
+**Saving Throws:** Strength | Constitution<br>
+**Languages:** Elvish | Sylvan | Common<br>**Challenge:** 15 / (XP)<br>**Senses:** Passive perception 13<br>**Skills:** Athletics +6 | Perception +3 | Survival +3
+
+```
+
+```col-md
+
+**Source:** The Free City of Haven<br>
+
+
+```
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[dndline.png]]
+
+# Actions
+**Greatsword:**  +7 to hit , 2d6+3 slashing damage  
+  **Hoof:**  +7 to hit , 2d6+7 bludgeoning damage  
+  **Dagger:**  +7 to hit , 1d4+3 piercing damage
+
+
+
+
+
+
+
+
+
+
+
+
+

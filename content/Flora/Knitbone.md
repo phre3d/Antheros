@@ -18,7 +18,7 @@ Swamps
 The leaves and flowers can be ground into a poultice that, when applied to an injured creature, will recover 1 Hit Die and heal 1d10 hit points.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Earth|Essence of Earth]]
+- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
 - Can be used in potion making
 
 ---

@@ -1,0 +1,103 @@
+#import #landmark   #Free_City_of_Haven #the-south-docks #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+# The Waterlogged Rat
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+## A low-class hangout 
+
+## Description 
+The Rat is a dim, smoke-filled, low class bar. It is a favorite hangout for many of [[people/cariadoc|Cariadoc]]'s thugs, some of whom may be found here at almost any hour.
+
+# Purpose / Function
+
+# Design
+
+# Entries & Exits
+
+# Sensory & Appearance
+
+# Denizens
+
+# Contents & Furnishings
+
+# Valuables
+
+# Hazards & Traps
+
+# Special Properties
+
+# Architecture
+
+# Alterations
+
+# Defences
+
+# Environment & Effects
+
+# History
+
+# Tourism
+
+--- end-column ---
+
+**Image:** n/a
+
+**Tavern (Inns & Taverns)** 
+
+ **Owner:**  
+
+ **District:**  The South Docks
+
+ **Grid (Key) Ref.:**   U08 (BK)
+
+---
+
+**Alternate Name(s):**  
+
+**Founding Date:** 
+**Date of Ruin:** 
+
+**Type:** Pub / Tavern / Restaurant
+
+**Parent Location:** 
+[[settlements/the-south-docks|The South Docks]]
+
+**Connected Rooms:**
+
+**Ruler/Owner:** <br>
+**Owner Rank:** <br>
+**Additional Ruler/Owner(s):**
+
+**Owning Organization:** <br>
+**Organizations Contesting Ownership:**
+
+**Included Vehicle:** n/a
+
+---
+
+### World Anvil Metadata
+**Id:** 7d581473-a0bb-406c-b81d-ef9bc7233858<br>
+**Entity Type:** Article / landmark<br>
+**Category:** Places: The South Docks<br>
+**Tags:** fcoh,the-south-docks-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
+
+--- end-multi-column
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+
+--- end-column ---
+
+--- end-multi-column

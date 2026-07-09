@@ -1,0 +1,58 @@
+![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
+#import #plot  #Murder_at_the_Old_Wolf_Inn
+# Mysterious Clues
+
+--- start-multi-column ---
+```column-settings
+number of columns: 2
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+
+
+When the characters continue their journey, the autumn weather steadily becomes worse. Light is fading rapidly, and dusk is approaching. 
+
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+You continue along the trade road for a few hours while clouds gather on the horizon, and the wind slowly picks up. 
+
+You walk past a wooden fingerpost that informs you of the direction of Buckbridge, Oxgate and Stenur Keep. One of the fingers points to the location of the tavern “The Old Wolf Inn,” which appears to be nearby.
+
+
+## ominous signs 
+As the characters continue forward, the character with the highest passive Perception score notices something that gleams on a tree near the road. 
+
+If the characters investigate the item, they find a small crossbow bolt made from steel with sooted fletches that is deeply embedded in a slender winter birch. Characters who are familiar with dark elves know that it is the kind of crossbow bolt that is commonly used by the drow. 
+
+There are no other signs or tracks of the drow, but a closer inspection of the ground reveals a few broken planks that look like they may have belonged to a carriage once.
+
+## hidden details 
+Some details aren't immediately obvious or easily found. These details are marked “--> On a closer look,” followed by the ability check and difficulty required to discover them.
+
+--- end-column ---
+
+
+![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
+
+![[~attachments/dndline.png]]
+
+
+--- end-multi-column
+
+
+
+![[~attachments/dndline.png]]
+
+````col
+```col-md
+Previous: [[plots/murder-at-the-old-wolf-inn/murder-at-the-old-wolf-inn|Introduction]]
+```
+
+```col-md
+textAlign=right
+===
+Next: [[plots/murder-at-the-old-wolf-inn/arriving-at-the-inn|Arriving at the Inn]]
+```
+````

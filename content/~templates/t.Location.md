@@ -51,19 +51,19 @@ shadow: off
 
 **Type:** 
 
-**Ruler / Owner:** [[Person/]]
+**Ruler / Owner:** [[person/]]
 
 **Additional Rulers/Owners**
 
-- [[Person/Title]]
+- [[person/title]]
 
 **Owning Rank:** 
 
-**Owning Organization:** [[Organization/]]
+**Owning Organization:** [[organization/]]
 
 **Organizations Contesting Ownership**
 
-- [[Organization/Title]]
+- [[organization/title]]
 
 ---
 

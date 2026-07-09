@@ -18,7 +18,7 @@ Grassland and Forests
 Bloodgrass can be ground into a thick brown paste that can be added and mixed into most potions and drinks to become adequate food equivalent to a day's rations for the party.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Life|Essence of Life]]
+- Can be processed to produce  [[material/essence-of-life|Essence of Life]]
 - Can be used in potion making
 
 ---

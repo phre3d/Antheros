@@ -18,7 +18,7 @@ Coastal and Grassland
 This crystal can be dissolved in a strong acid and consumed to induce a state of blissful relaxation for 10 minutes. During this time, there is a 25% chance that a spellcaster consuming ecru crystal will receive a boost of 1d4-1 points to either Wisdom, Charisma, or Intelligence for 24 hours. During this period, the consumer's Dexterity score is halved.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Earth|Essence of Earth]]
+- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
 - Can be used in potion making
 
 ---

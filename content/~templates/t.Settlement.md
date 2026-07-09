@@ -74,14 +74,14 @@ shadow: off
 **Founded:** <br>
 **Runied:** 
 
-**Ruler:** [[Person/]] <br>
-**Rank:** [[Rank/]] <br>
-**Ruling Organization:** [[Organization/]] <br>
+**Ruler:** [[person/]] <br>
+**Rank:** [[rank/]] <br>
+**Ruling Organization:** [[organization/]] <br>
 **Other Rulers:** 
-- [[Person/Title]]
+- [[person/title]]
 
 **Founders:** 
-- [[Person/Title]]
+- [[person/title]]
 
 
 

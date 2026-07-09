@@ -20,7 +20,7 @@ When consumed, the creature must make a Constitution saving throw (DC 13).
 - On a success the creature becomes transparent (but not invisible) for 1 hour, gaining a +10 bonus to Dexterity (Stealth) checks.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Air|Essence of Air]]
+- Can be processed to produce  [[material/essence-of-air|Essence of Air]]
 - Can be used in potion making
 
 ---

@@ -210,7 +210,7 @@ flexGrow=2.5
 **Family:** [[Organization/|]]<br>
 **Race:** [[Race/|]]<br>
 **Secondary Ethnicities/Cultures:** 
-- [[Ethnicity/Title|title]]
+- [[ethnicity/title|title]]
 
 #### Birth
 **Age:**  <br>
@@ -233,7 +233,7 @@ flexGrow=2.5
 **Deity:**  [[Religion/|]]<br>
 **Affiliated Organization:**  [[Organization/|]]<br>
 **Other Affiliations:** 
-- [[Organization/Title|Title]]
+- [[organization/title|Title]]
 
 
 ---
@@ -256,7 +256,7 @@ flexGrow=2.5
 
 
 <!-- Standard page footer -->
-![[~attachments/DnDLine.png]]
+![[~attachments/dndline.png]]
 ````col
 ```col-md
 Previous: 

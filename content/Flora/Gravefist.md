@@ -18,7 +18,7 @@ Underground
 There may be some truth to the 'coming death' belief as the mushrooms release toxic spores that slowly inflict 4d8 poison damage spread over a period of 2d8 days to creatures that sleep or live within 100 feet of this fungus.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Earth|Essence of Earth]]
+- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
 - Can be used in potion making
 
 ---

@@ -18,7 +18,7 @@ Coastal
 The root of this herb should be boiled over a low heat for three days, and the infusion drunk by people with the plauge, in order to cure some symptoms or the plague as a whole (60% chnace to cure completely). Because of this, the value of this herb increases greatly in times of plague.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Life|Essence of Life]]
+- Can be processed to produce  [[material/essence-of-life|Essence of Life]]
 - Can be used in potion making
 
 ---

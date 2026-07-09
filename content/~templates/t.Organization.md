@@ -21,38 +21,38 @@ shadow: off
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
-**Parent Organization:** [[Organization/]]<br>
+**Parent Organization:** [[organization/]]<br>
 **Founding Date:** <br>
 **Dissolution Date:** 
 
 **Founders** 
 
-- [[Person/Title]]
+- [[person/title]]
 
 **Predecessor Organizations**
 
-- [[Organization/Title]]
+- [[organization/title]]
 
 **Successor Organizations**
 
-- [[Organization/Title]]
+- [[organization/title]]
 
 **Geographic Location / Base Settlement / HQ**
 [[/]]
 
 **Related Ethnicities**
 
-- [[Ethnicity/Title]]
+- [[ethnicity/title]]
 
 **Related Species**
 
-- [[Species/Title]]
+- [[species/title]]
 
 ## Leadership
-**Leader:** [[Person/]]<br>
-**Leader Title:** [[Rank/]]<br>
-**Ruling Organization:** [[Organization/]]<br>
-**Family Leader:** [[Person/]]
+**Leader:** [[person/]]<br>
+**Leader Title:** [[rank/]]<br>
+**Ruling Organization:** [[organization/]]<br>
+**Family Leader:** [[person/]]
 
 ## Structure
 
@@ -79,18 +79,18 @@ shadow: off
 **Capital:** [[/]]<br>
 **Power Structure System:** <br>
 **Government System:** <br>
-**Head of State:** [[Person/]]<br>
-**Head of Government:** [[Person/]]<br>
+**Head of State:** [[person/]]<br>
+**Head of Government:** [[person/]]<br>
 **Economic System:** <br>
-**Official State Religion:** [[Organization/]]
+**Official State Religion:** [[organization/]]
 
 **Neighboring Geopolitical Organizations**
 
-- [[Organization/Title]]
+- [[organization/title]]
 
 **Recognized/Official Languages**
 
-- [[Language/Title]]
+- [[language/title]]
 
 ## Gazetteer
 
@@ -152,7 +152,7 @@ shadow: off
 
 **Deities**
 
-- [[Person/Title]]
+- [[person/title]]
 
 # Mythology
 

@@ -18,7 +18,7 @@ Mountains
 Ingesting the flower's nectar grants a creature 2d6 temporary hit points that last for 1 hour. This effect cannot be combined with any other effect that grants temporary hit points.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Air|Essence of Air]]
+- Can be processed to produce  [[material/essence-of-air|Essence of Air]]
 - Can be used in potion making
 
 ---

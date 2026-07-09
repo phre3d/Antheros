@@ -20,7 +20,7 @@ Although it is extremely bitter tasting, chewing on the root provides temporary 
 Those that chew it express a feeling of warmth passing through their body, and a sense of renewed strength, gaining resistance to cold and frost damage, and +1 to Strength checks for 4 hours.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Earth|Essence of Earth]]
+- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
 - Can be used in potion making
 
 ---

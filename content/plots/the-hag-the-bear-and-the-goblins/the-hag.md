@@ -1,0 +1,56 @@
+#import #plot  #Hag_Bear_Goblin
+# The Hag
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+# Initial Meeting 
+Following [Thomas'](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-npcs-plot#thomas) guidance, the party sets off to the west. After a half-day journey through the forest, they reach the edge of the Hag's territory. It's a captivating clearing in the woods where the Hag lives in a cave. The clearing is a scream of colors, decorated with vibrant flowers, luminescent mushrooms, and trees that emit a supernatural glow. The entire scene feels like it's been taken from the heart of the Feywild. As the party approaches, they spot [Ludmilla, the Hag](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#ludmilla) waiting for them, guarded by two wolves: [Toothache](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#toothache) and [Bonemeal](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#bonemeal).
+
+ **If the party chooses to engage in conversation** , the Hag reveals that she is responsible for the magical disease that has happened to Thomas' boys. The children disrupted a ritual she was performing, an attempt to get rid of a bear known as [Great Black](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#bear) of its madness. Unfortunately, the disturbance caused by the boys resulted in her losing crucial components for the spell, and now she cannot repeat the ritual. 
+
+In general, [Ludmilla](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#ludmilla)  proves to be a bitter and uncooperative character. If the party persists and pleads for her help, she agrees to help them, but on one condition: they must deal with [Great Black](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#bear). The bear has recently gone mad, rampaged through the forest and destroyed the Hag's herbal garden twicealready. It's an increasingly dangerous and chaotic presence in the woods that must be dealt with before [Ludmilla](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#ludmilla)  provides the cure to heal the farmer's boys.
+
+# After the Bear 
+After dealing with [Great Black](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#bear), the party returns and she keeps her promise and hands over two small potions, as agreed. 
+
+The <u>potions however are not what they appear to be; they are filled with poison, not a cure</u>.  The party can sense this trickery through a successful <u>Wisdom (Insight) check (DC 15)</u>. If they notice the deception, they have two main few options:
+
+1. **Negotiation:**  The party can confront the Hag and demand a genuine cure. She carries it in her pockets, and she'll give them to the party with an evil laugh.
+2. **Conflict:**  If the party doesn't wish to negotiate or believes they can't reason with the Hag, they can attack and kill her. This, however, might have consequences in the broader context of the adventure and the party's reputation in the area. If the Hag is dead, the party will find another two potions in her pockets (these are the cures, but the party won't know that).
+
+How the party deals with this situation will significantly impact the adventure's outcome and Thomas' children's fate.
+
+## Loot 
+In case the party kills her, the following can be found in her home: 
+- 120 gp,
+- 2  *potions of greater healing* ,
+- 1  *potion of mind-reading* ,
+- 1  *potion of gaseous form*  and
+- a  *Wand of Wonder* 
+
+```
+
+```col-md
+![[plots/the-hag-the-bear-and-the-goblins/table-of-contents]]
+
+![[~attachments/dndline.png]]
+```
+````
+
+
+---
+
+````col
+```col-md
+Previous: 4433c704-0c22-432d-9292-e65f57381974
+```
+
+```col-md
+textAlign=right
+===
+Next: ad7d278b-56b0-4e2e-9798-dc3cd9aa2ab3
+```
+````

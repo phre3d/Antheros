@@ -22,7 +22,7 @@ If someone is unwise enough to reach into the pod, they must make a Dexterity sa
 Ripping the plant out of the ground requires a successful Strength (Athletics) check (DC 20) and inflicts another 1d4 damage upon the trapped victim.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Shadow|Essence of Shadow]]
+- Can be processed to produce  [[material/essence-of-shadow|Essence of Shadow]]
 - Can be used in potion making
 
 ---

@@ -38,7 +38,7 @@ This rare flower is sought for many reasons, ranging from folk remedies to poten
 >
 >**Value:** 10gp (92gp)<br>
 >**Rarity:** Uncommon (Very Rare)<br>
->**Related Professions:** [[Profession/Herbalist|Herbalist]]<br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
 
 
 ---

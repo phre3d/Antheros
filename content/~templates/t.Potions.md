@@ -16,7 +16,7 @@ flexGrow=2
 {{bb2md History}}{{/if}}
 
 ## Crafting
-**Crafted By:** [[profession/{{Crafter}}|{{Crafter}}]]<br>
+**Crafted By:** [[profession/{{crafter}}|{{Crafter}}]]<br>
 **Crafter Level:** {{CrafterLevel}}<br>
 **Crafting Time:** {{CraftingTime}}<br>
 **Crafting DC:** {{CraftingDC}}

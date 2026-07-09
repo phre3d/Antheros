@@ -14,21 +14,21 @@ shadow: off
 # Natural Range
 
 
-![[~attachments/DnDLine.png]]
+![[~attachments/dndline.png]]
 
 # Common Use(s)
 > [!tip]
 > Consider how it's use - more or less as-is - or as an ingredient
 
 
-![[~attachments/DnDLine.png]]
+![[~attachments/dndline.png]]
 
 # Distribution
 > [!tip]
 > Consider how it's stored, transported, marketed
 
 
-![[~attachments/DnDLine.png]]
+![[~attachments/dndline.png]]
 
 --- end-column ---
 

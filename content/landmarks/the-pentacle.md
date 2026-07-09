@@ -1,0 +1,103 @@
+#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-magic #mages-guild #magic
+# The Pentacle
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+## Everything for the discerning mage 
+
+## Description 
+Magical supplies: material components etc.    Also potion ingredients.  Next door to Eye of Newt, their prime competitor.
+
+# Purpose / Function
+
+# Design
+
+# Entries & Exits
+
+# Sensory & Appearance
+
+# Denizens
+
+# Contents & Furnishings
+
+# Valuables
+
+# Hazards & Traps
+
+# Special Properties
+
+# Architecture
+
+# Alterations
+
+# Defences
+
+# Environment & Effects
+
+# History
+
+# Tourism
+
+--- end-column ---
+
+**Image:** n/a
+
+**Magic (Shopping)** 
+
+ **Owner:**  
+
+ **District:**  Magic Street
+
+ **Grid (Key) Ref.:**   G09 (NF)
+
+---
+
+**Alternate Name(s):**  
+
+**Founding Date:** 
+**Date of Ruin:** 
+
+**Type:** Shop, Magic
+
+**Parent Location:** 
+[[settlements/magic-street|Magic Street]]
+
+**Connected Rooms:**
+
+**Ruler/Owner:** <br>
+**Owner Rank:** <br>
+**Additional Ruler/Owner(s):**
+
+**Owning Organization:** <br>
+**Organizations Contesting Ownership:**
+
+**Included Vehicle:** n/a
+
+---
+
+### World Anvil Metadata
+**Id:** 44748019-058a-45f5-a298-e7dd47f02645<br>
+**Entity Type:** Article / landmark<br>
+**Category:** Places: Magic Street<br>
+**Tags:** fcoh,magic-street-location,cat-shop,type-magic,mages-guild-location,magic
+
+--- end-multi-column
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+
+--- end-column ---
+
+--- end-multi-column

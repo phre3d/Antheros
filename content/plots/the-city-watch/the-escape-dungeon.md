@@ -1,0 +1,248 @@
+#import #plot  #The_City_Watch
+# TCW: The Escape Dungeon
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+# Act I 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+Late afternoon one day as you are returning to the Gryphon from partol you can hear loud voices coming from the Great Room. Pausing to listen you realize that the two raised voices are [[person/lyza]] and [[person/mikyl-swiftsword]] and she is protesting something he is asking (ordering?) her to do.  Suddenly their voices drop in volume - maybe they heard you come in?  After a moment you can hear them continue quietly in a earnest matter.
+
+Creeping to the great room door where you can overhear without being seen, you manage to get the following pieces of their conversation.
+
+ **[[person/lyza]]:**  ... not here to be dancing dogs for you.
+
+ **Mikyl:**  But you'll dance for de la Riis?
+
+ **[[person/lyza]]:**  ... not a private investigation service at your beck and call.
+
+ **Mikyl:**  But you'll run after Claudia's mutt?
+
+<small>After mostly harsh whispers you can't make out your hear footsteps approaching
+the door you're listening at.</small>
+
+ **Mikyl:**  You'll do this or so help me ...
+
+The door bursts open and Swiftsword stomps past not even noticing you there. He storms out the door and is gone.
+
+Allow some time for player action and then provide the following background when appropriate.  Or have [[person/lyza]] provide the information.
+
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+Every year, the city of Haven plays host to a tournament. Adventurers and would be heroes arrive in the city to take part in a challenge to test their wits and their strength. Each group pays a bag of gold coins as an entrance fee, and the winning group takes the gold as a prize, minus a little commission for the organiser of the tournament, of course. The organiser is Count Jasper, a Haven nobleman and a talented sorcerer, who is known throughout the city for his wealth, his love of riddles, and his cruel sense of humour.
+
+The tournament takes place in tunnels and caverns that have been carved out beneath the city. Teams of adventurers descend into this underworld and compete to be fastest to make it through a series of challenges and return to the surface. The tournament is officially called The Haven Open Hero Championship, but everyone just calls it "The Escape Dungeon".
+
+Every year, Duke [[person/fernando-di-cotillion]] pays to submit a team made up of members of The City Watch, chosen by [[person/mikyl-swiftsword]], the Commander of the Watch. This year, following your recent heroics, he has selected you.
+
+Actually, Swiftsword is hoping for a collossal failure that he can use as an excuse to terminate [[person/lyza]]'s command.
+
+# Act II 
+Count Jasper is magically watching the proceedings from afar, and will taunt and insult the players with a booming disembodied voice.
+
+You can use the booming voice to make it clear that the PCs are in a race, and hurry them up if they are taking too long.
+
+![[tcw-the-escape-dungeon.jpg]]
+
+---
+
+## Room 1 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+The booming voice (Count Jasper) says, “Take one item each from the table”. 
+
+On the table are a number of items that number is one more than the number of PCs. The GM should pick the two items in the 1st columns below, then add any of the others from the 2nd column until you have one more than the number of PCs.
+
+- An eight sided die made of brass (Always rolls 6)
+- A small scarlet fish
+- A salt shaker
+
+- A small drawstring pouch
+- Parchment tied up with string
+- A silver key, broken into two halves
+
+If you have more than 4 players, make up a few more useless items so that the table always has one item more than the number of PCs. 
+
+The items are:
+- The brass die is magical and if rolled, always lands on a 6.
+- The pouch contains half a dozen pebbles.
+- The parchment has a picture of a circle on it, and the radius is drawn in.
+- The small scarlet fish is a red herring.
+- The salt shaker is just what it claims to be. It's about half full.
+- If the silver key can be mended (e.g. using ![[364593]]|Mending- PHB p259) it can be used to open one of the locks in room 3.
+
+If anyone touches an item after they have taken one already, a blue spark causes them 1hp damage every round until they put it back.
+
+---
+
+## Room 2 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+The passage ends at a "T" intersection. On the wall there is sign saying:
+
+<center>
+Right or Left,
+
+Take your pick.
+
+Gain or pain,
+
+Treat of trick.
+</center>
+
+To the left is a dead end, and a pit trap. Perception check, DC 15 to spot. 
+
+---
+
+## Room 3 
+There are three giant paintings on the wall, but closer inspection reveals they are portals, and the PCs can step into them. Each location has a silver key visible in it.   Any number of PCs may enter each portal, but it would likely be quicker if they split up.
+
+The silver keys are all the same and match the broken one from Room 1 (if it has been fixed).
+
+The door at the far side has three silver locks, each requiring a silver key. All keys must be inserted before any will turn (i.e. you can't use one key three times) to unlock the door.
+
+### Left Painting 
+A forest scene. The silver key is hanging from a nail in the trunk of a tall tree. It is guarded by a minotaur holding a club. The minotaur is wearing a helmet which is strapped to its horns so it cannot remove it - the helmet has a built-in visor that covers the minotaur's eyes, so that it is effectively blind.
+
+A PC can get the key if they pass a DC10 stealth check (with advantage if they can distract the ![[1236549]]|minotaur (MM p223) in some way, such as by throwing pebbles), but if they fail, the minotaur will attack with +5 to hit and [roll:1d10+3] damage. After the encounter, the PC can grab the key and pass back through the painting. The minotaur will sense the key has gone and roar with anger.
+
+### Middle Painting 
+An icy waste. The key is on a shelf at the top of a frozen and slippery flight of stone steps. The PC must pass a dexterity DC15 check with disadvantage to climb them. Each failure results in 1hp damage as they fall, and they waste some game time. Once every ascent, a sniggering ![[1236583]]|Kobold (MM p195) will appear and throw a snowball. If it hits (i.e. the kobold passes DC 10 check) PC must pass another DC15 check or fall. Any sort of fire spell will melt the ice and allow the PC to proceed without a DC check (and the kobold will sigh and stay hidden).
+
+### Right Painting 
+In this picture, the viewer is high up in the mountains looking out across a rope bridge that stretches out across a chasm towards a pillar of rock 50 metres away. A silver key can be seen hanging on a hook there. To reach it, a PC must cross the bridge. As soon as they step on the bridge, a ![[1236599]]|Manticore (MM p213) will fly in and attack the PC with its tail spikes. If the PC runs at full speed as soon as they see the monster, they can reach the key before an attack if they pass a DC15 athletics check.  The PC cannot avoid an attack on the return trip, though they can dodge. 
+
+---
+
+## Room 4 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > You enter a room with a door on the far side. To get to the door, you must cross a 4x4 grid of tiles on the floor. The tiles have symbols painted on them. The first row is made up of geometric shapes, the second punctuation marks, the third letters, and the fourth pictures of animals.
+
+As you approach the tiles, the disembodied voice of Count Jasper booms out:
+<center>"Unlocking the door is easy as pie.
+But do it wrong and perhaps you might die.“</center>
+
+![[tcw-the-escape-dungeon-2.jpg]]
+
+Actually, he says "easy as pi", and the correct sequence is:
+
+**<center>triangle**  (3 sides) --  **full stop/period**  (decimal point) --  **I**  (Roman numeral 1) --  **bull**  (4 legs)
+
+  **Or, 3.14, which is 'pi'</center>**
+
+The door will unlock when the tiles have been stepped onin the correct order. Stepping on an incorrect tile does 1d6 damage electric shock and you must restart from the beginning.
+
+---
+
+## Room 5 
+This room contains an angry ![[1236645]]|Owlbear (MM p249) locked in a cage. A portcullis blocks the only way forward out of the room. There are eight brass levers on the wall next to it. The only way to open the portcullis is to pull lever #6. Pulling any other lever will open the Owlbear's cage.
+
+If the players ask, yes, the levers are made of the same type of brass as the die from Room One. 
+
+---
+
+## Room 6 
+There are three doors, each with a riddle on them:
+
+LEFT DOOR
+
+I come before house, top, and frog.
+
+All around me is the yap of a dog.
+
+MIDDLE DOOR
+
+The head of a raven, the middle of a bat,
+
+I have claws and teeth, and the tail of a cat.
+
+RIGHT DOOR
+
+I come before fish, and also bean
+
+I come after royal, but I am not queen.
+
+Behind each door is a room containing the door to the next room, and a monster the PCs must fight: an ![[1236663]]|Awakened Tree (MM p317), a ![[1236668]]|Giant Rat (MM p327), and an ![[1236671]]|Ochre Jelly (MM p243), respectively.
+
+---
+
+## Room 7 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+You enter a very large room that is barren except for a door on either side and a sign on the far wall.  Stepping futher into the room you hear the booming voice say: "Do not follow the instruction on this sign. Do the opposite!"  
+
+Looking at the sign you can see it says:  **"You must not refrain from not going through the door on the right."** 
+
+The left corridor leads to a net trap triggered by a tripwire (DC15 to spot) and a dead end. The right corridor slopes upwards to the exit.
+
+# Act III 
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+You emerge, blinking, into the light, and hear the cheer of a crowd. You hear the voice of Count Jasper congratulating you on escaping the dungeon, and you see that you are in the market square. Lord Tograf , wearing fine robes and a turban, is smiling at you from a throne on a raised platform, surrounded by other members of the city's nobility on comfortable chairs, plus [[person/lyza]],  A healer rushes over to tend to your wounds.
+
+Later on, in the prize ceremony, Count Jasper announces, to a huge cheer, that the winning team was the group calling itself The Enigmas, consisting of a red haired warrior woman, a young wizard with a yellow beard, and a heavily tattooed man with a shaved head. 
+
+If ![[1235856]]|Barnacle Betty from  *[[plots/the-nightmare]]*  survived, and the PCs ever laid eyes on her, the warrior woman will look oddly familiar to the PCs.
+
+If the PCs have done well, then end this session with the following:
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+[[person/duke-fernando]] comes to the stage to make a special announcement that the team representing The City Watch this year has done better than ever before, and Haven should be proud of them. The rest of The City Watch cheer loudly, banging their spears on their shields in a heart warming show of support. While this is going on, [[person/lyza]] gives you a thumbs up, and mouths the words “Well done.”
+
+If you feel that the players have performed exceptionally well and solved every puzzle and encounter as quickly and efficiently as reasonably possible, then it is acceptable that they could actually win the tournament. However, they are not eligible for the prize money, as they did not pay the entrance fee.
+
+# Epilogue 
+When the party eventually makes their way back to the Gryphon they will find Porky trying to work out today's riddle.
+
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+In halls of stone where echoes sleep, 
+A guardian of secrets, its vigil keeps. 
+With no eyes to see, no ears to hear,
+ Yet senses all who venture near. 
+What am I?
+
+If the players are having a hard time Porky will say...
+
+> [!read-aloud] **Read Aloud** 
+ >  
+ > 
+Oh yeah, there are 4 choices: A) A ghostly whisper B) A magical rune C) A stone golem D) A living shadow
+
+The answer is B) A magical rune.  It is explained as follows:
+
+The riddle describes something in halls of stone (often found in dungeons or ancient temples), which doesn't have physical senses but can detect presence. A magical rune fits this description as it is often depicted as being enchanted to sense and react to the presence of adventurers or intruders.
+```
+
+```col-md
+![[plots/the-city-watch/table-of-contents|Table of Contents]]
+```
+````
+
+<center>Copyright © Steve Dee 2022</center>
+
+---
+
+````col
+```col-md
+
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

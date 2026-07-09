@@ -20,7 +20,7 @@ Tribes that live in the swamps will often use the unnerving aspect of the rattle
 When rattled, those that have no knowledge of the rattlestalks must make a DC 8 Wisdom saving throw, or be Frightened for 1d4 minutes.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Air|Essence of Air]]
+- Can be processed to produce  [[material/essence-of-air|Essence of Air]]
 - Can be used in potion making
 
 ---

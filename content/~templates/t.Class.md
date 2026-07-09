@@ -32,19 +32,19 @@
 ## Subclass Options
 
 >[!subclass]- SUBCLASS NAME
->![[SUBCLASS LINK]]
+>![[subclass-link]]
 >
 
 >[!subclass]- SUBCLASS NAME
->>![[SUBCLASS LINK]]
+>>![[subclass-link]]
 >
 
 >[!subclass]- SUBCLASS NAME
->>![[SUBCLASS LINK]]
+>>![[subclass-link]]
 >
 
 >[!subclass]- SUBCLASS NAME
->![[SUBCLASS LINK]]
+>![[subclass-link]]
 >
 
 ---

@@ -63,12 +63,12 @@ shadow: off
 **Status:** <br>
 **Form of Address:** <br>
 **Alternative Names:** <br>
-**Reports-to Rank:** [[Rank/]]<br>
+**Reports-to Rank:** [[rank/]]<br>
 **Equates to:** <br>
 **Length of Term:** <br>
 
 **Related Organizations:**
-- [[Organization/Title]]
+- [[organization/title]]
 
 --- end-multi-column 
 

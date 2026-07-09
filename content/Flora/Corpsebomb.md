@@ -23,7 +23,7 @@ When the membrane ruptures and disperses the spores, each living creature in a 4
 If the fungus catches fire the spore sack soon explodes, and each creature in a 20-foot radius sphere must make a Dexterity saving throw (DC 15).  A target takes 3d6 fire damage on a failed save, or half as much on a successful save. All spores are incinerated in this process.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Fire|Essence of Fire]]
+- Can be processed to produce  [[material/essence-of-fire|Essence of Fire]]
 - Can be used in potion making
 
 ---

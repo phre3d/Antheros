@@ -77,31 +77,31 @@ shadow: off
 
 **Famous in the Field:**
 
-- [[Person/Title]]
+- [[person/title]]
 
 **Other Associated Professions:**
 
-- [[Profession/Title]]
+- [[profession/title]]
 
 **Related Locations:**
 
-- [[/Title]]
+- [[/title]]
 
 **Employed By:**
 
-- [[Organization/Title]]
+- [[organization/title]]
 
 **Ranks & Titles:**
 
-- [[Rank/Title]]
+- [[rank/title]]
 
 **Related Vehicles:**
 
-- [[Rank/Title]]
+- [[rank/title]]
 
 **Related Technologies:**
 
-- [[Rank/Title]]
+- [[rank/title]]
 
 
 

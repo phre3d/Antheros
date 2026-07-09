@@ -22,7 +22,7 @@ Forests
 The inside of the fruit is golden-yellow, and quite sweet. Eating the fruit restores hit points equal to two of your hit dice and restores any hit dice expended from short rests.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Water|Essence of Water]]
+- Can be processed to produce  [[material/essence-of-water|Essence of Water]]
 - Can be used in potion making
 
 ---

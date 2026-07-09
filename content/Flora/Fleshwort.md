@@ -18,7 +18,7 @@ Grasslands and Underground
 Some healers use the fibrous body of the fleshwort to speed up the healing process during a short rest (a character may add 1d6 to the total amount of hit points recovered).
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Shadow|Essence of Shadow]]
+- Can be processed to produce  [[material/essence-of-shadow|Essence of Shadow]]
 - Can be used in potion making
 
 ---

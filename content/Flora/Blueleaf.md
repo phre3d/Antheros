@@ -22,7 +22,7 @@ High-priced entertainers often bum small pieces of the wood, as it creates leapi
 The leaves and sap are often ground in the creation of a vivid blue dye that is used to dye clothes in the north, and sometimes in the creation of tattoo ink.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Air|Essence of Air]]
+- Can be processed to produce  [[material/essence-of-air|Essence of Air]]
 - Can be used in potion making
 
 ---

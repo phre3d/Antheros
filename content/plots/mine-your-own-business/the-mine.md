@@ -1,0 +1,139 @@
+#import #plot  #Mine_Your_Own_Business
+# The Mine
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+# Generic features 
+Upon entering the coal mine, the party is greeted by a dry, dusty atmosphere resembling a natural cave system rather than a man-made structure. In certain corridors, the ceiling stretches beyond their sight. The walls, formed from natural rock, have taken on a nearly black hue instead of light grey.
+
+The absence of vegetation is apparent, with only a few resilient mushrooms and patches of lichen clinging to the darkened surfaces. A thick layer of coal dust covers everything within the mine, painting the interior in shades of black. Any interaction with the mine's surfaces leaves behind black marks on skin and clothing.
+
+## 1. The Entrance  
+The mine entrance stands at the road's end, impossible for the party to overlook. Tracks for mine carts extend from within, disappearing beneath a sturdy, double-winged metal door that secures the entrance. The door is clearly designed to withstand force, leaving brute strength as a futile option for entry.
+
+Centred on the door is a lock, ingeniously crafted in the silhouette of a mine cart, with the keyhole located precisely in its centre. Though the door shows signs of rust, it has been well-maintained, suggesting it can still swing open smoothly with the correct key.The party has three methods at their disposal to open the mine's doors:
+- **Using the Key: **  If the adventurers have successfully obtained the key from mayor Gingar, they can simply use it to unlock the door.
+- **Lockpicking:**  A successful <u>Dexterity (Sleight of Hand) check against a DC of 15</u> will bypass the lock. This method requires the right tools.
+- **Magic:**  Lastly, the party can use magic to open the door.
+
+
+## 2. Mine Cart 
+Just past the closed metal doors, the party encounters a mine cart filled with boxes. Opening any of the boxes reveals they contain mined coal ore, signaling the mine's active operations before it was sealed.
+
+## 3. Mine Cart  
+The tracks within the mine fork repeatedly, creating a labyrinth of potential paths. Choosing to follow the route to the right, the party comes across another mine cart. This one is loaded with coal.
+
+## 4. Rock Slide  
+As the party progresses, the mine's floor begins to incline upwards, eventually coming to a halt at the site of an old rockslide. Cobwebs drape over parts of the debris, indicating that it has remained undisturbed for some time. 
+
+A keen eye and a successful <u>Intelligence (Investigation) check against a DC of 12</u> could reveal a significant discovery: <u>a path exists through the centre of the rock pile</u>. The dust and debris appear disturbed, suggesting that not long ago, a creature or a person made their way through this very passage.
+
+## 5. Lake  
+A small lake, its waters chillingly cold and hidden in darkness. On the southern rocks, lichen-type moss patches thrive, while the ground is dotted with edible brown mushrooms nearby. The party discovers human footprints near the lake's edge, leading away but vanishing towards the south after a short distance. A successful Wisdom (Survival) check against a DC of 14 reveals that these footprints are approximately a week old, suggesting a recent passage through this spot.
+
+## 6. Camp of Pardin  
+The tunnel ascends in a spiral before culminating at a small, circular plateau. It's evident that this secret spot was used as a makeshift campsite, though the scene is marred by tragedy.
+
+> [!read-aloud] **Read Aloud** 
+ >  
+ > As you step onto the platform, surveying the camp with keen eyes, a chilling sound arrests your attention-the kind that sends a shiver down your spine. It's a deep, raspy breath emanating from the shadows, unnatural and unsettling. At first glance, nothing seems amiss; then, suddenly, the darkness itself seems to stir. 
+
+Before you, a shadowy figure rises to its full, imposing height, standing on two legs, a sight both awe-inspiring and terrifying. Its skin, as black as the coal that lines the walls of this mine, bristles with bone spikes protruding at odd angles. Where one would expect fingers, there are grotesquely long, sharp claws nearly two feet long. 
+
+This creature bears a vague resemblance to a werewolf, yet it is clearly something far more sinister. Its eyes, a piercing red, glow ominously in the gloom. As it opens its mouth to roar, a wave of the stench of decay attacks your nostrils. Towering over you at eight feet tall, with a physique that speaks of raw, untamed power, its skin appears as if no blade could pierce it.
+
+The monster lunges at the nearest player without a moment's hesitation. Time to roll for initiative!
+
+At the centre lies a bedroll soaked with blood alongside a corpse that has been gruesomely dismembered. Surrounding the grisly centrepiece are a backpack, several crates, and an open book on the ground. The ferocity of the attack is clear; the body shows signs of having been torn apart by something possessing both claws and sharp teeth, with half of it, including bones, being consumed.
+
+A particularly damaged cage suggests a creature clawed out from within. This unfortunate individual is identified as Pardin, who met his end at the claws of the beast he believed he could control.
+
+### Treasure 
+Should the players choose to investigate this grim tableau and succeed in an <u>Intelligence (Investigation) check against DC 12</u>, they will uncover several items of interest:
+- A petite ebony whistle that, intriguingly, produces no sound when blown.
+- A leather bag containing 50 gold coins.
+- A backpack with 20 yards of rope, a hook, a cooking set, and a pair of noble boots.
+- A bill for 50 gold coins marked with a mysterious "T" signature, hinting at a connection to larger plots afoot.
+- A diary, the last entry of which is smeared with blood and written in shaky handwriting, indicates Pardin's final moments. The pages, stained with blood, offer only glimpses of the complete handwritten text. For the journal see Appendix C.
+
+
+## 7. Mine Cart  
+An old, rusty mine cart sits abandoned at the end of a track line, its metal frame worn and weathered from years of neglect and exposure to the damp air of this part of the mine.
+
+## 8. Rock Slide  
+A narrow mine tunnel, lined with buttresses, leads to a heap of rocks from an ancient rockslide. Thick coal dust covers every surface.
+
+## 9. Old Coal Tunnel  
+A narrow mining tunnel extends ahead, its ceiling supported by sturdy buttresses. The walls bear the unmistakable marks of pickaxes, with both small and large chunks of coal scattered throughout. The floor is blanketed in a thick layer of coal dust. 
+
+## 10. Bedsits  
+The miners' quarter is in dire condition: beds are in ruins, and their textiles are shredded. Wooden boxes and pieces of furniture are scattered and broken across the floor. Claw marks mark every surface, a testament to the violence here. The odour is overwhelming, a pungent mix of urine and decay. Amidst the wreckage, the rotting food leftovers emit a foul stench, with spoiled fish standing out as especially repugnant. It's clear that anything of value has already been taken or destroyed.
+
+A thorough investigation of the area which requires a successful <u>Intelligence (Investigation) check against a DC of 14</u> reveals a few items overlooked in the chaos: a pickaxe in pristine condition, a satchel containing 87 coppers, and a small barrel of ale, somehow unharmed amidst the destruction.
+
+## 11. Mine Cart  
+At the end of the track, an old, rusty mine cart stands, its load of coal untouched and gathering a thick layer of dust, indicating it has been stationary for quite some time.3
+
+## 12. Vines  
+The tunnel leads into a dense thicket of thorny bushes, extending approximately 100 feet until the tunnel's end. The vines and thorns are daunting, making passage difficult. While fire can effectively damage them, these resilient plants are known to regrow within a few weeks, explaining why miners chose not to work in this tunnel.
+
+## 13. Icah  
+These are the remains of Icah, the unlucky miner. The body is beyond recognition, with scarcely any flesh remaining on the bones. A thorough search reveals that Icah met his end through the action of sharp claws, and his bones show signs of being gnawed on by a predator, possibly something akin to a bear. Among the sparse possessions found on Icah are 1 silver coin tucked in his pocket and a dagger, surprisingly well-preserved. His blood mixed with the thick coal dust and dried on the cold rock.
+
+## 14. Coal Mining Tunnel  
+This section of the mine served as the primary area for coal extraction. A fireplace surrounded by small stools and scattered tools suggests the miners spent considerable time here. Mugs and a teapot indicate breaks and moments of rest amidst the hard labour. Empty and full buckets are scattered throughout the area, showing that the miners had actively filled them with coal.
+
+## 15. Rock Slide  
+A makeshift ramp, constructed atop a pile of rocks, descends to another tunnel below. Players must make a <u>Dexterity (Acrobatics) check against a DC10</u> to walk down the ramp safely while carrying their equipment. If they fail, they'll <u>fall off the ramp, resulting in a d4 damage</u> from the fall. About halfway, the tunnel starts to ascend gradually.
+
+## 16. Lake  
+A small wooden boat is moored near the lake's shore, accompanied by a solitary stool, a bucket, and a fishing rod. Although the far side of the lake is mostly obscured by a large rock, a very faint light manages to filter through. Disturbingly, sounds of something animalistic rustling and gnawing can be heard across the water, adding an eerie tension to the atmosphere. 
+
+The boat appears sturdy enough to carry 5 people, offering a potential means to investigate the source of the light and sounds. At the center of this lake is a small rock island, upon which a few boxes have been placed (all empty).
+
+## 17. The Lair  
+The far side of the lake reveals the monster's lair, a place both eerie and fascinating. The nest is adorned with eggs and strands of a slimy substance, both emitting a faint pink light that adds an otherworldly glow to the surroundings. 
+
+Surrounding the lair, within the tunnel, your eyes catch the glint of shiny gold veins threading through the rock and gold nuggets scattered on the ground and embedded in the walls. This is the gold the miners stumbled upon before their fortunes took a dark turn. 
+
+The air is filled with the sounds of the lair's younger inhabitants: small monster babies engaging in playful yet fierce interactions, biting and roaring at one another. The lair contains six eggs and four young monsters, or "puppies," each standing about a foot tall.
+
+Upon noticing the players, the puppies hesitate as if assessing the new arrivals. This brief pause lasts a round before they collectively launch an attack. (See Appendix A). The encounter takes a dramatic turn when the first of these small monsters is slain, releasing a piercing, dying screech that reverberates through the lair.
+
+Read out loud:
+> [!read-aloud] **Read Aloud** 
+ >  
+ > As the life fades from the young monster before you, it releases a final, screeching scream with its dying breath. The sound is agonising, piercing through your ears and reverberating off the cave walls long after it has ceased. In the following silence, a massive shadow stirs from the depths of the lair, roused from its slumber by the call of distress. Rising to its full, daunting height on two legs, the creature before you is both majestic and horrifying. Its skin, as dark as the coal around you, is adorned with jutting bone spikes. Instead of fingers, it boasts long, razor-sharp claws, almost two feet long. Its eyes, glowing a fierce red, cut through the darkness. Upon opening its mouth to roar, the air fills with the foul stench of rot. Standing at an imposing eight feet tall, its form exudes sheer strength, and its skin seems impenetrable, hinting at a formidable opponent.
+
+After the party has slain the monster, they have the opportunity to destroy the eggs, with fire proving effective against both the slime webs and the eggs themselves. Additionally, they can gather gold nuggets from around the lair. They can collect <u>1d20 gold nuggets,each valued at 20 gold</u> without resorting to mining. 
+
+Should they conduct a thorough investigation of the tunnel - requiring an <u>Intelligence (Investigation) check against a DC of 14</u> -, they can discover [roll:1d6+4] extra gold nuggets.
+
+Beyond this, the tunnel holds no further secrets or treasures, leaving only the gold veins embedded in the rock, awaiting those who might mine them.
+```
+
+```col-md
+![[plots/mine-your-own-business/table-of-contents]]
+
+![[~attachments/dndline.png]]
+
+```
+````
+
+
+---
+
+````col
+```col-md
+Previous: 9d1dab5a-8937-4887-ad54-fc80302d650e
+```
+
+```col-md
+textAlign=right
+===
+Next: 1fcb3384-b54e-42fc-8721-e129f5d90a80
+```
+````

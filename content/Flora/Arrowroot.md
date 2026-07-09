@@ -18,7 +18,7 @@ Deserts
 The stem can be dried and ground and mixed with oil to create a frothy polishing oil that can add a +1 to a weapon's damage without the need for magic or craftsmanship for a 8 hours.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Air|Essence of Air]]
+- Can be processed to produce  [[material/essence-of-air|Essence of Air]]
 - Can be used in potion making
 
 ---

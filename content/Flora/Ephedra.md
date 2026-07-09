@@ -18,7 +18,7 @@ Desert and Mountains
 These leaves can then be dried and ground into a powder to mix with a poultice or potion to increase the tier of a healing die by 1, turning a d6 into a d8, etc. This effect can be used during short rests or with healing magic as a poultice, or can be used by adding to a health potion
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Life|Essence of Life]]
+- Can be processed to produce  [[material/essence-of-life|Essence of Life]]
 - Can be used in potion making
 
 ---

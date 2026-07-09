@@ -1,0 +1,67 @@
+#import #settlement #Free_City_of_Haven #neighbourhood
+# Believer's Lane
+
+--- start-multi-column: MainBody
+```column-settings  
+number of columns: 2  
+column size: [69%, 30%]
+border: [off]
+shadow: off
+```
+# Description
+Temples of most major religions can be found along Believer's Lane, which runs Along the north bank of the Dorian.
+
+## Locations on Believer's Lane 
+```dataview
+LIST
+FROM #landmark AND #believers-lane
+SORT file.name
+```
+
+--- end-column ---
+
+**Image:** 
+
+**Type:** Neighbourhood<br>
+**Other Name(s):** <br>
+**Located In:** [[settlements/the-north-corridor|The North Corridor]]
+
+**Population:** <br>
+**Demonym:** <br>
+**Founded:** <br>
+**Runied:** 
+
+**Ruler:** <br>
+**Rank:**  <br>
+**Ruling Organization:**  <br>
+**Other Rulers:** 
+
+**Founders:** 
+
+---
+
+### World Anvil Metadata
+**Id:** d61d64d3-42c0-42d5-a0aa-e141a9cc1ba0<br>
+**Entity Type:** Article / settlement<br>
+**Category:** <br>
+**Tags:** fcoh,neighbourhood
+
+--- end-multi-column
+
+---
+--- start-multi-column: PreviousNext
+```column-settings  
+number of columns: 2  
+column size: [50%, 49%]
+border: [off, off]
+alignment: [left, right]
+```
+Previous:
+ce6589a2-427d-4318-9641-17d8ea7b2641
+
+--- end-column ---
+
+Next:
+e11d38ab-9461-4be2-b745-34ddf86ec7fb
+
+--- end-multi-column

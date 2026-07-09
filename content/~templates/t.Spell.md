@@ -23,6 +23,6 @@ flexGrow=2.5
 ```
 ````
 
-![[~attachments/DnDLine.png]]
+![[~attachments/dndline.png]]
 
 *Source:*   <!-- Original source -->

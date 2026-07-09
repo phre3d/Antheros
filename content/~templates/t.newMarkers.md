@@ -5,7 +5,7 @@ mapmarker: {{pinType}}
 #map-marker 
 # {{name}}
 
-**Map:** [[Map/Haven/{{xxxxxx}}|{{xxxxxx}}]]
+**Map:** [[map/haven/{{xxxxxx}}|{{xxxxxx}}]]
 
 **Coordinates** <br>
 *World Anvil:* {{waCoords}}<br>
@@ -16,7 +16,7 @@ mapmarker: {{pinType}}
 
 **Map Ref:** {{mapRef}}
 
-**Location:** [[Landmark/{{name}}|{{name}}]]<br>
+**Location:** [[landmark/{{name}}|{{name}}]]<br>
 **Location Type:** {{type}}
 
 **Description**<br> 

@@ -20,7 +20,7 @@ When chewed, the leaves have an analgesic effect with a sense of euphoria. You g
 The numbing effect confers a -5 penalty to all Dexterity-based saving throws during this time.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Life|Essence of Life]]
+- Can be processed to produce  [[material/essence-of-life|Essence of Life]]
 - Can be used in potion making
 
 ---

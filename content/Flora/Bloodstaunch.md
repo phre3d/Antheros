@@ -18,7 +18,7 @@ Desert and Mountains
 From you leaves a resin can be extracted that can be applied to open wounds to quickly staunch bleeding. Applying the herb to a bleeding wound grants the recipient recovery of 1 hit point and confers immunity to bleed damage for 1 hour.
 
 ## As an Ingredient
-- Can be processed to produce  [[Material/Essence of Earth|Essence of Earth]]
+- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
 - Can be used in potion making
 
 ---

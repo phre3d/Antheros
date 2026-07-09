@@ -1,0 +1,98 @@
+#import #plot  #Howling_in_the_Woods
+# Items, NPCs and Monsters
+
+````col
+```col-md
+flexGrow=2.5
+===
+# Outline
+# Items 
+## Abjurer's Compendium 
+![[abjurers-compendium.jpg]]This tome, bound in white leather and penned in glittery blue ink, is a manual of abjuration magic.  It also contains an odd form of  *Remove Curse*  that seems somehow specialized. It targets a specific creature type - sanguine werewolf - and can remove the curse that created them.
+
+### Effects 
+If you spend 8 consecutive hours reading it, you become attuned to the book. While attuned:
+- you have advantage on ability checks and saving throws related to abjuration magic,
+- you learn one abjuration spell of your choice, up to the highest spell level you can cast. This spell is always prepared and doesn't count against your number of known or prepared spells.
+- you can cast the specialied  *Remove Curse*  spell as a ritual
+
+# NPCs 
+## Gredel 
+![[gredel-human-form.webp]]Formerly afflicted with lycanthropy, Melluria has overcome many struggles: “This trouble will pass, child. It must.” 
+
+This hunched human woman looks aged beyond her years. She has auburn hair with streaks of gray, weathered and scarred skin, and somber gray eyes. Leaning on a cane, she wears a patched brown dress and green scarf.
+
+She used to run a lodge in the woods south of Tarnsworth until becoming afflicted with a form of lycanthrope making her a sangunie werewolf.
+
+## Roleplay Notes 
+ **Love:**  “I love music, but the memory of playing escapes me. I spent hours pouring over my broken piano, attempting to force the notes into some semblance of harmony.”
+
+ **Dream:**  “I've long dreamed of visiting my sister and retiring near the coast.”
+
+ **Fear:**  “If I ever returned to that monstrous form, I don't know how I would cope. It's a terrible thing…being locked in another creature's body.”
+
+ **Regret:**  “If only I had prepared for that attack…”
+
+# Monsters 
+## Sanguine Werewolf 
+Sanguine werewolves are ferocious lycanthropes cursed to survive only in their hybrid form. Standing upright on dog-like legs, this creature's humanoid frame is a mess of stinking gray-brown fur, matted with dirt and blood. Distinctly humanoid eyes peer over the werewolf's snout, glinting like its claws and jagged, gnashing teeth.
+
+![[sanguine-werewolf.webp]] Sanguine werewolves are descendants of, or were afflicted by, lycanthropes who were cursed under the blood moon: a full moon during the lunar eclipse. It's told that the blood god was so pleased with the lycanthrope's brutality, that those turned under their moon were granted an especially ferocious transformation. This unique curse traps the werewolf in hybrid form, making them unable to shapeshift into their original human body or the form of a wolf. These werewolves live in small packs in forests, preferring older, darker woods with a steady supply of travelers, and they often coexist with ghosts and ghouls. 
+
+### Stats 
+Medium, Humanoid (Shapechanger), Chaotic Evil, Level 3+
+
+ **AC: ** 12
+
+ **HP:**  40 
+
+ **Resistances:**  nonmagical and nonsilvered bludgeoning, piercing, and slashing
+
+ **Vulnerabilities:**  to silvered bludgeoning, piercing, slashing
+
+ **Speed:**  40 ft. walk
+
+ **Prof. Bonus:**  +4 to STR saves, Athletics,  Perception, Stealth
+
+ **Senses:**  darkvision 60 ft., passive Perc. 14
+
+ **Languages:**  Common (unable to read or write)
+
+ **Spells:**  +4, WIS, DC 12, at will: minor illusion
+
+### Special Abilities: 
+ **Lunge:**  (action) move >10 ft.;  +4 to hit, 1d6+4 bludgeoning, DC 12 DEX or prone
+
+ **Claws**  (action) 5 ft. +4 to hit, 2d4+4 slashing
+
+ **Leap**  (bonus action) jump 10 ft. without taking  opportunity attacks
+ **Bite**  (bonus action) 5 ft. +4, 1d4 piercing, DC 12 CON or become a sanguine werewolf on the next blood moon
+
+### Combat Notes 
+Sanguine werewolves are stealthy predators that stalk their prey in pairs or small hunting groups. They usually attempt to surprise their quarry with a lunge and bite to take them down quickly, continuing to fight with their claws if necessary. Sometimes however, these werewolves merely taunt their targets from a distance with horrifying howls and simple illusion magic. 
+
+Unlike most lycanthropes, these werewolves are particularly active around the blood moon, they are resistant, not immune, to nonmagical attacks, and they are in fact vulnerable to attacks from silvered weapons.
+```
+
+```col-md
+
+![[plots/howling-in-the-woods/table-of-contents]]
+
+```
+````
+
+
+
+---
+
+````col
+```col-md
+Previous: bf95be4b-ccde-4ebb-b90b-66c63a8cb082
+```
+
+```col-md
+textAlign=right
+===
+
+```
+````

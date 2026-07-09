@@ -7,11 +7,11 @@
 
 
 >[!infobox]
->![[image link]]
+>![[image-link]]
 >
 >---
 > 
->![[plot/xxxx/Table of Contents]]
+>![[plots/xxxx/table-of-contents]]
 >
 >---
 >
@@ -20,11 +20,11 @@
 >**Parent Plot:**  
 >
 >**Related Characters:**
->- [[Character Link]]
+>- [[character-link]]
 >
 >**Related Organizations:**
->- [[Organization Link]]
+>- [[organization-link]]
 >
 >**Related Locations:**
->- [[Location Link]]
+>- [[location-link]]
 >
