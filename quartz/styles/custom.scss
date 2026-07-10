@@ -1,6 +1,6 @@
 @use "./variables.scss" as *;
-@use "callouts-outlined.css";
-@use "read-aloud-callout.css";
-@use "custom-hr.css";
-@use "timeline.css";
-@use "infobox.css";
+@import "callouts-outlined.css";
+@import "read-aloud-callout.css";
+@import "custom-hr.css";
+@import "timeline.css";
+@import "infobox.css";
