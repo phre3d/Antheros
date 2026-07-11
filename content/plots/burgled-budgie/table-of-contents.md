@@ -5,8 +5,8 @@
 **[[plots/burgled-budgie/the-conclusion|The Conclusion]]**<br>
 **Maps**<br>
 $\quad$*Windlewood Manor*<br>
-$\quad$$\quad$- *[[plots/burgled-budgie/maps/burgled-budgie-maps#first-floor|First Floor]]*<br>
-$\quad$$\quad$- *[[plots/burgled-budgie/maps/burgled-budgie-maps#second-floor|Second Floor]]*<br>
-$\quad$$\quad$- *[[plots/burgled-budgie/maps/burgled-budgie-maps#roof|Roof]]*<br>
-$\quad$*[[plots/burgled-budgie/maps/burgled-budgie-maps#warehouse|Store & Warehouse]]*<br>
+$\quad$$\quad$- *[[plots/burgled-budgie/maps/maps#first-floor|First Floor]]*<br>
+$\quad$$\quad$- *[[plots/burgled-budgie/maps/maps#second-floor|Second Floor]]*<br>
+$\quad$$\quad$- *[[plots/burgled-budgie/maps/maps#roof|Roof]]*<br>
+$\quad$*[[plots/burgled-budgie/maps/maps#warehouse|Store & Warehouse]]*<br>
 

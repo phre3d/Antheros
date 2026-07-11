@@ -1,16 +1,18 @@
 #map #Burgled_Budgie 
-# Windlewood Manor
-## First Floor
+# Battlemaps
+
+## Windlewood Manor
+### First Floor
 ![[plots/burgled-budgie/maps/windlewood-manor-1st-floor.jpg]]
 
-## Second Floor
+### Second Floor
 ![[plots/burgled-budgie/maps/windlewood-manor-2nd-floor.jpg]]
  
-## Roof
+### Roof
 ![[plots/burgled-budgie/maps/windlewood-manor-roof.jpg]]
 
 ---
 
-# Warehouse
+## Warehouse
 ![[plots/burgled-budgie/maps/warehouse.jpg]]
 

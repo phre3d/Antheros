@@ -132,3 +132,10 @@ Previous: [[plots/burgled-budgie/the-investigation|The Investigation]]
 Next: [[plots/burgled-budgie/the-conclusion|The Conclusion]]
 
 --- end-multi-column
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/burgled-budgie/the-investigation" class="internal-link">The Investigation</a></span>
+  <span class="nav-next">Next: <a href="plots/burgled-budgie/the-conclusion" class="internal-link">The Conclusion</a> →</span>
+</div>

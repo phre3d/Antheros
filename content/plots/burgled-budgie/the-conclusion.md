@@ -28,10 +28,20 @@ border: off
 shadow: off
 alignment: [Left, Right]
 ```
-Previous: [[plots/burgled-budgie/the-confrontation|The Confrontation]]
+Previous: <a href="plots/burgled-budgie/the-confrontation" class="internal-link">The Confrontation</a>
 
 --- end-column ---
 
 Next: 
 
 --- end-multi-column
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <a href="plots/burgled-budgie/the-confrontation" class="nav-prev internal-link">← Previous: The Confrontation</a>
+  <a href="plots/burgled-budgie/maps/maps" class="nav-next internal-link">Next: Maps →</a>
+</div>
+
+
+
