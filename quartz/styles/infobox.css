@@ -1,3 +1,5 @@
+/* Infobox callout for Quartz */
+
 :root {
     --infobox-font-size: 0.85em;
     --infobox-gap: 16px;
@@ -5,23 +7,23 @@
 }
 
 /* Widen the page when an infobox is present */
-.page-content:has([data-callout="infobox"]) {
+.markdown-preview-view:has([data-callout="infobox"]) {
     position: relative;
     max-width: calc(700px + var(--infobox-width));
 }
 
+/* Push main content left to make room */
+.markdown-preview-view:has([data-callout="infobox"]) > *:not(blockquote.callout.infobox) {
+    margin-right: calc(var(--infobox-width) + var(--infobox-gap));
+}
+
 /* Float the infobox to the right */
-.page-content > div:has([data-callout="infobox"]) {
+.markdown-preview-view blockquote.callout.infobox {
     position: absolute;
     right: 0;
     top: 0;
     width: var(--infobox-width);
     margin-bottom: 1em;
-}
-
-/* Push main content left to make room */
-.page-content > *:not(div:has([data-callout="infobox"])) {
-    margin-right: calc(var(--infobox-width) + var(--infobox-gap));
 }
 
 /* Infobox base styles */
@@ -49,7 +51,7 @@
 }
 
 [data-callout="infobox"] .callout-content h3 {
-    background: var(--light);
+    background: var(--lightgray);
     font-size: 1.0625em;
     margin: 0.25em 0 !important;
     padding: 0.25em 0.5em;
@@ -102,15 +104,15 @@
 
 /* Mobile - stack infobox above content */
 @media (max-width: 768px) {
-    .page-content:has([data-callout="infobox"]) {
+    .markdown-preview-view:has([data-callout="infobox"]) {
         max-width: 100%;
     }
-    .page-content > div:has([data-callout="infobox"]) {
+    .markdown-preview-view blockquote.callout.infobox {
         position: relative;
         right: auto;
         width: 100%;
     }
-    .page-content > *:not(div:has([data-callout="infobox"])) {
+    .markdown-preview-view:has([data-callout="infobox"]) > *:not(blockquote.callout.infobox) {
         margin-right: 0;
     }
 }
