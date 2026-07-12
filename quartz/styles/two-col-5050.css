@@ -1,0 +1,21 @@
+.two-col-7030 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 2em;
+    align-items: start;
+}
+
+.two-col-5050 .col-left {
+    min-width: 0;
+}
+
+.two-col-5050 .col-right {
+    min-width: 0;
+}
+
+/* Stack on mobile */
+@media (max-width: 800px) {
+    .two-col-5050 {
+        grid-template-columns: 1fr;
+    }
+}
