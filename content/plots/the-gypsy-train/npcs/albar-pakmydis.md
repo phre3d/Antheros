@@ -11,6 +11,8 @@ tags:
 date modified: 2026-06-12, 3:33:29 pm
 twin: "[[plots/the-gypsy-train/npcs/aldor-pakmydis]]"
 twin_id: aldor-pakmydis
+father: "[[ambrosis-pakmydis|Ambrosis Pakmydas]]"
+father_id: ambrosis-pakmydis
 ---
 
 #person #npc #The_Gypsy_Train
@@ -21,7 +23,7 @@ size, race (type), alignment
 
 **Profession:**
 
-**Armour Class:** <br>
+**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
 **Hit Points:** <br>
 **Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:*
 

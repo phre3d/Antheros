@@ -11,6 +11,8 @@ children_id:
   - dinmiel-prusas
 friend: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
 friend_id: balkrin-vanagas
+spouse: "[[trynkara-prusas|Trynkara Prusas]]"
+spouse_id: trynkara-prusas
 ---
 #person #npc #The_Gypsy_Train 
 # Bronkar Prusas
@@ -18,9 +20,9 @@ size, race (type), alignment
 
 **Profession:**
 
-**Armour Class:** <br>
+**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
 **Hit Points:** <br>
-**Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:* 
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
 
 ---
 

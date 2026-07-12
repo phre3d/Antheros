@@ -7,9 +7,9 @@
 **[[plots/sins-of-the-past/resolution|Resolution]]**
 
 **Appendices**<br>
-$\quad$- A. [[plots/sins-of-the-past/magic-items|Magic Items]]<br>
-$\quad$- B. [[plots/sins-of-the-past/monster-stats|Monster Stats]]<br>
-$\quad$- C. [[plots/sins-of-the-past/npcs|NPCs]]<br>
-$\quad$- D. [[plots/sins-of-the-past/supernatual-regions|Supernatual Regions]]
+&nbsp;&nbsp;&nbsp;&nbsp;- A. [[plots/sins-of-the-past/magic-items|Magic Items]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- B. [[plots/sins-of-the-past/monster-stats|Monster Stats]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- C. [[plots/sins-of-the-past/npcs|NPCs]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- D. [[plots/sins-of-the-past/supernatual-regions|Supernatual Regions]]
  
 ---

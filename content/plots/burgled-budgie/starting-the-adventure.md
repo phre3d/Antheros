@@ -39,19 +39,10 @@ Eventually she will dismiss the party to begin the investigation. If they want t
 >![[plots/burgled-budgie/images/higgins.jpg]]
 >
 
----
---- start-multi-column ---
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-Previous: [[plots/burgled-budgie/burgled-budgie|Introduction]]
 
---- end-column ---
-
-Next: [[plots/burgled-budgie/the-investigation|The Investigation]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/burgled-budgie/burgled-budgie" class="internal-link">Introduction</a></span>
+  <span class="nav-next">Next: <a href="plots/burgled-budgie/the-investigation" class="internal-link">The Investigation</a> →</span>
+</div>

@@ -10,7 +10,7 @@ Huge monstrosity unaligned
 **Armour Class:** 17<br>
 **Hit Points:** 200<br>
 **Proficiency Bonus:** <br>
-**Movement:** 20$\quad$ *Burrow:* 30
+**Movement:** 20&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 30
 
 ---
 

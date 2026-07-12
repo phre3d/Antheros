@@ -11,6 +11,8 @@ tags:
   - person
   - The_Gypsy_Train
 date modified: 2026-06-12, 3:51:23 pm
+father: "[[scordraal-pakmydis|Scordraal Pakmydas]]"
+father_id: scordraal-pakmydis
 ---
 
 #person #npc #The_Gypsy_Train
@@ -21,9 +23,9 @@ Small, humanoid (human), chaotic good
 
 **Profession:**
 
-**Armour Class:** <br>
+**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
 **Hit Points:** <br>
-**Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:*
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 ---
 

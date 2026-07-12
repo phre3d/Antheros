@@ -14,7 +14,7 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 14 (natural armor)<br>
 **Hit Points:** 27 [roll:6d6 + 6]<br>
-**Movement:** $\quad$ *Hover:* 30
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 30
 
 ---
 

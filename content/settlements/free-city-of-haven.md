@@ -126,31 +126,31 @@ Less publicly known groups include:
 **Burroughs and Neighborhoods** 
 1. [[settlements/the-heights|The Heights]]
 2. [[settlements/the-north-corridor|The North Corridor]]<br>
-$\quad$[[settlements/barristers-maze|Barristers' Maze]]<br>
-$\quad$[[settlements/believers-lane|Believer's Lane]]<br>
-$\quad$[[settlements/the-glens|The Glens]]<br>
-$\quad$[[settlements/trademasters-square|Trademasters' Square]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/barristers-maze|Barristers' Maze]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/believers-lane|Believer's Lane]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-glens|The Glens]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/trademasters-square|Trademasters' Square]]<br>
 3. [[settlements/trade-island|Trade Island]]
 4. [[settlements/the-bridges|The Bridges]]
 5. [[settlements/the-commons|The Commons]]<br>
-$\quad$[[settlements/the-south-docks|The South Docks]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-south-docks|The South Docks]]<br>
 6. [[settlements/the-labyrinth|The Labyrinth]]<br>
-$\quad$[[settlements/the-street-of-silk-veils|The Street of Silk Veils]]<br>
-$\quad$[[settlements/the-forgotten-city|The Forgotten City]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-street-of-silk-veils|The Street of Silk Veils]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-forgotten-city|The Forgotten City]]<br>
 7. [[settlements/the-south-corridor|The South Corridor]]<br>
-$\quad$[[settlements/horse-market|Horse Market]]<br>
-$\quad$[[settlements/magic-street|Magic Street]]<br>
-$\quad$[[settlements/south-caravan-street|South Caravan Street]]<br>
-$\quad$[[settlements/the-street-of-harps|The Street of Harps]]<br>
-$\quad$[[settlements/the-cleff|The Cleff]]<br>
-$\quad$[[landmarks/the-grey-halls|The Grey Halls]]<br>
-$\quad$[[settlements/thieves-market|Thieves' Market]]
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/horse-market|Horse Market]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/magic-street|Magic Street]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/south-caravan-street|South Caravan Street]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-street-of-harps|The Street of Harps]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-cleff|The Cleff]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[landmarks/the-grey-halls|The Grey Halls]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/thieves-market|Thieves' Market]]
 8. [[settlements/the-outlands|The Outlands]]<br>
-$\quad$[[settlements/erinhir|Erinhir]]<br>
-$\quad$[[settlements/the-dwarrow|The Dwarrow]]<br>
-$\quad$[[settlements/the-dell|The Dell]]<br>
-$\quad$[[settlements/the-cauldron|The Cauldron]]<br>
-$\quad$[[settlements/scholars-triangle|Scholar's Triangle]]
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/erinhir|Erinhir]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-dwarrow|The Dwarrow]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-dell|The Dell]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/the-cauldron|The Cauldron]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/scholars-triangle|Scholar's Triangle]]
 
 ---
 

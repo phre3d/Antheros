@@ -15,6 +15,8 @@ cousin: "[[plots/the-gypsy-train/npcs/rymvid-galinys]]"
 cousin_id: rymvid-galinys
 friend: "[[plots/the-gypsy-train/npcs/bronkar-prusas]]"
 friend_id: bronkar-prusas
+mother: "[[hyrina-vanagas|Hyrina Vanagas]]"
+mother_id: hyrina-vanagas
 ---
 
 #person #npc #The_Gypsy_Train
@@ -25,7 +27,7 @@ Medium, humanoiid (human), chaotic neutral
 
 **Profession:** Fighter (5th)
 
-**Armour Class:** 16 (leather & ring)<br>
+**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;(leather & ring)<br>
 **Hit Points:** 52 (5d10+32)<br>
 **Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:*
 

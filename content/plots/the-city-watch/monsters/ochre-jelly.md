@@ -10,7 +10,7 @@ Large Ooze unaligned
 **Armour Class:** 8<br>
 **Hit Points:** 45 [roll:6d10 + 12]<br>
 **Proficiency Bonus:** <br>
-**Movement:** 10$\quad$ *Climb:* 10
+**Movement:** 10&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 10
 
 ---
 

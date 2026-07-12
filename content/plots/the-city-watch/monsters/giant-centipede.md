@@ -10,7 +10,7 @@ Small beast unaligned
 **Armour Class:** 13 (natural armor)<br>
 **Hit Points:** 4 [roll:1d6+1]<br>
 **Proficiency Bonus:** <br>
-**Movement:** 30$\quad$ *Climb:* 30
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 30
 
 ---
 

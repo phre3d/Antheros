@@ -111,27 +111,8 @@ This is Herbert’s bedroom. It contains a bureau, his cologne, books on transmu
 >---
 >
 >*Store & Warehouse*
-><a class="internal-link" href="plots/burgled_budgie/maps/burgled-budgie-maps#Warehouse"><img src="plots/burgled_budgie/maps/warehouse.jpg"/></a>
+><a class="internal-link" href="plots/burgled_budgie/maps/burgled-budgie-maps#Warehouse"><img src="plots/burgled-budgie/maps/warehouse.jpg"/></a>
 
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
---- start-multi-column ---
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-Previous: [[plots/burgled-budgie/the-investigation|The Investigation]]
-
---- end-column ---
-
-Next: [[plots/burgled-budgie/the-conclusion|The Conclusion]]
-
---- end-multi-column
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>

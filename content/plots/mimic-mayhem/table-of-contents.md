@@ -1,10 +1,10 @@
 #plot #Mimic_Mayhem
 
 **[[plots/mimic-mayhem/mimic-mayhem|Introduction]]**<br>
-$\quad$[[plots/mimic-mayhem/the-adventure-begins|The Adventure Begins]]<br>
-$\quad$ [[plots/mimic-mayhem/the-hallway-battle|The Hallway Battle]]<br>
-$\quad$ [[plots/mimic-mayhem/the-leisure-room|The Leisure Room]]<br>
-$\quad$ [[plots/mimic-mayhem/the-stable|The Stable]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/the-adventure-begins|The Adventure Begins]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[plots/mimic-mayhem/the-hallway-battle|The Hallway Battle]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[plots/mimic-mayhem/the-leisure-room|The Leisure Room]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[plots/mimic-mayhem/the-stable|The Stable]]<br>
 $\quad$ [[plots/mimic-mayhem/the-alley|The Alley]]<br>
 **[[plots/mimic-mayhem/the-solution|The Solution]]**<br>
 **NPCs**<br>

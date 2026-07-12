@@ -10,7 +10,7 @@ Small monstrosity unaligned
 **Armour Class:** 11<br>
 **Hit Points:** 27 [roll:d6 + 6]<br>
 **Proficiency Bonus:** <br>
-**Movement:** 20$\quad$ *Fly:* 40
+**Movement:** 20&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 40
 
 ---
 

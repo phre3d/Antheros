@@ -56,23 +56,8 @@ Special thanks to family and friends for playtesting and feedback.
 For more exciting adventures, settings, and mechanics, visit us at [Pandamancer.com](https://pandamancer.com)
 
 
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
---- start-multi-column ---
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-
-
---- end-column ---
-
-Next: [[plots/burgled-budgie/starting-the-adventure|Starting the Adventure]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+   <span class="nav-next">Next: <a href="plots/burgled-budgie/starting-the-adventure" class="internal-link">Starting the Adventure</a> →</span>
+</div>

@@ -10,7 +10,7 @@ Large beast chaotic neutral
 **Armour Class:** 15 (natural armor)<br>
 **Hit Points:**  76 [roll:8d10 + 32]<br>
 **Proficiency Bonus:** +4<br>
-**Movement:** 40$\quad$ *Climb:* 30
+**Movement:** 40&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp; *Climb:* 30
 
 ---
 

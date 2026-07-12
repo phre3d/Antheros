@@ -10,7 +10,7 @@ Medium Undead any
 **Armour Class:** 11<br>
 **Hit Points:** 45 [roll:10d8]<br>
 **Proficiency Bonus:** <br>
-**Movement:** $\quad$ *Fly:* 40
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 40
 
 ---
 

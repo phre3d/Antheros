@@ -10,7 +10,7 @@ Medium Undead Any evil
 **Armour Class:** 11<br>
 **Hit Points:** 14 [roll:2d8+6]<br>
 **Proficiency Bonus:** 2<br>
-**Movement:** $\quad$ *Fly:* 40
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 40
 
 ---
 

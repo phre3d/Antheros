@@ -10,7 +10,7 @@ Medium monstrosity Neutral
 **Armour Class:** 14 (natural armor)<br>
 **Hit Points:** 27 [roll:6d8]<br>
 **Proficiency Bonus:** <br>
-**Movement:** 30$\quad$ *Climb:* 30
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 30
 
 ---
 

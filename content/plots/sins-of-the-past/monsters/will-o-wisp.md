@@ -10,7 +10,7 @@ Tiny Undead Chaotic Evil
 **Armour Class:** 19<br>
 **Hit Points:** 22 [roll:9d4]<br>
 **Proficiency Bonus:** <br>
-**Movement:** $\quad$ *Fly:* 50
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 50
 
 ---
 

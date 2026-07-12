@@ -10,7 +10,7 @@ Medium Elemental Chaotic Evil
 **Armour Class:** 15 (natural)<br>
 **Hit Points:** 28 [roll:7d8]<br>
 **Proficiency Bonus:** 2<br>
-**Movement:** 30$\quad$ *Fly:* 60
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 60
 
 ---
 

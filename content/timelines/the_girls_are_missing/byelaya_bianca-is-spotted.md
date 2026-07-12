@@ -26,14 +26,14 @@ See [[plots/free-city-of-haven/scenarios/the-noblemans-daughter|The Nobleman's D
 **Conflict:** 
 
 **Characters:** <br>
-$\quad$[[person/bianca|Bianca]] / [[person/byelaya-tainley|Byelaya Tainley]]<br>
-$\quad$[[person/cortina-de-la-riis|Cortina de la Riis]]<br>
-$\quad$[[person/thomas-de-la-riis|Thomas de la Riis]]
+&nbsp;&nbsp;&nbsp;&nbsp;[[person/bianca|Bianca]] / [[person/byelaya-tainley|Byelaya Tainley]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[person/cortina-de-la-riis|Cortina de la Riis]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[person/thomas-de-la-riis|Thomas de la Riis]]
  
 **Organizations:** 
 
 **Timelines**<br>
-$\quad$[[timeline/the-girls-are-missing]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[timeline/the-girls-are-missing]]<br>
 
 ```
 

@@ -4,6 +4,8 @@ cr_id: ryndana-gudas
 name: Ryndana Gudas
 sex: female
 born: 1156
+father: "[[javyd-gudas|Javyd Gudas]]"
+father_id: javyd-gudas
 ---
 #person #npc #The_Gypsy_Train 
 # Ryndana Gudas
@@ -11,9 +13,9 @@ Medium, humanoid (half-elf), chaotic good
 
 **Profession:** Wizard (1st)
 
-**Armour Class:** <br>
+**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
 **Hit Points:** <br>
-**Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:* 
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
 
 ---
 

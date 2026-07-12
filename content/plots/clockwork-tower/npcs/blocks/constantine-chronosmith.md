@@ -14,7 +14,7 @@ flexGrow=2
 **Alignment:** Chaotic Neutral<br>
 **Armour Class:** 13<br>
 **Hit Points:** 45 [roll:10d8]<br>
-**Movement:** $\quad$ *Hover:* 40
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 40
 
 ---
 

@@ -4,6 +4,8 @@ cr_id: dravyn-gudas
 name: Dravyn Gudas
 sex: male
 born: 1153
+father: "[[javyd-gudas|Javyd Gudas]]"
+father_id: javyd-gudas
 ---
 #person #npc #The_Gypsy_Train 
 # Dravyn Gudas
@@ -11,7 +13,7 @@ size, race (type), alignment
 
 **Profession:**
 
-**Armour Class:** <br>
+**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
 **Hit Points:** <br>
 **Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:* 
 

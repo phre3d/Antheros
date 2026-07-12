@@ -10,7 +10,7 @@ Medium Undead Chaotic Evil
 **Armour Class:** 12<br>
 **Hit Points:** 22 [roll:5d8]<br>
 **Proficiency Bonus:** <br>
-**Movement:** $\quad$ *Fly:* 50
+**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 50
 
 ---
 

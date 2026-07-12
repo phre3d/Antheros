@@ -10,7 +10,7 @@ Medium Undead (Ghost) any
 **Armour Class:** 11<br>
 **Hit Points:** 45 [roll:10d8]<br>
 **Proficiency Bonus:** <br>
-**Movement:** 0$\quad$ *Fly:* 40
+**Movement:** 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 40
 
 ---
 

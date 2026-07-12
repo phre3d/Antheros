@@ -2,6 +2,9 @@
 #plot  #Burgled_Budgie  
 # The Investigation
 
+<div class="two-col-7030">
+   <div class="col-left">
+
 There are numerous people and places involved in this caper, and it’s up to the PCs to put together the series of events and figure out what’s important and what’s not! Listed below are some of the important locations and NPCs in Windlewood Manor.
 
 ## Lady Windlewood’s Study
@@ -62,42 +65,32 @@ If the PCs bring the crumpled drawing to their attention, both Pemma and Karvatt
 ---
 
 # Tibbles and the Snipe
-If the players are having a hard time figuring out where to go next in their investigation or are missing some key information, Tibbles will approach and fill them in. This little orange short-hair tabby with white paws, green eyes, and a black collar is actually Herbert’s familiar. She can speak aloud thanks to an enchantment on the collar. She won’t willingly let anyone touch the collar, as it’s her only way to communicate with people. Herbert has concocted an altered version of find familiar that permits him to form a bond with ordinary animals, and it is this spell that he’s hoping to use on the phoenix once his preparations are finished. Tibbles is a normal cat who has been made into a familiar using this spell a couple of years ago. She doesn’t remember much about her “normal” life before she had the collar and a master, and she  can’t offer any details on the process that granted her sentience.
+> If the players are having a hard time figuring out where to go next in their investigation or are missing some key information, Tibbles will approach and fill them in. This little orange short-hair tabby with white paws, green eyes, and a black collar is actually Herbert’s familiar. She can speak aloud thanks to an enchantment on the collar. She won’t willingly let anyone touch the collar, as it’s her only way to communicate with people. Herbert has concocted an altered version of find familiar that permits him to form a bond with ordinary animals, and it is this spell that he’s hoping to use on the phoenix once his preparations are finished. Tibbles is a normal cat who has been made into a familiar using this spell a couple of years ago. She doesn’t remember much about her “normal” life before she had the collar and a master, and she  can’t offer any details on the process that granted her sentience.
 
 If the PCs talk to her, Tibbles will reveal that she’s been hunting for a snipe all day with no luck. She’s been following the group around for a while as she noticed they are looking for something themselves, and she hopes they can help her. Her master has been busy in his workshop all day ignoring her continuous questions, and finally told her to go find a snipe. She can be convinced to lead the PCs to the warehouse but won’t go in herself as her master ordered her not to return until she finds a snipe. She recognizes the scent on the paper as his smell. She doesn’t know his name and is not good at physical descriptions, because “all you two-leggers look the same from down here.”
 
->[!infobox]
->![[plots/burgled-budgie/table-of-contents]]
->
->---
->
->*The Drawing*
->![[plots/burgled-budgie/images/wax-drawing.jpg]]
->
->---
->
->*Windlewood Manor, 1st Floor*
-><a class="internal-link" href="plots/burgled_budgie/maps/burgled-budgie-maps#first floor"><img src="plots/burgled_budgie/maps/windlewood-manor-1st-Floor.jpg"/></a>
->
+ </div>
+<div class="col-right">
 
-
-
-<!-- Standard footer using "Multi-Columns" plugin -->
+![[plots/burgled-budgie/table-of-contents|Table of Contents]]
 
 ---
 
---- start-multi-column ---
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-Previous: [[plots/burgled-budgie/starting-the-adventure|Starting the Adventure]]
+*The Drawing*
+![[plots/burgled-budgie/images/wax-drawing.jpg]]
 
---- end-column ---
+---
 
-Next: [[plots/burgled-budgie/the-confrontation|The Confrontation]]
+*Windlewood Manor, 1st Floor*
+<a class="internal-link" href="plots/burgled-budgie/maps/maps##first floor"><img src="plots/burgled-budgie/maps/windlewood-manor-1st-Floor.jpg"/></a>
 
---- end-multi-column
+</div>
+</div>
+
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/burgled-budgie/starting-the-adventure" class="internal-link">Starting the Adventure]</a></span>
+  <span class="nav-next">Next: <a href="plots/burgled-budgie/the-confrontation" class="internal-link">The Confrontation</a> →</span>
+</div>

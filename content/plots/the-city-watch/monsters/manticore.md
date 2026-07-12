@@ -10,7 +10,7 @@ Large monstrosity Lawful Evil
 **Armour Class:** 14 (natural armor)<br>
 **Hit Points:** 68 [roll:8d10+24]<br>
 **Proficiency Bonus:** <br>
-**Movement:** 30$\quad$ *Fly:* 50
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 50
 
 ---
 
