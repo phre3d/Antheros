@@ -23,9 +23,9 @@ size, race (type), alignment
 
 **Profession:**
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
+**Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:*
+**Movement:** 30
 
 ---
 

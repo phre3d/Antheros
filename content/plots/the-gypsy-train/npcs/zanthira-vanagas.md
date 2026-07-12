@@ -5,14 +5,15 @@ name: Zanthira Vanagas
 sex: female
 born: 1134
 children:
-  - "[[plots/the-gypsy-train/npcs/ismek-vanagas|Ismek Vanagas]]"
-  - "[[plots/the-gypsy-train/npcs/kordaal-vanagas|Kordaal Vanagas]]"
-  - "[[plots/the-gypsy-train/npcs/selynis-vanagas|Selynis Vanagas]]"
+  - "[[plots/the-gypsy-train/npcs/ismek-vanagas]]"
+  - "[[plots/the-gypsy-train/npcs/kordaal-vanagas]]"
+  - "[[plots/the-gypsy-train/npcs/selynis-vanagas]]"
 children_id:
   - ismek-vanagas
   - kordaal-vanagas
   - selynis-vanagas
 spouse: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
+spouse_id: balkrin-vanagas
 ---
 #person #npc #The_Gypsy_Train 
 # Zanthira Vanagas
@@ -22,7 +23,7 @@ Medium, humanoid (human), chaotic neutral
 
 **Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 
@@ -54,7 +55,7 @@ Medium, humanoid (human), chaotic neutral
 
 Zanthira is a delicate-looking woman in her late 30s who is *usually kept locked away in the Vanagas family wagon*. The only visible evidence of her existence is seen when she occasionally peeks through the shutters of the windows on her wagon, or on those rare occasions when Balkrin has her drive the wagon. 
 
-Someone in a party of visitors is likely to notice her at the window, because she will be very curious about the strangers. But if she realizes that she has been seen, she will move away from the shutters, dis­appearing from sight.
+Someone in a party of visitors is likely to notice her at the window, because she will be very curious about the strangers. But if she realizes that she has been seen, she will move away from the shutters, disappearing from sight.
 
 Zanthira is a 2nd-level human thief, chaotic neutral, with Str 7, Int 7, Wis 14, Dex 16, Con 15, Cha 17, AC 8, and 7 hp. She wears no armor and possesses a _dagger_, a _short bow_ (hidden under her bed), 20 normal arrows, and 5 _+7 arrows._
 

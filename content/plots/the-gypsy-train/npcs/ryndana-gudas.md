@@ -4,8 +4,10 @@ cr_id: ryndana-gudas
 name: Ryndana Gudas
 sex: female
 born: 1156
-father: "[[javyd-gudas|Javyd Gudas]]"
+father: "[[plots/the-gypsy-train/npcs/javyd-gudas|Javyd Gudas]]"
 father_id: javyd-gudas
+mother: "[[tierza-gudas|Tierza Gudas]]"
+mother_id: tierza-gudas
 ---
 #person #npc #The_Gypsy_Train 
 # Ryndana Gudas
@@ -13,9 +15,9 @@ Medium, humanoid (half-elf), chaotic good
 
 **Profession:** Wizard (1st)
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
+**Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 
@@ -43,7 +45,7 @@ Medium, humanoid (half-elf), chaotic good
 ---
 
 # Description
-Daughter of [[plots/the-gypsy-train/npcs/javyd-gudas|Javyd]] and [[plots/the-gypsy-train/npcs/tierza-gudas|Tierza Gudas]]
+Daughter of [[plots/the-gypsy-train/npcs/javyd-gudas|Javyd]] and [[plots/the-gypsy-train/npcs/tierza-gudas|Tierza]]
 
 Ryndana is an attractive young lady who is training as a magic-user under her mother’s guidance. It is known around the camp that Kordaal Vanagas (wagon B), the next leader of the caravan, has been eyeing her lately with possible thoughts for the future.
 

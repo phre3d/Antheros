@@ -4,14 +4,15 @@ cr_id: selynis-vanagas
 name: Selynis Vanagas
 sex: female
 born: 1165
+mother: "[[plots/the-gypsy-train/npcs/zanthira-vanagas|Zanthira Vanagas]]"
 mother-id: zanthira-vanagas
+father: "[[plots/the-gypsy-train/npcs/balkrin-vanagas|Balkrin Vanagas]]"
+father_id: balkrin-vanagas
 tags:
   - npc
   - person
   - The_Gypsy_Train
 date modified: 2026-06-12, 4:09:54 pm
-mother: "[[zanthira-vanagas|Zanthira Vanagas]]"
-mother_id: zanthira-vanagas
 ---
 
 #person #npc #The_Gypsy_Train
@@ -22,9 +23,9 @@ Small, humanoid (human), chaotic good
 
 **Profession:**
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
+**Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
+**Movement:** 30
 
 ---
 

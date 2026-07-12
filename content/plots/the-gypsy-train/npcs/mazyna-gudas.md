@@ -4,7 +4,9 @@ cr_id: mazyna-gudas
 name: Mazyna Gudas
 sex: female
 born: 1165
-father: "[[javyd-gudas|Javyd Gudas]]"
+mother: "[[plots/the-gypsy-train/npcs/tierza-gudas]]"
+mother_id: tierza-gudas
+father: "[[plots/the-gypsy-train/npcs/javyd-gudas|Javyd Gudas]]"
 father_id: javyd-gudas
 ---
 #person #npc #The_Gypsy_Train 
@@ -13,9 +15,9 @@ Medium, humanoid (half-elf), chaotic good
 
 **Profession:**
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;br>
+**Armour Class:** 10<br>
 **Hit Points:** 2<br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 

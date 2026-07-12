@@ -4,15 +4,12 @@ cr_id: bronkar-prusas
 name: Bronkar Prusas
 sex: male
 born: 1139
+spouse: "[[plots/the-gypsy-train/npcs/trynkara-prusas|Trynkara Prusas]]"
 spouse-id: trynkara-prusas
-children:
-  - "[[plots/the-gypsy-train/npcs/dinmiel-prusas]]"
-children_id:
-  - dinmiel-prusas
+children: "[[plots/the-gypsy-train/npcs/dinmiel-prusas]]"
+children_id: dinmiel-prusas
 friend: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
 friend_id: balkrin-vanagas
-spouse: "[[trynkara-prusas|Trynkara Prusas]]"
-spouse_id: trynkara-prusas
 ---
 #person #npc #The_Gypsy_Train 
 # Bronkar Prusas
@@ -20,9 +17,9 @@ size, race (type), alignment
 
 **Profession:**
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
+**Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 
@@ -50,7 +47,7 @@ size, race (type), alignment
 ---
 
 # Description
-[[plots/the-gypsy-train/npcs/balkrin-vanagas|Balkrin Vanagas']] friend
+[[plots/the-gypsy-train/npcs/Balkrin-vanagas|Balkrin Vanagas']] friend
 
 Bronkar and his family are a bit younger than the rest of the families; Bronkar himself is only 33 years old. This explains why they share a household wagon with another family, and in a position toward the back of the train. Despite this status, Bronkar is grateful to the rest of the group because before he joined, he had no means of support. 
 

@@ -4,13 +4,12 @@ cr_id: scordraal-pakmydis
 name: Scordraal Pakmydas
 sex: male
 born: 1144
-spouse-id: cannelia-pakmydis
-children:
-  - "[[plots/the-gypsy-train/npcs/premirina-pakmydis|Premirina Pakmydis]]"
-children_id:
-  - premirina-pakmydis
+children: "[[plots/the-gypsy-train/npcs/premirina-pakmydis|Premirina Pakmydis]]"
+children_id: premirina-pakmydis
 sibling: "[[plots/the-gypsy-train/npcs/ambrosis-pakmydis]]"
 sibling_id: ambrosis-pakmydis
+spouse: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis|Cannelia Pakmydas]]"
+spouse_id: cannelia-pakmydis
 ---
 #person #npc #The_Gypsy_Train 
 # Scordraal Pakmydis
@@ -20,7 +19,7 @@ Medium, humanoid (human), Chaotic Neutral
 
 **Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 

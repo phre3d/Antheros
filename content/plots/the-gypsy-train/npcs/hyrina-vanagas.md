@@ -5,10 +5,8 @@ name: Hyrina Vanagas
 alt-name: Mama Hyrina
 sex: female
 born: 1110
-children:
-  - "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
-children_id:
-  - balkrin-vanagas
+children: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
+children_id: balkrin-vanagas
 ---
 #person #npc #The_Gypsy_Train 
 # Hyrina Vanagas (Mama Hyrina)
@@ -18,7 +16,7 @@ Medium, humanoid (human), chaotic good
 
 **Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 25
 
 ---
 
@@ -40,7 +38,7 @@ Medium, humanoid (human), chaotic good
 **Skills:** 
 
 >[!infobox]
->![[plots/the-gypsy-train/images/mama-hyrina.jpg]]
+>![[plots/The Gypsy Train/Images/Mama Hyrina.jpg]]
 >
 
 ---

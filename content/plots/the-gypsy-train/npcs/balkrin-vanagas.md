@@ -4,19 +4,27 @@ cr_id: balkrin-vanagas
 name: Balkrin Vanagas
 sex: male
 born: 1128
+mother: "[[plots/the-gypsy-train/npcs/Hyrina-vanagasHyrina Vanagas]]"
 mother-id: hyrina-vanagas
-spouse: "[[plots/the-gypsy-train/npcs/zanthira-vanagas]]"
+children:
+  - "[[plots/the-gypsy-train/npcs/Ismek-vanagasIsmek Vanagas]]"
+  - "[[plots/the-gypsy-train/npcs/Kordaal-vanagasKordaal Vanagas]]"
+  - "[[plots/the-gypsy-train/npcs/Selynis-vanagasSelynis Vanagas]]"
+children_id:
+  - ismek-vanagas
+  - kordaal-vanagas
+  - selynis-vanagas
+spouse: "[[plots/the-gypsy-train/npcs/Zanthira Vanagas]]"
+spouse_id: zanthira-vanagas
 tags:
   - npc
   - person
   - The_Gypsy_Train
 date modified: 2026-06-12, 3:33:45 pm
-cousin: "[[plots/the-gypsy-train/npcs/rymvid-galinys]]"
+cousin: "[[plots/the-gypsy-train/npcs/Rymvid Galinys]]"
 cousin_id: rymvid-galinys
-friend: "[[plots/the-gypsy-train/npcs/bronkar-prusas]]"
+friend: "[[plots/the-gypsy-train/npcs/Bronkar Prusas]]"
 friend_id: bronkar-prusas
-mother: "[[hyrina-vanagas|Hyrina Vanagas]]"
-mother_id: hyrina-vanagas
 ---
 
 #person #npc #The_Gypsy_Train
@@ -27,7 +35,7 @@ Medium, humanoiid (human), chaotic neutral
 
 **Profession:** Fighter (5th)
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;(leather & ring)<br>
+**Armour Class:** 16 (leather & ring)<br>
 **Hit Points:** 52 (5d10+32)<br>
 **Movement:** $\quad$ *Burrow:* $\quad$ *Swim:* $\quad$ *Climb:* $\quad$ *Fly:* $\quad$ *Hover:*
 
@@ -46,7 +54,7 @@ Medium, humanoiid (human), chaotic neutral
 **Skills:** Athletics, Intimidation, Persuasion, Carpenter's tools, Thieves Tools, all Gaming sets
 
 >[!infobox]
->!![[plots/the-gypsy-train/images/balkrin-vanagas.jpg]]
+>![[plots/the-gypsy-train/images/balkrin-vanagas.jpg]]
 
 ---
 

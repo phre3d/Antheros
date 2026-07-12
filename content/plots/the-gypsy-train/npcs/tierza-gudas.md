@@ -6,9 +6,9 @@ sex: female
 born: 1011
 spouse: "[[plots/the-gypsy-train/npcs/javyd-gudas]]"
 children:
-  - "[[plots/the-gypsy-train/npcs/dravyn-gudas|Dravyn Gudas]]"
-  - "[[plots/the-gypsy-train/npcs/ryndana-gudas|Ryndana Gudas]]"
-  - "[[plots/the-gypsy-train/npcs/mazyna-gudas|Mazyna Gudas]]"
+  - "[[plots/the-gypsy-train/npcs/dravyn-gudas]]"
+  - "[[plots/the-gypsy-train/npcs/ryndana-gudas]]"
+  - "[[plots/the-gypsy-train/npcs/mazyna-gudas]]"
 children_id:
   - dravyn-gudas
   - ryndana-gudas

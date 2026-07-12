@@ -4,11 +4,9 @@ cr_id: trynkara-prusas
 name: Trynkara Prusas
 sex: female
 born: 1143
-spouse: "[[plots/the-gypsy-train/npcs/bronkar-prusas]]"
-children:
-  - "[[plots/the-gypsy-train/npcs/dinmiel-prusas]]"
-children_id:
-  - dinmiel-prusas
+spouse: "[[plots/the-gypsy-train/npcs/Bronkar Prusas]]"
+children: "[[plots/the-gypsy-train/npcs/Dinmiel Prusas]]"
+children_id: dinmiel-prusas
 ---
 #person #npc #The_Gypsy_Train 
 # Trynkara Prusas
@@ -18,7 +16,7 @@ size, race (type), alignment
 
 **Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 

@@ -4,6 +4,7 @@ cr_id: javyd-gudas
 name: Javyd Gudas
 sex: male
 born: 1130
+spouse: "[[plots/the-gypsy-train/npcs/tierza-gudas|Tierza Gudas]]"
 spouse-id: tierza-gudas
 children:
   - "[[plots/the-gypsy-train/npcs/dravyn-gudas|Dravyn Gudas]]"
@@ -13,7 +14,7 @@ children_id:
   - dravyn-gudas
   - ryndana-gudas
   - mazyna-gudas
-sibling: "[[plots/the-gypsy-train/npcs/survillo-gudas]]"
+sibling: "[[plots/the-gypsy-train/npcs/Survillo Gudas]]"
 sibling_id: survillo-gudas
 ---
 #person #npc #The_Gypsy_Train 
@@ -24,7 +25,7 @@ Medium, human, chaotic good
 
 **Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 

@@ -4,15 +4,17 @@ cr_id: premirina-pakmydis
 name: Premirina Pakmydas
 sex: female
 born: 1166
+father: "[[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal Pakmydis]]"
 father-id: scordraal-pakmydis
+mother: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis|Cannelia Pakmydis]]"
 mother-id: cannelia-pakmydis
 tags:
   - npc
   - person
   - The_Gypsy_Train
 date modified: 2026-06-12, 3:51:23 pm
-father: "[[scordraal-pakmydis|Scordraal Pakmydas]]"
-father_id: scordraal-pakmydis
+mother: "[[cannelia-pakmydis|Cannelia Pakmydas]]"
+mother_id: cannelia-pakmydis
 ---
 
 #person #npc #The_Gypsy_Train
@@ -23,9 +25,9 @@ Small, humanoid (human), chaotic good
 
 **Profession:**
 
-**Armour Class&nbsp;&nbsp;&nbsp;&nbsp;>
+**Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
+**Movement:** 30
 
 ---
 
@@ -53,7 +55,7 @@ Small, humanoid (human), chaotic good
 
 # Description
 
-[[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal's]] daughter
+Daughter of [[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal]] and [[plots/the-gypsy-train/npcs/cannelia-pakmydis|Cannelia]]
 
 Premirina is a quiet six-year-old girl who spends most of her time with [[plots/the-gypsy-train/npcs/selynis-vanagas|Selynis Vanagas]] (wagon A), her best friend.
 

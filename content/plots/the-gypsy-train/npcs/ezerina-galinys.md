@@ -3,6 +3,8 @@ cr_type: person
 cr_id: ezerina-galinys
 name: Ezerina Galinys
 sex: female
+spouse: "[[rymvid-galinys|Rymivd Galinys]]"
+spouse_id: rymvid-galinys
 ---
 #person #npc #The_Gypsy_Train 
 # Ezerina Galinys
@@ -12,7 +14,7 @@ size, race (type), alignment
 
 **Armour Class:** <br>
 **Hit Points:** <br>
-**Movement:** &nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* &nbsp;&nbsp;&nbsp;&nbsp; *Swim:* &nbsp;&nbsp;&nbsp;&nbsp; *Climb:* &nbsp;&nbsp;&nbsp;&nbsp; *Fly:* &nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 
+**Movement:** 30
 
 ---
 
