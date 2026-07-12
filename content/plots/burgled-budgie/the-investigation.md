@@ -1,9 +1,18 @@
-![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
 #plot  #Burgled_Budgie  
+![[plots/burgled-budgie/images/burgled-budgie-header.jpg|no-float]]
+>[!info]
+>![[plots/burgled-budgie/table-of-contents|Table of Contents]]
+>
+>---
+>
+>*The Drawing*
+>![[plots/burgled-budgie/images/wax-drawing.jpg]]
+>
+>---
+>
+>*Windlewood Manor, 1st Floor*
+><a class="internal-link" href="plots/burgled-budgie/maps/maps##first floor"><img src="plots/burgled-budgie/maps/windlewood-manor-1st-Floor.jpg"/></a>
 # The Investigation
-
-<div class="two-col-7030">
-   <div class="col-left">
 
 There are numerous people and places involved in this caper, and it’s up to the PCs to put together the series of events and figure out what’s important and what’s not! Listed below are some of the important locations and NPCs in Windlewood Manor.
 
@@ -69,28 +78,13 @@ If the PCs bring the crumpled drawing to their attention, both Pemma and Karvatt
 
 If the PCs talk to her, Tibbles will reveal that she’s been hunting for a snipe all day with no luck. She’s been following the group around for a while as she noticed they are looking for something themselves, and she hopes they can help her. Her master has been busy in his workshop all day ignoring her continuous questions, and finally told her to go find a snipe. She can be convinced to lead the PCs to the warehouse but won’t go in herself as her master ordered her not to return until she finds a snipe. She recognizes the scent on the paper as his smell. She doesn’t know his name and is not good at physical descriptions, because “all you two-leggers look the same from down here.”
 
- </div>
-<div class="col-right">
 
-![[plots/burgled-budgie/table-of-contents|Table of Contents]]
 
----
-
-*The Drawing*
-![[plots/burgled-budgie/images/wax-drawing.jpg]]
-
----
-
-*Windlewood Manor, 1st Floor*
-<a class="internal-link" href="plots/burgled-budgie/maps/maps##first floor"><img src="plots/burgled-budgie/maps/windlewood-manor-1st-Floor.jpg"/></a>
-
-</div>
-</div>
 
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>
 <div class="page-nav">
-  <span class="nav-prev">← Previous: <a href="plots/burgled-budgie/starting-the-adventure" class="internal-link">Starting the Adventure]</a></span>
+  <span class="nav-prev">← Previous: <a href="plots/burgled-budgie/starting-the-adventure" class="internal-link">Starting the Adventure</a></span>
   <span class="nav-next">Next: <a href="plots/burgled-budgie/the-confrontation" class="internal-link">The Confrontation</a> →</span>
 </div>
