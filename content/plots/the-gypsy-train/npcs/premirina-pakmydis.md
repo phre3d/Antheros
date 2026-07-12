@@ -13,8 +13,6 @@ tags:
   - person
   - The_Gypsy_Train
 date modified: 2026-06-12, 3:51:23 pm
-mother: "[[cannelia-pakmydis|Cannelia Pakmydas]]"
-mother_id: cannelia-pakmydis
 ---
 
 #person #npc #The_Gypsy_Train
