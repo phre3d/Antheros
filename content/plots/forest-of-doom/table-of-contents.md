@@ -4,9 +4,9 @@
 **[[plots/forest-of-doom/general-information|General Information]]**<br>
 **[[plots/forest-of-doom/the-forest|The Forest]]**<br>
 **[[plots/forest-of-doom/the-fortress|The Fortress]]**<br>
-$\quad$- [[plots/forest-of-doom/first-level|First Level]]<br>
-$\quad$- [[plots/forest-of-doom/second-level|Second Level]]<br>
-$\quad$- [[plots/forest-of-doom/third-level|Third Level]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/forest-of-doom/first-level|First Level]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/forest-of-doom/second-level|Second Level]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/forest-of-doom/third-level|Third Level]]<br>
 **Monsters**<br>
-$\quad$- [[plots/forest-of-doom/monsters/tentamort|Tentamort]]<br>
-$\quad$- Shadow Demon
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/forest-of-doom/monsters/tentamort|Tentamort]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Shadow Demon

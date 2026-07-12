@@ -14,7 +14,7 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Padded<br>
 **Hit Points:** 8<br>
-**Movement:** 35$\quad$ *Burrow:* 0$\quad$ *Swim:* 0$\quad$ *Climb:* 0$\quad$ *Fly:* 0$\quad$ *Hover:* 0
+**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
 
 ![[dndline.png]]
 

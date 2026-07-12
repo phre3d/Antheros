@@ -14,7 +14,7 @@ flexGrow=2
 **Alignment:** Any<br>
 **Armour Class:** 14 (studded leather)<br>
 **Hit Points:** 40<br>
-**Movement:** 30$\quad$ *Burrow:* 1
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 1
 
 ![[dndline.png]]
 
