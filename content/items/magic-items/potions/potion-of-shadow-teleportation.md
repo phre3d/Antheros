@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Shadow Teleportation
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 4,700gp
+
+
 ## Description
 A yellow mixture with blue accretions on the side. It smells like oranges and chocolate, but tastes like acid.
 
@@ -14,13 +21,13 @@ When you drink this potion, you can use a bonus action to teleport to an unoccup
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Earth  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Meenlock heart, Shadow Mastiff heart
@@ -32,21 +39,6 @@ When you drink this potion, you can use a bonus action to teleport to an unoccup
 *Spell Emulated:* *Teleport*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes 
-
-**Price:** 4,700gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

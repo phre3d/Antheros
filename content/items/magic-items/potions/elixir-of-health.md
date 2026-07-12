@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Elixir of Health
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** Permanent 
+>
+>**Price:** 120gp
+
+
 ## Description
 The clear red liquid has tiny bubbles of light in it. It smells like cucumber, but tastes like salt and peach.
 
@@ -14,13 +21,13 @@ When you drink this potion, it cures any disease afflicting you, and it removes 
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, it cures any disease afflicting you, and it removes 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** Permanent 
-
-**Price:** 120gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

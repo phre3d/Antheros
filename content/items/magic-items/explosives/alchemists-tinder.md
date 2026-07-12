@@ -1,10 +1,17 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Alchemist's Tinder
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Ignite <br>
+>**Duration:** Special 
+>
+>**Price:** 75gp
+
+
 ## Description
 This 6-inch-long, square wooden rod is coated with a dry alchemical substance, which is then coated with a layer of wax.
 
@@ -16,13 +23,13 @@ The fire is unaffected by wind or precipitation and inflicts 1d6 points of fire 
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Calcium Grease<br>
+**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -34,21 +41,6 @@ The fire is unaffected by wind or precipitation and inflicts 1d6 points of fire 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Common <br>
-**Effect Category:** Offensive
-
-**Application:**Ignite <br>
-**Duration:** Special 
-
-**Price:** 75gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

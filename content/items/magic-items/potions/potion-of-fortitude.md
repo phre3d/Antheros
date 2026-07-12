@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Fortitude
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** Special 
+>
+>**Price:** 550gp
+
+
 ## Description
 A bubbling potion that is yellow in color. It smells like vomit and rot, but tastes like vanilla and cucumber.
 
@@ -17,13 +24,13 @@ Additional potions drunk in the same 24-hour period have no effect.
 Everyone needs a boost sometimes, and this snake oil salesman came up with the perfect formula. He made a fortune selling cases of it from his wagon to farmers and other hard-working folks who could use a little boost now and then.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Earth  Life  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ Everyone needs a boost sometimes, and this snake oil salesman came up with the p
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** Special 
-
-**Price:** 550gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

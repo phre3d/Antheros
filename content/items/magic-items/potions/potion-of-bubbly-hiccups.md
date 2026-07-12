@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Bubbly Hiccups
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** 1d4 rounds 
+>
+>**Price:** 4,800gp
+
+
 ## Description
 A steaming, viscious elixir that is red in color. It smells like strawberries and caramel, but tastes like cucumber and melon.
 
@@ -19,13 +26,13 @@ The hiccups do not impact the imbiber's ability to function, and any bubble that
 An assassin created this potion as a tool to remove poisons from his body.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -37,21 +44,6 @@ An assassin created this potion as a tool to remove poisons from his body.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** 1d4 rounds 
-
-**Price:** 4,800gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

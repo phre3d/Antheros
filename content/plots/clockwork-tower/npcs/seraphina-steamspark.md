@@ -1,4 +1,4 @@
-#import #person #Clockwork_Tower #npc #the- #the-labyrinth #guild-of-metalsmiths
+#import #person #Clockwork_Tower #npc #the-labyrinth #guild-of-metalsmiths
 # Seraphina Steamspark
 
 ### 

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Magic Circle
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 262,000gp
+
+
 ## Description
 A steaming elixir that is violet in color. It smells like wine, but tastes like rot and strawberries.
 
@@ -18,13 +25,13 @@ In addition, aberrations, celestials, elementals, fey, fiends, and undead cannot
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -36,21 +43,6 @@ In addition, aberrations, celestials, elementals, fey, fiends, and undead cannot
 *Spell Emulated:* *Protection from Evil and Good*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 262,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

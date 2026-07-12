@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Translation
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 38,000gp
+
+
 ## Description
 A chunky elixir that is obsidian in color. It smells and tastes like rot.
 
@@ -15,13 +22,13 @@ Causes a translation bubble to extend 30 feet from the imbiber. Everyone within 
 A diplomat worked with an alchemist to create a marvelous potion to help secure treaties with far- flung regions, all speaking different dialects and even different languages.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ A diplomat worked with an alchemist to create a marvelous potion to help secure 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 38,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

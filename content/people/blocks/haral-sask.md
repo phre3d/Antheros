@@ -1,4 +1,4 @@
-#import #statblock #person #npc #nps #Sins_of_the_Past
+#import #statblock #person #npc #npc #Sins_of_the_Past
 # Haral Sask
 
 ````col

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the Lilliputians
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 46,000gp
+
+
 ## Description
 A swirling, watery liquid that is amethyst in color. It smells like walnuts and grass, but tastes like beer.
 
@@ -17,13 +24,13 @@ The body starts tingling two minutes before it wears off as a warning signal to 
 Created by a horologist to allow his assistants to work on the delicate repair of clock and clockwork mechanisms.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):**   Earth  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ Created by a horologist to allow his assistants to work on the delicate repair o
 *Spell Emulated:* *Enlarge/Reduce*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 46,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

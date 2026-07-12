@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Fungal Immunity
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 2,700gp
+
+
 ## Description
 A frothing, fizzing potion that is scarlet in color. It smells and tastes like pinapple and cabbage.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain immunity to the poisoned condition if it wo
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Fomorian stomach lining
@@ -32,21 +39,6 @@ When you drink this potion, you gain immunity to the poisoned condition if it wo
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 2,700gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Flash Pellet
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Thrown <br>
+>**Duration:** Special 
+>
+>**Price:** 100gp
+
+
 ## Description
 brown, walnut-sized pellet of what appears to be packed sawdust.
 
@@ -14,13 +21,13 @@ When thrown against a hard surface, this pellet explodes in a blinding flash of 
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Calcium Grease<br>
+**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ When thrown against a hard surface, this pellet explodes in a blinding flash of 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Common <br>
-**Effect Category:** Offensive
-
-**Application:**Thrown <br>
-**Duration:** Special 
-
-**Price:** 100gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

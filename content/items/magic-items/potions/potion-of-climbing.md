@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Climbing
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Skill
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 180gp
+
+
 ## Description
 The potion is a smoking purple liquid
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain a climbing speed equal to your walking spee
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):** Air    <br>
 **Spell Needed:**  <br>
 **Other:** Giant Spider Leg
@@ -32,21 +39,6 @@ When you drink this potion, you gain a climbing speed equal to your walking spee
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Common <br>
-**Effect Category:** Skill
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 180gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

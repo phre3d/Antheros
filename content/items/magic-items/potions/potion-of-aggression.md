@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Aggression
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 560gp
+
+
 ## Description
 A smoking, bubbling tonic that is jade with cobalt oddiments. It smells like vomit, but tastes like bread.
 
@@ -14,13 +21,13 @@ When you drink this potion, you can take a bonus action on each of your turns to
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Orc War Chief head
@@ -32,21 +39,6 @@ When you drink this potion, you can take a bonus action on each of your turns to
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 560gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,20 +1,35 @@
 #import #profession 
+>[!info]
+>**Alternative Names:**  
+>
+>**Type:** 
+>
+>**Famous in the Field:**
+>- [[people/]]
+>
+>**Other Associated Professions:**
+>- [[professions/]]
+>
+>**Related Locations:**
+>- [[locations/]]
+>
+>**Employed By:**
+>- [[organizations/]]
+>
+>**Ranks & Titles:**
+>- [[ranks/]]
+>
+>**Related Vehicles:**
+>- [[rank/title]]
+>
+>**Related Technologies:**
+>- [[rank/title]]
+
+
 # Title
 
-### 
 
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-# Description
-
-
----
 
 # Career
 ## Qualifications
@@ -29,7 +44,7 @@ shadow: off
 ## Benefits
 
 
----
+
 
 # Perception
 ## Purpose / Function
@@ -50,7 +65,7 @@ shadow: off
 ## History
 
 
----
+
 
 # Operations
 ## Tools
@@ -66,51 +81,3 @@ shadow: off
 
 
 ## Hazards
-
-
---- end-column ---
-
-
-**Alternative Names:**  
-
-**Type:** 
-
-**Famous in the Field:**
-
-- [[person/title]]
-
-**Other Associated Professions:**
-
-- [[profession/title]]
-
-**Related Locations:**
-
-- [[/title]]
-
-**Employed By:**
-
-- [[organization/title]]
-
-**Ranks & Titles:**
-
-- [[rank/title]]
-
-**Related Vehicles:**
-
-- [[rank/title]]
-
-**Related Technologies:**
-
-- [[rank/title]]
-
-
-
---- end-multi-column
-
-
-
-
-
-
-
----

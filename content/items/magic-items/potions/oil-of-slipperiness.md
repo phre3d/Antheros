@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Slipperiness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Spell
+>
+>**Application:**Coat <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 480gp
+
+
 ## Description
 A glowing, viscious liquid that is amethyst with crimson oddiments. It smells like honey, but tastes like acid.
 
@@ -20,13 +27,13 @@ Poured on the ground it duplicates the effect of the grease spell in that area.
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Calcium grease<br>
+**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
 **Essence(s):**   Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -38,21 +45,6 @@ Poured on the ground it duplicates the effect of the grease spell in that area.
 *Spell Emulated:* *Freedom of Movement*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Spell
-
-**Application:**Coat <br>
-**Duration:** 8 hours 
-
-**Price:** 480gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

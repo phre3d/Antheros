@@ -1,10 +1,16 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Thunderstone
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Thrown <br>
+>**Duration:** Instantaneous 
+>
+>**Price:** 75gp
+
 ## Description
 A dull, brittle crystal.
 
@@ -16,7 +22,7 @@ As an action, you can throw the thunderstone up to 30 feet. Each creature in a 1
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
@@ -34,21 +40,6 @@ As an action, you can throw the thunderstone up to 30 feet. Each creature in a 1
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Common <br>
-**Effect Category:** Offensive
-
-**Application:**Thrown <br>
-**Duration:** Instantaneous 
-
-**Price:** 75gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

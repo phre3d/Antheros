@@ -1,58 +1,6 @@
 #organization/religious 
-# Title
-
-## Description
-
-
----
-
-## Mythology
-
-
----
-
-## Origins
-
----
-
-## Cosmology
-
----
-
-## Tenets of Faith
-
----
-
-## Priesthood / Structure
-
----
-
-## Ethics
-
-
----
-
-## Granted Divine Powers
-
-
----
-
-## Political Intrigue & Influence
-
----
-
-## Worship
-
-
----
-
-## Sects
-
-
-
-
->[!infobox]
->### General Information
+>[!info]
+># General Information
 >**Leader:** 
 >
 >**Leader Title:** 
@@ -70,6 +18,58 @@
 >**Founders:** 
 >
 >**Geographic Location(s):**  
+
+# Title
+
+## Description
+
+
+
+
+## Mythology
+
+
+
+
+## Origins
+
+
+## Cosmology
+
+
+
+## Tenets of Faith
+
+
+
+## Priesthood / Structure
+
+
+
+## Ethics
+
+
+
+
+## Granted Divine Powers
+
+
+
+
+## Political Intrigue & Influence
+
+
+
+## Worship
+
+
+
+
+## Sects
+
+
+
+
 
 
 ---

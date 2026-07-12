@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Speediness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 430gp
+
+
 ## Description
 A thick substance that is azure in color. It smells like dirt and blood, but tastes like caramel and honey.
 
@@ -15,13 +22,13 @@ Fills the body with tremendous energy and allows the imbiber to double the numbe
 This sickly sweet potion was created by a master fighter looking for a way to attack more without any spell-induced negative effects.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ This sickly sweet potion was created by a master fighter looking for a way to at
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 430gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

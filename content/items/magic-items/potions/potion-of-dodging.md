@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Dodging
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 7,000gp
+
+
 ## Description
 A pulsing, thin liquid that is yellow with orange specks. It smells like ashes, but tastes like coconut.
 
@@ -15,13 +22,13 @@ Grants superior hand-eye coordination. As a reaction, once per round for a minut
 Commissioned by the warlord Oriias to boost his chances of survival in combat.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Lithium Grease<br>
+**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
 **Essence(s):** Air    Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Commissioned by the warlord Oriias to boost his chances of survival in combat.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 7,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

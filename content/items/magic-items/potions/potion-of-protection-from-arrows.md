@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Protection from Arrows
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 49,000gp
+
+
 ## Description
 A frothing, watery substance that is yellow in color. It smells like ginger, but tastes like urine.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain a +2 bonus to AC against ranged weapon atta
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain a +2 bonus to AC against ranged weapon atta
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes 
-
-**Price:** 49,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,17 +1,21 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Antitoxin
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 120gp
 
-````col
-```col-md
-flexGrow=2
-===
+
 ## Description
 A black mixture. It smells like red pepper, but tastes like black pepper and wax.
 
 ## Effects
 A creature that drinks this vial of liquid gains advantage on saving throws against poison. It confers no benefit to undead or constructs.
-
-
 
 ## Crafting
 **Crafted By:** [[profession/herbalist|Herbalist]]<br>
@@ -32,21 +36,8 @@ A creature that drinks this vial of liquid gains advantage on saving throws agai
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Common <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 120gp
 
 
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

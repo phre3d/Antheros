@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Alertness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 72 hours 
+>
+>**Price:** 340gp
+
+
 ## Description
 A chunky fluid that is red in color. It smells like wine, but tastes like beer and herbs.
 
@@ -15,13 +22,13 @@ This potion allows the imbiber to stay awake for 72 hours without exhaustion eff
 Created by the dedicated researcher Enos Raveneye,
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):** Air    Life  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Created by the dedicated researcher Enos Raveneye,
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 72 hours 
-
-**Price:** 340gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

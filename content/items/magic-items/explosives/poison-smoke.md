@@ -1,10 +1,17 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Poison Smoke
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Thrown <br>
+>**Duration:** Instantaneous 
+>
+>**Price:** 75gp
+
+
 ## Description
 A vail containing a grey, swirling, mist.
 
@@ -14,13 +21,13 @@ As an action, you can throw this vial up to 20 feet, shattering it on impact. Ma
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Calcium Grease<br>
+**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
 **Essence(s):** Air    <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ As an action, you can throw this vial up to 20 feet, shattering it on impact. Ma
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Common <br>
-**Effect Category:** Offensive
-
-**Application:**Thrown <br>
-**Duration:** Instantaneous 
-
-**Price:** 75gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

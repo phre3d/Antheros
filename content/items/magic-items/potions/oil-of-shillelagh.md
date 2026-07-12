@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Shillelagh
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Coat <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 380gp
+
+
 ## Description
 A oily, chunky mixture that is amber with yellow glows. It smells like honey, but tastes like bannanas. 
 
@@ -16,13 +23,13 @@ You can use your Wisdom modifier instead of Strength for the attack and damage r
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Calcium grease<br>
+**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
 **Essence(s):**   Earth  Life  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -34,21 +41,6 @@ You can use your Wisdom modifier instead of Strength for the attack and damage r
 *Spell Emulated:* *Shillelagh*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Coat <br>
-**Duration:** 1 hour 
-
-**Price:** 380gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

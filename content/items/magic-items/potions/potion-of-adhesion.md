@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Adhesion
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 350gp
+
+
 ## Description
 A bubbling fluid that is cobalt with ruby flecks. It smells like earwax, but tastes like candy.
 
@@ -17,13 +24,13 @@ A small side effect is that the imbiber must wear gloves when not climbing, or t
 This potion was created by a thieves guild in a tropical region after observing how easily lizards climbed walls.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Earth  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Giant Spider Spinnerette
@@ -35,21 +42,6 @@ This potion was created by a thieves guild in a tropical region after observing 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 350gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

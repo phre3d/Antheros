@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Vitality
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** Special 
+>
+>**Price:** 960gp
+
+
 ## Description
 A potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 
@@ -14,13 +21,13 @@ When you drink this potion, it removes any exhaustion you are suffering and cure
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  Water<br>
 **Spell Needed:** *Aura of Vitality* <br>
 **Other:** Vial of Troll blood
@@ -32,21 +39,6 @@ When you drink this potion, it removes any exhaustion you are suffering and cure
 *Spell Emulated:* *Aura of Vitality*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** Special 
-
-**Price:** 960gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

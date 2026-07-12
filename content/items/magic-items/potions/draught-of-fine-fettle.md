@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Draught of Fine Fettle
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 4 hours 
+>
+>**Price:** 35,000gp
+
+
 ## Description
 A bubbling, translucent, thick draught that is violet with amber flecks. It smells like salt, but tastes like blueberries.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain immunity to being charmed, frightened, para
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Tarrasque claw
@@ -32,21 +39,6 @@ When you drink this potion, you gain immunity to being charmed, frightened, para
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 4 hours 
-
-**Price:** 35,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

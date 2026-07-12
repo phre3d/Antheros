@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Deathly Fetor
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 6,900gp
+
+
 ## Description
 A metallic fluid that is purple with gray streaks. It smells and tastes like fruit.
 
@@ -15,13 +22,13 @@ Fools the undead into believing the imbiber is also undead and not worthy of the
 Created by a necromancer to make it easier to study the undead in their natural habitat, this potion gives off the aura of undeath.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Lithium Grease<br>
+**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
 **Essence(s):**   Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Entrails of any undead creature
@@ -33,21 +40,6 @@ Created by a necromancer to make it easier to study the undead in their natural 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes 
-
-**Price:** 6,900gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

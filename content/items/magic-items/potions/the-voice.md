@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # The Voice
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Skill
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 5,500gp
+
+
 ## Description
 A steaming fluid that is amethyst with gray flecks. It smells like pinapple, but tastes like lime.
 
@@ -19,13 +26,13 @@ Only one creature per round can be affected in this way.
 This potion was created by a monk who realized he needed to communicate verbally on occasion after swearing an oath that words would no longer leave his lips.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -37,21 +44,6 @@ This potion was created by a monk who realized he needed to communicate verbally
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Skill
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 5,500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

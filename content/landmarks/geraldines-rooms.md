@@ -1,4 +1,4 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #locncat_lodging #locntype_rooming_house #guild_of_the_hearth
+#import #landmark   #Free_City_of_Haven #the-south-docks #locncat_lodging #locntype_rooming_house #guild-of-the-hearth
 # Geraldine's Rooms
 
 --- start-multi-column: MainBody

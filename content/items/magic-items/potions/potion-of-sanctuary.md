@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Sanctuary
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 610gp
+
+
 ## Description
 A transparent potion that is emerald with yellow accretions on the bottom. It smells and tastes like chemicals.
 
@@ -18,13 +25,13 @@ The effect ends if you make an attack or cast a spell
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Life  Water<br>
 **Spell Needed:** *Sanctuary* <br>
 **Other:** 
@@ -36,21 +43,6 @@ The effect ends if you make an attack or cast a spell
 *Spell Emulated:* *Sanctuary*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 610gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Emetic Cleanse
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** 2 rounds 
+>
+>**Price:** 5,300gp
+
+
 ## Description
 A bubbling, oily draught that is yellow with gray bubbles. It smells like wax, but tastes like raspberries.
 
@@ -19,13 +26,13 @@ The imbiber takes no damage from the potion but incapacitates them for two round
 An alchemist created this potion to help keep subjects alive a bit longer while developing and testing new poisons.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -37,21 +44,6 @@ An alchemist created this potion to help keep subjects alive a bit longer while 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** 2 rounds 
-
-**Price:** 5,300gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

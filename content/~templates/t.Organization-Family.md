@@ -1,12 +1,6 @@
 #organization/family 
-# Title
-
-
-
----
-
->[!infobox]
->### General Information
+>[!info]
+># General Information
 >**Patriarch:** 
 >
 >**Matriarch:**
@@ -19,3 +13,8 @@
 >&nbsp;&nbsp;&nbsp;&nbsp;     <br>
 >&nbsp;&nbsp;&nbsp;&nbsp;     <br>
 >&nbsp;&nbsp;&nbsp;&nbsp;     <br>
+>
+# Title
+
+
+

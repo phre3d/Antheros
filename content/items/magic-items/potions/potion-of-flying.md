@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Flying
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 500gp
+
+
 ## Description
 This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it. It smells and tastes like cooked meat and melon.
 
@@ -16,13 +23,13 @@ If you're in the air when the potion wears off, you fall unless you have some ot
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:** *Fly* <br>
 **Other:** Clabrezu claw
@@ -34,21 +41,6 @@ If you're in the air when the potion wears off, you fall unless you have some ot
 *Spell Emulated:* *Fly*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Fire Breath
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Skill
+>
+>**Application:**Ingest <br>
+>**Duration:** Sooner of 1 hour or 3 exhales 
+>
+>**Price:** 150gp
+
+
 ## Description
 This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened
 
@@ -16,13 +23,13 @@ The effect ends after you exhale the fire three times or when 1 hour has passed.
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):** Air    Fire  <br>
 **Spell Needed:**  <br>
 **Other:** Chimera claw, Hell Hound teeth x 4
@@ -34,21 +41,6 @@ The effect ends after you exhale the fire three times or when 1 hour has passed.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Skill
-
-**Application:**Ingest <br>
-**Duration:** Sooner of 1 hour or 3 exhales 
-
-**Price:** 150gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,17 +1,33 @@
-#import #settlement 
+#settlement 
+
+>[!info]
+>Image
+>
+>---
+>
+>**Type:** <br>
+>**Other Name(s):** <br>
+>**Located In:** [[/]]
+>
+>**Population:** <br>
+>**Demonym:** <br>
+>**Founded:** <br>
+>**Ruined:** 
+>
+>**Ruler:** [[people/]] <br>
+>**Rank:** [[ranks/]] <br>
+>**Ruling Organization:** [[organizations/]] <br>
+>**Other Rulers:** 
+>- [[people/title]]
+>
+>**Founders:** 
+>- [[people/title]]
+
+
+
+
 # Title
 
-### 
-
-
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-# Description
 
 
 # Demographics
@@ -57,36 +73,5 @@ shadow: off
 
 
 # Natural Resources
-
-
---- end-column ---
-
-**Image:**  ()
-
-
-
-**Type:** <br>
-**Other Name(s):** <br>
-**Located In:** [[/]]
-
-**Population:** <br>
-**Demonym:** <br>
-**Founded:** <br>
-**Runied:** 
-
-**Ruler:** [[person/]] <br>
-**Rank:** [[rank/]] <br>
-**Ruling Organization:** [[organization/]] <br>
-**Other Rulers:** 
-- [[person/title]]
-
-**Founders:** 
-- [[person/title]]
-
-
-
-
---- end-multi-column
-
 
 

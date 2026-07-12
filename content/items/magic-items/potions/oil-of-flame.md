@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Flame
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Coat <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 600gp
+
+
 ## Description
 A oily, chunky liquid that is pearl with orange flashes. It smells like caramel, but tastes like wax and mead.
 
@@ -16,13 +23,13 @@ For 1 hour, the coated weapon deals an additional 1d6 fire damage. A flammable o
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Calcium grease<br>
+**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
 **Essence(s):**   Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -34,21 +41,6 @@ For 1 hour, the coated weapon deals an additional 1d6 fire damage. A flammable o
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Coat <br>
-**Duration:** 1 hour 
-
-**Price:** 600gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

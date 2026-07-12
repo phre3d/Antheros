@@ -1,31 +1,10 @@
 #organization/military 
-# Title
-
-## Description
-
-
-
----
-
-## Structure
-
-
----
-
-## Make-up
-
-
----
-
-## History
-
-
-
 >[!infobox]
 >**Image:**  ()
 >
 >---
->### Military Info
+>
+># Military Info
 >**Commander:** 
 >
 >**Commander Title:** 
@@ -38,7 +17,7 @@
 >
 >**Headquarters:** 
 >
->### General Information
+># General Information
 >**Alternate Names:** 
 >
 >**Motto/Slogan**: 
@@ -54,12 +33,23 @@
 >**Predecessor Organization(s):** 
 >
 >**Successor Organization(s):** 
->
+# Title
+
+## Description
+
+
+
+## Structure
 
 
 
 
+## Make-up
 
 
 
----
+
+## History
+
+
+

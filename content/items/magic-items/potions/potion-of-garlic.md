@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Garlic
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 720gp
+
+
 ## Description
 A ebony liquid. It smells like herbs, but tastes like alchohol.
 
@@ -15,13 +22,13 @@ Gives the imbiber horrible breath for one hour. When the imbiber breathes on som
 A wealthy merchant was constantly accosted by the poor asking for handouts. He approached Kiki Redare, a renowned potion maker, to make something to chase these unfortunates off.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Oil of Vitriol<br>
+**Base:** [[/materials/Oil of Vitriol|Oil of Vitriol]]<br>
 **Essence(s):** Air    Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ A wealthy merchant was constantly accosted by the poor asking for handouts. He a
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Offensive
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 720gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

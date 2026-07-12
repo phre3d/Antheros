@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Rapid Restoration
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** 30 minutes 
+>
+>**Price:** 6,700gp
+
+
 ## Description
 A frothing, pulsing, thick tonic that is azure with copper flakes. It smells like pine needles and salt water, but tastes like raspberries.
 
@@ -17,13 +24,13 @@ However, after five consecutive doses (over three-and-a-half days), the imbiber 
 This potion was created by a ruthless businessperson who put profit above everything else.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ This potion was created by a ruthless businessperson who put profit above everyt
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** 30 minutes 
-
-**Price:** 6,700gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

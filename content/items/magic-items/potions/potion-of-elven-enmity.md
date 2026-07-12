@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Elven Enmity
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 440gp
+
+
 ## Description
 A viscious substance that is gold in color. It smells and tastes like spinach.
 
@@ -14,13 +21,13 @@ Drinking this potion gives you advantage on attack rolls against elves, and on s
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):** Air    Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Sahuagin Baron heart
@@ -32,21 +39,6 @@ Drinking this potion gives you advantage on attack rolls against elves, and on s
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 440gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

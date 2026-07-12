@@ -1,28 +1,6 @@
 #organization/criminal 
-# Title
-
-
----
-
-
-## Structure
-
----
-
-## Culture
-
----
-
-## Public Agenda
-
----
-
-## History
-
-
-
->[!infobox]
->### Common Information
+>[!info]
+># Common Information
 >**Alternate Names:** 
 >
 >**Motto/Slogan**: 
@@ -37,6 +15,23 @@
 >
 >**Geographic Location**
 >
+# Title
 
 
----
+
+## Structure
+
+
+
+## Culture
+
+
+
+## Public Agenda
+
+
+
+## History
+
+
+

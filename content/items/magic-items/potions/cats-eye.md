@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Cat's Eye
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Sense
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 150gp
+
+
 ## Description
 Inky-black potion that smells of cat-pee and tastes like it smells.
 
@@ -14,13 +21,13 @@ Causes your eyes to take on a cat-like appearance, allowing you to see in dim li
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ Causes your eyes to take on a cat-like appearance, allowing you to see in dim li
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Common <br>
-**Effect Category:** Sense
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 150gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

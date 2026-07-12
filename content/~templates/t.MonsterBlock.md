@@ -1,4 +1,7 @@
  #monster 
+>[!info]
+> IMAGE
+>
 
 # Title
 
@@ -26,43 +29,33 @@
 **Damage Immunities:** <br>
 **Condition Immunities:** <br>
 
->[!infobox]
-> IMAGE
->
 
----
 
 # Spellcasting
 
 
----
 
 # Special Abilities
 
 
 
----
 
 # Actions
 
 
 
-
----
-
 # Lair
 
 
-
-
-
-
----
 
 # Description
 
 
 
-## Suggested Environments
-<br>
+# Suggested Environments
+
+
+
+---
+*Source:* 
 

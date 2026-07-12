@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Faith Shielding
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 30,000gp
+
+
 ## Description
 A boiling, metallic, viscious potion that is white with azure flakes. It smells like vomit, but tastes like salt water and caramel.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain a +2 bonus to AC and are surrounded by a sh
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Aluminium Grease<br>
+**Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
 **Essence(s):** Air    Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain a +2 bonus to AC and are surrounded by a sh
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes 
-
-**Price:** 30,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

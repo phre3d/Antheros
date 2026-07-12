@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Recovery
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** Special 
+>
+>**Price:** 43,000gp
+
+
 ## Description
 A moving, fizzing, thick tonic that is azure with jade accretions on the bottom. It smells like melon, but tastes like garlic and beer.
 
@@ -15,13 +22,13 @@ Immediately restores a character to full abilities – effectively granting a lo
 Created by the adventurers Scald to stack the deck in their favor on their toughest encounters.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Created by the adventurers Scald to stack the deck in their favor on their tough
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** Special 
-
-**Price:** 43,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

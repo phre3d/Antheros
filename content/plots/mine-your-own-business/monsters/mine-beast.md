@@ -1,4 +1,4 @@
-#import #statblock #monster #MYOB-monster
+#import #statblock #monster #Mine_Your_Own_Business
 
 ````col
 ```col-md

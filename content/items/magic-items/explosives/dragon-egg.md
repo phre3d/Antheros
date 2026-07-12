@@ -1,10 +1,17 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Dragon Egg
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Ignite <br>
+>**Duration:** Special 
+>
+>**Price:** 6,500gp
+
+
 ## Description
 This small iron-bound wooden cask is filled with an alchemical mix of strange powders and liquids. It smells very strongly of sulfur. A fuse protrudes from the top of the cask. The cask weighs 20 lbs.
 
@@ -16,13 +23,13 @@ If the dragon's egg cask suffers any fire or lightning damage, it explodes at th
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Lithium Grease<br>
+**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
 **Essence(s):**   Earth  Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Barrel, chest or similar container
@@ -34,21 +41,6 @@ If the dragon's egg cask suffers any fire or lightning damage, it explodes at th
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Rare <br>
-**Effect Category:** Offensive
-
-**Application:**Ignite <br>
-**Duration:** Special 
-
-**Price:** 6,500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

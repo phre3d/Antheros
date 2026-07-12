@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Blindsight
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Sense
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 35,000gp
+
+
 ## Description
 A fizzing, reflective draught that is gold in color. It smells and tastes like salt water.
 
@@ -14,13 +21,13 @@ Imbibing this potion grants blindsight.
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** Elder Brain occipital lobe
@@ -32,21 +39,6 @@ Imbibing this potion grants blindsight.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Sense
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 35,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

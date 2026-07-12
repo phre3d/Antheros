@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Elasticity
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Skill
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 359,000gp
+
+
 ## Description
 A ichorous, watery fluid that is green with black flakes. It smells like cabbage, but tastes like bile and candy.
 
@@ -15,13 +22,13 @@ Causes the imbiber's arms to become more pliable, extending reach by an addition
 Created by the battlemaster Gruin Bladelock to provide extra reach with normal melee weapons.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Created by the battlemaster Gruin Bladelock to provide extra reach with normal m
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Skill
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 359,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

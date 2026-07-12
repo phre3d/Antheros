@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Shadow
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 49,000gp
+
+
 ## Description
 A transparent, thin liquid that is gold in color. It smells and tastes like vegetables and pears.
 
@@ -14,13 +21,13 @@ For a period of 1 hour after drinking this potion, you gain resistance to all da
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Mote of shadow
@@ -32,21 +39,6 @@ For a period of 1 hour after drinking this potion, you gain resistance to all da
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 49,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

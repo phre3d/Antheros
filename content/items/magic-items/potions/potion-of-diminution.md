@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Diminution
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1d4 hours 
+>
+>**Price:** 270gp
+
+
 ## Description
 The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process. It smells like red pepper, but tastes like lime and rot.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain the reduce effect of the Enlarge/Reduce spe
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Earth  Life  <br>
 **Spell Needed:** *Enlarge/Reduce* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain the reduce effect of the Enlarge/Reduce spe
 *Spell Emulated:* *Enlarge/Reduce*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1d4 hours 
-
-**Price:** 270gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

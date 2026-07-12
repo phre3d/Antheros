@@ -1,10 +1,17 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Tanglefoot Bag
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Thrown <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 120gp
+
+
 ## Description
 A sealed canvas bag that appears to be about 1' in diameter. When jostled, it appears to contain some form of goo.
 
@@ -18,13 +25,13 @@ Large creatures have advantage on saving throws against the effects of the goo. 
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Calcium Grease<br>
+**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
 **Essence(s):**   Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -36,21 +43,6 @@ Large creatures have advantage on saving throws against the effects of the goo. 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Common <br>
-**Effect Category:** Offensive
-
-**Application:**Thrown <br>
-**Duration:** 1 minute 
-
-**Price:** 120gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

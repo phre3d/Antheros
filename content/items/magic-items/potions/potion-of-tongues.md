@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Tongues
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 2,600gp
+
+
 ## Description
 A moving potion that is cyan in color. It smells like fruit and lemon, but tastes like bile and peanuts.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain the effect of the tongues spell.
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Shadow  Water<br>
 **Spell Needed:** *Tongues* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain the effect of the tongues spell.
 *Spell Emulated:* *Tongues*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 2,600gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

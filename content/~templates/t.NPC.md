@@ -1,4 +1,7 @@
 #person #npc 
+>[!info]
+>IMAGE GOES HERE
+>
 # Name
 size, race (type), alignment
 
@@ -27,11 +30,6 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:** 
 
->[!infobox]
->IMAGE GOES HERE
->
-
----
 
 # Description
 
@@ -42,29 +40,22 @@ size, race (type), alignment
 **Suggested Environments** 
 
 
----
-
 # Spellcasting
 
 
-
----
 
 # Special Abilities
 
 
 
----
 
 # Actions
 
 
 
 
----
-
 # Lair
 
 
 ---
-**Source:** 
+*Source:*

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Magic Mischief
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Utility
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 500gp
+
+
 ## Description
 This potion is contained in a blue-green glass vial with embossed vines and leaves. A label and a tag state the potion's name in crooked handwriting.
 
@@ -27,13 +34,13 @@ This potion enables you to impersonate one characteristic of another person. Whe
 Potions of Magic Mischief are said to be brewed by the infamous witch Viveka Svaveltand, an eccentric hag who resides in the Feywild.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -45,21 +52,6 @@ Potions of Magic Mischief are said to be brewed by the infamous witch Viveka Sva
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Utility
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes 
-
-**Price:** 500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

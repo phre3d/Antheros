@@ -1,4 +1,4 @@
-#import #landmark   #Free_City_of_Haven #the_south_corridor #locncat-entertainment #locntype-tavern #guild_of_the_hearth 
+#import #landmark   #Free_City_of_Haven #the_south_corridor #locncat-entertainment #locntype-tavern #guild-of-the-hearth 
 # The Prancing Pony
 
 --- start-multi-column: MainBody

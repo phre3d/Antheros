@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Nondetection
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 6,500gp
+
+
 ## Description
 A chunky potion that is cyan in color. It smells and tastes like rot and red pepper.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain the effect of the nondetection spell for 8 
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  <br>
 **Spell Needed:** *Nondetection* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain the effect of the nondetection spell for 8 
 *Spell Emulated:* *Nondetection*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 6,500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

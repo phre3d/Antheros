@@ -1,10 +1,17 @@
-#item #magic-item  
+#item/magic-item
 # Pomander of Warding
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Protection
+>
+>**Application:**Inhale <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 300gp
+
+
 ## Description
 A ball of aromatic spices and perfumes contained in a loose-weave cloth bag.  Normally wrapped tightly in parchment to keep the contents from seeping out until ready for use.
 
@@ -16,32 +23,24 @@ Undead creatures of CR 2 or lower that enter this area must make a Wisdom saving
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Essence(s):** Air    Shadow  <br>
+**Spell Needed:**  <br>
+**Other:** 
+
+## Results from Identify Spell
+*Crafter:* Herbalist <br>
+*Base:* Aqua Regia <br>
+*Essence(s):*  Air    Shadow   <br>
+*Spell Emulated:* None detected
 
 
-
-
-
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Protection
-
-**Application:** Inhale <br>
-**Duration:** 8 hours 
-
-**Price:** 300gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

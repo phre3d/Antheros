@@ -1,4 +1,4 @@
-#import #statblock #item #night-of-the-living-dolls
+#import #statblock #item #Night_of_the_Living_Dolls
 
 ````col
 ```col-md

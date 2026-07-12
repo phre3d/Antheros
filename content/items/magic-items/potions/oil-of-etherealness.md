@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Etherealness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Coat <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 1,920gp
+
+
 ## Description
 A chunky liquid that is copper with violet streaks. It smells like cantaloupe, but tastes like spit.
 
@@ -16,13 +23,13 @@ The affected creature then gains the effect of the etherealness spell.
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Aluminium Grease<br>
+**Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -34,21 +41,6 @@ The affected creature then gains the effect of the etherealness spell.
 *Spell Emulated:* *Etherealness*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Coat <br>
-**Duration:** 1 hour 
-
-**Price:** 1,920gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

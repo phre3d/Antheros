@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Steel
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 30 minutes 
+>
+>**Price:** 380gp
+
+
 ## Description
 A watery fluid that is cyan with purple globules. It smells like blueberries and cinnamon, but tastes like celery and grass.
 
@@ -15,13 +22,13 @@ Turns the imbiber's skin as hard as steel, effectively turning the skin into the
 An ancient sect created this potion to create an army of almost invulnerable soldiers.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Earth  Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 4oz steel filings
@@ -33,21 +40,6 @@ An ancient sect created this potion to create an army of almost invulnerable sol
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 30 minutes 
-
-**Price:** 380gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

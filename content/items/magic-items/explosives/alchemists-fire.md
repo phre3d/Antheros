@@ -1,10 +1,17 @@
-#item #magic-item  #explosive 
+#item/magic-item/explosive 
 # Alchemist's Fire
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Explosive <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Offensive
+>
+>**Application:**Thrown <br>
+>**Duration:** Special 
+>
+>**Price:** 75gp
+
+
 ## Description
 This sticky, adhesive fluid ignites when exposed to air.
 
@@ -18,13 +25,13 @@ A creature can end this damage by using its action to make a DC 10 Dexterity che
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -36,21 +43,6 @@ A creature can end this damage by using its action to make a DC 10 Dexterity che
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Explosive <br>
-**Rarity:** Common <br>
-**Effect Category:** Offensive
-
-**Application:**Thrown <br>
-**Duration:** Special 
-
-**Price:** 75gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

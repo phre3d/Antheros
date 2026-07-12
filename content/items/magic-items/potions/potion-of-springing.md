@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Springing
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 83gp
+
+
 ## Description
 A bubbling, thick potion that is orange with yellow globules. It smells like carrots, but tastes like urine.
 
@@ -14,13 +21,13 @@ When you drink this potion, your jump distance is tripled.
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, your jump distance is tripled.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Common <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 83gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

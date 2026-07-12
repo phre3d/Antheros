@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Doppel's Clone
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes or clone death 
+>
+>**Price:** 49,000gp
+
+
 ## Description
 A steaming, fizzing, thin liquid that is yellow with brown accretions on the bottom. It smells and tastes like cinnamon.
 
@@ -19,13 +26,13 @@ The potion is imperfect, and there is a 10% chance the duplicate will go on a mu
 An explosives expert created this special potion to assist during particular dangerous experiments or preparation methods for her various explosive creations.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -37,21 +44,6 @@ An explosives expert created this special potion to assist during particular dan
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes or clone death 
-
-**Price:** 49,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

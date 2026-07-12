@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Cleansing
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Utility
+>
+>**Application:**Ingest <br>
+>**Duration:** Special 
+>
+>**Price:** 660gp
+
+
 ## Description
 A glowing elixir that is blue with crimson specks. It smells like lime and butter, but tastes like carrots and tea.
 
@@ -17,13 +24,13 @@ The only drawback is the residual soapy taste in the mouth.
 A priest created this potion to help people cleanse their souls of sin, but it didn't quite work out. Instead, it made the imbiber immaculate - including their clothing.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):** Air    Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ A priest created this potion to help people cleanse their souls of sin, but it d
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Utility
-
-**Application:**Ingest <br>
-**Duration:** Special 
-
-**Price:** 660gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

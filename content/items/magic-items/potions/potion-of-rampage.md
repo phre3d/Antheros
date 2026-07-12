@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Rampage
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 620gp
+
+
 ## Description
 A pulsing, watery draught that is obsidian in color. It smells like green pepper and wax, but tastes like milk.
 
@@ -16,13 +23,13 @@ Curse. While under the effects of this potion, you are cursed. As long as you re
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Leucrotta hoof
@@ -34,21 +41,6 @@ Curse. While under the effects of this potion, you are cursed. As long as you re
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 620gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

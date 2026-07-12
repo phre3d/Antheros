@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Owl's Wisdom
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Stat
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 3,000gp
+
+
 ## Description
 A fizzing, thick tonic that is brown with ebony globules. It smells like mead and herbs, but tastes like blood.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain a +2 bonus to your Wisdom score.
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Owl Feather
@@ -32,21 +39,6 @@ When you drink this potion, you gain a +2 bonus to your Wisdom score.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Stat
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 3,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

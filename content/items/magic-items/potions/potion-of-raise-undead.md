@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Raise Undead
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Pour <br>
+>**Duration:** 24 hours 
+>
+>**Price:** 6,500gp
+
+
 ## Description
 A moving, watery draught that is purple with vermillion oddiments. It smells like raspberries and celery, but tastes like pears.
 
@@ -14,13 +21,13 @@ When poured over the remains of an undead creature, this potion repairs the body
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Earth  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** Death Tyrant skull
@@ -32,21 +39,6 @@ When poured over the remains of an undead creature, this potion repairs the body
 *Spell Emulated:* *Raise Dead*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Pour <br>
-**Duration:** 24 hours 
-
-**Price:** 6,500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

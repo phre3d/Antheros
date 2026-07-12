@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the Drunken Sailor
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** Special 
+>
+>**Price:** 5,000gp
+
+
 ## Description
 A slimy liquid that is gray in color. It smells and tastes like butter.
 
@@ -17,13 +24,13 @@ The potion lasts until the body has fully metabolized the alcohol.
 A savvy pirate captain stumbled upon the secret of this special concoction in a book collected from a wayward merchant ship. Since then, he mixed dribbles of potion into the rum barrels to keep his crew both happy and functional.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ A savvy pirate captain stumbled upon the secret of this special concoction in a 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** Special 
-
-**Price:** 5,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

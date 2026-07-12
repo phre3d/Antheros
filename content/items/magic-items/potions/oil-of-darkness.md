@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Darkness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Spell
+>
+>**Application:**Coat <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 380gp
+
+
 ## Description
 A bubbling, reflective, oily potion that is black with sapphire glows. It smells like acorns and ginger, but tastes like cantaloupe.
 
@@ -16,13 +23,13 @@ Magical darkness spreads from the object to fill a 15-foot radius sphere for 10 
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Calcium grease<br>
+**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
 **Essence(s):**   Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -34,21 +41,6 @@ Magical darkness spreads from the object to fill a 15-foot radius sphere for 10 
 *Spell Emulated:* *Darkness*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Spell
-
-**Application:**Coat <br>
-**Duration:** 10 minutes 
-
-**Price:** 380gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

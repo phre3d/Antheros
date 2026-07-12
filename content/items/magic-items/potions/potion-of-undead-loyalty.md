@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Undead Loyalty
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Pour <br>
+>**Duration:** 24 hours 
+>
+>**Price:** 27,000gp
+
+
 ## Description
 A gray mixture. It smells like nuts, but tastes like cherries and salt.
 
@@ -17,13 +24,13 @@ If not renewed, the undead develops enmity for the one who controlled it and is 
 This odd potion was created by a necromancer needing many undead for a massive secret construction project.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ This odd potion was created by a necromancer needing many undead for a massive s
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Mind
-
-**Application:**Pour <br>
-**Duration:** 24 hours 
-
-**Price:** 27,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

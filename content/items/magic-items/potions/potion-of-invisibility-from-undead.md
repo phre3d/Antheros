@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Invisibility from Undead
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 440gp
+
+
 ## Description
 A potion is a deep, transparent green and it glows faintly in dim or dark conditions.
 
@@ -14,13 +21,13 @@ When you drink this potion, you become invisible to undead creatures. Anything y
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):** Air    Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you become invisible to undead creatures. Anything y
 *Spell Emulated:* *Invisibility but different*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 440gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

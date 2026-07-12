@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Resistance
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 300gp
+
+
 ## Description
 A frothing elixir that is gold with ivory accretions on the bottom.  It smells like alchohol, but has a lemony taste.
 
@@ -14,13 +21,13 @@ When you drink this potion you gain resistance to one type of damage chosen rand
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** The essence required depnds on the desired form of resistence: acid (water), cold (air), fire (fire), force (air), lightning (fire), necrotic (shadow), poison (shadow), psychic (life), radiant (life) or thunder (earth).
@@ -32,21 +39,6 @@ When you drink this potion you gain resistance to one type of damage chosen rand
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 300gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

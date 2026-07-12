@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Invisibility
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 600gp
+
+
 ## Description
 This potion's container looks empty but feels as though it holds liquid
 
@@ -14,13 +21,13 @@ When you drink it, you become invisible. Anything you wear or carry is invisible
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:** *Invisibility* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink it, you become invisible. Anything you wear or carry is invisible
 *Spell Emulated:* *Invisibility*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 600gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,5 +1,40 @@
-![[plots/the-gypsy-train/images/the-gypsy-train-header.jpg]]
 #plot  #The_Gypsy_Train 
+>[!info]
+>![[plots/the-gypsy-train/images/the-gypsy-train-cover.jpg]]
+>
+>---
+> 
+>![[plots/the-gypsy-train/table-of-contents|Table of Contents]]
+>
+>---
+>
+>**Related Locations:**
+>- can be encountered anywhere
+>
+>---
+>
+>**First watch (sunset to midnight)**
+>
+>|Post|Guard|
+>|:---:|-------|
+>|1|[[plots/the-gypsy-train/npcs/kordaal-vanagas\|Kordaal Vanagas]]|
+>|2|[[plots/the-gypsy-train/npcs/survillo-gudas\|Survillo Gudas]] |
+>|3|[[plots/the-gypsy-train/npcs/dinmiel-prusas\|Dinmiel Prusas]] |
+>|4|[[plots/the-gypsy-train/npcs/dravyn-gudas\|Dravyn Gudas]] |
+>|5|[[plots/the-gypsy-train/npcs/bronkar-prusas\|Bronkar Prusas]] |
+>|6|[[plots/the-gypsy-train/npcs/balkrin-vanagas\|Balkrin Vanagas]] |
+>
+>**Second watch (midnight to dawn)**
+>
+>|Post|Guard|
+>|:---:|-------|
+>|1|[[plots/the-gypsy-train/npcs/javyd-gudas\|Javyd Gudas]] |
+>|2|[[plots/the-gypsy-train/npcs/albar-pakmydis\|Albar Pakmydis]] |
+>|3|[[plots/the-gypsy-train/npcs/rymvid-galinys\|Rymvid Galinys]] |
+>|4|[[plots/the-gypsy-train/npcs/aldor-pakmydis\|Aldor Pakmydis]] |
+>|5|[[plots/the-gypsy-train/npcs/scordraal-pakmydis\|Scordraal Pakmydis]] |
+>|6|[[plots/the-gypsy-train/npcs/ambrosis-pakmydis\|Ambrosis Pakmydis]] |
+
 # The Wandering Folk Train
 ### A Moving Scenario for AD&D
 
@@ -27,33 +62,6 @@ Even though the Folk may be between towns, not all towns are close together. If 
 
 If adventurers come upon the caravan between sunset and early morning, they will find the Wandering Folk wagons positioned as shown in the accompanying illustration of an en­campment. Guards will be posted as speci­fied below. During daylight hours the caravan will be moving in the order de­scribed in the table, above.
 
-````col
-```col-md
-**First watch (sunset to midnight)**
-
-|Post|Guard|
-|:---:|-------|
-|1|[[plots/the-gypsy-train/npcs/kordaal-vanagas\|Kordaal Vanagas]]|
-|2|[[plots/the-gypsy-train/npcs/survillo-gudas\|Survillo Gudas]] |
-|3|[[plots/the-gypsy-train/npcs/dinmiel-prusas\|Dinmiel Prusas]] |
-|4|[[plots/the-gypsy-train/npcs/dravyn-gudas\|Dravyn Gudas]] |
-|5|[[plots/the-gypsy-train/npcs/bronkar-prusas\|Bronkar Prusas]] |
-|6|[[plots/the-gypsy-train/npcs/balkrin-vanagas\|Balkrin Vanagas]] |
-
-```
-```col-md
-**Second watch (midnight to dawn)**
-
-|Post|Guard|
-|:---:|-------|
-|1|[[plots/the-gypsy-train/npcs/javyd-gudas\|Javyd Gudas]] |
-|2|[[plots/the-gypsy-train/npcs/albar-pakmydis\|Albar Pakmydis]] |
-|3|[[plots/the-gypsy-train/npcs/rymvid-galinys\|Rymvid Galinys]] |
-|4|[[plots/the-gypsy-train/npcs/aldor-pakmydis\|Aldor Pakmydis]] |
-|5|[[plots/the-gypsy-train/npcs/scordraal-pakmydis\|Scordraal Pakmydis]] |
-|6|[[plots/the-gypsy-train/npcs/ambrosis-pakmydis\|Ambrosis Pakmydis]] |
-
-````
 
 ## High prices, light fingers
 
@@ -79,35 +87,8 @@ Published in *Dragon*, Issue #93, January 1985
 
 
 
-
->[!infobox]
->![[plots/the-gypsy-train/images/the-gypsy-train-cover.jpg]]
->
->---
-> 
->![[plots/the-gypsy-train/table-of-contents|Table of Contents]]
->
->---
->
->**Related Locations:**
->- can be encountered anywhere
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
---- start-multi-column ---
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-Previous:
-
---- end-column ---
-
-Next: [[plots/the-gypsy-train/npc-families|NPC Families]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-next">Next: <a href="plots/the-gypsy-train/npc-families" class="internal-link">NPC Families</a> →</span>
+</div>

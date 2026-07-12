@@ -1,5 +1,19 @@
-![[plots/the-gypsy-train/images/the-gypsy-train-header.jpg]]
+
 #plot  #The_Gypsy_Train 
+
+>[!info]
+>![[plots/the-gypsy-train/images/the-gypsy-train-header.jpg]]
+>
+>---
+>
+>![[plots/the-gypsy-train/table-of-contents|Table of Contents]]
+>
+>---
+>
+>*Encampment Map*
+>![[plots/the-gypsy-train/maps/encampment.jpg]]
+
+
 # Suggested Encounters
 
 As a general introduction, use the following. 
@@ -10,7 +24,7 @@ As a general introduction, use the following.
 >
 >“What do you want?” the leader grum­bles, his accent revealing that he is not native to these parts. From what you've seen and heard on [[settlements/trade-island|Trade Island]], these must be Wandering Folk.
 
-![[plots/the-gypsy-train/maps/encampment.jpg]]
+
 
 <br>From here, let the party interact as they wish. Some suggested events are described in the following sections.<br>
 
@@ -46,13 +60,7 @@ Crossover with [[plots/undead-unicorn-invasion/undead-unicorn-invasion|Undead Un
 [[plots/the-gypsy-train/npcs/survillo-gudas|Survillo Gudas]] (wagon E) thinks that he has finally found the “right girl” – one of the female adventurers.
 
 
->[!infobox]
->![[plots/the-gypsy-train/maps/encampment.jpg]]
->
->---
->
->![[plots/the-gypsy-train/table-of-contents|Table of Contents]]
->
+
 
 
 <!-- Standard footer using "Multi-Columns" plugin -->

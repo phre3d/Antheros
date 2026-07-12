@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Magic Stones
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Coat <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 120gp
+
+
 ## Description
 A oily, thin fluid that is ochre in color. It smells and tastes like fruit and apples.
 
@@ -18,13 +25,13 @@ If thrown, they have the Thrown property, a range of 20/60 feet, and deal 1d4 da
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Calcium grease<br>
+**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
 **Essence(s):**   Earth  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -36,21 +43,6 @@ If thrown, they have the Thrown property, a range of 20/60 feet, and deal 1d4 da
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Common <br>
-**Effect Category:** Mechanic
-
-**Application:**Coat <br>
-**Duration:** 1 hour 
-
-**Price:** 120gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

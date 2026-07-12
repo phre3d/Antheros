@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Stone Salve
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Health
+>
+>**Application:**Coat <br>
+>**Duration:** Permanent 
+>
+>**Price:** 30,000gp
+
+
 ## Description
 A swirling, opalescent tonic that is red in color. It smells like chocolate and tea, but tastes like ashes and caramel.
 
@@ -14,13 +21,13 @@ This healing salve ends the petrified condition on a creature it is applied to.
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Basilisk stomach, Gorgon stomach
@@ -32,21 +39,6 @@ This healing salve ends the petrified condition on a creature it is applied to.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Health
-
-**Application:**Coat <br>
-**Duration:** Permanent 
-
-**Price:** 30,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

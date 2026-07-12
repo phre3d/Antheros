@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the Wolf
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Special
+>
+>**Application:**Ingest <br>
+>**Duration:** 1d6 minutes 
+>
+>**Price:** 280,000gp
+
+
 ## Description
 A glowing liquid that is yellow in color.  It smells like coffee and vanilla, but tastes like oranges.
 
@@ -17,13 +24,13 @@ For a month after imbibing the potion, the imbiber's hair grows at triple the no
 Created by accident while trying to devise an effective rat extermination poison.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Wolf heart
@@ -35,21 +42,6 @@ Created by accident while trying to devise an effective rat extermination poison
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Special
-
-**Application:**Ingest <br>
-**Duration:** 1d6 minutes 
-
-**Price:** 280,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the Hyena
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 10 minutes 
+>
+>**Price:** 5,100gp
+
+
 ## Description
 A yellow elixir. It smells like bread, but tastes like cinnamon.
 
@@ -15,13 +22,13 @@ Causes fits of uncontrollable, highly contagious, laughter. Every round the imbi
 Created by a bard to enhance his comedic performances
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** Hyena liver
@@ -33,21 +40,6 @@ Created by a bard to enhance his comedic performances
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 10 minutes 
-
-**Price:** 5,100gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

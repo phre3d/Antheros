@@ -1,12 +1,5 @@
 #plot  
-# Title
-### subtitle
-
-
-
-
-
->[!infobox]
+>[!info]
 >![[image-link]]
 >
 >---
@@ -27,4 +20,10 @@
 >
 >**Related Locations:**
 >- [[location-link]]
->
+
+# Title
+### subtitle
+
+
+
+

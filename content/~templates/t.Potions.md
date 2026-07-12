@@ -1,10 +1,17 @@
-#item #magic-item  #{{ItemCategory}} 
+#item/magic-item/{{toLowerDash ItemCategory}} 
 # {{Name}}
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** {{ItemType}} / {{ItemCategory}} <br>
+>**Rarity:** {{Rarity}} <br>
+>**Effect Category:** {{EffectCategory}}
+>
+>**Application:**{{Application}} <br>
+>**Duration:** {{Duration}} 
+>
+>**Price:** {{SellingPrice}}
+
+
 ## Description
 {{bb2md Description}}
 
@@ -22,7 +29,7 @@ flexGrow=2
 **Crafting DC:** {{CraftingDC}}
 
 ## Ingredients
-**Base:** {{Base}}<br>
+**Base:** [[/materials/{{Base}}|{{Base}}]]<br>
 **Essence(s):** {{#if Air}}Air  {{/if}}  {{#if Earth}}Earth  {{/if}}{{#if Fire}}Fire  {{/if}}{{#if Life}}Life  {{/if}}{{#if Shadow}}Shadow  {{/if}}{{#if Water}}Water{{/if}}<br>
 **Spell Needed:** {{#if SpellNeeded}}*{{SpellNeeded}}*{{/if}} <br>
 **Other:** {{#if OtherIngredients}}{{bb2md OtherIngredients}}{{/if}}
@@ -34,21 +41,6 @@ flexGrow=2
 *Spell Emulated:* {{#if SpellEmulated}}*{{SpellEmulated}}*{{else}}None detected{{/if}}
 
 
-```
-
-```col-md
-**Item Type/Category:** {{ItemType}} / {{ItemCategory}} <br>
-**Rarity:** {{Rarity}} <br>
-**Effect Category:** {{EffectCategory}}
-
-**Application:**{{Application}} <br>
-**Duration:** {{Duration}} 
-
-**Price:** {{SellingPrice}}
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

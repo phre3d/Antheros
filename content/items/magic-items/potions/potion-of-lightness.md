@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Lightness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Utility
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 3,500gp
+
+
 ## Description
 A swirling, viscious potion that is cyan in color. It smells like cinnamon, but tastes like nuts.
 
@@ -15,13 +22,13 @@ Cuts a character's weight by 50%, making climbing activities much easier. The on
 Used by rock climbers worldwide.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Used by rock climbers worldwide.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Utility
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 3,500gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

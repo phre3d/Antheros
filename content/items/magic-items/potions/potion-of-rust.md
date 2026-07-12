@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Rust
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Protection
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 7,100gp
+
+
 ## Description
 A slimy mixture that is amber in color. It smells and tastes like fish.
 
@@ -17,13 +24,13 @@ Each round an item is affected, it loses one level of effectiveness. For example
 Inspired by an attack against a rust monster, the tinkerer Aldon Jurdeef created a potion to emulate its effect.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Lithium Grease<br>
+**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
 **Essence(s):**   Earth  Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** Ground carapace from a rust monster
@@ -35,21 +42,6 @@ Inspired by an attack against a rust monster, the tinkerer Aldon Jurdeef created
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Protection
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 7,100gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

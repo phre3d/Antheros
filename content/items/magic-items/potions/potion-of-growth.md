@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Growth
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1d4 hours 
+>
+>**Price:** 270gp
+
+
 ## Description
 The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process. It smells like alchohol and spinach, but tastes like mead and wax.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain the enlarge effect of the Enlarge/Reduce sp
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Earth  Fire  <br>
 **Spell Needed:** *Enlarge/Reduce* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain the enlarge effect of the Enlarge/Reduce sp
 *Spell Emulated:* *Enlarge/Reduce*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1d4 hours 
-
-**Price:** 270gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

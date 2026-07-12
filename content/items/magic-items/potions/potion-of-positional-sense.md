@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Positional Sense
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 7 days 
+>
+>**Price:** 339,000gp
+
+
 ## Description
 A ruby tonic. It smells like herbs, but tastes like strawberries.
 
@@ -15,13 +22,13 @@ When imbibed ot creates a map showing the best path home in the imbiber's head. 
 This potion was created by a ranger who traveled the entire world, seeking out mysteries.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ This potion was created by a ranger who traveled the entire world, seeking out m
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 7 days 
-
-**Price:** 339,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

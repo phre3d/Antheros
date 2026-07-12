@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Recall
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 5,000gp
+
+
 ## Description
 A smoking liquid that is ivory in color. It smells and tastes like spinach.
 
@@ -14,13 +21,13 @@ While under the effects of this potion, you gain the ability to perfectly recall
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Minotaur horn
@@ -32,21 +39,6 @@ While under the effects of this potion, you gain the ability to perfectly recall
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 5,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

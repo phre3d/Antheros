@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Lightning
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 3,000gp
+
+
 ## Description
 A translucent potion that is cyan with blue flakes. It smells and tastes like sugar.
 
@@ -15,13 +22,13 @@ Fills the imbiber with a well of lightning energy. Each time an enemy succeeds i
 This poton was created by a battlemaster looking for a way for his troops to be more effectve in armed battles against enemies.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ This poton was created by a battlemaster looking for a way for his troops to be 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Offensive
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 3,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

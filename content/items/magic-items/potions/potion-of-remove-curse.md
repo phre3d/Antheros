@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Remove Curse
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** Permanent 
+>
+>**Price:** 7,000gp
+
+
 ## Description
 A swirling, watery potion that is yellow in color. It smells and tastes like vanilla and salt.
 
@@ -14,13 +21,13 @@ When you drink this potion, all curses affecting you end. If the curse is caused
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Life  Shadow  Water<br>
 **Spell Needed:** *Remove Curse* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, all curses affecting you end. If the curse is caused
 *Spell Emulated:* *Remove Curse*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** Permanent 
-
-**Price:** 7,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Deja-Vu
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Special
+>
+>**Application:**Ingest <br>
+>**Duration:** Special 
+>
+>**Price:** 318,000gp
+
+
 ## Description
 A steaming, thin elixir that is yellow in color. It smells like blood and dirt, but tastes like nuts.
 
@@ -17,13 +24,13 @@ No one else is aware of the time shift, which only affects a 30-foot radius area
 A clumsy alchemist created this time manipulative potion to 'correct' mistakes.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -35,21 +42,6 @@ A clumsy alchemist created this time manipulative potion to 'correct' mistakes.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Special
-
-**Application:**Ingest <br>
-**Duration:** Special 
-
-**Price:** 318,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

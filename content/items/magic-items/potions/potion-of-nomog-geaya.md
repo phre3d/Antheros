@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Nomog-Geaya
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 660gp
+
+
 ## Description
 A bubbling, slimy liquid that is vermillion in color. It smells like ashes and tea, but tastes like carrots.
 
@@ -14,13 +21,13 @@ For 1 minute after drinking this potion, your weapon attacks deal an extra 7 (2d
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Earth  Fire  <br>
 **Spell Needed:**  <br>
 **Other:** Strong Hobgoblin heart
@@ -32,21 +39,6 @@ For 1 minute after drinking this potion, your weapon attacks deal an extra 7 (2d
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 660gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

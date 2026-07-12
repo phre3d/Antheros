@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Oil of Light
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Common <br>
+>**Effect Category:** Spell
+>
+>**Application:**Coat <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 50gp
+
+
 ## Description
 A frothing, pulsing potion that is yellow in color. It smells like spit and blueberries, but tastes like peppermint and honey.
 
@@ -16,13 +23,13 @@ The object radiates bright light in a 60-foot radius and dim light for an additi
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
-**Base:** Calcium grease<br>
+**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -34,21 +41,6 @@ The object radiates bright light in a 60-foot radius and dim light for an additi
 *Spell Emulated:* *Light*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Common <br>
-**Effect Category:** Spell
-
-**Application:**Coat <br>
-**Duration:** 1 hour 
-
-**Price:** 50gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

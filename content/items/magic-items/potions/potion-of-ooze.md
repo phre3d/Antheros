@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Ooze
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Skill
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 350,000gp
+
+
 ## Description
 A smoking, thick substance that is pink with blue flecks. It smells and tastes like vegetables.
 
@@ -15,13 +22,13 @@ Turn the imbiber and all worn possessions into an ooze that can slide through ti
 The renowned thief, Reno Remora, needed a way to squeeze through tight spaces - like cracks in the wall, under doors, and other equally tight spaces. He commissioned the development of a potion to help with this.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 5oz of any colored Ooze or Jelly
@@ -33,21 +40,6 @@ The renowned thief, Reno Remora, needed a way to squeeze through tight spaces - 
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Skill
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 350,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the Iron Fist
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 7,000gp
+
+
 ## Description
 A steaming, thick fluid that is vermillion with scarlet bubbles. It smells like licorice and coconut, but tastes like wine and celery.
 
@@ -15,13 +22,13 @@ The hands become even deadlier weapons, gaining a bonus of 1d10 bludgeoning dama
 Created by the monk Jurok, this potion makes the hands iron hard.
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** An iron hammer
@@ -33,21 +40,6 @@ Created by the monk Jurok, this potion makes the hands iron hard.
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 7,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

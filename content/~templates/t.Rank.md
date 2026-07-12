@@ -1,16 +1,26 @@
-#import #rank 
+#rank 
+
+>[!info]
+>Image
+>
+>---
+>
+>**Type:** <br>
+>**Comparative Weight:** <br>
+>**Status:** <br>
+>**Form of Address:** <br>
+>**Alternative Names:** <br>
+>**Reports-to Rank:** [[rank/]]<br>
+>**Equates to:** <br>
+>**Length of Term:** <br>
+>
+>**Related Organizations:**
+>- [[organization/title]]
+
 # Title
 
-### 
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-# Description
+
 
 
 # Qualifications
@@ -52,27 +62,7 @@ shadow: off
 # Notable Holders
 
 
---- end-column ---
 
-**Image:**  ()
-
-
-
-**Type:** <br>
-**Comparative Weight:** <br>
-**Status:** <br>
-**Form of Address:** <br>
-**Alternative Names:** <br>
-**Reports-to Rank:** [[rank/]]<br>
-**Equates to:** <br>
-**Length of Term:** <br>
-
-**Related Organizations:**
-- [[organization/title]]
-
---- end-multi-column 
-
----
 
 
 

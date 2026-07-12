@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Euphoria
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 3,100gp
+
+
 ## Description
 A indigo liquid with vermillion accretions on the side. It smells like vomit and pine needles, but tastes like carrots.
 
@@ -15,13 +22,13 @@ This potion makes the imbiber believe they are invincible.
 Originally created for a berserker army to make them constantly attack recklessly.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Originally created for a berserker army to make them constantly attack recklessl
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 3,100gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

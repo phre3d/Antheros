@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Protection from Evil and Good
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 2,800gp
+
+
 ## Description
 A ichorous tonic that is jade in color. It smells like alchohol and black pepper, but tastes like grass and caramel.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain the effect of the protection from evil and 
 
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Fire  Life  Shadow  <br>
 **Spell Needed:** *Protection from Evil and Good* <br>
 **Other:** 
@@ -32,21 +39,6 @@ When you drink this potion, you gain the effect of the protection from evil and 
 *Spell Emulated:* *Protection from Evil and Good*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 2,800gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Recklessness
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 430gp
+
+
 ## Description
 A swirling, fizzing draught that is crimson in color. It smells like rot, but tastes like urine and raspberries.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain advantage on melee weapon attack rolls usin
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Alcohol<br>
+**Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** Barlgura tusk
@@ -32,21 +39,6 @@ When you drink this potion, you gain advantage on melee weapon attack rolls usin
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 430gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

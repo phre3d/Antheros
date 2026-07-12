@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the Red Cross
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Uncommon <br>
+>**Effect Category:** Health
+>
+>**Application:**Ingest <br>
+>**Duration:** Instantaneous 
+>
+>**Price:** 610gp
+
+
 ## Description
 A boiling substance that is sapphire in color. It smells and tastes like rot and cucumber.
 
@@ -15,13 +22,13 @@ When imbibed within two rounds of collapse (i.e. hitting 0 HP), the potion resto
 This potion was developed by an alchemist at the behest of a mining operation where workers often dropped dead from exhaustion.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
-**Base:** Aqua Regia<br>
+**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ This potion was developed by an alchemist at the behest of a mining operation wh
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Uncommon <br>
-**Effect Category:** Health
-
-**Application:**Ingest <br>
-**Duration:** Instantaneous 
-
-**Price:** 610gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

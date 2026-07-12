@@ -1,3 +1,7 @@
+---
+name: The Black Hand
+---
+
 #import #organization   #Free_City_of_Haven #type-guild-thieves
 # The Black Hand
 

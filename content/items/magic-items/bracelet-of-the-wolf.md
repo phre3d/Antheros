@@ -1,13 +1,21 @@
-#import #item #magic-item 
+#item/magic-item 
 # Bracelet of the Wolf
+>[!info]
+>![[bracelet-of-the-wolf.webp]]
+>
+>---
+>
+>**Rarity:** Rare
+>
+>**Weight:** <br>
+>**Dimensions:** <br>
+>**Base Price:** 
+>
+>**Creation Date:** <br>
+>**Destruction Date:**  
+>
+>**Current Holder:** [[people/arada-thornkin|Arada Thornkin]]<br>
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
 **Item Type:** Wondrous Item<br>
 **Rarity:** Very Rare<br>
 **Price:** <br>
@@ -23,7 +31,6 @@ Can only be used be a [[ranks/luna|Luna]].
 
 **Moonbeam:**  Ability to cast the Druid  *Moonbeam*  spell as if the Luna was a 5th level Druid. This can be done 3x / day, resetting at dawn.
 
----
 
 # Description
 A bracelet of the Wolf is given to a werewolf pack's [[ranks/luna|Luna]] as a symbol of her authority and power. 
@@ -44,22 +51,3 @@ The bracelet is very strong despite its fine craftsmanship.
  - can honsetly say she doesn't have it any more
  - trusts Arada not to lose it
  - will get it back eventually - one way or another
-
---- end-column ---
-
-![[bracelet-of-the-wolf.webp]]
-
----
-
-**Rarity:** Rare
-
-**Weight:** <br>
-**Dimensions:** <br>
-**Base Price:** 
-
-**Creation Date:** <br>
-**Destruction Date:**  
-
-**Current Holder:** [[people/arada-thornkin|Arada Thornkin]]<br>
-
---- end-multi-column

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of the 8-Ball
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 attack 
+>
+>**Price:** 3,900gp
+
+
 ## Description
 A bubbling, thick potion that is copper with yellow globules. It smells like carrots, but tastes like urine.
 
@@ -19,13 +26,13 @@ Note: This cascade of attacks can strike targets more than once. The attacker ma
 A ranger who preferred hunting with a slingshot developed a unique potion that could cause him to aim so precisely and calculate angles so perfectly that he could strike multiple targets with one piece of ammunition.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -37,21 +44,6 @@ A ranger who preferred hunting with a slingshot developed a unique potion that c
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 1 attack 
-
-**Price:** 3,900gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

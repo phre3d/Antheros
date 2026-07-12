@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Skipping
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Very Rare <br>
+>**Effect Category:** Spell
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 minute 
+>
+>**Price:** 30,000gp
+
+
 ## Description
 A glowing tonic that is red with scarlet glows. It smells and tastes like milk.
 
@@ -19,13 +26,13 @@ Once per round, the imbiber teleports to the viewed location as a bonus action.
 Commissioned by a mountaintop ruler that needed a faster way to travel around their realm.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
-**Base:** Pure alcohol<br>
+**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -37,21 +44,6 @@ Commissioned by a mountaintop ruler that needed a faster way to travel around th
 *Spell Emulated:* *Teleport*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Very Rare <br>
-**Effect Category:** Spell
-
-**Application:**Ingest <br>
-**Duration:** 1 minute 
-
-**Price:** 30,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

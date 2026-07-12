@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Evasion
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 4,900gp
+
+
 ## Description
 A blue elixir with cobalt globules. It smells like honey and rum, but tastes like lettuce.
 
@@ -14,13 +21,13 @@ If you are subjected to an effect that allows you to make a Dexterity saving thr
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** Demilich tooth
@@ -32,21 +39,6 @@ If you are subjected to an effect that allows you to make a Dexterity saving thr
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 4,900gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of True Seeing
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 3,400gp
+
+
 ## Description
 A ichorous liquid that is ochre in color. It smells like herbs, but tastes like ginger.
 
@@ -15,13 +22,13 @@ Allows one to see through all illusions to the real world behind them.
 Created by a circus owner for his workers in the house of illusions so they could do their work without distraction.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled Alcohol<br>
+**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 
@@ -33,21 +40,6 @@ Created by a circus owner for his workers in the house of illusions so they coul
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 3,400gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

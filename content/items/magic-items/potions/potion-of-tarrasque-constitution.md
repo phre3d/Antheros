@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Tarrasque Constitution
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Stat
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 338,000gp
+
+
 ## Description
 A glowing, slimy potion that is indigo in color. It smells and tastes like chemicals.
 
@@ -14,13 +21,13 @@ When you drink this potion, your Constitution score becomes 30. The potion has n
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Tarrasque gullet (makes 1d10 potions)
@@ -32,21 +39,6 @@ When you drink this potion, your Constitution score becomes 30. The potion has n
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Stat
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 338,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

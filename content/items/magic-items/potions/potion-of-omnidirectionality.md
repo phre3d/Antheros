@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Omnidirectionality
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Mind
+>
+>**Application:**Ingest <br>
+>**Duration:** 8 hours 
+>
+>**Price:** 257,000gp
+
+
 ## Description
 A reflective, watery potion that is purple in color. It smells and tastes like tea.
 
@@ -15,13 +22,13 @@ Your mind reaches out and touches all insect life within 100'. It builds a compo
 A brave mapmaker created this unique visual-oriented potion to help her survey and map remote corners of the world.
 
 ## Crafting
-**Crafted By:** [[profession/herbalist|Herbalist]]<br>
+**Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Queen from any hive-based insect (e.g. bee, ant) or brain from a giant-class insect
@@ -33,21 +40,6 @@ A brave mapmaker created this unique visual-oriented potion to help her survey a
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Mind
-
-**Application:**Ingest <br>
-**Duration:** 8 hours 
-
-**Price:** 257,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

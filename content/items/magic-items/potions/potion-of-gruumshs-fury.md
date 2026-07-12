@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Gruumsh's Fury
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Rare <br>
+>**Effect Category:** Mechanic
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 3,000gp
+
+
 ## Description
 An azure mixture. It smells like peach, but tastes like raspberries and blueberries.
 
@@ -14,13 +21,13 @@ When you drink this potion, your melee attacks deal an extra 1d8 damage. This ef
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
-**Base:** Distilled alcohol<br>
+**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Earth  Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Orc Left Eye of Fury
@@ -32,21 +39,6 @@ When you drink this potion, your melee attacks deal an extra 1d8 damage. This ef
 *Spell Emulated:* None detected
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Rare <br>
-**Effect Category:** Mechanic
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 3,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  

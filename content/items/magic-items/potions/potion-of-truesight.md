@@ -1,10 +1,17 @@
-#item #magic-item  #Potion 
+#item/magic-item/potion 
 # Potion of Truesight
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info]
+>**Item Type/Category:** Magic Item / Potion <br>
+>**Rarity:** Legendary <br>
+>**Effect Category:** Sense
+>
+>**Application:**Ingest <br>
+>**Duration:** 1 hour 
+>
+>**Price:** 318,000gp
+
+
 ## Description
 A reflective liquid that is scarlet in color. It smells like spit, but tastes like blueberries and bannanas.
 
@@ -14,13 +21,13 @@ When you drink this potion, you gain truesight to a distance of 120 feet.
 
 
 ## Crafting
-**Crafted By:** [[profession/alchemist|Alchemist]]<br>
+**Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
-**Base:** Alkahest<br>
+**Base:** [[/materials/Alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  Water<br>
 **Spell Needed:** *True Seeing* <br>
 **Other:** Arcanaloth eye, Demilich tooth, Erinyes feather, Eye of the Empyrean, Eye of the Sphinx, Marilith head, Nothic eye
@@ -32,21 +39,6 @@ When you drink this potion, you gain truesight to a distance of 120 feet.
 *Spell Emulated:* *True Seeing*
 
 
-```
-
-```col-md
-**Item Type/Category:** Magic Item / Potion <br>
-**Rarity:** Legendary <br>
-**Effect Category:** Sense
-
-**Application:**Ingest <br>
-**Duration:** 1 hour 
-
-**Price:** 318,000gp
-
-
-```
-````
 ---
 *Source:*     <!-- Original Source of the item -->
  
