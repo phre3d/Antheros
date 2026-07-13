@@ -77,12 +77,12 @@ plugins:
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
     order: 40
-#  - source: github:quartz-community/table-of-contents
-#    enabled: true
-#    order: 50
-#    layout:
-#      position: right
-#      priority: 30
+  - source: github:quartz-community/table-of-contents
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -157,11 +157,11 @@ plugins:
     layout:
       position: left
       priority: 50
-#  - source: github:quartz-community/graph
-#    enabled: true
-#    layout:
-#      position: right
-#      priority: 10
+  - source: github:quartz-community/graph
+    enabled: true
+    layout:
+      position: right
+      priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -170,11 +170,11 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
-#  - source: github:quartz-community/backlinks
-#    enabled: true
-#    layout:
-#      position: right
-#      priority: 50
+  - source: github:quartz-community/backlinks
+    enabled: true
+    layout:
+      position: right
+      priority: 50
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -185,11 +185,11 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
-#  - source: github:quartz-community/tag-list
-#    enabled: false
-#    layout:
-#      position: beforeBody
-#      priority: 30
+  - source: github:quartz-community/tag-list
+    enabled: false
+    layout:
+      position: beforeBody
+      priority: 30
   - source: github:quartz-community/page-title
     enabled: true
     layout:
@@ -221,12 +221,12 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-#  - source: github:quartz-community/footer
-#    enabled: true
-#    options:
-#      links:
-#        GitHub: https://github.com/jackyzha0/quartz
-#        Discord Community: https://discord.gg/cRFFHYye7t
+  - source: github:quartz-community/footer
+    enabled: true
+    options:
+      links:
+        GitHub: https://github.com/jackyzha0/quartz
+        Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
