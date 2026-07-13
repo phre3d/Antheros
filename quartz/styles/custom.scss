@@ -8,3 +8,9 @@
 @use "two-col-7030.css";
 @use "two-col-5050.css";
 @use "wikipedia.css";
+
+// Make the page wider by expanding the middle portion
+.center {
+    max-width: 1200px;
+    width: 90%;
+}
