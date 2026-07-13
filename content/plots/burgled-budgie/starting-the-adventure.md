@@ -1,6 +1,21 @@
 ![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
 #plot  #Burgled_Budgie  
 # Starting the Adventure
+
+>[!info]
+>![[plots/burgled-budgie/table-of-contents]]
+>
+>---
+>
+>*Lady Windlewood* (AI created)
+>![[plots/burgled-budgie/images/lady-windlewood.jpg]]
+>
+>---
+>
+>*Higgins*
+>![[plots/burgled-budgie/images/higgins.jpg]]
+>
+
 The adventure begins in the parlor of Windlewood Manor – the PCs have each received a letter of summons from the captain of the guard explaining that they’ve been deputized to investigate this matter, with the understanding that they will be fairly compensated by Lady Windlewood. Upon arrival at Windlewood Manor, they are ushered into the opulent parlor by Higgins, the head butler, deposited on luxurious couches, and given tea and deputization forms.
 
 Allow the players a few minutes to introduce their characters and interact. When enough time has passed, continue to the next section.
@@ -26,18 +41,6 @@ Eventually she will dismiss the party to begin the investigation. If they want t
 
 >[!read aloud]
 >Higgins is a slim, impeccably groomed, and stands ramrod straight. He has dark hair, neatly combed and kept short and a prominent, well-groomed mustache. Dressed in conservative, proper clothing, he carries himself with an air of precision and discipline, emphasizing his role as the meticulous caretaker of the estate.
-
-
->[!infobox]
->![[plots/burgled-budgie/table-of-contents]]
->
->---
->*Lady Windlewood* (AI created)
->![[plots/burgled-budgie/images/lady-windlewood.jpg]]
->---
->*Higgins*
->![[plots/burgled-budgie/images/higgins.jpg]]
->
 
 
 <!-- Standard footer using HTML, which transfers to Quartz -->

@@ -1,5 +1,7 @@
+![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
 #plot  #Burgled_Budgie  
-![[plots/burgled-budgie/images/burgled-budgie-header.jpg|no-float]]
+# The Investigation
+
 >[!info]
 >![[plots/burgled-budgie/table-of-contents|Table of Contents]]
 >
@@ -12,7 +14,7 @@
 >
 >*Windlewood Manor, 1st Floor*
 ><a class="internal-link" href="plots/burgled-budgie/maps/maps##first floor"><img src="plots/burgled-budgie/maps/windlewood-manor-1st-Floor.jpg"/></a>
-# The Investigation
+
 
 There are numerous people and places involved in this caper, and it’s up to the PCs to put together the series of events and figure out what’s important and what’s not! Listed below are some of the important locations and NPCs in Windlewood Manor.
 
@@ -41,14 +43,14 @@ Higgins will accompany the PCs as they search for clues and interview the manor�
 ### Jane, the Scullery Maid
 Jane is at work in the kitchen, scrubbing pots and being bossed around by the cook. She doesn’t reveal anything easily, but a DC 18 Diplomacy or Intimidation check convinces her to open up a bit. She firmly maintains her innocence when questioned. If the PCs convince her to talk, she admits that she was up in the middle of the night to meet with Robert, but no one knows that the two of them are in a relationship and she’s desperate to keep it that way. On her way to the meeting she heard weird noises from the study and decided to investigate; however, nothing seemed amiss, so she didn’t tell anyone but Robert.
 
----
+
 
 # The Rival 
 [[plots/burgled-budgie/npcs/lady-windlewood|Lady Windlewood's]] rival, Matilda Brumblebush, has a very valid alibi regarding the accusations levied against her: she's currently out of town on vacation, and has been for the past month. This fact is being kept quiet to lessen the risk of burglary during her absence, and the household staff are all being retained in the manor to complete the illusion of business as usual. 
 
 If the PCs investigate Lady Brumblebush they'll be rebuffed by [[plots/burgled-budgie/npcs/jenkins|Jenkins]], her imposing half-orc butler. If they reveal that she's suspected of planning the burglary, he'll give them enough information to clear his mistress of any guilt and request that her absence be kept secret.
 
----
+
 
 # Percival’s Pet Emporium
 
@@ -71,7 +73,7 @@ Pemma is the cheerful halfling cashier currently working the storefront. She is 
 
 If the PCs bring the crumpled drawing to their attention, both Pemma and Karvatticus recognize the drawing as one that Herbert brought in as an example to show them the kind of bird he wanted to purchase. They also recognize his cologne if asked to take a whiff.
 
----
+
 
 # Tibbles and the Snipe
 > If the players are having a hard time figuring out where to go next in their investigation or are missing some key information, Tibbles will approach and fill them in. This little orange short-hair tabby with white paws, green eyes, and a black collar is actually Herbert’s familiar. She can speak aloud thanks to an enchantment on the collar. She won’t willingly let anyone touch the collar, as it’s her only way to communicate with people. Herbert has concocted an altered version of find familiar that permits him to form a bond with ordinary animals, and it is this spell that he’s hoping to use on the phoenix once his preparations are finished. Tibbles is a normal cat who has been made into a familiar using this spell a couple of years ago. She doesn’t remember much about her “normal” life before she had the collar and a master, and she  can’t offer any details on the process that granted her sentience.

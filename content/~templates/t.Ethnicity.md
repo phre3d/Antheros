@@ -11,13 +11,12 @@ shadow: off
 # Description
 
 
----
+
 
 # Naming Traditions
 > [!tip]
 > For this section, consider things like gendered/non gendered names, surnames/family name
 
----
 
 # Culture
 > [!tip]
@@ -25,13 +24,13 @@ shadow: off
 > codes & values, etiquette, dress, arts, architecture, food/cuisine, myths & legends, 
 > historical figures, major organizations
 
----
+
 
 # Rites & Observations
 > [!tip]
 > For this section, consider things like birth / death, coming of age, taboos, religion 
 
----
+
 
 # Ideals
 > [!tip]

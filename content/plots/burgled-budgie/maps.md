@@ -1,5 +1,9 @@
-#map #Burgled_Budgie 
-# Battlemaps
+![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
+#plot  #Burgled_Budgie  #maps
+# Maps
+
+>[!info]
+>![[plots/burgled-budgie/table-of-contents]]
 
 ## Windlewood Manor
 ### First Floor

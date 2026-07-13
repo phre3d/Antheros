@@ -6,7 +6,7 @@
 >**Rarity:** {{Rarity}} <br>
 >**Effect Category:** {{EffectCategory}}
 >
->**Application:**{{Application}} <br>
+>**Application:** {{Application}} <br>
 >**Duration:** {{Duration}} 
 >
 >**Price:** {{SellingPrice}}

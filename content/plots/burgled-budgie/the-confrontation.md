@@ -2,6 +2,21 @@
 ![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
 #plot  #Burgled_Budgie  
 # The Confrontation
+
+>[!info]
+>![[plots/burgled-budgie/table-of-contents]]
+>
+>---
+>
+>*Spillwyrt’s Stupendous Sundries*
+> ![[plots/burgled-budgie/images/sss-sign.jpg]]
+> 
+>---
+>
+>*Store & Warehouse*
+><a class="internal-link" href="plots/burgled_budgie/maps/burgled-budgie-maps#Warehouse"><img src="plots/burgled-budgie/maps/warehouse.jpg"/></a>
+
+
 Herbert is holed up in a warehouse in a seedy part of town. He has set up living quarters and a magical lab in the main part building, and he has remodeled a smaller section in the front as a magic item shop: Spillwyrt’s Stupendous Sundries. He’s not doing well financially and isn’t a very good businessman, hence his aggressive haggling and pricing. Players will likely have to search through the building in order to find him.
 
 >[!read Aloud]
@@ -100,18 +115,7 @@ This is Herbert’s bedroom. It contains a bureau, his cologne, books on transmu
 
 
 
->[!infobox]
->![[plots/burgled-budgie/table-of-contents]]
->
->---
->
->*Spillwyrt’s Stupendous Sundries*
-> ![[plots/burgled-budgie/images/sss-sign.jpg]]
-> 
->---
->
->*Store & Warehouse*
-><a class="internal-link" href="plots/burgled_budgie/maps/burgled-budgie-maps#Warehouse"><img src="plots/burgled-budgie/maps/warehouse.jpg"/></a>
+
 
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
