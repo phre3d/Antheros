@@ -8,8 +8,8 @@
  * assuming mobile < desktop
  */
 $breakpoints: (
-  mobile: 1000px,
-  desktop: 1400px,
+  mobile: 600px,
+  desktop: 800px,
 );
 
 $mobile: "(max-width: #{map.get($breakpoints, mobile)})";
