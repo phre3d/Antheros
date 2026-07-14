@@ -1,4 +1,5 @@
 @use "./variables.scss" as *;
+@use "./base/scss";
 @use "./themes";
 @use "callouts-outlined.css";
 @use "read-aloud-callout.css";
@@ -17,7 +18,9 @@
 
 // use whole page
 .page {
-  //max-width: 1500px; // default maximum width
-  max-width: unset; // remove space on the sides, stretches content
+    //max-width: 1500px; // default maximum width
+    max-width: unset !important; // remove space on the sides, stretches content
 }
-
+.center {
+    max-width: 80% !important;
+}
