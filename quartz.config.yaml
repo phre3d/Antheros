@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Antheros
+  pageTitle: The World of Antheros
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -207,12 +207,12 @@ plugins:
       position: left
       priority: 35
       group: toolbar
-  - source: github:quartz-community/breadcrumbs
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 5
-      condition: not-index
+#  - source: github:quartz-community/breadcrumbs
+#    enabled: true
+#    layout:
+#      position: beforeBody
+#      priority: 5
+#      condition: not-index
 #  - source: github:quartz-community/comments
 #    enabled: false
 #    options:

@@ -16,8 +16,14 @@
     display: none !important;
 }
 
+// hide tag links 
+.tag-link {
+    display: none !important;
+}
+
+
 // use whole page
-.page {
+body.page {
     //max-width: 1500px; // default maximum width
     max-width: unset !important; // remove space on the sides, stretches content
 }
