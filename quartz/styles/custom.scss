@@ -16,9 +16,8 @@
 }
 
 // use whole page
-body {
-  div.page {
-    max-width: 100% !important;
-    width: 100% !important;
-  }
+.page {
+  //max-width: 1500px; // default maximum width
+  max-width: unset; // remove space on the sides, stretches content
 }
+
