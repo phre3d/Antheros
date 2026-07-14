@@ -59,3 +59,6 @@ For more exciting adventures, settings, and mechanics, visit us at [Pandamancer.
 <div class="page-nav">
    <span class="nav-next">Next: <a href="plots/burgled-budgie/starting-the-adventure" class="internal-link">Starting the Adventure</a> →</span>
 </div>
+
+
+![[plots/burgled-budgie/table-of-contents]]
