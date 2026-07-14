@@ -10,7 +10,15 @@
 @use "two-col-5050.css";
 
 
-// hide the page header
+// hide the Quartz page header
 .page-header {
     display: none !important;
+}
+
+// use whole page
+body {
+  div.page {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
 }
