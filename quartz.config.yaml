@@ -260,11 +260,12 @@ plugins:
       display: all
   - source:
       name: quartz-themes
-      repo: github:saberzero1/quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: "wikipedia"
+      mode: both
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
