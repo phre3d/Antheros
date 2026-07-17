@@ -9,7 +9,6 @@
 @use "two-col-7030.css";
 @use "two-col-5050.css";
 
-
 // hide the Quartz page header
 .page-header {
     display: none !important;
@@ -20,6 +19,10 @@
     display: none !important;
 }
 
+// hide page listing (list of files in the folder)
+.page-listing {
+    display: none !important;
+}
 
 // use whole page
 .page {
