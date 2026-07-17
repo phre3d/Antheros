@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Draka Ogolakanu
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Draka Ogolakanu
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +9 to hit , 2d4+6 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

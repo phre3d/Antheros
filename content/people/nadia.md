@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Nadia
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nadia
 
-### 
+###
 
-**Full Name:**  Nadia      
+**Full Name:**  Nadia
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nadia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

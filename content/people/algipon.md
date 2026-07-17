@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-commons]
+title: Algipon
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Algipon
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Known as Gip, for short - the name's the only thing about him that is short) sta
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/algipon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Scammer Girl
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Scammer Girl
 
-### 
+###
 
-**Full Name:**  Scammer  Girl    
+**Full Name:**  Scammer  Girl
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Girl Scam
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/scammer-girl]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

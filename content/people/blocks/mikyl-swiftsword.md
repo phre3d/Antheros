@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mikyl Swiftsword
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mikyl Swiftsword
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +5 to hit , 1d8+1 slashing damage  
   **Shortbow:**  +5 to hit , 1d6+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

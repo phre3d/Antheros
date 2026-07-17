@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Damon N. Pythias
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Damon N. Pythias
 
 ````col
@@ -36,35 +42,3 @@ flexGrow=2
 
 ```
 ````
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

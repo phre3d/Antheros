@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Maedhros
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Maedhros
 
-### 
+###
 
-**Full Name:** God of Fire, Patron of Metalworkers       
+**Full Name:** God of Fire, Patron of Metalworkers
 
 `````col
 ````col-md
@@ -208,13 +214,10 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 928a98b6-5cca-47d7-82cc-78f092e55d65

@@ -1,8 +1,12 @@
 ---
-location: [4537.432,  719.388]
+aliases: []
+tags: [map-marker]
+location: [4537.432, 719.388]
 mapmarker: Shopping
+title: Konig - Master Armorer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Konig - Master Armorer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/konig-master-armorer|Konig - Master Armorer]]<br>
 **Location Type:** Armor
 
-**Description**<br> 
-
+**Description**<br>

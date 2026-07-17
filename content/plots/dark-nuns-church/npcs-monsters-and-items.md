@@ -1,5 +1,12 @@
-#import #plot  #Dark_Nuns_Church
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, plot]
+title: NPCs, Monsters, and Items
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 ![[plots/dark-nuns-church/images/the-dark-nuns-church-header.jpg]]
+
 # NPCs, Monsters, and Items
 
 ````col
@@ -75,8 +82,6 @@ Instructions for [[plots/dark-nuns-church/scaling-encounters|Scaling Encounters]
 
 ```
 ````
-
-
 
 ---
 

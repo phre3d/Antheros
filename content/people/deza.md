@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #scholars-triangle #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scholars-triangle, the-cauldron]
+title: Deza
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Deza
 
-### 
+###
 
-**Full Name:**  Deza      
+**Full Name:**  Deza
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ An 18-year old half-orc girl who has been taken in by Master [[person/nimoyin|Ni
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/deza]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

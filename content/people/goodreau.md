@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-heights]
+title: Goodreau
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Goodreau
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Runs a food market selling meat, fruit and dairy products.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/goodreau]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

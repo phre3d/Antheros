@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/entertainers, import, npc, person, the-street-of-harps]
+title: Koali Mazurka
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Koali Mazurka
 
-### 
+###
 
-**Full Name:**  Koali  Mazurka    
+**Full Name:**  Koali  Mazurka
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ an illusionist, and provides for the dazzling special effects with their dancers
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/koali-mazurka]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

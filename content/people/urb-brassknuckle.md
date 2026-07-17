@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Urb Brassknuckle
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Urb Brassknuckle
 
-### 
+###
 
-**Full Name:**  Urb  Brassknuckle    
+**Full Name:**  Urb  Brassknuckle
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Urb, is a mean and tough half-orc, when he hits, it's like he wears brass...no, 
 
 ---
 
-
-
 ![[people/blocks/urb-brassknuckle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #plot  #The_City_Watch
+---
+aliases: []
+tags: [import, plot, plot/The_City_Watch]
+title: "TCW: The Curse"
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 # TCW: The Curse
 
 ````col

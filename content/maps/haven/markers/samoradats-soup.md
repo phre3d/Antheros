@@ -1,8 +1,12 @@
 ---
-location: [3374.166,  4856.122]
+aliases: []
+tags: [map-marker]
+location: [3374.166, 4856.122]
 mapmarker: Dining
+title: "Samoradat's Soup"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Samoradat's Soup
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/samoradats-soup|Samoradat's Soup]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [3888.452,  6342.857]
+aliases: []
+tags: [map-marker]
+location: [3888.452, 6342.857]
 mapmarker: Dining
+title: The Snowblind Mouse
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Snowblind Mouse
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/the-snowblind-mouse|The Snowblind Mouse]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

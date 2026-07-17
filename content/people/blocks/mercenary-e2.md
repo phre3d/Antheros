@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary E2
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary E2
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Halberd:**  +4 to hit , 1d10+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

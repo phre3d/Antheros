@@ -1,8 +1,12 @@
 ---
-location: [1845.595,  6331.633]
+aliases: []
+tags: [map-marker]
+location: [1845.595, 6331.633]
 mapmarker: Shopping
+title: Honest Boris - Fine Jewellery
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Honest Boris - Fine Jewellery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/honest-boris-fine-jewellery|Honest Boris - Fine Jewellery]]<br>
 **Location Type:** Jeweler
 
-**Description**<br> 
-
+**Description**<br>

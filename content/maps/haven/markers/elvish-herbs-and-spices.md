@@ -1,8 +1,12 @@
 ---
-location: [3504.779,  1236.735]
+aliases: []
+tags: [map-marker]
+location: [1236.735, 3504.779]
 mapmarker: Shopping
+title: Elvish Herbs and Spices
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Elvish Herbs and Spices
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/elvish-herbs-and-spices|Elvish Herbs and Spices]]<br>
 **Location Type:** Spices
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#person #npc 
+---
+aliases: []
+tags: [npc, person]
+title: Torik
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Torik
 
 ````col
@@ -41,10 +47,10 @@ flexGrow=2
 ```
 ````
 
-
 ---
 
 # Description
+
 Young boy from [[settlements/outside-haven/valtalar|Valtalar]] that ran away from home to find adventure in Haven.
 
 Taken under [[people/turin-windrider|Turin Windrider's]] wing when he was found by the party. Has a case of hero-worship towards Turin and, to a lesser extent, to the rest of the party.
@@ -54,7 +60,3 @@ Taken under [[people/turin-windrider|Turin Windrider's]] wing when he was found 
 **Flaws:** getting into trouble<br>
 
 ---
-
-
-
-

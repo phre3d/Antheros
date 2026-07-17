@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, south-caravan-street]
+title: Turikonis Plainsrunner
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Turikonis Plainsrunner
 
-### 
+###
 
-**Full Name:**  Turikonis  Plainsrunner    
+**Full Name:**  Turikonis  Plainsrunner
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Works for [[person/eaglewing-longeye|Eaglewing Longeye]]
 
 ---
 
-
-
 ![[people/blocks/turikonis-plainsrunner]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

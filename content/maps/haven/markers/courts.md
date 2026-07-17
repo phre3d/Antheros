@@ -1,8 +1,12 @@
 ---
-location: [5031.309,  4395.918]
+aliases: []
+tags: [map-marker]
+location: [4395.918, 5031.309]
 mapmarker: Government
+title: Courts
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Courts
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Government
 **Location:** [[landmarks/courts|Courts]]<br>
 **Location Type:** Courthouse
 
-**Description**<br> 
+**Description**<br>
+
 The courthouse

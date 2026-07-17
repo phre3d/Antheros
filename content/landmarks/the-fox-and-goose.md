@@ -1,41 +1,59 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, street-of-silk-veils, type-tavern]
+title: The Fox and Goose
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Fox and Goose
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A pleasant sojourning spot 
 
-## Description 
+# Description
+
+## A pleasant sojourning spot
+
+## Description
+
 [[people/randy-shuttlecock|Randy Shuttlecock]] lives up to both his names. It is said that he has sampled all the regulars in all of the houses on Silk Veils. He is middle-aged, and quite handsome. Keeping in trim is his second favorite hobby. He can usually be found at the tavern between 8:00am and 6:00pm.
 
-## Exterior 
+## Exterior
+
 The tavern is located on the lower floor of a large two-story Tudor-styled building. The entrance is on the corner. Over the doors hangs a sign depicting a fox dragging a goose in its mouth.
 
-## Interior 
+## Interior
+
 The common room is large and airy, lit by many windows along the south and west sides of the building. The bar is placed along the north wall of the common room, and runs the entire length of the room. Seating space is available for some 250 customers.
 
-## Hours 
+## Hours
+
 24 hours a day.
 
-## Price Range 
+## Price Range
+
 Fair.
 
-## Quality 
+## Quality
+
 Fair.
 
-## Cash Box 
+## Cash Box
+
 Randy keeps a small iron-bound box under the bar at the east end.
 
-## Staff 
+## Staff
+
 There are 3 shifts of servitors at the tavern. Randy has selected two people he trusts to keep the place open around the clock. There are about 10 serving wenches on each shift, most of them aspiring actresses from around Gambol Street. With the availability of company on [[settlements/the-street-of-silk-veils|The Street of Silk Veils]], the girls seldom solicit trade.
 
-## Customers 
+## Customers
+
 The common room is normally about half full, with very limited seating from 4:00pm to 2:00am.
 
 # Purpose / Function
@@ -72,7 +90,7 @@ The common room is normally about half full, with very limited seating from 4:00
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  Randy Shuttlecock
 
@@ -84,12 +102,14 @@ The common room is normally about half full, with very limited seating from 4:00
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -106,6 +126,7 @@ The common room is normally about half full, with very limited seating from 4:00
 ---
 
 ### World Anvil Metadata
+
 **Id:** 03624e67-ff96-4846-9f22-c639d0155534<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -114,7 +135,9 @@ The common room is normally about half full, with very limited seating from 4:00
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

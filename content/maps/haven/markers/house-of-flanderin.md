@@ -1,8 +1,12 @@
 ---
-location: [3508.86,  1052.041]
+aliases: []
+tags: [map-marker]
+location: [1052.041, 3508.86]
 mapmarker: Shopping
+title: House of Flanderin
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Flanderin
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/house-of-flanderin|House of Flanderin]]<br>
 **Location Type:** Textiles
 
-**Description**<br> 
-
+**Description**<br>

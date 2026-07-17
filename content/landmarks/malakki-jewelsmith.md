@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-jeweler #jewelers-guild #jeweler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jeweler, jewelers-guild, landmark, the-dwarrow, type-jeweler]
+title: Malakki - Jewelsmith
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Malakki - Jewelsmith
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Gem cutters and Admirers 
 
-## Description 
+# Description
+
+## Gem cutters and Admirers
+
+## Description
+
 [[people/malakki|Malakki]] and his four assistants cut and facet gemstones, and are highly renowned for their precision. There is a high demand for their services, and new commissions (especially if from private citizens rather than traders of Guild jewelers) will take 2-4 weeks to complete. [[people/malakki|Malakki]] is honest to a fault but very paranoid. He keeps his backlog in a huge concrete storage vault and has five guards permanently on the premises. He deals infrequently with non-dwarves, and even more rarely with travelers. He and his staff know little useful gossip.
 
-## Price Range 
+## Price Range
+
 High
 
-## Quality 
+## Quality
+
 Excellent
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Excellent
 
 **Image:** n/a
 
-**Jeweler (Shopping)** 
+**Jeweler (Shopping)**
 
  **Owner:**  Darvi arn Malakki
 
@@ -66,12 +78,14 @@ Excellent
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Jeweler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Excellent
 ---
 
 ### World Anvil Metadata
+
 **Id:** bcc1fc2f-c3b7-429f-b4c2-988c5de312f4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -96,7 +111,9 @@ Excellent
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

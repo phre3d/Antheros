@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-residence #type-large-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-cauldron, type-large-house]
+title: Home of Master Nimoyin
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Home of Master Nimoyin
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 Nimoyln | [[people/deza|Deza]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ Nimoyln | [[people/deza|Deza]]
 
 **Image:** n/a
 
-**Large House (Residence)** 
+**Large House (Residence)**
 
  **Owner:**  Nimoyin
 
@@ -58,12 +68,14 @@ Nimoyln | [[people/deza|Deza]]
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House, Large
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ Nimoyln | [[people/deza|Deza]]
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9250f2c7-5c8d-4288-8bcf-afe32f0ebd58<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -88,7 +101,9 @@ Nimoyln | [[people/deza|Deza]]
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

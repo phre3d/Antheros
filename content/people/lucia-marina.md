@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-labyrinth]
+title: Lucia Marina
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lucia Marina
 
-### 
+###
 
-**Full Name:**  Lucia  Marina    
+**Full Name:**  Lucia  Marina
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See scenario [[plots/second-story-legacy|Second Story Legacy]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lucia-marina]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

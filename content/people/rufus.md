@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #angelinas-guild #the-south-docks #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Rufus
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rufus
 
-### 
+###
 
-**Full Name:**  Rufus      
+**Full Name:**  Rufus
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ The night watchman for [[landmark/dockside-warehouse-services|Dockside Warehouse
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rufus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

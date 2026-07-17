@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-potions #brotherhood-of-the-amalgam #potion
+---
+aliases: []
+tags: [brotherhood-of-the-amalgam, cat-shop, Free_City_of_Haven, import, landmark, potion, the-labyrinth, type-potions]
+title: Cacodyl - Potioner
+date modified: 2026-07-16, 8:06:02 pm
+---
+
 # Cacodyl - Potioner
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Potions (Shopping)** 
+**Potions (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apothecary
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** e28bfaa6-dd07-423d-93b6-a75bd5e5126e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

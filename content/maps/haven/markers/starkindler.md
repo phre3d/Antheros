@@ -1,8 +1,12 @@
 ---
-location: [2959.881,  2126.531]
+aliases: []
+tags: [map-marker]
+location: [2126.531, 2959.881]
 mapmarker: Shopping
+title: Starkindler
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Starkindler
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/starkindler|Starkindler]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

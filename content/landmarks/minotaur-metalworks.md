@@ -1,54 +1,76 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-metalwork #guild-of-metalsmiths #metalwork
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/metalsmiths, import, landmark, metalwork, the-dwarrow, type-metalwork]
+title: Minotaur Metalworks
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Minotaur Metalworks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Superbly crafted metal goods, with no bull 
 
-## Description 
+# Description
+
+## Superbly crafted metal goods, with no bull
+
+## Description
+
 [[people/tacobur|Tacobur]], the artisan, is unquestionably the best dwarven metalworker in Haven, and arguably the peer of Salvatore Cellini, the upstart Master of the Artisan's Guild. Unlike his discontented colleagues of that Guild, however, [[people/tacobur|Tacobur]] is unconcerned about the political struggle for Guild leadership, and largely minds his own affairs. He is an incredible perfectionist, who often consigns finished works that other artisans would give their eyeteeth to produce to the scrap pile (see below).
 
-## Exterior 
+## Exterior
+
 A fairly large stone structure, with a sloped roof. Hanging above the doors is an immense bronze gryphon, incredibly realistic in every detail. There are two large ground floor windows, and a small opening in the attic. A silver bell hangs in the latter aperture. In each of the ground floor windows, a single large item is displayed (these items change every week, ranging from statuary to jewel encrusted bowls and chalices. All are breathtakingly beautiful).
 
-## Interior 
+## Interior
+
 A set of velvet lined glass cases line the side and rear walls - each contains but one or two exquisitely crafted works of gold, silver, or platinum. A large revolving globe in the center of the room depicts the Three Continents of Gateway, with attached small miniatures representing major landmarks. A door in the rear of the room leads to the workroom, and is usually ajar.
 
-## Hours 
+## Hours
+
 9:00am - 6:00pm
 
-## Price Range 
+## Price Range
+
 Costly/Outrageous
 
-## Quality 
+## Quality
+
 Superb +
 
-## Cash Box 
+## Cash Box
+
 Wall safe concealed in the base of the wall - lock of Complexity Level 5.
 
-## Staff 
+## Staff
+
 [[people/tacobur|Tacobur]] has one assistant metalworker, [[people/vassig|Vassig]], who is constantly imploring [[people/tacobur|Tacobur]] (unsuccessfully) to become involved with the other [[organizations/disaffected-artisans|Disaffected Artisans]]. Whenever possible, [[people/vassig|Vassig]] tries to rescue [[people/tacobur|Tacobur]]'s rejects from the trash pile before they can be thrown back in the smelter and re-melted. He smuggles these pieces out of [[settlements/the-dwarrow|The Dwarrow]], and has them sold at Thieves Market (to conceal the origin of these goods, [[people/vassig|Vassig]] etches the additional letters "rito" at the end of the artisan's original signature).
 
-## Customers 
-1d100 
-- 01-35 indicates 1 customer in the shop; 
-- 36-60, 2 customers; 
+## Customers
+
+1d100
+
+- 01-35 indicates 1 customer in the shop;
+- 36-60, 2 customers;
 - 61-80, [roll:1d4+1] customers;
 - 81-00, 2d6 customers.
 
-## Loiterers 
+## Loiterers
+
 There are many loiterers around the window displays, most of who realize that the works they covet are far beyond their modest means.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/bethli|Bethli]] | [[people/ralki|Ralki]]
 
-## Outstanding Items 
+## Outstanding Items
+
 Anything that gets past [[people/tacobur|Tacobur]]'s stringent scrutiny is a special piece of work.
 
 # Purpose / Function
@@ -85,7 +107,7 @@ Anything that gets past [[people/tacobur|Tacobur]]'s stringent scrutiny is a spe
 
 **Image:** n/a
 
-**Metalwork (Shopping)** 
+**Metalwork (Shopping)**
 
  **Owner:**  Tacobur
 
@@ -97,12 +119,14 @@ Anything that gets past [[people/tacobur|Tacobur]]'s stringent scrutiny is a spe
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Blacksmith / Smithy
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -119,6 +143,7 @@ Anything that gets past [[people/tacobur|Tacobur]]'s stringent scrutiny is a spe
 ---
 
 ### World Anvil Metadata
+
 **Id:** ec9994c1-b8e2-4420-a8ee-4b939ee0603f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -127,7 +152,9 @@ Anything that gets past [[people/tacobur|Tacobur]]'s stringent scrutiny is a spe
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

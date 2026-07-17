@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-guard]
+title: Corridor Barracks
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Corridor Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Corridor Barracks is home to 80 guards, of which about 20 are on duty at any point in time. The Station Captain is [[people/laura-freeman|Laura Freeman]] who is also Borough Commander for [[settlements/the-south-corridor|The South Corridor]].
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/laura-freeman|Laura Freeman]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ The Corridor Barracks is home to 80 guards, of which about 20 are on duty at any
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ The Corridor Barracks is home to 80 guards, of which about 20 are on duty at any
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ The Corridor Barracks is home to 80 guards, of which about 20 are on duty at any
 ---
 
 ### World Anvil Metadata
+
 **Id:** 83fb5ddd-54de-4b01-af64-9dc967bd780c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -93,7 +107,9 @@ The Corridor Barracks is home to 80 guards, of which about 20 are on duty at any
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,18 +1,28 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-guard]
+title: Academy Training Field
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Academy Training Field
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Guard training field 
 
-## Description 
-On the grassy training field across a narrow alley from the Academy Barracks, many of Haven's citizenry parade and countermarch for their monthly militia training duty. It is unlikely that these citizen soldiers, armed with spears and clad in light leather armor, could do much against veteran troops, but they can at least man the walls in case of attack. 
+# Description
+
+## Guard training field
+
+## Description
+
+On the grassy training field across a narrow alley from the Academy Barracks, many of Haven's citizenry parade and countermarch for their monthly militia training duty. It is unlikely that these citizen soldiers, armed with spears and clad in light leather armor, could do much against veteran troops, but they can at least man the walls in case of attack.
 
 When not in use for training, the locals use this as a public park for sports, general play. or picnics.
 
@@ -50,7 +60,7 @@ When not in use for training, the locals use this as a public park for sports, g
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -62,12 +72,14 @@ When not in use for training, the locals use this as a public park for sports, g
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -84,6 +96,7 @@ When not in use for training, the locals use this as a public park for sports, g
 ---
 
 ### World Anvil Metadata
+
 **Id:** c9b1cf0e-472a-491b-bbaf-4f87e5462360<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -92,7 +105,9 @@ When not in use for training, the locals use this as a public park for sports, g
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
-location: [1963.962,  5065.306]
+aliases: []
+tags: [map-marker]
+location: [1963.962, 5065.306]
 mapmarker: City Guard
+title: Southbridge Barracks
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Southbridge Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/southbridge-barracks|Southbridge Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

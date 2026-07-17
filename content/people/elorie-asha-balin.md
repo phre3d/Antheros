@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-dwarrow]
+title: Elorie asha Balin
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elorie asha Balin
 
-### 
+###
 
-**Full Name:**  Elorie  asha Balin    
+**Full Name:**  Elorie  asha Balin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to scenario [[plots/the-bartered-brides|The Bartered Brides]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elorie-asha-balin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

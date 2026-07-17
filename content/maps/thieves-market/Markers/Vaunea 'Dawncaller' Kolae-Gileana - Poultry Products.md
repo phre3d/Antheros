@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: "Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,6 @@ mapmarker: Shopping
 **Location:** [[landmarks/vaunea-dawncaller-kolae-gileana-poultry-products|Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products]]<br>
 **Location Type:** Poultry
 
-**Description**<br> 
+**Description**<br>
+
 Fresh poultry and their eggs

@@ -1,17 +1,27 @@
-#import #organization   #Free_City_of_Haven #type-political-activist
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-political-activist]
+title: Disaffected Artisans
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Disaffected Artisans
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-A group of individuals one is likely to come across in [[settlements/the-dwarrow|The Dwarrow]], either singly or as a group, is the disaffected artisans seeking to increase their role in the political life of the city. They can frequently be encountered together at [[landmarks/the-delvers-trove|The Delver's Trove]] tavern, or in one another's shops. They are also [[settlements/the-dwarrow|The Dwarrow]] residents most likely to be encountered abroad in Haven, pleading their case with other interest groups unhappy with the current pattern of Guild rule. 
+
+A group of individuals one is likely to come across in [[settlements/the-dwarrow|The Dwarrow]], either singly or as a group, is the disaffected artisans seeking to increase their role in the political life of the city. They can frequently be encountered together at [[landmarks/the-delvers-trove|The Delver's Trove]] tavern, or in one another's shops. They are also [[settlements/the-dwarrow|The Dwarrow]] residents most likely to be encountered abroad in Haven, pleading their case with other interest groups unhappy with the current pattern of Guild rule.
 
 Depending on the player's affiliations, encounters with the artisans will take one of three forms (regardless of the particular artisan encountered):
+
 - If the player character is a dwarf from a Guild or Merchant background, he will be asked to join the group at their next get-together to discuss their common problem.
 - If the player character is known to be affiliated with the Guild leadership, the artisans will levy some sort of verbal attack at him - ranging from cajoling him to switch sides to threatening his continued safety if he does not.
 - If the player character falls in neither of the above classes, the artisans will try to rally him to their cause, and to convince him to contribute any monetary or political clout he possesses to this struggle.
@@ -27,16 +37,18 @@ It is possible that, if a player allows himself to get involved in the more viol
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Political, Activist<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -49,10 +61,11 @@ It is possible that, if a player allows himself to get involved in the more viol
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -70,9 +83,9 @@ It is possible that, if a player allows himself to get involved in the more viol
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -85,10 +98,11 @@ It is possible that, if a player allows himself to get involved in the more viol
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -112,7 +126,7 @@ It is possible that, if a player allows himself to get involved in the more viol
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -186,15 +200,16 @@ It is possible that, if a player allows himself to get involved in the more viol
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 61f0b977-2ded-4c78-9624-06db0fe627f1<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -203,7 +218,9 @@ It is possible that, if a player allows himself to get involved in the more viol
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

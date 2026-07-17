@@ -1,8 +1,12 @@
 ---
-location: [2176.207,  4814.286]
+aliases: []
+tags: [map-marker]
+location: [2176.207, 4814.286]
 mapmarker: Shopping
+title: "Paddy's Wagons"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Paddy's Wagons
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/paddys-wagons|Paddy's Wagons]]<br>
 **Location Type:** Wainwright
 
-**Description**<br> 
-
+**Description**<br>

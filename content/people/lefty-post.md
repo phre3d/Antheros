@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Lefty Post
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lefty Post
 
-### 
+###
 
-**Full Name:**  Lefty  Post    
+**Full Name:**  Lefty  Post
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Sells various forms of merchandise from a stall in the [[settlement/thieves-mark
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lefty-post]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

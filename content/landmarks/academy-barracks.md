@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-guard]
+title: Academy Barracks
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Academy Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## City Guard training centre 
 
-## Description 
+# Description
+
+## City Guard training centre
+
+## Description
+
 [[people/themo-lundek|Themo Lundek]] is the Station Captian for [[landmarks/the-academy|The Academy]] which is the primary training centre for the Guard. There are 6 full time guard stationed here along with 30 trainees.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/themo-lundek|Themo Lundek]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ shadow: off
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7e66dea3-678b-488c-989c-e2f2a2b03d50<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -93,7 +107,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

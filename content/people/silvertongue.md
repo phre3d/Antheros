@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Silvertongue
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Silvertongue
 
-### 
+###
 
 **Full Name:**  Silvertongue      Duriyan the Bard
 
@@ -209,13 +215,12 @@ An older man with silver hair to match his tongue. He is a [[person/storyteller|
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/silvertongue]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

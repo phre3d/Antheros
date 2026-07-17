@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-weapons #armorers-guild #weapons
+---
+aliases: []
+tags: [armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-labyrinth, type-weapons, weapons]
+title: Fandral’s Weapon Shop
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Fandral’s Weapon Shop
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Weapons (Shopping)** 
+**Weapons (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 27a60e78-f1ee-4d67-ac39-5d99c9e2bb5a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

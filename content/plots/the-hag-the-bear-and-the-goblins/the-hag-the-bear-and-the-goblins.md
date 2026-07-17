@@ -1,5 +1,12 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: The Hag, the Bear and the Goblins
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # The Hag, the Bear and the Goblins
+
 ### aka “The Goblins' Prank Gone Wrong”
 
 ````col
@@ -39,7 +46,8 @@ For my purposes, the events will unfold upon the party's return from the mine in
 ```
 ````
 
-# Credits 
+# Credits
+
 **Created by:** Robert Mucsi-Kurinyecz, Gergely Sepsi
 
  **Playtesters:** Anett Kindl, NiuKy, Orsolya Irtzl, Kristóf “Brians” Karsai

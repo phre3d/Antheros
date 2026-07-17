@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Entertainment
+title: Dorki and his Dancing Girls
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Dorki and his Dancing Girls
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,6 @@ mapmarker: Entertainment
 **Location:** [[landmarks/dorki-and-his-dancing-girls|Dorki and his Dancing Girls]]<br>
 **Location Type:** Dancers
 
-**Description**<br> 
+**Description**<br>
+
 Just like it says.

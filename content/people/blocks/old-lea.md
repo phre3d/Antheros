@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Old Lea
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Old Lea
 
 ````col
@@ -36,35 +42,3 @@ flexGrow=2
 
 ```
 ````
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

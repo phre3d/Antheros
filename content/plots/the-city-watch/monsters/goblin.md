@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Actions
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,14 +43,17 @@ Small Small humanoid (goblinoid) Neutral Evil
 ![[~attachments/dndline.png]]
 
 # Actions
+
 **Scimitar:**  +4 to hit, reach 5 ft. .   or 5, slashing damage.
+
   **Shortbow:**  +4 to hit, range 80/320 ft. .   or 5 piercing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 Goblins are small, black-hearted humanoids that lair in despoiled dungeons and other dismal settings. Individually weak, they gather in large numbers to torment other creatures.
 
 ## Suggested Environments
-FOREST | GRASS LAND | HILL | UNDERDARK<br>
 
+FOREST | GRASS LAND | HILL | UNDERDARK<br>

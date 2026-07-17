@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Bonyodel
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bonyodel
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A stout man in a herald-style tabard and a staff, who struts about the Island, o
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bonyodel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

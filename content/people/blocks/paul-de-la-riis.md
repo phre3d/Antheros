@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Paul de la Riis
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Paul de la Riis
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +6 to hit , 1d8+3 piercing damage  
   **Longsword + 2:**  +3 to hit , 1d8+2+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

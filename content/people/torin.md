@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Torin
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Torin
 
-### 
+###
 
-**Full Name:**  Torin      
+**Full Name:**  Torin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ flexGrow=2.5
 
 ---
 
-
-
 ![[people/blocks/torin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

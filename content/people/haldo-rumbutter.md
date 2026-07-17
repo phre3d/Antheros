@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Haldo Rumbutter
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Haldo Rumbutter
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/haldo-rumbutter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

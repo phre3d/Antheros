@@ -1,8 +1,12 @@
 ---
-location: [1683.35,  6233.673]
+aliases: []
+tags: [map-marker]
+location: [1683.35, 6233.673]
 mapmarker: Shopping
+title: Jakkob the Sailmaker
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Jakkob the Sailmaker
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/jakkob-the-sailmaker|Jakkob the Sailmaker]]<br>
 **Location Type:** Nautical Supplies
 
-**Description**<br> 
-
+**Description**<br>

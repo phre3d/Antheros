@@ -1,17 +1,26 @@
-#import #settlement #Free_City_of_Haven #dummy
+---
+aliases: []
+tags: [dummy, Free_City_of_Haven, import, settlement]
+title: Random Location
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # Random Location
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 This is a dummy article to allow grouping of people/things that can appear anywhere.
 
-## People Appearing Anywhere 
+## People Appearing Anywhere
 
 | Street Encounters | Scenarios | Random Use as Needed  |
 |---|---|---|
@@ -49,27 +58,28 @@ This is a dummy article to allow grouping of people/things that can appear anywh
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** <br>
 **Other Name(s):** <br>
-**Located In:** 
+**Located In:**
 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:**  <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 11589327-2679-4d29-8291-2a23a5de0603<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Places in Haven<br>
@@ -78,7 +88,9 @@ This is a dummy article to allow grouping of people/things that can appear anywh
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

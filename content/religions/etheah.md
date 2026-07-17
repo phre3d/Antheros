@@ -1,21 +1,31 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Etheah
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Etheah
 
-Goddess of Nature     
+Goddess of Nature
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 The rites are simple and gentle: to the accompaniment of the sweet music of a harp, the congregation thanks Etheah for her gifts that makes life worth living. Most of the sacrifices celebrate life and living (such as planting a tree or a flower, releasing doves, etc.).
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -35,6 +45,7 @@ The rites are simple and gentle: to the accompaniment of the sweet music of a ha
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -60,6 +71,7 @@ The rites are simple and gentle: to the accompaniment of the sweet music of a ha
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -79,6 +91,7 @@ The rites are simple and gentle: to the accompaniment of the sweet music of a ha
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -107,9 +120,10 @@ The rites are simple and gentle: to the accompaniment of the sweet music of a ha
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
+
 Nature, birth and rebirth
 
 ## Artifacts
@@ -126,7 +140,7 @@ Nature, birth and rebirth
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Secondborn
 
@@ -136,14 +150,15 @@ Nature, birth and rebirth
 
  **Father:**  [[religions/narconal]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/vairë]] (with Mandos)
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -163,7 +178,7 @@ Nature, birth and rebirth
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -177,7 +192,7 @@ Nature, birth and rebirth
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -188,16 +203,17 @@ Nature, birth and rebirth
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** da6b1939-060c-4f36-8da6-8d4be3b07cf0<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -210,31 +226,37 @@ Nature, birth and rebirth
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/etheah-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/etheah-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/etheah-person)
 
 ---
@@ -242,18 +264,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 eced066b-e995-40b7-962b-b42ecc9165f2
 
 --- end-column ---
 
 Next:
+
 cdcccf05-1462-4e63-a50d-5332573ef176
 
 --- end-multi-column

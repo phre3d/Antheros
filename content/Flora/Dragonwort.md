@@ -1,4 +1,10 @@
-#import #flora #essence-life-plant
+---
+aliases: []
+tags: [essence-life-plant, flora, import]
+title: Dragonwort
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Dragonwort
 
 ````col
@@ -45,7 +51,9 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 ````
 
 <!-- Standard page footer -->
+
 ---
+
 ````col
 ```col-md
 

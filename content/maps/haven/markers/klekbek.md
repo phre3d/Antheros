@@ -1,8 +1,12 @@
 ---
-location: [4539.472,  473.469]
+aliases: []
+tags: [map-marker]
+location: [4539.472, 473.469]
 mapmarker: Shopping
+title: Klekbek
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Klekbek
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/klekbek|Klekbek]]<br>
 **Location Type:** Metalwork
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #guild-of-drayers #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/drayers, import, npc, person, the-black-hand, the-south-docks]
+title: Lazar Symbocca
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lazar Symbocca
 
-### 
+###
 
-**Full Name:**  Lazar  Symbocca    
+**Full Name:**  Lazar  Symbocca
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Owner of [[landmark/syms-storage-company|Sym's Storage Company]], Lazar is a mem
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lazar-symbocca]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

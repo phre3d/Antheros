@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-residence #type-mansion #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-heights, type-mansion]
+title: Maggia Family Residence
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Maggia Family Residence
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 Gallia Maggia | [[people/romulo-velasquez|Romulo Velasquez]] | [[people/emmaeus-stonnard|Emmaeus Stonnard]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ Gallia Maggia | [[people/romulo-velasquez|Romulo Velasquez]] | [[people/emmaeus-
 
 **Image:** n/a
 
-**Mansion (Residence)** 
+**Mansion (Residence)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ Gallia Maggia | [[people/romulo-velasquez|Romulo Velasquez]] | [[people/emmaeus-
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Mansion / Villa
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ Gallia Maggia | [[people/romulo-velasquez|Romulo Velasquez]] | [[people/emmaeus-
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3b8a3106-f69c-48c1-bd8d-37399c70f36d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -88,7 +101,9 @@ Gallia Maggia | [[people/romulo-velasquez|Romulo Velasquez]] | [[people/emmaeus-
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

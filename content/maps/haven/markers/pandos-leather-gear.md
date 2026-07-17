@@ -1,8 +1,12 @@
 ---
-location: [2812.942,  862.245]
+aliases: []
+tags: [map-marker]
+location: [2812.942, 862.245]
 mapmarker: Shopping
+title: "Pando's Leather Gear"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Pando's Leather Gear
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/pandos-leather-gear|Pando's Leather Gear]]<br>
 **Location Type:** Leatherworker
 
-**Description**<br> 
-
+**Description**<br>

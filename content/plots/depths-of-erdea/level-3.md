@@ -1,5 +1,12 @@
-#import #plot  #Depths_of_Erdea
+---
+aliases: []
+tags: [plot/depths-of-erdea, import, plot]
+title: Level 3
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 ![[plots/depths-of-erdea/images/depths-of-erdea-header.png]]
+
 # Level 3
 
 ````col

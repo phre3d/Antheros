@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Benjamin Pott
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Benjamin Pott
 
-### 
+###
 
-**Full Name:**  Benjamin  Pott    
+**Full Name:**  Benjamin  Pott
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Despite being quite meek, Benjamin dreams of being a great mage or warrior as he
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/benjamin-pott]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

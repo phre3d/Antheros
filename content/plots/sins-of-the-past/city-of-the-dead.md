@@ -1,4 +1,10 @@
-#import #plot  #Sins_of_the_Past
+---
+aliases: []
+tags: [import, plot, plot/Sins_of_the_Past]
+title: City of the Dead
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # City of the Dead
 
 ````col
@@ -76,7 +82,6 @@ If they fail and decide to inspect three mausoleums mentioned by Ambrose one-by-
 
 ```
 ````
-
 
 ---
 

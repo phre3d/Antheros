@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Rocky
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rocky
 
-### 
+###
 
-**Full Name:**  Rocky      
+**Full Name:**  Rocky
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Rocky a big, scarred, potato-faced ex-­fighter, runs his tavern and the arena, 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rocky]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2698.656,  3346.939]
+aliases: []
+tags: [map-marker]
+location: [2698.656, 3346.939]
 mapmarker: Service
+title: Bonanza Transport
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bonanza Transport
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/bonanza-transport|Bonanza Transport]]<br>
 **Location Type:** Courier
 
-**Description**<br> 
-
+**Description**<br>

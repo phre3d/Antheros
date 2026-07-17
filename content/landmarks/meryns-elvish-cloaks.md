@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #trade-island #cat-shop #type-general-clothing #guild-of-the-loom #general-clothing
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, trade-island, type-general-clothing]
+title: "Meryn's Elvish Cloaks"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Meryn's Elvish Cloaks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**General Clothing (Shopping)** 
+**General Clothing (Shopping)**
 
  **Owner:**  Meryn Longleaf
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trade-island|Trade Island]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5998d096-d0ff-4766-9c01-ed796287f15a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trade Island<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

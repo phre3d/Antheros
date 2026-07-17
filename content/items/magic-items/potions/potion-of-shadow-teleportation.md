@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Shadow Teleportation
+date modified: 2026-07-16, 9:19:00 pm
+---
+
 # Potion of Shadow Teleportation
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Spell
 >
 >**Application:**Ingest <br>
->**Duration:** 10 minutes 
+>**Duration:** 10 minutes
 >
 >**Price:** 4,700gp
 
-
 ## Description
+
 A yellow mixture with blue accretions on the side. It smells like oranges and chocolate, but tastes like acid.
 
 ## Effects
+
 When you drink this potion, you can use a bonus action to teleport to an unoccupied space within 30 feet, provided both your present location and the destination are in dim light or darkness.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
+
 **Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Earth  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Meenlock heart, Shadow Mastiff heart
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Distilled alcohol <br>
 *Essence(s):*  Air    Earth  Shadow   <br>
 *Spell Emulated:* *Teleport*
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

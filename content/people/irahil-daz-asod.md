@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Irahil daz-Asod
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Irahil daz-Asod
 
-### 
+###
 
-**Full Name:**  Irahil  daz-Asod    
+**Full Name:**  Irahil  daz-Asod
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A turbaned fellow, Irahil is captain of The Firebird, one of the ships currently
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/irahil-daz-asod]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

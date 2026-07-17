@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-metalsmiths #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-dwarrow]
+title: Oin
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Oin
 
-### 
+###
 
-**Full Name:**  Oin      
+**Full Name:**  Oin
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Oin conducts business dealings solely in the dwarven tongue (a fact hinted at by
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/oin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

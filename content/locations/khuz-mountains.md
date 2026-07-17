@@ -1,14 +1,23 @@
-#import #location
+---
+aliases: []
+tags: [import, location]
+title: Khuz Mountains
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Khuz Mountains
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 The Khuz Mountains are located northeast of Haven, and southeast from Mandalai .
 
 ---
@@ -26,6 +35,7 @@ The Khuz Mountains are located northeast of Haven, and southeast from Mandalai .
 # Flora & Fauna
 
 # Natural Resources
+
 The only known source of [[materials/earthheart-emerald|Earthheart Emerald]] is in the Luminous Caverns located in the mountains.
 
 # History
@@ -34,36 +44,39 @@ The only known source of [[materials/earthheart-emerald|Earthheart Emerald]] is 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-**Alternative Name(s):** 
+**Alternative Name(s):**
 
-**Parent Location:** 
+**Parent Location:**
 
 **Type:** Mountain Range
 
-**Ruler / Owner:** 
+**Ruler / Owner:**
 
 **Additional Rulers/Owners**
 
-**Owning Rank:** 
+**Owning Rank:**
 
-**Owning Organization:** 
+**Owning Organization:**
 
 **Organizations Contesting Ownership**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 806c0e95-17cf-4c38-9d20-c4cbfce74d4d<br>
 **Entity Type:** Article / location<br>
 **Category:** Geography<br>
-**Tags:** 
+**Tags:**
 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

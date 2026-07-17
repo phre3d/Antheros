@@ -1,8 +1,12 @@
 ---
-location: [1640.493,  6370.408]
+aliases: []
+tags: [map-marker]
+location: [1640.493, 6370.408]
 mapmarker: Shopping
+title: Hamilton - Corder
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hamilton - Corder
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/hamilton-corder|Hamilton - Corder]]<br>
 **Location Type:** Corder
 
-**Description**<br> 
-
+**Description**<br>

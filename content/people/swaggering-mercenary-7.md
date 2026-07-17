@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Swaggering Mercenary 7
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Swaggering Mercenary 7
 
-### 
+###
 
-**Full Name:**  Swaggering  Mercenary Seven    
+**Full Name:**  Swaggering  Mercenary Seven
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Swaggering Mercs
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/swaggering-mercenary-7]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

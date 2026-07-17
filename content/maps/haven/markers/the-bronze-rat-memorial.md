@@ -1,8 +1,12 @@
 ---
-location: [951.717,  4966.327]
+aliases: []
+tags: [map-marker]
+location: [4966.327, 951.717]
 mapmarker: Landmark
+title: The Bronze Rat Memorial
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Bronze Rat Memorial
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/the-bronze-rat-memorial|The Bronze Rat Memorial]]<br>
 **Location Type:** Monument
 
-**Description**<br> 
+**Description**<br>
+
 The statue of a rat, a memorial to who knows what.

@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-construction #guild-of-erectors #construction
+---
+aliases: []
+tags: [cat-shop, construction, Free_City_of_Haven, guild/erectors, import, landmark, the-labyrinth, type-construction]
+title: "Durki's Cement Mill"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Durki's Cement Mill
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Construction (Service)** 
+**Construction (Service)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** e9241dc7-a4c2-408d-ad0c-8af640c674eb<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

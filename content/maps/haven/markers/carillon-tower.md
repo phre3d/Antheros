@@ -1,8 +1,12 @@
 ---
-location: [2573.146,  2298.98]
+aliases: []
+tags: [map-marker]
+location: [2298.98, 2573.146]
 mapmarker: Landmark
+title: Carillon Tower
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Carillon Tower
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/carillon-tower|Carillon Tower]]<br>
 **Location Type:** Monument
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,13 +1,21 @@
-#import #article   #Free_City_of_Haven
+---
+aliases: []
+tags: [article, Free_City_of_Haven, import]
+title: Index of Places in Haven
+date modified: 2026-07-16, 9:19:06 pm
+---
+
 # Index of Places in Haven
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 There are several location indexes you can use depending on the desired sort order:
 
 1. Type
@@ -19,6 +27,7 @@ There are several location indexes you can use depending on the desired sort ord
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** 590b3fd2-bb48-48db-afec-92147ccb4530<br>
 **Entity Type:** Article / article<br>
 **Category:** Places in Haven<br>
@@ -26,10 +35,10 @@ There are several location indexes you can use depending on the desired sort ord
 
 --- end-multi-column
 
-
-
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

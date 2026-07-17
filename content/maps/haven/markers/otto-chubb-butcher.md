@@ -1,8 +1,12 @@
 ---
-location: [4045.595,  1640.816]
+aliases: []
+tags: [map-marker]
+location: [1640.816, 4045.595]
 mapmarker: Shopping
+title: Otto Chubb - Butcher
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Otto Chubb - Butcher
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/otto-chubb-butcher|Otto Chubb - Butcher]]<br>
 **Location Type:** Butcher
 
-**Description**<br> 
-
+**Description**<br>

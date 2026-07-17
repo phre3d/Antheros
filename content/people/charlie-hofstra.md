@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #hofstra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hofstra-family, import, npc, person, the-glens]
+title: Charlie Hofstra
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Charlie Hofstra
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Neither is married, but they are currently sharing quarters with identical twin 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sharlie-hofstra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

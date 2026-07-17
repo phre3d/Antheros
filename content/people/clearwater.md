@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #companions-of-silverthorne #the-cauldron #npc
+---
+aliases: []
+tags: [companions-of-silverthorne, Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Clearwater
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Clearwater
 
-### 
+###
 
-**Full Name:**  Clearwater      
+**Full Name:**  Clearwater
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/clearwater]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

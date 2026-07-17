@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Electra
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Electra
 
-### 
+###
 
-**Full Name:**  Electra      
+**Full Name:**  Electra
 
 `````col
 ````col-md
@@ -196,13 +202,12 @@ Electra is the subject of the scenario [[plots/rescue-by-moonlight|Rescue by Moo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/electra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

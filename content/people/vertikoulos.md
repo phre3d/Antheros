@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, npc, person]
+title: Vertikoulos
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vertikoulos
 
-### 
+###
 
-**Full Name:**  Vertikoulos      
+**Full Name:**  Vertikoulos
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ An older blood bay centaur, about 16 hands, with dark hair, slightly greying at 
 
 ---
 
-
-
 ![[people/blocks/vertikoulos]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

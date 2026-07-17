@@ -1,7 +1,13 @@
-#import #person #npc #supporting-cast #the-city-watch
+---
+aliases: []
+tags: [import, npc, person, supporting-cast, the-city-watch]
+title: Thomasina
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Thomasina
 
-### 
+###
 
 **Full Name:** "Mender" Thomasina      Tom
 
@@ -238,13 +244,13 @@ Normally quiet spoken, but when she is dealing with a medical "situation" she is
 ---
 
 ###  **Footnotes**  
+
 1. "Mender" is the honorific for Restoration Physicians.
 
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

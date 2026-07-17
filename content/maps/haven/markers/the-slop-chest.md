@@ -1,8 +1,12 @@
 ---
-location: [1740.493,  6294.898]
+aliases: []
+tags: [map-marker]
+location: [1740.493, 6294.898]
 mapmarker: Inns & Taverns
+title: The Slop Chest
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Slop Chest
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-slop-chest|The Slop Chest]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

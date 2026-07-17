@@ -1,4 +1,10 @@
-#import #article #Sins_of_the_Past
+---
+aliases: []
+tags: [article, import, plot/Sins_of_the_Past]
+title: NPCs
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # NPCs
 
 ````col
@@ -20,21 +26,23 @@ There are 5 NPCs of interest:
 ```
 ````
 
+---start-multi-column: PreviousNext
 
-
---- start-multi-column: PreviousNext
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 5bf5b7b3-f86b-4cd5-b3b5-4f21eb1b18d2
 
 --- end-column ---
 
 Next:
+
 cdaf27a1-daa8-489c-a94c-84fa9416c517
 
 --- end-multi-column

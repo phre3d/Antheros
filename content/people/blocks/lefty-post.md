@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Lefty Post
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Lefty Post
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +1 to hit , 1d4-1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

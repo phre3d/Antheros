@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #player-character
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, player-character]
+title: Martin Plowhearth
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Martin Plowhearth
 
-### 
+###
 
-**Full Name:**  Martin  Plowhearth    
+**Full Name:**  Martin  Plowhearth
 
 `````col
 ````col-md
@@ -192,13 +198,10 @@ His parents still work the farm, as do his two older brothers and their wives wh
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

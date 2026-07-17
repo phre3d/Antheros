@@ -1,8 +1,12 @@
 ---
-location: [6373.146,  2210.204]
+aliases: []
+tags: [map-marker]
+location: [2210.204, 6373.146]
 mapmarker: Shopping
+title: Shoes & Saddles
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Shoes & Saddles
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/shoes-saddles|Shoes & Saddles]]<br>
 **Location Type:** Blacksmith
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Liquid Courage
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Liquid Courage
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Protection
 >
 >**Application:**Ingest <br>
->**Duration:** 1 hour 
+>**Duration:** 1 hour
 >
 >**Price:** 80gp
 
-
 ## Description
+
 A glowing, viscious tonic that is rose with brown bubbles. It has the sharp smell and taste of alcohol.
 
 ## Effects
+
 When you drink this potion, you become immune to being frightened. If you are frightened when you drink the potion, you are no longer frightened.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
+
 **Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Shadow  <br>
 **Spell Needed:**  <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Alcohol <br>
 *Essence(s):*    Shadow   <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

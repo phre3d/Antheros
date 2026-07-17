@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -41,4 +46,3 @@ We head back to the inn via Olivia's but the note was still there. We return to 
 It is late, so we decide to go to sleep.
 
 ---
-

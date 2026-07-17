@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #grey-halls #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, grey-halls, import, npc, person]
+title: Turin Khaey
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Turin Khaey
 
-### 
+###
 
-**Full Name:**  Turin  Khaey    
+**Full Name:**  Turin  Khaey
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ The commandant of the prison. A short and fairly rotund half-elf, he has an almo
 
 ---
 
-
-
 ![[people/blocks/turin-khaey]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

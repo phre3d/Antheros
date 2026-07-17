@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-landmark #type-other-landmark #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-labyrinth, type-other-landmark]
+title: "Kurgan's Hill Apex"
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Kurgan's Hill Apex
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A hill hiding a secret 
 
-## Description 
+# Description
+
+## A hill hiding a secret
+
+## Description
+
 Aside from The Heights, this is the highest point in Haven. That's not saying a lot though as it's only about 75' above the Dorian. There's nothing special to see here above ground, it's what's below that is interesting. Kurgan's Hill is a part of Haven built on the remains of a much smaller city caslled Daria. Today, the few people that are aware of it call it the Forgotten City.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Aside from The Heights, this is the highest point in Haven. That's not saying a 
 
 **Image:** n/a
 
-**Other Landmark (Landmark)** 
+**Other Landmark (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,13 @@ Aside from The Heights, this is the highest point in Haven. That's not saying a 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Aside from The Heights, this is the highest point in Haven. That's not saying a 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 39cfbe4b-4e53-402f-9298-dec9dadaeedb<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Aside from The Heights, this is the highest point in Haven. That's not saying a 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
-location: [1952.738,  1511.224]
+aliases: []
+tags: [map-marker]
+location: [1511.224, 1952.738]
 mapmarker: Shopping
+title: Hood - Fletching and Bowery
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hood - Fletching and Bowery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/hood-fletching-and-bowery|Hood - Fletching and Bowery]]<br>
 **Location Type:** Weapons
 
-**Description**<br> 
-
+**Description**<br>

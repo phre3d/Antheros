@@ -1,8 +1,12 @@
 ---
-location: [2684.37,  1016.327]
+aliases: []
+tags: [map-marker]
+location: [1016.327, 2684.37]
 mapmarker: Service
+title: Public Stables and Rental
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Public Stables and Rental
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/public-stables-and-rental|Public Stables and Rental]]<br>
 **Location Type:** Stable
 
-**Description**<br> 
-
+**Description**<br>

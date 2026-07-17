@@ -1,8 +1,12 @@
 ---
-location: [2893.554,  2369.388]
+aliases: []
+tags: [map-marker]
+location: [2369.388, 2893.554]
 mapmarker: Landmark
+title: "Empty Shop - Ferdinand's"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Empty Shop - Ferdinand's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/empty-shop-ferdinands|Empty Shop - Ferdinand's]]<br>
 **Location Type:** Other Landmark
 
-**Description**<br> 
-
+**Description**<br>

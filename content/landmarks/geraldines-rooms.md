@@ -1,18 +1,29 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #locncat_lodging #locntype_rooming_house #guild-of-the-hearth
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, landmark, locncat_lodging, locntype_rooming_house, the-south-docks]
+title: "Geraldine's Rooms"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Geraldine's Rooms
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## Description 
+
+## Description
+
 Not the best kept place to stay but at least they have beds you don't have to share
 
-## NPC Encounters 
+## NPC Encounters
+
 Geraldine
 
 # Purpose / Function
@@ -49,7 +60,7 @@ Geraldine
 
 **Image:** n/a
 
-**Rooming House (Residence)** 
+**Rooming House (Residence)**
 
  **Owner:**  Geraldine
 
@@ -61,12 +72,14 @@ Geraldine
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apartment
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -83,6 +96,7 @@ Geraldine
 ---
 
 ### World Anvil Metadata
+
 **Id:** 4aef489d-4bb4-4029-8db1-1f405a8d3440<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -91,7 +105,9 @@ Geraldine
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

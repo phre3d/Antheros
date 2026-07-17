@@ -1,8 +1,12 @@
 ---
-location: [2922.126,  480.612]
+aliases: []
+tags: [map-marker]
+location: [2922.126, 480.612]
 mapmarker: Inns & Taverns
+title: "Poor Larry's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Poor Larry's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/poor-larrys|Poor Larry's]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

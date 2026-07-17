@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Thorn Alecastle
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Thorn Alecastle
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortbow:**  +3 to hit , 1d6+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

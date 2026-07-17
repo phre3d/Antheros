@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-baker #guild-of-provenders #baker
+---
+aliases: []
+tags: [baker, cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-cauldron, type-baker]
+title: "Bessie's Breadbox"
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Bessie's Breadbox
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Freshly baked bread 
 
-## Description 
+# Description
+
+## Freshly baked bread
+
+## Description
+
 [[people/bessie|Bessie]] and her husband [[people/porginald|Porginald]] (called Porgy for short) both look as if they've been sampling too much of their own wares. They and their numerous children (constantly underfoot) are pudgy even by halfling standards. They sell all kinds of breads, freshly baked and delicious.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/porginald|Porginald]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ shadow: off
 
 **Image:** n/a
 
-**Baker (Shopping)** 
+**Baker (Shopping)**
 
  **Owner:**  Bessie
 
@@ -63,12 +74,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Bakery
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7042a06c-bf80-4de6-818b-8f992b31f24b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -93,7 +107,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #angelinas-guild #guild-of-drayers #the-south-docks #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, guild/drayers, import, npc, person, the-south-docks]
+title: Constantino Maylino
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Constantino Maylino
 
-### 
+###
 
-**Full Name:**  Constantino  Maylino    
+**Full Name:**  Constantino  Maylino
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Under the direction of Alphonso Caradello, Maylino oversees the buying and stora
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/constantino-maylino]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

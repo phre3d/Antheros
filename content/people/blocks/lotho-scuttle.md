@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Lotho Scuttle
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Lotho Scuttle
 
 ````col
@@ -36,35 +42,3 @@ flexGrow=2
 
 ```
 ````
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

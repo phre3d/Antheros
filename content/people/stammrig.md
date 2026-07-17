@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-dwarrow]
+title: Stammrig
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Stammrig
 
-### 
+###
 
-**Full Name:**  Stammrig      
+**Full Name:**  Stammrig
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Makes work boots and war boots of fine leather, built to endure hardship and rou
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/stammrig]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

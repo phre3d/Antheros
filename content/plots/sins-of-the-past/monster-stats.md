@@ -1,4 +1,10 @@
-#import #article #Sins_of_the_Past
+---
+aliases: []
+tags: [article, import, plot/Sins_of_the_Past]
+title: Monster Stats
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Monster Stats
 
 ````col
@@ -34,22 +40,25 @@ flexGrow=2.5
 ```
 ````
 
-
-
 ---
---- start-multi-column: PreviousNext
+
+---start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 d18c9a26-1808-4ae1-92fe-4b52a5dc48e8
 
 --- end-column ---
 
 Next:
+
 62128390-8db4-4488-b59a-cbd46fb68a06
 
 --- end-multi-column

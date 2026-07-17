@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Dorki
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Dorki
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +2 to hit , 1d4+0 piercing damage  
   **Sap:**  +1 to hit , 1d4-1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

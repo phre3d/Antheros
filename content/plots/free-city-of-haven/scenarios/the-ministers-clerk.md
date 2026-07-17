@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: "The Minister's Clerk"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Minister's Clerk
 
 ````col
@@ -44,7 +50,6 @@ If a fight occurs, sometime during the pandemonium, the young clerk will disappe
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

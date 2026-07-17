@@ -1,8 +1,12 @@
 ---
-location: [1368.044,  3032.653]
+aliases: []
+tags: [map-marker]
+location: [1368.044, 3032.653]
 mapmarker: Shopping
+title: "Tobler's Livery Stable"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Tobler's Livery Stable
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/toblers-livery-stable|Tobler's Livery Stable]]<br>
 **Location Type:** Livery
 
-**Description**<br> 
-
+**Description**<br>

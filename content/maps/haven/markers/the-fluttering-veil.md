@@ -1,8 +1,12 @@
 ---
-location: [1238.452,  4439.796]
+aliases: []
+tags: [map-marker]
+location: [1238.452, 4439.796]
 mapmarker: Entertainment
+title: The Fluttering Veil
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Fluttering Veil
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/the-fluttering-veil|The Fluttering Veil]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

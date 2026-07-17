@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-kammeron-family #npc #the-heights
+---
+aliases: []
+tags: [de-kammeron-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Progenitor de Kammeron
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Progenitor de Kammeron
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -188,13 +194,10 @@ Root of the de Kammeron Family tree
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

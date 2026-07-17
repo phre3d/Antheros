@@ -1,26 +1,39 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-corridor, type-tavern]
+title: The Golden Sovereign
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Golden Sovereign
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Entertainment and Liquid Refreshment 
 
-## Description 
+# Description
+
+## Entertainment and Liquid Refreshment
+
+## Description
+
 Another drinking spot. A number of balladeers hang out here.
 
-## Price Range 
+## Price Range
+
 High
 
-## Quality 
+## Quality
+
 Fair to Good.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/credence-bond|Credence Bond]]
 
 # Purpose / Function
@@ -57,7 +70,7 @@ Fair to Good.
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -69,12 +82,14 @@ Fair to Good.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -91,6 +106,7 @@ Fair to Good.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 12c8afeb-dcf8-41e6-bc8b-c1e790cfc048<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -99,7 +115,9 @@ Fair to Good.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

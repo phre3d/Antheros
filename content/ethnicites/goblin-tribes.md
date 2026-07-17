@@ -1,4 +1,9 @@
-#race #ethnicity 
+---
+aliases: []
+tags: [ethnicity, race]
+title: Goblin Tribes
+date modified: 2026-07-16, 9:19:03 pm
+---
 
 # Goblin Tribes
 
@@ -89,4 +94,3 @@ The Goblin race is divided into multiple tribes scattered around Antheros. While
 |The Rock|Legend tells of a dwarven community who dug TOO deep into the ground and unearthed a horrifying breed of blind goblins who live deep underground. They are incredibly aggressive to 'surface-dwellers' and feed upon the gems that they uncover deep below the earth.||
 
 Source: DnD Speak (https://www.dndspeak.com/2023/01/05/100-goblin-tribes/)
-

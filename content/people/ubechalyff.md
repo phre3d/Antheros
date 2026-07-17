@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Ubechalyff
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Ubechalyff
 
-### 
+###
 
-**Full Name:**  Ubechalyff      
+**Full Name:**  Ubechalyff
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ A furtive, stoop shouldered man with a bushy black mustache, very thick, very mo
 
 ---
 
-
-
 ![[people/blocks/ubechalyff]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

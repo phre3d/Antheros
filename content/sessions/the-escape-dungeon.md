@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -21,4 +26,3 @@ We endedp third, which was the best result for a guard team in years. The winnin
 At the celebration, Arada heard the voice of the captain from the Nightmare-it was the read head from The Enigma!Dun dun dun.
 
 ---
-

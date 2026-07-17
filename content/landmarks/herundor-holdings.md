@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #erinhir #cat-shop #type-real-estate #real-estate
+---
+aliases: []
+tags: [cat-shop, erinhir, Free_City_of_Haven, import, landmark, real-estate, type-real-estate]
+title: Herundor Holdings
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Herundor Holdings
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## "Tree-al" Estate? 
 
-## Description 
+# Description
+
+## "Tree-al" Estate?
+
+## Description
+
 Handles "real estate" transactions for the folk of the trees (although land in Erinhir is never actually bought or sold, he advises his people in their choices of living space). Non-elves are simply told there is none available.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Handles "real estate" transactions for the folk of the trees (although land in E
 
 **Image:** n/a
 
-**Real Estate (Service)** 
+**Real Estate (Service)**
 
  **Owner:**  Elegrin Herundor
 
@@ -60,12 +70,14 @@ Handles "real estate" transactions for the folk of the trees (although land in E
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/erinhir|Erinhir]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Handles "real estate" transactions for the folk of the trees (although land in E
 ---
 
 ### World Anvil Metadata
+
 **Id:** 89847990-a69f-414e-81d5-a55ccea7fd91<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Erinhir<br>
@@ -90,7 +103,9 @@ Handles "real estate" transactions for the folk of the trees (although land in E
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

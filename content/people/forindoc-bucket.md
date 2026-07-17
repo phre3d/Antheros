@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #the-dell
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-dell]
+title: Forindoc Bucket
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Forindoc Bucket
 
-### 
+###
 
 **Full Name:**  Forindoc  Bucket    Furry
 
@@ -203,13 +209,12 @@ Waiter, cook and clean-up crew at [[landmark/the-leaf-and-jar|The Leaf and Jar]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/forindoc-bucket]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

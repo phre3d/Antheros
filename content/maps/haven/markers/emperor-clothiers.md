@@ -1,8 +1,12 @@
 ---
-location: [6347.636,  2319.388]
+aliases: []
+tags: [map-marker]
+location: [2319.388, 6347.636]
 mapmarker: Shopping
+title: Emperor Clothiers
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Emperor Clothiers
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/emperor-clothiers|Emperor Clothiers]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

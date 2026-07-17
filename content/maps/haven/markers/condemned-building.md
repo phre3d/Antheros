@@ -1,8 +1,12 @@
 ---
-location: [3477.228,  3482.653]
+aliases: []
+tags: [map-marker]
+location: [3477.228, 3482.653]
 mapmarker: Landmark
+title: Condemned Building
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Condemned Building
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/condemned-building|Condemned Building]]<br>
 **Location Type:** Ruin
 
-**Description**<br> 
-
+**Description**<br>

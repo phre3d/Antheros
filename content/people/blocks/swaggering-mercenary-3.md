@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Swaggering Mercenary 3
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Swaggering Mercenary 3
 
 ````col
@@ -37,38 +43,12 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +5 to hit , 1d8+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

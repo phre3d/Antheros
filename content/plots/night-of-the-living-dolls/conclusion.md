@@ -1,4 +1,10 @@
-#import #plot  #Night_of_the_Living_Dolls
+---
+aliases: []
+tags: [import, plot/Night-of-the-Living-Dolls, plot]
+title: NotLD Conclusion
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # NotLD Conclusion
 
 ````col
@@ -49,7 +55,6 @@ ones who lifted the curse of the toy shop.
 
 ```
 ````
-
 
 ---
 

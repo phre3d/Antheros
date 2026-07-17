@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Shopkeeper 2
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Shopkeeper 2
 
-### 
+###
 
-**Full Name:**  Shopkeeper  Two    
+**Full Name:**  Shopkeeper  Two
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Shopkeeper 2
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/shopkeeper-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

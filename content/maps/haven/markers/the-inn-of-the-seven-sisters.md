@@ -1,8 +1,12 @@
 ---
-location: [5082.33,  5897.959]
+aliases: []
+tags: [map-marker]
+location: [5082.33, 5897.959]
 mapmarker: Inns & Taverns
+title: The Inn of the Seven Sisters
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Inn of the Seven Sisters
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-inn-of-the-seven-sisters|The Inn of the Seven Sisters]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Thalos
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Thalos
 
-### 
+###
 
-**Full Name:** God of the Night; Patron of Thieves; Lord of Mischief       
+**Full Name:** God of the Night; Patron of Thieves; Lord of Mischief
 
 `````col
 ````col-md
@@ -204,13 +210,10 @@ A silver sliver of the moon on a black background.
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 64c80232-0ec2-4dae-a56a-78daa08980cc

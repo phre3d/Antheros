@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Halfling Race
+date modified: 2026-07-16, 9:37:34 pm
+---
+
 # Halfling Race
 
 ````col
@@ -146,5 +152,7 @@ Anafa, Bellis, Etune, Filiu, Irlana, Marra, Pressi, Rilka, Sistra, Wyssal, Yamyr
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

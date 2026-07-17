@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #young-stallions #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, npc, person, the-heights, young-stallions]
+title: Gunter Geronde
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gunter Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ He would like to be [[person/paul-de-la-riis|Paul de la Riis]]' or [[person/anto
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gunter-geronde]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

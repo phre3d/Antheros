@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-landmark #type-park #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, magic-street, type-park]
+title: "Illusionist's Park"
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Illusionist's Park
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## A small bit of green space 
 
-## Description 
-Generally used as a place to meet or stop for a chat on Magic Street. 
+## A small bit of green space
 
-## NPC Encounters 
+## Description
+
+Generally used as a place to meet or stop for a chat on Magic Street.
+
+## NPC Encounters
+
 Virago Tainley | Zprahim
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Virago Tainley | Zprahim
 
 **Image:** n/a
 
-**Park (Landmark)** 
+**Park (Landmark)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Virago Tainley | Zprahim
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Park
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Virago Tainley | Zprahim
 ---
 
 ### World Anvil Metadata
+
 **Id:** 21fbea5f-faea-4a83-a031-d23245634664<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -93,7 +107,9 @@ Virago Tainley | Zprahim
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

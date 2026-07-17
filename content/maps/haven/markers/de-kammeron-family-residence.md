@@ -1,8 +1,12 @@
 ---
-location: [5890.493,  1882.653]
+aliases: []
+tags: [map-marker]
+location: [1882.653, 5890.493]
 mapmarker: Residence
+title: de Kammeron Family Residence
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # de Kammeron Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/de-kammeron-family-residence|de Kammeron Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

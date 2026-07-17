@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Turikonis Plainsrunner
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Turikonis Plainsrunner
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +2 to hit , 1d8+0 piercing damage  
   **Hoof:**  +5 to hit , 2d6+7 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

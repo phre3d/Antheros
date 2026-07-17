@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Gibbon Garrazano
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gibbon Garrazano
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Gibbon, the [[landmark/blacksmith|Blacksmith]], is a tough and darkly bearded dw
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gibbon-garrazano]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

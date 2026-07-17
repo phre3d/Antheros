@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-dell #cat-shop #type-general-goods #guild-of-merchants #general-goods
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-goods, guild/merchants, import, landmark, the-dell, type-general-goods]
+title: The Mathom House
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Mathom House
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Antiques and Collectibles 
 
-## Description 
+# Description
+
+## Antiques and Collectibles
+
+## Description
+
 [[people/renna-buckwalter|Renna Buckwalter]]. The Mathom House is a small, oddly shaped structure that more closely resembles a fairy-tale gingerbread house than a conventional shop. Within its doors are tables and shelves filled with ceramics and glassware, wood workings and leather goods, all mixed together in a disorganized tangle.  
 
  Renna is a very sweet-hearted older woman prone to bouts of forgetfulness. She hears a great deal of gossip but will hopelessly confuse the information in the retelling. She has little real business sense, and a shopper can often find incredible bargains if he has the patience, conversely, 40-50% of the store's inventory is comprised of virtually worthless items (magical lint removers, ebony back-scratchers, gaudy wall hangings, and the like).  
@@ -52,7 +62,7 @@ shadow: off
 
 **Image:** n/a
 
-**General Goods (Shopping)** 
+**General Goods (Shopping)**
 
  **Owner:**  Renna Buckwalter
 
@@ -64,12 +74,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** General Store
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dell|The Dell]]
 
 **Connected Rooms:**
@@ -86,6 +98,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** a4e62244-49e3-437c-aa1b-98923d53135e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dell<br>
@@ -94,7 +107,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

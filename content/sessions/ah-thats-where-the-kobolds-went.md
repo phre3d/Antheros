@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -25,4 +30,3 @@ The kobolds had crap on them, except for the boss who had a scimitar, javelin, c
 Martin heals Arada and Penelope as we interrogate the kobold.
 
 ---
-

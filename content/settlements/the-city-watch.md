@@ -1,13 +1,21 @@
-#import #article #The_City_Watch
+---
+aliases: []
+tags: [article, import, plot/The_City_Watch]
+title: The City Watch
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The City Watch
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 Several plot elements (and the general campaign concept) are taken directly from a zine of 1-hour adventures called The City Watch from Steve Dee and One Hour RPG. I got my copy via their Kickstarter campaign, funded Sept. 1, 2022.
 
 This material is Copyright (c) Steve Dee 2022
@@ -15,6 +23,7 @@ This material is Copyright (c) Steve Dee 2022
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** b6a3cf89-af08-4102-abe7-bf68c1f9bd94<br>
 **Entity Type:** Article / article<br>
 **Category:** Credits<br>
@@ -23,7 +32,9 @@ This material is Copyright (c) Steve Dee 2022
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

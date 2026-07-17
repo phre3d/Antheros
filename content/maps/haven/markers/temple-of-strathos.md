@@ -1,8 +1,12 @@
 ---
-location: [4524.166,  4547.959]
+aliases: []
+tags: [map-marker]
+location: [4524.166, 4547.959]
 mapmarker: Religion
+title: Temple of Strathos
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Strathos
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-strathos|Temple of Strathos]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Strathos: God of War, Strength & Courage, Patron of Warriors

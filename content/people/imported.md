@@ -1,4 +1,10 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Imported
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Imported
 
 `````col
@@ -47,7 +53,9 @@ See scenario [[plots/free-city-of-haven/scenarios/the-south-keep-gang|The South 
 ![[people/blocks/imported]]
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

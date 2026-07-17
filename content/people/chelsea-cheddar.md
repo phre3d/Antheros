@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Chelsea Cheddar
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Chelsea Cheddar
 
-### 
+###
 
-**Full Name:**  Chelsea  Cheddar    
+**Full Name:**  Chelsea  Cheddar
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Chelsea is a rather chunky, dark-haired, young halfling woman with a throaty alt
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/chelsea-cheddar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

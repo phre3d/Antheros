@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Healing
+date modified: 2026-07-16, 9:19:01 pm
+---
+
 # Potion of Healing
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Health
 >
 >**Application:**Ingest <br>
->**Duration:** Permanent 
+>**Duration:** Permanent
 >
 >**Price:** 50gp
 
-
 ## Description
+
 A potion's light red liquid glimmers when agitated.
 
 ## Effects
+
 You regain 2d4+2 hit points when you drink this potion.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
+
 **Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Life  <br>
 **Spell Needed:** *Heal* <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Alcohol <br>
 *Essence(s):*    Life   <br>
 *Spell Emulated:* *Heal*
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

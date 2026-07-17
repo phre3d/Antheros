@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #angelinas-guild #guild-of-the-hearth #the-south-docks #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, guild/hearth, import, npc, person, the-south-docks]
+title: Julian de Carbot
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Julian de Carbot
 
-### 
+###
 
-**Full Name:**  Julian  de Carbot    
+**Full Name:**  Julian  de Carbot
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Julian works out of [[landmark/black-padres|Black Padre's]], the seedy dockside 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/julian-de-carbot]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

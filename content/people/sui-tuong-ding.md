@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ohlfaardt-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, ohlfaardt-family, person, the-heights]
+title: Sui Tuong Ding
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Sui Tuong Ding
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ It is likely that a man of discretion and taste would probably find Sui too shal
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sui-tuong-ding]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

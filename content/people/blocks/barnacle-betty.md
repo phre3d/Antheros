@@ -1,4 +1,10 @@
-#import #statblock #person #npc #the-city-watch #npc
+---
+aliases: []
+tags: [import, npc, person, statblock, the-city-watch]
+title: Barnacle Betty
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Barnacle Betty
 
 ````col
@@ -42,23 +48,12 @@ flexGrow=2
 ![[dndline.png]]
 
 # Special Abilities
+
 Carries a *Ring of Invisibility*
 
 ![[dndline.png]]
 
 # Actions
+
 **Scimitar:**  +5 to hit , 1d6+3 slashing damage  
   **Crossbow:**  +5 to hit  1d8+3 damage
-
-
-
-
-
-
-
-
-
-
-
-
-

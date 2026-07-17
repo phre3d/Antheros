@@ -1,8 +1,12 @@
 ---
-location: [1054.779,  4664.286]
+aliases: []
+tags: [map-marker]
+location: [1054.779, 4664.286]
 mapmarker: Shopping
+title: Sew Simple
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Sew Simple
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/sew-simple|Sew Simple]]<br>
 **Location Type:** Seamstress
 
-**Description**<br> 
-
+**Description**<br>

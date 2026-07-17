@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kiroc
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kiroc
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +7 to hit , 2d6+3 slashing damage  
   **Battleaxe:**  +7 to hit , 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

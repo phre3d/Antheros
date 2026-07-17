@@ -1,8 +1,12 @@
 ---
-location: [3230.289,  2031.633]
+aliases: []
+tags: [map-marker]
+location: [2031.633, 3230.289]
 mapmarker: Education
+title: College of Physical Naturalism
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # College of Physical Naturalism
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/college-of-physical-naturalism|College of Physical Naturalism]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

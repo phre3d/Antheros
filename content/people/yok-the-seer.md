@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #thieves-guild #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters, thieves-guild]
+title: Yok the Seer
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Yok the Seer
 
-### 
+###
 
 **Full Name:**  Yok    the Seer  
 
@@ -203,13 +209,12 @@ See Street Encounter: Yok the Seer
 
 ---
 
-
-
 ![[people/blocks/yok-the-seer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

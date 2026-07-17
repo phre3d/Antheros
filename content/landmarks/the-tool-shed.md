@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-shop #type-tools #crafters-guild #tools
+---
+aliases: []
+tags: [cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, the-heights, tools, type-tools]
+title: The Tool Shed
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Tool Shed
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Tools and Services 
 
-## Description 
+# Description
+
+## Tools and Services
+
+## Description
+
 This shop, run by [[people/amsterdam-craddock|Amsterdam Craddock]], sells both house and garden tools, as well as small pieces of agricultural equipment. They also do simple repairs and provide a variety of small miscellaneous services (e.g., blade sharpening). Like [[people/goodreau|Goodreau]]'s, most of the clientele is comprised of servants and hired hands from the estates. There is less idle talk in the air here overall, but one has a much better chance of learning which estates (if any) are in the market to hire on new help.
 
-## Price Range 
+## Price Range
+
 High.
 
-## Quality 
+## Quality
+
 Fair.
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Fair.
 
 **Image:** n/a
 
-**Tools (Shopping)** 
+**Tools (Shopping)**
 
  **Owner:**  Amsterdam Craddock
 
@@ -66,12 +78,14 @@ Fair.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Fair.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 51c9c011-32d5-462e-af62-a0107bf31aa4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -96,7 +111,9 @@ Fair.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

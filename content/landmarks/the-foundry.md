@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-foundry #guild-of-metalsmiths #foundry
+---
+aliases: []
+tags: [cat-shop, foundry, Free_City_of_Haven, guild/metalsmiths, import, landmark, the-south-docks, type-foundry]
+title: The Foundry
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Foundry
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Foundry (Shopping)** 
+**Foundry (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Foundry
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** bf4238e7-34eb-47da-a388-a1f4b9ff93ea<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

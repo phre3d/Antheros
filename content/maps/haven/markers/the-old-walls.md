@@ -1,8 +1,12 @@
 ---
-location: [4223.146,  6123.469]
+aliases: []
+tags: [map-marker]
+location: [4223.146, 6123.469]
 mapmarker: Inns & Taverns
+title: The Old Walls
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Old Walls
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-old-walls|The Old Walls]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

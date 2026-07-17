@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Ori
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Ori
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greataxe:**  +6 to hit , 1d12+3 slashing damage  
   **Crossbow, heavy:**  +4 to hit , 1d10+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

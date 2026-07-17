@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #varrasch-family #guild-of-drayers #council-of-masters #the-heights #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/drayers, import, npc, person, the-heights, varrasch-family]
+title: Heidel Varrasch
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Heidel Varrasch
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -214,13 +220,12 @@ The current master of the major Drayers Guild (which includes the horse trainers
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/heidel-varrasch]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

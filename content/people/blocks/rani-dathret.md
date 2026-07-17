@@ -1,4 +1,10 @@
-#import #statblock #person #npc #npc #Sins_of_the_Past
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past, statblock]
+title: Rani Dathret
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Rani Dathret
 
 ````col
@@ -40,42 +46,21 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 She is a human from a very poor noble house and joined the Jackals to make for a living. She is one of the two survivors after Nesan's attack. Currently, she is imprisoned inside the mirror (c.f. Sins of the Past).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
-## Scimitar 
-  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target. 
+
+## Scimitar
+
+  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
+
   **Hit:**  4  slashing damage.  
-## Light Crossbow 
-  **Ranged Weapon Attack:**  +3 to hit , range 80/320 ft., one target. 
+
+## Light Crossbow
+
+  **Ranged Weapon Attack:**  +3 to hit , range 80/320 ft., one target.
+
   **Hit:**  5  piercing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-

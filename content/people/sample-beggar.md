@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Sample Beggar
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sample Beggar
 
-### 
+###
 
-**Full Name:**  Sample  Beggar    
+**Full Name:**  Sample  Beggar
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Beggars
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sample-beggar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

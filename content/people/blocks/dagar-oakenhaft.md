@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Dagar Oakenhaft
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Dagar Oakenhaft
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Maul:**  +6 to hit , 2d6+4 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

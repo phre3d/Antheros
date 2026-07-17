@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #trade-island #cat-landmark #type-ruin #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, trade-island, type-ruin]
+title: The Ruins of the South Keep
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Ruins of the South Keep
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Ruin (Landmark)** 
+**Ruin (Landmark)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Ruins
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trade-island|Trade Island]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3acbea6f-7bf0-48e6-bdf8-74d957d41f1f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trade Island<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

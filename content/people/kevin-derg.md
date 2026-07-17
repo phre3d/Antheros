@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Kevin Derg
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kevin Derg
 
-### 
+###
 
-**Full Name:**  Kevin  Derg    
+**Full Name:**  Kevin  Derg
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Runs a pawn shop near the [[settlement/thieves-market|Thieves' Market]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kevin-derg]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

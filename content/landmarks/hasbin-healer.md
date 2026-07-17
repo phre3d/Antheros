@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-medical 
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, the-labyrinth, type-medical]
+title: Hasbin - Healer
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Hasbin - Healer
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Here we find the healer in his chosen surroundings 
 
-## Description 
+# Description
+
+## Here we find the healer in his chosen surroundings
+
+## Description
+
 In the deepest wilds of the Labyrinth. His house includes a clinic in which he treats anyone who walks in the door (he has even been known to make house calls!), regardless of financial status (there ain't none in the Labyrinth).
 
 # Purpose / Function
@@ -48,7 +58,7 @@ In the deepest wilds of the Labyrinth. His house includes a clinic in which he t
 
 **Image:** n/a
 
-**Medical (Medical)** 
+**Medical (Medical)**
 
  **Owner:**  Kuber Hasbin
 
@@ -60,12 +70,13 @@ In the deepest wilds of the Labyrinth. His house includes a clinic in which he t
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Hospital
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ In the deepest wilds of the Labyrinth. His house includes a clinic in which he t
 ---
 
 ### World Anvil Metadata
+
 **Id:** 79ca1462-9d9e-4bce-b8e3-64e17aa7db19<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ In the deepest wilds of the Labyrinth. His house includes a clinic in which he t
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

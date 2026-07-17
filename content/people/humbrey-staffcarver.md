@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, guild/hearth, import, npc, person]
+title: Humbrey Staffcarver
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Humbrey Staffcarver
 
-### 
+###
 
-**Full Name:**  Humbrey  Staffcarver    
+**Full Name:**  Humbrey  Staffcarver
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A wizard who carves staves with ancient runes of power, is a tall and husky man,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/humbrey-staffcarver]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

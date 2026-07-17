@@ -1,8 +1,12 @@
 ---
-location: [4440.493,  429.592]
+aliases: []
+tags: [map-marker]
+location: [429.592, 4440.493]
 mapmarker: Service
+title: Meydal - Matchmaker
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Meydal - Matchmaker
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/meydal-matchmaker|Meydal - Matchmaker]]<br>
 **Location Type:** Other Services
 
-**Description**<br> 
-
+**Description**<br>

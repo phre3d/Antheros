@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-entertainment #type-brothel #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-brothel]
+title: The Silken Chain
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Silken Chain
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## I may be bad but I'm perfectly good at it 
 
-## Description 
+# Description
+
+## I may be bad but I'm perfectly good at it
+
+## Description
+
 The specialty here is courtesans on leashes and or manicles
 
-## NPC Encounters 
+## NPC Encounters
+
 Boccaccio de Kammeron
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Boccaccio de Kammeron
 
 **Image:** n/a
 
-**Brothel (Entertainment)** 
+**Brothel (Entertainment)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Boccaccio de Kammeron
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Brothel / Whorehouse
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Boccaccio de Kammeron
 ---
 
 ### World Anvil Metadata
+
 **Id:** bf817bfe-8db9-4958-8dfe-7ee87d16a0b0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -93,7 +107,9 @@ Boccaccio de Kammeron
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

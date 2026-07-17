@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Anathea
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Anathea
 
-### 
+###
 
-**Full Name:**  Anathea      
+**Full Name:**  Anathea
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Anathea is an older woman, with greying hair and many wrinkles on her face. She 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/anathea]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

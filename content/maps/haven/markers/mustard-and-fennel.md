@@ -1,8 +1,12 @@
 ---
-location: [1662.942,  3132.653]
+aliases: []
+tags: [map-marker]
+location: [1662.942, 3132.653]
 mapmarker: Shopping
+title: Mustard and Fennel
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mustard and Fennel
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/mustard-and-fennel|Mustard and Fennel]]<br>
 **Location Type:** Herbalist
 
-**Description**<br> 
-
+**Description**<br>

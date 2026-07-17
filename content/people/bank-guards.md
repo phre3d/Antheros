@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Bank Guards
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bank Guards
 
-### 
+###
 
-**Full Name:**  Bank  Guards    
+**Full Name:**  Bank  Guards
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ See scenario [[plots/the-craft-show|The Craft Show]]. There are three guards pre
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bank-guards]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

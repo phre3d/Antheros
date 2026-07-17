@@ -1,8 +1,12 @@
 ---
-location: [5162.942,  1986.735]
+aliases: []
+tags: [map-marker]
+location: [1986.735, 5162.942]
 mapmarker: Dining
+title: The Aerie
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # The Aerie
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Dining
 **Location:** [[landmarks/the-aerie|The Aerie]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
+**Description**<br>
+
 One of the best dining establishments in the city

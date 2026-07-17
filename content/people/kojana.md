@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Kojana
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kojana
 
-### 
+###
 
-**Full Name:**  Kojana      
+**Full Name:**  Kojana
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Tired Courtesan
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kojana]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

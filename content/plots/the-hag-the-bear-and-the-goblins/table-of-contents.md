@@ -1,4 +1,9 @@
-#toc #Hag_Bear_Goblin 
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 **[[plots/the-hag-the-bear-and-the-goblins/the-hag-the-bear-and-the-goblins|Introduction]] ** <br>
 **[[plots/the-hag-the-bear-and-the-goblins/the-village|The Village]] ** <br>
@@ -19,4 +24,3 @@
  &nbsp;&nbsp;&nbsp;&nbsp;- [Toothache](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#toothache) (wolf)<br>
  &nbsp;&nbsp;&nbsp;&nbsp;- [Black Pimp](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#pimp) (hobgoblin)<br>
 **Items**  [[plots/the-hag-the-bear-and-the-goblins/items/the-verdant-harvester|The Verdant Harvester]]
-

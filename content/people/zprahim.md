@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Zprahim
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zprahim
 
-### 
+###
 
 **Full Name:**  Zprahim    the Illusionist  Virago Tainley
 
@@ -207,13 +213,12 @@ Refer to [[person/virago-tainley|Virago Tainley]]
 
 ---
 
-
-
 ![[people/blocks/zprahim]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

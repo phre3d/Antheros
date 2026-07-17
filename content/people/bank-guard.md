@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-north-corridor]
+title: Bank Guard
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bank Guard
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Use this statblock for [[person/bank-guards|Bank Guards]] at the [[landmark/hous
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bank-guard]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

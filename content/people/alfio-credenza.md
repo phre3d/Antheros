@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-street-of-harps #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Alfio Credenza
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alfio Credenza
 
-### 
+###
 
-**Full Name:**  Alfio  Credenza    
+**Full Name:**  Alfio  Credenza
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Owner of a shop selling musical instruments, Alfio has had a running feud with [
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alfio-credenza]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

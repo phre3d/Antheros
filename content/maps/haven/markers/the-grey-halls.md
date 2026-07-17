@@ -1,8 +1,12 @@
 ---
-location: [1381.309,  2331.633]
+aliases: []
+tags: [map-marker]
+location: [1381.309, 2331.633]
 mapmarker: Government
+title: The Grey Halls
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Grey Halls
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Government
 **Location:** [[landmarks/the-grey-halls|The Grey Halls]]<br>
 **Location Type:** Prison
 
-**Description**<br> 
-
+**Description**<br>

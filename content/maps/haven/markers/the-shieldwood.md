@@ -1,8 +1,12 @@
 ---
-location: [3909.881,  2711.224]
+aliases: []
+tags: [map-marker]
+location: [2711.224, 3909.881]
 mapmarker: Landmark
+title: The Shieldwood
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Shieldwood
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/the-shieldwood|The Shieldwood]]<br>
 **Location Type:** Park
 
-**Description**<br> 
+**Description**<br>
+
 These woods form the northern boundry of Erinhir, along the south bank of the Dorian.

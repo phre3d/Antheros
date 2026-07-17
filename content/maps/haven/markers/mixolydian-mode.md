@@ -1,8 +1,12 @@
 ---
-location: [2268.044,  2375.51]
+aliases: []
+tags: [map-marker]
+location: [2268.044, 2375.51]
 mapmarker: Inns & Taverns
+title: Mixolydian Mode
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mixolydian Mode
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/mixolydian-mode|Mixolydian Mode]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

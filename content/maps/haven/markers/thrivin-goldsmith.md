@@ -1,8 +1,12 @@
 ---
-location: [4368.044,  1053.061]
+aliases: []
+tags: [map-marker]
+location: [1053.061, 4368.044]
 mapmarker: Shopping
+title: Thrivin - Goldsmith
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Thrivin - Goldsmith
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/thrivin-goldsmith|Thrivin - Goldsmith]]<br>
 **Location Type:** Banking
 
-**Description**<br> 
-
+**Description**<br>

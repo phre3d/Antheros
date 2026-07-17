@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Thomas de la Riis
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Thomas de la Riis
 
-### 
+###
 
-**Full Name:**  Thomas  de la Riis    
+**Full Name:**  Thomas  de la Riis
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Thomas is the junior of [[person/paul-de-la-riis|Paul de la Riis]] by three year
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/thomas-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

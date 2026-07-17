@@ -1,14 +1,21 @@
-#plot  #Burgled_Budgie 
+---
+aliases: []
+tags: [plot/burgled-budgie, plot]
+title: The Debacle of the Burgled Budgie
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # The Debacle of the Burgled Budgie
 
 >[!info]
 >![[plots/burgled-budgie/images/burgled-budgie-cover.jpg]]
 >
 >---
-> 
+>
 >![[plots/burgled-budgie/table-of-contents|Table of Contents]]
 >
 >---
+>
 >**Dramatis Personae**
 >- [[plots/burgled-budgie/npcs/lady-windlewood|Lady Elizabeth Windlewood]] - the victim
 >- [[plots/burgled-budgie/npcs/herbert-spillwyrt|Herbert Spillwyrt]] - the "bird-napper"
@@ -19,9 +26,8 @@
 >- [[plots/burgled-budgie/monsters/beatrice|Beatrice]] - the MacGuffin
 >- [[plots/burgled-budgie/npcs/pemma-stoutfoot|Pemma Stoutfoot]] - cashier
 >- [[plots/burgled-budgie/npcs/tibbles|Tibbles]] - an unusual cat
->
 
-**Note:** What follows is based on the _The Debacle of the Burgled Budgie_ module from [Pandamancer](https://pandamancer.com) (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.
+**Note:** What follows is based on the *The Debacle of the Burgled Budgie* module from [Pandamancer](https://pandamancer.com) (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.
 
 ## Background
 
@@ -36,8 +42,8 @@ The one who interrupted Herbert’s heist was [[plots/burgled-budgie/npcs/jane-g
 This morning, when Lady Windlewood went to feed Beatrice she realized the bird was not her beloved pet and flew into a panicked rage, summoning the guards to investigate. The captain of the guard, while privately convinced that the bird is the same and the old lady has gone nuts, agreed to help her “investigate” by bringing in an independent team of adventurers on contract. He’ll deputize the PCs to figure out what’s going on while his guards handle “real” police work, and Lady Windlewood is more than happy to pay a princely sum for the return of her beloved pet.
 
 ## Running the Adventure
-This adventure is intended for four 5th-level PCs and should last 3-4 hours. As with any adventure heavy on investigation, feel free to throw the PCs a bone if they are stuck for too long and don’t seem to be enjoying it. This adventure is fairly RP-heavy, so make sure your group brings characters who can work together and roleplay. We can’t predict every player choice, so familiarize yourself with the NPCs and be ready to improvise! Additional information about most of them can be found in Appendix D.
 
+This adventure is intended for four 5th-level PCs and should last 3-4 hours. As with any adventure heavy on investigation, feel free to throw the PCs a bone if they are stuck for too long and don’t seem to be enjoying it. This adventure is fairly RP-heavy, so make sure your group brings characters who can work together and roleplay. We can’t predict every player choice, so familiarize yourself with the NPCs and be ready to improvise! Additional information about most of them can be found in Appendix D.
 
 # Credits
 
@@ -53,12 +59,10 @@ Special thanks to family and friends for playtesting and feedback.
 
 For more exciting adventures, settings, and mechanics, visit us at [Pandamancer.com](https://pandamancer.com)
 
-
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>
 <div class="page-nav">
    <span class="nav-next">Next: <a href="plots/burgled-budgie/starting-the-adventure" class="internal-link">Starting the Adventure</a> →</span>
 </div>
-
 
 ![[plots/burgled-budgie/table-of-contents]]

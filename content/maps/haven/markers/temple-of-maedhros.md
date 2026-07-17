@@ -1,8 +1,12 @@
 ---
-location: [4085.391,  4977.551]
+aliases: []
+tags: [map-marker]
+location: [4085.391, 4977.551]
 mapmarker: Religion
+title: Temple of Maedhros
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Maedhros
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-maedhros|Temple of Maedhros]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Maedhros: God of Fire, Patron of Metalworkers

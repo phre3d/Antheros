@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #conindir-family #guild-of-erectors #erinhir #npc
+---
+aliases: []
+tags: [conindir-family, erinhir, Free_City_of_Haven, guild/erectors, import, npc, person]
+title: Teleril Conindir
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Teleril Conindir
 
-### 
+###
 
-**Full Name:**  Teleril  Conindir    
+**Full Name:**  Teleril  Conindir
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ Teleril is married to Khelekien and they have two sons (Mirthule, Celebinde) and
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/teleril-conindir]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

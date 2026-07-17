@@ -1,8 +1,12 @@
 ---
-location: [6264.983,  2298.98]
+aliases: []
+tags: [map-marker]
+location: [2298.98, 6264.983]
 mapmarker: Shopping
+title: Maas Turkar - Weaponeer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Maas Turkar - Weaponeer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/maas-turkar-weaponeer|Maas Turkar - Weaponeer]]<br>
 **Location Type:** Weapons
 
-**Description**<br> 
-
+**Description**<br>

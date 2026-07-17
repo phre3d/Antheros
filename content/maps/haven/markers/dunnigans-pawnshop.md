@@ -1,8 +1,12 @@
 ---
-location: [1324.166,  3030.612]
+aliases: []
+tags: [map-marker]
+location: [1324.166, 3030.612]
 mapmarker: Shopping
+title: "Dunnigan's Pawnshop"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Dunnigan's Pawnshop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/dunnigans-pawnshop|Dunnigan's Pawnshop]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

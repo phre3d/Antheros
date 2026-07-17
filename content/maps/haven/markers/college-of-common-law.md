@@ -1,8 +1,12 @@
 ---
-location: [3114.983,  1945.918]
+aliases: []
+tags: [map-marker]
+location: [1945.918, 3114.983]
 mapmarker: Education
+title: College of Common Law
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # College of Common Law
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/college-of-common-law|College of Common Law]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

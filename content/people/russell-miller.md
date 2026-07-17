@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-cauldron #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Russell Miller
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Russell Miller
 
-### 
+###
 
-**Full Name:**  Russell  Miller    
+**Full Name:**  Russell  Miller
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Head of a fairly wealthy family of coopers. The family owns three workshops, and
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/russell-miller]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

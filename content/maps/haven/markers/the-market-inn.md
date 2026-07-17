@@ -1,8 +1,12 @@
 ---
-location: [1723.146,  3118.367]
+aliases: []
+tags: [map-marker]
+location: [1723.146, 3118.367]
 mapmarker: Inns & Taverns
+title: The Market Inn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Market Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-market-inn|The Market Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

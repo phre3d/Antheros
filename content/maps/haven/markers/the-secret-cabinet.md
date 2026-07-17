@@ -1,8 +1,12 @@
 ---
-location: [3567.023,  3559.184]
+aliases: []
+tags: [map-marker]
+location: [3559.184, 3567.023]
 mapmarker: Shopping
+title: The Secret Cabinet
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Secret Cabinet
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-secret-cabinet|The Secret Cabinet]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

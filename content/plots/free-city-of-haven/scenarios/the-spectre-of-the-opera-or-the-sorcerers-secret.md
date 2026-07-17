@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: "'The Spectre of the Opera' or 'The Sorcerer’s Secret'"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # 'The Spectre of the Opera' or 'The Sorcerer’s Secret'
 
 ````col
@@ -135,7 +141,6 @@ An elf has a 40% chance of recognizing the skull is elven, not human. A mage wil
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

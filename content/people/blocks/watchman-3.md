@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Watchman 3
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Watchman 3
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Quarterstaff:**  +3 to hit , 1d6+0 bludgeoning damage  
   **Dagger:**  +3 to hit , 1d4+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

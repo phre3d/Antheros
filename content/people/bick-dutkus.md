@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Bick Dutkus
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bick Dutkus
 
-### 
+###
 
-**Full Name:**  Bick  Dutkus    
+**Full Name:**  Bick  Dutkus
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A 6'6", 250lb. Bruiser who provides "insurance" for [[person/tael-ishe-kel|Tael 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bick-dutkus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

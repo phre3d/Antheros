@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #barristers-maze #npc
+---
+aliases: []
+tags: [barristers-maze, Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Petrovka
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Petrovka
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Young, only 17, relatively pretty, with long, thick brown hair and hazel eyes, a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/petrovka]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

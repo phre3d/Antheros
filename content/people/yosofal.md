@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Yosofal
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Yosofal
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ An old woman with a craggy, wrinkled face and beaked nose; she wears colorful ra
 
 ---
 
-
-
 ![[people/blocks/yosofal]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

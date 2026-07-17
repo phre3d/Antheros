@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Wilverado
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Wilverado
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +4 to hit , 1d8+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

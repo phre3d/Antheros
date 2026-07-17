@@ -1,8 +1,12 @@
 ---
-location: [4400.697,  1348.98]
+aliases: []
+tags: [map-marker]
+location: [1348.98, 4400.697]
 mapmarker: City Guard
+title: Tower Station
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Tower Station
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/tower-station|Tower Station]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

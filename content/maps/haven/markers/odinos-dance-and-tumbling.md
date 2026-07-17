@@ -1,8 +1,12 @@
 ---
-location: [2499.677,  2308.163]
+aliases: []
+tags: [map-marker]
+location: [2308.163, 2499.677]
 mapmarker: Service
+title: "Odino's Dance and Tumbling"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Odino's Dance and Tumbling
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/odinos-dance-and-tumbling|Odino's Dance and Tumbling]]<br>
 **Location Type:** Training
 
-**Description**<br> 
-
+**Description**<br>

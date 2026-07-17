@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Peering Tiefling
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Peering Tiefling
 
-### 
+###
 
-**Full Name:**  Peering  Tiefling    
+**Full Name:**  Peering  Tiefling
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Random person frequently seen peering into the shop, squinting as if he has trou
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/peering-tiefling]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

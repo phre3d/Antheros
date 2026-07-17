@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: Scene 2
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Scene 2
 
 ````col
@@ -61,7 +67,6 @@ The party may ask for more potions but it will require a <u>successful DC 15 Cha
 
 ```
 ````
-
 
 ---
 

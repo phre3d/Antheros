@@ -1,8 +1,12 @@
 ---
-location: [2666.003,  2298.98]
+aliases: []
+tags: [map-marker]
+location: [2298.98, 2666.003]
 mapmarker: Inns & Taverns
+title: Mystic Valley Inn
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mystic Valley Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/mystic-valley-inn|Mystic Valley Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

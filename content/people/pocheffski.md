@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth, thieves-guild]
+title: Pocheffski
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pocheffski
 
-### 
+###
 
-**Full Name:**  Pocheffski      
+**Full Name:**  Pocheffski
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Pocheffski, a sallow-faced, squint-eyed man in his late fifties whose reflexes a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pocheffski]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

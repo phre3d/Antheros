@@ -1,4 +1,9 @@
-#toc #Clockwork_Tower 
+---
+aliases: []
+tags: [plot/clockwork-tower, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 **[[plots/clockwork-tower/clockwork-tower|Introduction]]**<br>
 **Town and Surroundings**  <br>
@@ -19,4 +24,3 @@
 **[[plots/clockwork-tower/resolution|Resolution]]** <br>
 **[[plots/clockwork-tower/npcs-monsters-and-items|NPCs, Monsters, and Items]]**<br>
 **[[plots/clockwork-tower/scaling-monster-numbers|Scaling Monster Numbers]]**  
-

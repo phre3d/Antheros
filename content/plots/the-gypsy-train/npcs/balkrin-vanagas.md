@@ -1,4 +1,5 @@
 ---
+aliases: []
 cr_type: person
 cr_id: balkrin-vanagas
 name: Balkrin Vanagas
@@ -16,18 +17,14 @@ children_id:
   - selynis-vanagas
 spouse: "[[plots/the-gypsy-train/npcs/Zanthira Vanagas]]"
 spouse_id: zanthira-vanagas
-tags:
-  - npc
-  - person
-  - The_Gypsy_Train
-date modified: 2026-06-12, 3:33:45 pm
+tags: [npc, person, plot/The_Gypsy_Train]
+date modified: 2026-07-16, 9:18:12 pm
 cousin: "[[plots/the-gypsy-train/npcs/Rymvid Galinys]]"
 cousin_id: rymvid-galinys
 friend: "[[plots/the-gypsy-train/npcs/Bronkar Prusas]]"
 friend_id: bronkar-prusas
+title: Balkrin Vanagas
 ---
-
-#person #npc #The_Gypsy_Train
 
 # Balkrin Vanagas
 
@@ -59,9 +56,10 @@ Medium, humanoiid (human), chaotic neutral
 ---
 
 # Description
+
 Balkrin, the leader of this band, is a husky, quick-tempered type in his mid-40s. He has been the leader of the group since his father died five years ago. He is normally suspicious of all gorgios (non-gypsies) – especially any who mention his wife, whom he keeps locked up in their wagon most of the time because of his extreme jealousy.
 
-Balkrin is a 5th-level human fighter who wears leather armor and carries a long sword, a +2 dagger and a ring of protection +2. He prefers to use his dagger, which he keeps hidden in his boot, because of its magic. 
+Balkrin is a 5th-level human fighter who wears leather armor and carries a long sword, a +2 dagger and a ring of protection +2. He prefers to use his dagger, which he keeps hidden in his boot, because of its magic.
 
 He likes to settle differences by wrestling with troublemakers. This he will do fairly and honestly, handing over all his weapons into the care of his eldest son [[plots/the-gypsy-train/npcs/kordaal-vanagas|Kordaal]] – but if treachery is discovered, Balkrin will immediately signal for his son to toss him the magic dagger, and he won’t hesitate to use it either to protect himself or to teach the cheater a lesson.
 
@@ -70,6 +68,7 @@ Balkrin’s wrestling matches are quite an event in the caravan, and all the gyp
 ---
 
 # Special Abilities
+
 **Ring of Protection, +2**
 
 ---

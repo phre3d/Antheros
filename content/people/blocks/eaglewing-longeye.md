@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Eaglewing Longeye
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Eaglewing Longeye
 
 ````col
@@ -37,41 +43,16 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
-**Heavenly Touch: ** Heal xd4 damage where x = proficiency bonus. Needs long rest to recharge 
+
+**Heavenly Touch: ** Heal xd4 damage where x = proficiency bonus. Needs long rest to recharge
+
  **Light**  cantrip
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +4 to hit , 1d8+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Methri Starbelly
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Methri Starbelly
 
-### 
+###
 
-**Full Name:** Station Captain Methri  Starbelly    
+**Full Name:** Station Captain Methri  Starbelly
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ She is Station Captain of the [[landmark/southbridge-barracks|Southbridge Barrac
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/methri-starbelly]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

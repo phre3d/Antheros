@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: FCoH Street Encounter Tables
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # FCoH Street Encounter Tables
 
 ````col
@@ -123,6 +129,3 @@ The following is a list of random street encounters and where they might occur. 
 
 ```
 ````
-
-
-

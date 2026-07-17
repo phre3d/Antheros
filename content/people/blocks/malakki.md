@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Malakki
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Malakki
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +6 to hit , 1d8+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

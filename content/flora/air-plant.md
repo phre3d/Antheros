@@ -1,4 +1,10 @@
-#import #flora #essence-air-plant
+---
+aliases: []
+tags: [essence-air-plant, flora, import]
+title: Air Plant
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Air Plant
 
 ````col
@@ -45,7 +51,9 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 ````
 
 <!-- Standard page footer -->
+
 ---
+
 ````col
 ```col-md
 

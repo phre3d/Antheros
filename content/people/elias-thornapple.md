@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Elias Thornapple
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elias Thornapple
 
-### 
+###
 
-**Full Name:**  Elias  Thornapple    
+**Full Name:**  Elias  Thornapple
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Also known as "Roundbottom", he is a middle-aged halfling of considerable girth;
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elias-thornapple]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

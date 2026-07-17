@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-word #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/word, import, npc, person, the-cauldron]
+title: Balin arn Malbar
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Balin arn Malbar
 
-### 
+###
 
-**Full Name:**  Balin  arn Malbar    
+**Full Name:**  Balin  arn Malbar
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Balin is a harried looking fellow, thinning hair perpetually mussed, and is cons
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/balin-arn-malbar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Inns & Taverns
+title: The Market Inn
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # The Market Inn
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-market-inn|The Market Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

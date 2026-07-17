@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Alley Basher 2
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alley Basher 2
 
-### 
+###
 
-**Full Name:**  Alley Basher  Two    
+**Full Name:**  Alley Basher  Two
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See [[plots/street-encounters|Street Encounters]] : Beckoner
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alley-basher-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

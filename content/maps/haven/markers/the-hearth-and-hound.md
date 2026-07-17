@@ -1,8 +1,12 @@
 ---
-location: [1552.738,  4097.959]
+aliases: []
+tags: [map-marker]
+location: [1552.738, 4097.959]
 mapmarker: Inns & Taverns
+title: The Hearth and Hound
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Hearth and Hound
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-hearth-and-hound|The Hearth and Hound]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

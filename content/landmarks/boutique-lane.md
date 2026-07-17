@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-landmark #type-street #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-heights, type-street]
+title: Boutique Lane
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Boutique Lane
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Shopping in the Heights 
 
-## Description 
+# Description
+
+## Shopping in the Heights
+
+## Description
+
 The main, and only, shopping area in the Heights. Several high-end shops can be found here, along with the Rose Garden Inn
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The main, and only, shopping area in the Heights. Several high-end shops can be 
 
 **Image:** n/a
 
-**Street (Landmark)** 
+**Street (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The main, and only, shopping area in the Heights. Several high-end shops can be 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Street
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The main, and only, shopping area in the Heights. Several high-end shops can be 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 6f3e4291-b4ff-4380-afd6-00be23bb479d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -90,7 +103,9 @@ The main, and only, shopping area in the Heights. Several high-end shops can be 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

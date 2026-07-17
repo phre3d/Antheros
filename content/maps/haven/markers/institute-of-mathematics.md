@@ -1,8 +1,12 @@
 ---
-location: [3298.656,  1917.347]
+aliases: []
+tags: [map-marker]
+location: [1917.347, 3298.656]
 mapmarker: Education
+title: Institute of Mathematics
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Institute of Mathematics
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/institute-of-mathematics|Institute of Mathematics]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -8,7 +13,7 @@
 
 ## Details
 
-We all stand around looking at a face down mirror. We take a bolt of cloth to wrap it around the mirror and discuss taking it to Lady Roweena Geronde who we met after dealing with her family crypt in @UUID[JournalEntry. YJQDtzQdQE2nXrpx]{ Mirror mirror on the. . . wait, where did everybody go? } .
+We all stand around looking at a face down mirror. We take a bolt of cloth to wrap it around the mirror and discuss taking it to Lady Roweena Geronde who we met after dealing with her family crypt in @UUID[JournalEntry. YJQDtzQdQE2nXrpx]{ Mirror mirror on the… wait, where did everybody go? } .
 
 Eugene, Turin, and Penelope discuss the best way to wrap and carry the mirror. Arada and Martin look around. Martin finds a few interesting mechanical toys. Arada finds a bag of clinky stuff. Eugene does a last look around and finds a cryptex.
 
@@ -49,4 +54,3 @@ Martin also tells her if they see more to talk to their local watch to sends wor
 We go back to the inn to report to Lyza. Neither Lyza nor Olivia are there.
 
 ---
-

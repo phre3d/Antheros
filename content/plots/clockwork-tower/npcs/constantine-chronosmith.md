@@ -1,9 +1,15 @@
-#import #person #Clockwork_Tower #npc
+---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person]
+title: Constantine Chronosmith
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Constantine Chronosmith
 
-### 
+###
 
-**Full Name:** Echo of Constantine  Chronosmith    
+**Full Name:** Echo of Constantine  Chronosmith
 
 `````col
 ````col-md
@@ -32,9 +38,9 @@ As an NPC, the Echo of Constantine offers a lot of room for creative roleplaying
 
 >[!Note]+ Statblock
 >![[plots/clockwork-tower/npcs/blocks/constantine-chronosmith]]
->
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
 
 ````col

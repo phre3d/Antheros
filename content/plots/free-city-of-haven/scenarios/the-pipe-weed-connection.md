@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Pipe Weed Connection
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Pipe Weed Connection
 
 ````col

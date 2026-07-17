@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Mykyl Two Fingers
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mykyl Two Fingers
 
-### 
+###
 
-**Full Name:**  Mykyl  Two Fingers    
+**Full Name:**  Mykyl  Two Fingers
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ A grimy, scarred and scabbed beggar with only one finger (and a thumb) on each h
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mykyl-two-fingers]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #hochritter-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, hochritter-family, import, npc, person, the-heights]
+title: Mathilde Hochritter
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mathilde Hochritter
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mathilde-hochritter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

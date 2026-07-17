@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #ducal-guard #the-heights #npc
+---
+aliases: []
+tags: [ducal-guard, Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+title: Emmaeus Stonnard
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Emmaeus Stonnard
 
-### 
+###
 
-**Full Name:**  Emmaeus  Stonnard    
+**Full Name:**  Emmaeus  Stonnard
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Married to [[person/gallia-stonnard|Gallia Stonnard]], a daughter of the [[organ
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/emmaeus-stonnard]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Service
+title: "Tael I'she-Kel's Money Changing Service"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Tael I'she-Kel's Money Changing Service
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/tael-ishe-kels-money-changing-service|Tael I'she-Kel's Money Changing Service]]<br>
 **Location Type:** Banking
 
-**Description**<br> 
-
+**Description**<br>

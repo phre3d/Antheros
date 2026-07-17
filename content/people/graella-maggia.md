@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+title: Graella Maggia
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Graella Maggia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/graella-maggia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-ship #council-of-masters #the-south-docks #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/ship, import, npc, person, the-south-docks]
+title: Nimrodel
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nimrodel
 
-### 
+###
 
-**Full Name:**  Nimrodel      
+**Full Name:**  Nimrodel
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Nimrodel is also aware of the true identity of [[person/silverthorne|Silverthorn
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nimrodel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

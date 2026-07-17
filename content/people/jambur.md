@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-dwarrow]
+title: Jambur
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jambur
 
-### 
+###
 
-**Full Name:**  Jambur      
+**Full Name:**  Jambur
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Jambur and his wife, [[person/gorra|Gorra]], make and sell men's and women's clo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jambur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

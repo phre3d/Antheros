@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -17,4 +22,3 @@ Eugene goes to the healer who explains they need the right supplements.
 At 7pm Penelope gets the chain armor. It will be close, but we are off to [[landmarks/duhms-rooms|Duhm's Rooms]].
 
 ---
-

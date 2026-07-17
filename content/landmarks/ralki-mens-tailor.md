@@ -1,27 +1,39 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-general-clothing #guild-of-the-loom #general-clothing
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-dwarrow, type-general-clothing]
+title: "Ralki - Men's Tailor"
+date modified: 2026-07-16, 9:18:47 pm
+---
+
 # Ralki - Men's Tailor
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Fine Tailored Products 
 
-## Description 
+# Description
+
+## Fine Tailored Products
+
+## Description
+
 [[people/ralki|Ralki]]'s establishment is like day compared to [[people/jambur|Jambur]]'s night. [[people/ralki|Ralki]] is a very diminutive, elderly dwarf with horn-rimmed spectacles, and a military posture. He does only custom tailoring (waiting time, from first fitting to receipt, ranges from 10-28 days) and has an uncannily precise sense of fit. He serves all races with equal skill (Ralki is so good he can make a halfling look like a Swiss banker).  
 
  His clientele includes several of the major Guild families, and - though this is a very well-kept secret - is occasionally called to Duke Fernando's estate to fit him for formal attire. [[people/hamlin-blackbourne|Hamlin Blackbourne]] (Guild of the Loom's Master) has long tried to get [[people/ralki|Ralki]] to work for him, but the latter prizes his independence too highly ("De only time I took orders from anyvun, vas during de last Goblin-Dvarf var - and dat vas qvite enough, tank you").  
 
  A character dressed in one of [[people/ralki|Ralki]]'s outfits should probably receive temporary bonuses of +1 to +3 in CHA if he is in a position where a person's attire would be important to his image (like an explorer asking a possible benefactor for financial assistance, or a male-female relationship in the upper social strata).
 
-## Price Range 
+## Price Range
+
 Costly
 
-## Quality 
+## Quality
+
 Superb+
 
 # Purpose / Function
@@ -58,7 +70,7 @@ Superb+
 
 **Image:** n/a
 
-**General Clothing (Shopping)** 
+**General Clothing (Shopping)**
 
  **Owner:**  Ralki
 
@@ -70,12 +82,14 @@ Superb+
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -92,6 +106,7 @@ Superb+
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0483a766-41b2-4b22-bfb5-2c7fedd43238<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -100,7 +115,9 @@ Superb+
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

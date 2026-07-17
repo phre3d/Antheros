@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #rand-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, rand-family, the-glens]
+title: Sberri Rand
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sberri Rand
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Hardly looks like he had the same parentage as Kruegger - he is quite tall, almo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sberri-rand]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

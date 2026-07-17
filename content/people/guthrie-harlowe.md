@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-corridor]
+title: Guthrie Harlowe
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Guthrie Harlowe
 
-### 
+###
 
-**Full Name:**  Guthrie  Harlowe    
+**Full Name:**  Guthrie  Harlowe
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Guthrie is a retired bard who owns [[landmark/the-prancing-pony|The Prancing Pon
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/guthrie-harlowe]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

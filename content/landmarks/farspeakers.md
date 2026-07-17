@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-messages #guild-of-drayers #messages
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, magic-street, messages, type-messages]
+title: Farspeakers
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Farspeakers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Magical telegrams? 
 
-## Description 
+# Description
+
+## Magical telegrams?
+
+## Description
+
 They use magic to transmit messages over long distances. They have swapped "speaker stones" with partner organizations in multiple cities across Antheros
 
 # Purpose / Function
@@ -48,7 +58,7 @@ They use magic to transmit messages over long distances. They have swapped "spea
 
 **Image:** n/a
 
-**Messages (Shopping)** 
+**Messages (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ They use magic to transmit messages over long distances. They have swapped "spea
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Transportation station
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ They use magic to transmit messages over long distances. They have swapped "spea
 ---
 
 ### World Anvil Metadata
+
 **Id:** 940725c1-e424-484d-93b8-9feb6cdb4d47<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -90,7 +103,9 @@ They use magic to transmit messages over long distances. They have swapped "spea
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

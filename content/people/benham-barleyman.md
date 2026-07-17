@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Benham Barleyman
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Benham Barleyman
 
-### 
+###
 
-**Full Name:**  Benham  Barleyman    
+**Full Name:**  Benham  Barleyman
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ A sandy-haired, handsome young halfling who frequently takes long trips out of H
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/benham-barleyman]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

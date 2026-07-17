@@ -1,20 +1,22 @@
 ---
-tags: [import, settlement, Free_City_of_Haven, neighbourhood]
+aliases: []
+tags: [Free_City_of_Haven, import, neighbourhood, settlement]
 date created: 2026-05-09, 8:01:38 pm
-date modified: 2026-06-09, 11:54:26 am
+date modified: 2026-07-16, 9:18:08 pm
+title: The Street of Harps
 ---
-
-#import #settlement #Free_City_of_Haven #neighbourhood
 
 # The Street of Harps
 
 ---start-multi-column: Main
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 The Street of Harps area is the center of the performing arts in Haven, from bards and troubadours to actors, dancers, jugglers, and clowns. The Street of Harps runs south from the Street of Caravans to a wide plaza, the Leiderstrasse, and on down to intercept the winding Horseshoe.
@@ -32,6 +34,7 @@ Rumors heard in the taverns of the Street of Harps, particularly in the [[landma
 Life on the Street of Harps is dominated by the [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]]. All performances for money fall under the jurisdiction of the Guild, which tries, with varying success, to monopolize the field. It is technically illegal to perform for pay without a license, which is only obtained through Guild membership. Auditioning for acceptance into the Guild is covered under the Guildhall's listing later in this section.
 
 ## Persons of Interest
+
 ### Fenris' Troupe
 
 - Fenris Redbeard: An experienced showman, he has lived most of his life on the road with his troupe, [[organizations/redbeards-repertory-players|Redbeard's Repertory Players]].
@@ -43,6 +46,7 @@ Life on the Street of Harps is dominated by the [[organizations/guilds/guild-of-
 -  [[people/yohan|Yohan]]: Nominally by Fenris as a guard, he is actually there to ensure Toric completes his mission
 
 ### Others
+
 - [[people/xandrian|Xandrian]]: When visible, appears as young elf with long blond hair, wearing a tunic and boots, a cloak and a hood.  He is in fact a Ghost.
 - [[people/chiles-putney|Chiles Putney]]: Star of the stage and extravagant off-stage.
 - [[people/phineous-tarkin|Phineous Tarkin]]: Manager of the Muses Theatre
@@ -106,7 +110,7 @@ Life on the Street of Harps is dominated by the [[organizations/guilds/guild-of-
 - [[people/kivi|Kivi]] and [[people/petriko|Petriko]]
 - [[people/ratchet|Ratchet]]
 
---- end-multi-column
+---end-multi-column
 
 ![[~attachments/dndline.png]]
 

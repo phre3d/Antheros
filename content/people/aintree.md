@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-corridor]
+title: Aintree
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Aintree
 
-### 
+###
 
-**Full Name:**  Aintree      
+**Full Name:**  Aintree
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Aintree is a muscular, black-haired man of middle-age; he enjoys working behind 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/aintree]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

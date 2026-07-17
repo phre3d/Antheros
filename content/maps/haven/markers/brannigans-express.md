@@ -1,8 +1,12 @@
 ---
-location: [2627.228,  1398.98]
+aliases: []
+tags: [map-marker]
+location: [1398.98, 2627.228]
 mapmarker: Service
+title: "Brannigan's Express"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Brannigan's Express
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/brannigans-express|Brannigan's Express]]<br>
 **Location Type:** Courier
 
-**Description**<br> 
-
+**Description**<br>

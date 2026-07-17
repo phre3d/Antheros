@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-religion #type-mission #religion
+---
+aliases: []
+tags: [cat-religion, Free_City_of_Haven, import, landmark, religion, the-labyrinth, type-mission]
+title: Cust Way Crotofiran Mission
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Cust Way Crotofiran Mission
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## Soup and a sermon 
 
-## Description 
-A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|Monks of Saint Crotofiros]]. Meals are served with an obligatory sermon, encouraging the young lads and lasses to keep the faith in their search for a better life. 
+## Soup and a sermon
 
-## NPC Encounters 
+## Description
+
+A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|Monks of Saint Crotofiros]]. Meals are served with an obligatory sermon, encouraging the young lads and lasses to keep the faith in their search for a better life.
+
+## NPC Encounters
+
 [[people/dog-end|Dog-end]] (at mealtime)
 
 # Purpose / Function
@@ -51,7 +62,7 @@ A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|
 
 **Image:** n/a
 
-**Mission (Religion)** 
+**Mission (Religion)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Temple / Religious complex
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|
 ---
 
 ### World Anvil Metadata
+
 **Id:** d2d6a406-ad0c-4c17-96a9-e5ec58cfac0a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -93,7 +107,9 @@ A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

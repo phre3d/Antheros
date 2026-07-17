@@ -1,8 +1,12 @@
 ---
-location: [3844.574,  1854.082]
+aliases: []
+tags: [map-marker]
+location: [1854.082, 3844.574]
 mapmarker: Inns & Taverns
+title: The Leaf and Jar
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Leaf and Jar
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-leaf-and-jar|The Leaf and Jar]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

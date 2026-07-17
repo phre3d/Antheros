@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Mercenary A9
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mercenary A9
 
-### 
+###
 
-**Full Name:**  Mercenary  A9    
+**Full Name:**  Mercenary  A9
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary A9
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-a9]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

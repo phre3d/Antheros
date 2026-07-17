@@ -1,8 +1,12 @@
 ---
-location: [6233.35,  2216.327]
+aliases: []
+tags: [map-marker]
+location: [2216.327, 6233.35]
 mapmarker: Inns & Taverns
+title: The Golden Ducat
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Golden Ducat
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-golden-ducat|The Golden Ducat]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

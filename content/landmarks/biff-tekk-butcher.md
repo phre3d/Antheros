@@ -1,17 +1,26 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-butcher #butcher
+---
+aliases: []
+tags: [butcher, cat-shop, Free_City_of_Haven, import, landmark, thieves-market, type-butcher]
+title: Biff Tekk - Butcher
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Biff Tekk - Butcher
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-One can usually get meats ranging from mutton to pork to beef from this butcher wagon. Fancy meats like veal or lamb are available only occasionally (15% chance). 
 
-If bought fresh (65% chance it was slaughtered within the last two days), the meat is of reasonably decent quality, otherwise it is starting to get slightly off (depending on age). 
+# Description
+
+One can usually get meats ranging from mutton to pork to beef from this butcher wagon. Fancy meats like veal or lamb are available only occasionally (15% chance).
+
+If bought fresh (65% chance it was slaughtered within the last two days), the meat is of reasonably decent quality, otherwise it is starting to get slightly off (depending on age).
 
 Tekk occasionally has special deals on older meat (nothing more than 2 weeks old, due to poor refridgeration). He also sells very strong spices to cover the slightly spoiled taste of the older meat.
 
@@ -49,11 +58,9 @@ Tekk occasionally has special deals on older meat (nothing more than 2 weeks old
 
 **Image:** n/a
 
-**Shop / Butcher** 
-
+**Shop / Butcher**
 
  **Location:**  Thieves Market
-
 
  **Map Reference:**  TM-07
 
@@ -61,12 +68,13 @@ Tekk occasionally has special deals on older meat (nothing more than 2 weeks old
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Market stall
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -84,6 +92,7 @@ Tekk occasionally has special deals on older meat (nothing more than 2 weeks old
 ---
 
  **Stall Type:**  Wagonside
+
  **# Occupants:**  Owner + 2
 
  **Prices:**  Fair
@@ -101,7 +110,9 @@ Tekk occasionally has special deals on older meat (nothing more than 2 weeks old
  **Purse:**  80gp
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 8dd2de9a-eaaf-45a8-a608-4e31a8045c1a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -110,7 +121,9 @@ Tekk occasionally has special deals on older meat (nothing more than 2 weeks old
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

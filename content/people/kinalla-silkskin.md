@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Kinalla Silkskin
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kinalla Silkskin
 
-### 
+###
 
-**Full Name:**  Kinalla  Silkskin    
+**Full Name:**  Kinalla  Silkskin
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Kinalla was once considered the most beautiful and accomplished courtesan in Hav
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kinalla-silkskin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Mindikar
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mindikar
 
-### 
+###
 
-**Full Name:**  Mindikar      
+**Full Name:**  Mindikar
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ A skilled leatherworker focused on saddles and tack for various types of mount.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mindikar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

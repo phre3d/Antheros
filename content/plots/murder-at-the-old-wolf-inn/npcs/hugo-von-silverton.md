@@ -1,4 +1,10 @@
-#import #person #Murder_at_the_Old_Wolf_Inn #npc
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Hugo von Silverton
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Hugo von Silverton
 
 `````col
@@ -58,7 +64,9 @@ All Hugo wants is for the storm to pass so that he can put as many miles between
 `````
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

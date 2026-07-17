@@ -1,8 +1,12 @@
 ---
-location: [2738.452,  639.796]
+aliases: []
+tags: [map-marker]
+location: [2738.452, 639.796]
 mapmarker: Shopping
+title: "Stables and Pens of Darankis t'Goran"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Stables and Pens of Darankis t'Goran
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/stables-and-pens-of-darankis-tgoran|Stables and Pens of Darankis t'Goran]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

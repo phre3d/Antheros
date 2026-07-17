@@ -1,8 +1,12 @@
 ---
-location: [2758.86,  2278.571]
+aliases: []
+tags: [map-marker]
+location: [2278.571, 2758.86]
 mapmarker: Residence
+title: Home of Colchester Tibbits
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Home of Colchester Tibbits
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/home-of-colchester-tibbits|Home of Colchester Tibbits]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

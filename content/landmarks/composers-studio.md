@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-shop #type-music #guild-of-entertainers #music
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/entertainers, import, landmark, music, street-of-harps, type-music]
+title: "Composer's Studio"
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Composer's Studio
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Music (Shopping)** 
+**Music (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5ed3d6b9-1288-44bc-9b08-aa87ef3a9977<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

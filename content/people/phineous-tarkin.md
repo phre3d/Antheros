@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #the-street-of-harps #the-cleff
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/entertainers, import, person, the-cleff, the-street-of-harps]
+title: Phineous Tarkin
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Phineous Tarkin
 
-### 
+###
 
-**Full Name:**  Phineous  Tarkin    
+**Full Name:**  Phineous  Tarkin
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A middle aged man, with weary lines about his eyes and mouth, whose hair is thin
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/phineous-tarkin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2172.126,  1829.592]
+aliases: []
+tags: [map-marker]
+location: [1829.592, 2172.126]
 mapmarker: Shopping
+title: "Delmarva's Fine Eggs and Poultry"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Delmarva's Fine Eggs and Poultry
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/delmarvas-fine-eggs-and-poultry|Delmarva's Fine Eggs and Poultry]]<br>
 **Location Type:** Poultry
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #adrielles-watch #erinhir #the-outlands #npc
+---
+aliases: []
+tags: [adrielles-watch, erinhir, Free_City_of_Haven, import, npc, person, the-outlands]
+title: Watchman 5
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Watchman 5
 
-### 
+###
 
-**Full Name:**  Watchman  Five    
+**Full Name:**  Watchman  Five
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A member of [[organization/adrielles-watch|Adrielle's Watch]]
 
 ---
 
-
-
 ![[people/blocks/watchman-5]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

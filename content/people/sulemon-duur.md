@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Sulemon Duur
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Sulemon Duur
 
-### 
+###
 
-**Full Name:**  Sulemon  Duur    
+**Full Name:**  Sulemon  Duur
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ The recently appointed Grand Master of Haven's Thieves Guild, Duur is a short po
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sulemon-duur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

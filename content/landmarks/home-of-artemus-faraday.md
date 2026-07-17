@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-south-corridor, type-house]
+title: Home of Artemus Faraday
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Home of Artemus Faraday
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 19e5ccf2-8893-4ba3-9e48-3fc60281678b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

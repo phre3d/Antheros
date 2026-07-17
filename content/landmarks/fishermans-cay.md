@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth
+---
+aliases: []
+tags: [Free_City_of_Haven, import, landmark, the-labyrinth]
+title: "Fisherman's Cay"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Fisherman's Cay
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Fish wharf and "cannery" 
 
-## Description 
+# Description
+
+## Fish wharf and "cannery"
+
+## Description
+
 At the south end of Lexington, across the Dorain from the Naval Docks you find a long wharf used by the local fishermen.  The best fish are sold fresh off the boat, generally to local restaurants or the kitchens of the wealthy. You can also purchase presevered fish from the fish house where anything not sold fresh is taken to be gutted, cleaned and preserved in salt or frozen (in winter only).
 
 # Purpose / Function
@@ -48,7 +58,7 @@ At the south end of Lexington, across the Dorain from the Naval Docks you find a
 
 **Image:** n/a
 
-**Other Landmark (Landmark)** 
+**Other Landmark (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ At the south end of Lexington, across the Dorain from the Naval Docks you find a
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ At the south end of Lexington, across the Dorain from the Naval Docks you find a
 ---
 
 ### World Anvil Metadata
+
 **Id:** 6018accd-f235-4b60-985e-5b492835bf89<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -90,7 +103,9 @@ At the south end of Lexington, across the Dorain from the Naval Docks you find a
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

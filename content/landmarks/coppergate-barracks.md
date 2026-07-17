@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-commons #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-commons, type-guard]
+title: Coppergate Barracks
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Coppergate Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Coppergate Barracks is home to 120 guards, of which about 30 are on duty at any point in time. The Station Captain is Trem Rockflame who is also Borough Commander for The Commons.
 
-## NPC Encounters 
+## NPC Encounters
+
 Tikkan Maltby | Llor Dimhee
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Tikkan Maltby | Llor Dimhee
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Tikkan Maltby | Llor Dimhee
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-commons|The Commons]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Tikkan Maltby | Llor Dimhee
 ---
 
 ### World Anvil Metadata
+
 **Id:** 193d57f7-ae3a-4da0-bbc0-367420b8317f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Commons<br>
@@ -93,7 +107,9 @@ Tikkan Maltby | Llor Dimhee
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

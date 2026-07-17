@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-education #type-university #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-south-corridor, type-university]
+title: Student Tenements
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Student Tenements
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Tenements (Residence)** 
+**Tenements (Residence)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apartment building / Tenament
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** bb729eb1-dccb-47eb-a626-28c89e63983a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

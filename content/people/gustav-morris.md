@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Gustav Morris
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gustav Morris
 
-### 
+###
 
-**Full Name:**  Gustav  Morris    
+**Full Name:**  Gustav  Morris
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A young energetic composer working under the patronage of the [[organization/mag
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gustav-morris]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

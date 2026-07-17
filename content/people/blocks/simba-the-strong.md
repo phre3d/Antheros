@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Simba the Strong
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Simba the Strong
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +7 to hit , 2d6+4 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

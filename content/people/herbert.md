@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Herbert
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Herbert
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A portly, well-dressed man of middle years, with a shiny bald pate and gray eyes
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/herbert]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

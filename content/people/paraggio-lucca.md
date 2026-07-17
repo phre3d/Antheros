@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #luccas-guild #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, luccas-guild, npc, person, the-black-hand, the-south-docks]
+title: Paraggio Lucca
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Paraggio Lucca
 
-### 
+###
 
-**Full Name:**  Paraggio  Lucca    
+**Full Name:**  Paraggio  Lucca
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Paraggio, the master of one of [[organization/the-black-hand|The Black Hand]]'s 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/paraggio-lucca]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

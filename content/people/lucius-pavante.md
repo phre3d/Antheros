@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #pavantes-guild #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, pavantes-guild, person, the-black-hand, the-south-docks]
+title: Lucius Pavante
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lucius Pavante
 
-### 
+###
 
-**Full Name:**  Lucius  Pavante    
+**Full Name:**  Lucius  Pavante
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Lucius, the head of a small law firm in [[settlement/the-north-corridor|The Nort
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lucius-pavante]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

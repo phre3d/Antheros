@@ -1,8 +1,12 @@
 ---
-location: [4073.146,  5159.184]
+aliases: []
+tags: [map-marker]
+location: [4073.146, 5159.184]
 mapmarker: Inns & Taverns
+title: "Pilgrim's Progress Tavern"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Pilgrim's Progress Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/pilgrims-progress-tavern|Pilgrim's Progress Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,9 @@
-#import #statblock #monster 
+---
+aliases: []
+tags: [import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -39,20 +44,27 @@ Medium beast unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-### Keen Hearing and Smell 
- The wolf has an advantage on Wisdom (Perception) checks that rely on hearing or smell. 
-### Pack Tactics 
+
+### Keen Hearing and Smell
+
+ The wolf has an advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+### Pack Tactics
+
  The wolf has an advantage on an atack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Bite 
-  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target. 
+
+### Bite
+
+  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
+
   **Hit:**  7  piercing damage. ****
 
 ![[~attachments/dndline.png]]
 
 # Description
-Companion and guard to Ludmila the hag
 
+Companion and guard to Ludmila the hag

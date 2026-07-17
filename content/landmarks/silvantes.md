@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-glens #cat-shop #type-restaurant #guild-of-the-hearth #restaurant
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, restaurant, the-glens, type-restaurant]
+title: "Silvante's"
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Silvante's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/angelina|Angelina]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Restaurant (Dining)** 
+**Restaurant (Dining)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-glens|The Glens]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5799fe2e-05a4-44fa-91b3-d10868b94923<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Glens<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

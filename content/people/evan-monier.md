@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Evan Monier
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Evan Monier
 
-### 
+###
 
-**Full Name:**  Evan  Monier    
+**Full Name:**  Evan  Monier
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A tall, ruggedly handsome sort of fellow with a bushy chestnut beard and sparkli
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/evan-monier]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

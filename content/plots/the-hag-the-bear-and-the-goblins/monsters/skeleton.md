@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -42,10 +47,15 @@ Medium undead  lawful evil
 ![[~attachments/dndline.png]]
 
 # Actions
-### Shortsword. 
-  **Melee weapon attack.**   to hit, reach 5 feet, one target. 
-  **Hit:**  5  piercing damage.  
-### Shortbow. 
-  **Ranged weapon attack.**   to hit, range 80 feet, one target.
-  **Hit:**  6  piercing damage.
 
+### Shortsword.
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
+  **Hit:**  5  piercing damage.  
+
+### Shortbow.
+
+  **Ranged weapon attack.**   to hit, range 80 feet, one target.
+
+  **Hit:**  6  piercing damage.

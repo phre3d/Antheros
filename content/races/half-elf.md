@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Half-Elven Race
+date modified: 2026-07-16, 9:39:01 pm
+---
+
 # Half-Elven Race
 
 ````col
@@ -129,5 +135,7 @@ Half-elves tend to be itinerants, wandering the lands in search of a place they 
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

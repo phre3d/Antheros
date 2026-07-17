@@ -1,8 +1,12 @@
 ---
-location: [2583.35,  3082.653]
+aliases: []
+tags: [map-marker]
+location: [2583.35, 3082.653]
 mapmarker: Inns & Taverns
+title: The Silver Trumpet
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Silver Trumpet
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-silver-trumpet|The Silver Trumpet]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

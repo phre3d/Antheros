@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary D14
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary D14
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Spear:**  +1 to hit , 1d6-1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

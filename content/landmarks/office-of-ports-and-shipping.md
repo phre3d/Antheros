@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-government #type-government #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-docks, type-government]
+title: Office of Ports and Shipping
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Office of Ports and Shipping
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/freggo-the-hairless|Freggo the Hairless]] | [[people/conrad-bissell|Conrad Bissell]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Government (Government)** 
+**Government (Government)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Government complex
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0aa54632-c7c1-4c47-80ed-d5ab24f30d21<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

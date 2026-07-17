@@ -1,25 +1,35 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Serindë
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Serindë
 
-Goddess of Truth, Mother of the Gods     
+Goddess of Truth, Mother of the Gods
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 The goddess of Truth is the patron of the largest religion on Antheros. Her devotees believe that there are absolutes of the universe, and all concepts might be reduced to a single (albeit complex) expression of their accuracy, no matter how unpleasant. Anything that can't be reduced this way means that the worshiper has not pondered the subject deeply enough to figure it out.
 
-Her greatest gifts to the races of mankind are presumed to be mathematics and logic. In fact her devotees are often found amusing themselves and each other with mathematical and logical puzzles. 
+Her greatest gifts to the races of mankind are presumed to be mathematics and logic. In fact her devotees are often found amusing themselves and each other with mathematical and logical puzzles.
 
 Her holy symbol is a checkerboard pattern that spirals inward, giving the illusion of three dimensions.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -39,6 +49,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -64,6 +75,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -83,6 +95,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -111,7 +124,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -129,13 +142,14 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Elder
 
  **Alignment:**  Lawful Good
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/istara]] (with Ladros)
 - [[religions/narconal]] (with Ladros)
 - [[religions/nenya]] (with Ladros)
@@ -148,7 +162,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -168,7 +182,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -182,7 +196,7 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -193,16 +207,17 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** fed8a554-c5c1-48cd-932a-2457b1cc820d<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -215,31 +230,37 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/serinde-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/serinde-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/serinde-person)
 
 ---
@@ -247,18 +268,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 0b51c24f-a708-4b51-9631-c41202588749
 
 --- end-column ---
 
 Next:
+
 b07298f6-f8f9-4277-9023-b5771d9bcc85
 
 --- end-multi-column

@@ -1,8 +1,12 @@
 ---
-location: [2250.697,  1413.265]
+aliases: []
+tags: [map-marker]
+location: [1413.265, 2250.697]
 mapmarker: Inns & Taverns
+title: "Dunk's Tavern"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Dunk's Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/dunks-tavern|Dunk's Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

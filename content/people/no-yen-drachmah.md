@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: No-Yen Drachmah
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # No-Yen Drachmah
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Owner of No-Yen Drachmah, Goldsmiths
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/no-yen-drachmah]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

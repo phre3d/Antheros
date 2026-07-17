@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #trademasters-square #cat-residence #type-large-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, trademasters-square, type-large-house]
+title: House of Lucius Cardallo
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # House of Lucius Cardallo
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## The house that bribes built 
 
-## Description 
+# Description
+
+## The house that bribes built
+
+## Description
+
 The house where the High Judge lives
 
-## NPC Encounters 
+## NPC Encounters
+
 Lucius Cardallo
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Lucius Cardallo
 
 **Image:** n/a
 
-**Large House (Residence)** 
+**Large House (Residence)**
 
  **Owner:**  Lucius Cardallo
 
@@ -63,12 +74,14 @@ Lucius Cardallo
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House, Large
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trademasters-square|Trademasters' Square]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Lucius Cardallo
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3fb788d4-632a-4100-85ce-e2f5df839dba<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trademasters' Square<br>
@@ -93,7 +107,9 @@ Lucius Cardallo
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

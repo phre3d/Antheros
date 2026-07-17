@@ -1,8 +1,12 @@
 ---
-location: [1523.146,  6126.531]
+aliases: []
+tags: [map-marker]
+location: [1523.146, 6126.531]
 mapmarker: Government
+title: The Navy Yard of Haven
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Navy Yard of Haven
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Government
 **Location:** [[landmarks/the-navy-yard-of-haven|The Navy Yard of Haven]]<br>
 **Location Type:** Military
 
-**Description**<br> 
+**Description**<br>
+
 Naval docks

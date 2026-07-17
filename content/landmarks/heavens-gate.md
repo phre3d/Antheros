@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-entertainment #type-brothel #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-brothel]
+title: "Heaven's Gate"
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Heaven's Gate
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A close as you can get without dying 
 
-## Description 
+# Description
+
+## A close as you can get without dying
+
+## Description
+
 The decor here is based on someone's view of heaven - lots of clouds and soft light.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The decor here is based on someone's view of heaven - lots of clouds and soft li
 
 **Image:** n/a
 
-**Brothel (Entertainment)** 
+**Brothel (Entertainment)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The decor here is based on someone's view of heaven - lots of clouds and soft li
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Brothel / Whorehouse
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The decor here is based on someone's view of heaven - lots of clouds and soft li
 ---
 
 ### World Anvil Metadata
+
 **Id:** 457d7604-99af-4447-9eb7-7e9994c4a93e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ The decor here is based on someone's view of heaven - lots of clouds and soft li
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

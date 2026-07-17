@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Merrick
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Merrick
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +5 to hit , 1d4+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

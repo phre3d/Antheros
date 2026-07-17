@@ -1,4 +1,10 @@
-#import #statblock #person #npc  #Free_City_of_Haven #scenarios 
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, statblock]
+title: Creature of Flesh and Bone
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Creature of Flesh and Bone
 
 ````col
@@ -39,14 +45,15 @@ flexGrow=2
 ![[dndline.png]]
 
 # Actions
+
 **Battleaxe:**  +7 to hit , 1d8+4 slashing damage
 
 ![[dndline.png]]
 
 # Description
-Small creatures of earth and stone, which function as rather slow bare-handed fighters (packing a reasonable wallop, but likely to be shattered to pieces by a good blow) 
+
+Small creatures of earth and stone, which function as rather slow bare-handed fighters (packing a reasonable wallop, but likely to be shattered to pieces by a good blow)
 
  Refer to scenario [[plots/free-city-of-haven/scenarios/the-broken-blade|The Broken Blade]]
 
 **Suggested Environments** Arkendelve
-

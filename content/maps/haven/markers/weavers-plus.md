@@ -1,8 +1,12 @@
 ---
-location: [3007.84,  2817.347]
+aliases: []
+tags: [map-marker]
+location: [2817.347, 3007.84]
 mapmarker: Shopping
+title: "Weavers' Plus"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Weavers' Plus
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/weavers-plus|Weavers' Plus]]<br>
 **Location Type:** Textiles
 
-**Description**<br> 
-
+**Description**<br>

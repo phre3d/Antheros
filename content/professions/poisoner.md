@@ -1,30 +1,31 @@
-#profession 
-# Poisoner
+---
+aliases: []
+tags: [profession]
+title: Poisoner
+date modified: 2026-07-16, 9:18:11 pm
+---
 
+# Poisoner
 
 ---
 
 # Operations
-## Tools
 
+## Tools
 
 ## Materials
 
-
 ## Workplace
-
 
 ## Provided Services
 
-
 ## Hazards
-
 
 >[!infobox]
 ><br><br><br><br>
 >**Alternative Names:**  
 >
->**Guild:** 
+>**Guild:**
 >
 >**Famous in the Field:**
 >

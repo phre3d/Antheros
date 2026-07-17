@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-shop #type-apothecary #brotherhood-of-the-amalgam #apothecary
+---
+aliases: []
+tags: [apothecary, brotherhood-of-the-amalgam, cat-shop, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-apothecary]
+title: "Burgallo's Apothecary"
+date modified: 2026-07-16, 8:05:57 pm
+---
+
 # Burgallo's Apothecary
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Viagara and Penicillin 
 
-## Description 
+# Description
+
+## Viagara and Penicillin
+
+## Description
+
 Burgallo's compounds are in great demand on the Street of Silk Veils.  He specializes in drugs that can boost the good aspects of the street and cure the worst.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Burgallo's compounds are in great demand on the Street of Silk Veils.  He specia
 
 **Image:** n/a
 
-**Apothecary (Shopping)** 
+**Apothecary (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Burgallo's compounds are in great demand on the Street of Silk Veils.  He specia
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apothecary
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Burgallo's compounds are in great demand on the Street of Silk Veils.  He specia
 ---
 
 ### World Anvil Metadata
+
 **Id:** d657c3b6-df3b-461a-941f-b765b0db0209<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ Burgallo's compounds are in great demand on the Street of Silk Veils.  He specia
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

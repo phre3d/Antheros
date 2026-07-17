@@ -1,4 +1,9 @@
-#import #statblock #monster #Sins_of_the_Past #monster
+---
+aliases: []
+tags: [import, monster, plot/Sins_of_the_Past, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -41,18 +46,25 @@ Tiny Undead Chaotic Evil
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Ephemeral.**  The will-o'-wisp can't wear or carry anything.   **Variable Illumination.**  The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-## Shock 
-   **Melee Spell Attack:**  +4 to hit , reach 5 ft., one creature. 
+
+## Shock
+
+   **Melee Spell Attack:**  +4 to hit , reach 5 ft., one creature.
+
   **Hit:**  9  lightning damage.  
-## Invisibility 
+
+## Invisibility
+
  The will-o'-wisp and its light magically become invisible until it attacks, uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 
 ## Bonus Actions
-## Consume Life 
- As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a <u>DC 10 Constitution saving throw against this magic or die</u>. If the target dies, the <u>will-o'-wisp regains 10  hit points</u>.
 
+## Consume Life
+
+ As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a <u>DC 10 Constitution saving throw against this magic or die</u>. If the target dies, the <u>will-o'-wisp regains 10  hit points</u>.

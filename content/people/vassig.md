@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #disaffected-artisans #the-dwarrow #npc
+---
+aliases: []
+tags: [disaffected-artisans, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Vassig
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vassig
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Assistant metalworker at [[landmark/minotaur-metalworks|Minotaur Metalworks]] wh
 
 ---
 
-
-
 ![[people/blocks/vassig]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

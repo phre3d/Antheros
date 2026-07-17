@@ -1,4 +1,10 @@
-#import #material #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, material]
+title: Galvanized Tin
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Galvanized Tin
 
 ````col
@@ -89,7 +95,9 @@ A protective metal known for its resistance to rusting and corrosion. It's used 
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-magic #mages-guild #magic
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, magic-street, type-magic]
+title: Eye of Newt
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Eye of Newt
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Everything for the discerning mage 
 
-## Description 
+# Description
+
+## Everything for the discerning mage
+
+## Description
+
 Magical supplies: material components etc.    Also potion ingredients.    Next door to The Pentacle, their prime competitor.
 
-## NPC Encounters 
+## NPC Encounters
+
 Virago Tainley | Zprahim | Yosofal
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Virago Tainley | Zprahim | Yosofal
 
 **Image:** n/a
 
-**Magic (Shopping)** 
+**Magic (Shopping)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Virago Tainley | Zprahim | Yosofal
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Magic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Virago Tainley | Zprahim | Yosofal
 ---
 
 ### World Anvil Metadata
+
 **Id:** 142a5e27-8032-4d44-a16b-6b9ef07fc2e6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -93,7 +107,9 @@ Virago Tainley | Zprahim | Yosofal
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

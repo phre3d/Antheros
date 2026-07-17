@@ -1,8 +1,12 @@
 ---
-location: [1543.554,  3688.776]
+aliases: []
+tags: [map-marker]
+location: [1543.554, 3688.776]
 mapmarker: Residence
+title: House of Jurgan Bland
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Jurgan Bland
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/house-of-jurgan-bland|House of Jurgan Bland]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

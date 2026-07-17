@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Tanzor
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tanzor
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ This might fighter is encountered on [[settlement/trade-island|Trade Island]], b
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tanzor]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

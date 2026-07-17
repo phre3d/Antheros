@@ -1,4 +1,10 @@
-#import #plot  #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, plot]
+title: Monsters
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Monsters
 
 ````col
@@ -23,7 +29,6 @@ flexGrow=2.5
 
 ```
 ````
-
 
 ---
 

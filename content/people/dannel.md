@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, npc, person]
+title: Dannel
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dannel
 
-### 
+###
 
-**Full Name:**  Dannel      
+**Full Name:**  Dannel
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A small, slim young man, with brownish hair and odd golden eyes, who works as a 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dannel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

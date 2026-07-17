@@ -1,4 +1,9 @@
-#import #statblock #monster #Sins_of_the_Past #monster
+---
+aliases: []
+tags: [import, monster, plot/Sins_of_the_Past, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -40,12 +45,15 @@ Tiny Undead
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Undead Fortitude.**  If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-## Slam 
-  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
- Hit: 4  bludgeoning damage.
 
+## Slam
+
+  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
+
+ Hit: 4  bludgeoning damage.

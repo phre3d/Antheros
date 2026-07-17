@@ -1,17 +1,26 @@
-#import #organization   #Free_City_of_Haven #type-educational-university
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-educational-university]
+title: University of Haven
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # University of Haven
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 In the southeast corner of [[settlements/the-cauldron|The Cauldron]] is Hypotenuse Square, site of the University of Haven. Actually a collection of schools with no central organization, the University is one of the few schools of its type in the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]], and is attended by students from all over the region.
 
-Various schools in the University include: 
+Various schools in the University include:
 
 - **[[landmarks/institute-of-mathematics|Institute of Mathematics]]:**  covering everything from theoretical mathematics, geometry, and architectural engineering to economics and basic bookkeeping
 - **[[landmarks/college-of-physical-naturalism|College of Physical Naturalism]]:**  deals with such subjects as Astronomy, Geology, and Natural Laws (Physics)
@@ -22,7 +31,7 @@ Various schools in the University include:
 - **[[landmarks/college-of-common-law|College of Common Law]]:**  deals with legal debate and the study of local and traditional laws, considered a vital part of the education of sons of the nobility in these modern days when more battles are fought in the [[landmarks/courts|Courts]] than the field
 - **[[landmarks/school-of-medicine|School of Medicine]]:**  teaches anatomy, diagnosis, and the creating of potions for treating illness and injury
 
-The students who attend the University are a rowdy lot and not always the best of neighbors for the elves and other residents of [[settlements/the-cauldron|The Cauldron]]. Students are usually the sons of well-to-do guildsmen and merchants, as well as those of the nobility who no longer consider education the province of the clerics and scribes. A great number of the students are from other cities and towns in the region. The students usually have an allowance from home, much of which goes to less academic pursuits in the taverns, or on [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]. They generally have an attitude of contempt for the less educated townsmen, which sometimes makes them less than popular.  Even among the students, the turmoil between the old noble families and the newly rising mercantile class continues. 
+The students who attend the University are a rowdy lot and not always the best of neighbors for the elves and other residents of [[settlements/the-cauldron|The Cauldron]]. Students are usually the sons of well-to-do guildsmen and merchants, as well as those of the nobility who no longer consider education the province of the clerics and scribes. A great number of the students are from other cities and towns in the region. The students usually have an allowance from home, much of which goes to less academic pursuits in the taverns, or on [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]. They generally have an attitude of contempt for the less educated townsmen, which sometimes makes them less than popular.  Even among the students, the turmoil between the old noble families and the newly rising mercantile class continues.
 
 The [[organizations/young-stallions|Young Stallions]] have found a number of supporters among the young nobles who are also students of the University. In opposition there has also arisen a faction among the students of guild and mercantile background. This faction is led by Tertian Doming, son of a wealthy merchant from Huy Lankh, a city north of the Wold. A student of the School of Law, Tertian is an excellent speaker able to rouse the support of his fellows. He is also too intelligent to be provoked into a physical confrontation and easily appears the better of any of the [[organizations/young-stallions|Young Stallions]] in a rhetorical duel.
 
@@ -31,16 +40,18 @@ Another incident that has recently caused a great deal of debate among both the 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Educational, University<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -53,10 +64,11 @@ Another incident that has recently caused a great deal of debate among both the 
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -74,9 +86,9 @@ Another incident that has recently caused a great deal of debate among both the 
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -89,10 +101,11 @@ Another incident that has recently caused a great deal of debate among both the 
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -116,7 +129,7 @@ Another incident that has recently caused a great deal of debate among both the 
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -190,21 +203,24 @@ Another incident that has recently caused a great deal of debate among both the 
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-### Members 
+### Members
+
 [tagged:university-of-haven(person)|list|none]
 
 ---
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 6ff2021c-f034-4831-9af5-51b6f4177316<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -213,7 +229,9 @@ Another incident that has recently caused a great deal of debate among both the 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

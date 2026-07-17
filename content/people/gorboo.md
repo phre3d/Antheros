@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Gorboo
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gorboo
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ A long-time associate of [[person/tenley-tainley|Tenley Tainley]]'s from the yeo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gorboo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

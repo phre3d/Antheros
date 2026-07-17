@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Zeluan Kurtin
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Zeluan Kurtin
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortsword:**  +6 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

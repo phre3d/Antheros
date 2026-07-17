@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Murfi
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Murfi
 
-### 
+###
 
-**Full Name:**  Murfi      
+**Full Name:**  Murfi
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A mage with a flair for showmanship; he likes to show off, so he works as a pres
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/murfi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

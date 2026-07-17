@@ -1,8 +1,12 @@
 ---
-location: [2301.717,  1126.531]
+aliases: []
+tags: [map-marker]
+location: [1126.531, 2301.717]
 mapmarker: Inns & Taverns
+title: The Four Ox Team
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Four Ox Team
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-four-ox-team|The Four Ox Team]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

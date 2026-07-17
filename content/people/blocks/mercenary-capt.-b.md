@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary Capt. B
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary Capt. B
 
 ````col
@@ -37,39 +43,13 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +6 to hit , 1d8+2 piercing damage  
   **Shortsword:**  +6 to hit , 1d6+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

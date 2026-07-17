@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Carlo de la Riis
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Carlo de la Riis
 
-### 
+###
 
-**Full Name:**  Carlo  de la Riis    
+**Full Name:**  Carlo  de la Riis
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ Carlo is a thin, frail young lad of 10, with an unkempt mop of brown hair, and v
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/carlo-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

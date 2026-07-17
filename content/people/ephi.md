@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Ephi
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Ephi
 
-### 
+###
 
-**Full Name:**  Ephi      
+**Full Name:**  Ephi
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Hers is a genuine, insatiable thirst for innocent mischief. She particularly enj
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ephi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

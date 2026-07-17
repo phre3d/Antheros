@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #the-cleff #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cleff, the-street-of-harps]
+title: Rosina Maloti
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rosina Maloti
 
-### 
+###
 
-**Full Name:**  Rosina  Maloti    
+**Full Name:**  Rosina  Maloti
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Rosina is the best of several seamstresses in Haven who specialize in costumes f
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rosina-maloti]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

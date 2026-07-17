@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Clockwork_Tower #npc
+---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person, statblock]
+title: Professor Thaddeus Geathardt
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Professor Thaddeus Geathardt
 
 ````col
@@ -40,30 +46,19 @@ flexGrow=2
 ---
 
 # Description
-Known for his eccentric personality and disheveled appearance, Professor Gearhardt's cluttered office is a testament to his untamed intellect, filled with blueprints, arcane tomes, and half-finished contraptions.  Gearhardt is always eager to share his knowledge with anyone who shares his curiosity, and despite his absent-minded professor persona, he's quite perceptive and quick to notice details others might overlook.  Professor Gearhardt is far more useful in an advisory role than in combat. His vast knowledge of history, arcane engineering, and his specialization in the work of Constantine Chronosmith make him a valuable asset to any party attempting to navigate the Clockwork Tower. Utilize his abilities as a font of knowledge rather than a combatant.
 
+Known for his eccentric personality and disheveled appearance, Professor Gearhardt's cluttered office is a testament to his untamed intellect, filled with blueprints, arcane tomes, and half-finished contraptions.  Gearhardt is always eager to share his knowledge with anyone who shares his curiosity, and despite his absent-minded professor persona, he's quite perceptive and quick to notice details others might overlook.  Professor Gearhardt is far more useful in an advisory role than in combat. His vast knowledge of history, arcane engineering, and his specialization in the work of Constantine Chronosmith make him a valuable asset to any party attempting to navigate the Clockwork Tower. Utilize his abilities as a font of knowledge rather than a combatant.
 
 ---
 
 # Special Abilities
+
 **Eidetic Memory.**  Professor Gearhardt can accurately recall any lore, fact, or detail he has learned in his past, giving him <u>advantage on all Intelligence (History) and Intelligence (Arcana) checks</u> related to such information.
 
 ---
 
 # Actions
+
 **Staff**<br>
 *Melee Weapon Attack:*  -1 to hit , reach 5 ft., one target. <br>
 *Hit:*  1  bludgeoning damage.
-
-
-
-
-
-
-
-
-
-
-
-
-

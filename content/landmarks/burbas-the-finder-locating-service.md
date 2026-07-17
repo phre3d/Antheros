@@ -1,17 +1,26 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-other-services
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, thieves-market, type-other-services]
+title: "Burbas 'the Finder' - Locating Service"
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Burbas 'the Finder' - Locating Service
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Burbas has no actual stall - his usual location is on the rim of the fountain in the center of the plaza, and most people who need his services either know where to find him or are told by their friends. The service is simple: if something valuable is "misplaced", Burbas can usually (75%) "find" it, and get it back. He charges 20% of the value of the item recovered, in many cases a fee quite low in comparison to the cost of re¬acquiring the item in other fashion.
 
-Burbas works with both the Thieves' Guild and The Black Hand - both organizations know he deals with the other, but neither wishes to kill a goose that lays such nice golden eggs. The Finder is known by most of the beggars and thieves of the city. 
+Burbas works with both the Thieves' Guild and The Black Hand - both organizations know he deals with the other, but neither wishes to kill a goose that lays such nice golden eggs. The Finder is known by most of the beggars and thieves of the city.
 
 When he is commissioned to recover some object, he puts out word that it is being sought. If the item has not already been broken down for the value of its components or shipped out of the city, the item's current possessor will normally get in touch with Burbas. The deal is straightforward: one-half of the payment for the thief, one-quarter to whichever organization he supports, and one-quarter to Burbas. It is seldom refused, once the thief has made contact with the Finder.
 
@@ -51,11 +60,9 @@ Burbas will not deal with any thief until a client has come to him in regard to 
 
 **Image:** n/a
 
-**Service / Locating Items** 
-
+**Service / Locating Items**
 
  **Location:**  Thieves Market
-
 
  **Map Reference:**  TM-11
 
@@ -63,12 +70,13 @@ Burbas will not deal with any thief until a client has come to him in regard to 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Market stall
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -104,7 +112,9 @@ Burbas will not deal with any thief until a client has come to him in regard to 
  **Purse:**  0gp
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** d33174fa-bee4-4d56-800c-437deac58e0f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -113,7 +123,9 @@ Burbas will not deal with any thief until a client has come to him in regard to 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #brotherhood-of-the-amalgam #the-south-docks #npc
+---
+aliases: []
+tags: [brotherhood-of-the-amalgam, Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Dalbert
+date modified: 2026-07-16, 8:06:05 pm
+---
+
 # Dalbert
 
-### 
+###
 
-**Full Name:**  Dalbert      
+**Full Name:**  Dalbert
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Dalbert runs a small low budget apothecary.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dalbert]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

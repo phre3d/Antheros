@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-dell #cat-landmark #type-park #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-dell, type-park]
+title: The Green
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Green
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A brown green? 
 
-## Description 
+# Description
+
+## A brown green?
+
+## Description
+
 The center of the Dell is an open area known as The Green. Despite that, it's mostly brown or grey stone. It is the center of life in the Dell and surrounded by hills in which halflings have their homes.
 
-## NPC Encounters 
+## NPC Encounters
+
 Pelleas Pennywhistle
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Pelleas Pennywhistle
 
 **Image:** n/a
 
-**Park (Landmark)** 
+**Park (Landmark)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Pelleas Pennywhistle
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Park
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dell|The Dell]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Pelleas Pennywhistle
 ---
 
 ### World Anvil Metadata
+
 **Id:** 58c2143a-18ef-4281-89c4-96547a184d4a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dell<br>
@@ -93,7 +107,9 @@ Pelleas Pennywhistle
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

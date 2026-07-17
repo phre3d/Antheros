@@ -1,4 +1,10 @@
-#import #flora 
+---
+aliases: []
+tags: [flora, import]
+title: Icelock
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Icelock
 
 Despite the fact that this natural anomaly is more crystal than plant, icelock possesses a slender, graceful stalk that curves gently under the weight of the 5 delicate petals at its end. Tiny leaves protrude from the stalk itself, each one ending in a gossamer-thin strand that curls gently back upon itself. The stalk gleams a pale green in the moonlight and the crystalline structure within the flower itself catches and refracts the light, creating a milky white translucency.
@@ -18,11 +24,13 @@ If icelock grows under the light of an aurora, it is considered especially fortu
 Rather than disappearing normally, sometimes this plant will shimmer for a moment, growing dim and transparent, before vanishing completely. Arcane botanists still debate the nature and mechanism of this disappearance. One compelling treatise holds that the plant physically travels, and includes numerous reports from around the world of a mysterious, colorful flower glowing briefly before shimmering into mist.
 
 # Natural Range
+
 This magical plant grows in frigid conditions. Its crystalline nature provides excellent camouflage within these icy landscapes, making it difficult to detect without a keen eye.
 
 ---
 
 # Common Use(s)
+
 This rare flower is sought for many reasons, ranging from folk remedies to potent magical concoctions:
 
 - It can be used in the crafting of potions, especially those that produce a cold or hardness-based effect.
@@ -39,7 +47,6 @@ This rare flower is sought for many reasons, ranging from folk remedies to poten
 >**Value:** 10gp (92gp)<br>
 >**Rarity:** Uncommon (Very Rare)<br>
 >**Related Professions:** [[professions/herbalist|Herbalist]]<br>
-
 
 ---
 

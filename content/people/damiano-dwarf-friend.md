@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #trade-island #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, trade-island]
+title: Damiano Dwarf-Friend
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Damiano Dwarf-Friend
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Short and getting stout in his later years, Damiano has a long beard, and his ch
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/damiano-dwarf-friend]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

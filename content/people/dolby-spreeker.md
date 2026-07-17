@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-dell]
+title: Dolby Spreeker
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dolby Spreeker
 
-### 
+###
 
-**Full Name:**  Dolby  Spreeker    
+**Full Name:**  Dolby  Spreeker
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A gregarious, well-loved fellow with a heart of gold, always willing to lend a s
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dolby-spreeker]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

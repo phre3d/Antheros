@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #savonna-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, savonna-family, the-heights]
+title: Margery Savonna
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Margery Savonna
 
-### 
+###
 
-**Full Name:**  Margery  Savonna    
+**Full Name:**  Margery  Savonna
 
 `````col
 ````col-md
@@ -218,13 +224,12 @@ Purse:  gp
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/margery-savonna]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

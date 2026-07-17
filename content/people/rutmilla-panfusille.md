@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Rutmilla Panfusille
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rutmilla Panfusille
 
-### 
+###
 
-**Full Name:**  Rutmilla  Panfusille (nee del la Riis)   
+**Full Name:**  Rutmilla  Panfusille (nee del la Riis)
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Rutmilla, [[person/tybalt-de-la-riis|Tybalt de la Riis]]' daughter, is big-boned
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rutmilla-panfusille]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

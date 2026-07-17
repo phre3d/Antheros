@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Zbyssso
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Zbyssso
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +2 to hit , 1d4+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

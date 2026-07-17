@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Cecilia Sandhill
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cecilia Sandhill
 
-### 
+###
 
-**Full Name:**  Cecilia  Sandhill    
+**Full Name:**  Cecilia  Sandhill
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Waitress at [[landmark/the-bandersnatch-inn|The Bandersnatch Inn]] with her twin
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cecilia-sandhill]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,19 +1,28 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Ladros
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Ladros
 
-God of Knowledge, Father of the Gods     
+God of Knowledge, Father of the Gods
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 God of Knowledge, Father of the Gods
 
-As followers of knowledge, worshipers of Ladros believe in the application of wisdom to mold the world in one's own image. As the mother and father of the Gods, Truth and Knowledge are often intertwined, and it is unclear if you can have one without the other. 
+As followers of knowledge, worshipers of Ladros believe in the application of wisdom to mold the world in one's own image. As the mother and father of the Gods, Truth and Knowledge are often intertwined, and it is unclear if you can have one without the other.
 
 It is said that his gift to the races of man was the world itself, full of mystery and wonder, waiting to be explored and crafted.
 
@@ -22,6 +31,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -41,6 +51,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -66,6 +77,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -85,6 +97,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -113,7 +126,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -131,13 +144,14 @@ His holy symbol is an eye, with a starburst radiating from it.
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Elder
 
  **Alignment:**  Lawful Neutral
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/istara]] (with Serindë)
 - [[religions/narconal]] (with Serindë)
 - [[religions/nenya]] (with Serindë)
@@ -150,7 +164,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -170,7 +184,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -184,7 +198,7 @@ His holy symbol is an eye, with a starburst radiating from it.
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -195,16 +209,17 @@ His holy symbol is an eye, with a starburst radiating from it.
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** b07298f6-f8f9-4277-9023-b5771d9bcc85<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -217,31 +232,37 @@ His holy symbol is an eye, with a starburst radiating from it.
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ladros-article)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ladros-article)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ladros-article)
 
 ---
@@ -249,18 +270,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 fed8a554-c5c1-48cd-932a-2457b1cc820d
 
 --- end-column ---
 
 Next:
+
 28133af1-7b3b-49df-a147-3e17f2da3daf
 
 --- end-multi-column

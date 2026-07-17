@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Watt Mikekins
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Watt Mikekins
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortsword:**  +6 to hit , 1d6+3 piercing damage  
   **Dagger:**  +6 to hit , 1d4+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

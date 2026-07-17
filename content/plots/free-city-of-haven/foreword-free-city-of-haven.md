@@ -1,14 +1,22 @@
-#import #article   #Free_City_of_Haven
+---
+aliases: []
+tags: [article, Free_City_of_Haven, import]
+title: "Foreword: Free City of Haven"
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Foreword: Free City of Haven
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-*Note: This is the foreward from the 1st book* 
+
+*Note: This is the foreward from the 1st book*
 
 For hundreds of miles the two branches of the Dorian, the East and the West, flow south, one along each side of the Khuz Mountains. The East Branch has its source high in the fabled Peaks of the Great Hawks, far to the northeast; the West Branch flows through the High Plains (where the nomads roam), then down through the Wold, the immense forest inhabited and controlled by the Sylvan Elves. The two branches meet below Lake Ve, where Durin's Stream, flowing from the Khuz, tumbles into the lake.
 
@@ -19,6 +27,7 @@ At the north end of Trade Island stands a strong citadel, guarding the Long Road
 Haven itself began as a small collection of huts on the south side of the river three and a half millennia ago, and has risen and fallen many times (the ruins at the southern tip of the island date from about 1,500 years past), sometimes expanding, sometimes contracting. Presently, Haven is of reasonably large size (there are 80,000 stories in the naked city), and sits squarely across the Long Road on both banks of the Dorian.
 
 Under the hegemony of the Namori Empire (now sadly decadent, and fading back to much reduced boundaries under the unremitting attacks of the reptilian Lizarim, as they moved south from the tropics, spreading into, and eventually raiding out of, the Mountains of Peace), Haven prospered and grew large in trade, wealth, and power. As the Empire retracted, the ruling families grew more tyrannical and ambitious; eventually the most powerful family, the di Cotillion, assumed control of the city and the surrounding territory along with the title of Duke of Haven. For two centuries, they ruled with an iron fist concealed in a velvet glove, balancing the other noble families against the growing power of the Guilds and the tradesmen. About 175 years ago, such a balancing act became a thing of the past.
+
 Duke Bertrand di Cotillion, faced with a coalition of the strongest (and most necessary) Guilds, and the growing dissatisfaction of the city's slave population (threatening an impending, and likely very bloody, revolt), granted a Charter to all the inhabitants, present and future, of Haven, effectively abdicating the power (but not the lands or other holdings) of his position. Among other rights and privileges secured by this document was the freedom of the slaves, along with a recognition that slavery, per se, would never be permitted within the city again (indenturing, however, is not uncommon, and is sometimes the only recourse a debtor has to get out of prison). Since that time the Guilds have steadily grown in power, and many noble families have been forced into bankruptcy, and the sale of their lands, to satisfy their creditors, the canny members of the various trade Guilds. There are today many very wealthy merchants and guild masters, and far fewer wealthy nobles than in days of yore.
 
 The Long Road is of tremendous importance to the Free City, and the [[organizations/government-of-haven#council-of-boroughs|Council of Boroughs]] (a front organization for the oligarchy of Guild and merchant families that actually rules the city from behind the scenes) does its utmost to assure the safety of the traders, merchants, and just plain folks who travel along the highway. A strong patrol maintains the road bandit-free (What, free? Yes, free! What, free? Well, nearly free) for a distance of 100 miles to the east, and nearly 150 miles to the west, to the gates of Seki, a walled seaport on Sholokith Bay, for which service Seki's Captains' Council pays Haven an annual tribute.
@@ -30,6 +39,7 @@ In Haven the traveler will find that most of the people are humans, but there ar
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** fc2f6950-0d19-46bd-9584-b729acf630f8<br>
 **Entity Type:** Article / article<br>
 **Category:** Haven Credits<br>
@@ -37,10 +47,10 @@ In Haven the traveler will find that most of the people are humans, but there ar
 
 --- end-multi-column
 
-
-
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

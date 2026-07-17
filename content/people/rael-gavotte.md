@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #council-of-masters #the-south-corridor #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/entertainers, import, npc, person, the-south-corridor]
+title: Rael Gavotte
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Rael Gavotte
 
-### 
+###
 
-**Full Name:**  Rael  Gavotte    
+**Full Name:**  Rael  Gavotte
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ A handsome man of middle years, with dark hair and a well-kept goatee, and is al
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rael-gavotte]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

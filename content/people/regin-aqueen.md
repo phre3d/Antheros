@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: "Regin A'Queen"
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Regin A'Queen
 
-### 
+###
 
-**Full Name:**  Regin  A-Queen    
+**Full Name:**  Regin  A-Queen
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A half-elf with an eye for trinkets. He is new in Haven and, as a result, habitu
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/regin-aqueen]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

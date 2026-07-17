@@ -1,7 +1,13 @@
-#import #organization   #Free_City_of_Haven #type-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-family]
+title: Tainley Family
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Tainley Family
 
-The Tainley clan arrived in this region with the legions of the [[organizations/namori-empire|Namori Empire]] that subjugated and ruled Haven and its surrounding territories for many years. The family has an illustrious military tradition, and its far-flung descendants control lands in many corners of the Three Continents. The Haven branch of the family is of comparatively minor stature when stacked against some of its distant relatives, like the Taindoora's (the hereditary absolute rulers of the mountain-ringed lands of Laja Dara), or the Princess-Generals of the female-dominated realm of Quesan. 
+The Tainley clan arrived in this region with the legions of the [[organizations/namori-empire|Namori Empire]] that subjugated and ruled Haven and its surrounding territories for many years. The family has an illustrious military tradition, and its far-flung descendants control lands in many corners of the Three Continents. The Haven branch of the family is of comparatively minor stature when stacked against some of its distant relatives, like the Taindoora's (the hereditary absolute rulers of the mountain-ringed lands of Laja Dara), or the Princess-Generals of the female-dominated realm of Quesan.
 
 Nonetheless, the Tainleys have prospered in Haven for seven centuries, surviving the ebb and flow of the Empire (and more recently, the decline of the aristocracy as a whole). Currently, the Tainleys include not only men-of-arms, but also masters of the arcane arts and defenders of the soul.
 
@@ -18,7 +24,8 @@ The family's home in Haven is located in The [[settlements/the-heights|The Heigh
 
 **Family Leader:** [[people/gilberto-maggia|Gilberto Maggia]]
 
-**Members:** 
+**Members:**
+
 ```dataview
 LIST
 FROM #maggia-family

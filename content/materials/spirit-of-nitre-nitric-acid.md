@@ -1,4 +1,10 @@
-#item  #material 
+---
+aliases: []
+tags: [item, material]
+title: Spirit of Nitre (Nitric Acid)
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Spirit of Nitre (Nitric Acid)
 
 ````col
@@ -49,6 +55,8 @@ As an action, you can splash the contents of this vial onto a creature within 5 
 
 ```
 ````
+
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

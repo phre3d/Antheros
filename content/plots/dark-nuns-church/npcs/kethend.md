@@ -1,9 +1,15 @@
-#import #person #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person]
+title: Kethend
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Kethend
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,10 @@ In the [[plots/dark-nuns-church|Dark Nun's Church]] storyline she has been hired
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

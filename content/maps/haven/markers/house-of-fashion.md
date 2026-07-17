@@ -1,8 +1,12 @@
 ---
-location: [2578.248,  6495.918]
+aliases: []
+tags: [map-marker]
+location: [2578.248, 6495.918]
 mapmarker: Shopping
+title: House of Fashion
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Fashion
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/house-of-fashion|House of Fashion]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,9 @@
-#map-marker  #tarnsworth   
+---
+aliases: []
+tags: [map-marker, tarnsworth]
+title: to-oxgate
+date modified: 2026-07-16, 9:18:39 pm
+---
 
 **Description** <br>
 Signpost indicating direction to Oxgate

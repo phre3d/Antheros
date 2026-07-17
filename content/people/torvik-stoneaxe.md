@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Torvik Stoneaxe
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Torvik Stoneaxe
 
-### 
+###
 
-**Full Name:**  Torvik  Stoneaxe    
+**Full Name:**  Torvik  Stoneaxe
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Torvik, married to [[person/brisla-stoneaxe|Brisla Stoneaxe]], works ar the [[la
 
 ---
 
-
-
 ![[people/blocks/torvik-stoneaxe]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

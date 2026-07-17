@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #trade-island #cat-residence #type-campsite #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, trade-island, type-campsite]
+title: The Wandering Folk Camp
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Wandering Folk Camp
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Campsite (Residence)** 
+**Campsite (Residence)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Hospitality, Camping
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trade-island|Trade Island]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 825bd9e2-61d4-44a6-b07e-cbe9ca2a217e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trade Island<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

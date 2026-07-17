@@ -1,8 +1,12 @@
 ---
-location: [4608.86,  3995.918]
+aliases: []
+tags: [map-marker]
+location: [3995.918, 4608.86]
 mapmarker: Religion
+title: Temple of Serindë
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Serindë
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-serindë|Temple of Serindë]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Serindë: Goddess of Truth, Mother of the Gods

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Dagnir Saurul
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Dagnir Saurul
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +4 to hit , 1d8+1 piercing damage  
   **Shortbow:**  +4 to hit , 1d6+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

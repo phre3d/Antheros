@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-shop #type-magic #mages-guild #magic
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, street-of-silk-veils, type-magic]
+title: "Madame Ruth's"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Madame Ruth's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Love Potion No.9 
 
-## Description 
+# Description
+
+## Love Potion No.9
+
+## Description
+
 Madame Ruth sells potions to help your "performance" while on the Street of Silk Veils.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Madame Ruth sells potions to help your "performance" while on the Street of Silk
 
 **Image:** n/a
 
-**Magic (Shopping)** 
+**Magic (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Madame Ruth sells potions to help your "performance" while on the Street of Silk
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Magic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Madame Ruth sells potions to help your "performance" while on the Street of Silk
 ---
 
 ### World Anvil Metadata
+
 **Id:** dd65a73b-e58e-4eb3-ba2a-27d94ff52912<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ Madame Ruth sells potions to help your "performance" while on the Street of Silk
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

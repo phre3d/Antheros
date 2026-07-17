@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-dwarrow]
+title: Millar Lightfingers
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Millar Lightfingers
 
-### 
+###
 
-**Full Name:**  Millar  Lightfingers    
+**Full Name:**  Millar  Lightfingers
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Millar is a chubby, extremely red-faced dwarf who samples his wares perhaps a bi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/millar-lightfingers]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-cauldron]
+title: Querrel Seadreamer
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Querrel Seadreamer
 
-### 
+###
 
-**Full Name:**  Querrel  Seadreamer    
+**Full Name:**  Querrel  Seadreamer
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A Sindar elf who runs [[landmark/the-mallorn|The Mallorn]] with the help of his 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/querrel-seadreamer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

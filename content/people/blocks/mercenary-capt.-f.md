@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary Capt. F
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary Capt. F
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +7 to hit , 2d6+3 slashing damage  
   **Hoof:**  +7 to hit , 2d6+7 bludgeoning damage  
   **Dagger:**  +7 to hit , 1d4+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

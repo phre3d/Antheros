@@ -1,8 +1,12 @@
 ---
-location: [3906.819,  804.082]
+aliases: []
+tags: [map-marker]
+location: [3906.819, 804.082]
 mapmarker: Shopping
+title: Mahti - Weaponeer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Mahti - Weaponeer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/mahti-weaponeer|Mahti - Weaponeer]]<br>
 **Location Type:** Weapons
 
-**Description**<br> 
-
+**Description**<br>

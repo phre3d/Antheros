@@ -1,8 +1,12 @@
 ---
-location: [2430.289,  3996.939]
+aliases: []
+tags: [map-marker]
+location: [2430.289, 3996.939]
 mapmarker: Entertainment
+title: "Frod's Theater"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Frod's Theater
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Entertainment
 **Location:** [[landmarks/frods-theater|Frod's Theater]]<br>
 **Location Type:** Theatre
 
-**Description**<br> 
+**Description**<br>
+
 Best theatre for live performances.

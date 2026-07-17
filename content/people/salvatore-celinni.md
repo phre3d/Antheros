@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-artisan #council-of-masters #the-north-corridor #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/artisan, import, npc, person, the-north-corridor]
+title: Salvatore Celinni
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Salvatore Celinni
 
-### 
+###
 
-**Full Name:**  Salvatore  Celinni    
+**Full Name:**  Salvatore  Celinni
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ See scenario [[plots/the-craft-show|The Craft Show]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/salvatore-celinni]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Karilinia Inturisdan
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Karilinia Inturisdan
 
 ````col
@@ -37,35 +43,6 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

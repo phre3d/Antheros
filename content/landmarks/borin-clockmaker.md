@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-timepieces #jewelers-guild #timepieces
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jewelers-guild, landmark, the-dwarrow, timepieces, type-timepieces]
+title: Borin - Clockmaker
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Borin - Clockmaker
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/borin|Borin]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Timepieces (Shopping)** 
+**Timepieces (Shopping)**
 
  **Owner:**  Borin
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 81ffdcff-5a76-429c-8b87-2408869892bd<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

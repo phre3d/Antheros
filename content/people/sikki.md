@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #brotherhood-of-the-broken-blade #the-dwarrow #npc
+---
+aliases: []
+tags: [brotherhood-of-the-broken-blade, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Sikki
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sikki
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ An assistant weapons trainer at [[person/eldri|Eldri]]'s establishment, Sikki of
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sikki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

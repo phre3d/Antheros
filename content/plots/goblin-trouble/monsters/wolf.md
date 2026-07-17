@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -38,13 +43,17 @@ Medium beast unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Keen Hearing and Smell.**  The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
   **Pack Tactics.**  The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet (1\_square) of the creature and the\_ally isn't Incapacitated.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Bite. 
-  **Melee weapon attack.**   to hit, reach 5 feet, one target. 
-  **Hit:**  7  piercing damage. If the target is a creature, it must <u>succeed on a DC 11 Strength saving throw or be knocked prone</u>
 
+### Bite.
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
+  **Hit:**  7  piercing damage. If the target is a creature, it must <u>succeed on a DC 11 Strength saving throw or be knocked prone</u>

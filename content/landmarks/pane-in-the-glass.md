@@ -1,35 +1,51 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-shop #type-glass #glass
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, glass, import, landmark, the-north-corridor, type-glass]
+title: Pane in the Glass
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Pane in the Glass
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Glass, not glasses 
 
-## Description 
+# Description
+
+## Glass, not glasses
+
+## Description
+
 A shop selling all type of glasswork. While Gurtzon specializes in the elegant and airy sculptures that are on display, he is happy to create any glasswork required, from containers to windows. Behind the small shop is that actual glassworks.
 
-## Hours 
+## Hours
+
 8:00am to 6:00pm
 
-## Price Range 
+## Price Range
+
 fair to high
 
-## Quality 
+## Quality
+
 Excellent
 
-## Staff 
+## Staff
+
 There are five apprentices working with Gurtzon but they normally keep to the glassworks out back.
 
-## Customers 
+## Customers
+
 The is a 50% chance of finding 1-4 customers.  1d100 1d4
 
-## Loiterers 
+## Loiterers
+
 It's on a busy street so who knows who is hanging around.
 
 # Purpose / Function
@@ -66,7 +82,7 @@ It's on a busy street so who knows who is hanging around.
 
 **Image:** n/a
 
-**Glass (Shopping)** 
+**Glass (Shopping)**
 
  **Owner:**  
 
@@ -78,12 +94,14 @@ It's on a busy street so who knows who is hanging around.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -100,6 +118,7 @@ It's on a busy street so who knows who is hanging around.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 30e189ea-4f38-4047-8468-6bd228e47800<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -108,7 +127,9 @@ It's on a busy street so who knows who is hanging around.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, person]
+title: Nosi Neb
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Nosi Neb
 
-### 
+###
 
-**Full Name:**  Nosi  Neb    
+**Full Name:**  Nosi  Neb
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Nosi is an optician extradordinaire but tends to use archaic methods of eye adju
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nosi-neb]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

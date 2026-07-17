@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Mella Hamhocker
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mella Hamhocker
 
-### 
+###
 
-**Full Name:**  Mella  Hamhocker    
+**Full Name:**  Mella  Hamhocker
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Married to Lotto, she sometimes helps out at the bakery
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mella-hamhocker]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

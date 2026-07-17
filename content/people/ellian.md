@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Ellian
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Ellian
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ The only woman among the High Judges, Ellian (#216) was chosen because she was a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ellian]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

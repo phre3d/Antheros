@@ -1,4 +1,9 @@
-#import #statblock #monster #Dark_Nuns_Church #monster
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -39,55 +44,30 @@ Medium Elemental Chaotic Evil
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-**Multi-attack.**  The gargoyle makes two attacks - one with its bite and one with its claws.
 
+**Multi-attack.**  The gargoyle makes two attacks - one with its bite and one with its claws.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Bite 
-  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target. 
-  **Hit:**  5  piercing damage.  
-### Claws 
+
+### Bite
+
   **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
+
+  **Hit:**  5  piercing damage.  
+
+### Claws
+
+  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
+
   **Hit:**  5  slashing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 While it may look like a \"normal\" Gargoyle it is somewhat weaker to accomodate a 2nd-3rd level party  Covered in lichen and moss, it looks like a moving statue.
-
-
-
-
-
-
-

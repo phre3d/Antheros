@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-south-corridor]
+title: Bozulouski Piringolli
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bozulouski Piringolli
 
-### 
+###
 
-**Full Name:**  Bozulouski  Piringolli    
+**Full Name:**  Bozulouski  Piringolli
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Piringolli spends his days at his store. The evenings he spends primarily at [[l
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bozulouski-piringolli]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

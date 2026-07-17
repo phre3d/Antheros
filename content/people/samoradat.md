@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Samoradat
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Samoradat
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Tall, and big-boned, with dark hair in many small braids; Samoradat speaks with 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/samoradat]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

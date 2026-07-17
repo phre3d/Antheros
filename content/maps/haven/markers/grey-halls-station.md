@@ -1,8 +1,12 @@
 ---
-location: [1427.228,  2472.449]
+aliases: []
+tags: [map-marker]
+location: [1427.228, 2472.449]
 mapmarker: City Guard
+title: Grey Halls Station
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Grey Halls Station
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/grey-halls-station|Grey Halls Station]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

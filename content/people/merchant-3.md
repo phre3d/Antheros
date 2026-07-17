@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Merchant 3
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Merchant 3
 
-### 
+###
 
-**Full Name:**  Merchant  Three    
+**Full Name:**  Merchant  Three
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Merchant 3
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/merchant-3]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

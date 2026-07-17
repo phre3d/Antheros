@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Pauli Bracegirdle
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pauli Bracegirdle
 
-### 
+###
 
-**Full Name:**  Pauli  Bracegirdle    
+**Full Name:**  Pauli  Bracegirdle
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Pauli and his four deputies are charged with keeping the civil peace within [[se
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pauli-bracegirdle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

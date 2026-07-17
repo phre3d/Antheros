@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: "Amelia d'Larette"
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Amelia d'Larette
 
-### 
+###
 
-**Full Name:** Dona Amelia  d'Larette    
+**Full Name:** Dona Amelia  d'Larette
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Bartholomew's wife is a plump and matronly woman, is a lover of music and theate
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/amelia-dlarette]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

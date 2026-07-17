@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #merchants-guild #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, merchants-guild, npc, person, the-dell]
+title: Rigaletto Brandybuck
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rigaletto Brandybuck
 
-### 
+###
 
-**Full Name:**  Rigaletto  Brandybuck    
+**Full Name:**  Rigaletto  Brandybuck
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A vigorous entrepreneur, always looking for a new angle to increase his already 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rigaletto-brandybuck]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

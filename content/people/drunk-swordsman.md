@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Drunk Swordsman
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Drunk Swordsman
 
-### 
+###
 
-**Full Name:**  Drunk  Swordsman    
+**Full Name:**  Drunk  Swordsman
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Mean Drunk
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/drunk-swordsman]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

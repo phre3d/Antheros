@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #brotherhood-of-the-broken-blade #the-dwarrow #npc
+---
+aliases: []
+tags: [brotherhood-of-the-broken-blade, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Kynnik
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kynnik
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ A greatly renowned warrior, and the best fighter amongst the [[organization/brot
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kynnik]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

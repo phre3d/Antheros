@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-kammeron-family #the-heights #npc
+---
+aliases: []
+tags: [de-kammeron-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Swayze de Kammeron
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Swayze de Kammeron
 
-### 
+###
 
-**Full Name:**  Swayze  de Kammeron    
+**Full Name:**  Swayze  de Kammeron
 
 `````col
 ````col-md
@@ -213,13 +219,12 @@ Purse:  gp
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/swayze-de-kammeron]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-livery #guild-of-the-beast #livery
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livery, the-labyrinth, type-livery]
+title: The Barn
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Barn
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## All livery stable, all the time 
 
-## Description 
+# Description
+
+## All livery stable, all the time
+
+## Description
+
 Enos runs a livery stable near Judgement Gate and also provides blacksmithing services. He is a forthright, upright, righteous man, and will aid anyone who is in trouble (physical, not financial).
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Enos runs a livery stable near Judgement Gate and also provides blacksmithing se
 
 **Image:** n/a
 
-**Livery (Shopping)** 
+**Livery (Shopping)**
 
  **Owner:**  Enos the Maul
 
@@ -60,12 +70,13 @@ Enos runs a livery stable near Judgement Gate and also provides blacksmithing se
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Stables
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Enos runs a livery stable near Judgement Gate and also provides blacksmithing se
 ---
 
 ### World Anvil Metadata
+
 **Id:** 783eb18f-6e02-488a-b987-2fa979b448cf<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Enos runs a livery stable near Judgement Gate and also provides blacksmithing se
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

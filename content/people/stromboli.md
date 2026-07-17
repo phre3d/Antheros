@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Stromboli
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Stromboli
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ a burly, mustachioed man with long, curly black hair.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/stromboli]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [1874.166,  1421.429]
+aliases: []
+tags: [map-marker]
+location: [1421.429, 1874.166]
 mapmarker: Inns & Taverns
+title: The Dancing Horse
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Dancing Horse
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-dancing-horse|The Dancing Horse]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,30 +1,43 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-shop #type-saddler #guild-of-the-hide #saddler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hide, import, landmark, saddler, the-horse-market, type-saddler]
+title: "Mudikar's Saddlery and Tack Shop"
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Mudikar's Saddlery and Tack Shop
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## Equipage for dressage - and even plain riding! 
 
-## Description 
-Saddles, bridles, hackamores, and much more, are displayed over much of the main room of the shop. The quality is High, and prices are Costly, but good work and fine materials are not inexpensive. The lowest saddle cost is in the neighborhood of 75gp for a plain wrangler's working saddle, scaling up as ornamentation increases. 
+## Equipage for dressage - and even plain riding!
 
-Spells may be embedded on request (Mudikar has an arrangement with Enchantments, Ltd.), but the added costs are phenomenal. 
+## Description
+
+Saddles, bridles, hackamores, and much more, are displayed over much of the main room of the shop. The quality is High, and prices are Costly, but good work and fine materials are not inexpensive. The lowest saddle cost is in the neighborhood of 75gp for a plain wrangler's working saddle, scaling up as ornamentation increases.
+
+Spells may be embedded on request (Mudikar has an arrangement with Enchantments, Ltd.), but the added costs are phenomenal.
 
 A custom made saddle, fitted to one's rump for ultimate comfort, costs about 400gp, and takes about six months to complete.
 
-## Price Range 
+## Price Range
+
 Costly
 
-## Quality 
+## Quality
+
 High
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/heidel-varrasch|Heidel Varrasch]] | [[people/kronen-varrasch|Kronen Varrasch]]
 
 # Purpose / Function
@@ -61,7 +74,7 @@ High
 
 **Image:** n/a
 
-**Saddler (Shopping)** 
+**Saddler (Shopping)**
 
  **Owner:**  
 
@@ -73,12 +86,14 @@ High
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Leatherworker
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -95,6 +110,7 @@ High
 ---
 
 ### World Anvil Metadata
+
 **Id:** cd7c5484-a410-4cda-a27f-d976f55f58df<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -103,7 +119,9 @@ High
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

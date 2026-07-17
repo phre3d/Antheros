@@ -1,6 +1,12 @@
-#item #container 
+---
+aliases: []
+tags: [container, item]
+title: "Explorer's Pack"
+date modified: 2026-07-16, 9:18:59 pm
+---
 
 # Explorer's Pack
+
 ````col
 ```col-md
 flexGrow=2.5

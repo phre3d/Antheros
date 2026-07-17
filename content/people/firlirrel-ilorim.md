@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ilorim-family #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, ilorim-family, import, npc, person]
+title: Firlirrel Ilorim
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Firlirrel Ilorim
 
-### 
+###
 
-**Full Name:**  Firlirrel  Ilorim    
+**Full Name:**  Firlirrel  Ilorim
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Firlirrel, who is presently accounted as one of the five finest voices in Haven,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/firlirrel-ilorim]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

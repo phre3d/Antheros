@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, thieves-guild]
+title: Gidri
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gidri
 
-### 
+###
 
-**Full Name:**  Gidri      
+**Full Name:**  Gidri
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Gidri almost always woks with his wife [[person/gossij|Gossij]]. Professionally,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gidri]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

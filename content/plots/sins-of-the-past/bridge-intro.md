@@ -1,4 +1,10 @@
-#import #plot  #Sins_of_the_Past
+---
+aliases: []
+tags: [import, plot, plot/Sins_of_the_Past]
+title: Bridge Intro
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Bridge Intro
 
 ````col
@@ -63,7 +69,6 @@ Jump now to [[plots/sins-of-the-past/city-of-the-dead|City of the Dead]] but ski
 
 ```
 ````
-
 
 ---
 

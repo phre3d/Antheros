@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Qaften
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Qaften
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ An apprentice leatherworker of great skill but is a horrible salesman. He is eas
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/qaften]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

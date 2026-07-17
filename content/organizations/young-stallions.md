@@ -1,29 +1,40 @@
-#import #organization   #Free_City_of_Haven #type-political-activist
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-political-activist]
+title: Young Stallions
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Young Stallions
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 A clique of youthful nobility intent on restoring noble rule to Haven
 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Political, Activist<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -36,10 +47,11 @@ A clique of youthful nobility intent on restoring noble rule to Haven
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -57,9 +69,9 @@ A clique of youthful nobility intent on restoring noble rule to Haven
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -72,10 +84,11 @@ A clique of youthful nobility intent on restoring noble rule to Haven
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -99,7 +112,7 @@ A clique of youthful nobility intent on restoring noble rule to Haven
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -173,21 +186,24 @@ A clique of youthful nobility intent on restoring noble rule to Haven
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-### Members 
+### Members
+
 [tagged:youg stallions|list|none]
 
 ---
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 7340b23d-2c0c-45fd-8222-13b00aa2760c<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -196,7 +212,9 @@ A clique of youthful nobility intent on restoring noble rule to Haven
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

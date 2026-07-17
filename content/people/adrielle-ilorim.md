@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ilorim-family #guild-of-the-loom #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, guild/loom, ilorim-family, import, npc, person]
+title: Adrielle Ilorim
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Adrielle Ilorim
 
-### 
+###
 
-**Full Name:**  Adrielle  Ilorim    
+**Full Name:**  Adrielle  Ilorim
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Adrielle's shop has been under the scrutiny of the [[organization/thieves-guild|
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/adrielle-ilorim]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-guard]
+title: Grey Halls Station
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Grey Halls Station
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 Located across the road from the prison istelf, Grey Halls Station is home to 60 guards, of which about 15 are on duty at any point in time. The Station Captain is [[people/ehmud-rossen|Ehmud Rossen]].
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/ehmud-rossen|Ehmud Rossen]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Located across the road from the prison istelf, Grey Halls Station is home to 60
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Located across the road from the prison istelf, Grey Halls Station is home to 60
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Located across the road from the prison istelf, Grey Halls Station is home to 60
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5148f0a2-a3f4-473c-8c33-bee0f135199b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -93,7 +107,9 @@ Located across the road from the prison istelf, Grey Halls Station is home to 60
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

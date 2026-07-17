@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, magic-street, residence, type-house]
+title: Home of Colchester Tibbits
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Home of Colchester Tibbits
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 15adb77c-b751-4d74-b471-21b2158b507c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

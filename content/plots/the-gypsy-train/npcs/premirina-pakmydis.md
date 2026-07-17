@@ -1,4 +1,5 @@
 ---
+aliases: []
 cr_type: person
 cr_id: premirina-pakmydis
 name: Premirina Pakmydas
@@ -8,14 +9,10 @@ father: "[[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal Pakmydis]]"
 father-id: scordraal-pakmydis
 mother: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis|Cannelia Pakmydis]]"
 mother-id: cannelia-pakmydis
-tags:
-  - npc
-  - person
-  - The_Gypsy_Train
-date modified: 2026-06-12, 3:51:23 pm
+tags: [npc, person, plot/The_Gypsy_Train]
+date modified: 2026-07-16, 9:18:12 pm
+title: Premirina Pakmydis
 ---
-
-#person #npc #The_Gypsy_Train
 
 # Premirina Pakmydis
 
@@ -62,7 +59,6 @@ Premirina is a 0-level human, chaotic good, with AC 10 and 2 hp. She has no armo
 ---
 
 # Actions
-
 
 ---
 

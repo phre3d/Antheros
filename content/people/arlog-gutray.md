@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, guild/hearth, import, npc, person]
+title: Arlog Gutray
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Arlog Gutray
 
-### 
+###
 
-**Full Name:**  Arlog  Gutray    
+**Full Name:**  Arlog  Gutray
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A fat, middle aged man with a thick beard and spectacles.  Arlog enjoys reading 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/arlog-gutray]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

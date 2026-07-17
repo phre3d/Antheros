@@ -1,9 +1,15 @@
-#import #person #npc #the-commons #guild-of-the-beast
+---
+aliases: []
+tags: [guild/beast, import, npc, person, the-commons]
+title: Cecil Ironhoof
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cecil Ironhoof
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -192,13 +198,10 @@ He treats the stables and his workers as though they were his own litile unit, e
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [3656.819,  423.469]
+aliases: []
+tags: [map-marker]
+location: [3656.819, 423.469]
 mapmarker: Inns & Taverns
+title: Boarshead Tavern
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Boarshead Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/boarshead-tavern|Boarshead Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

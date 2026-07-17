@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Burbas the Finder
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Burbas the Finder
 
-### 
+###
 
 **Full Name:**  Burbas    the Finder  
 
@@ -202,13 +208,12 @@ Provides a service find "misplaced" items
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/burbas-the-finder]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

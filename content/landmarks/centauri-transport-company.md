@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-transportation #type-courier #guild-of-drayers #transportation
+---
+aliases: []
+tags: [cat-transportation, Free_City_of_Haven, guild/drayers, import, landmark, the-cauldron, transportation, type-courier]
+title: Centauri Transport Company
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Centauri Transport Company
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Cross-country parcel post 
 
-## Description 
+# Description
+
+## Cross-country parcel post
+
+## Description
+
 [[people/korinus-longstrider|Korinus Longstrider]] and his three sons (plus several wives, daughters and cousins) operate a parcel post network running to Mandalai, Seki and Kandai, and any towns along the road. For letters going farther than the usual destinations, the centaur messenger will attempt to find another courier going to the letter's destination in the city that is the end of his route.  
 
  Although not as fast as the avanthari airmail service, Korinus and his messengers can handle much heavier and bulkier cargo, and charge only 3gp for letters, and 5gp per pound for packages.  
@@ -52,7 +62,7 @@ shadow: off
 
 **Image:** n/a
 
-**Courier (Service)** 
+**Courier (Service)**
 
  **Owner:**  Korinus Longstrider
 
@@ -64,12 +74,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Transportation station
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -86,6 +98,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** ed2e877a-0f4a-4319-a815-d919433c263d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -94,7 +107,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

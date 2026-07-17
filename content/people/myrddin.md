@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, south-caravan-street]
+title: Myrddin
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Myrddin
 
-### 
+###
 
-**Full Name:**  Myrddin      
+**Full Name:**  Myrddin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A guest at [[landmark/the-pendragon-inn|The Pendragon Inn]], Myrddin is an itine
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/myrddin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

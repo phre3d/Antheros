@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-general-goods #guild-of-merchants #general-goods
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-goods, guild/merchants, import, landmark, the-south-corridor, type-general-goods]
+title: "Instruments 'n' Stuff"
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Instruments 'n' Stuff
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Every honk, squeak, blat, boom or twaing you might want 
 
-## Description 
+# Description
+
+## Every honk, squeak, blat, boom or twaing you might want
+
+## Description
+
 Ratchet describes himself as the "eternal middle man." He owns a small shop off Holly, where he runs a buy-and-sell operation. He specializes in buying newly arrived merchandise (particularly musical instruments) and then reselling them as soon as possible.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Ratchet describes himself as the "eternal middle man." He owns a small shop off 
 
 **Image:** n/a
 
-**General Goods (Shopping)** 
+**General Goods (Shopping)**
 
  **Owner:**  Ratchet
 
@@ -60,12 +70,14 @@ Ratchet describes himself as the "eternal middle man." He owns a small shop off 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** General Store
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Ratchet describes himself as the "eternal middle man." He owns a small shop off 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3cd6619f-f6d8-4b0f-8dcb-fe9aaa03c9b2<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ Ratchet describes himself as the "eternal middle man." He owns a small shop off 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

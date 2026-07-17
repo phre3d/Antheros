@@ -1,8 +1,13 @@
-#import #article   #Free_City_of_Haven
+---
+aliases: []
+tags: [article, Free_City_of_Haven, import]
+title: Haven NPCs - by Name
+date modified: 2026-07-16, 9:19:08 pm
+---
+
 # Haven NPCs - by Name
 
 For a list of just generic NPCs, look at [[articles/random-npcs|Random NPCs]]
-
 
 | ID #   | Name   | Borough   | Gender   | Race   | Level   | Class      |
 |---|---|---|---|---|---|---|
@@ -809,6 +814,7 @@ For a list of just generic NPCs, look at [[articles/random-npcs|Random NPCs]]
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** 86fdae77-ed9a-4dfd-af34-b98c7b9a5230<br>
 **Entity Type:** Article / article<br>
 **Category:** People of Haven<br>
@@ -816,10 +822,10 @@ For a list of just generic NPCs, look at [[articles/random-npcs|Random NPCs]]
 
 --- end-multi-column
 
-
-
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

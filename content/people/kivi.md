@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Kivi
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kivi
 
-### 
+###
 
-**Full Name:**  Kivi      
+**Full Name:**  Kivi
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A talented youth, Kivi and her partner [[person/petriko|Petriko]] spend their da
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kivi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

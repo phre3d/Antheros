@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Tybalt de la Riis
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Tybalt de la Riis
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +3 to hit , 1d4-1 piercing damage  
   **Dagger, thrown:**  +3 to hit , 1d4-1 piercing damage  
   **Shortbow:**  +3 to hit , 1d6-1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

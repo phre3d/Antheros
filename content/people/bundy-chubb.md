@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Bundy Chubb
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bundy Chubb
 
-### 
+###
 
-**Full Name:**  Bundy  Chubb    
+**Full Name:**  Bundy  Chubb
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Daughter of Otto Chub, Bundy has gotten herself in the "family way", and is desp
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bundy-chubb]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

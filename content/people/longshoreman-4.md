@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Longshoreman 4
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Longshoreman 4
 
-### 
+###
 
-**Full Name:**  Longshoreman  Four    
+**Full Name:**  Longshoreman  Four
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Longshoreman 4
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/longshoreman-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

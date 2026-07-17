@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #young-stallions #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights, young-stallions]
+title: Paul de la Riis
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Paul de la Riis
 
-### 
+###
 
-**Full Name:**  Paul  de la Riis    
+**Full Name:**  Paul  de la Riis
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ He is extremely disrespectful to all guildsmen, and particularly despises the Va
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/paul-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2724.166,  4583.673]
+aliases: []
+tags: [map-marker]
+location: [2724.166, 4583.673]
 mapmarker: Service
+title: Verdintro Brickyard
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Verdintro Brickyard
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/verdintro-brickyard|Verdintro Brickyard]]<br>
 **Location Type:** Construction
 
-**Description**<br> 
-
+**Description**<br>

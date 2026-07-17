@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Theodicu
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Theodicu
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ The Bhas of the local temple of Denarius, is renowned in the city as an excellen
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/theodicu]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-dell]
+title: Lotto Hamhocker
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lotto Hamhocker
 
-### 
+###
 
-**Full Name:**  Lotto  Hamhocker    
+**Full Name:**  Lotto  Hamhocker
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Baker of breads, cakes and pies that are without peer in the city.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lotto-hamhocker]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

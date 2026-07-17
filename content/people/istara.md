@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Istara
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Istara
 
-### 
+###
 
-**Full Name:** Goddess of Magic       
+**Full Name:** Goddess of Magic
 
 `````col
 ````col-md
@@ -208,13 +214,10 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: b07298f6-f8f9-4277-9023-b5771d9bcc85

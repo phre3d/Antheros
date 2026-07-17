@@ -1,8 +1,12 @@
 ---
-location: [3492.534,  4876.531]
+aliases: []
+tags: [map-marker]
+location: [3492.534, 4876.531]
 mapmarker: Service
+title: Mother Yosofal the Witch
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mother Yosofal the Witch
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/mother-yosofal-the-witch|Mother Yosofal the Witch]]<br>
 **Location Type:** Other Services
 
-**Description**<br> 
-
+**Description**<br>

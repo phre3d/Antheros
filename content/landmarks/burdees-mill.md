@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-dell #cat-shop #type-mill #guild-of-provenders #mill
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, mill, the-dell, type-mill]
+title: "Burdee's Mill"
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Burdee's Mill
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Mill (Shopping)** 
+**Mill (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Mill
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dell|The Dell]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** fd8f8065-0ad1-4823-bf9e-ec9653f69e4d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dell<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

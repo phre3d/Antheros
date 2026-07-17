@@ -1,6 +1,12 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: dining
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 **Markers in the group:**
+
 - [[maps/haven/markers/the-lamb-and-lime]]
 - [[maps/haven/markers/the-blue-harper]]
 - [[maps/haven/markers/garduccios]]

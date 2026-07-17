@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Xandrian
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Xandrian
 
-### 
+###
 
-**Full Name:**  Xandrian      
+**Full Name:**  Xandrian
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ When visible, appears as young elf with long blond hair, wearing a tunic and boo
 
 ---
 
-
-
 ![[people/blocks/xandrian]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

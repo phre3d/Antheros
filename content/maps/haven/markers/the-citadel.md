@@ -1,8 +1,12 @@
 ---
-location: [4182.33,  3360.204]
+aliases: []
+tags: [map-marker]
+location: [3360.204, 4182.33]
 mapmarker: Government
+title: The Citadel
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Citadel
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Government
 **Location:** [[landmarks/the-citadel|The Citadel]]<br>
 **Location Type:** Government
 
-**Description**<br> 
-The ceremonial center of Haven. 
+**Description**<br>
+
+The ceremonial center of Haven.

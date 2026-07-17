@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Celeblinde Conindir
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Celeblinde Conindir
 
 ````col
@@ -37,43 +43,17 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
-**Racial** 
+
+**Racial**
 
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +3 to hit , 1d8+1 piercing damage  
   **Handaxe:**  +4 to hit , 1d6+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

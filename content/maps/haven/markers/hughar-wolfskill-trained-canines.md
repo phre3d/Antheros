@@ -1,8 +1,12 @@
 ---
-location: [2848.656,  912.245]
+aliases: []
+tags: [map-marker]
+location: [2848.656, 912.245]
 mapmarker: Service
+title: Hughar Wolfskill - trained canines
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hughar Wolfskill - trained canines
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/hughar-wolfskill-trained-canines|Hughar Wolfskill - trained canines]]<br>
 **Location Type:** Animal Trainer
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Rasputin
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rasputin
 
-### 
+###
 
-**Full Name:** Mr. Rasputin      
+**Full Name:** Mr. Rasputin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ This burly half-orc runs a lucrative smuggling and protection business out of hi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rasputin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

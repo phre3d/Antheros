@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #armorers-guild #the-heights #npc
+---
+aliases: []
+tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-heights]
+title: Maas Turkar
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Maas Turkar
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Sells swords and bows of decent quality
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/maas-turkar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

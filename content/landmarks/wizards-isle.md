@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #trade-island #cat-landmark #type-other-landmark #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, trade-island, type-other-landmark]
+title: "Wizard's Isle"
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Wizard's Isle
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A wooded island off the western tip of Trade Island 
 
-## Description 
+# Description
+
+## A wooded island off the western tip of Trade Island
+
+## Description
+
 Long in the past is was used my smugglers as a stopover while transporting goods up-river. Now it is overgrown and see very few visitors.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Long in the past is was used my smugglers as a stopover while transporting goods
 
 **Image:** n/a
 
-**Other Landmark (Landmark)** 
+**Other Landmark (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Long in the past is was used my smugglers as a stopover while transporting goods
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trade-island|Trade Island]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Long in the past is was used my smugglers as a stopover while transporting goods
 ---
 
 ### World Anvil Metadata
+
 **Id:** f00977cb-7b00-4ca7-a49f-f91af5b68763<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trade Island<br>
@@ -90,7 +103,9 @@ Long in the past is was used my smugglers as a stopover while transporting goods
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

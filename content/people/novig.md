@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-dwarrow]
+title: Novig
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Novig
 
-### 
+###
 
-**Full Name:**  Novig      
+**Full Name:**  Novig
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Assistant trainer under [[person/eldri|Eldri]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/novig]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-artisan #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/artisan, import, npc, person, the-south-docks]
+title: Jasmine
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jasmine
 
-### 
+###
 
-**Full Name:**  Jasmine      
+**Full Name:**  Jasmine
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Jasmine is a tattoo artist of renown, able to charge considerable amounts for he
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jasmine]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

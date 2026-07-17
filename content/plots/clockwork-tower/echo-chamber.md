@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Echo Chamber
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Echo Chamber
 
 ````col
@@ -184,7 +190,6 @@ Echo of [[person/constantine-chronosmith]]
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

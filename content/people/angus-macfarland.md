@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Angus MacFarland
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Angus MacFarland
 
-### 
+###
 
-**Full Name:**  Angus  MacFarland    
+**Full Name:**  Angus  MacFarland
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A small, energetic man who runs this booth in the [[settlement/thieves-market|Th
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/angus-macfarland]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

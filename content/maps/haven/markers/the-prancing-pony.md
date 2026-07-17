@@ -1,8 +1,12 @@
 ---
-location: [1522.126,  3382.653]
+aliases: []
+tags: [map-marker]
+location: [1522.126, 3382.653]
 mapmarker: Inns & Taverns
+title: The Prancing Pony
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Prancing Pony
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-prancing-pony|The Prancing Pony]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

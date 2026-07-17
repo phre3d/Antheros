@@ -1,8 +1,12 @@
 ---
-location: [2011.921,  2700.]
+aliases: []
+tags: [map-marker]
+location: [2011.921, 2700.]
 mapmarker: Shopping
+title: "Piringolli's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Piringolli's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/piringollis|Piringolli's]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

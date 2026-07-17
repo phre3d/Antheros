@@ -1,8 +1,12 @@
 ---
-location: [2687.432,  2513.265]
+aliases: []
+tags: [map-marker]
+location: [2513.265, 2687.432]
 mapmarker: Landmark
+title: Public Square
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Public Square
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/public-square|Public Square]]<br>
 **Location Type:** Square
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,9 @@
-#import #statblock #monster #Sins_of_the_Past #monster
+---
+aliases: []
+tags: [import, monster, plot/Sins_of_the_Past, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -40,14 +45,19 @@ Medium Construct Unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Antimagic Susceptibility.**  The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.   **False Appearance.**  While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-## Multiattack 
- The armor makes two melee attacks.  
-## Slam 
-  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target. 
-  **Hit:**  5  bludgeoning damage.
 
+## Multiattack
+
+ The armor makes two melee attacks.  
+
+## Slam
+
+  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
+
+  **Hit:**  5  bludgeoning damage.

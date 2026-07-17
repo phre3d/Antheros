@@ -1,8 +1,12 @@
 ---
-location: [4645.595,  4354.082]
+aliases: []
+tags: [map-marker]
+location: [4354.082, 4645.595]
 mapmarker: Religion
+title: Temple of Ladros
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Ladros
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-ladros|Temple of Ladros]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Ladros: God of Knowledge, Father of the Gods

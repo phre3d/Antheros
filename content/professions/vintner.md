@@ -1,19 +1,29 @@
-#import #profession
+---
+aliases: []
+tags: [import, profession]
+title: Vintner
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Vintner
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Maker of wine.
 
 ---
 
 # Career
+
 ## Qualifications
 
 ## Career Progression
@@ -25,12 +35,12 @@ Maker of wine.
 ---
 
 # Perception
+
 ## Purpose / Function
 
 ## Demand
 
 ## Legality
-  
 
 ## Social Status
 
@@ -43,7 +53,6 @@ Maker of wine.
 ## Demand
 
 ## Legality
-  
 
 ## Social Status
 
@@ -54,6 +63,7 @@ Maker of wine.
 ---
 
 # Operations
+
 ## Tools
 
 ## Materials
@@ -68,7 +78,7 @@ Maker of wine.
 
 **Alternative Names:**  
 
-**Type:** 
+**Type:**
 
 **Famous in the Field:**
 
@@ -87,15 +97,18 @@ Maker of wine.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 08a6c422-4b8f-4f5d-8ea4-65f75a0bf5b1<br>
 **Entity Type:** Article / profession<br>
 **Category:** Professions<br>
-**Tags:** 
+**Tags:**
 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
@@ -105,4 +118,4 @@ alignment: [left, right]
 
 --- end-column ---
 
---- end-multi-column 
+--- end-multi-column

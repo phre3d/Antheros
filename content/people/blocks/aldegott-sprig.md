@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Aldegott Sprig
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Aldegott Sprig
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +5 to hit , 1d8+3 piercing damage  
   **dagger:**  +5 to hit , 1d4+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

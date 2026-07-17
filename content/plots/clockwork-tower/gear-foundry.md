@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Gear Foundry
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Gear Foundry
 
 ````col
@@ -201,7 +207,6 @@ On initiative count 20 (losing all ties), [[person/m.a.i.n.t.e.n.a.n.c.e.]] can 
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

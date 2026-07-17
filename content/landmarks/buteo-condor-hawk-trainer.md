@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-animal-trainer #guild-of-the-beast #animal-trainer
+---
+aliases: []
+tags: [animal-trainer, cat-shop, Free_City_of_Haven, guild/beast, import, landmark, the-cauldron, type-animal-trainer]
+title: Buteo Condor - Hawk Trainer
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Buteo Condor - Hawk Trainer
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Birds for hunting
 
 # Purpose / Function
@@ -45,7 +54,7 @@ shadow: off
 
 **Image:** n/a
 
-**Animal Trainer (Service)** 
+**Animal Trainer (Service)**
 
  **Owner:**  
 
@@ -57,12 +66,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Aviary
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** ab75bfd3-5a5a-4b20-8ec2-fa98f0ef7b82<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

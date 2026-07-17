@@ -1,8 +1,12 @@
 ---
-location: [2175.187,  6294.898]
+aliases: []
+tags: [map-marker]
+location: [2175.187, 6294.898]
 mapmarker: Service
+title: Blackbourne Warehouse
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Blackbourne Warehouse
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/blackbourne-warehouse|Blackbourne Warehouse]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

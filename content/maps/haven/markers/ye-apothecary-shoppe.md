@@ -1,8 +1,12 @@
 ---
-location: [3116.003,  2151.02]
+aliases: []
+tags: [map-marker]
+location: [2151.02, 3116.003]
 mapmarker: Shopping
+title: Ye Apothecary Shoppe
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Ye Apothecary Shoppe
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/ye-apothecary-shoppe|Ye Apothecary Shoppe]]<br>
 **Location Type:** Apothecary
 
-**Description**<br> 
-
+**Description**<br>

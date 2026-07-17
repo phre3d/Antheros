@@ -1,8 +1,12 @@
 ---
-location: [2085.391,  4969.388]
+aliases: []
+tags: [map-marker]
+location: [2085.391, 4969.388]
 mapmarker: Service
+title: "Stonecutter's Yards"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Stonecutter's Yards
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/stonecutters-yards|Stonecutter's Yards]]<br>
 **Location Type:** Construction
 
-**Description**<br> 
-
+**Description**<br>

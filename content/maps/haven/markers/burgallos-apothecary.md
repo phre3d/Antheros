@@ -1,8 +1,12 @@
 ---
-location: [2288.452,  3936.735]
+aliases: []
+tags: [map-marker]
+location: [2288.452, 3936.735]
 mapmarker: Shopping
+title: "Burgallo's Apothecary"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Burgallo's Apothecary
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/burgallos-apothecary|Burgallo's Apothecary]]<br>
 **Location Type:** Apothecary
 
-**Description**<br> 
-
+**Description**<br>

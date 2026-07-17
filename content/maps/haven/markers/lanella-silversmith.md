@@ -1,8 +1,12 @@
 ---
-location: [4512.942,  752.041]
+aliases: []
+tags: [map-marker]
+location: [4512.942, 752.041]
 mapmarker: Shopping
+title: Lanella - Silversmith
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lanella - Silversmith
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/lanella-silversmith|Lanella - Silversmith]]<br>
 **Location Type:** Silversmith
 
-**Description**<br> 
-
+**Description**<br>

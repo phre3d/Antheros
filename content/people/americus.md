@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Americus
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Americus
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Tall, thin, bespectacled "healer" riding high on high doctrine of health through
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/americus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

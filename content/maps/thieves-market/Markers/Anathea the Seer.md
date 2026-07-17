@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Service
+title: Anathea the Seeress - Fortune Telling Service
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Anathea the Seeress - Fortune Telling Service
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/anathea-the-seeress|anathea-the-seeress]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person, statblock]
+title: Kethend
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kethend
 
 ````col
@@ -40,34 +46,5 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 Kethend is a 23-year-old female Dragonborn armorer. - She has a bald head and red eyes. - She has smooth, ghostly, white scales. - She stands 182cm (5'11\") tall and has a fat build. - She has a diamond-shaped, bland face. - She is albino.   **Personality**  - She discretely claims to worship [[people/thalos|Thalos]]: God of the Night, Patron of Thieves, Lord of Mischief - In truth, she secretly worships [[people/ladros|Ladros]]: God of Knowledge, Father of the Gods.  - She is incredibly conceited.  - She works hard to play hard afterward.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

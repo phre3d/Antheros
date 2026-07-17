@@ -1,14 +1,23 @@
-#import #settlement #Free_City_of_Haven #quarter
+---
+aliases: []
+tags: [Free_City_of_Haven, import, quarter, settlement]
+title: The Labyrinth
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The Labyrinth
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 [dc]T[/dc]he Labyrinth, Haven's most notorious borough, runs from the river along the south wall to Judgement Gate and the edge of [[settlements/thieves-market|Thieves' Market]]. Politically, it also extends north to the Horseshoe, and includes [[settlements/the-street-of-silk-veils|The Street of Silk Veils]] and the workshops and warehouses of Southbank Street. Any Havener will tell you, however, that regardless of technical boundaries the real Labyrinth begins at Southbridge Street, and only gets worse as you approach the wall.
 
 Once a relatively fashionable sector of merchant activity and residences, it is now a collection of slowly decaying tenements and falling buildings inhabited by those either too poor to live elsewhere or too notorious to leave the area. Politically, the Labyrinth includes the sector south of the Horseshoe (among others, [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]), since it was considered impractical to have an area like the Labyrinth itself (the true thieves' quarter of Haven) have full representation on the [[organizations/government-of-haven#council-of-boroughs|Council of Boroughs]].
@@ -31,26 +40,35 @@ The Labyrinth itself produces nothing it seems, but crime, trouble, pestilence a
 
 Southbridge Barracks, Market Station, and, to an extent, Judgment Barracks are responsible for keeping the peace in the Labyrinth. To the guardsmen, this means making sure that the denizens of the Labyrinth stay in the Labyrinth; the guards go into the plague area itself only infrequently, and only in squads of 6 or more. The upper area of the Labyrinth, around [[settlements/the-street-of-silk-veils|The Street of Silk Veils]], and the industrial area are patrolled on an approximate two hour schedule.
 
-## The Street Rats 
+## The Street Rats
+
 Given the large number of casual alliances that occur between the men and women of the Labyrinth, the general lack of money available for child support, the high incidence of disease and the frequent incarceration of its less successful residents, it is not surprising that a substantial number of children living in this area have no permanent home or family. Such children become the wards of the streets, and quickly learn to band together and use their collective wits to eke out a meager existence for themselves. These youngsters are called "street rats" by most of the Labyrinth's residents, and the name Is not an inappropriate one - for they are quick and tricky, and as hard to get rid of as any household pest.
 
 Street rats can be found on almost any street corner of the Labyrinth, and will volunteer to perform any number of helpful tasks for a few coppers. They can prove to be very useful little scum - capable of spying, message delivery, or supplying information, as long as one bears in mind two restrictions:
+
 - They will always exaggerate the information they provide, and there is a 30% chance that the story they give is sheer fabrication, and
 - There is a 60% chance that they will not complete a task they've agreed to do if their "employer" is foolish enough to pay them the money agreed upon in advance.
 
 Within these bounds, the rats will generally provide reasonable service for whatever money they can connive.
 
-## Persons of Interest 
+## Persons of Interest
+
 --Dog-end::Old man wandering the streets. Harmless--
+
 --Enos the Maul::Blacksmith--
+
 --Murfi::Mage with a flair for showmanship--
+
 --Kuber Hasbin::Street "doctor" with a clinic deep in the maze--
 
-## GM's Notes 
+## GM's Notes
+
 There is little industry in the Labyrinth, except small family operations that supply basic needs, such as potters, greengrocers, butchers, etc., and even these facilities are generally lower in quality than similar shops elsewhere in the city. Many "shops" deal in second-hand goods; the few items of quality to be found in these establishments tend to be stolen. Many who live in Labyrinth hold menial jobs in [[settlements/the-south-corridor|The South Corridor]], work during planting and harvest season on farms just outside the city gates, or provide cheap labor for the large manufacturing houses on Southbank Street. Housing in the Labyrinth ranges from old decaying row houses to ramshackle warehouses, divided into apartments by flimsy wood or canvas walls. Rats and other vermin abound, and heating is limited to drafty fireplaces or small braziers which create a constant fire hazard. Running water does not exist; there are only scattered wells, and the river. Rents are not high, but neither are wages, and it is sometimes a struggle for the average family to keep a roof over their heads and food on the table.
+
 [anchor|street_encounters]
 
-## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]] 
+## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]]
+
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
 | [roll:d1000]       | Encounter       |       | Encounter       |       | Encounter    |
@@ -70,7 +88,7 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 321-353       | [Argument](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Argument)       | 686-700       | [[[person/yok-the-seer|Yok the Seer]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Yok_the_Seer)       | 962-977       | [Merchant Maulers](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Merchant_Maulers)    |
 | 354-393       | [Beggars](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Beggars)       | 701-719       | [A Real Beer Bust](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#A_Real_Beer_Bust)       | 978-000       | [Trailing Arbutus](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Trailing_Arbutus)    |
 
-## People and Locations in The Labyrinth 
+## People and Locations in The Labyrinth
 
 | People      | Places   |
 |---|---|
@@ -108,19 +126,22 @@ While a party is wandering through the area roll d1000 to determine what random 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ![[maps/haven/the-labyrinth-full.jpg]]
 
 ---
-**Persons of Interest** 
+
+**Persons of Interest**
+
 - [[people/dog-end|Dog-end]]
 - [[people/enos-the-maul|Enos the Maul]]
 - [[people/murfi|Murfi]]
 - [[people/kuber-hasbin|Kuber Hasbin]]
 - [[organizations/criminal/thieves-guild|Thieves Guild]]
 
- **Neighborhoods** 
+ **Neighborhoods**
+
 - [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 - [[settlements/the-forgotten-city|The Forgotten City]]
 
@@ -135,18 +156,19 @@ While a party is wandering through the area roll d1000 to determine what random 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** e05f9a94-a44d-4991-b419-28cae89db0ee<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -155,19 +177,24 @@ While a party is wandering through the area roll d1000 to determine what random 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 8b3bf96f-ea9a-4e39-8c3f-bda804df5cdb
 
 --- end-column ---
 
 Next:
+
 79c63b92-b2fb-4369-a72c-17dc0e11e744
 
 --- end-multi-column

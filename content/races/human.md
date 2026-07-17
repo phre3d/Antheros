@@ -1,5 +1,12 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Human Race
+date modified: 2026-07-16, 9:39:16 pm
+---
+
 # Human Race
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -123,5 +130,7 @@ Alerdene, Alinza, Aula, Bach Hien, Belka, Beshkee, Chammady, Chao, Do Quyen, Esh
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

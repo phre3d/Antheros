@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, south-caravan-street]
+title: Jelaine
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jelaine
 
-### 
+###
 
 **Full Name:**  Jelaine    of Belakor  
 
@@ -203,13 +209,12 @@ Jelaine, merchant, a tall, lean woman with short dark hair beginning to grey is 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jelaine]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

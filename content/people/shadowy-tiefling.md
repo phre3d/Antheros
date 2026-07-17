@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Shadowy Tiefling
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Shadowy Tiefling
 
-### 
+###
 
-**Full Name:**  Shadowy  Tiefling    
+**Full Name:**  Shadowy  Tiefling
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Beckoner
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/shadowy-tiefling]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

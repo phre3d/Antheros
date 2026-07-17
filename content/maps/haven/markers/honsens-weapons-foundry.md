@@ -1,8 +1,12 @@
 ---
-location: [1895.595,  1547.959]
+aliases: []
+tags: [map-marker]
+location: [1547.959, 1895.595]
 mapmarker: Shopping
+title: "Honsen's Weapons Foundry"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Honsen's Weapons Foundry
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/honsens-weapons-foundry|Honsen's Weapons Foundry]]<br>
 **Location Type:** Weapons
 
-**Description**<br> 
-
+**Description**<br>

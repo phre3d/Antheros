@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Magic Strikes, Greater
+date modified: 2026-07-16, 9:19:00 pm
+---
+
 # Potion of Magic Strikes, Greater
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Mechanic
 >
 >**Application:**Ingest <br>
->**Duration:** 1 hour 
+>**Duration:** 1 hour
 >
 >**Price:** 4,800gp
 
-
 ## Description
+
 A swirling potion that is orange in color. It smells like pumpkin and carrots, but tastes like ashes and strawberries.
 
 ## Effects
+
 When you drink this potion, your unarmed strikes and natural weapons become magical and gain a +2 bonus on attack and damage rolls.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
+
 **Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Fire  Shadow  <br>
 **Spell Needed:**  <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Alchemist <br>
 *Base:* Distilled alcohol <br>
 *Essence(s):*  Air    Fire  Shadow   <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

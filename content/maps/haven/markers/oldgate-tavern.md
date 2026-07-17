@@ -1,8 +1,12 @@
 ---
-location: [3151.717,  2215.306]
+aliases: []
+tags: [map-marker]
+location: [2215.306, 3151.717]
 mapmarker: Inns & Taverns
+title: Oldgate Tavern
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Oldgate Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/oldgate-tavern|Oldgate Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

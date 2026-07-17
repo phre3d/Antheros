@@ -1,9 +1,15 @@
-#import #person #Sins_of_the_Past #npc
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past]
+title: Ambrose Everdawn
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Ambrose Everdawn
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -188,13 +194,10 @@ Caretaker in [[landmark/city-of-the-dead|City of the Dead]].  He is a tall man i
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary D2
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary D2
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Scimitar:**  +4 to hit , 1d6+1 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

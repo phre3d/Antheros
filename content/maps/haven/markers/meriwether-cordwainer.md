@@ -1,8 +1,12 @@
 ---
-location: [4559.881,  5315.306]
+aliases: []
+tags: [map-marker]
+location: [4559.881, 5315.306]
 mapmarker: Shopping
+title: Meriwether - Cordwainer
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Meriwether - Cordwainer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/meriwether-cordwainer|Meriwether - Cordwainer]]<br>
 **Location Type:** Footwear
 
-**Description**<br> 
-
+**Description**<br>

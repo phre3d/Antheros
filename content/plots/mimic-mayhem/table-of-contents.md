@@ -1,4 +1,9 @@
-#plot #Mimic_Mayhem
+---
+aliases: []
+tags: [plot/Mimic-Mayhem, plot]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 **[[plots/mimic-mayhem/mimic-mayhem|Introduction]]**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/the-adventure-begins|The Adventure Begins]]<br>
@@ -18,8 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/baby-mimic-swarm|Baby Mimic Swarm]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/tiny-mimic|Tiny Mimic]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/small-mimic|Small Mimic]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/medium-mimic|Medium Mimic]]<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/medium-mimic|Medium Mimic]]<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/large-mimic|Large Mimic]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/huge-mimic|Huge Mimic]]<br>
 
- 

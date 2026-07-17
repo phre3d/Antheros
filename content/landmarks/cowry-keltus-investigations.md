@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #cat-shop #type-other-services #other-services #barristers-maze
+---
+aliases: []
+tags: [barristers-maze, cat-shop, Free_City_of_Haven, import, landmark, other-services, type-other-services]
+title: Cowry Keltus - Investigations
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Cowry Keltus - Investigations
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## People tailed, nailed, jailed, and maybe bailed 
 
-## Description 
+# Description
+
+## People tailed, nailed, jailed, and maybe bailed
+
+## Description
+
 Cowry is a stocky but well-built middle-aged man with white hair and eyebrows, green eyes, and a nose that appears to have been broken many times. He is a hearty drinker, and, when reasonably lit, will tell lurid stories of his exploits (in which he always leaves scores of corpses strewn about, and invariably winds up with at least three beautiful women panting in his arms). When not available in his office during the day, he can usually be found at [[landmarks/the-lying-lawyer|The Lying Lawyer]], guzzling immense quantities of beer, and telling lurid exploits. He is, despite all appearances to the contrary, a very able and successful investigator.
 
-## Price Range 
+## Price Range
+
 High - 10gp per day, plus incidental expenses.
 
-## Quality 
+## Quality
+
 Excellent. He has a 65% chance of finding information on any subject about which something is known in Haven.
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Excellent. He has a 65% chance of finding information on any subject about which
 
 **Image:** n/a
 
-**Investigations (Service)** 
+**Investigations (Service)**
 
  **Owner:**  Cowry Keltus
 
@@ -66,12 +78,14 @@ Excellent. He has a 65% chance of finding information on any subject about which
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trademasters-square|Trademasters' Square]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Excellent. He has a 65% chance of finding information on any subject about which
 ---
 
 ### World Anvil Metadata
+
 **Id:** 665efe74-98be-4e48-a9ff-cb7232ed7bc5<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Barristers' Maze<br>
@@ -96,7 +111,9 @@ Excellent. He has a 65% chance of finding information on any subject about which
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

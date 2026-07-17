@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Brandybuck Hierlings
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Brandybuck Hierlings
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Handaxe:**  +4 to hit , 1d6+1 slashing damage  
   **Longbow:**  +4 to hit , 1d8+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Varkin Jelas
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Varkin Jelas
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +3 to hit , 1d4+0 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

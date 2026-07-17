@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #sisters-of-the-unicorn #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, npc, person, sisters-of-the-unicorn, the-heights]
+title: Adrienne Geronde
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Adrienne Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -214,13 +220,12 @@ Adrienne finds most social events around [[settlement/the-heights|The Heights]] 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/adrienne-geronde]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

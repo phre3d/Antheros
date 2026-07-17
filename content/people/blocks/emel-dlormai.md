@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: "Emel d'Lormai"
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Emel d'Lormai
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword + 2:**  +3 to hit , 1d8+1 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

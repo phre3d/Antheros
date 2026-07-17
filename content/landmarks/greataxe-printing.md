@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-written-word #guild-of-the-word #written-word
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/word, import, landmark, the-dwarrow, type-written-word, written-word]
+title: Greataxe Printing
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Greataxe Printing
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Home of the TeaSeR 
 
-## Description 
+# Description
+
+## Home of the TeaSeR
+
+## Description
+
 weekly newsletter featuring local news and gossip called The TeaSeR. Most of the TeaSeR's readers buy it for the well-drawn cartoons contributed by various local artists; nonetheless, Gori uses the newsletter as a vehicle to pontificate about his pet peeve, the absence of bearded dwarven women in Haven
 
 # Purpose / Function
@@ -48,7 +58,7 @@ weekly newsletter featuring local news and gossip called The TeaSeR. Most of the
 
 **Image:** n/a
 
-**Written Word (Shopping)** 
+**Written Word (Shopping)**
 
  **Owner:**  A. Gori Greataxe
 
@@ -60,12 +70,14 @@ weekly newsletter featuring local news and gossip called The TeaSeR. Most of the
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ weekly newsletter featuring local news and gossip called The TeaSeR. Most of the
 ---
 
 ### World Anvil Metadata
+
 **Id:** 2a38f37e-0f1e-46bc-a998-ae84b8b149d9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -90,7 +103,9 @@ weekly newsletter featuring local news and gossip called The TeaSeR. Most of the
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

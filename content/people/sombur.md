@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #brotherhood-of-the-broken-blade #the-dwarrow #npc
+---
+aliases: []
+tags: [brotherhood-of-the-broken-blade, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Sombur
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Sombur
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Though cooler and wiser heads will prevail when the Brotherhood's next meeting i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sombur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

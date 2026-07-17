@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-north-corridor, type-guard]
+title: Caravan Station
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Caravan Station
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Caravan Station is home to 80 guards, of which about 20 are on duty at any point in time. The Station Captain is Zeluan Kurton.
 
-## NPC Encounters 
+## NPC Encounters
+
 Zeluan Kurtin
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Zeluan Kurtin
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Zeluan Kurtin
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Zeluan Kurtin
 ---
 
 ### World Anvil Metadata
+
 **Id:** 04a3d0b6-0486-4c59-8809-ad679781cb5a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -93,7 +107,9 @@ Zeluan Kurtin
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

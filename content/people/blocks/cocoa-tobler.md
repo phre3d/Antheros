@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Cocoa Tobler
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Cocoa Tobler
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Sickle:**  +4 to hit , 1d4+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

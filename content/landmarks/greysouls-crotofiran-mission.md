@@ -1,22 +1,33 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-religion #type-mission #religion
+---
+aliases: []
+tags: [cat-religion, Free_City_of_Haven, import, landmark, religion, the-labyrinth, type-mission]
+title: "Greysoul's Crotofiran Mission"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Greysoul's Crotofiran Mission
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Soup and a sermon 
 
-## Description 
-A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|Monks of Saint Crotofiros]]. Meals are served with an obligatory sermon, encouraging the young lads and lasses to keep the faith in their search for a better life. 
+# Description
+
+## Soup and a sermon
+
+## Description
+
+A street mission run by the [[organizations/religious/monks-of-saint-crotofiros|Monks of Saint Crotofiros]]. Meals are served with an obligatory sermon, encouraging the young lads and lasses to keep the faith in their search for a better life.
 
 Recently, the Crotofiran house on Greysoul's Way has become aware of the illicit (and abhorrent) activities of [[people/fagin-childstealer|Fagin Childstealer]]. The matter has sparked considerable controversy among the monks there, as some of the younger initiates have argued persuasively that the order's vows of peace could not possibly apply to the likes of Fagin. One monk, Father William, is surreptitiously frying to locate a party willing to put an end to Fagin's operations, once and for all.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/dog-end|Dog-end]] (at mealtime)
 
 # Purpose / Function
@@ -53,7 +64,7 @@ Recently, the Crotofiran house on Greysoul's Way has become aware of the illicit
 
 **Image:** n/a
 
-**Mission (Religion)** 
+**Mission (Religion)**
 
  **Owner:**  
 
@@ -65,12 +76,13 @@ Recently, the Crotofiran house on Greysoul's Way has become aware of the illicit
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Temple / Religious complex
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -86,6 +98,7 @@ Recently, the Crotofiran house on Greysoul's Way has become aware of the illicit
 ---
 
 ### World Anvil Metadata
+
 **Id:** 17a3df4a-8b99-4579-8d1b-f49e47a6265f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -94,7 +107,9 @@ Recently, the Crotofiran house on Greysoul's Way has become aware of the illicit
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

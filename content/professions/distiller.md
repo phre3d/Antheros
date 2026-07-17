@@ -1,4 +1,10 @@
-#import #profession
+---
+aliases: []
+tags: [import, profession]
+title: Distiller
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Distiller
 
 Maker of hard liquor
@@ -6,6 +12,7 @@ Maker of hard liquor
 ---
 
 # Career
+
 ## Qualifications
 
 ## Career Progression
@@ -17,12 +24,12 @@ Maker of hard liquor
 ---
 
 # Perception
+
 ## Purpose / Function
 
 ## Demand
 
 ## Legality
-  
 
 ## Social Status
 
@@ -35,7 +42,6 @@ Maker of hard liquor
 ## Demand
 
 ## Legality
-  
 
 ## Social Status
 
@@ -46,6 +52,7 @@ Maker of hard liquor
 ---
 
 # Operations
+
 ## Tools
 
 ## Materials
@@ -56,11 +63,11 @@ Maker of hard liquor
 
 ## Hazards
 
---- end-column ---
+---end-column ---
 
 **Alternative Names:**  
 
-**Type:** 
+**Type:**
 
 **Famous in the Field:**
 
@@ -79,15 +86,18 @@ Maker of hard liquor
 ---
 
 ### World Anvil Metadata
+
 **Id:** 508e198b-a126-4c3e-9ce5-899bd2b234f0<br>
 **Entity Type:** Article / profession<br>
 **Category:** Professions<br>
-**Tags:** 
+**Tags:**
 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
@@ -97,4 +107,4 @@ alignment: [left, right]
 
 --- end-column ---
 
---- end-multi-column 
+--- end-multi-column

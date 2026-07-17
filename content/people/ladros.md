@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Ladros
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Ladros
 
-### 
+###
 
-**Full Name:** God of Knowledge, Father of the Gods       
+**Full Name:** God of Knowledge, Father of the Gods
 
 `````col
 ````col-md
@@ -210,13 +216,10 @@ His holy symbol is an eye, with a starburst radiating from it.
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: fed8a554-c5c1-48cd-932a-2457b1cc820d

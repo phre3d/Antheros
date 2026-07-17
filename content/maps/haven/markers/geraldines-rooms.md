@@ -1,8 +1,12 @@
 ---
-location: [2370.085,  6866.327]
+aliases: []
+tags: [map-marker]
+location: [2370.085, 6866.327]
 mapmarker: Residence
+title: "Geraldine's Rooms"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Geraldine's Rooms
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/geraldines-rooms|Geraldine's Rooms]]<br>
 **Location Type:** Rooming House
 
-**Description**<br> 
-
+**Description**<br>

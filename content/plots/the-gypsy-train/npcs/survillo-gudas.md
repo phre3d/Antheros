@@ -1,4 +1,6 @@
 ---
+aliases: []
+tags: [npc, person, plot/The_Gypsy_Train]
 cr_type: person
 cr_id: survillo-gudas
 name: Survillo Gudas
@@ -6,9 +8,12 @@ sex: male
 born: 1145
 sibling: "[[plots/the-gypsy-train/npcs/javyd-gudas]]"
 sibling_id: javyd-gudas
+title: Survillo Gudas
+date modified: 2026-07-16, 9:18:12 pm
 ---
-#person #npc #The_Gypsy_Train 
+
 # Survillo Gudas
+
 size, race (type), alignment
 
 **Profession:**
@@ -34,11 +39,10 @@ size, race (type), alignment
 **Languages:** <br>
 **Challenge:**  / (XP)<br>
 **Senses:** <br>
-**Skills:** 
+**Skills:**
 
 >[!infobox]
 >IMAGE
->
 
 ---
 
@@ -48,14 +52,15 @@ Guard, [[plots/the-gypsy-train/npcs/javyd-gudas|Javyd Gudas']] brother
 
 Survillo is 15 years younger than Javyd and is still unwed. He says he just hasn’t found a girl who’s right for him.
 
-Survillo is a 2nd-level human fighter, chaotic good, with Str 12, Int 8, Wis 10, Dex 12, Con 13, Cha 10, AC 6, and 10 hp. He wears scale mail and is armed with a _short sword_, two _spears_, and a _dagger_.
+Survillo is a 2nd-level human fighter, chaotic good, with Str 12, Int 8, Wis 10, Dex 12, Con 13, Cha 10, AC 6, and 10 hp. He wears scale mail and is armed with a *short sword*, two *spears*, and a *dagger*.
 
 ---
 
 # Actions
+
 **Short Sword.**<br>
 *Attack:*      <br>
-*Hit:*    
+*Hit:*
 
 **Spear.**<br>
 *Attack:*      <br>
@@ -66,4 +71,5 @@ Survillo is a 2nd-level human fighter, chaotic good, with Str 12, Int 8, Wis 10,
 *Hit:*
 
 ---
+
 **Source:** [[plots/the-gypsy-train/the-gypsy-train|The Gypsy Train]]

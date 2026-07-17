@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: Scene 1
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Scene 1
 
 ````col
@@ -60,7 +66,6 @@ While pleading, threatening, and cursing the goblin admits:
 
 ```
 ````
-
 
 ---
 

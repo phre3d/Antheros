@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #conindir-family #erinhir #npc
+---
+aliases: []
+tags: [conindir-family, erinhir, Free_City_of_Haven, import, npc, person]
+title: Finsilivren Conindir
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Finsilivren Conindir
 
-### 
+###
 
-**Full Name:**  Finsilivren  Conindir    
+**Full Name:**  Finsilivren  Conindir
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Daughter of [[person/teleril-conindir|Teleril Conindir]] and Khelekien
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/finsilivren-conindir]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

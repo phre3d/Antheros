@@ -1,8 +1,12 @@
 ---
-location: [4723.146,  6594.898]
+aliases: []
+tags: [map-marker]
+location: [4723.146, 6594.898]
 mapmarker: Shopping
+title: Tandy - Leathers
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Tandy - Leathers
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/tandy-leathers|Tandy - Leathers]]<br>
 **Location Type:** Leatherworker
 
-**Description**<br> 
-
+**Description**<br>

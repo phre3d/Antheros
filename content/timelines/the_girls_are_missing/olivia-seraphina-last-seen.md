@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [The-Girls-Are-Missing]
 aat-event-start-date: 1172/8/10 19:00
 aat-event-title: "Olivia & Seraphina last seen"
 aat-event-body: "They last seen heading to Olivia's shop after the party revisited the Clockwork Tower."
 # aat-event-picture: 
+title: Olivia & Seraphina last seen
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Olivia & Seraphina last seen
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -51,7 +56,3 @@ They last seen heading to Olivia's shop after the party revisited the Clockwork 
 
 ```
 ````
-
-
-
-

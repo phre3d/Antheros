@@ -1,8 +1,12 @@
 ---
-location: [3196.615,  2961.224]
+aliases: []
+tags: [map-marker]
+location: [2961.224, 3196.615]
 mapmarker: Service
+title: Spectacular Spectacles
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Spectacular Spectacles
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/spectacular-spectacles|Spectacular Spectacles]]<br>
 **Location Type:** Other Services
 
-**Description**<br> 
-
+**Description**<br>

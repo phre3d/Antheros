@@ -1,8 +1,12 @@
 ---
-location: [2687.432,  4324.49]
+aliases: []
+tags: [map-marker]
+location: [2687.432, 4324.49]
 mapmarker: Inns & Taverns
+title: The Brass Blade
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Brass Blade
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-brass-blade|The Brass Blade]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Ehmud Rossen
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Ehmud Rossen
 
-### 
+###
 
-**Full Name:** Station Captain Ehmud  Rossen    
+**Full Name:** Station Captain Ehmud  Rossen
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Station Captain of [[landmark/the-grey-halls|The Grey Halls]] station of t
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ehmud-rossen]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

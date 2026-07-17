@@ -1,9 +1,15 @@
-#import #article   #Free_City_of_Haven
+---
+aliases: []
+tags: [article, Free_City_of_Haven, import]
+title: Random Market Stalls
+date modified: 2026-07-16, 9:19:05 pm
+---
+
 # Random Market Stalls
 
 When populating a local market, the following table can be used to generate market stalls/vendors.
 
-### Type and Staffing 
+### Type and Staffing
 
 | 1d100 | Type | Owner  | Owner +1 | Owner +2 | Asstistant | Assistant + 1d3  |
 |---|---|---|---|---|---|---|
@@ -12,8 +18,7 @@ When populating a local market, the following table can be used to generate mark
 | 50-75     | Small Tent     | 01-60         | 61-72     | 73-85     | 86-93     | 94-00   |
 | 76-89     | Pavilion         | 01-45         | 46-65     | 66-80     | 81-90     | 91-00   |
 
-
-### Merchandise 
+### Merchandise
 
 | 1d100  | Merchandise  | 1d100  | Type  | 1d100  | Type  |
 |:-:|---|:-:|---|:-:|---|
@@ -48,10 +53,9 @@ When populating a local market, the following table can be used to generate mark
 |   |   | 33-38  | faith healer  | 93-00  | arcane repair     |
 | 94-00  | Financial services (goldsmith, money-changer, con-game of some variety, etc.)  |   |   |   |     |
 
+The listings above are a fair selection of the many possibilities for goods and types of services to be found in a bazaar booth or stall. GMs may use these charts, create their own, or add to what has been provided. If either additions are made or new charts created, however, GMs should remember to keep the populace relatively honest - not everybody is going to be selling magic items, super weapons / armor, or luxury items that are seldom found even in the duke's palace.
 
-The listings above are a fair selection of the many possibilities for goods and types of services to be found in a bazaar booth or stall. GMs may use these charts, create their own, or add to what has been provided. If either additions are made or new charts created, however, GMs should remember to keep the populace relatively honest - not everybody is going to be selling magic items, super weapons / armor, or luxury items that are seldom found even in the duke's palace. 
-
-### Price, Quality and Variety 
+### Price, Quality and Variety
 
 | 1d100  | Price  | 1d100  | Quality  | 1d100  | Variety   |
 |---|---|---|---|---|---|
@@ -62,15 +66,15 @@ The listings above are a fair selection of the many possibilities for goods and 
 | 95-98  | Costly (2.0-3.5)  | 91-97  | Excellent (2.0x)  | 97-00  | E : Excellent (85% for specific item)    |
 | 99-00  | Outrageous (4.0+)  | 98-00  | Superb (3.5x)  |   |     |
 
-**Notes:** 
+**Notes:**
+
 1. The figures in parentheses are multipliers of cost (for price) and actual value (for quality).  
 2. An item might be bought for an outrageous price, but be shoddy quality - a factor of 40 to 1, cost to value.  
-3. It is unlikely that players will accurately appraise the quality of items with which they are unfamiliar.   
+3. It is unlikely that players will accurately appraise the quality of items with which they are unfamiliar.
 4. One who does not know woods in general will seldom recognize teak, or be able to tell it from walnut.  
-5. Additionally, the ratings above are not absolutes - there will be occasional wheat found among the chaff, and vice-versa. 
+5. Additionally, the ratings above are not absolutes - there will be occasional wheat found among the chaff, and vice-versa.
 
 The more specific the description of the item, the less likely it is to be found.  Deduct appropriate amounts from the variety rating for more exacting descriptions. Items inappropriate to the merchandise offered are seldom (1%) found - one doesn't buy swords in food stalls, or lettuce in a jewelry shop.
-
 
 |   | Cheap  | Low  | Fair  | High  | Costly  | Outrageous    |
 |---|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -88,7 +92,8 @@ The more specific the description of the item, the less likely it is to be found
 - E: 81-95 scrupulous
 - F: 96-00 painfully honest
 
-### Vendor Honesty 
+### Vendor Honesty
+
 Rated 1 (thoroughly dishonest) to 100 (completely, painfully, ridiculously honest); cross-reference Price and Quality on the chart below for individual ratings.
 
 ---

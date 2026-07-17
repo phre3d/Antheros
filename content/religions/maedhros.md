@@ -1,27 +1,37 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Maedhros
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Maedhros
 
-God of Fire, Patron of Metalworkers     
+God of Fire, Patron of Metalworkers
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Maedhros is the brother of Narconal (Volcanos are what happens when he and brother get angry), and the two have always had an uneasy relationship. After all, fire can protect and nourish just as easily as it can destroy. The cycle of growth and destruction between the two is the subject of many stories, and it is believed that these conflicts have made them the stronger for it.
 
 His followers believe in strength and freedom, and will attempt to prove themselves to their god through attempts to harness his power themselves, often to disastrous effect. They also believe strongly that it is the duty of the powerful to protect the weak. For all these reasons, it is almost expected that worshipers of Maedhros will die before their time, and an elderly worshiper is to be revered because they have survived many trials.
 
-His gift to the races of man was fire itself, though this gift was tainted by Laydi with the curse that it would be impossible to truly control. 
+His gift to the races of man was fire itself, though this gift was tainted by Laydi with the curse that it would be impossible to truly control.
 
 His holy symbol is a hammer bathed in flame and his clergy wear red and golden dyed robes that resemble flames.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -41,6 +51,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -66,6 +77,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -85,6 +97,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -113,7 +126,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -131,7 +144,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Firstborn
 
@@ -141,14 +154,15 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 
  **Father:**  [[religions/ladros]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/thalos]] (with [[religions/vairë]])
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -168,7 +182,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -182,7 +196,7 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -193,16 +207,17 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 1c8a7687-5623-48f0-b9bd-23725a2c8e34<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -215,31 +230,37 @@ His holy symbol is a hammer bathed in flame and his clergy wear red and golden d
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/maedhros-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/maedhros-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/maedhros-person)
 
 ---
@@ -247,18 +268,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 928a98b6-5cca-47d7-82cc-78f092e55d65
 
 --- end-column ---
 
 Next:
+
 38e86db9-e6a3-4571-90cb-531f65c96c37
 
 --- end-multi-column

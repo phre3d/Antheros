@@ -1,15 +1,24 @@
-#import #item #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, item]
+title: The Verdant Harvester
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 # The Verdant Harvester
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-This enchanted garden hoe, known as the Verdant Harvester, carries the essence of nature's magic. 
+
+This enchanted garden hoe, known as the Verdant Harvester, carries the essence of nature's magic.
 
 Once per day, when a character utilizes the hoe to cultivate a seed, an immediate burst of growth transforms the seed into a thriving plant. The verdant power within the hoe infuses the plant with vitality.
 
@@ -29,22 +38,22 @@ However, there is a caveat – the plant requires fertile soil to flourish. The 
 
 **Weight:** 3 lbs<br>
 **Dimensions:** 5' long, 6" blade<br>
-**Base Price:** 
+**Base Price:**
 
 **Creation Date:** <br>
 **Destruction Date:**  
 
 **Current Geographic Location:** <br>
 **Current Holder:** <br>
-**Owning Organization:** 
+**Owning Organization:**
 
 **Creator:** <br>
 **Modeled After / Subtype of:**  <br>
 **Manufacturer:**  <br>
 **Materials & Components:** <br>
-**Tooling:** 
+**Tooling:**
 
-**Related Condition:** 
+**Related Condition:**
 
 **Related Technologies**
 
@@ -53,6 +62,7 @@ However, there is a caveat – the plant requires fertile soil to flourish. The 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 6da03dd1-55ed-42bf-a006-df61f59858e6<br>
 **Entity Type:** Article / item<br>
 **Category:** Module: The Hag, The Bear and the Goblins<br>
@@ -61,7 +71,9 @@ However, there is a caveat – the plant requires fertile soil to flourish. The 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

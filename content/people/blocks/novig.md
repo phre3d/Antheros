@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Novig
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Novig
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greataxe:**  +4 to hit , 1d12+2 slashing damage  
   **Handaxe:**  +4 to hit , 1d6+2 slashing damage  
   **Handaxe, thrown:**  +5 to hit , 1d7+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

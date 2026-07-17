@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-north-corridor]
+title: Alonzo Boarstuffer
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alonzo Boarstuffer
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ A large, jovial man, with little hair on his head and much on his chin (his bear
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alonzo-boarstuffer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

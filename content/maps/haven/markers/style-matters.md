@@ -1,8 +1,12 @@
 ---
-location: [2906.819,  2359.184]
+aliases: []
+tags: [map-marker]
+location: [2359.184, 2906.819]
 mapmarker: Shopping
+title: Style Matters
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Style Matters
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/style-matters|Style Matters]]<br>
 **Location Type:** Tailor
 
-**Description**<br> 
-
+**Description**<br>

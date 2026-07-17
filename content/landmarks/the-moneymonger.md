@@ -1,18 +1,28 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-pawnbroker #pawnbroker
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, the-south-docks, type-pawnbroker]
+title: The Moneymonger
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Moneymonger
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Loans and info at  ~~exhorbatant~~  reasonable rates 
 
-## Description 
-Grimsby has the resources to make loans of up to 50,000gp, but his terms are steep: 100% interest, payable in six months, and temporary transfer of the official registry of the borrower's ship into the name of one of the Black Hand fronting companies. In this way, the Hand has obtained permanent (upon default of these loans) title to four of its current smuggling vessels at minimal cost. 
+# Description
+
+## Loans and info at  ~~exhorbatant~~  reasonable rates
+
+## Description
+
+Grimsby has the resources to make loans of up to 50,000gp, but his terms are steep: 100% interest, payable in six months, and temporary transfer of the official registry of the borrower's ship into the name of one of the Black Hand fronting companies. In this way, the Hand has obtained permanent (upon default of these loans) title to four of its current smuggling vessels at minimal cost.
 
 Farsteel has fair sources of information about the wharf area, and will soon hear of any vessel/captain in financial distress. Thereafter, it will not be long before he makes an appearance on the scene, wheezing his solicitations and hinting at his ability to lend assistance for a proper "arrangement".
 
@@ -50,7 +60,7 @@ Farsteel has fair sources of information about the wharf area, and will soon hea
 
 **Image:** n/a
 
-**Pawnbroker (Shopping)** 
+**Pawnbroker (Shopping)**
 
  **Owner:**  Grimsby Farsteel
 
@@ -62,12 +72,14 @@ Farsteel has fair sources of information about the wharf area, and will soon hea
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -84,6 +96,7 @@ Farsteel has fair sources of information about the wharf area, and will soon hea
 ---
 
 ### World Anvil Metadata
+
 **Id:** 99e150bf-a58d-49a8-88d8-bd6543d94e21<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -92,7 +105,9 @@ Farsteel has fair sources of information about the wharf area, and will soon hea
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

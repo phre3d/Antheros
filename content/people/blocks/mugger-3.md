@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mugger 3
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mugger 3
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Maul:**  +3 to hit , 2d6+0 bludgeoning damage  
   **Dagger:**  +4 to hit , 1d4+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Clockwork Tower Exterior
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Clockwork Tower Exterior
 
 ````col
@@ -124,7 +130,6 @@ The Clockwork Tower can take a action to cause one of the following effects:
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

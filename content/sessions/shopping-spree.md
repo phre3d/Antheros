@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -43,4 +48,3 @@ Eugene also identifies the magic armor that came off the dead wizard. It is a re
 Before bed Martin cast Sending and sent a message to "GM"(merchant guy whose name Paul is blanking on at the moment). "We received the generous reward you provided and are most grateful. You may also want to talk to Lord de la Riis. Things got complicated. "(Martin had told the party he was going to let him know we received the chest. )The reply was: "already spoke to him. you have done a good thing today "
 
 ---
-

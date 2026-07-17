@@ -1,8 +1,12 @@
 ---
-location: [2187.432,  989.796]
+aliases: []
+tags: [map-marker]
+location: [2187.432, 989.796]
 mapmarker: City Guard
+title: Horsegate Barracks
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Horsegate Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/horsegate-barracks|Horsegate Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

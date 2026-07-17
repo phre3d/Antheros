@@ -1,9 +1,15 @@
-#import #person #Sins_of_the_Past #npc
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past]
+title: Brel Skilren
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Brel Skilren
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ He was recently promoted to sergeant and assigned to [[landmark/city-of-the-dead
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

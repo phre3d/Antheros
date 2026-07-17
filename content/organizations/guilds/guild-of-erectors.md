@@ -1,216 +1,44 @@
-#import #organization   #Free_City_of_Haven #type-guild-professional
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/professional, import, organization]
+title: Guild of Erectors
+date modified: 2026-07-16, 9:14:55 pm
+---
+
 # Guild of Erectors
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-# Description
+>[!info]
+>**Type:** Guild, Professional<br>
+>**Alternate Names:** <br>
+>**Leader:** <br>
+>**Leader Title:** [[ranks/guild-grandmaster|Grandmaster]] <br><br>
+>**Founding Date:** <br>
+>**Motto/Slogan**: <br>
+>**Demonym:** <br>
+>**Related Races:**  <br>
+>**Related Ethnicities:**
+
 Represents all those involved in the building construction trades. They meet at the [[landmarks/guildhall-of-erectors|Guildhall of Erectors]].
 
-
-## Associated People & Places 
-
-[tagged:guild-of-erectors-person|list|none]
-
-[tagged:guild-of-erectors-location|list|none]
-
----
-
-# Common Information
-## Basics
-**Type:** Guild, Professional<br>
-**Alternate Names:** <br>
-**Motto/Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:** 
-
-**Founders** 
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-**Leader:** <br>
-**Leader Title:** <br>
-**Ruling Organization:** <br>
-**Family Leader:** 
-
-## Structure
-
-## Culture
-
-## Public Agenda
-
-## Assets
-
-## History
-
-## Disbandment
-
-![[DnDLine.png|Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:** 
-
-**Founders** 
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-**Leader:** <br>
-**Leader Title:** <br>
-**Ruling Organization:** <br>
-**Family Leader:** 
-
-## Structure
-
-## Culture
-
-## Public Agenda
-
-## Assets
-
-## History
-
-## Disbandment
-
----
-
-# Geopolitical Organizations
-
-**Capital:** <br>
-**Power Structure System:** <br>
-**Government System:** <br>
-**Head of State:** <br>
-**Head of Government:** <br>
-**Economic System:** <br>
-**Official State Religion:** 
-
-**Neighboring Geopolitical Organizations**
-
-**Recognized/Official Languages**
-
-## Gazetteer
-
-## Currency
-
-## Legislative Body
-
-## Judicial Body
-
-## Executive Body
-
-## Demography & Population
-
-## Foreign Relations
-
-## Laws
-
-## Territory
-
-## Military
-
-## Religion
-
-## Agriculture & Industry
-
-## Trade & Transport
-
-## Exports
-
-## Imports
-
-## Education
-
-## Infrastructure
-
-## Technological & Scientific Level
-
----
-
-# Religious Organizations
-
-**Deities**
-
-# Mythology
-
-# Origins
-
-# Cosmology
-
-# Tenets of Faith
-
-# Priesthood
-
-# Ethics
-
-# Granted Divine Powers
-
-# Political Intrigue & Influence
-
-# Worship
-
-# Sects
-
----
-
-# Military Organizations
-
-**Formation Type:**  
-
-**Training Level:** 
-
-**Veterancy:** 
-
---- end-column ---
-
-**Image:** 
-
-### Members 
-[tagged:guild of the builder|list|none]
-
----
-
----
-### World Anvil Metadata
-**Id:** f2dd67e1-795c-4769-bb6c-699fd8af7bd3<br>
-**Entity Type:** Article / organization<br>
-**Category:** Guilds of Haven<br>
-**Tags:** fcoh,type-guild-professional
-
---- end-multi-column
-
----
---- start-multi-column: PreviousNext
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
+## Associated People
+
+```dataview
+LIST title
+FROM ""
+WHERE contains(tags, "guild-of-erectors") and contains(tags, "person")
 ```
 
---- end-column ---
+## Associated Places
 
---- end-multi-column
+```dataview
+LIST title
+FROM ""
+WHERE contains(tags, "guild-of-erectors") and contains(tags, "landmark")
+```
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

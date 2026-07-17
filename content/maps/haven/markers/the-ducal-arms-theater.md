@@ -1,8 +1,12 @@
 ---
-location: [2272.126,  2252.041]
+aliases: []
+tags: [map-marker]
+location: [2252.041, 2272.126]
 mapmarker: Entertainment
+title: The Ducal Arms Theater
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Ducal Arms Theater
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/the-ducal-arms-theater|The Ducal Arms Theater]]<br>
 **Location Type:** Theatre
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -75,4 +80,3 @@ A little after lunch the mayor comes back and tellss everything is arranged. The
 We ride to the mine, with extra rope and supplies, and camp for our adventure in the morning.
 
 ---
-

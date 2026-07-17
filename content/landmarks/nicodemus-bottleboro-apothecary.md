@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-apothecary #brotherhood-of-the-amalgam #apothecary
+---
+aliases: []
+tags: [apothecary, brotherhood-of-the-amalgam, cat-shop, Free_City_of_Haven, import, landmark, the-cauldron, type-apothecary]
+title: Nicodemus Bottleboro - Apothecary
+date modified: 2026-07-16, 8:06:12 pm
+---
+
 # Nicodemus Bottleboro - Apothecary
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Apothecary (Shopping)** 
+**Apothecary (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apothecary
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 535fe5b3-d029-4573-9b5c-b39a18b63b35<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

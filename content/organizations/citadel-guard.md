@@ -1,31 +1,42 @@
-#import #organization   #Free_City_of_Haven #type-military-army-regiment
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-military-army-regiment]
+title: Citadel Guard
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Citadel Guard
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-This brightly garbed, and well-armored unit is the only formal military unit in the City. While technically a regiment, their strength is more that of a platoon with about 20 troops. The Guard is the historical protectors of the sanctity of [[settlements/trade-island|Trade Island]] from a time when the region was a wilderness backwater in the former empire. 
+
+This brightly garbed, and well-armored unit is the only formal military unit in the City. While technically a regiment, their strength is more that of a platoon with about 20 troops. The Guard is the historical protectors of the sanctity of [[settlements/trade-island|Trade Island]] from a time when the region was a wilderness backwater in the former empire.
 
 In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol Trade Island and act as a local Watch. And though they are funded by the city, the Guard is not part of the [[organizations/haven-city-watch|Haven City Watch]].
 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Military, Army Regiment<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -38,10 +49,11 @@ In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol 
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -59,9 +71,9 @@ In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol 
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -74,10 +86,11 @@ In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol 
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -101,7 +114,7 @@ In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol 
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -175,15 +188,16 @@ In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol 
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** d8426ad5-1874-4152-82a5-98179c3a4666<br>
 **Entity Type:** Article / organization<br>
 **Category:** City Watch and Military<br>
@@ -192,7 +206,9 @@ In addition to guarding [[landmarks/the-citadel|The Citadel]], they also patrol 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

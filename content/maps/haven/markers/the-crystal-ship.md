@@ -1,8 +1,12 @@
 ---
-location: [1752.738,  6448.98]
+aliases: []
+tags: [map-marker]
+location: [1752.738, 6448.98]
 mapmarker: Inns & Taverns
+title: The Crystal Ship
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Crystal Ship
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-crystal-ship|The Crystal Ship]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

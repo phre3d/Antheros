@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kuori Anakalathia
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kuori Anakalathia
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +8 to hit , 1d4+6 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

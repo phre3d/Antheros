@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Lando Buckminister
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Lando Buckminister
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +5 to hit , 1d4+2 piercing damage  
   **Rapier:**  +5 to hit , 1d8+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

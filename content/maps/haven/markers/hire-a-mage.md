@@ -1,8 +1,12 @@
 ---
-location: [2842.534,  2405.102]
+aliases: []
+tags: [map-marker]
+location: [2405.102, 2842.534]
 mapmarker: Shopping
+title: Hire-a-Mage
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hire-a-Mage
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/hire-a-mage|Hire-a-Mage]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

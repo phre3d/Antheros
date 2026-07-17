@@ -1,9 +1,15 @@
-#import #person #Clockwork_Tower #npc
+---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person]
+title: Tick and Tock
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Tick and Tock
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -32,10 +38,11 @@ Tick and Tock are designed to serve as guides and helpers, not combatants. They 
 
 >[!Statblock] Statblock
 >![[plots/clockwork-tower/npcs/blocks/tick-and-tock]]
->
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

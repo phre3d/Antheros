@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-north-corridor #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Guzzler Gohegan
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Guzzler Gohegan
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/guzzler-gohegan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

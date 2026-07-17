@@ -1,8 +1,12 @@
 ---
-location: [1974.166,  6445.918]
+aliases: []
+tags: [map-marker]
+location: [1974.166, 6445.918]
 mapmarker: Service
+title: "Caradallo's Storage"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Caradallo's Storage
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/caradallos-storage|Caradallo's Storage]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

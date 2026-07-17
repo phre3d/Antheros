@@ -1,5 +1,12 @@
-#import #subclass 
+---
+aliases: []
+tags: [import, class/subclass]
+title: Labourer
+date modified: 2026-07-16, 9:19:04 pm
+---
+
 # Labourer
+
 **Parent Class:** [[classes/mundane/mundane|Mundane]]
 
 Labourers are those who specialize in manual ("blue collar") work. They may be skilled or unskilled.
@@ -10,9 +17,10 @@ Labourers are those who specialize in manual ("blue collar") work. They may be s
 
 **Extra Skills.** At level 2 the Labourer can choose one of *Athletics*, *Intimidation*, *Tavern Brawler* feat, *Grappler* feat. They select again at level 5 and 10. A skill may be selected only once.
 
-**Apprentice.** At level 3, Labourers working at a skilled trade (e.g. carpenter, mason) gain proficiency with that trade's tools. 
+**Apprentice.** At level 3, Labourers working at a skilled trade (e.g. carpenter, mason) gain proficiency with that trade's tools.
 
 **Journeyman.** At level 6, Labourers working at a skilled trade gain expertise with that trade's tools.
 
 ---
+
 *Source:* Homebrew    <!-- Original Source of the item -->

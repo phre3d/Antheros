@@ -1,8 +1,12 @@
 ---
-location: [5325.187,  5532.653]
+aliases: []
+tags: [map-marker]
+location: [5325.187, 5532.653]
 mapmarker: Shopping
+title: Wicker and Withy
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Wicker and Withy
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/wicker-and-withy|Wicker and Withy]]<br>
 **Location Type:** Basket Maker
 
-**Description**<br> 
-
+**Description**<br>

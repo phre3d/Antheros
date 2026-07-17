@@ -1,8 +1,12 @@
 ---
-location: [2316.003,  6993.878]
+aliases: []
+tags: [map-marker]
+location: [2316.003, 6993.878]
 mapmarker: Shopping
+title: Fawset Street Market
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Fawset Street Market
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/fawset-street-market|Fawset Street Market]]<br>
 **Location Type:** Victualer
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [4243.554,  1282.653]
+aliases: []
+tags: [map-marker]
+location: [1282.653, 4243.554]
 mapmarker: Residence
+title: Residence of Rigaletto and Paladin Brandybuck
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Residence of Rigaletto and Paladin Brandybuck
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/residence-of-rigaletto-and-paladin-brandybuck|Residence of Rigaletto and Paladin Brandybuck]]<br>
 **Location Type:** Large House
 
-**Description**<br> 
-
+**Description**<br>

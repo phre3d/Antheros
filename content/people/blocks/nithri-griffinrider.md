@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Nithri Griffinrider
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Nithri Griffinrider
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Spear:**  +7 to hit , 1d6+4 piercing damage  
   **Sling:**  +5 to hit , 1d4+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

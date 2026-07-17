@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-dell]
+title: Tough Type 2
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tough Type 2
 
-### 
+###
 
-**Full Name:**  Tough  Type Two    
+**Full Name:**  Tough  Type Two
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Refer to scenario [[plots/the-peacekeepers|The Peacekeepers]]
 
 ---
 
-
-
 ![[people/blocks/tough-type-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

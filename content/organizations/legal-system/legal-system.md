@@ -1,35 +1,47 @@
-#import #organization   #Free_City_of_Haven #type-court-system
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-court-system]
+title: Legal System
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Legal System
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-The Duke appoints the High Judges, who serve for a term of ten years in the Court of Common Pleas (dealing with civil law), the Court of the Exchequer (the court which enforces taxation), or the Court of the Eagle Standard (the high ducal court dealing with treason). A further court, the [[organizations/guilds/circle-chamber|Circle Chamber]], is formed of the highest ranking mages with ducal sanction to regulate the use of magic in Haven.
+
+The Duke appoints the High Judges, who serve for a term of ten years in the Court of Common Pleas (dealing with civil law), the Court of the Exchequer (the court which enforces taxation), or the Court of the Eagle Standard (the high ducal court dealing with treason). A further court, the Circle Chamber (ruling body of the [[organizations/guilds/mages-guild|Mages Guild]]), is formed of the highest ranking mages with ducal sanction to regulate the use of magic in Haven.
 
 The High Judges in turn appoint a number of lower level judges as necessary based on case loads and severity. For ease of reference, most trials invloving player characters will be in front of one of the High Judges.
 
 Trials are conducted without juries. The judge hears the case, and then makes the decision as to guilt or innocence - if the defendant is guilty, he also determines sentence.
 
-## The High Judges 
-The five High Judges sit on the majority of criminal cases in Haven, and on any civil cases of more than minimal notoriety. Each Judge is described with a coding of bribability and greed (bribe rating can easily change with the particular trial, and should be determined for each different case). Likes and dislikes for each judge are in the section on lawyers. 
+## The High Judges
+
+The five High Judges sit on the majority of criminal cases in Haven, and on any civil cases of more than minimal notoriety. Each Judge is described with a coding of bribability and greed (bribe rating can easily change with the particular trial, and should be determined for each different case). Likes and dislikes for each judge are in the section on lawyers.
 
 For additional detail, refer to [[organizations/legal-system/judges-in-haven|Judges in Haven]].
 
-## Lawyers, Barristers, and Attorneys 
+## Lawyers, Barristers, and Attorneys
+
 The effect of a lawyer on the outcome of a trial is of interest, since it is not unlikely that a player-character might be apprehended in the commission of a crime of some sort. It is usually helpful to have a lawyer representing the character in this situation, particularly if he IS guilty. It is also possible for player-characters to function as lawyers (provided the character has training for the courtroom - magistracy).
 
 For additional detail, refer to [[organizations/legal-system/lawyers-in-haven|Lawyers in Haven]].
 
-## Conducting the Trial 
+## Conducting the Trial
+
 Basically, to determine the outcome of a trial you roll d100, adjust for the various modifiers and look up the results on that judge's decision table. There are however some differences between a criminal and a civil trial. For details, refer to [[articles/factors-affecting-trials|Factors Affecting Trials ]].
 
-### Criminal trials 
-> 
+### Criminal trials
+
 1. Roll d100 [roll:d100]
 2. Add lawyer's ability modifier
 3. Add lawyer / judge relationship modifier
@@ -40,9 +52,10 @@ Basically, to determine the outcome of a trial you roll d100, adjust for the var
 
 This will provide verdict and sentence in one step. Crimes are specified as either minor (petty theft, vagrancy, drunkenness, etc.) or major (murder, rape, grand theft, treason, etc.). Use the line on the judge's table that best fits the type of crime.
 
-### Civil Trial 
-Civil suits are a different story when it comes to trial. In most cases, one can assume that the judge is going to make his decision based on all the factors. 
-> 
+### Civil Trial
+
+Civil suits are a different story when it comes to trial. In most cases, one can assume that the judge is going to make his decision based on all the factors.
+
 1. Add lawyer skill and lawyer/judge relationship modifiers for the plaintiff
 2. Add lawyer skill and lawyer/judge relationship modifiers for the defendant
 3. Bribery modifiers go to the side paying the largest bribe unless bribes are equal, in which case they cancel out
@@ -55,9 +68,10 @@ Civil suits are a different story when it comes to trial. In most cases, one can
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 146335e8-050d-4405-9904-9769a831b55e<br>
 **Entity Type:** Article / organization<br>
 **Category:** Governing Haven<br>
@@ -66,14 +80,18 @@ Civil suits are a different story when it comes to trial. In most cases, one can
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 61d43984-7e7d-4dc1-9b87-2df67775b86d
 
 --- end-column ---

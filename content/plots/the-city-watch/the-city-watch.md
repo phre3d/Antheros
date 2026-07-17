@@ -1,4 +1,10 @@
-#import #plot  #The_City_Watch
+---
+aliases: []
+tags: [import, plot, plot/The_City_Watch]
+title: The City Watch
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 # The City Watch
 
 ````col
@@ -46,7 +52,8 @@ The party's commander, Watch Captain [[person/lyza]], is a former adventurer her
 ```
 ````
 
-# CREDITS 
+# CREDITS
+
 Writer: Steve Dee<br>
 Design: Bailey Bratton<br>
 Interior Art: Carlos Castilho with additional drawings by Gordon Johnson<br>

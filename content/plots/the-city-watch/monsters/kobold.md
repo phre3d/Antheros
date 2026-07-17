@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -40,14 +45,18 @@ Small humanoid Lawful Evil
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Sunlight Sensitivity.**  While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.   **Pack Tactics.**  The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ![[~attachments/dndline.png]]
 
 # Actions
+
 **Dagger**  
   *Attack:*  +4 to hit , reach 5 ft. , one target.
-  *Hit:*   or 4 piercing damage.   **Sling** 
-  *Attack:*  +4 to hit , range 30/120 ft. , one target. 
-  *Hit:*   or 4 bludgeoning damage.
 
+  *Hit:*   or 4 piercing damage.   **Sling**
+
+  *Attack:*  +4 to hit , range 30/120 ft. , one target.
+
+  *Hit:*   or 4 bludgeoning damage.

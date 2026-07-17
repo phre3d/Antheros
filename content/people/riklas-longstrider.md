@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Riklas Longstrider
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Riklas Longstrider
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ More of an investigative specialist than a trial lawyer; he is generally employe
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/riklas-longstrider]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

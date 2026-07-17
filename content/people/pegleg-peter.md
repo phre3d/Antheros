@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-docks]
+title: Pegleg Peter
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pegleg Peter
 
-### 
+###
 
-**Full Name:**  Pegleg  Peter    
+**Full Name:**  Pegleg  Peter
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A stout, good-natured fellow with a thick reddish beard and earrings in both ear
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pegleg-peter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

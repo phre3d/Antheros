@@ -1,4 +1,9 @@
-
+---
+aliases: []
+tags: []
+title: Cities, Towns, Villages
+date modified: 2026-07-16, 9:19:08 pm
+---
 
 [[organizations/namori-empire|Namori Empire]]
 
@@ -17,6 +22,7 @@
 # Fauna
 
 # Languages
+
 [[languages/dwarven-language|Dwarven Language]]
 
 # Deities & Religions
@@ -26,4 +32,3 @@
 # Ranks and Titles
 
 # Credits
-

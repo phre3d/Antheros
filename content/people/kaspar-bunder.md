@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Kaspar Bunder
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kaspar Bunder
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Kaspar has shown an excellent aptitude for magic use, and has received additiona
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kaspar-bunder]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

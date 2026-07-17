@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #citadel-guard #the-heights #npc
+---
+aliases: []
+tags: [citadel-guard, de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Clemente Panfusille
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Clemente Panfusille
 
-### 
+###
 
-**Full Name:**  Clemente  Panfusille    
+**Full Name:**  Clemente  Panfusille
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Clemente, Rutmilla de la Riis' husband, is close friends with [[person/morgan-de
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/clemente-panfusille]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

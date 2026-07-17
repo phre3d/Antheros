@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-pawnbroker #pawnbroker
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, the-south-corridor, type-pawnbroker]
+title: "Hamilton's Hockshop"
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Hamilton's Hockshop
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Pawnbroker (Shopping)** 
+**Pawnbroker (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** b1c113d0-57bf-4d78-9381-70f69a53cd6e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

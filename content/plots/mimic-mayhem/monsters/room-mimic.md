@@ -1,6 +1,12 @@
- #monster #Mimic_Mayhem
+---
+aliases: []
+tags: [plot/Mimic-Mayhem, monster]
+title: Huge Mimic
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 # Huge Mimic
+
 huge monstrosity, neutral
 
 **Armour Class:** 15 (natural armour)<br>
@@ -26,11 +32,11 @@ huge monstrosity, neutral
 
 >[!infobox]
 > ![[plots/mimic_mayhem/images/tkn.room-mimic-huge.png]]
-> 
 
 ---
 
 # Special Abilities
+
 **Immovable.** The huge mimic stick firmly to the ground and cannot be moved involuntarily.
 
 **Shapechanger.** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Equipment is not transformed. It reverts to its true form if it dies.
@@ -45,10 +51,10 @@ huge monstrosity, neutral
 
 <mark style="background:#ff4d4f">**Regeneration.** As one of their attacks, the mimic can swallow a pseudopod to instantly heal 30 hps. It regenerates a new pseudopod in 1d4 days.</mark>
 
-
 ---
 
 # Actions
+
 <mark style="background:#fff88f">**Multi-Attack.** The mimic can make 4 attacks. One with its 3 pseudopods and one with its bite.</mark>
 
 **Pseudopod.** <br>
@@ -58,13 +64,15 @@ huge monstrosity, neutral
 **Bite.** <br>
 *Melee Weapon Attack:* +9 to hit, <u>reach 5 ft.</u>, one target. <br>
 *Hit:* 9 (1d8 + 5) piercing damage plus 4 (1d8) acid damage.
-- *If the target is Small*, it must succeed on a DC 14 Dexterity saving throw or *be swallowed by the mimic*. A swallowed creature is blinded and restrained, it has total cover against  attacks and other effects outside the mimic, and it *takes 7 (2d6) acid damage at the start of each of the mimic’s turns*. 
-- *If the mimic takes 10 damage or more* on a single turn from a creature inside it, the mimic must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the mimic. 
+
+- *If the target is Small*, it must succeed on a DC 14 Dexterity saving throw or *be swallowed by the mimic*. A swallowed creature is blinded and restrained, it has total cover against  attacks and other effects outside the mimic, and it *takes 7 (2d6) acid damage at the start of each of the mimic’s turns*.
+- *If the mimic takes 10 damage or more* on a single turn from a creature inside it, the mimic must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the mimic.
 - *If the mimic dies*, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 
 ---
 
 # Description
+
 The huge Room Mimic is already in bad shape to start the encounter. It has grown too large and it’s back end has been exposed to the freezing winds outside.
 
 This lethargic state is intended to give the PCs an intimidating yet manageable first encounter with a mimic. This experience instills fear and respect for these creatures without posing an excessive threat to the party at this early stage in the adventure.
@@ -77,4 +85,3 @@ This lethargic state is intended to give the PCs an intimidating yet manageable 
 |13 to 30 | Add only the green special abilities.|
 |31 to 48 | Add the green and yellow special abilities.|
 |49 to 78 | Use all the colored special abilities |
-

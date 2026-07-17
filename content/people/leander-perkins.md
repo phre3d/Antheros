@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-heights
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, person, the-heights]
+title: Leander Perkins
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Leander Perkins
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Though his official working hours are 8:00am to 8:00pm, he frequently (60% of th
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/leander-perkins]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

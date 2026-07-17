@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #scenarios #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-labyrinth, thieves-guild]
+title: Snak-eye
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Snak-eye
 
-### 
+###
 
-**Full Name:**  Snak-eye      
+**Full Name:**  Snak-eye
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See scenario [[plots/the-stoned-maiden|The Stoned Maiden]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/snak-eye]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

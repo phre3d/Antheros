@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-docks, type-tavern]
+title: The Crystal Ship
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Crystal Ship
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## The Sailor's Den 
 
-## Description 
-The Crystal Ship is a small, smoky, dimly lit tavern at the end of a grimy alley. There is an opium den in the back room of the tavern, and three rough-looking men guard the door to persuade non-customers of the inadvisability of entering. The common room serves cheap ale and spirits, and is open around the clock. There are usually 20 to 30 seamen drinking and telling tales here. Occasionally, one even catches a whiff of the goings-on in the back room, as the fumes from the den escape. 
+## The Sailor's Den
 
-The proprietor is an immense, ham-fisted fellow known as "Tiny", capable of keeping order even among seamen. Although he is not a formal member of the Hand, he is connected with them through the opium trade, and is not foolish enough to risk everything in any plot against them. The tavern is a hotbed of rumors and information regarding ships and their captains, and some of the rumors possibly overheard by someone who spends time listening include the following 1d100: 
+## Description
+
+The Crystal Ship is a small, smoky, dimly lit tavern at the end of a grimy alley. There is an opium den in the back room of the tavern, and three rough-looking men guard the door to persuade non-customers of the inadvisability of entering. The common room serves cheap ale and spirits, and is open around the clock. There are usually 20 to 30 seamen drinking and telling tales here. Occasionally, one even catches a whiff of the goings-on in the back room, as the fumes from the den escape.
+
+The proprietor is an immense, ham-fisted fellow known as "Tiny", capable of keeping order even among seamen. Although he is not a formal member of the Hand, he is connected with them through the opium trade, and is not foolish enough to risk everything in any plot against them. The tavern is a hotbed of rumors and information regarding ships and their captains, and some of the rumors possibly overheard by someone who spends time listening include the following 1d100:
+
 - 01-25 : The financial plight of Jason and the Argos.
 - 26-40 : Jason's secret treasure map.
 - 41-60 : The reputation of Captain de Martin. A hard master, not above conscription. Needs crew.
@@ -54,7 +65,7 @@ The proprietor is an immense, ham-fisted fellow known as "Tiny", capable of keep
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  Tiny
 
@@ -66,12 +77,14 @@ The proprietor is an immense, ham-fisted fellow known as "Tiny", capable of keep
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -88,6 +101,7 @@ The proprietor is an immense, ham-fisted fellow known as "Tiny", capable of keep
 ---
 
 ### World Anvil Metadata
+
 **Id:** c621bd82-9903-4d34-a986-e176659301d9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -96,7 +110,9 @@ The proprietor is an immense, ham-fisted fellow known as "Tiny", capable of keep
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

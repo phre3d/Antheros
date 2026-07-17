@@ -1,8 +1,12 @@
 ---
-location: [3631.309,  755.102]
+aliases: []
+tags: [map-marker]
+location: [3631.309, 755.102]
 mapmarker: Service
+title: Buteo Condor - Hawk Trainer
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Buteo Condor - Hawk Trainer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/buteo-condor-hawk-trainer|Buteo Condor - Hawk Trainer]]<br>
 **Location Type:** Animal Trainer
 
-**Description**<br> 
-
+**Description**<br>

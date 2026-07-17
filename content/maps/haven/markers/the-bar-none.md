@@ -1,8 +1,12 @@
 ---
-location: [1589.472,  3118.367]
+aliases: []
+tags: [map-marker]
+location: [1589.472, 3118.367]
 mapmarker: Inns & Taverns
+title: The Bar None
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Bar None
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-bar-none|The Bar None]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

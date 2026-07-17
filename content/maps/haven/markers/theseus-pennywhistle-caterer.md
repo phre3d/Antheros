@@ -1,8 +1,12 @@
 ---
-location: [3375.187,  3294.898]
+aliases: []
+tags: [map-marker]
+location: [3294.898, 3375.187]
 mapmarker: Service
+title: Theseus Pennywhistle - Caterer
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Theseus Pennywhistle - Caterer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/theseus-pennywhistle-caterer|Theseus Pennywhistle - Caterer]]<br>
 **Location Type:** Other Services
 
-**Description**<br> 
-
+**Description**<br>

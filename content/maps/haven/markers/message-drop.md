@@ -1,8 +1,12 @@
 ---
-location: [2549.677,  3871.429]
+aliases: []
+tags: [map-marker]
+location: [2549.677, 3871.429]
 mapmarker: Landmark
+title: Message Drop
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Message Drop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/message-drop|Message Drop]]<br>
 **Location Type:** Fountain
 
-**Description**<br> 
-
+**Description**<br>

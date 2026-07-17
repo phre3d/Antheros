@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Forti
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Forti
 
-### 
+###
 
-**Full Name:**  Forti      
+**Full Name:**  Forti
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A formet wildcat prospector, Forti convinced his partner [[person/ninar-goldrush
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/forti]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2789.472,  2363.265]
+aliases: []
+tags: [map-marker]
+location: [2363.265, 2789.472]
 mapmarker: Shopping
+title: Magic Books and Scrolls
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Magic Books and Scrolls
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/magic-books-and-scrolls|Magic Books and Scrolls]]<br>
 **Location Type:** Written Word
 
-**Description**<br> 
-
+**Description**<br>

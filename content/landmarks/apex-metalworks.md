@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-metalwork #guild-of-metalsmiths #metalwork
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/metalsmiths, import, landmark, metalwork, the-dwarrow, type-metalwork]
+title: Apex Metalworks
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Apex Metalworks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## [[people/duumin|Duumin]], Prop. 
 
-## Description 
+# Description
+
+## [[people/duumin|Duumin]], Prop.
+
+## Description
+
 [[people/duumin|Duumin]], as noted in the description of the dissidents, is the most vocal of the discontent dwarven artisans, and covets the Mastership role for himself.  
 
  His works are decorative and ceremonial, not functional. He works primarily on goblets, bowls, and small statuary, and always uses gold as his medium. When working on fairly straight interpretations of basic designs, [[people/duumin|Duumin]]'s merchandise is very good, and sometimes makes a very strong impression because of his use of firm, hard lines.  
@@ -20,10 +30,12 @@ shadow: off
 
  Nonetheless, he is an impressive orator and has convinced many of his peers that these miscalculations are an intentional part of his "art". (Those wishing to give him the benefit of the doubt may choose to think of him as a Dadaist way ahead of his time).
 
-## Price Range 
+## Price Range
+
 Costly/Outrageous
 
-## Quality 
+## Quality
+
 Mediocre/Excellent
 
 # Purpose / Function
@@ -60,7 +72,7 @@ Mediocre/Excellent
 
 **Image:** n/a
 
-**Metalwork (Shopping)** 
+**Metalwork (Shopping)**
 
  **Owner:**  Duumin
 
@@ -72,12 +84,14 @@ Mediocre/Excellent
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Blacksmith / Smithy
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -94,6 +108,7 @@ Mediocre/Excellent
 ---
 
 ### World Anvil Metadata
+
 **Id:** 67e980fd-d96f-4b33-aae2-59d52c6ff20f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -102,7 +117,9 @@ Mediocre/Excellent
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

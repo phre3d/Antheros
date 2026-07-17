@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Sombur
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Sombur
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Battleaxe:**  +5 to hit , 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

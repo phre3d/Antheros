@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-drayers #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/drayers, import, npc, person, south-caravan-street]
+title: Silva Baraggio
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Silva Baraggio
 
-### 
+###
 
-**Full Name:**  Silva  Baraggio    
+**Full Name:**  Silva  Baraggio
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ If a young woman of 15+ APP applies as a passenger for a caravan trip, there is 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/silva-baraggio]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

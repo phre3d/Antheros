@@ -1,4 +1,10 @@
-#import #organization   #Free_City_of_Haven #type-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-family]
+title: Conindir Family
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Conindir Family
 
 The Conindir are relatively new to Haven, having resided in the city for only 40 years. The family numbers seven, the patriarch (an outstanding architect), [[people/teleril-conindir|Teleril]], his wife [[people/khelekien-conindir|Khelekien Conindir]],  two sons [[people/mirthule-conindir|Mirthule Conindir]] and [[people/celeblinde-conindir|Celeblinde Conindir]], and three young daughters, [[people/tehtaavilya-conindir|Tehtaavilya Conindir]], [[people/tariluine-conindir|Tariluine Conindir]], and [[people/finsilivren-conindir|Finsilivren Conindir]]. Other than [[people/teleril-conindir|Teleril]], the family is without exceptional note.
@@ -10,10 +16,10 @@ The Conindir are relatively new to Haven, having resided in the city for only 40
 
 **Family Leader:**  [[people/teleril-conindir|Teleril Conindir]]
 
-**Members** 
+**Members**
+
 ```dataview
 LIST
 FROM #conindir-family
 SORT file.name
 ```
-

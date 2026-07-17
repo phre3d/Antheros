@@ -1,21 +1,30 @@
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, plot]
+title: Mine Your Own Business
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 ![[plots/mine-your-own-business/images/myob-page-header.jpg]]
 
-#import #plot  #Mine_Your_Own_Business
 # Mine Your Own Business
 
-# Foreword 
-What follows is taked from the Mine Your Own Business module from Robert Musci-Kurinyecz and Gergely Sepsi (full credits below). It has been changed to fit the world and campaign. 
+# Foreword
+
+What follows is taked from the Mine Your Own Business module from Robert Musci-Kurinyecz and Gergely Sepsi (full credits below). It has been changed to fit the world and campaign.
 
 # About this module  
+
 This module can be told as a standalone adventure or can be inserted in any campaign with a mediaeval style, high magic setting.
 
-> [!read-aloud] **Read Aloud** 
+> [!read-aloud] **Read Aloud**
  >  
  > Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text.
 
 You can play this adventure with just the Dungeons & Dragons basic rules found in the System Reference Document (SRD), which contains some of the monsters and NPCs making their appearance in this module. When the name of a creature is in bold, then its stat block will be in the SRD or in appendix A if the text tells you so. Spells and items are in italic, and are also described in the SRD or in appendix B respectively if noted.
 
 # Background Timeline  
+
 The following events lead up to the current time when the party arrives.
 
 - [[people/theresia-terion|Theresia Terion]], wife of mayor [[people/gingar-terion|Gingar Terion]], wanted to climb the social ladder and warned her hubby that she'd leave him if he didn't sort out their money issues.
@@ -28,7 +37,6 @@ The following events lead up to the current time when the party arrives.
 - The party arrives in town and desperate local miners scrape together their last coins to plead with the party to rid the mine of the scary monster. The miners are eager to resume digging for gold and reclaim their fortunes.
 - As the party accepts the task, the mayor intervenes, refusing to hand over the key to the mine. Fearful of the possible escape of the lurking monster, the mayor insists on keeping the mine sealed.
 
-
 >[!infobox]
 ><br><br><br>
 >![[plots/mine-your-own-business/images/myob-cover-page.jpg]]
@@ -36,12 +44,12 @@ The following events lead up to the current time when the party arrives.
 >---
 >
 >![[plots/mine-your-own-business/table-of-contents]]
->
 
 ---
 
-# Credits 
-<center> **Created by** 
+# Credits
+
+<center> **Created by**
 
 Robert Mucsi-Kurinyecz
 

@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Dark_Nuns_Church
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -39,54 +44,28 @@ Medium Undead Any evil
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-**Incorporeal Movement**  The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5  force damage if it ends its turn inside an object.
 
+**Incorporeal Movement**  The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5  force damage if it ends its turn inside an object.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Withering Touch 
-  **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target. 
+
+### Withering Touch
+
+  **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
+
   **Hit:**  17 ) necrotic damage.  
-### Possession 
+
+### Possession
+
  The Ghost can also possess a single person in their mind. The victim must make a <u>DC13 Wisdom saving throw</u> or become Frightened for one minute. On an <u>unsuccessful saving throw, the Ghost must roll an Intimidation Check</u> . If the value exceeds 18, the target takes  psychic damage.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 A visage of a Dark Nun reveals itself floating in the air as a ghost.
-
-
-
-
-
-
-

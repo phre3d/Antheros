@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Luminous Caverns
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Luminous Caverns
 
 ````col
@@ -118,7 +124,6 @@ On initiative count 20 (losing initiative ties), the Pendulum Horror can take a 
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

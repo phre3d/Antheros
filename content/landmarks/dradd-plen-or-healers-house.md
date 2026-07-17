@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-medical 
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, the-labyrinth, type-medical]
+title: "Dradd Plen-or - Healer's House"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Dradd Plen-or - Healer's House
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/dradd-plen-or|Dradd Plen-or]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Medical (Medical)** 
+**Medical (Medical)**
 
  **Owner:**  
 
@@ -58,12 +68,13 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Hospital
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3f2967dc-47ac-40d5-be97-ae1d4c460a27<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

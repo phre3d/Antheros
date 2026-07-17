@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-labyrinth]
+title: "Marco d 'Emil"
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Marco d 'Emil
 
-### 
+###
 
-**Full Name:**  Marco  d 'Emil    
+**Full Name:**  Marco  d 'Emil
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The proprietor of [[landmark/the-green-gryphon|The Green Gryphon]] is [[person/m
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marco-d-emil]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Passer-by 4
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Passer-by 4
 
-### 
+###
 
-**Full Name:**  Passer-by  Four    
+**Full Name:**  Passer-by  Four
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Passer-by 4
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/passer-by-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

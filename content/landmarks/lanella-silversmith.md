@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-silversmith #jewelers-guild #silversmith
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jewelers-guild, landmark, silversmith, the-dwarrow, type-silversmith]
+title: Lanella - Silversmith
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Lanella - Silversmith
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Silversmith (Shopping)** 
+**Silversmith (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8e7dad06-9aff-4b8b-82ac-191594216169<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

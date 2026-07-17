@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #council-of-boroughs #the-heights #npc
+---
+aliases: []
+tags: [council-of-boroughs, de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Harz de la Riis
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Harz de la Riis
 
-### 
+###
 
-**Full Name:**  Harz  de la Riis    
+**Full Name:**  Harz  de la Riis
 
 `````col
 ````col-md
@@ -215,13 +221,12 @@ Harz is one of the 24 members of the Council of Boroughs, and spends about 50% o
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/harz-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

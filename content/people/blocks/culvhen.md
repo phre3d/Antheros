@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Culvhen
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Culvhen
 
 ````col
@@ -37,39 +43,13 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +4 to hit , 1d4+2 piercing damage  
   **Longsword:**  +4 to hit , 1d8+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

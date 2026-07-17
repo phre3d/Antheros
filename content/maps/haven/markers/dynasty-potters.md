@@ -1,8 +1,12 @@
 ---
-location: [2256.819,  6922.449]
+aliases: []
+tags: [map-marker]
+location: [2256.819, 6922.449]
 mapmarker: Shopping
+title: Dynasty Potters
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Dynasty Potters
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/dynasty-potters|Dynasty Potters]]<br>
 **Location Type:** Potter
 
-**Description**<br> 
-
+**Description**<br>

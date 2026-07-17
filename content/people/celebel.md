@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, guild/hearth, import, npc, person]
+title: Celebel
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Celebel
 
-### 
+###
 
-**Full Name:**  Celebel      
+**Full Name:**  Celebel
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Celebel, so called because he has silvery hair and eyes as white as stars, runs 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/celebel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

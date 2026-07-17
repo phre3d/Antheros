@@ -1,8 +1,12 @@
 ---
-location: [1992.534,  6105.102]
+aliases: []
+tags: [map-marker]
+location: [1992.534, 6105.102]
 mapmarker: Service
+title: "Voelkher's Sea Transport"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Voelkher's Sea Transport
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/voelkhers-sea-transport|Voelkher's Sea Transport]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

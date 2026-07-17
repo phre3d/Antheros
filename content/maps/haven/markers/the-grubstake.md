@@ -1,8 +1,12 @@
 ---
-location: [3923.146,  481.633]
+aliases: []
+tags: [map-marker]
+location: [3923.146, 481.633]
 mapmarker: Shopping
+title: The Grubstake
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Grubstake
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-grubstake|The Grubstake]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

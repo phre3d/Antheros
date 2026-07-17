@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Dining
+title: "Laudie Daly's Cooked Food"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Laudie Daly's Cooked Food
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/laudie-dalys-cooked-food|Laudie Daly's Cooked Food]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Gudyumar
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gudyumar
 
-### 
+###
 
-**Full Name:**  Gudyumar      
+**Full Name:**  Gudyumar
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Jingle Bells
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gudyumar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

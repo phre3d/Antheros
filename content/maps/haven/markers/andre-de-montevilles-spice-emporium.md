@@ -1,8 +1,12 @@
 ---
-location: [2162.942,  6620.408]
+aliases: []
+tags: [map-marker]
+location: [2162.942, 6620.408]
 mapmarker: Shopping
+title: "Andre de Monteville's Spice Emporium"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Andre de Monteville's Spice Emporium
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/andre-de-montevilles-spice-emporium|Andre de Monteville's Spice Emporium]]<br>
 **Location Type:** Spices
 
-**Description**<br> 
-
+**Description**<br>

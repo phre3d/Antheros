@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Drungo Boxworth
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Drungo Boxworth
 
-### 
+###
 
-**Full Name:**  Drungo  Boxworth    
+**Full Name:**  Drungo  Boxworth
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to scenario [[plots/the-pipe-weed-connection|The Pipe Weed Connection]]. O
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/drungo-boxworth]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

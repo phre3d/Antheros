@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Rodney of Shaftesbury
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rodney of Shaftesbury
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Rodney is an avid gambler (at cards, dice, or billiards), and Falstaff is likely
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rodney]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

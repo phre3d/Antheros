@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-jeweler #jewelers-guild #jeweler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jeweler, jewelers-guild, landmark, the-south-docks, type-jeweler]
+title: Honest Boris - Fine Jewellery
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Honest Boris - Fine Jewellery
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Quality silver and gems 
 
-## Description 
+# Description
+
+## Quality silver and gems
+
+## Description
+
 Boris and his wife Moon make and sell jewelry, mostly silver and gems. Because of the value of stock on hand, the premises are guarded by at least two burley guards armed with longsrowds and battleaxes
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Boris and his wife Moon make and sell jewelry, mostly silver and gems. Because o
 
 **Image:** n/a
 
-**Jeweler (Shopping)** 
+**Jeweler (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Boris and his wife Moon make and sell jewelry, mostly silver and gems. Because o
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Jeweler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Boris and his wife Moon make and sell jewelry, mostly silver and gems. Because o
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7b0e93a7-6819-45ed-9a27-dc4d06c7f2bc<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ Boris and his wife Moon make and sell jewelry, mostly silver and gems. Because o
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

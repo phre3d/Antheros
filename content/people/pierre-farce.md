@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-artisan #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/artisan, import, npc, person, the-heights]
+title: Pierre Farce
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pierre Farce
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Pierre is a man of very small stature, elaborately perfumed and always dressed i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pierre-farce]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

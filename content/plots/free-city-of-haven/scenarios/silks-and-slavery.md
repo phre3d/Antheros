@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Silks and Slavery
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Silks and Slavery
 
 ````col
@@ -45,7 +51,6 @@ Any human players who venture into [[landmark/fine-silks-and-fabrics|Fine Silks 
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

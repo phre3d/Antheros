@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-street-of-harps]
+title: "Bartholomew d'Larette"
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bartholomew d'Larette
 
-### 
+###
 
-**Full Name:**  Bartholomew  d'Larette    
+**Full Name:**  Bartholomew  d'Larette
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A short, round little man, with thick grey hair and a moustache; he wears a tast
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bartholomew-dlarette]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

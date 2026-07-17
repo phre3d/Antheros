@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-labyrinth, type-house]
+title: House of Fagin Childstealer
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # House of Fagin Childstealer
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Dealer in child labor 
 
-## Description 
+# Description
+
+## Dealer in child labor
+
+## Description
+
 Fagin, a wiry old half-elf with wild eyes, and a dozen others, have set up a thriving business in child labor, capturing "street rats" in the twisting alleyways and dark corners of [[settlements/the-labyrinth|The Labyrinth]]. The ragged children, along with the occasional careless tiefling, are starved and beaten into submission, and sold for slave (indenture) labor in the workhouses of [[settlements/the-labyrinth|The Labyrinth]] or [[settlements/the-commons|The Commons]]. Fagin and company live in the two-story wooden house, and their "merchandise" is kept in small cages in the cellar below until ready for sale. There are 3d6 children and 1d4-1 tieflings imprisoned there.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Fagin, a wiry old half-elf with wild eyes, and a dozen others, have set up a thr
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  Fagin Childstealer
 
@@ -60,12 +70,13 @@ Fagin, a wiry old half-elf with wild eyes, and a dozen others, have set up a thr
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Fagin, a wiry old half-elf with wild eyes, and a dozen others, have set up a thr
 ---
 
 ### World Anvil Metadata
+
 **Id:** b4dd6163-6fc3-4878-ae1d-b4f05f03666c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Fagin, a wiry old half-elf with wild eyes, and a dozen others, have set up a thr
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

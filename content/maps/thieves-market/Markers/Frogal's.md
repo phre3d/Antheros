@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: "Frogal's"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Frogal's
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/frogals|Frogal's]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

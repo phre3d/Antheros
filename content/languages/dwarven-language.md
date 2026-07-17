@@ -1,14 +1,23 @@
-#import #language#Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, language]
+title: Dwarven Language
+date modified: 2026-07-16, 9:40:01 pm
+---
+
 # Dwarven Language
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Unlike many of the other races, who prefer to keep their cultural heritage secret from outsiders, the dwarven ego is great enough so that they are very pleased when non-dwarves conduct their dealings in the dwarven tongue. Thus, to promote greater interracial harmony, we are pleased to offer the following brief glossary of common dwarven words.
 
 # Writing System
@@ -91,6 +100,7 @@ Unlike many of the other races, who prefer to keep their cultural heritage secre
 ---
 
 ### World Anvil Metadata
+
 **Id:** 42256458-13cf-4a77-aa71-bda19f673522<br>
 **Entity Type:** Article / language<br>
 **Category:** Languages<br>
@@ -99,7 +109,9 @@ Unlike many of the other races, who prefer to keep their cultural heritage secre
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

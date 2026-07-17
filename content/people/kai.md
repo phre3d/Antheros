@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Kai
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kai
 
-### 
+###
 
-**Full Name:** Mother Kai      
+**Full Name:** Mother Kai
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ The former Abbess is now retired and spends much of her time on [[landmark/danci
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kai]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

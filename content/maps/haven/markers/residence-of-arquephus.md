@@ -1,8 +1,12 @@
 ---
-location: [1233.35,  4857.143]
+aliases: []
+tags: [map-marker]
+location: [1233.35, 4857.143]
 mapmarker: Residence
+title: Residence of Arquephus
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Residence of Arquephus
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/residence-of-arquephus|Residence of Arquephus]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

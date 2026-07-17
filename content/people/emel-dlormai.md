@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: "Emel d'Lormai"
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Emel d'Lormai
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A tall, lean man with silver hair, handsome, rugged features and the slightly sl
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/emel-dlormai]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

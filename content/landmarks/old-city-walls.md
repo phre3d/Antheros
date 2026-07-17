@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-landmark #type-ruin #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-south-corridor, type-ruin]
+title: Old City Walls
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Old City Walls
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Just some crumbled wall remains 
 
-## Description 
+# Description
+
+## Just some crumbled wall remains
+
+## Description
+
 The remains of the city walls from over a century ago can still be found circling the inner parts of the city. For the most part they are crumbling or now form walls for newer buildings.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The remains of the city walls from over a century ago can still be found circlin
 
 **Image:** n/a
 
-**Ruin (Landmark)** 
+**Ruin (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The remains of the city walls from over a century ago can still be found circlin
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Ruins
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The remains of the city walls from over a century ago can still be found circlin
 ---
 
 ### World Anvil Metadata
+
 **Id:** 6b42a14c-4c51-480a-b5cb-e1fee5731907<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ The remains of the city walls from over a century ago can still be found circlin
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

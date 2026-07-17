@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor]
+title: Raphael Swiftrider
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Raphael Swiftrider
 
-### 
+###
 
-**Full Name:**  Raphael  Swiftrider    
+**Full Name:**  Raphael  Swiftrider
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A small wiry man, whose hair is thinning, his eyes are creased but still bright,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/raphael-swiftrider]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

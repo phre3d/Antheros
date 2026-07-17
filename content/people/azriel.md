@@ -1,9 +1,15 @@
-#import #person #deity
+---
+aliases: []
+tags: [deity, import, person]
+title: Azriel
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Azriel
 
-### 
+###
 
-**Full Name:** Goddess of Disease and Suffering; Mistress of Pain       
+**Full Name:** Goddess of Disease and Suffering; Mistress of Pain
 
 `````col
 ````col-md
@@ -202,13 +208,10 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: da6b1939-060c-4f36-8da6-8d4be3b07cf0

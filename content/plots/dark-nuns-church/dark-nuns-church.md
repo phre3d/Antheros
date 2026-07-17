@@ -1,5 +1,12 @@
-#import #plot  #Dark_Nuns_Church 
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, plot]
+title: "Dark Nun's Church"
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 ![[plots/dark-nuns-church/images/the-dark-nuns-church-header.jpg]]
+
 # Dark Nun's Church
 
 ````col
@@ -52,21 +59,25 @@ People from Kilwich have been taken against their will to the church. The innkee
 
 ```
 ````
+
 ![[~attachments/dndline.png]]
 
-# Credits 
+# Credits
+
  **Author:**  MAD Games (aka, Matthew David)
 
- **Cover Art and Illustrations:**  Shutterstock, Midjourney 
+ **Cover Art and Illustrations:**  Shutterstock, Midjourney
 
- **Ambient Music:**  Cryochamber - Phantoms Received 
+ **Ambient Music:**  Cryochamber - Phantoms Received
 
  **Editor:**  Mike Paulick
 
-### Special Thanks 
+### Special Thanks
+
 To my wife and to my two adventurers in arms, Jake and Dom.
 
 I would also like to send out a special thanks to Steve, the Laidback Dungeon Master, who has been a rock star providing advice
+
 for the project. If you get a chance, check out his projects: https://www.kickstarter.com/profile/laidbackdm/created
 
 ![[~attachments/dndline.png]]

@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-carpenter #crafters-guild #carpenter
+---
+aliases: []
+tags: [carpenter, cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, the-south-corridor, type-carpenter]
+title: "Dortmund's Furniture Compound"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Dortmund's Furniture Compound
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Furniture for finishing your furneshment 
 
-## Description 
+# Description
+
+## Furniture for finishing your furneshment
+
+## Description
+
 All kinds of wood is dried and then crafted into furniture for all budgets. Dortmund has 20 employees working at various stages of production from cutting and planing to finishing
 
 # Purpose / Function
@@ -48,7 +58,7 @@ All kinds of wood is dried and then crafted into furniture for all budgets. Dort
 
 **Image:** n/a
 
-**Carpenter (Shopping)** 
+**Carpenter (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ All kinds of wood is dried and then crafted into furniture for all budgets. Dort
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ All kinds of wood is dried and then crafted into furniture for all budgets. Dort
 ---
 
 ### World Anvil Metadata
+
 **Id:** cfd0101d-1a30-4386-af02-c3027bde365b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ All kinds of wood is dried and then crafted into furniture for all budgets. Dort
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

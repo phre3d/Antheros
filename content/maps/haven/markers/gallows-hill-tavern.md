@@ -1,8 +1,12 @@
 ---
-location: [1276.207,  2427.551]
+aliases: []
+tags: [map-marker]
+location: [1276.207, 2427.551]
 mapmarker: Inns & Taverns
+title: Gallows Hill Tavern
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Gallows Hill Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/gallows-hill-tavern|Gallows Hill Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

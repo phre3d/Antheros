@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the_south_corridor #locncat-entertainment #locntype-tavern #guild-of-the-hearth 
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, landmark, locncat-entertainment, locntype-tavern, the_south_corridor]
+title: The Prancing Pony
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Prancing Pony
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Too good a deal to say "neigh" 
 
-## Description 
+# Description
+
+## Too good a deal to say "neigh"
+
+## Description
+
 This inn is located on Caravan Street near The The South Corridor. It is a reasonable place to stay for a reasonable price, and attracts many of the travelers along the Long Road as clients. The inn is owned by Guthrie Harlowe, a retired bard. He allows many of the striving hopefuls from The South Corridor to try out in the evenings, as performers in the common room. It is basically a quiet inn with little happening, unless one likes to listen to novice bards.
 
-## Price Range 
+## Price Range
+
 High.
 
-## Quality 
+## Quality
+
 Excellent.
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Excellent.
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  Guthrie Harlowe
 
@@ -66,12 +78,14 @@ Excellent.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Excellent.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 34c05574-14a6-4503-ae53-9a1222445e18<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -96,7 +111,9 @@ Excellent.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

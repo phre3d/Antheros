@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -83,4 +88,3 @@ Looking past the web, it looks like the ogres were moving rubble to clear a path
 Arada goesp to the stairs, but it looks like they are blocked. Maybe if we had some miners we could get through, but where are we going to find a bunch of dwarven miners?
 
 ---
-

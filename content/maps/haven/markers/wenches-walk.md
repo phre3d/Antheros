@@ -1,8 +1,12 @@
 ---
-location: [1996.615,  4058.163]
+aliases: []
+tags: [map-marker]
+location: [1996.615, 4058.163]
 mapmarker: Entertainment
+title: "Wenches' Walk"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Wenches' Walk
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/wenches-walk|Wenches' Walk]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

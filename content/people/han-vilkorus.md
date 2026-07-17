@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Han Vilkorus
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Han Vilkorus
 
-### 
+###
 
-**Full Name:**  Han  Vilkorus    
+**Full Name:**  Han  Vilkorus
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Dark-haired, clean shaven, and very well-muscled, Han is the heartthrob of half 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/han-vilkorus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

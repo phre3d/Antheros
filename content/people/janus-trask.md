@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Janus Trask
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Janus Trask
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Janus is the daughter of Pietro Domenici, a local ship's captain and explorer of
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/janus-trask]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

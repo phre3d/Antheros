@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Calder the Whip
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Calder the Whip
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Whip +2:**  8 to hit , 1d4+5 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

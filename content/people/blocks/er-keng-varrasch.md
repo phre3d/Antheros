@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: er-Keng Varrasch
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # er-Keng Varrasch
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +2 to hit , 1d4-1 piercing damage  
   **Dagger, thrown:**  +2 to hit , 1d4-1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

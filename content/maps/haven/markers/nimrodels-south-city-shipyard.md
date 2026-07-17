@@ -1,8 +1,12 @@
 ---
-location: [2270.085,  6065.306]
+aliases: []
+tags: [map-marker]
+location: [2270.085, 6065.306]
 mapmarker: Shopping
+title: "Nimrodel's South City Shipyard"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Nimrodel's South City Shipyard
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/nimrodels-south-city-shipyard|Nimrodel's South City Shipyard]]<br>
 **Location Type:** Nautical Supplies
 
-**Description**<br> 
-
+**Description**<br>

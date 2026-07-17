@@ -1,8 +1,12 @@
 ---
-location: [2403.758,  1281.633]
+aliases: []
+tags: [map-marker]
+location: [1281.633, 2403.758]
 mapmarker: Service
+title: Stage Depot - Fargot & Weishe
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Stage Depot - Fargot & Weishe
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/stage-depot-fargot-weishe|Stage Depot - Fargot & Weishe]]<br>
 **Location Type:** Stagecoach
 
-**Description**<br> 
-
+**Description**<br>

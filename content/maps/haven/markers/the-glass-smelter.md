@@ -1,8 +1,12 @@
 ---
-location: [2868.044,  4478.571]
+aliases: []
+tags: [map-marker]
+location: [2868.044, 4478.571]
 mapmarker: Shopping
+title: The Glass Smelter
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Glass Smelter
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-glass-smelter|The Glass Smelter]]<br>
 **Location Type:** Glass
 
-**Description**<br> 
-
+**Description**<br>

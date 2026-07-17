@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Goliath Race
+date modified: 2026-07-16, 9:38:54 pm
+---
+
 # Goliath Race
 
 ````col
@@ -127,7 +133,8 @@ Goliaths present all three names when identifying themselves, in the order of bi
 
 ---
 
---- start-multi-column: PreviousNext
+---start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

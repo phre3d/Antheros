@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #conindir-family #erinhir #npc
+---
+aliases: []
+tags: [conindir-family, erinhir, Free_City_of_Haven, import, npc, person]
+title: Khelekien Conindir
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Khelekien Conindir
 
-### 
+###
 
-**Full Name:**  Khelekien  Conindir    
+**Full Name:**  Khelekien  Conindir
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Khelekien is married to [[person/teleril-conindir|Teleril Conindir]] and they ha
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/khelekien-conindir]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

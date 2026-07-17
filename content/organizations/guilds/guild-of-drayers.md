@@ -1,232 +1,46 @@
-#import #organization   #Free_City_of_Haven #type-guild-professional
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/professional, import, organization]
+title: Guild of Drayers
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Guild of Drayers
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-# Description
+>[!info]
+>**Type:** Guild, Professional<br>
+>**Alternate Names:** <br>
+>**Leader:** <br>
+>**Leader Title:** [[ranks/guild-grandmaster|Grandmaster]] <br><br>
+>**Founding Date:** <br>
+>**Motto/Slogan**: <br>
+>**Demonym:** <br>
+>**Related Races:**  <br>
+>**Related Ethnicities:**
+
 As the name suggests, this guild's scope includes anything to do with freight and transportation. This includes horse trainers and sellers, the wagon makers and wheelwrights. They meet at the [[landmarks/guildhall-of-drayers|Guildhall of Drayers]].
 
 It is considered one of the five "great guilds", because it is led by [[people/heidel-varrasch|Heidel Varrasch]], who heads one of the wealthiest families in Haven. These guilds control much of what happens in Haven.
 
-## Associated People & Places 
-
-[tagged:guild-of-drayers-person|list|none]
-
-[tagged:guild-of-drayers-location|list|none]
-
----
-
-# Common Information
-## Basics
-**Type:** Guild, Professional<br>
-**Alternate Names:** <br>
-**Motto/Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:** 
-
-**Founders** 
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-**Leader:** [[person/heidel-varrasch|Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:** 
-
-**Founders** 
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-**Leader:** [[people/Heidel Varrasch]]<br>
-**Leader Title:** <br>
-**Ruling Organization:** <br>
-**Family Leader:** 
-
-## Structure
-
-## Culture
-
-## Public Agenda
-
-## Assets
-
-## History
-
-## Disbandment
-
----
-
-# Geopolitical Organizations
-
-**Capital:** <br>
-**Power Structure System:** <br>
-**Government System:** <br>
-**Head of State:** <br>
-**Head of Government:** <br>
-**Economic System:** <br>
-**Official State Religion:** 
-
-**Neighboring Geopolitical Organizations**
-
-**Recognized/Official Languages**
-
-## Gazetteer
-
-## Currency
-
-## Legislative Body
-
-## Judicial Body
-
-## Executive Body
-
-## Demography & Population
-
-## Foreign Relations
-
-## Laws
-
-## Territory
-
-## Military
-
-## Religion
-
-## Agriculture & Industry
-
-## Trade & Transport
-
-## Exports
-
-## Imports
-
-## Education
-
-## Infrastructure
-
-## Technological & Scientific Level
-
-![[DnDLine.png|Official Languages**
-
-## Gazetteer
-
-## Currency
-
-## Legislative Body
-
-## Judicial Body
-
-## Executive Body
-
-## Demography & Population
-
-## Foreign Relations
-
-## Laws
-
-## Territory
-
-## Military
-
-## Religion
-
-## Agriculture & Industry
-
-## Trade & Transport
-
-## Exports
-
-## Imports
-
-## Education
-
-## Infrastructure
-
-## Technological & Scientific Level
-
----
-
-# Religious Organizations
-
-**Deities**
-
-# Mythology
-
-# Origins
-
-# Cosmology
-
-# Tenets of Faith
-
-# Priesthood
-
-# Ethics
-
-# Granted Divine Powers
-
-# Political Intrigue & Influence
-
-# Worship
-
-# Sects
-
----
-
-# Military Organizations
-
-**Formation Type:**  
-
-**Training Level:** 
-
-**Veterancy:** 
-
---- end-column ---
-
-**Image:** 
-
-### World Anvil Metadata
-**Id:** 7ac8ed14-b4e5-47a3-aa32-0809bceee171<br>
-**Entity Type:** Article / organization<br>
-**Category:** Guilds of Haven<br>
-**Tags:** fcoh,type-guild-professional
-
---- end-multi-column
-
----
---- start-multi-column: PreviousNext
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
+## Associated People
+
+```dataview
+LIST title
+FROM ""
+WHERE contains(tags, "guild-of-drayers") and contains(tags, "person")
 ```
 
---- end-column ---
+## Associated Places
 
---- end-multi-column
+```dataview
+LIST title
+FROM ""
+WHERE contains(tags, "guild-of-drayers") and contains(tags, "landmark")
+```
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

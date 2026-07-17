@@ -1,8 +1,12 @@
 ---
-location: [1516.003,  2417.347]
+aliases: []
+tags: [map-marker]
+location: [1516.003, 2417.347]
 mapmarker: Shopping
+title: "Bendelhoff's Supplies"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bendelhoff's Supplies
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/bendelhoffs-supplies|Bendelhoff's Supplies]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

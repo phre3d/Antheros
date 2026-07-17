@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Service
+title: "Fernando 'Fig' Garo - Barbering Service"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Fernando 'Fig' Garo - Barbering Service
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/fernando-fig-garo-barbering-service|Fernando 'Fig' Garo - Barbering Service]]<br>
 **Location Type:** Barber
 
-**Description**<br> 
-
+**Description**<br>

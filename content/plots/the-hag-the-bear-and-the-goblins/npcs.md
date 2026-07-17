@@ -1,4 +1,10 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: NPCs
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # NPCs
 
 ````col
@@ -38,7 +44,6 @@ Standing at around 5 feet 5 inches tall, Lanita has darkish skin and long black 
 ![[~attachments/dndline.png]]
 ```
 ````
-
 
 ---
 

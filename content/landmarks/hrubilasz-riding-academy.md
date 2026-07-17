@@ -1,18 +1,28 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-education #type-training #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-horse-market, type-training]
+title: Hrubilasz Riding Academy
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Hrubilasz Riding Academy
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Both steed and rider taught 
 
-## Description 
-[[people/bandolero-hrubilasz|Bandolero Hrubilasz]] is an adequate trainer of horses and riders. What makes his academy worth its fees is his facility for selecting good men, then standing back and letting them work. Classes for horse and rider (in most cases, the two are trained together) are conducted on a daily basis over a period of six months. Some horses are trained to saddle by the men at the school, and these are usually sold at the auction when training is completed. 
+# Description
+
+## Both steed and rider taught
+
+## Description
+
+[[people/bandolero-hrubilasz|Bandolero Hrubilasz]] is an adequate trainer of horses and riders. What makes his academy worth its fees is his facility for selecting good men, then standing back and letting them work. Classes for horse and rider (in most cases, the two are trained together) are conducted on a daily basis over a period of six months. Some horses are trained to saddle by the men at the school, and these are usually sold at the auction when training is completed.
 
 Costs for courses at the school begin at 150gp a month, including boarding for the horse. The more complicated the course, the higher the price. Most men are satisfied with their steeds at the end of a course at Hrubilasz' school.
 
@@ -50,7 +60,7 @@ Costs for courses at the school begin at 150gp a month, including boarding for t
 
 **Image:** n/a
 
-**Training (Service)** 
+**Training (Service)**
 
  **Owner:**  Bandolero Hrubilasz
 
@@ -62,12 +72,14 @@ Costs for courses at the school begin at 150gp a month, including boarding for t
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Stables
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -84,6 +96,7 @@ Costs for courses at the school begin at 150gp a month, including boarding for t
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8c42ffef-d6f8-4d87-a38e-d5cf23d84222<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -92,7 +105,9 @@ Costs for courses at the school begin at 150gp a month, including boarding for t
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

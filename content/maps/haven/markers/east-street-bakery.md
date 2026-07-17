@@ -1,8 +1,12 @@
 ---
-location: [4026.207,  1661.224]
+aliases: []
+tags: [map-marker]
+location: [1661.224, 4026.207]
 mapmarker: Shopping
+title: East Street Bakery
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # East Street Bakery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/east-street-bakery|East Street Bakery]]<br>
 **Location Type:** Baker
 
-**Description**<br> 
-
+**Description**<br>

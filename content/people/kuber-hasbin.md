@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Kuber Hasbin
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kuber Hasbin
 
-### 
+###
 
-**Full Name:**  Kuber  Hasbin    
+**Full Name:**  Kuber  Hasbin
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Kuber lives and works in the deepest wilds of [[settlement/the-labyrinth|The Lab
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kuber-hasbin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

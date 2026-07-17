@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ariostas-guild #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [ariostos-guild, Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Corwin Ariosto
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Corwin Ariosto
 
-### 
+###
 
-**Full Name:**  Corwin  Ariosto    
+**Full Name:**  Corwin  Ariosto
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Corwin is master of one of [[organization/the-black-hand|The Black Hand]]'s two 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/corwin-ariosto]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

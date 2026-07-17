@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #scholars-triangle #cat-government #type-government #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, scholars-triangle, type-government]
+title: The Library
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Library
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Government (Government)** 
+**Government (Government)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Library
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/scholars-triangle|Scholar's Triangle]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 1fad35ca-bd59-446d-865d-6f5201603543<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Believer's Lane<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

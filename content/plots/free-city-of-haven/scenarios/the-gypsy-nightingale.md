@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Gypsy Nightingale
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Gypsy Nightingale
 
 ````col
@@ -44,7 +50,6 @@ Whether [[person/dzarina|Dzarina]] accepts the invitation of the Entertainer's G
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

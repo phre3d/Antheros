@@ -1,8 +1,12 @@
 ---
-location: [6269.064,  2367.347]
+aliases: []
+tags: [map-marker]
+location: [2367.347, 6269.064]
 mapmarker: Shopping
+title: Elsi Klukoo - Watchmaker
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Elsi Klukoo - Watchmaker
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/elsi-klukoo-watchmaker|Elsi Klukoo - Watchmaker]]<br>
 **Location Type:** Timepieces
 
-**Description**<br> 
-
+**Description**<br>

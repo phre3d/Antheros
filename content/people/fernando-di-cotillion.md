@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Fernando di Cotillion
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Fernando di Cotillion
 
-### 
+###
 
-**Full Name:** Duke Fernando  di Cotillion    
+**Full Name:** Duke Fernando  di Cotillion
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Duke
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fernando-di-cotillion]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

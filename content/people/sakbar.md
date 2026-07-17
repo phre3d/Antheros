@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-erectors #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/erectors, import, npc, person, the-dwarrow]
+title: Sakbar
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sakbar
 
-### 
+###
 
-**Full Name:**  Sakbar      
+**Full Name:**  Sakbar
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ He himself a reasonably competent stone mason, and with three other assistants w
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sakbar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #player-character
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, player-character]
+title: Turin Windrider
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Turin Windrider
 
-### 
+###
 
-**Full Name:**  Turin  Windrider    
+**Full Name:**  Turin  Windrider
 
 `````col
 ````col-md
@@ -191,13 +197,10 @@ Pray at the Temple of Nenya
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Alleybasher 3
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alleybasher 3
 
-### 
+###
 
-**Full Name:**  Alleybasher  Three    
+**Full Name:**  Alleybasher  Three
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Bang-up Gang-up
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alleybasher-3]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

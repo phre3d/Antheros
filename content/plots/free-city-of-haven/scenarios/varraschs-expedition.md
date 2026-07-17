@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Varrasch’s Expedition
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # Varrasch’s Expedition
 
 ````col
@@ -45,7 +51,6 @@ Half of any profits from the sale of the horses after the group's return to Have
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

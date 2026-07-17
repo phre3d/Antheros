@@ -1,8 +1,12 @@
 ---
-location: [943.554,  4744.898]
+aliases: []
+tags: [map-marker]
+location: [4744.898, 943.554]
 mapmarker: Residence
+title: The House of Mordecai - Healer
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The House of Mordecai - Healer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/the-house-of-mordecai-healer|The House of Mordecai - Healer]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

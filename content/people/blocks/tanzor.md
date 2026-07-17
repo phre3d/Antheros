@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Tanzor
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Tanzor
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Unarmed strike:**  +7 to hit , 1d1+4 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, npc, person]
+title: Enver
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Enver
 
-### 
+###
 
-**Full Name:**  Enver  the Unbackable    
+**Full Name:**  Enver  the Unbackable
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ See also scenario [[plots/varraschs-expedition|Varrasch's Expedition]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/enver]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

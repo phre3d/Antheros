@@ -1,9 +1,15 @@
-#import #person #npc #the-north-corridor
+---
+aliases: []
+tags: [import, npc, person, the-north-corridor]
+title: Agatha Ravenwood
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Agatha Ravenwood
 
-### 
+###
 
-**Full Name:**  Agatha  Ravenwood    
+**Full Name:**  Agatha  Ravenwood
 
 `````col
 ````col-md
@@ -197,13 +203,10 @@ The Ravenwood family is well of but not quite ready to join the true upper class
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

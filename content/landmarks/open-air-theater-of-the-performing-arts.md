@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-theatre #guild-of-entertainers #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/entertainers, import, landmark, the-south-corridor, type-theatre]
+title: Open Air Theater of the Performing Arts
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Open Air Theater of the Performing Arts
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/kruegger-rand|Kruegger Rand]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Theatre (Entertainment)** 
+**Theatre (Entertainment)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Amphitheatre
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** ba81d6af-37e2-476d-b660-92e6a103c624<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Bartered Brides
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # The Bartered Brides
 
 ````col
@@ -50,7 +56,6 @@ Needless to say, if the brothers and the players actually do manage to make off 
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

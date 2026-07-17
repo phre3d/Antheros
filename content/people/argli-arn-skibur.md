@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Argli arn Skibur
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Argli arn Skibur
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Of the Iron tribe of dwarves, and it shows in his courtroom procedure; he is ste
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/argli-arn-skibur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

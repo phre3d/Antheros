@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Nithri Griffinrider
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Nithri Griffinrider
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ An extraordinary enigma, Nithri was orphaned as a youth when his parents were am
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nithri-griffinrider]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

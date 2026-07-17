@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Yohan
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Yohan
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +5 to hit , 1d8+2 piercing damage  
   **Longsword:**  +4 to hit , 1d8+1 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

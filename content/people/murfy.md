@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Murfy
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Murfy
 
-### 
+###
 
-**Full Name:**  Murfy      
+**Full Name:**  Murfy
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Murfy is a counter clerk at the [[landmark/professors-challenge|Professor's Chal
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/murfy]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

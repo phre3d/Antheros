@@ -1,8 +1,12 @@
 ---
-location: [3727.228,  995.918]
+aliases: []
+tags: [map-marker]
+location: [3727.228, 995.918]
 mapmarker: Shopping
+title: "Cockleberry's Cabinets"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Cockleberry's Cabinets
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/cockleberrys-cabinets|Cockleberry's Cabinets]]<br>
 **Location Type:** Carpenter
 
-**Description**<br> 
-
+**Description**<br>

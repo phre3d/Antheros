@@ -1,23 +1,34 @@
-#import #landmark   #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, guild/hearth, import, landmark, type-tavern]
+title: The Midnight Oil
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Midnight Oil
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A drinking place of low repute 
 
-## Description 
+# Description
+
+## A drinking place of low repute
+
+## Description
+
 Generic Tavern.  The sign outside depicts a bed on fire (*Beds are Burning*, by Midnight Oil)
 
-## Quality 
+## Quality
+
 Beer and ale is Fair to Good;
 
-## NPC Encounters 
+## NPC Encounters
 
 # Purpose / Function
 
@@ -53,24 +64,25 @@ Beer and ale is Fair to Good;
 
 ![[../~attachments/midnight-oil-the.png|~attachments/Midnight Oil, The.png]]
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
- **District:** 
+ **District:**
 
- **Grid (Key) Ref.:**   
+ **Grid (Key) Ref.:**
 
 ---
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -86,6 +98,7 @@ Beer and ale is Fair to Good;
 ---
 
 ### World Anvil Metadata
+
 **Id:** 6f2a6d5f-3968-4e40-be09-b7453b820a70<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: South Caravan Street<br>
@@ -94,7 +107,9 @@ Beer and ale is Fair to Good;
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

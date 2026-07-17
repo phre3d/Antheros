@@ -1,6 +1,14 @@
-#import #plot  #Depths_of_Erdea 
+---
+aliases: []
+tags: [plot/depths-of-erdea, import, plot]
+title: Depths of Erdea
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 ![[plots/depths-of-erdea/images/depths-of-erdea-header.png]]
+
 # Depths of Erdea
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -46,17 +54,20 @@ A group of ogres has moved into the ruins of Erdea Manor in the last week follow
 
 ![[~attachments/dndline.png]]
 
-# Credits 
+# Credits
+
 Originally published in  *Dyson's Dodecahedron* , Volume 1, Issues  4 & 5.
 
 Dyson's Dodecahedron, Issue 4, Copyright 2011, ZERO/Barrier Productions, Author: Dyson Logos.
 
 Dyson's Dodecahedron, Issue 5, Copyright 2011, ZERO/Barrier Productions. Author: Dyson Logos.
 
-### Product Identity 
-The name Dyson's Dodecahedron, Erdea Manor, the Kale, Adventures in the Fallen Empire, and ZERO/Barrier, when used in any context, are product identity. The names Labyrinth Lord<sup>TM</sup>, Advanced Labyrinth Lord<sup>TM</sup>, Scribe of Orcus<sup>TM</sup>, Mutant Future<sup>TM</sup>, and Goblinoid Games<sup>TM</sup>, when used in any context, are product identity. The title Advanced Edition Companion is Product Identity. All artwork, logos, proper names and presentation are product identity. 
+### Product Identity
 
-### Designation of Open Game Content 
+The name Dyson's Dodecahedron, Erdea Manor, the Kale, Adventures in the Fallen Empire, and ZERO/Barrier, when used in any context, are product identity. The names Labyrinth Lord<sup>TM</sup>, Advanced Labyrinth Lord<sup>TM</sup>, Scribe of Orcus<sup>TM</sup>, Mutant Future<sup>TM</sup>, and Goblinoid Games<sup>TM</sup>, when used in any context, are product identity. The title Advanced Edition Companion is Product Identity. All artwork, logos, proper names and presentation are product identity.
+
+### Designation of Open Game Content
+
 All game stats for creatures, treasures, magical items, traps and anything else directly involving rules but not setting material is open game  content, with the exception of text and terms defined above as product identity.
 
 ![[~attachments/dndline.png]]

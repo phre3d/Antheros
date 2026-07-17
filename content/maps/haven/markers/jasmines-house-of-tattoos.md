@@ -1,8 +1,12 @@
 ---
-location: [1572.126,  6279.592]
+aliases: []
+tags: [map-marker]
+location: [1572.126, 6279.592]
 mapmarker: Shopping
+title: "Jasmine's House of Tattoos"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Jasmine's House of Tattoos
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/jasmines-house-of-tattoos|Jasmine's House of Tattoos]]<br>
 **Location Type:** Tattoos
 
-**Description**<br> 
-
+**Description**<br>

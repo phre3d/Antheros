@@ -1,8 +1,12 @@
 ---
-location: [6438.452,  2276.531]
+aliases: []
+tags: [map-marker]
+location: [2276.531, 6438.452]
 mapmarker: City Guard
+title: Shield Barracks
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Shield Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/shield-barracks|Shield Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

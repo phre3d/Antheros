@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Harlequin Bussbender
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Harlequin Bussbender
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The son of an affluent mercantile family, he dreams of someday running off with 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/harlequin-bussbender]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

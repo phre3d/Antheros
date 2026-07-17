@@ -1,20 +1,29 @@
-#import #person #deity
+---
+aliases: []
+tags: [deity, import, person]
+title: Azriel
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Azriel
 
-Goddess of Disease and Suffering; Mistress of Pain     
+Goddess of Disease and Suffering; Mistress of Pain
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -34,6 +43,7 @@ shadow: off
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -59,6 +69,7 @@ shadow: off
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -78,6 +89,7 @@ shadow: off
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -106,7 +118,7 @@ shadow: off
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -124,7 +136,7 @@ shadow: off
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Latterborn
 
@@ -134,14 +146,15 @@ shadow: off
 
  **Father:**  [[religions/mandos]]
 
- **Offspring** 
+ **Offspring**
+
 - None
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -161,7 +174,7 @@ shadow: off
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -175,7 +188,7 @@ shadow: off
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -186,16 +199,17 @@ shadow: off
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** cdcccf05-1462-4e63-a50d-5332573ef176<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -208,31 +222,37 @@ shadow: off
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/azriel-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/azriel-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/azriel-person)
 
 ---
@@ -240,18 +260,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 da6b1939-060c-4f36-8da6-8d4be3b07cf0
 
 --- end-column ---
 
 Next:
+
 64c80232-0ec2-4dae-a56a-78daa08980cc
 
 --- end-multi-column

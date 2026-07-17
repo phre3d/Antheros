@@ -1,8 +1,12 @@
 ---
-location: [4029.268,  5067.347]
+aliases: []
+tags: [map-marker]
+location: [4029.268, 5067.347]
 mapmarker: Religion
+title: Temple of Vairë
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Vairë
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-vairë|Temple of Vairë]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
-
+**Description**<br>

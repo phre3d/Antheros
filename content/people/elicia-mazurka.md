@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Elicia Mazurka
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elicia Mazurka
 
-### 
+###
 
-**Full Name:**  Elicia  Mazurka    
+**Full Name:**  Elicia  Mazurka
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ the director and choreographer for their troupe of 12 men and women.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elicia-mazurka]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

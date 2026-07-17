@@ -1,8 +1,12 @@
 ---
-location: [5233.35,  5145.918]
+aliases: []
+tags: [map-marker]
+location: [5145.918, 5233.35]
 mapmarker: Landmark
+title: Gold Alley
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Gold Alley
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/gold-alley|Gold Alley]]<br>
 **Location Type:** Street
 
-**Description**<br> 
+**Description**<br>
+
 Home to several jewelers & moneylenders

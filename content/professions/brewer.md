@@ -1,4 +1,10 @@
-#import #profession
+---
+aliases: []
+tags: [import, profession]
+title: Brewer
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Brewer
 
 Maker of beer and ale
@@ -6,6 +12,7 @@ Maker of beer and ale
 ---
 
 # Career
+
 ## Qualifications
 
 ## Career Progression
@@ -17,12 +24,12 @@ Maker of beer and ale
 ---
 
 # Perception
+
 ## Purpose / Function
 
 ## Demand
 
 ## Legality
-  
 
 ## Social Status
 
@@ -35,7 +42,6 @@ Maker of beer and ale
 ## Demand
 
 ## Legality
-  
 
 ## Social Status
 
@@ -46,6 +52,7 @@ Maker of beer and ale
 ---
 
 # Operations
+
 ## Tools
 
 ## Materials
@@ -60,7 +67,7 @@ Maker of beer and ale
 ><br><br><br><br>
 >**Alternative Names:**  
 >
->**Guild:** 
+>**Guild:**
 >
 >**Famous in the Field:**
 >
@@ -76,8 +83,8 @@ Maker of beer and ale
 >
 >**Related Technologies:**
 
+---start-multi-column: PreviousNext
 
---- start-multi-column: PreviousNext
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
@@ -87,4 +94,4 @@ alignment: [left, right]
 
 --- end-column ---
 
---- end-multi-column 
+--- end-multi-column

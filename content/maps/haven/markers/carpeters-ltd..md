@@ -1,8 +1,12 @@
 ---
-location: [3437.432,  3437.755]
+aliases: []
+tags: [map-marker]
+location: [3437.432, 3437.755]
 mapmarker: Shopping
+title: Carpeters Ltd.
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Carpeters Ltd.
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/carpeters-ltd.|Carpeters Ltd.]]<br>
 **Location Type:** Textiles
 
-**Description**<br> 
-
+**Description**<br>

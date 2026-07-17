@@ -1,4 +1,10 @@
-#import #person 
+---
+aliases: []
+tags: [import, person]
+title: Enoch the Birdwhisperer
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Enoch the Birdwhisperer
 
 `````col
@@ -51,9 +57,10 @@ Enoch is very reluctant to admit that Inga asked him to collect frog leaves for 
 ````
 `````
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

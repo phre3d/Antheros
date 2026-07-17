@@ -1,8 +1,12 @@
 ---
-location: [3393.554,  3351.02]
+aliases: []
+tags: [map-marker]
+location: [3351.02, 3393.554]
 mapmarker: Shopping
+title: Lorien Leathergoods
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lorien Leathergoods
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/lorien-leathergoods|Lorien Leathergoods]]<br>
 **Location Type:** Leatherworker
 
-**Description**<br> 
-
+**Description**<br>

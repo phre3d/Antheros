@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-inn #guild-of-the-hearth #inn
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, thieves-market, type-inn]
+title: The Market Inn
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Market Inn
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Inn (Inns & Taverns)** 
+**Inn (Inns & Taverns)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Inn
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/thieves-market|Thieves' Market]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 390dfbcb-8b95-495a-98c7-19b3c1d52348<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

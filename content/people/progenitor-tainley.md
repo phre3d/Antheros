@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #npc #the-heights
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Progenitor Tainley
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Progenitor Tainley
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Root of Tainley Family tree
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

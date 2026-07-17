@@ -1,21 +1,31 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Lohi
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Lohi
 
-Goddess of Healing     
+Goddess of Healing
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Anyone involved in the healing arts, whether through "medicine" or magic will prey to Lohi for assistance if the patient is critical. This include clerics of other deities (these deities will not be offended). Clerics of Lohi of course make the best healers.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -35,6 +45,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -60,6 +71,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -79,6 +91,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -107,7 +120,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -125,7 +138,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Secondborn
 
@@ -135,14 +148,15 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 
  **Father:**  [[religions/ladros]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/azriel]] (with Mandos)
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -162,7 +176,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -176,7 +190,7 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -187,16 +201,17 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 75724afd-a80d-43de-940a-c251a3a5e798<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -209,31 +224,37 @@ Anyone involved in the healing arts, whether through "medicine" or magic will pr
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/lohi-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/lohi-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/lohi-person)
 
 ---
@@ -241,18 +262,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 dbb2eafb-b59f-42aa-9c8b-f4caea122fbc
 
 --- end-column ---
 
 Next:
+
 74a5fbe1-efe8-4723-b118-35eec9865113
 
 --- end-multi-column

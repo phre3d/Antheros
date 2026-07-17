@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-docks]
+title: Alekhine
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alekhine
 
-### 
+###
 
-**Full Name:**  Alekhine      
+**Full Name:**  Alekhine
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The landlord of a boarding house, Alekhine is a shriveled, bald-headed old codge
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alekhine]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

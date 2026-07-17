@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Sigrid
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sigrid
 
-### 
+###
 
-**Full Name:** Lady Sigrid      
+**Full Name:** Lady Sigrid
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See scenario [[plots/the-stoned-maiden|The Stoned Maiden]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sigrid]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

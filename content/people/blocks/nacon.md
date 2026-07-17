@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Nacon
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Nacon
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +9 to hit , 1d8+5 slashing damage  
   **Unarmed strike:**  +9 to hit , 1d1+5 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

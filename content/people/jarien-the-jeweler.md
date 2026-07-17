@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Jarien the Jeweler
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jarien the Jeweler
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A small man, balding, with greedy eyes. Jarien buys and sells old jewelry and co
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jarien-the-jeweler]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

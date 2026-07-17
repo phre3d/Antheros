@@ -1,8 +1,12 @@
 ---
-location: [3971.105,  873.469]
+aliases: []
+tags: [map-marker]
+location: [3971.105, 873.469]
 mapmarker: Shopping
+title: "Kobri's Cobblery"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kobri's Cobblery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/kobris-cobblery|Kobri's Cobblery]]<br>
 **Location Type:** Footwear
 
-**Description**<br> 
-
+**Description**<br>

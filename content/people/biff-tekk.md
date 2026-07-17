@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Biff Tekk
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Biff Tekk
 
-### 
+###
 
-**Full Name:**  Biff  Tekk    
+**Full Name:**  Biff  Tekk
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A butcher selling in the [[settlement/thieves-market|Thieves' Market]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/biff-tekk]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

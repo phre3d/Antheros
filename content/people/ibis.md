@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Ibis
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Ibis
 
-### 
+###
 
-**Full Name:**  Ibis      
+**Full Name:**  Ibis
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ An avanthar who works primarily with soft leather, feathers, beads, and other na
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ibis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

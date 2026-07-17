@@ -1,8 +1,12 @@
 ---
-location: [3678.248,  514.286]
+aliases: []
+tags: [map-marker]
+location: [3678.248, 514.286]
 mapmarker: Shopping
+title: The Ironmongery
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Ironmongery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-ironmongery|The Ironmongery]]<br>
 **Location Type:** Metalwork
 
-**Description**<br> 
-
+**Description**<br>

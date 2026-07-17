@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #sisters-of-the-unicorn #the-heights
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, person, sisters-of-the-unicorn, the-heights]
+title: Marita Maggia
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Marita Maggia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -216,13 +222,12 @@ Gilberto believes Marita is worried about his health, and makes a special effort
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marita-maggia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

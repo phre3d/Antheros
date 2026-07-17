@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #grey-halls #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, grey-halls, import, npc, person]
+title: Roderick
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Roderick
 
-### 
+###
 
-**Full Name:**  Roderick      
+**Full Name:**  Roderick
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Guard in [[landmark/the-grey-halls|The Grey Halls]]. See scenario [[plots/the-re
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/roderick]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

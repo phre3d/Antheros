@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-cauldron, type-house]
+title: Home of Balin arn Malbar
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Home of Balin arn Malbar
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/balin-arn-malbar|Balin arn Malbar]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  Balin arn Malbar
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** c17016e8-c509-434e-add3-650928d2d262<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

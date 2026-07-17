@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Theadus McKessin
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Theadus McKessin
 
-### 
+###
 
-**Full Name:**  Theadus  McKessin    
+**Full Name:**  Theadus  McKessin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Theadus, an old elf, works in the store on weekends and makes a mean cup of coff
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/theadus-mckessin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Vaunea Kolae-Gileana
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vaunea Kolae-Gileana
 
-### 
+###
 
 **Full Name:**  Vaunea  Kolae-Gileana    Dawncaller
 
@@ -204,13 +210,12 @@ She is married to Benzantree, a mercenary leader and befriending Vaunea will pro
 
 ---
 
-
-
 ![[people/blocks/vaunea-kolae-gileana]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2511.921,  2028.571]
+aliases: []
+tags: [map-marker]
+location: [2028.571, 2511.921]
 mapmarker: Shopping
+title: "Instruments 'n' Stuff"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Instruments 'n' Stuff
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/instruments-n-stuff|Instruments 'n' Stuff]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [3611.921,  398.98]
+aliases: []
+tags: [map-marker]
+location: [3611.921, 398.98]
 mapmarker: Shopping
+title: "Vekkio's Foundry"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Vekkio's Foundry
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/vekkios-foundry|Vekkio's Foundry]]<br>
 **Location Type:** Foundry
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,14 +1,23 @@
-#import #settlement #Free_City_of_Haven #underground-vault
+---
+aliases: []
+tags: [Free_City_of_Haven, import, settlement, underground-vault]
+title: The Forgotten City
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The Forgotten City
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Haven is an old city. It was old when it was a Namori provincial capital, and there have been in its history many masters. Nor was the city always the same; centuries ago, when the South Keep kept vigil on the Island, a city thrived on the south bank, where Kurgan's Hill and the Labyrinth now lie, and its name was Daria. The centuries and the custom of rebuilding over previous ruins have buried Daria until all that remains to the casual observer is Kurgan's Hill and the ruins of the South Keep. Beneath the Hill, however, the ruined streets and buildings of Daria form a maze of underground rooms and passages known to the inhabitants of the Labyrinth as the Forgotten City.
 
 No one living knows the full extent of the catacombs beneath Kurgan's Hill. There are numerous entrances to the Forgotten City, and many have explored portions of its twisting corridors. The Thieves Guild has been conducting its own explorations into these passages for several years, assigning errant members of its organization to "tunnel duty" - slow, painful hours spent in the re-excavation of ruined sections of these passages. These efforts have enabled the Guild to regroup quickly from the disastrous fire that laid their former headquarters, Rogue's Roost, to waste. The Guild, now truly an underground organization, has not thoroughly mapped more than their own section of the catacombs; nonetheless, it is known that passageways bisect much of the South Corridor, and in at least two cases, cross beneath the Dorian itself onto the city's North banks.
@@ -47,7 +56,7 @@ Legend, of course, tells of the riches of Daria, of gold and mithril and preciou
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** Underground / Vault<br>
 **Other Name(s):** <br>
@@ -56,18 +65,19 @@ Legend, of course, tells of the riches of Daria, of gold and mithril and preciou
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 79c63b92-b2fb-4369-a72c-17dc0e11e744<br>
 **Entity Type:** Article / settlement<br>
 **Category:** <br>
@@ -76,19 +86,24 @@ Legend, of course, tells of the riches of Daria, of gold and mithril and preciou
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 e05f9a94-a44d-4991-b419-28cae89db0ee
 
 --- end-column ---
 
 Next:
+
 587a7a3a-ba45-4bfd-94bc-fe6e17ae023c
 
 --- end-multi-column

@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-nautical-supplies #guild-of-the-ship #nautical-supplies
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/ship, import, landmark, nautical-supplies, the-south-docks, type-nautical-supplies]
+title: Jakkob the Sailmaker
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Jakkob the Sailmaker
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Quality sails for your ship 
 
-## Description 
+# Description
+
+## Quality sails for your ship
+
+## Description
+
 Jakkob is a cantankerous old sod who is probably the best sailmaker in the city. While the sails he makes are plain, they will last a minimum of 14 months ond often more than two years.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Jakkob is a cantankerous old sod who is probably the best sailmaker in the city.
 
 **Image:** n/a
 
-**Nautical Supplies (Shopping)** 
+**Nautical Supplies (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Jakkob is a cantankerous old sod who is probably the best sailmaker in the city.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Jakkob is a cantankerous old sod who is probably the best sailmaker in the city.
 ---
 
 ### World Anvil Metadata
+
 **Id:** b9da9d99-f56b-4d39-b501-9b59fde6d36f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ Jakkob is a cantankerous old sod who is probably the best sailmaker in the city.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

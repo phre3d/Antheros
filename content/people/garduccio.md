@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-north-corridor]
+title: Garduccio
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Garduccio
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ A large, fat man in his early forties. He has black hair which curls in little r
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/garduccio]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

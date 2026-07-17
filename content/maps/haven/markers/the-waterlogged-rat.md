@@ -1,8 +1,12 @@
 ---
-location: [2499.677,  6307.143]
+aliases: []
+tags: [map-marker]
+location: [2499.677, 6307.143]
 mapmarker: Inns & Taverns
+title: The Waterlogged Rat
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Waterlogged Rat
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-waterlogged-rat|The Waterlogged Rat]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

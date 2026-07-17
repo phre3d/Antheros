@@ -1,8 +1,12 @@
 ---
-location: [1098.656,  3860.204]
+aliases: []
+tags: [map-marker]
+location: [1098.656, 3860.204]
 mapmarker: Shopping
+title: "Flicker's Pawnshop"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Flicker's Pawnshop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/flickers-pawnshop|Flicker's Pawnshop]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

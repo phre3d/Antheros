@@ -1,6 +1,8 @@
 ---
-tags: [Mimic_Mayhem, npc, person]
-date modified: 2026-06-11, 1:16:03 pm
+aliases: []
+tags: [plot/Mimic-Mayhem, npc, person]
+date modified: 2026-07-16, 9:18:14 pm
+title: Granny Pickles
 ---
 
 # Granny Pickles

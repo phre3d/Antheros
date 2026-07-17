@@ -1,8 +1,12 @@
 ---
-location: [6259.881,  2318.367]
+aliases: []
+tags: [map-marker]
+location: [2318.367, 6259.881]
 mapmarker: Shopping
+title: "Pierre Farce's House of Beauty"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Pierre Farce's House of Beauty
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/pierre-farces-house-of-beauty|Pierre Farce's House of Beauty]]<br>
 **Location Type:** Cosmetician
 
-**Description**<br> 
-
+**Description**<br>

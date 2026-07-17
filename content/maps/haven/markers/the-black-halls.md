@@ -1,8 +1,12 @@
 ---
-location: [4969.064,  4458.163]
+aliases: []
+tags: [map-marker]
+location: [4458.163, 4969.064]
 mapmarker: Government
+title: The Black Halls
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Black Halls
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Government
 **Location:** [[landmarks/the-black-halls|The Black Halls]]<br>
 **Location Type:** Prison
 
-**Description**<br> 
-
+**Description**<br>

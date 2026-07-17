@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Eglath Thunukalathi
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Eglath Thunukalathi
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +10 to hit , 2d6+7 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

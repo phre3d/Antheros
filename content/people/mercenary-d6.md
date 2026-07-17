@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, person]
+title: Mercenary D6
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mercenary D6
 
-### 
+###
 
-**Full Name:**  Mercenary  D6    
+**Full Name:**  Mercenary  D6
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary D6
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-d6]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

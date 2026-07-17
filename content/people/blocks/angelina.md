@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Angelina
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Angelina
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +5 to hit , 1d4+2 piercing damage  
   **Dagger, thrown:**  +5 to hit , 1d4+2 piercing damage  
   **Crossbow, hand:**  +5 to hit , 1d6+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

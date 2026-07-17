@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Madame Dorilla
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Madame Dorilla
 
-### 
+###
 
-**Full Name:**  Madame  Dorilla    
+**Full Name:**  Madame  Dorilla
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Once a very popular courtesan on [[settlement/the-street-of-silk-veils|The Stree
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/madame-dorilla]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kopernikos
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kopernikos
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Hoof:**  +4 to hit , 2d6+5 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

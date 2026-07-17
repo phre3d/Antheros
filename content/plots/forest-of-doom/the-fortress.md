@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: "FoD: The Fortress"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # FoD: The Fortress
 
 ````col
@@ -67,9 +73,8 @@ There are no stationary light sources inside the fortress. Servants and slaves w
 ```
 ````
 
-
-
 ---
+
 ````col
 ```col-md
 Previous:

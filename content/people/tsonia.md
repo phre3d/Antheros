@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: "T'Sonia"
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # T'Sonia
 
-### 
+###
 
-**Full Name:** Sister T’Sonia      
+**Full Name:** Sister T’Sonia
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A healer at [[landmark/the-abbey-of-eollana|The Abbey of Eollana]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/t’sonia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

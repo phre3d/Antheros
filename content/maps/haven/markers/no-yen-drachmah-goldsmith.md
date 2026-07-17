@@ -1,8 +1,12 @@
 ---
-location: [6049.677,  4921.429]
+aliases: []
+tags: [map-marker]
+location: [4921.429, 6049.677]
 mapmarker: Shopping
+title: No-Yen Drachmah - Goldsmith
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # No-Yen Drachmah - Goldsmith
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/no-yen-drachmah-goldsmith|No-Yen Drachmah - Goldsmith]]<br>
 **Location Type:** Banking
 
-**Description**<br> 
-
+**Description**<br>

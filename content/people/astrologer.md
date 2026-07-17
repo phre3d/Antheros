@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Astrologer
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Astrologer
 
-### 
+###
 
-**Full Name:**  Astrologer      
+**Full Name:**  Astrologer
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See Street Encounter: Astrologer
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/astrologer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

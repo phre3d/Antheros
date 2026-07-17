@@ -1,8 +1,12 @@
 ---
-location: [2302.738,  2557.143]
+aliases: []
+tags: [map-marker]
+location: [2302.738, 2557.143]
 mapmarker: Service
+title: R. Thor Gofree - Talent Scout
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # R. Thor Gofree - Talent Scout
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/r.-thor-gofree-talent-scout|R. Thor Gofree - Talent Scout]]<br>
 **Location Type:** Other Services
 
-**Description**<br> 
-
+**Description**<br>

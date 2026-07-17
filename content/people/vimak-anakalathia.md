@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Vimak Anakalathia
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vimak Anakalathia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Enforcer at [[person/no-yen-drachmah|No-Yen Drachmah]], Goldsmiths
 
 ---
 
-
-
 ![[people/blocks/vimak-anakalathia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

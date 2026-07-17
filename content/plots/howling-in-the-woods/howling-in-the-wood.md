@@ -1,4 +1,10 @@
-#import #plot  #Howling_in_the_Woods
+---
+aliases: []
+tags: [plot/Howling-in-the-Woods, import, plot]
+title: Howling in the Wood
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # Howling in the Wood
 
 ````col
@@ -32,7 +38,8 @@ One month ago, logging caused by the expansion of a nearby city began pushing a 
 ```
 ````
 
-# Credits 
+# Credits
+
 ➛  **Project Lead:**  Robert Mason
 
 ➛  **Writing:**  Lyde Van Hoy, Robert Mason

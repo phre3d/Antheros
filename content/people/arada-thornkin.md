@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #player-character
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, player-character]
+title: Arada Thornkin
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Arada Thornkin
 
-### 
+###
 
-**Full Name:**  Arada  Thornkin    
+**Full Name:**  Arada  Thornkin
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

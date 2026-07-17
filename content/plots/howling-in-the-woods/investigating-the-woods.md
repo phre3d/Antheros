@@ -1,4 +1,10 @@
-#import #plot  #Howling_in_the_Woods
+---
+aliases: []
+tags: [plot/Howling-in-the-Woods, import, plot]
+title: Investigating the Woods
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # Investigating the Woods
 
 ````col
@@ -58,7 +64,6 @@ After facing the werewolves, the party hears a howl, and upon looking in its dir
 
 ```
 ````
-
 
 ---
 

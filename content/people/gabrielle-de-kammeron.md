@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-kammeron-family #the-heights #npc
+---
+aliases: []
+tags: [de-kammeron-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Gabrielle de Kammeron
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gabrielle de Kammeron
 
-### 
+###
 
-**Full Name:**  Gabrielle  de Kammeron    
+**Full Name:**  Gabrielle  de Kammeron
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Gabrielle is the beautiful daughter of a perfumer, Broutier. Along with he husba
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gabrielle-de-kammeron]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

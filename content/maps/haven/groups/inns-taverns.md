@@ -1,6 +1,12 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: inns-taverns
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 **Markers in the group:**
+
 - [[maps/haven/markers/the-black-swan]]
 - [[maps/haven/markers/mystic-valley-inn]]
 - [[maps/haven/markers/the-pendragon-inn]]

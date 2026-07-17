@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-metalsmiths #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-cauldron]
+title: Ferrus Ironfist
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Ferrus Ironfist
 
-### 
+###
 
-**Full Name:**  Ferrus  Ironfist    
+**Full Name:**  Ferrus  Ironfist
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A grizzled dwarf of later years, is a retired warrior turned merchant. He specia
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ferrus-ironfist]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

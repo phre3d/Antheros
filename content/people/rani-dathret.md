@@ -1,9 +1,15 @@
-#import #person #Sins_of_the_Past #npc
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past]
+title: Rani Dathret
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rani Dathret
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -192,13 +198,10 @@ She is one of the two survivors after [[person/nesan-gerondes|Nesan Geronde's]] 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

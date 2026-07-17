@@ -1,8 +1,12 @@
 ---
-location: [4972.126,  4000.]
+aliases: []
+tags: [map-marker]
+location: [4000., 4972.126]
 mapmarker: Guild
+title: Guildhall of the Ship
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Guildhall of the Ship
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Guild
 **Location:** [[landmarks/guildhall-of-the-ship|Guildhall of the Ship]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
+**Description**<br>
+
 For those involved in sailing and shipbuilding

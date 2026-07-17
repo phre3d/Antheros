@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-kammeron-family #the-heights #npc
+---
+aliases: []
+tags: [de-kammeron-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Boccaccio de Kammeron
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Boccaccio de Kammeron
 
-### 
+###
 
-**Full Name:**  Boccaccio  de Kammeron    
+**Full Name:**  Boccaccio  de Kammeron
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Though Boccaccio's brief forays into the business world clearly indicates his ac
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/boccaccio-de-kammeron]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #citadel-guard #the-heights #npc
+---
+aliases: []
+tags: [citadel-guard, de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Morgan de la Riis
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Morgan de la Riis
 
-### 
+###
 
-**Full Name:**  Morgan  de la Riis    
+**Full Name:**  Morgan  de la Riis
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Morgan is close friends with, and serves with [[person/clemente-panfusille|Cleme
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/morgan-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

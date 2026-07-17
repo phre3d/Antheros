@@ -1,14 +1,23 @@
-#import #settlement #10-cities
+---
+aliases: []
+tags: [10-cities, import, settlement]
+title: Bredakis
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # Bredakis
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 One of the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]]
 
 # Demographics
@@ -43,27 +52,28 @@ One of the [[organizations/confederation-of-the-ten-cities|Confederation of the 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** <br>
 **Other Name(s):** <br>
-**Located In:** 
+**Located In:**
 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:**  <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 90addaa9-1f09-4dfb-9110-5b10e17c7c4e<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Bredakis<br>
@@ -72,7 +82,9 @@ One of the [[organizations/confederation-of-the-ten-cities|Confederation of the 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

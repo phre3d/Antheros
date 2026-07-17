@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Rabon
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Rabon
 
-### 
+###
 
-**Full Name:**  Rabon      
+**Full Name:**  Rabon
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Running a low class bordello, Rabon is a lecherous, sour faced man who cares lit
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rabon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

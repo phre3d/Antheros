@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-beast #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/beast, import, npc, person, the-heights]
+title: Gladshaw
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gladshaw
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Gladshaw dresses in a dandified fashion when appearing socially, and often wears
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gladshaw]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

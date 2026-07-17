@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Lucius Cardallo
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lucius Cardallo
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Cardallo (#215) is without a doubt the most corrupt person in Haven. He keeps hi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lucius-cardallo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

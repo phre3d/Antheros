@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Landmark
+title: "Burbas 'the Finder'"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Burbas 'the Finder'
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/fountain-of-porpidolphus|Fountain of Porpidolphus]]<br>
 **Location Type:** Fountain
 
-**Description**<br> 
-
+**Description**<br>

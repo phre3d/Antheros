@@ -1,8 +1,12 @@
 ---
-location: [5560.901,  4823.469]
+aliases: []
+tags: [map-marker]
+location: [4823.469, 5560.901]
 mapmarker: Inns & Taverns
+title: Guardian
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Guardian
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/guardian|Guardian]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

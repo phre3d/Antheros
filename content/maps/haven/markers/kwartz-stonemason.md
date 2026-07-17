@@ -1,8 +1,12 @@
 ---
-location: [3276.207,  453.061]
+aliases: []
+tags: [map-marker]
+location: [3276.207, 453.061]
 mapmarker: Service
+title: Kwartz - Stonemason
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kwartz - Stonemason
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/kwartz-stonemason|Kwartz - Stonemason]]<br>
 **Location Type:** Construction
 
-**Description**<br> 
-
+**Description**<br>

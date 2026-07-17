@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Damiano Dwarf-Friend
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Damiano Dwarf-Friend
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Battleaxe:**  +7 to hit , 1d8+3 slashing damage  
   **Light Hammer:**  +7 to hit , 1d4+3 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

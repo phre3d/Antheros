@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -33,4 +38,3 @@ Eugene ritually casts detect magic. There is faint magic all around, probably ch
 <br>
 
 ---
-

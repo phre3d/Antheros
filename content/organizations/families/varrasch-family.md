@@ -1,4 +1,10 @@
-#import #organization   #Free_City_of_Haven #type-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-family]
+title: Varrasch Family
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Varrasch Family
 
 The Varrasch brothers,  [[people/branden-varrasch|Branden]], [[people/valken-varrasch|Valken Varrasch]], [[people/heidel-varrasch|Heidel]] and [[people/kronen-varrasch|Kronen]] are horse breeders and trainers, who in the days before the rise of the Guilds in Haven, led a very nomadic existence, following the wild herds of stallions, breaking those caught to domesticity, and then selling the animals in nearby communities. Thus, of all the merchant families of prominence, the Varrasches are the least citified, and the most comfortable with horses, weapons, and a system of law enforced by sheer, brute power.  
@@ -14,7 +20,8 @@ The family's home in Haven is located in [[settlements/the-heights|The Heights]]
 
 **Family Leader:** [[people/valken-varrasch|Valken Varrasch]] (in name only)
 
-**Members:** 
+**Members:**
+
 ```dataview
 LIST
 FROM #varrasch-family 

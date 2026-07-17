@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #varrasch-family #npc #the-heights
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights, varrasch-family]
+title: Darius Varrasch
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Darius Varrasch
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Deceased father of Branden, Valken, Heidel and Kronen.
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

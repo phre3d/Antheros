@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Craft Show
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Craft Show
 
 ````col
@@ -46,7 +52,6 @@ For each of these, there is a 20% chance that the items are only partially assem
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

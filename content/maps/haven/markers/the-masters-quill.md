@@ -1,8 +1,12 @@
 ---
-location: [3502.738,  480.612]
+aliases: []
+tags: [map-marker]
+location: [3502.738, 480.612]
 mapmarker: Shopping
+title: "The Master's Quill"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Master's Quill
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-masters-quill|The Master's Quill]]<br>
 **Location Type:** Written Word
 
-**Description**<br> 
-
+**Description**<br>

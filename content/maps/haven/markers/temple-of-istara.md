@@ -1,8 +1,12 @@
 ---
-location: [3688.452,  5226.531]
+aliases: []
+tags: [map-marker]
+location: [3688.452, 5226.531]
 mapmarker: Religion
+title: Temple of Istara
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Istara
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-istara|Temple of Istara]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Istara: Goddess of Magic

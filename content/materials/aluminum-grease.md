@@ -1,4 +1,10 @@
-#import #material #potion-base
+---
+aliases: []
+tags: [import, material, potion-base]
+title: Aluminum Grease
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Aluminum Grease
 
 ````col
@@ -92,7 +98,9 @@ Used by [[profession/herbalist|Herbalists]] as a base for making  *very rare*  p
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

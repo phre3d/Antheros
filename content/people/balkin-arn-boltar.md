@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-dwarrow]
+title: Balkin arn Boltar
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Balkin arn Boltar
 
-### 
+###
 
-**Full Name:**  Balkin  arn Boltar    
+**Full Name:**  Balkin  arn Boltar
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to scenario [[plots/the-bartered-brides|The Bartered Brides]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/balkin-arn-boltar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

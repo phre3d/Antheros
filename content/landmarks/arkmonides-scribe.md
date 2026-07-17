@@ -1,26 +1,39 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-shop #type-scribe #guild-of-the-word #scribe
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/word, import, landmark, scribe, the-heights, type-scribe]
+title: Arkmonides - Scribe
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Arkmonides - Scribe
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Scripting and Copying with Flair 
 
-## Description 
+# Description
+
+## Scripting and Copying with Flair
+
+## Description
+
 [[people/arkmonides|Arkmonides]] has a great many scrolls and leather bound volumes for sale, mostly classics (military histories, the memoirs of great men, religious texts). He does custom copying at a price of 20gp per page. The materials he uses are of exceptional quality - fine vellums, inks that will last for many centuries, genuine gold flake used for illumination. Unfortunately, the quality of the actual transcription leaves much to be desired. If the item copied is a magic scroll, there is a 50% chance of a copying error that will cause the spell to misfire. If it is a book designed to aid someone in learning a skill, there is a 20% chance that a critical portion of the text will be unintelligible or simply omitted.
 
-## Price Range 
+## Price Range
+
 Costly.
 
-## Quality 
+## Quality
+
 Poor.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/adrienne-geronde|Adrienne Geronde]]
 
 # Purpose / Function
@@ -57,7 +70,7 @@ Poor.
 
 **Image:** n/a
 
-**Scribe (Service)** 
+**Scribe (Service)**
 
  **Owner:**  Arkmonides
 
@@ -69,12 +82,14 @@ Poor.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -91,6 +106,7 @@ Poor.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 1b2c1961-f441-4aad-a5bf-cfe386e37a68<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -99,7 +115,9 @@ Poor.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

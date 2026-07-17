@@ -1,8 +1,12 @@
 ---
-location: [2460.901,  6634.694]
+aliases: []
+tags: [map-marker]
+location: [2460.901, 6634.694]
 mapmarker: Shopping
+title: "Dalbert's Apothecary"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Dalbert's Apothecary
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/dalberts-apothecary|Dalbert's Apothecary]]<br>
 **Location Type:** Apothecary
 
-**Description**<br> 
-
+**Description**<br>

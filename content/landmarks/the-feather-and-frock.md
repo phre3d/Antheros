@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-shop #type-general-clothing #guild-of-the-loom #general-clothing
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-north-corridor, type-general-clothing]
+title: The Feather and Frock
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Feather and Frock
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Clothing and adornment for milady 
 
-## Description 
+# Description
+
+## Clothing and adornment for milady
+
+## Description
+
 This store tends to a clientele of medium wealthy merchant and guild wives. The styles are relatively up-to-date (usually only three to four months behind), and there is a fairly reasonable selection, any of which can be tailored to a perfect fit in just a few hours. [[people/katryn-khatt|Katryn Khatt]], called Kitty by her close friends, employs six other women to aid her, and does a brisk business. There are usually 15 to 20 women in the salon, trying dresses and chapeaux. The store is open from 10:00am to 7:00pm.
 
-## Price Range 
+## Price Range
+
 Costly. Frocks may cost as little as 25gp for a simple fashion and chapeaux run from 10gp up.
 
-## Quality 
+## Quality
+
 Fair to Excellent.
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Fair to Excellent.
 
 **Image:** n/a
 
-**General Clothing (Shopping)** 
+**General Clothing (Shopping)**
 
  **Owner:**  Katryn Khatt
 
@@ -66,12 +78,14 @@ Fair to Excellent.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Fair to Excellent.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7db7c3a2-321f-461f-bf6d-bde071ccb497<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -96,7 +111,9 @@ Fair to Excellent.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

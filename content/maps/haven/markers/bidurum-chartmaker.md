@@ -1,8 +1,12 @@
 ---
-location: [1624.166,  6242.857]
+aliases: []
+tags: [map-marker]
+location: [1624.166, 6242.857]
 mapmarker: Shopping
+title: Bidurum - Chartmaker
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bidurum - Chartmaker
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/bidurum-chartmaker|Bidurum - Chartmaker]]<br>
 **Location Type:** Nautical Supplies
 
-**Description**<br> 
-
+**Description**<br>

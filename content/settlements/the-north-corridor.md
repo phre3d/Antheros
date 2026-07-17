@@ -1,14 +1,23 @@
-#import #settlement #Free_City_of_Haven #quarter
+---
+aliases: []
+tags: [Free_City_of_Haven, import, quarter, settlement]
+title: The North Corridor
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The North Corridor
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 The North Corridor is probably the richest sector of the city, spreading mainly to the west of Caravan Street, it contains a large shopping and trade section (stretched along the main avenue, Caravan Street), the financial sector, the major guild halls, the government buildings and [[landmarks/courts|Courts]], and the homes of many wealthy artisans and merchants.
 
 Caravan Street is lined with shops and inns, all appealing to the mass of people comprising the trading caravans and to the travelers who pass along the Long Road. Nearby lies the "financial section", the location of most of the major banking houses of [[settlements/free-city-of-haven|Free City of Haven]] (including some of the wealthiest in the Ten Cities), and the winding way called [[landmarks/gold-alley|Gold Alley]], where the goldsmiths, [[settlements/free-city-of-haven|Haven's]] money lenders, tend to congregate. This area is bounded by Wall Street,  Northgate, and Caravan Street, and probably contains more actual monetary wealth per square foot than any other borough (the Heights included) does per square yard.
@@ -16,6 +25,7 @@ Caravan Street is lined with shops and inns, all appealing to the mass of people
 Along the river's edge lies [[settlements/believers-lane|Believer's Lane]], home to most of the major religions and temples available in the city. At the northwestern end reside the most prestigious of the temples. As one proceeds east on the Lane, the buildings tend to get smaller and meaner, until, at the very end of the street, they disappear entirely, leaving only a pair of vacant lots in which the most minor faiths have their congregational meetings. The four largest temples in [[settlements/free-city-of-haven|Free City of Haven]] (by congregation, wealth, and political power of adherents) are Eollana (the triple-faceted earth mother), Kol (Sun and fire), Dorian (the much revered god of the river - this is normally the only deity accorded by the elves), and the Ethical Way (from which many of the judges are drawn, since a true believer tries to be as honest, fair, and unbiased as possible - this is not a true religion, but a system of behavior). Also at this end (west of Caravan Street) can be found the temples of Kethrin (a warrior god) and Denarius (the god of all successful merchants).
 
 On the far western edge of the borough, along the river, are shipping wharves, warehouses, and dry-docks and ways for shipbuilding; these run right to the city wall, and provide for the upriver trading vessels. The remainder of the western sector of the borough is a residential area referred to as [[settlements/the-glens|The Glens]]; populated by wealthy merchants and guildsmen, it occupies the area between [[settlements/the-heights|The Heights]] and the Old Wall (occasional portions of which can still be seen along Wall Street).
+
 Inside the Old Wall lies Trades Masters Square, at the end of Journeymen's Road; the square is dominated by [[landmarks/the-hall-of-all-guilds|The Hall of All Guilds]], an immense building in which the insignia of all the trade and craft guilds in [[settlements/free-city-of-haven|Free City of Haven]] are displayed, and official meetings of the Great Guilders (the Guildmasters of the over-organizations for the various classes of craft and trade associations) are held. Surrounding the hall, in Guilders' Park, are the halls of the Great Guilds, and in many cases, additional halls for the subsidiary guilds and associations.
 
 There are nine of the Great Guilds, the broad-scope organizations that gather a number of smaller guilds and craft associations into a powerful political unit. Seven of these unions have their halls in Guilders' Park; the [[organizations/guilds/guild-of-the-loom|Guild of the Loom]] (representing most of the cloth-makers, tailors, seamstresses, and associated crafts in Haven), the Provenders' Guild (eat, drink, and be merry, for tomorrow you may diet), the Builders' Guild (all the construction trades), the [[organizations/guilds/guild-of-the-ship|Guild of the Ship]] (anything to do with ships, from building to sailing), the Drayers' Guild (freight and transportation, as well as horse dealing), the Artisans' Guild (an organization torn by internal strife, representing the metalworkers, jewelers, and other fine crafts), and the [[organizations/guilds/guild-of-the-hearth|Guild of the Hearth]] (comprised of all the smaller guilds and associations that receive little or no respect from the others; headed by a man named Dan Jerfeeld). The other two Great Guilds, the Mages' Guild (located on Magic Street) and the [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]] (the Bards' guild hall on Liederstrasse is considered the Great Hall), share the power in the city, but not the real estate of Guilders' Park.
@@ -28,14 +38,16 @@ It could be said that there are families of influence, rather than actual power,
 
 Business thrives in the North Corridor, but it is primarily a daytime area - most of the shops and offices have closed by 7:00 in the evening, and the streets and byways seem strangely silent and deserted (except, of course, for Caravan Street, which is usually bustling until midnight). During daylight hours, the men of the various contingents of the City Guard attached to the North Corridor are not seen in abundance - scattered individuals take an easy patrolling route. After the close of business, however, the patrol groups are larger and much more frequently seen in the business area; in the residential sections, [[settlements/the-glens|The Glens]] and Gateland (that small neighborhood of Commons which lies in the section of the North Corridor between the North Gate and the Caravan Gate, on the wrong side of The Trax), the guards patrol steadily at all times, but not in great force. There are four Guard Barracks in the North Corridor: Nobles' Way (48 men commanded by Jan Hacker); Northgate (48 guards under the orders of Beryn Perkins); Caravan Gate (Zeluan Kurtin, Captain of 80 men); and [[landmarks/the-mint|The Mint]], 160 well-trained soldiers under the command of [[people/claidhaemmor-redkilt|Claidhaemmor Redkilt]], who is also commander of the overall North Corridor contingent. The guardsmen in this section tend to be very conservative, and not prone to take chances; thus, they are less likely to give a suspicious character they encounter the benefit of the doubt, and more apt to arrest a man on minimal provocation (with all the money that lies in this small stretch of ground, it does not pay to allow the "wrong kind" to run around unrestricted).
 
-## Persons of Interest 
+## Persons of Interest
+
 - The [[organizations/families/hofstra-family|Hofstra Family]]: Wealthy bankers
 - The [[organizations/families/rand-family|Rand Family]]: Banking, real estate and commodities
 - [[people/kinderk|Kinderk]]: An ugly, filthy, scabby beggar, who frequents Caravan Street in the North Corridor.
 - [[people/petrovka|Petrovka]]: Young,  relatively pretty, with long, thick brown hair and hazel eyes, and a trim figure, and sells flowers from a small cart.
 - [[people/targoon|Targoon]]: North Bank's town drunk
 
-## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]] 
+## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]]
+
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
 | [roll:d1000]       | Encounter      | Roll       | Encounter      | Roll      | Encounter   |
@@ -58,7 +70,7 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 286-315       | [Auction](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Auction)       | 651-660       | [Directions](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Directions)       | 981-000       | [Gardayloo](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Gardayloo)    |
 | 316-335       | [[[person/mang|Mang]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Mang)       | 661-680       | [Jingle Bells](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Jingle_Bells)       |       |    |
 
-## People and Locations in The North Corridor 
+## People and Locations in The North Corridor
 
 | People      | Places   |
 |---|---|
@@ -96,19 +108,22 @@ While a party is wandering through the area roll d1000 to determine what random 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ![[maps/haven/the-north-corridor-full.jpg]]
 
 ---
-**Persons of Interest** 
+
+**Persons of Interest**
+
 - [[organizations/families/hofstra-family|Hofstra Family]]
 - [[organizations/families/rand-family|Rand Family]]
 - [[people/kinderk|Kinderk the Scrofulous]]
 - [[people/petrovka|Petrovka]]
 - [[people/targoon|Targoon]]
 
- **Neighborhoods** 
+ **Neighborhoods**
+
 - [[settlements/barristers-maze|Barristers' Maze]]
 - [[settlements/believers-lane|Believer's Lane]]
 - [[settlements/the-glens|The Glens]]
@@ -125,18 +140,19 @@ While a party is wandering through the area roll d1000 to determine what random 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 4554e4a9-db69-47da-9921-6c5850001ce8<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -145,19 +161,24 @@ While a party is wandering through the area roll d1000 to determine what random 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 1f0571c0-b8de-4b50-b010-5529cab6603b
 
 --- end-column ---
 
 Next:
+
 ce6589a2-427d-4318-9641-17d8ea7b2641
 
 --- end-multi-column

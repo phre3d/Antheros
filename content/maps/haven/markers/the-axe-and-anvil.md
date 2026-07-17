@@ -1,8 +1,12 @@
 ---
-location: [3490.493,  544.898]
+aliases: []
+tags: [map-marker]
+location: [3490.493, 544.898]
 mapmarker: Inns & Taverns
+title: The Axe and Anvil
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Axe and Anvil
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-axe-and-anvil|The Axe and Anvil]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
-
+**Description**<br>

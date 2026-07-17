@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Almira
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Almira
 
-### 
+###
 
-**Full Name:**  Almira      
+**Full Name:**  Almira
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ The cook at TheSilver Penny, she is a stocky woman with a sharp tongue and quick
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/almira]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

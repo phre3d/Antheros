@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Peering Tiefling
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Peering Tiefling
 
 ````col
@@ -37,39 +43,14 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
 ## Cast Once per Day
-**Racial** 
+
+**Racial**
+
 @3rd Level:  **Hellish Rebuke**  | @5th Level:  **Darkness**
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +3 to hit , 1d4+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

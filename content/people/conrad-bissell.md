@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #angelinas-guild #government-of-haven #the-south-docks #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, government-of-haven, import, npc, person, the-south-docks]
+title: Conrad Bissell
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Conrad Bissell
 
-### 
+###
 
-**Full Name:**  Conrad  Bissell    
+**Full Name:**  Conrad  Bissell
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Conrad is a small ferret faced man and is one of the three day-shift assistant c
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/conrad-bissell]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

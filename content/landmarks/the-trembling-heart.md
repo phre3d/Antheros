@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-inn #guild-of-the-hearth #inn
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, the-cauldron, type-inn]
+title: The Trembling Heart
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Trembling Heart
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Inn (Inns & Taverns)** 
+**Inn (Inns & Taverns)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Inn
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 2149637a-5a26-46a3-86b6-b1b6faf20649<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

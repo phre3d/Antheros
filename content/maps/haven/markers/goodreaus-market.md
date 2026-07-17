@@ -1,8 +1,12 @@
 ---
-location: [6311.921,  2258.163]
+aliases: []
+tags: [map-marker]
+location: [2258.163, 6311.921]
 mapmarker: Shopping
+title: "Goodreau's Market"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Goodreau's Market
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/goodreaus-market|Goodreau's Market]]<br>
 **Location Type:** Victualer
 
-**Description**<br> 
-
+**Description**<br>

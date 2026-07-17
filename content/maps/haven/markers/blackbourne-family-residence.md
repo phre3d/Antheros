@@ -1,8 +1,12 @@
 ---
-location: [5626.207,  2284.694]
+aliases: []
+tags: [map-marker]
+location: [2284.694, 5626.207]
 mapmarker: Residence
+title: Blackbourne Family Residence
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Blackbourne Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/blackbourne-family-residence|Blackbourne Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

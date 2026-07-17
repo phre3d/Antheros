@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-north-corridor]
+title: Johns Meriwether
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Johns Meriwether
 
-### 
+###
 
-**Full Name:**  Johns  Meriwether    
+**Full Name:**  Johns  Meriwether
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Meriwether, a small man hunched from years of leaning over his work, usually has
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/johns-meriwether]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

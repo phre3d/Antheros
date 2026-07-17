@@ -1,4 +1,10 @@
-#import #flora #essence-shadow-plant
+---
+aliases: []
+tags: [essence-shadow-plant, flora, import]
+title: Goblin-Trap
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Goblin-Trap
 
 ````col
@@ -49,7 +55,9 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 ````
 
 <!-- Standard page footer -->
+
 ---
+
 ````col
 ```col-md
 

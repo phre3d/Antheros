@@ -1,7 +1,13 @@
-#import #organization   #Free_City_of_Haven #type-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-family]
+title: de Kammeron Family
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # de Kammeron Family
 
-[[people/boccaccio-de-kammeron|Boccaccio de Kammeron]] and [[people/swayze-de-kammeron|Swayze de Kammeron]] are two young noblemen from the lands to the east of Haven now known as the Free Sector. Having no wealth or lands of their own to serve as a power base, they came to Haven, and used their titles as a bargaining point to obtain financially secure marriages with members of the wealthier guild families (i.e they are nobles-become-merchanter). 
+[[people/boccaccio-de-kammeron|Boccaccio de Kammeron]] and [[people/swayze-de-kammeron|Swayze de Kammeron]] are two young noblemen from the lands to the east of Haven now known as the Free Sector. Having no wealth or lands of their own to serve as a power base, they came to Haven, and used their titles as a bargaining point to obtain financially secure marriages with members of the wealthier guild families (i.e they are nobles-become-merchanter).
 
 >[!Private]
 >The de Kammeron's flagrant opportunism has aroused the hatred of some of the established aristocracy, particularly the [[organizations/young-stallions|Young Stallions]]; both are unaffected by such criticisms, and in fact dress in a very elegant, dandified fashion to show off their newly gained riches.
@@ -10,9 +16,10 @@ The family's home in Haven is located in The [[settlements/the-heights|The Heigh
 
 ---
 
-**Family Leader:** [[people/boccaccio-de-kammeron|Boccaccio de Kammeron]] 
+**Family Leader:** [[people/boccaccio-de-kammeron|Boccaccio de Kammeron]]
 
-**Members** 
+**Members**
+
 ```dataview
 LIST
 FROM #de-kammeron-family 

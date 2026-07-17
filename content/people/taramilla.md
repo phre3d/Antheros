@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Taramilla
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Taramilla
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Taramilla is aware of Kaspar Bundar's attentions but views him only as a friend.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/taramilla]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

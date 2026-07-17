@@ -1,8 +1,12 @@
 ---
-location: [1278.248,  4872.449]
+aliases: []
+tags: [map-marker]
+location: [1278.248, 4872.449]
 mapmarker: Residence
+title: House of Ivan and Sheela
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Ivan and Sheela
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/house-of-ivan-and-sheela|House of Ivan and Sheela]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

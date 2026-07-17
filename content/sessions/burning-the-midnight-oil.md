@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -25,4 +30,3 @@ A drunk half elf approachess and tries to pick a fight with Martin then Turin. M
 We go back to the Giggling Griffon. As we start to go to sleep, we feel the ground shake. We get the lurching sensation in our stomachs. This one feels really bad. Martin runs to the window. It is Earthday the 6th.
 
 ---
-

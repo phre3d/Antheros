@@ -1,9 +1,15 @@
-#import #person #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person]
+title: Dark Mother Superior
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Dark Mother Superior
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,10 @@ Her blood is the cure to any terrible and deadly sickness. Ironic, given who she
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

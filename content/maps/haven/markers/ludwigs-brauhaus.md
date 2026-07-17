@@ -1,8 +1,12 @@
 ---
-location: [2908.86,  4069.388]
+aliases: []
+tags: [map-marker]
+location: [2908.86, 4069.388]
 mapmarker: Inns & Taverns
+title: "Ludwig's Brauhaus"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Ludwig's Brauhaus
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/ludwigs-brauhaus|Ludwig's Brauhaus]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-artisan #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/artisan, import, npc, person, the-dwarrow]
+title: Tambel
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tambel
 
-### 
+###
 
-**Full Name:**  Tambel      
+**Full Name:**  Tambel
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ She is always accompanied by an enormous brown dog, Lokja, that has a pair of sm
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tambel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

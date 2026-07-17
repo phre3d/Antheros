@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Mandos
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Mandos
 
-### 
+###
 
-**Full Name:** God of Death       
+**Full Name:** God of Death
 
 `````col
 ````col-md
@@ -203,13 +209,10 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 75724afd-a80d-43de-940a-c251a3a5e798

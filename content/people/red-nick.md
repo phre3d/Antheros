@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-docks]
+title: Red Nick
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Red Nick
 
-### 
+###
 
-**Full Name:**  Red  Nick    
+**Full Name:**  Red  Nick
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Spends most of his time sitting around the bar, drinking from his private stock.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/red-nick]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

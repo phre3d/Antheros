@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-street-of-harps #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Ivan Petrushka
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Ivan Petrushka
 
-### 
+###
 
-**Full Name:**  Ivan  Petrushka    
+**Full Name:**  Ivan  Petrushka
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A tall, burly man with a thick black beard, bushy eyebrows and a scowl permanent
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ivan-petrushka]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

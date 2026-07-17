@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Llor Dimhee
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Llor Dimhee
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +7 to hit , 1d8+4 piercing damage  
   **Unarmed strike:**  +3 to hit , 1d1+0 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

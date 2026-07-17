@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Grazia de la Riis
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Grazia de la Riis
 
-### 
+###
 
-**Full Name:**  Grazia  de la Riis    
+**Full Name:**  Grazia  de la Riis
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Once a beautiful, lively queen of the Haven social circuit, [[person/tybalt-de-l
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/grazia-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

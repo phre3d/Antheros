@@ -1,4 +1,10 @@
-#import #material #potion-base
+---
+aliases: []
+tags: [import, material, potion-base]
+title: Pure Alcohol
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Pure Alcohol
 
 ````col
@@ -93,7 +99,9 @@ Dangerous to drink in significant quantity but still consumed by people with a d
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

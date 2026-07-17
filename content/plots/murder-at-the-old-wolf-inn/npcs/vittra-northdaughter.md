@@ -1,4 +1,10 @@
-#import #person #npc #Murder_at_the_Old_Wolf_Inn
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Vittra Northdaughter
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Vittra Northdaughter
 
 `````col
@@ -50,7 +56,9 @@ Vittra always tells the truth. According to the traditions in the Hinterlands, l
 `````
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Azimuth
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Azimuth
 
-### 
+###
 
-**Full Name:**  Azimuth      
+**Full Name:**  Azimuth
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ To the Guild, Azimuth is dead and gone, assumed to have perished along with his 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/azimuth]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

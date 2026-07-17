@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Truth Riverscar
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Truth Riverscar
 
-### 
+###
 
-**Full Name:** Station Captain Truth  Riverscar    
+**Full Name:** Station Captain Truth  Riverscar
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Station Captain of the [[landmark/judgement-gate-barracks|Judgement Gate B
 
 ---
 
-
-
 ![[people/blocks/truth-riverscar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

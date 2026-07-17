@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Jurgan Bland
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jurgan Bland
 
-### 
+###
 
-**Full Name:**  Jurgan  Bland    
+**Full Name:**  Jurgan  Bland
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ One of [[person/sulemon-duur|Sulemon Duur]]'s most trusted lieutenants, Jurgan (
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jurgan-bland]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

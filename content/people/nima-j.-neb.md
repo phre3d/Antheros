@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Nima J. Neb
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nima J. Neb
 
-### 
+###
 
-**Full Name:**  Nima J. Neb    
+**Full Name:**  Nima J. Neb
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Nima is an optician extradordinaire but tends to use archaic methods of eye adju
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nima-j.-neb]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2328.248,  6928.571]
+aliases: []
+tags: [map-marker]
+location: [2328.248, 6928.571]
 mapmarker: Shopping
+title: "Hyrim's Looms"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hyrim's Looms
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/hyrims-looms|Hyrim's Looms]]<br>
 **Location Type:** Textiles
 
-**Description**<br> 
-
+**Description**<br>

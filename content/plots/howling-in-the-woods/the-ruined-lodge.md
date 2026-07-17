@@ -1,4 +1,10 @@
-#import #plot  #Howling_in_the_Woods
+---
+aliases: []
+tags: [plot/Howling-in-the-Woods, import, plot]
+title: The Ruined Lodge
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Ruined Lodge
 
 ````col
@@ -55,8 +61,6 @@ Each of these five guest bedrooms contain wrecked furniture and a few remnants o
 
 ```
 ````
-
-
 
 ---
 

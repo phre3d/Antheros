@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Dragontooth
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dragontooth
 
-### 
+###
 
-**Full Name:**  Dragontooth      
+**Full Name:**  Dragontooth
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ General alley basher/legbreakers/other muscle.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dragontooth]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

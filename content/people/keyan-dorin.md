@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Keyan Dorin
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Keyan Dorin
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ The nephew of [[person/dagnir-saurul|Dagnir Saurul]]; he is tall and leonine, wi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/keyan-dorin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

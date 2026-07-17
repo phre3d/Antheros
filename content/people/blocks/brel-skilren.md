@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Sins_of_the_Past #npc
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past, statblock]
+title: Brel Skilren
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Brel Skilren
 
 ````col
@@ -40,39 +46,15 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 Young City Watch sergeant responsible for the City of the Dead. He started as a regular soldier at the South Docks and transferred to the Noble''s Way Station.  He was recently promoted to sergeant and assigned to City of the Dead. He was hoping that work in the park would be easier but slowly learns that guarding the City of the Dead presents its own unique challenges.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
-## Longsword 
-  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target. 
+
+## Longsword
+
+  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
+
   **Hit:**  6  slashing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-

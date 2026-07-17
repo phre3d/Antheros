@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Mustard & Fennel
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Mustard & Fennel
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/mustard-and-fennel|Mustard and Fennel]]<br>
 **Location Type:** Herbalist
 
-**Description**<br> 
-
+**Description**<br>

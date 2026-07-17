@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Cimeron
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cimeron
 
-### 
+###
 
-**Full Name:**  Cimeron      
+**Full Name:**  Cimeron
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Ship's mage on the Pavanne, he is a small, dark fellow whose skills include weat
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cimeron]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

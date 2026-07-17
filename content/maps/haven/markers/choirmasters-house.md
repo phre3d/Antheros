@@ -1,8 +1,12 @@
 ---
-location: [2486.411,  2414.286]
+aliases: []
+tags: [map-marker]
+location: [2414.286, 2486.411]
 mapmarker: Residence
+title: "Choirmaster's House"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Choirmaster's House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/choirmasters-house|Choirmaster's House]]<br>
 **Location Type:** Large House
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#import #statblock #person #npc #npc #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, npc, person, statblock]
+title: Yuri
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Yuri
 
 ````col
@@ -37,42 +43,18 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Special Abilities
+
 **Multiattack.**  Yuri makes two melee attacks.
 
 ![[dndline.png]]
 
 # Actions
-### Axe. 
-  **Melee weapon attack.**   to hit, reach 5 feet, one target. 
+
+### Axe.
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
   **Hit:** \_7  slashing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-

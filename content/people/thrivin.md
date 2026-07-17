@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Thrivin
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Thrivin
 
-### 
+###
 
-**Full Name:**  Thrivin      
+**Full Name:**  Thrivin
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A moneylender, who will make loans of up to 20,000gp to a dwarf from [[settlemen
 
 ---
 
-
-
 ![[people/blocks/thrivin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

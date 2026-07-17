@@ -1,7 +1,13 @@
-#import #person #Clockwork_Tower #npc #the-labyrinth #guild-of-metalsmiths
+---
+aliases: []
+tags: [plot/clockwork-tower, guild/metalsmiths, import, npc, person, the-labyrinth]
+title: Seraphina Steamspark
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Seraphina Steamspark
 
-### 
+###
 
 **Full Name:**  Seraphina  Steamspark   (Sera)
 
@@ -57,13 +63,10 @@ Sera and [[plots/clockwork-tower/npcs/olivia-chronosmith|Olivia Chronosmith]] wi
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

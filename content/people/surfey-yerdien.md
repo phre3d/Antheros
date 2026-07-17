@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #armorers-guild #the-south-corridor #npc
+---
+aliases: []
+tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Surfey Yerdien
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Surfey Yerdien
 
-### 
+###
 
 **Full Name:**  Surfey  Yerdien    Spearchucker
 
@@ -201,13 +207,12 @@ Surfey, or "spearchucker" is a real bow-lover, makes some of the best and larges
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/surfey-yerdien]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

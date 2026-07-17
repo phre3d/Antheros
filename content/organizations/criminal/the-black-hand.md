@@ -1,8 +1,11 @@
 ---
+aliases: []
+tags: [Free_City_of_Haven, organization/criminal, import, organization, the-black-hand]
 name: The Black Hand
+title: The Black Hand
+date modified: 2026-07-16, 9:18:37 pm
 ---
 
-#import #organization   #Free_City_of_Haven #type-guild-thieves
 # The Black Hand
 
 During the long history of Haven's [[organizations/criminal/thieves-guild|Thieves Guild]], there have been numerous occasions when dissatisfied thieves, for one reason or another, have split from their parent organization to form rival operations of their own. Most of these rival groups were quickly subdued by the Guild, and the renegades (minus a few chosen to serve as examples to others with like minds) were returned to the fold. The latest and best organized of these renegade bands has been that group known in Haven as The Black Hand.
@@ -15,7 +18,8 @@ The original Black Hand organization consisted of several guilds, each led by on
 
 Given the Thieves Guild's superior resources and entrenched position, the Hand has been forced to develop a different, more covert modus operandi than its rival. Rather than utilize a direct, centrally organized command chain, the Black Hand leadership runs a far more diffuse cellular system of semi¬autonomous guilds. Five such subordinate guilds, designated by the names of their masters, currently make up the Black Hand: one oversees mayhem of all sorts, and provides protection for the rest of the organization, one controls extortion, including loansharking and gambling, another runs Black Hand interests in smuggling and assorted vices, while two more handle traditional burglary, thieving, and second story operations. The "dues" paid by the member guilds are used by [[people/marco|Marco]] and his leaders to finance the more expensive components of a successful criminal network - the legitimate investments, arrangements with fences and informants, bribes for officials, and magical paraphernalia. The Hand's resources in these areas, however, are still far inferior to those of the Guild.
 
-## Joining the Hand 
+## Joining the Hand
+
 Joining the Hand varies in difficulty from member guild to member guild. The two "traditional" thieving guilds are the most elitist, and will only induct other thieves into their guild if they appear competent and experienced; the current conflict with the Thieves Guild is taking a high toll of Hand thieves, however, so that exceptional non-Hand thieves caught practicing their trade in Hand controlled areas may be given the opportunity to join as full members, rather than being summarily killed. Thieves who make an effort to contact the Hand (the easiest method is to ask around in the seedier taverns, and they will eventually find you) will be given a low cell level contact and asked to bring to that person a certain amount of money, usually on the order of 5-10,000 GP, to be stolen within the next few nights. Successful completion of such a task will bring about a probationary membership within the guild and induction into a low level cell; probationary guild members "donate" almost all of their take to the Hand treasury. After about three months, the cell will hold a meeting to decide if the probationary member is good enough to enter the guild; should they decide yes, the thief in question becomes a full member - otherwise, he is quietly eliminated.
 
 Recruitment into the other guilds is more complicated. More specialized operatives, such as assassins or loan sharks, are usually recruited from within the Hand, as occasion demands. Less specialized men, such as thugs, alleybashers, protection racketeers, and extortionists, are recruited from the normal lowlifes around the city. Very specialized types like sea captains and caravan masters, whom the Hand cannot itself train, are inducted into the Hand slowly and carefully, and only trusted after several years of association (usually after the Hand has accumulated a sufficient amount of blackmail material against the person in question). The only common denominator is the general principle that one does not approach the Hand, the Hand approaches you.
@@ -23,12 +27,15 @@ Recruitment into the other guilds is more complicated. More specialized operativ
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Guild, Thieves<br>
 **Leader:** [[people/marco]]<br>
 
 ## Structure
-Each Black Hand member guild is divided into a number of small cells, the leaders of lower level cells themselves form cells receiving orders from yet another designated commander. Since the member guilds are not large, rarely containing more than thirty or forty members at any given time, there are usually only two or three levels in the cell hierarchy before the guild master himself is reached. 
+
+Each Black Hand member guild is divided into a number of small cells, the leaders of lower level cells themselves form cells receiving orders from yet another designated commander. Since the member guilds are not large, rarely containing more than thirty or forty members at any given time, there are usually only two or three levels in the cell hierarchy before the guild master himself is reached.
 
 The two traditional thieving guilds are not large, containing but two or three cells whose leaders report directly to their master; the others are larger, with correspondingly complex organizations. The size of a cell varies according to its function. A cell of 'heavies' or muggers,  might contain as many as ten men, while cells of traditional thieves might contain as few as two or three. In general, members of one cell rarely know members of another, except from occasions when two or more cells have banded together for a large operation. Very large operations may demand the resources of two or more guilds, but this is extremely rare.
 

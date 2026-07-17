@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Nenya
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nenya
 
-### 
+###
 
-**Full Name:** Goddess of the Sea, Mother of Storms, Patron of Sailors       
+**Full Name:** Goddess of the Sea, Mother of Storms, Patron of Sailors
 
 `````col
 ````col-md
@@ -208,13 +214,10 @@ Her holy symbol is a cloud with a lightning bolt through it.
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: d65f1431-1ea7-474b-81f6-c34ab830cc0a

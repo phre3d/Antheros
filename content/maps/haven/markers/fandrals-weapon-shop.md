@@ -1,8 +1,12 @@
 ---
-location: [1056.819,  3903.061]
+aliases: []
+tags: [map-marker]
+location: [1056.819, 3903.061]
 mapmarker: Shopping
+title: "Fandral's Weapon Shop"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Fandral's Weapon Shop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/fandrals-weapon-shop|Fandral's Weapon Shop]]<br>
 **Location Type:** Weapons
 
-**Description**<br> 
-
+**Description**<br>

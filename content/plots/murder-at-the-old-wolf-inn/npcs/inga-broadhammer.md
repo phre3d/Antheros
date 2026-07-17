@@ -1,4 +1,10 @@
-#import #person #npc #Murder_at_the_Old_Wolf_Inn
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Inga Broadhammer
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Inga Broadhammer
 
 `````col
@@ -56,13 +62,10 @@ She is entirely unaware that it was Jon who actually murdered Artemis.
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

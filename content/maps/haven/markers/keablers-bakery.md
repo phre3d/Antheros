@@ -1,8 +1,12 @@
 ---
-location: [3536.411,  1426.531]
+aliases: []
+tags: [map-marker]
+location: [1426.531, 3536.411]
 mapmarker: Shopping
+title: "Keabler's Bakery"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Keabler's Bakery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/keablers-bakery|Keabler's Bakery]]<br>
 **Location Type:** Baker
 
-**Description**<br> 
-
+**Description**<br>

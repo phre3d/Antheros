@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Constable 1
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Constable 1
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +7 to hit , 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,16 +1,26 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-residence #type-large-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, street-of-harps, type-large-house]
+title: "Choirmaster's House"
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Choirmaster's House
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## Exterior 
-A three-story [[people/brick|Brick]] house with a slate roof, set back from the street, with a walled garden in the back. It is the home of [[people/anton-valvidi|Anton Valvidi]], the noted composer and choirmaster. He lives here with his daughter and her husband, and their two children. [[people/anton-valvidi|Anton Valvidi]] does not write much music anymore, and seems contented in retirement, only occasionally appearing professionally in Haven (see [[people/anton-valvidi|Anton Valvidi]], NPC's The South Corridor) 
+
+## Exterior
+
+A three-story [[people/brick|Brick]] house with a slate roof, set back from the street, with a walled garden in the back. It is the home of [[people/anton-valvidi|Anton Valvidi]], the noted composer and choirmaster. He lives here with his daughter and her husband, and their two children. [[people/anton-valvidi|Anton Valvidi]] does not write much music anymore, and seems contented in retirement, only occasionally appearing professionally in Haven (see [[people/anton-valvidi|Anton Valvidi]], NPC's The South Corridor)
 
  His son-in-law, Darrel Hayden, is an average bard, with dreams of finding a good patron. But Anton will not recommend him to the Duke. Of late, this has caused some friction in the family.
 
@@ -48,7 +58,7 @@ A three-story [[people/brick|Brick]] house with a slate roof, set back from the 
 
 **Image:** n/a
 
-**Large House (Residence)** 
+**Large House (Residence)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ A three-story [[people/brick|Brick]] house with a slate roof, set back from the 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House, Large
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A three-story [[people/brick|Brick]] house with a slate roof, set back from the 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 60c189da-54c7-48d0-914c-14733733e3f0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -90,7 +103,9 @@ A three-story [[people/brick|Brick]] house with a slate roof, set back from the 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

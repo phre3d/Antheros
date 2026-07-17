@@ -1,8 +1,12 @@
 ---
-location: [1207.84,  2482.653]
+aliases: []
+tags: [map-marker]
+location: [1207.84, 2482.653]
 mapmarker: City Guard
+title: Judgement Gate Barracks
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Judgement Gate Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/judgement-gate-barracks|Judgement Gate Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

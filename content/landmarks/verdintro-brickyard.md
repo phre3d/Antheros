@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-construction #guild-of-erectors #construction
+---
+aliases: []
+tags: [cat-shop, construction, Free_City_of_Haven, guild/erectors, import, landmark, the-south-corridor, type-construction]
+title: Verdintro Brickyard
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Verdintro Brickyard
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## For your wall 
 
-## Description 
+# Description
+
+## For your wall
+
+## Description
+
 All kinds of bricks.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ All kinds of bricks.
 
 **Image:** n/a
 
-**Construction (Service)** 
+**Construction (Service)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ All kinds of bricks.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ All kinds of bricks.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 4635ebfd-1a89-4853-8ba4-7e53304c5fff<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ All kinds of bricks.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

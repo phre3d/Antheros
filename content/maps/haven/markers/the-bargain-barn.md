@@ -1,8 +1,12 @@
 ---
-location: [1095.595,  3937.755]
+aliases: []
+tags: [map-marker]
+location: [1095.595, 3937.755]
 mapmarker: Shopping
+title: The Bargain Barn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Bargain Barn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-bargain-barn|The Bargain Barn]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

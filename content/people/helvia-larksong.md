@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #council-of-masters #the-street-of-harps #the-cleff #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/entertainers, import, npc, person, the-cleff, the-street-of-harps]
+title: Helvia Larksong
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Helvia Larksong
 
-### 
+###
 
-**Full Name:**  Helvia  Larksong    
+**Full Name:**  Helvia  Larksong
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Master of Journeymen in the Entertainers Guild, Helvia is a middle-aged, slightl
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/helvia-larksong]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

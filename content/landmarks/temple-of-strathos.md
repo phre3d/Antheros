@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #believers-lane #cat-religion #type-temple #religion
+---
+aliases: []
+tags: [believers-lane, cat-religion, Free_City_of_Haven, import, landmark, religion, type-temple]
+title: Temple of Strathos
+date modified: 2026-07-16, 9:18:47 pm
+---
+
 # Temple of Strathos
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## God of War, Strength, and Courage; Patron of Warriors 
 
-## Description 
+# Description
+
+## God of War, Strength, and Courage; Patron of Warriors
+
+## Description
+
 The temple of Strathos is located across from the temple of Dorian. It is a mishmash of buildings, with four different sections each of different height. The actual chapel of Kethrin is buried deep inside the maze of corridors and rooms. Most of the complex is a hostel capable of housing over 500 - the only requirement is that one acknowledge Kethrin.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The temple of Strathos is located across from the temple of Dorian. It is a mish
 
 **Image:** n/a
 
-**Temple (Religion)** 
+**Temple (Religion)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The temple of Strathos is located across from the temple of Dorian. It is a mish
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Cathedral / Great temple
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/believers-lane|Believer's Lane]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The temple of Strathos is located across from the temple of Dorian. It is a mish
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9a9774f7-932a-4b70-a825-e59ea034ab99<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Believer's Lane<br>
@@ -90,7 +103,9 @@ The temple of Strathos is located across from the temple of Dorian. It is a mish
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

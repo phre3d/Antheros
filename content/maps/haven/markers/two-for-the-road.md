@@ -1,8 +1,12 @@
 ---
-location: [2552.738,  1841.837]
+aliases: []
+tags: [map-marker]
+location: [1841.837, 2552.738]
 mapmarker: Inns & Taverns
+title: Two For The Road
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Two For The Road
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/two-for-the-road|Two For The Road]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

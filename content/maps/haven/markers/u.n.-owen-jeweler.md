@@ -1,8 +1,12 @@
 ---
-location: [4953.758,  4801.02]
+aliases: []
+tags: [map-marker]
+location: [4801.02, 4953.758]
 mapmarker: Shopping
+title: U.N. Owen - Jeweler
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # U.N. Owen - Jeweler
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/u.n.-owen-jeweler|U.N. Owen - Jeweler]]<br>
 **Location Type:** Jeweler
 
-**Description**<br> 
-
+**Description**<br>

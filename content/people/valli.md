@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #armorers-guild #the-dwarrow #npc
+---
+aliases: []
+tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Valli
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Valli
 
-### 
+###
 
-**Full Name:**  Valli      
+**Full Name:**  Valli
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ These days, he has begun to view his situation as hopeless, and is strongly cons
 
 ---
 
-
-
 ![[people/blocks/valli]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

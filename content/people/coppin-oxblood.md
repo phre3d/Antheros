@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #brotherhood-of-the-broken-blade #the-dwarrow #npc
+---
+aliases: []
+tags: [brotherhood-of-the-broken-blade, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Coppin Oxblood
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Coppin Oxblood
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Leader of the [[organization/brotherhood-of-the-broken-blade|Brotherhood of the 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/coppin-oxblood]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

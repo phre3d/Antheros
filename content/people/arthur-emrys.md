@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-corridor]
+title: Arthur Emrys
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Arthur Emrys
 
-### 
+###
 
-**Full Name:**  Arthur  Emrys    
+**Full Name:**  Arthur  Emrys
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ The owner of [[landmark/the-pendragon-inn|The Pendragon Inn]] is a tall, brawny 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/arthur-emrys]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

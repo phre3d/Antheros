@@ -1,8 +1,12 @@
 ---
-location: [4380.289,  429.592]
+aliases: []
+tags: [map-marker]
+location: [429.592, 4380.289]
 mapmarker: Shopping
+title: Greataxe Printing
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Greataxe Printing
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/greataxe-printing|Greataxe Printing]]<br>
 **Location Type:** Written Word
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, tainley-family, the-heights]
+title: Stella Tainley
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Stella Tainley
 
-### 
+###
 
-**Full Name:** Lady Stella  Tainley    
+**Full Name:** Lady Stella  Tainley
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Stella, a tall, rather rounded blonde who wears her hair in braids adorned by th
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/stella-tainley]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #hostra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hostra-family, import, npc, person, the-glens]
+title: Dauge Hofstra
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dauge Hofstra
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Dauge and his identical twin [[person/charlie|Charlie]] are identical twins. The
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dauge-hofstra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

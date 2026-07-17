@@ -1,8 +1,12 @@
 ---
-location: [3254.779,  4588.776]
+aliases: []
+tags: [map-marker]
+location: [3254.779, 4588.776]
 mapmarker: Shopping
+title: Sirius the Scribe
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Sirius the Scribe
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/sirius-the-scribe|Sirius the Scribe]]<br>
 **Location Type:** Scribe
 
-**Description**<br> 
-
+**Description**<br>

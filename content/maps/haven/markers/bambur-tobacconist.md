@@ -1,8 +1,12 @@
 ---
-location: [4160.901,  473.469]
+aliases: []
+tags: [map-marker]
+location: [4160.901, 473.469]
 mapmarker: Shopping
+title: Bambur - Tobacconist
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bambur - Tobacconist
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/bambur-tobacconist|Bambur - Tobacconist]]<br>
 **Location Type:** Tobacco
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -11,4 +16,3 @@
 The next day we head back to Haven. On our way back, we are accosted by a man and a woman who ask if we are headed to Haven. They are Manykeor and Sarah, the head of Oakenville. They have a goblin problem and all their townfolk are off at Timberfloatn. While we discuss what to do, Turin follows them to help.
 
 ---
-

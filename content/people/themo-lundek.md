@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Themo Lundek
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Themo Lundek
 
-### 
+###
 
-**Full Name:** Station Captain Themo  Lundek    
+**Full Name:** Station Captain Themo  Lundek
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Station Captain of [[landmark/the-academy|The Academy]] barracks of the Ha
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/themo-lundek]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

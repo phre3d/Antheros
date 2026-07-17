@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Reliddack Wulviss
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Reliddack Wulviss
 
 ````col
@@ -37,42 +43,20 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 Minor Illusion (cantrip)
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Special Abilities
+
 **Gnome Cunning:**  Reliddack has advantage on intelligence wisdom and charisma saving throws against magic.
+
   **Speak with small Animals:**  Reliddack can communicate with small animals to convey simple ideas best.
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +4 to hit , 1d4+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

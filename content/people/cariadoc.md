@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #cariadocs-guild #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [cariadocs-guild, Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Cariadoc
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cariadoc
 
-### 
+###
 
-**Full Name:**  Cariadoc      
+**Full Name:**  Cariadoc
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Cariadoc is a short, broad-shouldered man with a handsome' face and a wide grin.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cariadoc]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

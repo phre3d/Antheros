@@ -1,8 +1,12 @@
 ---
-location: [6540.493,  4727.551]
+aliases: []
+tags: [map-marker]
+location: [4727.551, 6540.493]
 mapmarker: City Guard
+title: Northgate Barracks
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Northgate Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/northgate-barracks|Northgate Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

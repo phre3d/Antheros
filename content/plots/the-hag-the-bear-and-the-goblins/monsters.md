@@ -1,4 +1,10 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: Monsters
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Monsters
 
 ````col
@@ -34,7 +40,6 @@ flexGrow=2.5
 ![[~attachments/dndline.png]]
 ```
 ````
-
 
 ---
 

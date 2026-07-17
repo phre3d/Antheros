@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -33,7 +38,7 @@ Martin goes to the nearby guard station to get a couple Watch to stand guard whi
 At the Griffon, Porky wants to know what is going on.  When we explain, he gets the staff to help. He sends Alene to get Thom.
 
 Arada reads the book she got from the basement. She **is able to pick out some notes from the last week with corresponding dates:**
->
+
 >7 - Clear out for the 10th
 >
 >9 - Boy. Left over from last set (lot 32)
@@ -47,11 +52,10 @@ Arada reads the book she got from the basement. She **is able to pick out some n
 >      Owner would have freaked out (we know she was confused about this set of people downstairs)
 
 Also we know:
->
+
 >12th - Thieves’ guild tries to break in and realized the store wasn’t as expected
 >
 >13th - We rescue the women (and boy) 
->
 
 Eugene conducts a communal interview. 
 
@@ -94,6 +98,7 @@ She speculates the Hand has been using the owner of Fine Silks and Fabrics as a 
 Back on the river bank, Torik is bored.  Turin tells him he can go play in the Plaza. Martin gets him a rock for tracking purposes.
 
 At the Thieve’s Guild, they ask Arada what the Irregular’s plans are. 
+
 1) Make sure the slave run stays shut down.  
 2) Ask for the Guild’s help watching to see any unusual boat traffic.
 
@@ -104,4 +109,3 @@ We compare notes. Especially the Swiftsword conjecture. We would have expected a
 As we go to grab Torik, he has gone wandering, probably into the woods. Turin and Eugene try to locate him through tracking and magic. He went into Erenhir which is known to be off limits-ish. It is also 2-2:30 in the morning.  Martin and Turin decide to crash at the local barracks to pick up the search in the morning.
 
 ---
-

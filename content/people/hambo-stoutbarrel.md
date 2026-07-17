@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-dell]
+title: Hambo Stoutbarrel
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Hambo Stoutbarrel
 
-### 
+###
 
-**Full Name:**  Hambo  Stoutbarrel    
+**Full Name:**  Hambo  Stoutbarrel
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A middle-aged halfling of tremendous girth, who is always dressed in a tent-like
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/hambo-stoutbarrel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

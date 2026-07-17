@@ -1,14 +1,23 @@
-#import #settlement #Free_City_of_Haven #quarter
+---
+aliases: []
+tags: [Free_City_of_Haven, import, quarter, settlement]
+title: The Commons
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The Commons
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 [dc]W[/dc]ithout any competition, the Commons is the largest borough in the city in population. It occupies almost everything to the east of Journeymen's Road and Caravan Street on the north side of the river, includes the section east of The Trax and north of Wall Street, and contains most of the factories located inside the city's walls. One quarter of the city's population lives here, and they are the primary labor force for these factories (factory as applied in the context of the city of Haven does not mean one of the highly automated, noisy, smoky leviathans we know in 1981 - it doth refer to a building in which different items are made, but there are few assembly lines, and any technological equivalents tend to be arcane, not mechanical; there are simply a lot of people engaged in making the various products of the business), and tend to be on the lowest scales of income available (just above the beggars).
 
 Along the river's edge is a substantial section of piers and wharves, which service the large sea-going vessels which beat their way through the delta and up the forty-odd miles of the Dorian to Haven. These ships may carry cargo from as far away as Carrenth in fabled Khemmia, and many are owned by the wealthy traders of the city; each trip only seems to make these men richer.
@@ -21,14 +30,20 @@ Life in the Commons is hard, and there is little of glory or adventure in the da
 
 The Guard contingent of the Commons has its barracks near the Copper Gate, on the eastern wall. The contingent numbers 120 men, and patrols the area of  [[settlements/the-south-docks|The South Docks]], the warehouse and factory district, and the dwellings up to Caravan Street. They tend to travel in groups of three to five after dark, and will normally respond to cries for help or assistance. The overall captain of the [[organizations/haven-city-watch|Haven City Watch]] in The Commons is Tikkan Maltby (#402), who is generally available at the barracks during the day; his four watch lieutenants are Hial Burry, Radanthis, Llor Dimhee (#403), and Cabal Thunderstroke (a ham-handed individual with a penchant for roundhouse rights) - each has a 25% chance of being on duty at any given time, and only Radanthis is married and lives at home.
 
-## Persons of Interest 
+## Persons of Interest
+
 --Bokkhra::An exceptional troll, the only member of his race known to be resident in Haven.--
+
 --Tikkan Maltby::The Captain of the Commons Guard--
+
 --The Black Hand::Recent rival to the Thieves Guild--
 
-## GM's Notes 
+## GM's Notes
+
 Two shops, a tavern, and a rooming house have been included for those GMs whose players insist on wandering into the area, but the only sensible reasons for entering the Commons are to seek temporary employment at one of the numerous factories and/or mills in the area near the docks, or to find a cheap place to live.
+
 Jobs of all descriptions are available, so that anyone with any type of practical training should have no problem locating a job, regardless of their level of expertise. Base chances should be modified by the following factors:
+
 - + 5% for each point of CHA > 13
 - -5% for each point of CHA < 7
 - -35% if character has no experience
@@ -40,18 +55,20 @@ In the common trades (laborer, carpenter, tanner, etc.), there is a 65% base cha
 
 Pay is low in the Commons, with the average being 10gp a week, for six days of 10 hours each, at a journeyman's equivalent level of training in one of the common trades. Apprentices will normally be offered half that, 5gp, while experienced journeymen will hear offers of 15gp to 18gp. A master will seldom be content to work for less than 30gp. Wages in the business trades are about 150% of the common trades, and the exotic trades run about 250% of the common wages. Foremen's and supervisors' positions will usually pay experienced journeymen's wages for the particular class of trade, and executive positions (plant manager, chief clerk, etc.) will pay masters' wages for that class. The GM is advised that "out-of-towners" are unlikely to find executive positions, and will have much less chance of getting middle management jobs (foreman, supervisor) as well.
 
-Living expenses in the Commons are comparatively low, but are not dirt cheap (unless one has to kick aside the dirt to get at the cheap). 
+Living expenses in the Commons are comparatively low, but are not dirt cheap (unless one has to kick aside the dirt to get at the cheap).
 
 - A moderate room and board rate would be about 5gp a week  in many of the boarding houses in the Commons. Bath down the hall, breakfast (coffee and donut equivalent, brown bag lunch, and dinner) no service for latecomers, and the bedding changed and cleaned once every two weeks.
 - Rooms alone run from 8 SP (kick the rats out and fight the bedbugs for the sheets) to 12gp (a relatively clean two-room suite with fireplace for cooking) a week, slightly less if taken by the month.  All rents in advance, please,
 - A flat will normally rent for 50gp to 80gp a month unfurnished, about a 30% more if it is furnished.
 
-Food costs in the taverns that do serve food are capable of running from the sublime (3cp for steak) to the ridiculous (1gp for beans), and hitting all the points in between. The GM should scale meal costs according to the quality and price ranges for the various taverns. 
+Food costs in the taverns that do serve food are capable of running from the sublime (3cp for steak) to the ridiculous (1gp for beans), and hitting all the points in between. The GM should scale meal costs according to the quality and price ranges for the various taverns.
 
 Groceries in the Commons should run around 4gp for a family of four (let's face it - they'll probably run the same for a family of one, two, or three) for a week's worth of minimal eating (little meat - and that mostly poorer cuts, lots of vegetables, and heavy on the starches). Better eating will cost more.
+
 [anchor|street_encounters]
 
-## Random Street Encounters 
+## Random Street Encounters
+
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
 | [roll:d1000]       | Encounter       |       | Encounter       |       | Encounter    |
@@ -74,7 +91,7 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 305-325       | [Yok](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Yok)       | 636-665       | [Runaways](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Runaways)       | 966-000       | [Gardayloo](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Gardayloo)    |
 | 326-345       | [Mang](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Mang)       | 666-675       | [Directions](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Directions)       |       |    |
 
-## People and Locations in the Commons 
+## People and Locations in the Commons
 
 | People      | Places   |
 |---|---|
@@ -112,17 +129,20 @@ While a party is wandering through the area roll d1000 to determine what random 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ![[maps/haven/the-commons-full.jpg]]
 
 ---
-**Persons of Interest** 
+
+**Persons of Interest**
+
 - [[people/bokkhra|Bokkhra]]
 - [[people/tikkan-maltby|Tikkan Maltby]]
 - [[organizations/criminal/the-black-hand|The Black Hand]]
 
- **Neighborhoods** 
+ **Neighborhoods**
+
 - [[settlements/the-south-docks|The South Docks]]
 
 ---
@@ -136,18 +156,19 @@ While a party is wandering through the area roll d1000 to determine what random 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8ff1c19a-c29d-4050-9c7c-7200f23453be<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -156,19 +177,24 @@ While a party is wandering through the area roll d1000 to determine what random 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 433922e7-e67a-4bfc-a438-e591c5497f24
 
 --- end-column ---
 
 Next:
+
 e2e38a16-2c10-443d-b40a-6789aa7c041a
 
 --- end-multi-column

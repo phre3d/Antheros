@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #trademasters-square #cat-guild #type-guildhouse #guild-of-erectors #guild
+---
+aliases: []
+tags: [cat-guild, Free_City_of_Haven, guild, guild/erectors, import, landmark, trademasters-square, type-guildhouse]
+title: Guildhall of Erectors
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Guildhall of Erectors
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Guildhouse (Guild)** 
+**Guildhouse (Guild)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guildhall
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trademasters-square|Trademasters' Square]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 47f68241-5969-4375-9ad1-e302435f0391<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trademasters' Square<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

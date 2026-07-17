@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Tzindala
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Tzindala
 
-### 
+###
 
-**Full Name:**  Tzindala      
+**Full Name:**  Tzindala
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Random entertainer to be user as necessary
 
 ---
 
-
-
 ![[people/blocks/tzindala]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,14 +1,23 @@
-#import #settlement #10-cities
+---
+aliases: []
+tags: [10-cities, import, settlement]
+title: Brighton
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # Brighton
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 One of the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]]
 
 # Demographics
@@ -43,29 +52,30 @@ One of the [[organizations/confederation-of-the-ten-cities|Confederation of the 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** <br>
 **Other Name(s):** <br>
-**Located In:** 
+**Located In:**
 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:**  <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 --- end-multi-column
 
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

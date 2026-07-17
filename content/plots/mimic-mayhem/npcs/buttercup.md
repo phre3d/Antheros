@@ -1,5 +1,12 @@
-#person #npc 
+---
+aliases: []
+tags: [npc, person]
+title: Buttercup
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Buttercup
+
 medium, canine, neutral
 
 **Armour Class:** 12<br>
@@ -18,6 +25,7 @@ medium, canine, neutral
 **Senses:** see below<br>
 
 # Special Traits
+
 **Keen Hearing and Smell**. The dog has advantage on Wisdom(Perception) checks that rely on hearing or smell.
 
 >[!infobox]
@@ -27,6 +35,7 @@ medium, canine, neutral
 ---
 
 # Actions
+
 **Bite.**<br>
 *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target.<br>
 *Hit:* 1d4-1 piercing damage.
@@ -34,9 +43,11 @@ medium, canine, neutral
 ---
 
 # Description
-Buttercup is a large breed dog (think Bernese Mountain dog) that was found wandering alone  by [[plots/mimic-mayhem/npcs/rosy-rumblegarden|Rosy Rumblegarden]] and [[plots/mimic-mayhem/npcs/mazlo-merryshadow|Mazlo Merryshadow]] on their journey. They quickly took her in and named he Buttercup. 
+
+Buttercup is a large breed dog (think Bernese Mountain dog) that was found wandering alone  by [[plots/mimic-mayhem/npcs/rosy-rumblegarden|Rosy Rumblegarden]] and [[plots/mimic-mayhem/npcs/mazlo-merryshadow|Mazlo Merryshadow]] on their journey. They quickly took her in and named he Buttercup.
 
 She is friendly one she gets to know you but wary of strangers.
 
 ---
+
 **Source:** [[plots/mimic-mayhem/mimic-mayhem|Mimic Mayhem]]

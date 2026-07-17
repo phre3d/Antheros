@@ -1,8 +1,12 @@
 ---
-location: [1713.962,  1883.673]
+aliases: []
+tags: [map-marker]
+location: [1713.962, 1883.673]
 mapmarker: Residence
+title: The Widow Shelakii - Rooms
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Widow Shelakii - Rooms
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/the-widow-shelakii-rooms|The Widow Shelakii - Rooms]]<br>
 **Location Type:** Rooming House
 
-**Description**<br> 
-
+**Description**<br>

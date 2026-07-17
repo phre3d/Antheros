@@ -1,4 +1,10 @@
-#import #material #potion-base
+---
+aliases: []
+tags: [import, material, potion-base]
+title: Calcium Grease
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Calcium Grease
 
 ````col
@@ -92,7 +98,9 @@ Used by [[profession/herbalist|Herbalists]] as a base for making  *common*  poti
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Yok Guard 2
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Yok Guard 2
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +5 to hit , 1d4+3 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

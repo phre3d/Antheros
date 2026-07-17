@@ -1,8 +1,12 @@
 ---
-location: [6351.717,  2342.857]
+aliases: []
+tags: [map-marker]
+location: [2342.857, 6351.717]
 mapmarker: Shopping
+title: The Tool Shed
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Tool Shed
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-tool-shed|The Tool Shed]]<br>
 **Location Type:** Tools
 
-**Description**<br> 
-
+**Description**<br>

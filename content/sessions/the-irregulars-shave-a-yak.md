@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -98,7 +103,7 @@ He growls to teh bear"we come in peace, are you okay ” “it hurts, everything
 
 “Smaller than me ” “yes ”
 
-"Smaller than her on the rock""no... stabby things"
+"Smaller than her on the rock""no… stabby things"
 
 "When do they come?" "
 
@@ -120,7 +125,7 @@ Turin says now that we've helped him, will he no longer hurt the old lady. He sa
 
 Turin also looks at the dead goblin stabby things to see if he recognizes any tribal patches. They are the tribe endemic to the Khuz mountains.
 
-Martin sends a message to Lyza"We found the gems, we're hunting some goblins for the bear so the hag will cure the sick kids". u201cBlink blink... I'm sure that makes sense in context"
+Martin sends a message to Lyza"We found the gems, we're hunting some goblins for the bear so the hag will cure the sick kids". u201cBlink blink… I'm sure that makes sense in context"
 
 He then sends one to Olivia"We have the gems, how many do we need and can you tell Jillie at the pastry store Martin and his friends are okay""3-4 pounds, and I can go get pastry"
 
@@ -129,4 +134,3 @@ We think that betweens we have enough.
 The night passesneventfully
 
 ---
-

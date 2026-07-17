@@ -1,4 +1,10 @@
-#import #plot  #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, plot]
+title: "Bridge: Post Goblin Trouble"
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Bridge: Post Goblin Trouble
 
 ````col
@@ -50,7 +56,6 @@ Use the following and pause after each. As soon as Martin starts to speak Jillie
 
 ```
 ````
-
 
 ---
 

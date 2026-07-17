@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-heights]
+title: Anise Thyme
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Anise Thyme
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Sells exotic spices, rare food delicacies, and other unusual items. Anise will b
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/anise-thyme]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/entertainers, import, npc, person, the-street-of-harps]
+title: Zarabem
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zarabem
 
-### 
+###
 
-**Full Name:**  Zarabem      
+**Full Name:**  Zarabem
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Zarabem is a well-built man of medium height, with golden hair and blue eyes. He
 
 ---
 
-
-
 ![[people/blocks/zarabem]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

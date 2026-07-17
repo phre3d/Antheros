@@ -1,51 +1,71 @@
-#import #landmark   #Free_City_of_Haven #erinhir #cat-shop #type-construction #guild-of-erectors #construction
+---
+aliases: []
+tags: [cat-shop, construction, erinhir, Free_City_of_Haven, guild/erectors, import, landmark, type-construction]
+title: Teleril - Architect
+date modified: 2026-07-16, 9:18:47 pm
+---
+
 # Teleril - Architect
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Advice and custom planning 
 
-## Description 
+# Description
+
+## Advice and custom planning
+
+## Description
+
 [[people/teleril-conindir|Teleril Conindir]] - has studied architecture for 100 years and more. He is well dressed, having vast amounts of money available to adorn himself richly. His services are renowned throughout Haven because his designs confer magical properties to the structures they depict (Teleril is very talented, but he was never trained as a mage).
 
-## Exterior 
+## Exterior
+
 A sign displays a compass superimposed over a [[people/brick|Brick]] pattern hanging over a steel bound oaken door. The two story red [[people/brick|Brick]] building with shaded windows has an alleyway surrounding it. The windows prevent outsiders from seeing the inside of the structure.
 
-## Interior 
+## Interior
+
 The shades conceal an extravagantly furnished set of offices and studios with large desks, file cabinets, and drafting tables as the major furniture pieces.
 
-## Hours 
+## Hours
+
 10:00am to 6:00pm.
 
-## Price Range 
+## Price Range
+
 Costly, but advice costs only 10 to 60gp (free for friends).
 
-## Quality 
+## Quality
+
 Excellent.
 
-## Cash Box 
+## Cash Box
+
 In Teleril's office desk-drawer, a stout leather bag with a Complexity 2 lock contains receipts, invoices and IOU's, in addition to 1d10 x 1d100gp.
 
-## Staff 
-Teleril works hard in his business but has a constant work influx. His son, Celeblinde, helps him out every weekend, or when the overtime hits. 
+## Staff
 
-A maid from Teleril's residence comes in once a week to clean up. 
+Teleril works hard in his business but has a constant work influx. His son, Celeblinde, helps him out every weekend, or when the overtime hits.
+
+A maid from Teleril's residence comes in once a week to clean up.
 
 A player trying for a job with Tel will get it only if a saving roll against CHA is made; -6 if apprentice, -2 if journeyman, +2 if master architect.
 
-## Customers 
+## Customers
+
 There is a 50% chance for 1d4 individual customers at all times, and a separate 30% chance for 1d2 couples looking at samples and asking advice.
 
-## NPC Encounters 
+## NPC Encounters
+
 Various nobles looking for good (and hopefully free) advice are occasionally encountered in the main office.
 
-## Outstanding Items 
+## Outstanding Items
+
 Good drawing tools and pens, high quality paper, and expensive furniture.
 
 # Purpose / Function
@@ -82,7 +102,7 @@ Good drawing tools and pens, high quality paper, and expensive furniture.
 
 **Image:** n/a
 
-**Construction (Service)** 
+**Construction (Service)**
 
  **Owner:**  Teleril Conindir
 
@@ -94,12 +114,14 @@ Good drawing tools and pens, high quality paper, and expensive furniture.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/erinhir|Erinhir]]
 
 **Connected Rooms:**
@@ -116,6 +138,7 @@ Good drawing tools and pens, high quality paper, and expensive furniture.
 ---
 
 ### World Anvil Metadata
+
 **Id:** e94390ec-8cbe-41f0-83d2-fbff8e183fcd<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Erinhir<br>
@@ -124,7 +147,9 @@ Good drawing tools and pens, high quality paper, and expensive furniture.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

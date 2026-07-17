@@ -1,8 +1,12 @@
 ---
-location: [4432.33,  759.184]
+aliases: []
+tags: [map-marker]
+location: [4432.33, 759.184]
 mapmarker: Dining
+title: "Katzi's Dwarven Deli"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Katzi's Dwarven Deli
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/katzis-dwarven-deli|Katzi's Dwarven Deli]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -38,15 +43,21 @@ Small Humanoid neutral evil
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Nimble Escape.**  The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Scimitar 
-   **Melee weapon attack.**   to hit, reach 5 feet, one\_target.
-  **Hit:**  6  slashing damage.  
-### Shortbow 
-  **Ranged weapon attack.**   to hit, range 80 feet, one\_target. 
-  **Hit:**  6  piercing damage.
 
+### Scimitar
+
+   **Melee weapon attack.**   to hit, reach 5 feet, one\_target.
+
+  **Hit:**  6  slashing damage.  
+
+### Shortbow
+
+  **Ranged weapon attack.**   to hit, range 80 feet, one\_target.
+
+  **Hit:**  6  piercing damage.

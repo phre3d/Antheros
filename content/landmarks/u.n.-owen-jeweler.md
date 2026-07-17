@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-shop #type-jeweler #jewelers-guild #jeweler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jeweler, jewelers-guild, landmark, the-north-corridor, type-jeweler]
+title: U.N. Owen - Jeweler
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # U.N. Owen - Jeweler
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Some of the nicest jewelry in Haven 
 
-## Description 
+# Description
+
+## Some of the nicest jewelry in Haven
+
+## Description
+
 U. N. Owen (the U. N. stands for Ulysses Nicodemus) is middle-aged, graying, and among the top five jewelers in Haven (Cellini is acknowledged number one - grudgingly in many instances). He produces most of his items in the workshop in his home, with the aid of a dozen apprentices and journeymen, and wholesales these pieces to a number of shops throughout the city. Seldom does he retail, other than very special commissions for the nobility. His home is a large, three-story building with a workshop attached, and a private garden which occupies the corner of Northgate and Jewel Street. It is made of timber and stucco, and has many windows (all barred).
 
-## Price Range 
+## Price Range
+
 High.
 
-## Quality 
+## Quality
+
 Excellent.
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Excellent.
 
 **Image:** n/a
 
-**Jeweler (Shopping)** 
+**Jeweler (Shopping)**
 
  **Owner:**  U.N. Owen
 
@@ -66,12 +78,14 @@ Excellent.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Jeweler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Excellent.
 ---
 
 ### World Anvil Metadata
+
 **Id:** fa21a903-8e0e-4f95-8be6-2bb4bbb95bc7<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -96,7 +111,9 @@ Excellent.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

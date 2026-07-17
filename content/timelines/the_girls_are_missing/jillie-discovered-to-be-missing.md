@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [The-Girls-Are-Missing]
 aat-event-start-date: 1172/8/12 13:00
 aat-event-title: "Jillie discovered to be missing"
 aat-event-body: "On the way they stop by Pirandelli's to make sure Jillie is there. She isn't. She didn't come into work today. Martin asks what time she got off work yesterday and is told it was around lunch time."
 # aat-event-picture: 
+title: Jillie discovered to be missing
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Jillie discovered to be missing
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -53,7 +58,3 @@ She didn't come into work today. Martin asks what time she got off work yesterda
 
 ```
 ````
-
-
-
-

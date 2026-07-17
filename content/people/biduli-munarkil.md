@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, person]
+title: Biduli Munarkil
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Biduli Munarkil
 
-### 
+###
 
-**Full Name:**  Biduli  Munarkil    
+**Full Name:**  Biduli  Munarkil
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A tall, heavy set horse trainer with a limp, who works for Hrubilasz (????????).
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/biduli-munarkil]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

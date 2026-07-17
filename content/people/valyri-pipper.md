@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #government-of-haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, government-of-haven, import, npc, person, the-south-docks]
+title: Valyri Pipper
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Valyri Pipper
 
-### 
+###
 
-**Full Name:**  Valyri  Pipper    
+**Full Name:**  Valyri  Pipper
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Valyri does occasionally (10% chance on any given day) have to put in an appeara
 
 ---
 
-
-
 ![[people/blocks/valyri-pipper]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

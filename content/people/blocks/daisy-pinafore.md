@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Daisy Pinafore
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Daisy Pinafore
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +1 to hit , 1d4-1 bludgeoning damage  
   **Dagger:**  +3 to hit , 1d4+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

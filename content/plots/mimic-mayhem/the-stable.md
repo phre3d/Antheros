@@ -1,6 +1,14 @@
-![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]
-#plot  #Mimic_Mayhem 
+---
+aliases: []
+tags: [plot/Mimic-Mayhem, plot]
+title: The Stable
+date modified: 2026-07-16, 9:18:14 pm
+---
+
+![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]  
+
 # The Stable
+
 Regardless of how the PCs exit the inn, they will find themselves at the stable next and immediately get sucked into the drama unfolding there.
 
 >[!read-aloud]
@@ -12,11 +20,12 @@ Regardless of how the PCs exit the inn, they will find themselves at the stable 
 >
 >“My parents are gone!” cries the boy.
 
-
 ## Time for another Intestinal Fortitude check!
+
 Before the players can react, make them roll their next Intestinal Fortitude check. There is an outhouse here. It is a real outhouse but you should play it up as if it is possibly not. For example, “It looks like an ordinary outhouse. Do you just walk right up to it? How do you open the door?”
 
 ## Improv Time
+
 Here’s the situation: Chaos reigns within the stable. After a brief, harrowing glance inside, the people were so terrified by the scene that they swiftly shut the doors. What they saw was chilling: a dead horse, an overturned cart, and numerous missing items.
 
 Unaware of the mimics, the merchants have concocted a ghostly theory: they believe the spirits of all the dead rats are haunting the stable, seeking vengeance. This idea of spectral rat vengeance has captivated their imaginations so thoroughly that they refuse to consider any other explanation.
@@ -26,6 +35,7 @@ Compelled by fear and curiosity, they are desperate for someone brave enough to 
 The boy’s parents had spent the night in the stable. Now they are nowhere to be found.
 
 ## The Stable Visual Mini-Game
+
 Show your players the “before” image of the Stable (pictured on the following page). Give them 1 minute to write down three things in the scene they suspect might be mimics. When the minute is up, show them the “after” image of the Stable and find out how many correct guesses each player got.
 
 ````col
@@ -40,6 +50,7 @@ Show your players the “before” image of the Stable (pictured on the followin
 ![[plots/mimic-mayhem/images/stable-after.png]]
 ```
 ````
+
 <center><i>Clues:</i> The haystack had no loose straw around it. The donkey would have been unhitched from the cart <br>when stabled. The post in the back was supporting nothing.</center>
 
 **Results:**<br>
@@ -49,22 +60,27 @@ Show your players the “before” image of the Stable (pictured on the followin
 *3 correct:* Genius! Gain a point of inspiration and take a single action prior to the start of this combat.<br>
 
 ## Stable Combat
+
 This fight involves 4 enemies:
+
 - *Haystack Mimic* (Large Mimic)
 - *Donkey Cart Mimic* (Large Mimic)
 - *Stable Post Mimic* (Medium Mimic)
 - *Baby Mimic Swarms*
 
 ### Baby Mimic Swarms
+
 Feeding inside the dead horse are swarms of teeny-tiny baby mimics. They are hidden. At the end of the first round, the swarms emerge. They go last in the initiative. Use one swarm for each PC. On their turn, each swarm will move into a space occupied by a PC, starting with the closest one.
 
 ### Behaviors
+
 Until they are engaged in melee, the mimics will use their Spit attacks, hoping to lure the PCs further into the stable.
 
 ## After the Stable Fight
+
 The other travelers have watched the fight from the doorway and will now accept that mimics exist.
 
-There is a small crevice at the back of the stable leading into the cliff. It is just big enough for a rat to squeeze through. If they investigate it deeply they will find a vast network of fissures in the mountain filled with hundreds of rats. This indicates that the rats have not been eliminated, but are likely just hiding from the mimics. If the mimics can be exterminated, the rats will return. 
+There is a small crevice at the back of the stable leading into the cliff. It is just big enough for a rat to squeeze through. If they investigate it deeply they will find a vast network of fissures in the mountain filled with hundreds of rats. This indicates that the rats have not been eliminated, but are likely just hiding from the mimics. If the mimics can be exterminated, the rats will return.
 
 Evidence can be found of Lendle’s parents who have been eaten by the mimics. This leaves Lendle orphaned, except for his Granny, the inn’s cook.
 
@@ -72,12 +88,11 @@ The goods being transported by the other caravan, most of which are ruined, incl
 
 Upon exiting the stable, [[plots/mimic-mayhem/the-alley|a new scene unfolds...]]
 
-
 >[!infobox]
 >![[plots/mimic-mayhem/images/stable-dm-map.jpg]]
 >
 >---
-> 
+>
 >![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
 >
 >---
@@ -103,31 +118,18 @@ Upon exiting the stable, [[plots/mimic-mayhem/the-alley|a new scene unfolds...]]
 >
 >*Failing the 14 DC:* The character needs to use the restroom immediately. They have the poisoned condition until they relieve their bowels.
 >
->*Natural 1:* They gain the Poisoned condition plus a sudden and urgent case of diarrhea. Every ten minutes the character can make a new Intestinal Fortitude check, experiencing another urgent bout of diarrhea on a failure, or removal of all sickness and the Poisoned condition on a success. 
+>*Natural 1:* They gain the Poisoned condition plus a sudden and urgent case of diarrhea. Every ten minutes the character can make a new Intestinal Fortitude check, experiencing another urgent bout of diarrhea on a failure, or removal of all sickness and the Poisoned condition on a success.
 >
 >**Magical Healing:**<br>
 >*Lesser Restoration* removes the Poisoned condition until the character makes their next check. <br>
 >*Protection from Poison* and *Heal* will each remove the Poisoned condition and all need for future checks until they eat again.
->
->
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Standard footer using "Multi-Columns" plugin -->
 
 ---
 
---- start-multi-column ---
+---start-multi-column ---
+
 ```column-settings
 number of columns: 2
 column size: [49%, 49%]
@@ -135,6 +137,7 @@ border: off
 shadow: off
 alignment: [Left, Right]
 ```
+
 Previous: [[plots/mimic-mayhem/the-leisure-room|The Leisure Room]]
 
 --- end-column ---
@@ -142,4 +145,3 @@ Previous: [[plots/mimic-mayhem/the-leisure-room|The Leisure Room]]
 Next: [[plots/mimic-mayhem/the-alley|The Alley]]
 
 --- end-multi-column
-

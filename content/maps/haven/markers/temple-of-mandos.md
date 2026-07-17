@@ -1,8 +1,12 @@
 ---
-location: [3830.289,  5091.837]
+aliases: []
+tags: [map-marker]
+location: [3830.289, 5091.837]
 mapmarker: Religion
+title: Temple of Mandos
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Mandos
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-mandos|Temple of Mandos]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Mandos : God of Death

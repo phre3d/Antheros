@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Hallen MacCormac
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Hallen MacCormac
 
-### 
+###
 
-**Full Name:**  Hallen  MacCormac    
+**Full Name:**  Hallen  MacCormac
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A hulk of a man who helps [[person/angus-macfarland|Angus MacFarland]] selling a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/hallen-maccormac]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

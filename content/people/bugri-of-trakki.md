@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #scenarios
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, scenarios]
+title: Bugri of Trakki
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bugri of Trakki
 
-### 
+###
 
 **Full Name:**  Bugri    of Trakki  
 
@@ -205,13 +211,12 @@ See scenario The Young Stallion - Who Was
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bugri-of-trakki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

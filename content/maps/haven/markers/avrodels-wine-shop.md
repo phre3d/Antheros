@@ -1,8 +1,12 @@
 ---
-location: [1814.983,  4102.041]
+aliases: []
+tags: [map-marker]
+location: [1814.983, 4102.041]
 mapmarker: Shopping
+title: "Avrodel's Wine Shop"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Avrodel's Wine Shop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/avrodels-wine-shop|Avrodel's Wine Shop]]<br>
 **Location Type:** Vintner
 
-**Description**<br> 
-
+**Description**<br>

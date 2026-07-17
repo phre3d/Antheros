@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-metalsmiths #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-heights]
+title: Folonar Fairweather
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Folonar Fairweather
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Folonar, a leatherworker, is half-elven, and a smooth talker. He always tries to
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/folonar-fairweather]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

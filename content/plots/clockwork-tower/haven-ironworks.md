@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Haven Ironworks
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Haven Ironworks
 
 ````col
@@ -159,7 +165,6 @@ At initiative count 20 (losing all ties), the Gearhounds can take a lair action 
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

@@ -1,8 +1,12 @@
 ---
-location: [1214.983,  4914.286]
+aliases: []
+tags: [map-marker]
+location: [1214.983, 4914.286]
 mapmarker: Entertainment
+title: Lilies of the Valley
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lilies of the Valley
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/lilies-of-the-valley|Lilies of the Valley]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

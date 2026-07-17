@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-locksmith #crafters-guild #locksmith
+---
+aliases: []
+tags: [cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, locksmith, the-south-corridor, type-locksmith]
+title: Locks and Keys Made
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Locks and Keys Made
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Locksmith (Shopping)** 
+**Locksmith (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** fed6820c-89ef-4897-90dc-96e617b3e386<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

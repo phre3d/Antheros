@@ -1,4 +1,10 @@
-#import #flora #essence-water-plant
+---
+aliases: []
+tags: [essence-water-plant, flora, import]
+title: "Cat's Tail"
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Cat's Tail
 
 ````col
@@ -45,7 +51,9 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 ````
 
 <!-- Standard page footer -->
+
 ---
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2426.207,  2132.653]
+aliases: []
+tags: [map-marker]
+location: [2132.653, 2426.207]
 mapmarker: Inns & Taverns
+title: "Scholl's Tavern"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Scholl's Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/scholls-tavern|Scholl's Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

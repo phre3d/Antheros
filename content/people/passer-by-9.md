@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person]
+title: Passer-by 9
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Passer-by 9
 
-### 
+###
 
-**Full Name:**  Passer-by  Nine    
+**Full Name:**  Passer-by  Nine
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Passer-by 9
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/passer-by-9]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

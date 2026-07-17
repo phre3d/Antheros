@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #npc #barristers-maze
+---
+aliases: []
+tags: [barristers-maze, Free_City_of_Haven, import, npc, person]
+title: Cowry Keltus
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cowry Keltus
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Cowry is a stocky but well-built middle-aged man with white hair and eyebrows, g
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cowry-keltus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

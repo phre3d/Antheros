@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Vereet
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vereet
 
-### 
+###
 
-**Full Name:**  Vereet      
+**Full Name:**  Vereet
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ A well-dressed small man of non-imposing mien. Vereet deals in information. He w
 
 ---
 
-
-
 ![[people/blocks/vereet]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

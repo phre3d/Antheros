@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Daruko Ken-Ursa
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Daruko Ken-Ursa
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +6 to hit , 1d4+3 piercing damage  
   **Dagger, thrown:**  +6 to hit , 1d4+3 piercing damage  
   **Shortsword:**  +6 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

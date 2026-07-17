@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Challenge Cup
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Challenge Cup
 
 ````col
@@ -166,7 +172,6 @@ Fallen horses and riders represent additional obstacles in the paths of onrushin
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

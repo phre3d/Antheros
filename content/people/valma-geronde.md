@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #npc #the-south-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, npc, person, the-south-corridor]
+title: Valma Geronde
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Valma Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Valma never travels to [[settlement/the-heights|The Heights]], for she does not 
 
 ---
 
-
-
 ![[people/blocks/valma-matters]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

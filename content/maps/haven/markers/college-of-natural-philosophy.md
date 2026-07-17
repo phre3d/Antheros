@@ -1,8 +1,12 @@
 ---
-location: [3192.534,  1853.061]
+aliases: []
+tags: [map-marker]
+location: [1853.061, 3192.534]
 mapmarker: Education
+title: College of Natural Philosophy
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # College of Natural Philosophy
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/college-of-natural-philosophy|College of Natural Philosophy]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

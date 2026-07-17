@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #grey-halls #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, grey-halls, import, npc, person]
+title: Credence Bond
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Credence Bond
 
-### 
+###
 
-**Full Name:**  Credence  Bond    
+**Full Name:**  Credence  Bond
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Guard in [[landmark/the-grey-halls|The Grey Halls]]. See scenario [[plots/the-re
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/credence-bond]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

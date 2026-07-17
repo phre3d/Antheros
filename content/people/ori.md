@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Ori
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Ori
 
-### 
+###
 
-**Full Name:**  Ori      
+**Full Name:**  Ori
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Refer to scenario [[plots/the-bucklander-empire|The Bucklander Empire]]. Ori is 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ori]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,10 +1,16 @@
+---
+aliases: []
+tags: [plot/burgled-budgie, plot]
+title: The Conclusion
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 ![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
-#plot  #Burgled_Budgie  
+
 # The Conclusion
 
 >[!info]
 >![[plots/burgled-budgie/table-of-contents]]
->
 
 Once the players have defeated or subdued Herbert and acquired Beatrice they can return to [[plots/burgled-budgie/npcs/lady-windlewood|Lady Windlewood]] for their reward.
 
@@ -16,15 +22,9 @@ After the guard captain is alerted to the mission’s success, he thanks the PCs
 
 Assuming [[plots/burgled-budgie/npcs/herbert-spillwyrt|Herbert]] escaped, he flees the warehouse and keeps an eye on it for a few days through divination magic. When he deems it safe to return, he teleports back in, retrieves all his notes and belongings, and leaves town for good, presumably to find a new place to live and set up shop.
 
-
-
-
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>
 <div class="page-nav">
   <span class="nav-prev">← Previous: <a href="plots/burgled-budgie/the-confrontation" class="internal-link">The Confrontation</a></span>
   <span class="nav-next">Next: <a href="plots/burgled-budgie/maps/maps" class="internal-link">Maps</a> →</span>
 </div>
-
-
-

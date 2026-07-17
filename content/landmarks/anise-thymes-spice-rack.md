@@ -1,28 +1,41 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-shop #type-spices #guild-of-provenders #spices
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, spices, the-heights, type-spices]
+title: "Anise Thyme's Spice Rack"
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Anise Thyme's Spice Rack
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Anything and/or Everything 
 
-## Description 
+# Description
+
+## Anything and/or Everything
+
+## Description
+
 Anise's shelves are laden with exotic spices, rare food delicacies, and other unusual items. Anise is likely to be the only shop in Haven where a visitor can find timber wolf claws, or genuine "guaranteed" beanstalk-seeds, or a host of other unique and semi-useless items. Treat the store as a virtual Whole Earth Catalog of bizarre trivia. The GM should use his own discretion to decide what these items can do once in the player's possession.  
 
  Anise will be fascinated by any new knick-knacks that characters show him, and will attempt to buy or barter for them if possible.
 
-## Price Range 
+## Price Range
+
 High
 
-## Quality 
+## Quality
+
 Excellent
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/portia-maggia|Portia Maggia]]
 
 # Purpose / Function
@@ -59,7 +72,7 @@ Excellent
 
 **Image:** n/a
 
-**Spices (Shopping)** 
+**Spices (Shopping)**
 
  **Owner:**  Anise Thyme
 
@@ -71,12 +84,14 @@ Excellent
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -93,6 +108,7 @@ Excellent
 ---
 
 ### World Anvil Metadata
+
 **Id:** dc1136a7-e1e8-4943-a89f-71ff1432693e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -101,7 +117,9 @@ Excellent
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

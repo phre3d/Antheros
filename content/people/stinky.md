@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, npc, person]
+title: Stinky
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Stinky
 
-### 
+###
 
-**Full Name:**  Stinky      
+**Full Name:**  Stinky
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A short, skinny (and grimy) person (race unknown) who seems to be interested in 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/stinky]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

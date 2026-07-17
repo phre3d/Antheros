@@ -1,4 +1,9 @@
-#import #statblock #monster #Sins_of_the_Past #monster
+---
+aliases: []
+tags: [import, monster, plot/Sins_of_the_Past, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -38,10 +43,15 @@ Medium humanoid (any race) any non-lawful
 ![[~attachments/dndline.png]]
 
 # Actions
-## Scimitar 
-  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
-  **Hit:**  4  slashing damage.   
-## Light Crossbow 
-  **Ranged Weapon Attack:**  +3 to hit , range 80/320 ft., one target. 
-  **Hit:**  5  piercing damage.
 
+## Scimitar
+
+  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
+
+  **Hit:**  4  slashing damage.
+
+## Light Crossbow
+
+  **Ranged Weapon Attack:**  +3 to hit , range 80/320 ft., one target.
+
+  **Hit:**  5  piercing damage.

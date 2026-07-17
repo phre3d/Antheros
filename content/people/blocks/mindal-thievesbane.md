@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mindal Thievesbane
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mindal Thievesbane
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortsword:**  +5 to hit , 1d6+1 piercing damage  
   **Shortbow:**  +5 to hit , 1d6+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

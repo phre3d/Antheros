@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, thieves-guild]
+title: Gossij
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gossij
 
-### 
+###
 
-**Full Name:**  Gossij      
+**Full Name:**  Gossij
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Gossij almost always works with her husband [[person/gidri|Gidri]]. Professional
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gossij]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

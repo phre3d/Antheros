@@ -1,14 +1,23 @@
-#import #article   #Free_City_of_Haven
+---
+aliases: []
+tags: [article, Free_City_of_Haven, import]
+title: Factors Affecting Trials
+date modified: 2026-07-16, 9:19:08 pm
+---
+
 # Factors Affecting Trials
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 Before you can conduct a trial there are a few important factors to address:
+
 1. Type of trial: civil vs. criminal
 2. Lawyer's skill (refer to [[organizations/legal-system/lawyers-in-haven|Lawyers in Haven]])
 3. Judge/lawyer relationship (refer to [[organizations/legal-system/lawyers-in-haven|Lawyers in Haven]])
@@ -16,9 +25,9 @@ Before you can conduct a trial there are a few important factors to address:
 5. Bribery
 6. Social Standing
 
+## Bribing Judges
 
-## Bribing Judges 
-Bribery is usually a possibility but judges have different views of bribery - some expect it and will be insulted if it is not offered, others will be insulted if it is, and some may succumb to the amount offered. 
+Bribery is usually a possibility but judges have different views of bribery - some expect it and will be insulted if it is not offered, others will be insulted if it is, and some may succumb to the amount offered.
 
  **<center>Bribery Table</center>**
 
@@ -36,6 +45,7 @@ Bribery is usually a possibility but judges have different views of bribery - so
 | - | - | - | - | 96-00 | 86-00 | assured acquittal | 5,000gp | --   |
 
 If a judge is bribed but the amount falls below the minimum, roll d100 to see their reaction.
+
 - 01-30 : bribe ignored
 - 31-60 : bribe taken but -5% due to the insult
 - 61-85 : bribe taken but -10% due to the insult
@@ -45,21 +55,21 @@ The more established lawyers will have some idea of who is bribable and who is d
 
 Refer to the summary table under [[organizations/legal-system/judges-in-haven|Judges in Haven]] for their bribability.
 
-> 
- **For example** 
-- [[people/lucius-cardallo|Lucius Cardallo]] has a greed rating of 43. 
-- For any given matter before him, roll a d100; suppose the result is 63. 
-- Looking down the Greed column 36-45, we see that 63 falls into the 5th row (46-70). 
-- Looking across we see that for every 500gp offered the decision roll receives +5%. 
-- Assuming that a bribe of 1,200gp is offered, the total adjustment is +10%. 
-- Also note that even if the bribe is over 3,000gp, the best one can expect from Lucius is +30% adjustment. 
-- And if Lucius isn't offered a bribe it's an automatic -25% (see above) on the decision roll. 
+>
+
+ **For example**
+
+- [[people/lucius-cardallo|Lucius Cardallo]] has a greed rating of 43.
+- For any given matter before him, roll a d100; suppose the result is 63.
+- Looking down the Greed column 36-45, we see that 63 falls into the 5th row (46-70).
+- Looking across we see that for every 500gp offered the decision roll receives +5%.
+- Assuming that a bribe of 1,200gp is offered, the total adjustment is +10%.
+- Also note that even if the bribe is over 3,000gp, the best one can expect from Lucius is +30% adjustment.
+- And if Lucius isn't offered a bribe it's an automatic -25% (see above) on the decision roll.
 
 Of course the players know none of this.
 
-
 Remember that the players and their characters have little or no knowledge of what the judge is going to do, after he has accepted the bribe, until the trial actually begins. The only exception is the rumors that may have been garnered at various spots concerning the judge's bribe rating. The players might get a vague idea of the result in a range of numbers, which somewhere includes the actual result.
-
 
  **<center>Social Standing Modifier Table</center>**
 
@@ -80,14 +90,16 @@ Remember that the players and their characters have little or no knowledge of wh
 | [[ethnicities/wandering-folk\|Wandering Folk]] | -10 | -10  |
 | Slave | XX | -50  |
 
-## Social Standing 
-A difference in social status between plaintiff and defendant will almost always have an effect on the verdict, as will racial differences between judge and lawyer, and judge and defendant. The judge may have a positive or negative relationship with the client's lawyer or possibly even the client (percentage adjustments for these relationships should be determined by the GM - for instance, being the judge's nephew might be worth a +30%, while being the son of the judge's worst enemy could penalize -50%). 
+## Social Standing
+
+A difference in social status between plaintiff and defendant will almost always have an effect on the verdict, as will racial differences between judge and lawyer, and judge and defendant. The judge may have a positive or negative relationship with the client's lawyer or possibly even the client (percentage adjustments for these relationships should be determined by the GM - for instance, being the judge's nephew might be worth a +30%, while being the son of the judge's worst enemy could penalize -50%).
 
 To determine the trial modifier for social differences, subtract the plaintiff's social rating from the defendant's social rating drawing the rating figures from the chart below.  It is quite possible that this will produce a negative modifier.
 
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** 60be5bba-0e42-41d9-a502-26d5a961751f<br>
 **Entity Type:** Article / article<br>
 **Category:** <br>
@@ -95,10 +107,10 @@ To determine the trial modifier for social differences, subtract the plaintiff's
 
 --- end-multi-column
 
-
-
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

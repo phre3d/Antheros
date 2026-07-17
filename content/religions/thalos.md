@@ -1,20 +1,29 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Thalos
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Thalos
 
-God of the Night; Patron of Thieves; Lord of Mischief     
+God of the Night; Patron of Thieves; Lord of Mischief
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -34,6 +43,7 @@ shadow: off
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -59,6 +69,7 @@ shadow: off
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -78,6 +89,7 @@ shadow: off
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -106,16 +118,18 @@ shadow: off
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
 ## Artifacts
+
 Artifacts are made of silver, the colour of the moon; gold and other bright metals are to be avoided.
 
 ## Holy Books and Codes
 
 ## Divine Symbols & Sigils
+
 A silver sliver of the moon on a black background.
 
 ## Tenets of Faith
@@ -126,24 +140,25 @@ A silver sliver of the moon on a black background.
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Latterborn
 
  **Alignment:**  Neutral Evil
 
- **Mother:**  [[religions/vairë]] 
+ **Mother:**  [[religions/vairë]]
 
  **Father:**  [[religions/maedhros]]
 
- **Offspring** 
+ **Offspring**
+
 - None
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -163,7 +178,7 @@ A silver sliver of the moon on a black background.
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -177,7 +192,7 @@ A silver sliver of the moon on a black background.
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -188,16 +203,17 @@ A silver sliver of the moon on a black background.
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8c2bc95c-4e17-409e-950e-7486e83c89e4<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -210,31 +226,37 @@ A silver sliver of the moon on a black background.
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/thalos-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/thalos-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/thalos-person)
 
 ---
@@ -242,13 +264,16 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 64c80232-0ec2-4dae-a56a-78daa08980cc
 
 --- end-column ---

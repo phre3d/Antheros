@@ -1,9 +1,15 @@
-#import #person #haven-city-guard #the-city-watch #npc #supporting-cast
+---
+aliases: []
+tags: [haven-city-guard, import, npc, person, supporting-cast, the-city-watch]
+title: Lyza
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lyza
 
-### 
+###
 
-**Full Name:** Watch Captain Lyza      
+**Full Name:** Watch Captain Lyza
 
 `````col
 ````col-md
@@ -202,13 +208,10 @@ Supported by [[person/harz-de-la-riis|Harz de la Riis]]
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

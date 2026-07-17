@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Turin Khaey
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Turin Khaey
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +5 to hit , 1d8+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-#import #plot  #Howling_in_the_Woods
+---
+aliases: []
+tags: [plot/Howling-in-the-Woods, import, plot]
+title: Silencing the Howl
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # Silencing the Howl
 
 ````col
@@ -39,8 +45,6 @@ After killing or curing the sanguine werewolves, the villagers reward the party 
 
 ```
 ````
-
-
 
 ---
 

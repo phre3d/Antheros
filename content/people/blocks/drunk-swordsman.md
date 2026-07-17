@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Drunk Swordsman
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Drunk Swordsman
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +5 to hit , 1d8+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

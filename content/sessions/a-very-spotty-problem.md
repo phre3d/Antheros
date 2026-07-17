@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -25,4 +30,3 @@ As we start walking over, Eugene passes out. The rest ofs feel a lurch and a sen
 We go back to the Griffon
 
 ---
-

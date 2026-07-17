@@ -1,8 +1,12 @@
 ---
-location: [4396.615,  1269.388]
+aliases: []
+tags: [map-marker]
+location: [1269.388, 4396.615]
 mapmarker: Landmark
+title: The Tower of the Kindred Races
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Tower of the Kindred Races
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/the-tower-of-the-kindred-races|The Tower of the Kindred Races]]<br>
 **Location Type:** Monument
 
-**Description**<br> 
+**Description**<br>
+
 A monument to racial harmony

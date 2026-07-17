@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Falstaff of Borrinstorr
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Falstaff of Borrinstorr
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Falstaff is an avid gambler and a prodigious liar who constantly tells fanciful 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/falstaff]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

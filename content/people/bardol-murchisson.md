@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-corridor]
+title: Bardol Murchisson
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bardol Murchisson
 
-### 
+###
 
-**Full Name:**  Bardol  Murchisson    
+**Full Name:**  Bardol  Murchisson
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Bardol retired from the practice of magic about ten years ago but keeps his hand
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bardol-murchisson]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

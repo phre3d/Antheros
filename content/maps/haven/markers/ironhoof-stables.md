@@ -1,8 +1,12 @@
 ---
-location: [3427.228,  7283.673]
+aliases: []
+tags: [map-marker]
+location: [3427.228, 7283.673]
 mapmarker: Shopping
+title: Ironhoof Stables
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Ironhoof Stables
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/ironhoof-stables|Ironhoof Stables]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-dwarrow]
+title: Ralki
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Ralki
 
-### 
+###
 
-**Full Name:**  Ralki      
+**Full Name:**  Ralki
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Ralki is a very diminutive, elderly dwarf with horn-rimmed spectacles, and a mil
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ralki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

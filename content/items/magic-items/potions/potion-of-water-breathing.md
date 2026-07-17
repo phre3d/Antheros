@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Water Breathing
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Potion of Water Breathing
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Spell
 >
 >**Application:**Ingest <br>
->**Duration:** 1 hour 
+>**Duration:** 1 hour
 >
 >**Price:** 180gp
 
-
 ## Description
+
 Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 
 ## Effects
+
 You can breathe underwater for 1 hour after drinking this potion.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
+
 **Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):** Air    Water<br>
 **Spell Needed:** *Water Breathing* <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Alcohol <br>
 *Essence(s):*  Air    Water <br>
 *Spell Emulated:* *Water Breathing*
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

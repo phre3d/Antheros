@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary F3
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary F3
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +5 to hit , 1d8+1 piercing damage  
   **Hoof:**  +6 to hit , 2d6+7 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

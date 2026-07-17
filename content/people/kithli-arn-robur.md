@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #government-of-haven #government-of-haven #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, government-of-haven, import, npc, person]
+title: Kithli arn Robur
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kithli arn Robur
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -196,13 +202,12 @@ The head of the Ministry of Health and Sanitation is a broad-shouldered dwarf by
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kithli-arn-robur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

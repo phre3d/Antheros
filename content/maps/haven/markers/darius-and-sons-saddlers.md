@@ -1,8 +1,12 @@
 ---
-location: [2890.493,  725.51]
+aliases: []
+tags: [map-marker]
+location: [2890.493, 725.51]
 mapmarker: Shopping
+title: Darius and Sons - Saddlers
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Darius and Sons - Saddlers
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/darius-and-sons-saddlers|Darius and Sons - Saddlers]]<br>
 **Location Type:** Saddler
 
-**Description**<br> 
-
+**Description**<br>

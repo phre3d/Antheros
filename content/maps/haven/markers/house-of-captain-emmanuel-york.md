@@ -1,8 +1,12 @@
 ---
-location: [2766.003,  6479.592]
+aliases: []
+tags: [map-marker]
+location: [2766.003, 6479.592]
 mapmarker: Residence
+title: House of Captain Emmanuel York
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Captain Emmanuel York
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/house-of-captain-emmanuel-york|House of Captain Emmanuel York]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

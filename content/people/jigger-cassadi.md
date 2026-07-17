@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks, thieves-guild]
+title: Jigger Cassadi
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jigger Cassadi
 
-### 
+###
 
-**Full Name:**  Jigger  Cassadi    
+**Full Name:**  Jigger  Cassadi
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ He has a weakness for people (either sex) with red hair.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jigger-cassadi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

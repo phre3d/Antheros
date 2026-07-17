@@ -1,8 +1,12 @@
 ---
-location: [6311.921,  2368.367]
+aliases: []
+tags: [map-marker]
+location: [2368.367, 6311.921]
 mapmarker: Medical
+title: Americus - Healer
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Americus - Healer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Medical
 **Location:** [[landmarks/americus-healer|Americus - Healer]]<br>
 **Location Type:** Medical
 
-**Description**<br> 
-
+**Description**<br>

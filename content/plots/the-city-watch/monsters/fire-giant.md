@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Actions
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -40,14 +45,17 @@ Huge giant lawful evil
 ![[~attachments/dndline.png]]
 
 # Actions
-**Multiattack**  The giant makes two greatsword attacks.    **Greatsword** 
+
+**Multiattack**  The giant makes two greatsword attacks.    **Greatsword**
+
   *Melee Attack:*  +11 to hit, reach 10ft., one target.  
-  *Hit:*   or 28 slashing damage.    **Rock** 
+  *Hit:*   or 28 slashing damage.    **Rock**
+
   *Ranged Attack:*  +11 to hit , range 60/240 ft., one target.  
   *Hit:*   or 29 bludgeoning damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
-Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 
+Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.

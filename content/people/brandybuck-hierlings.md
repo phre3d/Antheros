@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Brandybuck Hierlings
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Brandybuck Hierlings
 
-### 
+###
 
-**Full Name:**  Brandybuck  Hierlings    
+**Full Name:**  Brandybuck  Hierlings
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Refer to scenario [[plots/the-pipe-weed-connection|The Pipe Weed Connection]]. D
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/brandybuck-hierlings]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

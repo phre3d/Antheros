@@ -1,5 +1,12 @@
-#person #npc #Burgled_Budgie
+---
+aliases: []
+tags: [plot/burgled-budgie, npc, person]
+title: Jane Goodhorn
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Jane Goodhorn
+
 Tiefling Servant, CG
 
 >[!read aloud]
@@ -9,9 +16,9 @@ Tiefling Servant, CG
 
 *DC 16 Perception:* You see some rough patches on her forearms, between the sleeves and her hands. They seem almost scale-like in appearance and appear iridescent in the light as she moves. As she speaks you notice her teeth are a bit more pointed than normal.
 
-Jane is hesitant to share her information about the heist because she fears punishment for snooping in the study and trysting with her coworker. Some of the other female servants noticed she was gone in the middle of the night, however, and Lady [[plots/burgled-budgie/npcs/lady-windlewood|Lady Windlewood]] is already a bit suspicious of Jane because the girl is a tiefling. 
+Jane is hesitant to share her information about the heist because she fears punishment for snooping in the study and trysting with her coworker. Some of the other female servants noticed she was gone in the middle of the night, however, and Lady [[plots/burgled-budgie/npcs/lady-windlewood|Lady Windlewood]] is already a bit suspicious of Jane because the girl is a tiefling.
 
-Jane tends to be taciturn, mumbling when she speaks. If [[plots/burgled-budgie/npcs/robert-smith|Robert Smith]] is mentioned, she grows visibly nervous and shy. 
+Jane tends to be taciturn, mumbling when she speaks. If [[plots/burgled-budgie/npcs/robert-smith|Robert Smith]] is mentioned, she grows visibly nervous and shy.
 
 She is embarrassed of her heritage and tries to divert attention away from the fact that she’s a tiefling.
 
@@ -20,4 +27,5 @@ She is embarrassed of her heritage and tries to divert attention away from the f
 >(AI created)
 
 ---
+
 **Source:** Debacle of the Burgled Budgie

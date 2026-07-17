@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Jakuel Estankris
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jakuel Estankris
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Fourteen with a slight boyish figure with shaggily cut black hair, and dark of s
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jakuel-estankris]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

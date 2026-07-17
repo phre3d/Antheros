@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -21,4 +26,3 @@ We guess potato, small rock, spells, traps.
 A)A ghostly whisper B)A magical rune C)A stone golem D)A living shadow
 
 ---
-

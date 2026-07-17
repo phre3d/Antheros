@@ -1,44 +1,63 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-shop #type-foundry #guild-of-metalsmiths #foundry
+---
+aliases: []
+tags: [cat-shop, foundry, Free_City_of_Haven, guild/metalsmiths, import, landmark, street-of-harps, type-foundry]
+title: Bell Foundry
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Bell Foundry
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## [[people/glokkin-masterbell|Glokkin Masterbell]], prop. 
 
-## Description 
+# Description
+
+## [[people/glokkin-masterbell|Glokkin Masterbell]], prop.
+
+## Description
+
 [[people/glokkin-masterbell|Glokkin Masterbell]] is a dwarf, black bearded, well-muscled, and perpetually scowling. He is notoriously hard to please, whether it be the tuning of a bell or the way the shop is swept by his apprentices. It is said that the only time he ever smiles is when he hears the Tower bells ring the changes.
 
-## Exterior 
+## Exterior
+
 A large bronze bell without a clapper hangs outside the front door of this squat 2 story stone building.
 
-## Interior 
+## Interior
+
 The first floor is mostly one large room, with a bellows and a forge, heavy ingots of bronze and tin, and numerous molds and tools, including a metal lathe.
 
-## Hours 
+## Hours
+
 7:00am - 7:00pm
 
-## Price Range 
+## Price Range
+
 Costly
 
-## Quality 
+## Quality
+
 Excellent
 
-## Cash Box 
+## Cash Box
+
 The cash box is kept in the workbench and is locked. At night it goes under Glokkin's bed. Contains (2-6)d10gp
 
-## Staff 
+## Staff
+
 Glokkin employs three apprentices and a journeyman, who all live upstairs.
 
-## Customers 
+## Customers
+
 30% chance of 1d3 customers
 
-## Outstanding Items 
+## Outstanding Items
+
 Glokkin's bells are of extremely fine quality, and he will make bells to order of virtually any size and shape, but custom made bells are very expensive.
 
 # Purpose / Function
@@ -75,7 +94,7 @@ Glokkin's bells are of extremely fine quality, and he will make bells to order o
 
 **Image:** n/a
 
-**Foundry (Shopping)** 
+**Foundry (Shopping)**
 
  **Owner:**  Glokkin Masterbell
 
@@ -87,12 +106,14 @@ Glokkin's bells are of extremely fine quality, and he will make bells to order o
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Foundry
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -109,6 +130,7 @@ Glokkin's bells are of extremely fine quality, and he will make bells to order o
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9692dfc1-e985-408a-875f-44de7bf559ab<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -117,7 +139,9 @@ Glokkin's bells are of extremely fine quality, and he will make bells to order o
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

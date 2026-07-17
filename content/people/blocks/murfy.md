@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Murfy
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Murfy
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +4 to hit , 1d8+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

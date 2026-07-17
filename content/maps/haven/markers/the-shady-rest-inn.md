@@ -1,8 +1,12 @@
 ---
-location: [2066.003,  1845.918]
+aliases: []
+tags: [map-marker]
+location: [1845.918, 2066.003]
 mapmarker: Inns & Taverns
+title: The Shady Rest Inn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Shady Rest Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-shady-rest-inn|The Shady Rest Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

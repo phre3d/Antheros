@@ -1,4 +1,10 @@
-#import #plot  #Sins_of_the_Past
+---
+aliases: []
+tags: [import, plot, plot/Sins_of_the_Past]
+title: Inner Crypt
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Inner Crypt
 
 ````col
@@ -84,7 +90,6 @@ Their other option is to spread the word about the curse and thus free all trapp
 
 ```
 ````
-
 
 ---
 

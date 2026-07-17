@@ -1,8 +1,12 @@
 ---
-location: [4309.881,  1750.]
+aliases: []
+tags: [map-marker]
+location: [1750., 4309.881]
 mapmarker: Shopping
+title: "Burdee's Mill"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Burdee's Mill
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/burdees-mill|Burdee's Mill]]<br>
 **Location Type:** Mill
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [1849.677,  4019.388]
+aliases: []
+tags: [map-marker]
+location: [1849.677, 4019.388]
 mapmarker: Entertainment
+title: Ambrosia
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Ambrosia
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/ambrosia|Ambrosia]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

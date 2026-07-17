@@ -1,4 +1,9 @@
-#map-marker  #tarnsworth   
+---
+aliases: []
+tags: [map-marker, tarnsworth]
+title: gredels-house
+date modified: 2026-07-16, 9:18:39 pm
+---
 
 **Description** <br>
 The house of Gredel

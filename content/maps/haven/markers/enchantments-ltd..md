@@ -1,8 +1,12 @@
 ---
-location: [2768.044,  2461.224]
+aliases: []
+tags: [map-marker]
+location: [2461.224, 2768.044]
 mapmarker: Shopping
+title: Enchantments Ltd.
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Enchantments Ltd.
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/enchantments-ltd.|Enchantments Ltd.]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

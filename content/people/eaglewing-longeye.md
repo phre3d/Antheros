@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, south-caravan-street]
+title: Eaglewing Longeye
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Eaglewing Longeye
 
-### 
+###
 
 **Full Name:**  Eaglewing  Longeye    Wing
 
@@ -206,13 +212,12 @@ A slight, grey haired avanthar of many years' experience in the caravan trade. W
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/eaglewing-longeye]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

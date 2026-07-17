@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Porginald
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Porginald
 
-### 
+###
 
 **Full Name:**  Porginald      Porgy
 
@@ -203,13 +209,12 @@ Married to [[person/bessie|Bessie]], Porgy (as friends call him) helps out in th
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/porginald]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

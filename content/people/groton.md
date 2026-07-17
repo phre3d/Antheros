@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-artisan #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/artisan, import, npc, person, the-heights]
+title: Groton
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Groton
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Vendor of top-of-the-line perfumes and colognes
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/groton]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

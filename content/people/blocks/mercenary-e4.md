@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary E4
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary E4
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Light hammer:**  +3 to hit , 1d4+1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

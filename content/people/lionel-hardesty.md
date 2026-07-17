@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, south-caravan-street]
+title: Lionel Hardesty
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lionel Hardesty
 
-### 
+###
 
-**Full Name:**  Lionel  VI    
+**Full Name:**  Lionel  VI
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ A brown haired, brown eyed, chubby young man who has grown up around the family 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lionel-hardesty]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

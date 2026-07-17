@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of the Red Cross
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Potion of the Red Cross
 
 >[!info]
@@ -7,39 +13,44 @@
 >**Effect Category:** Health
 >
 >**Application:**Ingest <br>
->**Duration:** Instantaneous 
+>**Duration:** Instantaneous
 >
 >**Price:** 610gp
 
-
 ## Description
+
 A boiling substance that is sapphire in color. It smells and tastes like rot and cucumber.
 
 ## Effects
+
 When imbibed within two rounds of collapse (i.e. hitting 0 HP), the potion restores them to life, granting them one HP. The person so restored must rest for 24 hours to fully recover from the collapse.
 
 ## History
+
 This potion was developed by an alchemist at the behest of a mining operation where workers often dropped dead from exhaustion.
 
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
+
 **Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
 **Essence(s):**   Fire  Life  <br>
 **Spell Needed:**  <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Aqua Regia <br>
 *Essence(s):*    Fire  Life   <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

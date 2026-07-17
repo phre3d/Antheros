@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-dwarrow]
+title: Bambur
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bambur
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A very rotund dwarf with a long reddish beard and large ears.  Bambur is a rathe
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bambur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

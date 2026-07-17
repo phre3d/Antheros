@@ -1,57 +1,79 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-textiles #guild-of-the-loom #textiles
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/loom, import, landmark, textiles, the-south-corridor, type-textiles]
+title: Fine Silks and Fabrics
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Fine Silks and Fabrics
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Fine silk and quality cloth 
 
-## Description 
+# Description
+
+## Fine silk and quality cloth
+
+## Description
+
 [[people/adrielle-ilorim|Adrielle Ilorim]], a lovely young elven woman of middle height, with long black hair. She appears frequently to be totally absorbed in her own thoughts, even when dealing with customers.
 
-## Exterior 
+## Exterior
+
 A white walled building of large size on the Summ Plaza has a white sign with a well-dressed elven female posed in a regal stance painted on both sides. There are pictures of other elves on the walls of the building, between windows and doors. All appear to be dressed in shimmering fabrics.
 
-## Interior 
+## Interior
+
 In a large warehouse full of bolts of cloth of all types, there are also many racks of pre-made clothing. There are dressing rooms for privacy (only three garments inside, please!), several sewing rooms, and an office where business takes place. Several young women appear to be helping various customers with fittings, and the selection of various lengths of fabric.
 
-## Hours 
+## Hours
+
 9:00am to 7:00pm.
 
-## Price Range 
+## Price Range
+
 (1-2) Fair, (3-6) High, (7-10) Costly.
 
-## Quality 
+## Quality
+
 (1) Fair, (2-6) Good, (7-9) Excellent, (10) Superb.
 
-## Cash Box 
+## Cash Box
+
 In the office desk, there are two strong steel boxes 5"x10"x3" in size. Each has a Complexity 2 lock and a poison needle trap (saving roll against DEX to avoid, saving roll against CON to counteract 12 levels of poison). In one is 1d20 x 1d20gp in mixed coins, the other contains notes, papers, and ledgers covering 1d12 x 2d10gp.
 
-## Staff 
-Adrielle is usually found on the sales floor or in her office. Four assistant seamstresses work in the sewing rooms, while five salespeople wander the sales floor assisting customers. 
+## Staff
 
-A dwarf accountant, [[people/brikarm-arn-mugin|Brikarm arn Mugin]], works in the office from 9:00am to 11:00am every day. Among other duties, he forges the indenturing papers that Adrielle uses for her illegal slave trade (he is also able to sell his work to [[organizations/criminal/the-black-hand|The Black Hand]], since it is of such high quality). 
+Adrielle is usually found on the sales floor or in her office. Four assistant seamstresses work in the sewing rooms, while five salespeople wander the sales floor assisting customers.
+
+A dwarf accountant, [[people/brikarm-arn-mugin|Brikarm arn Mugin]], works in the office from 9:00am to 11:00am every day. Among other duties, he forges the indenturing papers that Adrielle uses for her illegal slave trade (he is also able to sell his work to [[organizations/criminal/the-black-hand|The Black Hand]], since it is of such high quality).
 
 One of the salespeople is a lovely woman named "Renni". She is in fact Lady [[people/jarenni-pailly|Jarenni Pailly]] and might approach the party with a proposal (see [[plots/free-city-of-haven/haven-scenarios|Haven Scenarios]]: [[plots/free-city-of-haven/scenarios/the-knights-lady-and-the-high-judge|plots/Free City of Haven/Scenarios/The Knight's Lady and The High Judge]] for further information).
 
-## Customers 
+## Customers
+
 Usually, there will be 1d10 customers, half of them couples, looking at clothing and bolts of yard goods.
 
-## Loiterers 
+## Loiterers
+
 There are frequently browsers of almost all the races.
 
-## NPC Encounters 
+## NPC Encounters
+
 None particularly. Adrielle's watchers are under instructions never to enter her shop.
 
-## Outstanding Items 
+## Outstanding Items
+
 A pair of manacles is lying near the back door of the warehouse area.
 
-## Special Options 
+## Special Options
+
 See [[settlements/erinhir|Erinhir]], [[plots/free-city-of-haven/haven-scenarios|Haven Scenarios]].
 
 # Purpose / Function
@@ -88,7 +110,7 @@ See [[settlements/erinhir|Erinhir]], [[plots/free-city-of-haven/haven-scenarios|
 
 **Image:** n/a
 
-**Textiles (Shopping)** 
+**Textiles (Shopping)**
 
  **Owner:**  Adrielle Ilorim
 
@@ -100,12 +122,14 @@ See [[settlements/erinhir|Erinhir]], [[plots/free-city-of-haven/haven-scenarios|
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -122,6 +146,7 @@ See [[settlements/erinhir|Erinhir]], [[plots/free-city-of-haven/haven-scenarios|
 ---
 
 ### World Anvil Metadata
+
 **Id:** 123c418e-9d2e-4cf9-affe-234e2cb1317d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -130,7 +155,9 @@ See [[settlements/erinhir|Erinhir]], [[plots/free-city-of-haven/haven-scenarios|
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

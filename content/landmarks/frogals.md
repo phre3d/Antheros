@@ -1,25 +1,35 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-pawnbroker #pawnbroker
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, thieves-market, type-pawnbroker]
+title: "Frogal's"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Frogal's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A pawn shop of distinction 
 
-## Description 
-The original owner of this pawn shop is no longer among the living, though his name still decorates the door. The current owner, [[people/kevin-derg|Kevin Derg]], is a sharp bargainer ([[articles/haggling|Haggling]]) , but is relatively honest in his dealings. His trader ratings are: 
+# Description
+
+## A pawn shop of distinction
+
+## Description
+
+The original owner of this pawn shop is no longer among the living, though his name still decorates the door. The current owner, [[people/kevin-derg|Kevin Derg]], is a sharp bargainer ([[articles/haggling|Haggling]]) , but is relatively honest in his dealings. His trader ratings are:
 
 - Purse - 7,000gp
 - Fields - Jewelry, Glassblowing*, Dyeing, Tanning, Perfumery, Tailoring
 - Dealing Outside Normal Fields - 50?
 - Min/Max Offers - 15%/40% of value
 - "Hot" Goods - refuses deal (no stings are attempted)
-  
+
  The variety in Frogal's is Very Wide. Prices in general tend to Low to Fair, while Quality is Fair to Excellent. Few magic items (5% chance) are to be found, but people have been known to make superb finds in this shop.
 
 # Purpose / Function
@@ -56,7 +66,7 @@ The original owner of this pawn shop is no longer among the living, though his n
 
 **Image:** n/a
 
-**Pawnbroker (Shopping)** 
+**Pawnbroker (Shopping)**
 
  **Owner:**  Kevin Derg
 
@@ -68,12 +78,14 @@ The original owner of this pawn shop is no longer among the living, though his n
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/thieves-market|Thieves' Market]]
 
 **Connected Rooms:**
@@ -90,6 +102,7 @@ The original owner of this pawn shop is no longer among the living, though his n
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5ea8220f-7789-4f2c-8485-75af8df49c0a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -98,7 +111,9 @@ The original owner of this pawn shop is no longer among the living, though his n
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

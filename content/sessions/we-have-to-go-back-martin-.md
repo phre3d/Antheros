@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -29,4 +34,3 @@ Jillie is pissed off. We've been gone for 4 weeks. She thinks we've abandoned ou
 <br>
 
 ---
-

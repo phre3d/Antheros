@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-laundry #laundry
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, laundry, the-south-corridor, type-laundry]
+title: Sweet Springs
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Sweet Springs
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Laundry services 
 
-## Description 
+# Description
+
+## Laundry services
+
+## Description
+
 Herdi and his wife Maati run a large business and charge large prices. They deal with customers while 20 workers do the actual washing and lugging of water from the river.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Herdi and his wife Maati run a large business and charge large prices. They deal
 
 **Image:** n/a
 
-**Laundry (Service)** 
+**Laundry (Service)**
 
  **Owner:**  Herdi
 
@@ -60,12 +70,14 @@ Herdi and his wife Maati run a large business and charge large prices. They deal
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Factory
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Herdi and his wife Maati run a large business and charge large prices. They deal
 ---
 
 ### World Anvil Metadata
+
 **Id:** 647c0a29-f82a-44ec-b1f9-543c8623b4f1<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ Herdi and his wife Maati run a large business and charge large prices. They deal
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

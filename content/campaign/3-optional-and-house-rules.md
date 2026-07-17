@@ -1,15 +1,25 @@
-#import #article #campaign
+---
+aliases: []
+tags: [1, article, campaign, import]
+title: 3. Optional and House Rules
+date modified: 2026-07-16, 9:19:05 pm
+---
+
 # 3. Optional and House Rules
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Rule #1: Don't be a Dick 
-Party members must work with the party unless the other players are cool with it for the sake of roleplay. Cooperation is defined negatively, through a list of examples of non-cooperation. Forms of non-cooperation include: 
+
+# Rule: Don't be a Dick
+
+Party members must work with the party unless the other players are cool with it for the sake of roleplay. Cooperation is defined negatively, through a list of examples of non-cooperation. Forms of non-cooperation include:
+
 - Stealing from party members (includes not sharing loot).
 - Hiding during a fight because your character is “cowardly” and feels no loyalty to the party.
 - Attacking someone while most of the party want to negotiate, effectively forcing the party to do what you want and fight. (“I am a barbarian and I have no patience” isn't a valid excuse.)
@@ -17,11 +27,14 @@ Party members must work with the party unless the other players are cool with it
 - Abusing the norm against no PvP by putting the party in a situation where they must choose between attacking you, letting you die alone or joining in an activity they really don't want to (e. g. attacking the town guards).
 - Doing things that would be repugnant to the group's morality, e.g., torture for fun. Especially if you act shocked when the other players call you on it, in or out of game.
 
-Additionally, when a player does these things, especially when they do them consistently in a way that isn't fun, the GM shouldn't expect them to solve it in game. An over the table conversation is necessary. In extreme cases the GM might even be justified in vetoing an action (“I use sleight of hand to steal that players magic ring.” “No, you don't”.) Generally though it's possible to prevent it from coming to this point. 
+Additionally, when a player does these things, especially when they do them consistently in a way that isn't fun, the GM shouldn't expect them to solve it in game. An over the table conversation is necessary. In extreme cases the GM might even be justified in vetoing an action (“I use sleight of hand to steal that players magic ring.” “No, you don't”.) Generally though it's possible to prevent it from coming to this point.
 
-# Character Generation and Leveling 
-## Rolling for Stating Attribute Scores 
+# Character Generation and Leveling
+
+## Rolling for Stating Attribute Scores
+
  **Rule:**  
+
 1. Do six rolls of 4d6 (re-rolling 1s). Drop the lowest die to get 6 numbers from 6-18. GM must witness this step.
 2. Add up the 6 number. If the total is less than 70, you can choose to throw them out and go back to step 1.
 3. Determine the attribute modifiers provided by these rolls (+ve and -ve mods). If the total exceeds 8, throw them out and go back to step 1.
@@ -30,73 +43,88 @@ Additionally, when a player does these things, especially when they do them cons
 
 Alternatively, you can skip steps 1 to 3 if you send me a number from 1 - 100. I'll give you a set of "rolls" that works. Yes, I generated 100 sets of 6 rolls that fit the criteria :-)
 
- **Explanation:**  Nobody wants to play a weak character, after all, we are adventures. This method allows for decent stats and the possibility of a low stat (weakness), which is incredibly fun for roleplay purposes. That is something the point-buy system doesn't lean into. However, this system has the potential of making really strong early game characters. That is why a limit of a total of +8 modifiers is present. +8 may seem underwhelming but compared to the max of +7 the Point-Buy system allows, the limit is reasonable. 
+ **Explanation:**  Nobody wants to play a weak character, after all, we are adventures. This method allows for decent stats and the possibility of a low stat (weakness), which is incredibly fun for roleplay purposes. That is something the point-buy system doesn't lean into. However, this system has the potential of making really strong early game characters. That is why a limit of a total of +8 modifiers is present. +8 may seem underwhelming but compared to the max of +7 the Point-Buy system allows, the limit is reasonable.
 
-## Feats 
+## Feats
+
  **Rule:**  During character creation, a player may elect to swap one (and only one) Attribute Score bonus and instead acquire one Feat. For example, half-elves get +2 to Charisma; instead, a player may gain +1 CHA and take a feat.  Refer to [[campaign/4-feats|4-feats]] for what's available. Before taking a feat, you must obtain the GM's permission as may veto a choice but must do so when it is first chosen, allowing the player to select a different one. Any feat that includes a plus to any of the character's attribute scores will be vetoed at character creation time.
 
  **Explanation:**  Feats add flavour but can also make for overpowered characters.
 
-## Racial Modifiers 
- **Rule:**  Per Tasha's Cauldron of Everything (one of the expansion books), you may choose to apply racial attribute modifiers to different attributes  *if it fits your character description* . For example, if your race normally gets +2 Strength and +1 Constitution but you want to be a weakling performer you could apply the +2 to Charisma and +1 to Dexterity. 
- **Please review your proposal with the GM before proceeding.** 
+## Racial Modifiers
+
+ **Rule:**  Per Tasha's Cauldron of Everything (one of the expansion books), you may choose to apply racial attribute modifiers to different attributes  *if it fits your character description* . For example, if your race normally gets +2 Strength and +1 Constitution but you want to be a weakling performer you could apply the +2 to Charisma and +1 to Dexterity.
+
+ **Please review your proposal with the GM before proceeding.**
 
  **Explanation:**  Gives you more choice to adapt your stats to the character.
 
-## Alignment is a Guideline, not a Prison 
- **Rule:**  Players are not restricted to certain actions due to their alignment. However, if your character has a certain devotion or deity that their abilities come from, for example, paladin, cleric, etc. the GM will determine the consequences (if any) for your actions. Just as stats change, alignment may change throughout the course of the campaign and is not set in stone. 
+## Alignment is a Guideline, not a Prison
 
- **Explanation:**  This rule is to avoid stubborn characters who refuse to do a certain action due to alignment, putting the party at a hindrance. They are not obligated to do, or not do, actions because of their alignment, however of course they still may wish to do whatever they choose so. 
+ **Rule:**  Players are not restricted to certain actions due to their alignment. However, if your character has a certain devotion or deity that their abilities come from, for example, paladin, cleric, etc. the GM will determine the consequences (if any) for your actions. Just as stats change, alignment may change throughout the course of the campaign and is not set in stone.
 
-## Multiclassing 
- **Rule:**  Multiclassing is an optional rule that I'd prefer not to use. 
+ **Explanation:**  This rule is to avoid stubborn characters who refuse to do a certain action due to alignment, putting the party at a hindrance. They are not obligated to do, or not do, actions because of their alignment, however of course they still may wish to do whatever they choose so.
 
- **Explanation:**  Multiclassing can slow the game pace as players need to keep two sets of abilities in mind and favors some classes over others. It also has the potential to create extreme metagaming. 
+## Multiclassing
 
-## One Character per Player 
+ **Rule:**  Multiclassing is an optional rule that I'd prefer not to use.
+
+ **Explanation:**  Multiclassing can slow the game pace as players need to keep two sets of abilities in mind and favors some classes over others. It also has the potential to create extreme metagaming.
+
+## One Character per Player
+
  **Rule:**  Each player may have one and only one character.  This may be waived in exceptional circumstances and for limited durations.
 
  **Explanation:**  I've played multiple characters and seen it done and it simply takes too much time and slows things down, especially combat.
 
-## Leveling Up: Feats 
- **Rule:**  As per PHB, any time you level up and gain an Ability Score Improvement, you may instead choose a feat for which you meet the prerequisites. Refer to this document for the feats from the three main source books. Before taking a feat, you must obtain the GM's permission as may veto a choice but must do so when it is first chosen, allowing the player to select a different one. 
+## Leveling Up: Feats
+
+ **Rule:**  As per PHB, any time you level up and gain an Ability Score Improvement, you may instead choose a feat for which you meet the prerequisites. Refer to this document for the feats from the three main source books. Before taking a feat, you must obtain the GM's permission as may veto a choice but must do so when it is first chosen, allowing the player to select a different one.
 
  **Explanation:**  Feats add flavour but can also make for overpowered characters.
 
-## Leveling Up: New HP 
+## Leveling Up: New HP
+
  **Rule:**  When a player levels up, they may choose either of the following:
+
 - Roll their Hit Die then choose that roll (always reroll a 1) or scrap it for the GM's mystery roll. Then add their Constitution modifier.
 - Choose half their Hit Die rounded down and add their Constitution modifier (e.g., if you use d8 for hit die take 4 + CON modifier)
 
- **Explanation:**  Hit Dice/HP are very important when it comes to a character. It may determine whether they live or die. When it comes to rolling for HP, statistics show that this is the most cheated stat players roll on. A constant low roll could result in a fragile character. This may lead to the player feeling dissatisfied with their character throughout the game. This may also lead to strange outcomes of a wizard tank and a pushover barbarian. While this may be fun for some players in the roleplay light. Not all players enjoy having their most important stat based on random chance. 
+ **Explanation:**  Hit Dice/HP are very important when it comes to a character. It may determine whether they live or die. When it comes to rolling for HP, statistics show that this is the most cheated stat players roll on. A constant low roll could result in a fragile character. This may lead to the player feeling dissatisfied with their character throughout the game. This may also lead to strange outcomes of a wizard tank and a pushover barbarian. While this may be fun for some players in the roleplay light. Not all players enjoy having their most important stat based on random chance.
 
 With this rule, players can choose whether they want to risk and roll for a higher health pool with possible chances of a higher result or low result. Or take the slightly above average and dependant route of a static number. This choice is entirely up to the player, and they may change their option every time they role for new HP/Hit Die. However, to still encourage rolls, the player may roll their Hit Die and the GM rolls a mystery Hit die for them at the same time. The player may then choose their roll or to take the GM's mystery roll. There will be no takebacks if the player chooses GM mystery roll.
 
-What this does is allow a lot of freedom during Hit Die level up. Letting the player feel satisfied with any choice they make. Also, everyone hates getting a 1 on the roll. Let's reroll them! 
+What this does is allow a lot of freedom during Hit Die level up. Letting the player feel satisfied with any choice they make. Also, everyone hates getting a 1 on the roll. Let's reroll them!
 
-## A Reason to Be Here 
+## A Reason to Be Here
+
  **Rule:**  Ensure your character has a reason to be in and want to stay in the party.
 
  **Explanation:**  [See this short video](https://www.youtube.com/shorts/cL7u6ujniI0|tab) (opens a new tab)
 
-# Combat 
-## Nat 20 to Hit 
- **Rule:**  At Nat 20 is a critical hit only if you do in fact hit the target (including other modifiers). For example, a Nat 20 at +4 to hit misses if the target has AC 25. 
+# Combat
 
- **Explanation:**  Automatic hits with much larger damage 5% of the time is just too much. 
+## Nat 20 to Hit
 
-## Nat 1 to Hit 
- **Rule:**  This is just a really bad miss. We won't be using a fumble/critical miss table. Unless you really want to, I do have fumble tables. 
+ **Rule:**  At Nat 20 is a critical hit only if you do in fact hit the target (including other modifiers). For example, a Nat 20 at +4 to hit misses if the target has AC 25.
 
- **Explanation:**  Prioritizing speed of combat over fumble effect. I can be convinced to go the other way. 
+ **Explanation:**  Automatic hits with much larger damage 5% of the time is just too much.
 
-## Critical Hit Damage 
+## Nat 1 to Hit
+
+ **Rule:**  This is just a really bad miss. We won't be using a fumble/critical miss table. Unless you really want to, I do have fumble tables.
+
+ **Explanation:**  Prioritizing speed of combat over fumble effect. I can be convinced to go the other way.
+
+## Critical Hit Damage
+
  **Rule:**  We will use the "Perkins Crit" method for determining damage on a critical hit. Using the by-the-book method, damage dice are rolled twice, added together and then your damage modifier is added. The Perkins method assumes that one roll will be max value, so you only roll the other one. Then add damage modifiers as normal.
 
- **Explanation:**  Using this method ensures that the value of a crit can't be cancelled out by a bad damage roll. But don't forget that your enemies will use the same method! 
+ **Explanation:**  Using this method ensures that the value of a crit can't be cancelled out by a bad damage roll. But don't forget that your enemies will use the same method!
 
-## Time Limited Turns 
- **Rule:**  The GM looks at the player whose turn it is and starts counting down from a number (or maybe uses a timer app?). If the player takes no action by the time the count reaches zero, the GM skips that players turn. Their character froze up in the moment and took the “Dodge Action”. 
+## Time Limited Turns
+
+ **Rule:**  The GM looks at the player whose turn it is and starts counting down from a number (or maybe uses a timer app?). If the player takes no action by the time the count reaches zero, the GM skips that players turn. Their character froze up in the moment and took the “Dodge Action”.
 
  **Explanation:**  Two factors are at play here.
 
@@ -104,18 +132,20 @@ Real combat is chaotic and there is no time to stop and have conversations with 
 
 Combat can seem to take forever so we want to speed things up. Players should be planning their next move while waiting for their turn - the countdown will allow for some adjustment based on what just happened.
 
-Note: Some leeway is granted for players still learning or who have a mechanical question. We don't want to frustrate players still learning the action economy or class abilities. 
+Note: Some leeway is granted for players still learning or who have a mechanical question. We don't want to frustrate players still learning the action economy or class abilities.
 
-## Flanking, or Get Creative to Get Advantage 
- **Rule:**  The optional flanking will not be used. Instead, get creative in describing what you do (i.e., impress, amuse the GM and other players) and the GM may give you advantage. For example, a player describes that they swing across a chandelier passing an acrobatics check with flying colors to attack the bad guy mid-swing. Yeah, that gets advantage. Other cool moves and their respected skill checks will matter based on the circumstances. 
+## Flanking, or Get Creative to Get Advantage
 
- **Explanation:**  The flanking rule is optional...and mechanical and boring. I'd rather be entertained. 
+ **Rule:**  The optional flanking will not be used. Instead, get creative in describing what you do (i.e., impress, amuse the GM and other players) and the GM may give you advantage. For example, a player describes that they swing across a chandelier passing an acrobatics check with flying colors to attack the bad guy mid-swing. Yeah, that gets advantage. Other cool moves and their respected skill checks will matter based on the circumstances.
 
- 
-## Enemy Initiative Order 
+ **Explanation:**  The flanking rule is optional…and mechanical and boring. I'd rather be entertained.
+
+## Enemy Initiative Order
+
  **Rule:**  Enemy initiative is determined by rolling 1dx (where x = number of players + 1). Enemies are slotted individually between the player turns starting with the result of the die roll.
 
 Example: 5 players vs. 8 Kobolds
+
 1. GM rolls a d6 (# players + 1) and gets a 3
 2. Initiative order will be:
 3. highest player initiative
@@ -127,46 +157,55 @@ Example: 5 players vs. 8 Kobolds
 
 Remaining kobolds go after the last player.
 
- **Explanation:**  The goal of this rule is to make combat go Player, Enemy, Player, Enemy, etc. Setting up this combat order is faster because the GM ignores rolling for initiative and spending time on math. Having enemies go alternate with players makes the combat feel more dynamic, flexible, and reactionary. Players have a chance to react to a status effect or a turn coming up. This also avoids clusters of enemies attacking a specific player at once or the party not being able to help because their turns are so far behind. 
+ **Explanation:**  The goal of this rule is to make combat go Player, Enemy, Player, Enemy, etc. Setting up this combat order is faster because the GM ignores rolling for initiative and spending time on math. Having enemies go alternate with players makes the combat feel more dynamic, flexible, and reactionary. Players have a chance to react to a status effect or a turn coming up. This also avoids clusters of enemies attacking a specific player at once or the party not being able to help because their turns are so far behind.
 
+## Death Saves
 
-## Death Saves 
- **Rule:**  Death saves will be rolled in private with only the player and GM knowing the result, which may NOT be communicated to the other players. 
+ **Rule:**  Death saves will be rolled in private with only the player and GM knowing the result, which may NOT be communicated to the other players.
 
- **Explanation:**  Add tension in deciding when to heal your fallen comrade. It also avoids healer metagaming because they won't know if they can wait another turn or two. 
+ **Explanation:**  Add tension in deciding when to heal your fallen comrade. It also avoids healer metagaming because they won't know if they can wait another turn or two.
 
-## The “Last Breath” Option 
- **Rule:**  If a character rolls their final death saving throw and fails (or otherwise dies) they have the option of choosing a “Last Breath” or dying as normal. If they elect “Last Breath” then the character gets up using their last bit of energy giving themselves one final turn. The only restriction on this action is that it cannot lead to being healed in any manner. Any ability check and attack rolled during this turn by that player has advantage. Once the Last Breath turn is over, the player dies, and they cannot be resurrected by ANY means. 
+## The “Last Breath” Option
 
- **Explanation:**  There are many reasons why this rule is in here. If a player wants to die, they have the option of choosing this to attempt to go out in a blaze of glory. Thus, if the party has no resurrection abilities and the player does not want to risk them finding a way to revive them, (if there even is any) they can go out in style. This rule makes the player's death meaningful and can lead to some great stories. This also lets the player sacrifice themselves to save the party. 
+ **Rule:**  If a character rolls their final death saving throw and fails (or otherwise dies) they have the option of choosing a “Last Breath” or dying as normal. If they elect “Last Breath” then the character gets up using their last bit of energy giving themselves one final turn. The only restriction on this action is that it cannot lead to being healed in any manner. Any ability check and attack rolled during this turn by that player has advantage. Once the Last Breath turn is over, the player dies, and they cannot be resurrected by ANY means.
 
-# Spells and Casting 
-## Mage Armour 
- **Rule:**  uses the higher of the target's Dex modifier, or casters primary spell ability modifier. 
+ **Explanation:**  There are many reasons why this rule is in here. If a player wants to die, they have the option of choosing this to attempt to go out in a blaze of glory. Thus, if the party has no resurrection abilities and the player does not want to risk them finding a way to revive them, (if there even is any) they can go out in style. This rule makes the player's death meaningful and can lead to some great stories. This also lets the player sacrifice themselves to save the party.
 
- **Explanation:**  Better armour for casters. 
+# Spells and Casting
 
-## Spell Components 
+## Mage Armour
+
+ **Rule:**  uses the higher of the target's Dex modifier, or casters primary spell ability modifier.
+
+ **Explanation:**  Better armour for casters.
+
+## Spell Components
+
  **Rule:**  
+
 1. No spell pouch (or equivalent) means you don't have the materials.
 2. It is assumed that your character has the *simple* components to cast your spells in their inventory.
 3. For spells that require a *set* amount of gold or *specific* (semi-)precious stones, the caster must have them on their person. If in doubt, ask the GM!
 4. For spells requiring materials worth up to a certain gold amount such as gems, or other materials of value, you can substitute  the equivalent amount of gold. You must have that amount of money on you.
 
- **Explanation:**  The player's handbook pretty much states the same rule, but just to clarify why this is here. There are some powerful spells in D&D, they have a cost to using them on purpose. That way a caster will not go casting a strong spell left and right. If a spell has a requirement of a set amount of gold that needs to be used, gem or diamond. It will be the player's responsibility to acquire and manage these materials. 
+ **Explanation:**  The player's handbook pretty much states the same rule, but just to clarify why this is here. There are some powerful spells in D&D, they have a cost to using them on purpose. That way a caster will not go casting a strong spell left and right. If a spell has a requirement of a set amount of gold that needs to be used, gem or diamond. It will be the player's responsibility to acquire and manage these materials.
 
-## Opportunity Spells 
- **Rule:**  When a hostile creature's movement provokes an opportunity attack from a player, the player may instead cast an "opportunity spell". The spell must have a casting time of 1 action, be of level 2 or lower, and must target only that creature. 
+## Opportunity Spells
 
- **Explanation:**  This makes opportunity attacks more exciting because the player now has more choices on what they would like to do. This also gives a heavy caster focused build more flexibility instead of punishing them for not having a high DEX/STR score forcing them to use a melee weapon. 
+ **Rule:**  When a hostile creature's movement provokes an opportunity attack from a player, the player may instead cast an "opportunity spell". The spell must have a casting time of 1 action, be of level 2 or lower, and must target only that creature.
 
-## Cast before Effect 
- **Rule:**  The casting of a spell is completed before the effect takes place. This means the Verbal, Somatic, Material components are "used" before the effect happens. This applies unless explicitly stated otherwise in the spell description. 
+ **Explanation:**  This makes opportunity attacks more exciting because the player now has more choices on what they would like to do. This also gives a heavy caster focused build more flexibility instead of punishing them for not having a high DEX/STR score forcing them to use a melee weapon.
 
- **Explanation:**  Needed to clarify some spells where the effect *could be* considered to be part of the casting. For example, in a Suggestion spell, what is being suggested is not the Verbal component of the spell. Perhaps the Verbal component is an arcane translation of "I suggest that you...". More importantly, someone can see that a spell is being cast *before* the effect, not in parallel with the effect. 
+## Cast before Effect
 
-## Spell Clarifications 
+ **Rule:**  The casting of a spell is completed before the effect takes place. This means the Verbal, Somatic, Material components are "used" before the effect happens. This applies unless explicitly stated otherwise in the spell description.
+
+ **Explanation:**  Needed to clarify some spells where the effect *could be* considered to be part of the casting. For example, in a Suggestion spell, what is being suggested is not the Verbal component of the spell. Perhaps the Verbal component is an arcane translation of "I suggest that you…". More importantly, someone can see that a spell is being cast *before* the effect, not in parallel with the effect.
+
+## Spell Clarifications
+
 The following clarifications/rulings will apply. Others may be added as needed.
+
 - <u>Acid Splash:</u> May only be cast on a creature. Acid Splash does not damage objects.
 - <u>Banishment:</u> Must have an item the target is afraid of or wants to get away from.
 - <u>Contagion:</u> Disease effect is chosen on hit, but effect starts only after 3 failed saving throws.
@@ -179,10 +218,11 @@ The following clarifications/rulings will apply. Others may be added as needed.
 
 And a reminder: if the spell has Verbal or Somatic components, other creatures may be able to see or hear you casting.
 
-## More on Suggestion 
+## More on Suggestion
+
  **Rule:**  The spell description is reworded to be
 
-You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. 
+You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you.
 
 Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. A reasonable suggestion is something that a creature could be persuaded, deceived, or intimidated to do with a high enough Charisma check even without magic. If the suggestion is worded in such a way that the DC for the Charisma check would be higher than 30, the spell ends.
 
@@ -194,8 +234,10 @@ If you or any of your companions damage the target, the spell ends.
 
  **Explanation:**  The existing wording is far from clear and leads to far too strong a result for a low level spell.
 
-## Identify 
+## Identify
+
  **Rule:**  The spell will have limits based upon the rarity of the item and the level of the caster as follows:
+
 - Uncommon items require a 3rd level caster
 - Rare items require a 5th level caster
 - Very Rare items require a 7th level caster
@@ -205,42 +247,50 @@ Casting Identify on an item above the caster's ability will provide a limited am
 
  **Explanation:**  Allowing a 1st level caster be able to identify everything about a legendary item is too overpowered. And sometimes it's more fun to work for information.
 
-# Items 
+# Items
+
 ## Bag of Holding  
+
  **Rule: **  Placing a bag of holding inside an extradimensional space created by a handy haversack, portable hole, or similar item instantly destroys both items and their contents but DOES NOT create a gate to the Astral Plane.
 
  **Explanation:**  No "black hole bombs".
 
-# Miscellaneous 
-## Nat 1, Nat 20 on Saves/Skill Checks 
- **Rule:**  Nat 1 is not an automatic fail and similarly, a Nat 20 is not an automatic success. A Nat 20 to seduce the dragon only works if the modified roll succeeds vs. the DC. 
+# Miscellaneous
 
- **Explanation:**  Simplicity. 
+## Nat 1, Nat 20 on Saves/Skill Checks
 
-## Speaking of Seducing the Dragon 
- **Rule:**  Success on a roll when trying to influence an NPC does not necessarily mean what you intended works exactly as you intended. It means a successful outcome; a Nat 20 would be the best possible outcome given the circumstances. 
+ **Rule:**  Nat 1 is not an automatic fail and similarly, a Nat 20 is not an automatic success. A Nat 20 to seduce the dragon only works if the modified roll succeeds vs. the DC.
+
+ **Explanation:**  Simplicity.
+
+## Speaking of Seducing the Dragon
+
+ **Rule:**  Success on a roll when trying to influence an NPC does not necessarily mean what you intended works exactly as you intended. It means a successful outcome; a Nat 20 would be the best possible outcome given the circumstances.
 
 For example, said dragon might chuckle politely and decide not to eat you. Similarly, a Nat 20 when trying to get the king to resign a make you the heir simply means you won't get sent to the executioner.
 
  **Explanation:**  It's simply not that easy to influence people. For example, you are not going to convince someone who hates you to suddenly fall in love, at best you'll make them neutral. Multiple attempts over a period of time  **may**  eventually get you to your goal.
 
-## Secrets, and when not to keep them 
- **Rule:**  Don't keep secrets from the GM. Or from the other players unless there's a good reason. Keeping secrets from other characters is less of an issue. However, see Rule 1, above. 
+## Secrets, and when not to keep them
 
- **Explanation:**  If you're planning to surprise people or want to lead up to some sort of grand reveal and you don't make the GM aware, the story may not work out the way you want, and it will be spoiled. Similarly, not explaining an action you take to the GM may lead to innocent NPC actions that screw it up for you. 
+ **Rule:**  Don't keep secrets from the GM. Or from the other players unless there's a good reason. Keeping secrets from other characters is less of an issue. However, see Rule 1, above.
+
+ **Explanation:**  If you're planning to surprise people or want to lead up to some sort of grand reveal and you don't make the GM aware, the story may not work out the way you want, and it will be spoiled. Similarly, not explaining an action you take to the GM may lead to innocent NPC actions that screw it up for you.
 
 Example<sup>1</sup>: Saying you're going to stay outside of the inn when everyone else goes in without explaining why. An NPC may see you spying through the window and ruin your big surprise entrance for roleplaying effects. If GM knows your plans, there's every likelihood you won't be seen. Similarly, having a long-range plan for a grand reveal to the party might not ever happen in the storyline veers away from what you had planned.
 
 In both cases, the player could also let the other players in on the secret even if in a vague manner. The other characters of course know nothing. When the plan or reveal happens the other players will be better prepared to roleplay their characters' responses.
 
-## We Aim to Please. You Aim Too Please 
- **Rule:**  If you roll your dice and it misses the table (and lands on the floor) then you count as rolling the lowest possible result. Was it an attack roll? Counts as a 1. Rolling 2d6 damage and one die falls off the table? Then I guess you are doing d6+1 damage. 
+## We Aim to Please. You Aim Too Please
+
+ **Rule:**  If you roll your dice and it misses the table (and lands on the floor) then you count as rolling the lowest possible result. Was it an attack roll? Counts as a 1. Rolling 2d6 damage and one die falls off the table? Then I guess you are doing d6+1 damage.
 
  **Explanation:**  D&D is an exciting game; however, lack of attention can ruin the experience for everybody such as rolling a die off the table and having to look for it. This stops the pacing of the game.
 
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** da756711-b75e-4ac0-8e70-c4d2b340dc01<br>
 **Entity Type:** Article / article<br>
 **Category:** Introduction<br>
@@ -250,16 +300,19 @@ In both cases, the player could also let the other players in on the secret even
 
 <sup>1</sup> Both examples are real, and taken from D&D subreddits
 
-
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 b5ed8d6c-d48f-406a-8095-fa72e93529e6
 
 --- end-column ---

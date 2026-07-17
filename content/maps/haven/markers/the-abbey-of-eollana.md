@@ -1,8 +1,12 @@
 ---
-location: [3280.289,  1124.49]
+aliases: []
+tags: [map-marker]
+location: [1124.49, 3280.289]
 mapmarker: Religion
+title: The Abbey of Eollana
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # The Abbey of Eollana
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Religion
 **Location:** [[landmarks/the-abbey-of-eollana|The Abbey of Eollana]]<br>
 **Location Type:** Abbey
 
-**Description**<br> 
-
+**Description**<br>

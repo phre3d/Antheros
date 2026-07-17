@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-street-of-harps]
+title: Benjaman MacRyan
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Benjaman MacRyan
 
-### 
+###
 
-**Full Name:**  Benjaman  MacRyan    
+**Full Name:**  Benjaman  MacRyan
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The proprietor of this sprawling stone and half-timber inn, he stands 6 foot 4 i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/benjaman-macryan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

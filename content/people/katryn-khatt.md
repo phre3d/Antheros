@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-north-corridor]
+title: Katryn Khatt
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Katryn Khatt
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Owner/operator of [[landmark/the-feather-and-frock|The Feather and Frock]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/katryn-khatt]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

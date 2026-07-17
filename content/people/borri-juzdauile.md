@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Borri Juzdauile
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Borri Juzdauile
 
-### 
+###
 
-**Full Name:**  Borri  Juzdauile    
+**Full Name:**  Borri  Juzdauile
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Package Proposition
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/borri-juzdauile]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

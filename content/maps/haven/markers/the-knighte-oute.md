@@ -1,8 +1,12 @@
 ---
-location: [1846.615,  2911.224]
+aliases: []
+tags: [map-marker]
+location: [1846.615, 2911.224]
 mapmarker: Inns & Taverns
+title: The Knighte Oute
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Knighte Oute
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-knighte-oute|The Knighte Oute]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

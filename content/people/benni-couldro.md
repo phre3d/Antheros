@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #grey-halls #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, grey-halls, import, npc, person]
+title: Benni Couldro
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Benni Couldro
 
-### 
+###
 
-**Full Name:**  Benni  Couldro    
+**Full Name:**  Benni  Couldro
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Guard in [[landmark/the-grey-halls|The Grey Halls]]. See scenario [[plots/the-re
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/benni-couldro]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

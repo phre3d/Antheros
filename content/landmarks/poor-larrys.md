@@ -1,31 +1,45 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-cauldron, type-tavern]
+title: "Poor Larry's"
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Poor Larry's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## One man struggling to survive in the corpse of his failed business 
 
-## Description 
+# Description
+
+## One man struggling to survive in the corpse of his failed business
+
+## Description
+
 Refer to Twisted Taverns, page 87
+
  F:\Bob's Stuff\SkyDrive\Gaming\Twisted Taverns\The Seeker' s Guide to Twisted Taverns.pdf
 
-## Staff 
+## Staff
+
 Just Larry since his wife died, his sons left (or were imprisoned) and young daughter Luna was taken.
 
-## Customers 
+## Customers
+
 Engog is a young half-orc (use the bandit stat block) who occasionally visits Poor Larrys because of the cheap grog. He wears an open waistcoat and simple pants, the same clothes he wears while working in the fields.
 
 Kai Brownsmith is a red-haired human woman (commoner) in her late 20s, and the daughter of a coppersmith in town. She wears common clothes covered in patches from burns during casting.
 
 Gastroe Oakenclub  is a dwarven drunkard and veteran who regularly drinks beyond his limits and makes a mess in Poor Larry's. He occasionally brings in old drinking buddies to overturn the entire dining area.
 
-## Loiterers 
+## Loiterers
+
 As many as 12 guests 2d6 can typically be found nursing their drinks, some quietly washing away sorrows and others energetically laughing at Larry. Most interactions with them involve complaints about service speed and the blandness of the food or drinks.
 
 # Purpose / Function
@@ -62,7 +76,7 @@ As many as 12 guests 2d6 can typically be found nursing their drinks, some quiet
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -74,12 +88,14 @@ As many as 12 guests 2d6 can typically be found nursing their drinks, some quiet
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -96,6 +112,7 @@ As many as 12 guests 2d6 can typically be found nursing their drinks, some quiet
 ---
 
 ### World Anvil Metadata
+
 **Id:** f6d38cfb-51e6-4d8c-bba2-db09ec50ab4b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -104,7 +121,9 @@ As many as 12 guests 2d6 can typically be found nursing their drinks, some quiet
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #companions-of-silverthorne #the-cauldron #npc
+---
+aliases: []
+tags: [companions-of-silverthorne, Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Stagtamer
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Stagtamer
 
-### 
+###
 
-**Full Name:**  Stagtamer      
+**Full Name:**  Stagtamer
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/stagtamer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

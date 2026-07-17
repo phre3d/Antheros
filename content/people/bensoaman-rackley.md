@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Bensoaman Rackley
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bensoaman Rackley
 
-### 
+###
 
-**Full Name:**  Bensoaman  Rackley    
+**Full Name:**  Bensoaman  Rackley
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ An unusual man, 7' 6" tall, with arms that almost touch the floor, and a very ro
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bensoaman-rackley]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

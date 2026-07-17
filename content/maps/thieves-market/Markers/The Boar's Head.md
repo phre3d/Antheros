@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Inns & Taverns
+title: "The Boar's Head"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # The Boar's Head
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-boars-head|The Boar's Head]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
-
+**Description**<br>

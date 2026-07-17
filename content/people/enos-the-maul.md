@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #guild-of-the-beast #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/beast, import, npc, person, the-labyrinth]
+title: Enos the Maul
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Enos the Maul
 
-### 
+###
 
 **Full Name:**  Enos    the Maul  
 
@@ -201,13 +207,12 @@ A solid man, a granite block in human guise, who wields a 9-pound maul as if it 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/enos-the-maul]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

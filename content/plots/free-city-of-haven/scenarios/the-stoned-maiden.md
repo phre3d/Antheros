@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Stoned Maiden
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Stoned Maiden
 
 ````col
@@ -53,7 +59,6 @@ If a mage has been contacted regarding removal of the curse, he will discover th
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

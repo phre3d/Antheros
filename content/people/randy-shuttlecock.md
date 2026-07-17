@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-labyrinth]
+title: Randy Shuttlecock
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Randy Shuttlecock
 
-### 
+###
 
-**Full Name:**  Randy  Shuttlecock    
+**Full Name:**  Randy  Shuttlecock
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Owner, [[landmark/the-fox-and-goose|The Fox and Goose]]. He is middle-aged and q
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/randy-shuttlecock]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

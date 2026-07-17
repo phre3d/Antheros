@@ -1,8 +1,12 @@
 ---
-location: [2936.411,  2263.265]
+aliases: []
+tags: [map-marker]
+location: [2263.265, 2936.411]
 mapmarker: Shopping
+title: The Pentacle
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Pentacle
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-pentacle|The Pentacle]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

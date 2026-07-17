@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Return of the Prodigal Rig
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Return of the Prodigal Rig
 
 ````col
@@ -45,7 +51,6 @@ The wranglers had put the wagons and stock up for the night when they arrived an
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

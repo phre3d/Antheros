@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Cinnimon
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cinnimon
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ See scenario [[plots/the-south-keep-gang|The South Keep Gang]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cinnimon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

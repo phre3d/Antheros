@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-dwarrow]
+title: Blankin
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Blankin
 
-### 
+###
 
-**Full Name:**  Blankin      
+**Full Name:**  Blankin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A man of medium build with a tremendous booming voice who runs [[landmark/the-de
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/blankin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

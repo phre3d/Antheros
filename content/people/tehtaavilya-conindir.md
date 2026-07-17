@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #conindir-family #erinhir #npc
+---
+aliases: []
+tags: [conindir-family, erinhir, Free_City_of_Haven, import, npc, person]
+title: Tehtaavilya Conindir
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tehtaavilya Conindir
 
-### 
+###
 
-**Full Name:**  Tehtaavilya  Conindir    
+**Full Name:**  Tehtaavilya  Conindir
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Daughter of [[person/teleril-conindir|Teleril Conindir]] and [[person/khelekien-
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tehtaavilya-conindir]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

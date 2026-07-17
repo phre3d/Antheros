@@ -1,18 +1,28 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-warehouse #guild-of-drayers #warehouse
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, the-south-docks, type-warehouse, warehouse]
+title: "Voelkher's Sea Transport"
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Voelkher's Sea Transport
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A crumbling deserted pile 
 
-## Description 
-An abandoned warehouse of a long defunct shipping and forwarding company. The doors and first floor windows of the two story wooden structure were boarded up some time ago, and give the appearance of being sturdily barred. In fact, however, the boards covering the alley entrance are partially rotted, and can be broken down without too much effort. 
+# Description
+
+## A crumbling deserted pile
+
+## Description
+
+An abandoned warehouse of a long defunct shipping and forwarding company. The doors and first floor windows of the two story wooden structure were boarded up some time ago, and give the appearance of being sturdily barred. In fact, however, the boards covering the alley entrance are partially rotted, and can be broken down without too much effort.
 
  The lower floor is filled with broken debris from the building's past operations. One of the small rooms on the second floor is sometimes used as a hideout by [[organizations/criminal/the-black-hand|The Black Hand]], and contains several changes of clothing, a small supply of food (mostly stale, but edible), and half a dozen sharp throwing daggers cached in a closet.
 
@@ -50,7 +60,7 @@ An abandoned warehouse of a long defunct shipping and forwarding company. The do
 
 **Image:** n/a
 
-**Warehouse (Service)** 
+**Warehouse (Service)**
 
  **Owner:**  
 
@@ -62,12 +72,14 @@ An abandoned warehouse of a long defunct shipping and forwarding company. The do
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Warehouse, Commercial
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -84,6 +96,7 @@ An abandoned warehouse of a long defunct shipping and forwarding company. The do
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7d7395ad-f505-4389-8d02-4d064aacdfc2<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -92,7 +105,9 @@ An abandoned warehouse of a long defunct shipping and forwarding company. The do
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

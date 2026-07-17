@@ -1,6 +1,12 @@
-#import #statblock #item #Sins_of_the_Past #magic-item
+---
+aliases: []
+tags: [import, item, magic-item, plot/Sins_of_the_Past, statblock]
+title: Mirror of Life Trapping
+date modified: 2026-07-16, 9:18:11 pm
+---
 
---- start-multi-column: Top
+---start-multi-column: Top
+
 ```column-settings  
 number of columns: 2  
 column size: [59%, 39%]
@@ -8,53 +14,61 @@ border: [off]
 alignment: [left, center]
 shadow: off
 ```
+
 # Mirror of Life Trapping
 
 **Item Type:** Wondrous Item<br>
 **Rarity:** Very Rare<br>
 **Price:** <br>
 **Weight:** 50 lbs<br>
-**Attunement:** 
+**Attunement:**
 
 --- end-column ---
 
 --- end-multi-column
 
 ---
+
 # Properties
+
 Mirror of Life Trapping
 
 ---
+
 # Description
+
 When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures.  
 
 ---
 
 --- start-multi-column: ArmourWeapon
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 50%]
 border: [off, off]
 ```
+
 # Armour Details
-**Armour Type:** 
 
-**Armour Class:** 
+**Armour Type:**
 
-**Strength Requirement:** 
+**Armour Class:**
+
+**Strength Requirement:**
 
 --- end-column ---
 
 # Weapon Details
+
 **Subtype:** None
 
-**Damage:** 
+**Damage:**
 
-**Secondary Damage:** 
+**Secondary Damage:**
 
 **Damage Type:** None
 
-**Range:** 
+**Range:**
 
 --- end-multi-column
-

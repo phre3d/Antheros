@@ -1,9 +1,15 @@
-#import #person #Sins_of_the_Past #npc #geronde-family
+---
+aliases: []
+tags: [geronde-family, import, npc, person, plot/Sins_of_the_Past]
+title: Nesan Geronde
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nesan Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -192,13 +198,10 @@ Nesan was head of the [[organization/geronde-family|Geronde Family]] 200 years a
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

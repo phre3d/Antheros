@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-seamstress #guild-of-the-loom #seamstress
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/loom, import, landmark, seamstress, the-labyrinth, type-seamstress]
+title: Sew Simple
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Sew Simple
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Best dresses in Haven 
 
-## Description 
+# Description
+
+## Best dresses in Haven
+
+## Description
+
 Walyn has a two apprentices working with her and is always busy.  Simple items are generally made by an apprentice and takes on more interesting work herself.  Because she is busy, a full dress may take a week to complete and an embroidered gown up to three weeks.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Walyn has a two apprentices working with her and is always busy.  Simple items a
 
 **Image:** n/a
 
-**Seamstress (Shopping)** 
+**Seamstress (Shopping)**
 
  **Owner:**  Walyn
 
@@ -60,12 +70,13 @@ Walyn has a two apprentices working with her and is always busy.  Simple items a
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Walyn has a two apprentices working with her and is always busy.  Simple items a
 ---
 
 ### World Anvil Metadata
+
 **Id:** e0aa70d3-631a-4cc2-ae70-9b74c12502e6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Walyn has a two apprentices working with her and is always busy.  Simple items a
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

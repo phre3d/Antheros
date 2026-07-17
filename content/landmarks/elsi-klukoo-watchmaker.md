@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-shop #type-timepieces #jewelers-guild #timepieces
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jewelers-guild, landmark, the-heights, timepieces, type-timepieces]
+title: Elsi Klukoo - Watchmaker
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Elsi Klukoo - Watchmaker
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Watches, and Clocks 
 
-## Description 
+# Description
+
+## Watches, and Clocks
+
+## Description
+
 Elsi is a rather elderly but spry woman who makes pocket watches and large clocks. In this epoch, watchmaking is still a rather speculative enterprise, and the final products are delicate and easily damaged (almost any blow to the face of the watch will render it useless. And most of the spring mechanisms cannot be overly tightened, and require rewinding every 4-6 hours). Given these restrictions on the technology, Elsi makes watches about as well as anyone else in the city. She also accommodates the pretensions of her clientele by engraving a design of their choice on the outside of the gold or silver watch case.
 
-## Price Range 
+## Price Range
+
 Outrageous.
 
-## Quality 
+## Quality
+
 Fair/Good.
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Fair/Good.
 
 **Image:** n/a
 
-**Timepieces (Shopping)** 
+**Timepieces (Shopping)**
 
  **Owner:**  Elsi Klukoo
 
@@ -66,12 +78,14 @@ Fair/Good.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Fair/Good.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 615936ef-c4d2-4e3d-ba7a-cddf1b0c1128<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -96,7 +111,9 @@ Fair/Good.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

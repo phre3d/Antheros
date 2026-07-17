@@ -1,16 +1,25 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Nenya
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Nenya
 
-Goddess of the Sea, Mother of Storms, Patron of Sailors     
+Goddess of the Sea, Mother of Storms, Patron of Sailors
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Of the Firstborn, Nenya is considered to be the most capricious. She has always been at odds with her siblings, and is viewed by them as an outsider. Her worshipers are often wanderers, and the few temples she has are built in port cities and serve as respites before long sea journeys. Her worshipers believe that life is harsh and often unfair and are said to look for the worst. That said, they usually gain the most enjoyment from the good times.
 
 It is considered disrespectful to not have a shrine to her aboard a ship, and most sailors will not leave beyond sight of the shoreline on any ship that does not have one.
@@ -22,6 +31,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -41,6 +51,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -66,6 +77,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -85,6 +97,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -113,7 +126,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -131,7 +144,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Firstborn
 
@@ -141,14 +154,15 @@ Her holy symbol is a cloud with a lightning bolt through it.
 
  **Father:**  [[religions/ladros]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/strathos]] (with Ladros)
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -168,7 +182,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -182,7 +196,7 @@ Her holy symbol is a cloud with a lightning bolt through it.
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -193,16 +207,17 @@ Her holy symbol is a cloud with a lightning bolt through it.
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 928a98b6-5cca-47d7-82cc-78f092e55d65<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -215,31 +230,37 @@ Her holy symbol is a cloud with a lightning bolt through it.
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/nenya-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/nenya-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/nenya-person)
 
 ---
@@ -247,18 +268,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 d65f1431-1ea7-474b-81f6-c34ab830cc0a
 
 --- end-column ---
 
 Next:
+
 1c8a7687-5623-48f0-b9bd-23725a2c8e34
 
 --- end-multi-column

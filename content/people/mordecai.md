@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Mordecai
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mordecai
 
-### 
+###
 
-**Full Name:**  Mordecai      
+**Full Name:**  Mordecai
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Mordecai is short, round, balding, and has a sense of humor that considers slapp
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mordecai]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

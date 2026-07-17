@@ -1,8 +1,12 @@
 ---
-location: [3331.309,  1974.49]
+aliases: []
+tags: [map-marker]
+location: [1974.49, 3331.309]
 mapmarker: Government
+title: The Library
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Library
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Government
 **Location:** [[landmarks/the-library|The Library]]<br>
 **Location Type:** Government
 
-**Description**<br> 
-
+**Description**<br>

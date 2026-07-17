@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Adaptation
+date modified: 2026-07-16, 9:19:02 pm
+---
+
 # Potion of Adaptation
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Protection
 >
 >**Application:**Ingest <br>
->**Duration:** 24 hours 
+>**Duration:** 24 hours
 >
 >**Price:** 600gp
 
-
 ## Description
+
 A smoking tonic that is sapphire in color. It smells like alchohol and earwax, but tastes like vanilla and carrots.
 
 ## Effects
+
 When you drink this potion, you and everything you wear and carry are unharmed by temperatures as low as -50°F and as high as 150°F for 24 hours.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
+
 **Base:** [[/materials/Alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  Water<br>
 **Spell Needed:**  <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Alcohol <br>
 *Essence(s):*    Fire  Water <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

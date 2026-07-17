@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Eldorato Imbethang
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Eldorato Imbethang
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A typical elf physically, medium tall, slender, brownish hair, brown eyes. His i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/eldorato-imbethang]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

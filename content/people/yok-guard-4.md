@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Yok Guard 4
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Yok Guard 4
 
-### 
+###
 
-**Full Name:**  Yok Guard  Four    
+**Full Name:**  Yok Guard  Four
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: [[person/yok-the-seer|Yok the Seer]]
 
 ---
 
-
-
 ![[people/blocks/yok-guard-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

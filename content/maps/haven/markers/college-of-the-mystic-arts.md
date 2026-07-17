@@ -1,8 +1,12 @@
 ---
-location: [3033.35,  2162.245]
+aliases: []
+tags: [map-marker]
+location: [2162.245, 3033.35]
 mapmarker: Education
+title: College of the Mystic Arts
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # College of the Mystic Arts
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/college-of-the-mystic-arts|College of the Mystic Arts]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

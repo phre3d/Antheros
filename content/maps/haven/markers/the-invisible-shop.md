@@ -1,8 +1,12 @@
 ---
-location: [2979.268,  2390.816]
+aliases: []
+tags: [map-marker]
+location: [2390.816, 2979.268]
 mapmarker: Shopping
+title: The Invisible Shop
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Invisible Shop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-invisible-shop|The Invisible Shop]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-street-of-harps #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Luciano Clarino
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Luciano Clarino
 
-### 
+###
 
-**Full Name:**  Luciano  Clarino    
+**Full Name:**  Luciano  Clarino
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A round-faced, pleasant little man who runs a shop making and selling various ho
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/luciano-clarino]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

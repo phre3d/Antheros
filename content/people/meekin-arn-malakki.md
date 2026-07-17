@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Meekin arn Malakki
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Meekin arn Malakki
 
-### 
+###
 
-**Full Name:**  Meekin  arn Malakki    
+**Full Name:**  Meekin  arn Malakki
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Wife of Darvi [[person/malakki|Malakki]], who looks after the shop when he is tr
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/meekin-arn-malakki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

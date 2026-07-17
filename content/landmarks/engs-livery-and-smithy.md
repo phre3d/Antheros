@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-shop #type-livery #guild-of-the-beast #livery
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livery, street-of-silk-veils, type-livery]
+title: "Eng's Livery and Smithy"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Eng's Livery and Smithy
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Livery (Shopping)** 
+**Livery (Shopping)**
 
  **Owner:**  er-Keng Varrasch
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Stables
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** ae24a5ec-eeea-407d-a3f2-8921483ebc9a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

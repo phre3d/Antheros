@@ -1,8 +1,12 @@
 ---
-location: [3211.921,  2994.898]
+aliases: []
+tags: [map-marker]
+location: [2994.898, 3211.921]
 mapmarker: Inns & Taverns
+title: The Bent Page
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Bent Page
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-bent-page|The Bent Page]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

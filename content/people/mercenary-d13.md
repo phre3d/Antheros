@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Mercenary D13
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mercenary D13
 
-### 
+###
 
-**Full Name:**  Mercenary  D13    
+**Full Name:**  Mercenary  D13
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary D13
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-d13]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

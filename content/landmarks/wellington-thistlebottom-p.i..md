@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-other-services #other-services
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, other-services, the-cauldron, type-other-services]
+title: Wellington Thistlebottom - P.I.
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Wellington Thistlebottom - P.I.
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Other Services (Service)** 
+**Other Services (Service)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** f42df995-443c-4cdd-af9d-951bbbc81ad8<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Clockwork_Tower #npc
+---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person]
+title: Thaddeus Gearhardt
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Thaddeus Gearhardt
 
-### 
+###
 
-**Full Name:** Professor Thaddeus  Gearhardt    
+**Full Name:** Professor Thaddeus  Gearhardt
 
 `````col
 ````col-md
@@ -34,15 +40,10 @@ Professor Gearhardt is far more useful in an advisory role than in combat. His v
 ````
 `````
 
-
-
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

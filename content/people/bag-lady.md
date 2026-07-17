@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Bag Lady
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bag Lady
 
-### 
+###
 
-**Full Name:**  Bag  Lady    
+**Full Name:**  Bag  Lady
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Bag Lady
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bag-lady]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

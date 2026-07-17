@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Beryn Perkins
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Beryn Perkins
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Crossbow, hand:**  +4 to hit , 1d6+1 piercing damage  
   **Rapier:**  +6 to hit , 1d8+3 piercing damage  
   **Dagger:**  +6 to hit , 1d4+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

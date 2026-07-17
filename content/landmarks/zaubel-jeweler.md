@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-jeweler #jewelers-guild #jeweler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jeweler, jewelers-guild, landmark, the-dwarrow, type-jeweler]
+title: Zaubel - Jeweler
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Zaubel - Jeweler
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/zaubel|Zaubel]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Jeweler (Shopping)** 
+**Jeweler (Shopping)**
 
  **Owner:**  Zaubel
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Jeweler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 163881f3-a00a-4cb8-8a22-8259e164586e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

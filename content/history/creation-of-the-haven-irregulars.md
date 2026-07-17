@@ -1,25 +1,31 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true
-timelines: [Haven-Irregulars]
-aat-event-start-date: 1172/6/9 08:00
-aat-event-title: 1st Patrol
-aat-event-body: "Session 1:  [Panic in the Streets](https://www.worldanvil.com/w/antheros-phre3d/a/1-panic-on-the-streets-plot)"
+timelines:
+  - Haven-Irregulars
+aat-event-start-date: 1172/6/8 00:00
+aat-event-title: Creation of the Haven Irregulars
+aat-event-body: The first official day for this new unit in the Haven City Watch.
+title: Creation of the Haven Irregulars
+date modified: 2026-07-16, 9:19:03 pm
 ---
-#import #history ##the-city-watch
-# 1st Patrol
+
+# Creation of the Haven Irregulars
+
 ````col
 ```col-md
 flexGrow=2.5
 ===
 **Summary**<br>
-Session 1:  [[plots/the-city-watch/panic-on-the-streets|Panic on the Streets]]
+The first official day for this new unit in the Haven City Watch.
 
 **Description**<br>
 
 
 # Related Content
 **Article:** <br>
-**Location:** <br>
+**Location:** [[landmark/the-giggling-gryphon]]<br>
 **Species:** <br>
 **Report:** <br>
 **Conflict:** 
@@ -35,9 +41,9 @@ Session 1:  [[plots/the-city-watch/panic-on-the-streets|Panic on the Streets]]
 
 ```col-md
 **Start**<br>
-*Date:* 1172-6-9<br>
+*Date:* 1172-6-8<br>
 *Time:* :<br>
-*Alternate Format:* Sunday, the 9th of Planting, 1172
+*Alternate Format:* Starday, the 8th day of Planting, in the year 1172
 
 **End**<br>
 *Date:* --<br>
@@ -50,7 +56,3 @@ Session 1:  [[plots/the-city-watch/panic-on-the-streets|Panic on the Streets]]
 
 ```
 ````
-
-
-
-

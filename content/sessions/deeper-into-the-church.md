@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -37,4 +42,3 @@ Lena and Tatum ask to be escorted back to Killwitch. The whole area is still inc
 We make it back to townneventfully. Lena has a touching reunion with her brother, and there is a happy family get together. He givess a pouch containing 50 gold crowns, which we return . Instead we ask for room and board. He writess a long, and poorly written letter that explains how awesome we are.
 
 ---
-

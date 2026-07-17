@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Lando Buckminister
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lando Buckminister
 
-### 
+###
 
-**Full Name:**  Lando  Buckminister    
+**Full Name:**  Lando  Buckminister
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A stocky sallow-faced, mildly nocturnal halfling youth with nimble fingers that 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lando-buckminister]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

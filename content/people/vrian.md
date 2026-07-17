@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Vrian
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vrian
 
-### 
+###
 
-**Full Name:**  Vrian      
+**Full Name:**  Vrian
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Random entertainer to be user as necessary
 
 ---
 
-
-
 ![[people/blocks/vrian]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

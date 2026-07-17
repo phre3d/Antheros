@@ -1,221 +1,79 @@
-#import #person #Free_City_of_Haven #armorers-guild #the-south-corridor #npc
+---
+aliases: []
+tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Arthol Tedius
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Arthol Tedius
 
-### 
+>[!info]
+>**ID #**  250
+>
+> **Class/Profession:**  Ranger 3rd
+>
+>**Places Encountered**
+>- [[landmark/tedius-and-sprig|Tedius and Sprig]]
+>- [[settlement/the-south-corridor|The South Corridor]]
+>
+>---
+>
+>#### Presentation
+>**Eyes:**  <br>
+>**Hair:** <br>
+>**Pigmentation:** <br>
+>**Height:**  <br>
+>**Weight:** <br>
+>**Sex:** Male<br>
+>
+>#### Origins
+>**Family:** <br>
+>**Race:** [[race/human-race|Human Race]]<br>
+>
+>#### Birth
+>**Age:**  <br>
+>**Date of Birth:**  <br>
+>**Place of Birth:** <br>
+>
+>#### Death
+>**Date of Death:**  <br>
+>**Place of Death:** <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:** <br>
+>**Known Language(s):**  Common | Choose 1<br>
+>**Current Status:** <br>
+>**Current Residence:** <br>
+>**Current Location:**  [[article/the-south-corridor|The South Corridor]]<br>
+>
+>#### Affiliations
+>**Deity:**  <br>
+>**Affiliated Organization:**  <br>
 
-**Full Name:**  Arthol  Tedius    
+**Full Name:**  Arthol  Tedius
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
+
 A fletcher who specializes in the feathers and nock of arrows and bolts
 
-![[dndline.png]]
-
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Social
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Relationships
-
-## Parents
-
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
-
-## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/arthol-tedius-person)
-
-## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/arthol-tedius-person)
-
-## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/arthol-tedius-person)
-
-````
-````col-md
-
-
-**ID #**  250
-
-
- **Class/Profession:**  Ranger 3rd
-
-
- **Places Encountered** 
-- [[landmark/tedius-and-sprig|Tedius and Sprig]]
-- [[settlement/the-south-corridor|The South Corridor]]
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-south-corridor|The South Corridor]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-
 
 ![[people/blocks/arthol-tedius]]
 
-
-<!-- Standard page footer -->
-![[~attachments/dndline.png]]
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,9 +1,15 @@
-#import #person #Sins_of_the_Past #npc
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past]
+title: Haral Sask
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Haral Sask
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Half-elf, an orphan from [[settlement/the-labyrinth|The Labyrinth]] originally, 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

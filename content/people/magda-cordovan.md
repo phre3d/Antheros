@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Magda Cordovan
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Magda Cordovan
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ A slightly plump young woman with long dark curly hair, usually worn in a scarf;
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/magda-cordovan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

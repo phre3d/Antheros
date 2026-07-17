@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Earnil Anarion
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Earnil Anarion
 
-### 
+###
 
-**Full Name:**  Earnil  Anarion    
+**Full Name:**  Earnil  Anarion
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Starseeker's captain, Earnil is a tall elf with pale hair and sea-green eyes.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/earnil-anarion]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

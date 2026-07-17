@@ -1,8 +1,12 @@
 ---
-location: [2860.901,  2461.224]
+aliases: []
+tags: [map-marker]
+location: [2461.224, 2860.901]
 mapmarker: Inns & Taverns
+title: "Wizard's Watering Hole"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Wizard's Watering Hole
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/wizards-watering-hole|Wizard's Watering Hole]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Watchman 2
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Watchman 2
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +3 to hit , 1d8+1 piercing damage  
   **Shortsword:**  +3 to hit , 1d6+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

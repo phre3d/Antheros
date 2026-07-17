@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #south-caravan-street #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, south-caravan-street, type-guard]
+title: Horsegate Barracks
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Horsegate Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Horsegate Barracks is home to 44 guards, of which about 11 are on duty at any point in time. The Station Captain is Bram Shekron.
 
-## NPC Encounters 
+## NPC Encounters
+
 Bram Shekron
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Bram Shekron
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Bram Shekron
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/south-caravan-street|South Caravan Street]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Bram Shekron
 ---
 
 ### World Anvil Metadata
+
 **Id:** d19dba6c-b491-408a-a8d4-54be9c18fa07<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: South Caravan Street<br>
@@ -93,7 +107,9 @@ Bram Shekron
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

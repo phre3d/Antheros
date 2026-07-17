@@ -1,8 +1,12 @@
 ---
-location: [1890.493,  4082.653]
+aliases: []
+tags: [map-marker]
+location: [1890.493, 4082.653]
 mapmarker: Entertainment
+title: "Heaven's Gate"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Heaven's Gate
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/heavens-gate|Heaven's Gate]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

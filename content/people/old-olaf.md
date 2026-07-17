@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-street-of-harps]
+title: Old Olaf
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Old Olaf
 
-### 
+###
 
-**Full Name:** Old Olaf      
+**Full Name:** Old Olaf
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ A small hunchback who runs his inn along with partner [[person/eglath-thunukalat
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/old-olaf]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

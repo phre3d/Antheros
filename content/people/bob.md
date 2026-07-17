@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor]
+title: Bob
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bob
 
-### 
+###
 
-**Full Name:**  Bob      
+**Full Name:**  Bob
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Bob and his brother, [[person/bing|Bing]], seem to act as two halves of one pers
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bob]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

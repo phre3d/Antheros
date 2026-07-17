@@ -1,8 +1,12 @@
 ---
-location: [2420.085,  2375.51]
+aliases: []
+tags: [map-marker]
+location: [2375.51, 2420.085]
 mapmarker: Shopping
+title: "The Trumpet's Call"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Trumpet's Call
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-trumpets-call|The Trumpet's Call]]<br>
 **Location Type:** Musical Instruments
 
-**Description**<br> 
-
+**Description**<br>

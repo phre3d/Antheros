@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Laudie Daly
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Laudie Daly
 
-### 
+###
 
-**Full Name:**  Laudie  Daly    
+**Full Name:**  Laudie  Daly
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Laudie is a gushing fount of information about happenings and people in the [[se
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/laudie-daly]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

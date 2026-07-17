@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-commons]
+title: Glumin Duhm
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Glumin Duhm
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A morose man of middle years; he appears gray, and even projects an aura of gray
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/glumin-duhm]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

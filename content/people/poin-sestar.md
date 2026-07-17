@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Poin Sestar
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Poin Sestar
 
-### 
+###
 
-**Full Name:**  Poin  Sestar    
+**Full Name:**  Poin  Sestar
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A wiry student of the [[landmark/college-of-physical-naturalism|College of Physi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/poin-sestar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

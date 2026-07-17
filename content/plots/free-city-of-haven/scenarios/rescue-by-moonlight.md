@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Rescue by Moonlight
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Rescue by Moonlight
 
 ````col
@@ -82,7 +88,6 @@ Should the player successfully rescue [[person/electra|Electra]], he will have e
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

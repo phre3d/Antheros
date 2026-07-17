@@ -1,5 +1,12 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Tiefling Race
+date modified: 2026-07-16, 9:39:27 pm
+---
+
 # Tiefling Race
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -113,5 +120,7 @@ Allizsah, Indranna, Kasidra, Kilarra, Mellisan, Mordren, Nisha.
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

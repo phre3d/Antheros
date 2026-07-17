@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [The-Girls-Are-Missing]
 aat-event-start-date: 1172/8/10 13:00
 aat-event-title: "Marita leaves home"
 aat-event-body: "Somewhere between 1pm and 2pm, [[person/marita|Marita]] leaves the residence to go shopping.  Nobody in the family saw her leave and all Maggie (the maid) can say is sometime a little while after after 1pm."
 # aat-event-picture: 
+title: Marita leaves home
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Marita leaves home
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -51,7 +56,3 @@ Somewhere between 1pm and 2pm, [[person/marita|Marita]] leaves the residence to 
 
 ```
 ````
-
-
-
-

@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,19 +43,24 @@ Large monstrosity Unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Keen Sight and Smell.**  The owl bear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Multiattack.**  The owl bear makes two attacks: beak / claw   **Beak** 
+
+**Multiattack.**  The owl bear makes two attacks: beak / claw   **Beak**
+
   *Melee Attack:*  +7 to hit , reach 5 ft ., one creature.
+
   *Hit:*   or 10 piercing damage.   **Claws**  
   *Melee Attack:*  +7 to hit , reach 5 ft., one target.
+
   *Hit:*   or 14 slashing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
-An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
 
+An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.

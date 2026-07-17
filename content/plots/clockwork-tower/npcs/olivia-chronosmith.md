@@ -1,9 +1,15 @@
-#import #person #Clockwork_Tower #npc
+---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person]
+title: Olivia Chronosmith
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Olivia Chronosmith
 
-### 
+###
 
-**Full Name:**  Olivia  Chronosmith    
+**Full Name:**  Olivia  Chronosmith
 
 `````col
 ````col-md
@@ -30,10 +36,11 @@ Olivia is a helpful NPC, her artificer abilities and inherited knowledge of the 
 
 >[!Statblock]+ Statblock
 >![[plots/clockwork-tower/npcs/blocks/olivia-chronosmith]]
->
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [3145.595,  3568.367]
+aliases: []
+tags: [map-marker]
+location: [3145.595, 3568.367]
 mapmarker: City Guard
+title: Corridor Barracks
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Corridor Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/corridor-barracks|Corridor Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch Station

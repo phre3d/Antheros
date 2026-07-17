@@ -1,9 +1,9 @@
 ---
-tags: [Mimic_Mayhem, npc, person]
-date modified: 2026-12-Th, 1:12:38 pm
+aliases: []
+tags: [plot/Mimic-Mayhem, npc, person]
+date modified: 2026-07-16, 9:18:14 pm
+title: Rosy Rumblegarden
 ---
-
-#person #npc #Mimic_Mayhem
 
 # Rosy Rumblegarden
 

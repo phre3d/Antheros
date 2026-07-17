@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Willum Cockleberry
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Willum Cockleberry
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +5 to hit , 1d4+2 piercing damage  
   **Sling:**  +5 to hit , 1d4+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

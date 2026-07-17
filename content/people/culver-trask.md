@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-drayers #the-heights
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/drayers, import, person, the-heights]
+title: Culver Trask
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Culver Trask
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Culver is a tall middle-aged merchant with hair still jet black, and piercing gr
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/culver-trask]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

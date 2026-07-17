@@ -1,4 +1,5 @@
 ---
+aliases: []
 cr_type: person
 cr_id: ambrosis-pakmydis
 name: Ambrosis Pakmydas
@@ -10,15 +11,12 @@ children:
 children_id:
   - albar-pakmydis
   - aldor-pakmydis
-tags:
-  - npc
-  - The_Gypsy_Train
-date modified: 2026-06-12, 3:43:50 pm
+tags: [npc, person, plot/The_Gypsy_Train]
+date modified: 2026-07-16, 9:18:12 pm
 sibling: "[[plots/the-gypsy-train/npcs/scordraal-pakmydis]]"
 sibling_id: scordraal-pakmydis
+title: Ambrosis Pakmydas
 ---
-
-#person #npc #The_Gypsy_Train
 
 # Ambrosis Pakmydas
 
@@ -60,7 +58,7 @@ Driver, [[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal Pakmydis']] br
 
 Ambrosis, age 40, is the father of twin sons [[plots/the-gypsy-train/npcs/aldor-pakmydis|Aldor]] and [[plots/the-gypsy-train/npcs/albar-pakmydis|Albar]]. His wife died four years ago during an attack on the caravan, and he still mourns her loss.
 
-Ambrosis is a 3rd-level human fighter, chaotic neutral, with Str 15, Int 9, Wis 13, Dex 13, Con 13, Cha 10, AC 5, and 18 hp. He wears chain mail and carries a _short sword_, a _short bow_ with 12 _arrows_, and a _dagger_.
+Ambrosis is a 3rd-level human fighter, chaotic neutral, with Str 15, Int 9, Wis 13, Dex 13, Con 13, Cha 10, AC 5, and 18 hp. He wears chain mail and carries a *short sword*, a *short bow* with 12 *arrows*, and a *dagger*.
 
 ---
 

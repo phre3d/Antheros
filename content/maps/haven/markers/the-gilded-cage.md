@@ -1,8 +1,12 @@
 ---
-location: [3401.717,  3406.122]
+aliases: []
+tags: [map-marker]
+location: [3401.717, 3406.122]
 mapmarker: Inns & Taverns
+title: The Gilded Cage
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Gilded Cage
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-gilded-cage|The Gilded Cage]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

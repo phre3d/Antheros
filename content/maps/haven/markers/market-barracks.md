@@ -1,8 +1,12 @@
 ---
-location: [1790.493,  3562.245]
+aliases: []
+tags: [map-marker]
+location: [1790.493, 3562.245]
 mapmarker: City Guard
+title: Market Barracks
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Market Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/market-barracks|Market Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

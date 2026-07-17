@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, horse-market, import, npc, person]
+title: Bakkin da Sadulagin
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bakkin da Sadulagin
 
-### 
+###
 
-**Full Name:**  Bakkin  da Sadulagin    
+**Full Name:**  Bakkin  da Sadulagin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A large man with ham-like fists will usually wade in to settle disputes before t
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bakkin-da-sadulagin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

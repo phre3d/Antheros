@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -11,4 +16,3 @@
 Evening of the 19th, we come back from patrol and hear(who we learn to be @UUID[JournalEntry. mRSylUJh3HRg8rPJ]{Mikyl Swiftsword})arguing with @UUID[JournalEntry. 6rhQQUTdZ0ulQ0Y1]{ Lyza}. Mom and Dad are arguing abouts.
 
 ---
-

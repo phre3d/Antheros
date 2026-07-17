@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #scholars-triangle #cat-shop #type-medical 
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, scholars-triangle, type-medical]
+title: The Surgery
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Surgery
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Medical (Medical)** 
+**Medical (Medical)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Hospital
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/scholars-triangle|Scholar's Triangle]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 56d5f3b5-ff37-44f1-97ef-441e60e68775<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Scholar's Triangle<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

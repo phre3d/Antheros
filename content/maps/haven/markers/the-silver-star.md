@@ -1,8 +1,12 @@
 ---
-location: [3384.37,  3321.429]
+aliases: []
+tags: [map-marker]
+location: [3321.429, 3384.37]
 mapmarker: Dining
+title: The Silver Star
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Silver Star
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/the-silver-star|The Silver Star]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

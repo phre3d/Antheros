@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: "CT: Scaling Monster Numbers"
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # CT: Scaling Monster Numbers
 
 ````col
@@ -118,7 +124,6 @@ In addition to scaling monsters, many of the traps and puzzles in the game have 
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

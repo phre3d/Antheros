@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Linneas Mauray
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Linneas Mauray
 
-### 
+###
 
-**Full Name:**  Linneas  Mauray    
+**Full Name:**  Linneas  Mauray
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A renegade healer, Mauray got into trouble with the Haven authorities because of
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/linneas-mauray]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

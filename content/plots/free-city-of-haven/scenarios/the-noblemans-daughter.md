@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: "The Nobleman's Daughter"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Nobleman's Daughter
 
 ````col
@@ -55,7 +61,6 @@ This was in the vicinity of the Plaza of Troubadours and [[settlement/the-street
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

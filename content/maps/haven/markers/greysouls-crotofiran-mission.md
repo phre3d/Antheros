@@ -1,8 +1,12 @@
 ---
-location: [1035.391,  4367.347]
+aliases: []
+tags: [map-marker]
+location: [1035.391, 4367.347]
 mapmarker: Religion
+title: "Greysoul's Crotofiran Mission"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Greysoul's Crotofiran Mission
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Religion
 **Location:** [[landmarks/greysouls-crotofiran-mission|Greysoul's Crotofiran Mission]]<br>
 **Location Type:** Mission
 
-**Description**<br> 
-
+**Description**<br>

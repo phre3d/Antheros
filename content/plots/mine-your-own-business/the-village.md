@@ -1,4 +1,10 @@
-#import #plot  #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, plot]
+title: The Village
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # The Village
 
 ````col
@@ -79,7 +85,6 @@ Should the adventurers encounter the mayor during the operation, word of their i
 
 ```
 ````
-
 
 ---
 

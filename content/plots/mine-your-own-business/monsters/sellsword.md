@@ -1,4 +1,9 @@
-#import #statblock #monster #Mine_Your_Own_Business 
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,18 +43,27 @@ Medium Humanoid (any race) Any non-lawful
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Cunning Action:**  Once per combat, the Sellswords can use a bonus action to take the dash, disengage, or help action.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Longsword 
-  **Melee Weapon Atack:**  +5 to hit , reach 5 ft., one target. 
-  **Hit:**  8  slashing damage. 
-### Shortsword 
+
+### Longsword
+
+  **Melee Weapon Atack:**  +5 to hit , reach 5 ft., one target.
+
+  **Hit:**  8  slashing damage.
+
+### Shortsword
+
    **Melee Weapon Atack:**  +5 to hit , reach 5 ft., one target.
-  **Hit:**  7  piercing damage. 
-### Light Crossbow 
-   **Ranged Weapon Atack:**  +4 to hit , range 80/320 ft., one target. 
+
   **Hit:**  7  piercing damage.
 
+### Light Crossbow
+
+   **Ranged Weapon Atack:**  +4 to hit , range 80/320 ft., one target.
+
+  **Hit:**  7  piercing damage.

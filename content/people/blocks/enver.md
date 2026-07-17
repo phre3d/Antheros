@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Enver
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Enver
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Whip:**  +6 to hit , 1d4+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

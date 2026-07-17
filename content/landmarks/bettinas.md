@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-general-clothing #guild-of-the-loom #general-clothing
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-south-corridor, type-general-clothing]
+title: "Bettina's"
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Bettina's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Wear for the worker 
 
-## Description 
+# Description
+
+## Wear for the worker
+
+## Description
+
 Bettina's caters to the lower middle and upper lower class - the honest hardworking folk who make up the majority of Haven. Her stock consist of everyday wear suitable for work or haning out.
 
-## NPC Encounters 
+## NPC Encounters
+
 Hamlin Blackbourne
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Hamlin Blackbourne
 
 **Image:** n/a
 
-**General Clothing (Shopping)** 
+**General Clothing (Shopping)**
 
  **Owner:**  Hamlin Blackbourne
 
@@ -63,12 +74,14 @@ Hamlin Blackbourne
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Hamlin Blackbourne
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5c8255ae-377a-4fc3-bdff-8443521e4a87<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -93,7 +107,9 @@ Hamlin Blackbourne
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -17,4 +22,3 @@ We also told her about the side job offer. With the meeting at Dhum 's Rhooms. S
 We also tell her about @UUID[JournalEntry. 4pk1PyuDgUzhhqwZ]{Lucille} and her new status as an irregular irregular.
 
 ---
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-cauldron]
+title: Basil d’Lormaii
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Basil d’Lormaii
 
-### 
+###
 
-**Full Name:**  Basil  d’Lormaii    
+**Full Name:**  Basil  d’Lormaii
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Runs a teashop that also sells spices and herbs. Basil spends most of his day ch
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/basil-d’lormaii]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

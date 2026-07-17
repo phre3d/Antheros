@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Dingo Proudbottom
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dingo Proudbottom
 
-### 
+###
 
-**Full Name:**  Dingo  Proudbottom    
+**Full Name:**  Dingo  Proudbottom
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ Dingo is only in the city about 25% of the time. When he is gone, his housekeepe
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dingo-proudbottom]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

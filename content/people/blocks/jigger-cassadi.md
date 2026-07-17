@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Jigger Cassadi
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Jigger Cassadi
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +3 to hit , 1d8+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild, thieves-market]
+title: Katarina
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Katarina
 
-### 
+###
 
-**Full Name:**  Katarina      
+**Full Name:**  Katarina
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A slender boyish gamine with brown hair and light blue eyes, who frequents the M
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/katarina]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

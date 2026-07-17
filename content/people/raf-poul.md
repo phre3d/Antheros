@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Raf Poul
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Raf Poul
 
-### 
+###
 
-**Full Name:**  Raf  Poul    
+**Full Name:**  Raf  Poul
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Raf Poul, an associate of [[person/nimrodel|Nimrodel]] the shipwright, is in uni
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/raf-poul]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

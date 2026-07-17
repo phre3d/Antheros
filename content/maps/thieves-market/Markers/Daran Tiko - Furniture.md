@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Daran Tiko - Furniture
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Daran Tiko - Furniture
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,6 @@ mapmarker: Shopping
 **Location:** [[landmarks/daran-tiko-furniture|Daran Tiko - Furniture]]<br>
 **Location Type:** Carpenter
 
-**Description**<br> 
+**Description**<br>
+
 Tiko carries a respectable collection of second hand furniture. A fair portion of his stock is rejects made by the apprentices at Dortmund's and a couple of other furniture houses

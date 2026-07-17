@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-glens #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-glens, type-guard]
+title: Northgate Barracks
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Northgate Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Northgate Barracks is home to 48 guards, of which about 12 are on duty at any point in time. The Station Captain is Beryn Perkins.
 
-## NPC Encounters 
+## NPC Encounters
+
 Beryn Perkins
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Beryn Perkins
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Beryn Perkins
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-glens|The Glens]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Beryn Perkins
 ---
 
 ### World Anvil Metadata
+
 **Id:** aef97ad6-a7a3-4025-a04c-7ce095d54cc9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Glens<br>
@@ -93,7 +107,9 @@ Beryn Perkins
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

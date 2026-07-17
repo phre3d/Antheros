@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Beggar 1
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Beggar 1
 
-### 
+###
 
-**Full Name:**  Beggar  One    
+**Full Name:**  Beggar  One
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Yecch! Beggars!
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/beggar-1]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

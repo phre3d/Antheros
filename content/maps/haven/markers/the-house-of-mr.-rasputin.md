@@ -1,8 +1,12 @@
 ---
-location: [1050.697,  3712.245]
+aliases: []
+tags: [map-marker]
+location: [1050.697, 3712.245]
 mapmarker: Residence
+title: The House of Mr. Rasputin
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The House of Mr. Rasputin
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/the-house-of-mr.-rasputin|The House of Mr. Rasputin]]<br>
 **Location Type:** Large House
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: "Key: Forest of Doom"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # Key: Forest of Doom
 
 ````col
@@ -71,7 +77,8 @@ After the adventurers accept the young lord's offer, he concludes his instructio
 ```
 ````
 
-# Credits 
+# Credits
+
 FOREST of DOOM<br>
 An adventure for AD&D™ players<br>
 Designed by Scott Butler<br>
@@ -80,6 +87,7 @@ First place, Module Design Contest category A-2<br>
 As published in  *Dragon Magazine* , issue 73, May 1983
 
 ---
+
 ````col
 ```col-md
 

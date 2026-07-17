@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Pallinar
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pallinar
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The former owner of [[landmark/the-stone-hammer|The Stone Hammer]], Pallinar was
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pallinar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

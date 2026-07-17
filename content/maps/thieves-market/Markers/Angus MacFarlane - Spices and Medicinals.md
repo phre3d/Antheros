@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Angus MacFarlane - Spices and Medicinals
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Angus MacFarlane - Spices and Medicinals
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/angus-macfarlane-spices-and-medicinals|Angus MacFarlane - Spices and Medicinals]]<br>
 **Location Type:** Spices, Medical
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #hofstra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hofstra-family, import, npc, person, the-glens]
+title: Bakka Hofstra
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bakka Hofstra
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Bakka resembles his mother, with a gentle smile, flame-red hair and blue eyes; h
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bakka-hofstra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

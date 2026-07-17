@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Herdsman 3
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Herdsman 3
 
-### 
+###
 
-**Full Name:**  Herdsman  Three    
+**Full Name:**  Herdsman  Three
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Herds & Flocks
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/herdsman-3]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #blackbourne-family #the-heights #npc
+---
+aliases: []
+tags: [blackbourne-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Talia Blackbourne
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Talia Blackbourne
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A rail thin young woman with straight long reddish-brown hair and placid doe eye
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/talia-blackbourne]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

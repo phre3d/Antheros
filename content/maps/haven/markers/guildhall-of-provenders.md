@@ -1,8 +1,12 @@
 ---
-location: [5169.064,  4340.816]
+aliases: []
+tags: [map-marker]
+location: [4340.816, 5169.064]
 mapmarker: Guild
+title: Guildhall of Provenders
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Guildhall of Provenders
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Guild
 **Location:** [[landmarks/guildhall-of-provenders|Guildhall of Provenders]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
+**Description**<br>
+
 The Provenders represents all who provide and sell foodstuffs. Basically everything between the farm and the kitchen. 

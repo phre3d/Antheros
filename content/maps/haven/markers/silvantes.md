@@ -1,8 +1,12 @@
 ---
-location: [6388.452,  3981.633]
+aliases: []
+tags: [map-marker]
+location: [3981.633, 6388.452]
 mapmarker: Dining
+title: "Silvante's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Silvante's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/silvantes|Silvante's]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

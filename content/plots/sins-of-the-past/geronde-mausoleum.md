@@ -1,4 +1,10 @@
-#import #plot  #Sins_of_the_Past
+---
+aliases: []
+tags: [import, plot, plot/Sins_of_the_Past]
+title: Geronde Mausoleum
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Geronde Mausoleum
 
 ````col

@@ -1,14 +1,23 @@
-#import #landmark #Sins_of_the_Past #the-north-corridor
+---
+aliases: []
+tags: [import, landmark, plot/Sins_of_the_Past, the-north-corridor]
+title: City of the Dead
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # City of the Dead
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 City of the Dead is in [[settlements/the-north-corridor|The North Corridor]] at the foot of the cliff marking the border with [[settlements/the-heights|The Heights]]. It is bounded by Tailor Street on the south, [[landmarks/studio-lane|Studio Lane]] on the east and Chambard's Way to the north.  
 
 The main entrance is on [[landmarks/studio-lane|Studio Lane]] where it meets Ware Street. While the park is enclosed by a tall iron fence, there are many smaller entrances scattered around the perimeter. There are no gates on any of the entrances and citizens are free to wander where they will.
@@ -51,7 +60,7 @@ The park features crafty sculptures, astounding mausoleums, beautiful trees and 
 
 **Image:** n/a
 
-**Park (Landmark)** 
+**Park (Landmark)**
 
  **District:**  [[settlements/the-north-corridor|The North Corridor]]
 
@@ -63,12 +72,14 @@ The park features crafty sculptures, astounding mausoleums, beautiful trees and 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Park
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +96,7 @@ The park features crafty sculptures, astounding mausoleums, beautiful trees and 
 ---
 
 ### World Anvil Metadata
+
 **Id:** bbfddc91-1a44-4b0b-8161-0e768eba0ef4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -93,7 +105,9 @@ The park features crafty sculptures, astounding mausoleums, beautiful trees and 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Inns & Taverns
+title: The Bar None
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # The Bar None
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-bar-none|The Bar None]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

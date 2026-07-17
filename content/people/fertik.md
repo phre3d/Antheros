@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Fertik
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Fertik
 
-### 
+###
 
-**Full Name:**  Fertik      
+**Full Name:**  Fertik
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Fertik has worked with [[person/valli|Valli]] for 22 years, and is very loyal to
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fertik]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

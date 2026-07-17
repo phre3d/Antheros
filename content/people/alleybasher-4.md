@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Alleybasher 4
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alleybasher 4
 
-### 
+###
 
-**Full Name:**  Alleybasher  Four    
+**Full Name:**  Alleybasher  Four
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Bang-up Gang-up
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alleybasher-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

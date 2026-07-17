@@ -1,5 +1,12 @@
-#person #npc #Burgled_Budgie
+---
+aliases: []
+tags: [plot/burgled-budgie, npc, person]
+title: Robert Smith
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Robert Smith
+
 Human Servant, CG
 
 >[!read aloud]
@@ -11,6 +18,6 @@ Robert is friendly but a bit shy, especially if [[plots/burgled-budgie/npcs/jane
 >![[plots/burgled-budgie/images/robert-smith.jpg]]
 >(AI created)
 
-
 ---
+
 **Source:** Debacle of the Burgled Budgie

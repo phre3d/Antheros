@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #trade-island #cat-shop #type-jeweler #jewelers-guild #jeweler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, jeweler, jewelers-guild, landmark, trade-island, type-jeweler]
+title: Jarien the Jeweler
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Jarien the Jeweler
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Jeweler (Shopping)** 
+**Jeweler (Shopping)**
 
  **Owner:**  Jarien the Jeweler
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Jeweler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trade-island|Trade Island]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3d0ec6ea-071a-4566-bbf9-705b3c3f3e89<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trade Island<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

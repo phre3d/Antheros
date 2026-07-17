@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-glens
+---
+aliases: []
+tags: [Free_City_of_Haven, import, landmark, the-glens]
+title: Hofstra Family Residence
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # Hofstra Family Residence
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Another North Corridor mansion 
 
-## Description 
+# Description
+
+## Another North Corridor mansion
+
+## Description
+
 This estate house is shared by the [[organizations/families/hofstra-family|Hofstra Family]], except for Eezie who is married to [[people/zalle-rand|Zalle Rand]].
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/jaime-hofstra|Jaime Hofstra]] | [[people/abel-hofstra|Abel Hofstra]] | [[people/bakka-hofstra|Bakka Hofstra]] | [[people/charlie-hofstra|Charlie Hofstra]] | [[people/dauge-hofstra|Dauge Hofstra]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ This estate house is shared by the [[organizations/families/hofstra-family|Hofst
 
 **Image:** n/a
 
-**Mansion (Residence)** 
+**Mansion (Residence)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ This estate house is shared by the [[organizations/families/hofstra-family|Hofst
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Mansion / Villa
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-glens|The Glens]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ This estate house is shared by the [[organizations/families/hofstra-family|Hofst
 ---
 
 ### World Anvil Metadata
+
 **Id:** e6082833-bcb7-4e61-80a7-e85136e01f15<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Glens<br>
@@ -93,7 +107,9 @@ This estate house is shared by the [[organizations/families/hofstra-family|Hofst
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

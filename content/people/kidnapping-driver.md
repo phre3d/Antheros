@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Kidnapping Driver
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kidnapping Driver
 
-### 
+###
 
-**Full Name:**  Driver      
+**Full Name:**  Driver
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Kidnapping
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kidnapping-driver]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

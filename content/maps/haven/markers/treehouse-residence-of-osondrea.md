@@ -1,8 +1,12 @@
 ---
-location: [4968.044,  2226.531]
+aliases: []
+tags: [map-marker]
+location: [2226.531, 4968.044]
 mapmarker: Residence
+title: Treehouse Residence of Osondrea
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Treehouse Residence of Osondrea
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/treehouse-residence-of-osondrea|Treehouse Residence of Osondrea]]<br>
 **Location Type:** Treehouse
 
-**Description**<br> 
-
+**Description**<br>

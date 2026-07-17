@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-footwear #guild-of-the-loom #footwear
+---
+aliases: []
+tags: [cat-shop, footwear, Free_City_of_Haven, guild/loom, import, landmark, the-cauldron, type-footwear]
+title: "Kobri's Cobblery"
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Kobri's Cobblery
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/kobri|Kobri]] | [[people/zbyssso|Zbyssso]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Footwear (Shopping)** 
+**Footwear (Shopping)**
 
  **Owner:**  Kobri
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Cobbler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 75dfab20-112e-40fe-9289-fe1c2bf9e643<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

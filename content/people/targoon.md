@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-north-corridor]
+title: Targoon
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Targoon
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ North Bank's town drunk; if he has not been encountered elsewhere, passing any t
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/targoon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

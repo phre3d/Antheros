@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Ali Zander
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Ali Zander
 
-### 
+###
 
-**Full Name:**  Ali  Zander    
+**Full Name:**  Ali  Zander
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ There is a passenger aboard Atlantia, a handsome young man, dark-haired and bear
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ali-zander]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

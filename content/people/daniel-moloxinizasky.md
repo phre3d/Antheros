@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-corridor]
+title: Daniel Moloxinizasky
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Daniel Moloxinizasky
 
-### 
+###
 
-**Full Name:**  Daniel  Moloxinizasky    
+**Full Name:**  Daniel  Moloxinizasky
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Owns [[landmark/the-crocked-constable|The Crocked Constable]], an inn and tavern
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/daniel-moloxinizasky]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

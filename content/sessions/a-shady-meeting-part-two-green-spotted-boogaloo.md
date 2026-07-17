@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: "A Shady Meeting, Part Two: Green Spotted Boogaloo"
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # A Shady Meeting, Part Two: Green Spotted Boogaloo
 
@@ -31,4 +36,3 @@ The family goes back to the founding of Haven. Ekhan Geronde was the founder of 
 We enter the mausoleum.
 
 ---
-

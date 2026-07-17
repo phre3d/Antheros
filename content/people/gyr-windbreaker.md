@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, horse-market, import, npc, person]
+title: Gyr Windbreaker
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gyr Windbreaker
 
-### 
+###
 
-**Full Name:**  Gyr  Windbreaker    
+**Full Name:**  Gyr  Windbreaker
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Short and stocky, greenish hued, wolf faced individual with stumpy unusable wing
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gyr-windbreaker]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: In Search of Dragonsbane
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # In Search of Dragonsbane
 
 ````col
@@ -58,7 +64,6 @@ Information about the harp's powers could be obtained through research in the [[
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

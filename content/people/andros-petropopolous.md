@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/entertainers, import, npc, person, thieves-market]
+title: Andros Petropopolous
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Andros Petropopolous
 
-### 
+###
 
-**Full Name:**  Andros  Petropopolous    
+**Full Name:**  Andros  Petropopolous
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A slight and slender man with coal-black hair (in pomaded ringlets), two or thre
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/andros-petropopolous]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

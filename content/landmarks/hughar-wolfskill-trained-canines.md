@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-animal-trainer #guild-of-the-beast #animal-trainer
+---
+aliases: []
+tags: [animal-trainer, cat-shop, Free_City_of_Haven, guild/beast, import, landmark, the-south-corridor, type-animal-trainer]
+title: Hughar Wolfskill - trained canines
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Hughar Wolfskill - trained canines
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Trains only REAL dogs 
 
-## Description 
+# Description
+
+## Trains only REAL dogs
+
+## Description
+
 Hughar trains dogs of call kinds but be forewarned that to him, dogs are at least 20 pounds; anything else is an overgrown rat.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Hughar trains dogs of call kinds but be forewarned that to him, dogs are at leas
 
 **Image:** n/a
 
-**Animal Trainer (Service)** 
+**Animal Trainer (Service)**
 
  **Owner:**  Hughar Wolfskill
 
@@ -60,12 +70,14 @@ Hughar trains dogs of call kinds but be forewarned that to him, dogs are at leas
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Hughar trains dogs of call kinds but be forewarned that to him, dogs are at leas
 ---
 
 ### World Anvil Metadata
+
 **Id:** 678777ae-367c-4690-a63c-8f04b108aea1<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ Hughar trains dogs of call kinds but be forewarned that to him, dogs are at leas
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

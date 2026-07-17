@@ -1,8 +1,12 @@
 ---
-location: [1803.758,  5028.571]
+aliases: []
+tags: [map-marker]
+location: [1803.758, 5028.571]
 mapmarker: Shopping
+title: Lexington Fish Market
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lexington Fish Market
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/lexington-fish-market|Lexington Fish Market]]<br>
 **Location Type:** Fishmonger
 
-**Description**<br> 
-
+**Description**<br>

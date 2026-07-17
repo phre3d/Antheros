@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-drayers #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/drayers, import, npc, person, the-cauldron]
+title: Swallow Windrider
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Swallow Windrider
 
-### 
+###
 
-**Full Name:**  Swallow  Windrider    
+**Full Name:**  Swallow  Windrider
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ a female avanthar of later years whose dark hair is shot with silver.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/swallow-windrider]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

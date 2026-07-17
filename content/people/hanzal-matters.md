@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #npc #the-south-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, npc, person, the-south-corridor]
+title: Hanzal Matters
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Hanzal Matters
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Husband of [[person/valma|Valma]] (nee [[organization/geronde|Geronde]]), Hanzal
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

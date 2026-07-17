@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-entertainers #council-of-masters #the-street-of-harps #the-cleff #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/entertainers, import, npc, person, the-cleff, the-street-of-harps]
+title: Largo Profundo
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Largo Profundo
 
-### 
+###
 
-**Full Name:**  Largo  Profundo    
+**Full Name:**  Largo  Profundo
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A great round man, bearded, usually well-dressed; Largo sings a powerful bass th
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/largo-profundo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

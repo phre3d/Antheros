@@ -1,47 +1,67 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-inn #guild-of-the-hearth #inn
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, the-south-corridor, type-inn]
+title: "Wagoneer's Delight"
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Wagoneer's Delight
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Courted by the waggoneer's lad 
 
-## Description 
+# Description
+
+## Courted by the waggoneer's lad
+
+## Description
+
 [[people/baez-sweetsinger|Baez Sweetsinger]] drayed for some thirty years before he bought the caravanserai he now runs. He rather prefers catering to drayers than drovers, although he will not turn away any business. The tall, spare owner is in his sixties, but still hale and healthy, with hair only slightly grayed at the temples. He is often found in the compound talking with the waggoneers who drive the Long Road, reminiscing about old times.
 
-## Exterior 
+## Exterior
+
 A large compound is surrounded by a low (3') stone wall. Inside are stables, a large three-story stone and thatch building which combines tavern and hostel, and plenty of parking area for wagons.
 
-## Interior 
+## Interior
+
 The common room of the tavern is spacious, occupying nearly the entire first level of the main building. There is a large bar along the north wall (this is closed from 2:00am to 8:00am), and the kitchen can be seen through a wide opening on the east. A flight of stairs against the south wall ascends to the sleeping quarters on the upper floors.
 
-## Hours 
+## Hours
+
 The inn is never closed, although the tavern shuts down at 2:00am.
 
-## Price Range 
+## Price Range
+
 Fair. Low for drayers.
 
-## Quality 
+## Quality
+
 Good. Nothing fancy, but solid meals and satisfying beverages.
 
-## Cash Box 
+## Cash Box
+
 A large box is kept in the kitchen, on a table near the back wall. There is usually 100gp to 300gp in assorted coins and small gems in the evenings - Baez banks his funds with the [[landmarks/house-of-rand|House of Rand]], and makes deposits in the mornings. Another small iron case is kept under the bar when it's open. It usually contains 50gp to 150gp, depending on the hour.
 
-## Staff 
+## Staff
+
 Baez, his wife Trilda, son Karyl and his wife Shasta, and a crew of 10 yards men to aid in the care of the animals used by the waggoneers.
 
-## Customers 
+## Customers
+
 Mostly drayers from the Long Road. The yard is usually deserted by 7:00am, and fills up again starting around 5:00pm. There will be 150 to 200 wagons, carts, and Conestogas parked in the yard by 10:00pm.
 
-## Loiterers 
+## Loiterers
+
 The inn has a problem with a group of tieflings who occasionally pilfer goods, particularly food items, from the wagons. There is a roving guard maintained by the yards men from 8:00pm to 5:00am in an attempt to alleviate the problem.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/charlie-hofstra|Charlie Hofstra]] | [[people/dauge-hofstra|Dauge Hofstra]]
 
 # Purpose / Function
@@ -78,7 +98,7 @@ The inn has a problem with a group of tieflings who occasionally pilfer goods, p
 
 **Image:** n/a
 
-**Inn (Inns & Taverns)** 
+**Inn (Inns & Taverns)**
 
  **Owner:**  Baez Sweetsinger
 
@@ -90,12 +110,14 @@ The inn has a problem with a group of tieflings who occasionally pilfer goods, p
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Inn
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -112,6 +134,7 @@ The inn has a problem with a group of tieflings who occasionally pilfer goods, p
 ---
 
 ### World Anvil Metadata
+
 **Id:** 781675f6-3281-4e46-a7f5-808d404e5f24<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -120,7 +143,9 @@ The inn has a problem with a group of tieflings who occasionally pilfer goods, p
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

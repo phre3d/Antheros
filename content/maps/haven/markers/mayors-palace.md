@@ -1,8 +1,12 @@
 ---
-location: [4996.615,  4683.673]
+aliases: []
+tags: [map-marker]
+location: [4683.673, 4996.615]
 mapmarker: Government
+title: "Mayor's Palace"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mayor's Palace
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Government
 **Location:** [[landmarks/mayors-palace|Mayor's Palace]]<br>
 **Location Type:** Government
 
-**Description**<br> 
+**Description**<br>
+
 Where the mayor lives and conducts most business

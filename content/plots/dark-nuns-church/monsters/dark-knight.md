@@ -1,4 +1,9 @@
-#import #statblock #monster #Dark_Nuns_Church #monster
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -39,57 +44,34 @@ Medium humanoid (any race) any
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-**Fearless.**  The knight has an advantage on saving throws against being Frightened.
 
+**Fearless.**  The knight has an advantage on saving throws against being Frightened.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Multi-attack. 
+
+### Multi-attack.
+
  The Dark Knight makes two melee attacks.  
-### Great sword. 
-   **Melee Weapon Attack:**  +5 to hit , reach 10 ft., one target. 
+
+### Great sword.
+
+   **Melee Weapon Attack:**  +5 to hit , reach 10 ft., one target.
+
   **Hit:**  10  slashing damage.  
-### Short sword 
-  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target. 
+
+### Short sword
+
+  **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
+
   **Hit:**  5  slashing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 Dark Knights are Paladin initiates that have abandoned the path of good and now do evil.
-
-
-
-
-
-
-

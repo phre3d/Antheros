@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Pinocchio Gambit
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Pinocchio Gambit
 
 ````col
@@ -68,7 +74,6 @@ A player involved in the fight battling under his own power will likely notice t
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

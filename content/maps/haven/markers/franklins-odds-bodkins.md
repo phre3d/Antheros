@@ -1,8 +1,12 @@
 ---
-location: [2257.84,  6893.878]
+aliases: []
+tags: [map-marker]
+location: [2257.84, 6893.878]
 mapmarker: Shopping
+title: "Franklin's Odds Bodkins"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Franklin's Odds Bodkins
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/franklins-odds-bodkins|Franklin's Odds Bodkins]]<br>
 **Location Type:** Dry Goods
 
-**Description**<br> 
-
+**Description**<br>

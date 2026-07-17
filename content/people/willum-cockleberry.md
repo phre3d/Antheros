@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-cauldron #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Willum Cockleberry
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Willum Cockleberry
 
-### 
+###
 
-**Full Name:**  Willum  Cockleberry    
+**Full Name:**  Willum  Cockleberry
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A portly halfling with red hair and spectacles who has a taste for fine ale and 
 
 ---
 
-
-
 ![[people/blocks/willum-cockleberry]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

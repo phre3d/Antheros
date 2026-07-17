@@ -1,8 +1,12 @@
 ---
-location: [2854.779,  2524.49]
+aliases: []
+tags: [map-marker]
+location: [2524.49, 2854.779]
 mapmarker: Medical
+title: The House of Healing
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The House of Healing
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Medical
 **Location:** [[landmarks/the-house-of-healing|The House of Healing]]<br>
 **Location Type:** Medical
 
-**Description**<br> 
+**Description**<br>
+
 One of the more trustworthy places to be healed.

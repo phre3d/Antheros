@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Drobur arn Fegli
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Drobur arn Fegli
 
-### 
+###
 
-**Full Name:** Captain Drobur  arn Fegli    
+**Full Name:** Captain Drobur  arn Fegli
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Captain of the Iron Gate contingent of the [[organization/haven-city-guard|Haven
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/drobur-arn-fegli]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-landmark #type-street #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-north-corridor, type-street]
+title: Studio Lane
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Studio Lane
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A street of artist studios 
 
-## Description 
+# Description
+
+## A street of artist studios
+
+## Description
+
 Near the western end of [[settlements/the-north-corridor|The North Corridor]], this area is the home for many artists who serve the whims of wealthy patrons in [[settlements/the-heights|The Heights]].
 
-## NPC Encounters 
+## NPC Encounters
+
 - [[people/romulo-velasquez|Romulo Velasquez]]
 - [[people/carlo-de-la-riis|Carlo de la Riis]]
 - [[people/gilberto-maggia|Gilberto Maggia]]
@@ -55,7 +66,7 @@ Near the western end of [[settlements/the-north-corridor|The North Corridor]], t
 
 **Image:** n/a
 
-**Street (Landmark)** 
+**Street (Landmark)**
 
  **Owner:**  
 
@@ -67,12 +78,14 @@ Near the western end of [[settlements/the-north-corridor|The North Corridor]], t
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Street
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -89,6 +102,7 @@ Near the western end of [[settlements/the-north-corridor|The North Corridor]], t
 ---
 
 ### World Anvil Metadata
+
 **Id:** a3a5c599-c67d-41a6-b3be-d94b4271a605<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -97,7 +111,9 @@ Near the western end of [[settlements/the-north-corridor|The North Corridor]], t
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

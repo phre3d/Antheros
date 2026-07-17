@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Pelleas Pennywhistle
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pelleas Pennywhistle
 
-### 
+###
 
-**Full Name:**  Pelleas  Pennywhistle    
+**Full Name:**  Pelleas  Pennywhistle
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Pelleas is a modest man without pretensions of greatness, who has a penchant for
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pelleas-pennywhistle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-north-corridor]
+title: Burley Stonecastle
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Burley Stonecastle
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Slender for a halfling, and seems to have an excess of energy for this usually s
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/burley-stonecastle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

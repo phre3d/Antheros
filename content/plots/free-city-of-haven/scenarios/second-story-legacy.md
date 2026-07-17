@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Second Story Legacy
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Second Story Legacy
 
 ````col
@@ -60,7 +66,6 @@ If the GM wishes to make the adventure more complicated, it is quite possible th
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

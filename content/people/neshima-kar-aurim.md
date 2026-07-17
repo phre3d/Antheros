@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #the-black-hand #thieves-guild #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-labyrinth, thieves-guild]
+title: Neshima Kar-Aurim
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Neshima Kar-Aurim
 
-### 
+###
 
 **Full Name:**  Neshima  Kar-Aurim    Ayeesha the trollop | Arla-Asim the dancer | the Panther
 
@@ -205,13 +211,12 @@ A dark-haired Namori beauty, Neshima is a skilled thief and a double agent for [
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/neshima-kar-aurim]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

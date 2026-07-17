@@ -1,4 +1,10 @@
-#import #plot  #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, plot]
+title: The Mine
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # The Mine
 
 ````col
@@ -122,7 +128,6 @@ Beyond this, the tunnel holds no further secrets or treasures, leaving only the 
 
 ```
 ````
-
 
 ---
 

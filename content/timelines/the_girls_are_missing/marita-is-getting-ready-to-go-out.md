@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [The-Girls-Are-Missing]
 aat-event-start-date: 1172/8/10 13:00
 aat-event-title: "Marita is getting ready to go out"
 aat-event-body: "Maggie (Maggia maid, elf) reported that she helped get [[person/marita|Marita]] ready to go out shopping - probably on [[landmark/boutique-lane|Boutique Lane]] (Maggie isn't positive).  She suspects that Marita will go first to [[landmark/pierre-farces-house-of-beauty|Pierre Farce's House of Beauty]]. Marrie reported that Marita was wearing her favourite blue dress and had her [[item/unicorn-pendant|unicorn pendant]] - she rearely goes anywhere without it. Maggie also suspects that Marita may be meeting with Antonio but doesn't know."
 # aat-event-picture: 
+title: Marita is getting ready to go out
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Marita is getting ready to go out
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -55,7 +60,3 @@ Maggie also suspects that Marita may be meeting with Antonio but doesn't know.
 
 ```
 ````
-
-
-
-

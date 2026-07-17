@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-south-docks]
+title: Helene Troyas
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Helene Troyas
 
-### 
+###
 
-**Full Name:**  Helene  Troyas    
+**Full Name:**  Helene  Troyas
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Helene is captain of the Ocean Gypsy currently loading in the docks. She is know
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/helene-troyas]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #trademasters-square #cat-government #type-courthouse #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, trademasters-square, type-courthouse]
+title: Courts
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Courts
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/lucius-cardallo|Lucius Cardallo]] | [[people/ellian|Ellian]] | [[people/herven-ault|Herven Ault]] | [[people/dagnir-saurul|Dagnir Saurul]] | [[people/mindal-thievesbane|Mindal Thievesbane]] | [[people/megallo-manyak|Megallo Manyak]] | [[people/keyan-dorin|Keyan Dorin]] | [[people/eldorato-imbethang|Eldorato Imbethang]] | [[people/huiel-farris|Huiel Farris]] | [[people/meron-glyptes|Meron Glyptes]] | [[people/burley-stonecastle|Burley Stonecastle]] | [[people/herbert|Herbert]] | [[people/argli-arn-skibur|Argli arn Skibur]] | [[people/gordon-vickery|Gordon Vickery]] | [[people/riklas-longstrider|Riklas Longstrider]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Courthouse (Government)** 
+**Courthouse (Government)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Courthouse
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trademasters-square|Trademasters' Square]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5fe07c2b-bce5-4c96-880d-d72a70bb1352<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trademasters' Square<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

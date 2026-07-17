@@ -1,8 +1,12 @@
 ---
-location: [3032.33,  807.143]
+aliases: []
+tags: [map-marker]
+location: [3032.33, 807.143]
 mapmarker: Service
+title: Centauri Transport Company
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Centauri Transport Company
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/centauri-transport-company|Centauri Transport Company]]<br>
 **Location Type:** Courier
 
-**Description**<br> 
-
+**Description**<br>

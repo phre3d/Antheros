@@ -1,8 +1,12 @@
 ---
-location: [1037.432,  4839.796]
+aliases: []
+tags: [map-marker]
+location: [1037.432, 4839.796]
 mapmarker: Landmark
+title: "Kurgan's Hill Apex"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kurgan's Hill Apex
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/kurgans-hill-apex|Kurgan's Hill Apex]]<br>
 **Location Type:** Other Landmark
 
-**Description**<br> 
+**Description**<br>
+
 The highest point on the south side of the river.

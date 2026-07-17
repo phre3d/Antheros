@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -41,12 +46,15 @@ Medium swarm of tiny creatures unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Swarm.**  The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Bites. 
-  **Melee weapon attack.**   to hit, reach 0 ft., one target in the swarm's space. 
-  **Hit:**  10  piercing damage, or 5  piercing damage if the swarm has half of its hit points or fewer.
 
+### Bites.
+
+  **Melee weapon attack.**   to hit, reach 0 ft., one target in the swarm's space.
+
+  **Hit:**  10  piercing damage, or 5  piercing damage if the swarm has half of its hit points or fewer.

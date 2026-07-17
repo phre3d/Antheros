@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-landmark #type-other-landmark #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, magic-street, type-other-landmark]
+title: "Empty Shop - Ferdinand's"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Empty Shop - Ferdinand's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## An empty storfront 
 
-## Description 
+# Description
+
+## An empty storfront
+
+## Description
+
 This empty storfront has the remains of a sign with a few letters missing: F_RD__AN_'S.  It used to be a general goods store but nothing but empty shelves and dust can be seen through the dirty windows.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ This empty storfront has the remains of a sign with a few letters missing: F_RD_
 
 **Image:** n/a
 
-**Other Landmark (Landmark)** 
+**Other Landmark (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ This empty storfront has the remains of a sign with a few letters missing: F_RD_
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ This empty storfront has the remains of a sign with a few letters missing: F_RD_
 ---
 
 ### World Anvil Metadata
+
 **Id:** cb4c1ebf-5602-41ce-b6f4-94550611b0e3<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -90,7 +103,9 @@ This empty storfront has the remains of a sign with a few letters missing: F_RD_
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

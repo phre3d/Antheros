@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Bram Shekron
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bram Shekron
 
-### 
+###
 
-**Full Name:** Station Captain Bram  Shekron    
+**Full Name:** Station Captain Bram  Shekron
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Station Captain of the [[landmark/horsegate-barracks|Horsegate Barracks]] 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bram-shekron]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

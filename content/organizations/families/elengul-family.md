@@ -1,10 +1,16 @@
-#import #organization   #Free_City_of_Haven #type-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-family]
+title: Elengul Family
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Elengul Family
 
 The Elengul have resided in Haven for almost eighteen centuries; at present, only two of the line actually live in the city, the patriarch and ruling head of the family, [[people/skorindir-elengul|Skorindir Elengul]], and his youngest son, [[people/taubardur-elengul|Taubardur Elengul]]. They collaborate in the management of the Loft, one of the finer eating places in the city, and one of the few places in [[settlements/erinhir|Erinhir]] in which non-elves are generally welcome.
 
 >[!Private]
->The family isn't very powerful in either the political or business structures of the city, since elves do not usually concern themselves with the idiosyncrasies of other races, but they do play a great role in some of the city's major institutions for recreation, construction, and music. 
+>The family isn't very powerful in either the political or business structures of the city, since elves do not usually concern themselves with the idiosyncrasies of other races, but they do play a great role in some of the city's major institutions for recreation, construction, and music.
 
 They are legitimate equals of the non-elven higher classes, but, beyond their residences in [[settlements/erinhir|Erinhir]], they are not considered as nobles in the classical sense. Overall, elves in general and those of [[settlements/erinhir|Erinhir]] in particular, are respected more than many of the nobles of the city  so they do not force issues with them (after all, what is the point?).
 
@@ -12,7 +18,8 @@ They are legitimate equals of the non-elven higher classes, but, beyond their re
 
 **Family Leader:**  [[people/skorindir-elengul|Skorindir Elengul]]
 
-**Members:** 
+**Members:**
+
 ```dataview
 LIST
 FROM #elengul-family

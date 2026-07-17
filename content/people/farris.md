@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Farris
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Farris
 
-### 
+###
 
-**Full Name:**  Farris      
+**Full Name:**  Farris
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The chief scribe at Bennichio's hop, Frarris usually oversees the work and keeps
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/farris]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

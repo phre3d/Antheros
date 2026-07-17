@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-outlands
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-outlands]
+title: Willemena
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Willemena
 
-### 
+###
 
-**Full Name:**  Willemena      
+**Full Name:**  Willemena
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ The GM should give a 25% chance for Willemena to be in the area. If so, there is
 
 ---
 
-
-
 ![[people/blocks/willemena]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

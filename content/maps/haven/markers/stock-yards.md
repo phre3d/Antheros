@@ -1,8 +1,12 @@
 ---
-location: [2464.983,  860.204]
+aliases: []
+tags: [map-marker]
+location: [2464.983, 860.204]
 mapmarker: Shopping
+title: Stock Yards
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Stock Yards
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/stock-yards|Stock Yards]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

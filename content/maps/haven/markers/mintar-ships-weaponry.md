@@ -1,8 +1,12 @@
 ---
-location: [1925.187,  6196.939]
+aliases: []
+tags: [map-marker]
+location: [1925.187, 6196.939]
 mapmarker: Shopping
+title: "Mintar - Ship's Weaponry"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mintar - Ship's Weaponry
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/mintar-ships-weaponry|Mintar - Ship's Weaponry]]<br>
 **Location Type:** Nautical Supplies
 
-**Description**<br> 
-
+**Description**<br>

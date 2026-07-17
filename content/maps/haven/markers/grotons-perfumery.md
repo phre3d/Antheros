@@ -1,8 +1,12 @@
 ---
-location: [6367.023,  2303.061]
+aliases: []
+tags: [map-marker]
+location: [2303.061, 6367.023]
 mapmarker: Shopping
+title: "Groton's Perfumery"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Groton's Perfumery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/grotons-perfumery|Groton's Perfumery]]<br>
 **Location Type:** Perfumer
 
-**Description**<br> 
-
+**Description**<br>

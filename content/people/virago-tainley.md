@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Virago Tainley
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Virago Tainley
 
-### 
+###
 
 **Full Name:**  Virago  Tainley    Zprahim the Illusionist
 
@@ -209,13 +215,12 @@ Virago was the eldest of the three brothers, but forsook his inheritance to purs
 
 ---
 
-
-
 ![[people/blocks/virago-tainley]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

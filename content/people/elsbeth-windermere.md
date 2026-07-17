@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #government-of-haven #government-of-haven #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, government-of-haven, import, npc, person]
+title: Elsbeth Windermere
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elsbeth Windermere
 
-### 
+###
 
-**Full Name:** Mayor Elsbeth  Windermere    
+**Full Name:** Mayor Elsbeth  Windermere
 
 `````col
 ````col-md
@@ -213,13 +219,12 @@ Your Worship
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elsbeth-windermere]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

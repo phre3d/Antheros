@@ -1,8 +1,12 @@
 ---
-location: [4043.554,  4825.51]
+aliases: []
+tags: [map-marker]
+location: [4043.554, 4825.51]
 mapmarker: Religion
+title: Temple of Ariel
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Ariel
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-ariel|Temple of Ariel]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Ariel: Goddess of Love and Beauty, Patron of the Arts

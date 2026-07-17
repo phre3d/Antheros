@@ -1,8 +1,12 @@
 ---
-location: [2156.819,  4921.429]
+aliases: []
+tags: [map-marker]
+location: [2156.819, 4921.429]
 mapmarker: Inns & Taverns
+title: "Clanahan's Pub"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Clanahan's Pub
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/clanahans-pub|Clanahan's Pub]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

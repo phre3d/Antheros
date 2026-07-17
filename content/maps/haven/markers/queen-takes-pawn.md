@@ -1,8 +1,12 @@
 ---
-location: [3448.656,  3455.102]
+aliases: []
+tags: [map-marker]
+location: [3448.656, 3455.102]
 mapmarker: Shopping
+title: Queen Takes Pawn
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Queen Takes Pawn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/queen-takes-pawn|Queen Takes Pawn]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

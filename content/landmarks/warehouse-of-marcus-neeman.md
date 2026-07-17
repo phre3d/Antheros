@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-textiles #guild-of-the-loom #textiles
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/loom, import, landmark, textiles, the-south-docks, type-textiles]
+title: Warehouse of Marcus Neeman
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Warehouse of Marcus Neeman
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Dealer in rugs and tapestry 
 
-## Description 
+# Description
+
+## Dealer in rugs and tapestry
+
+## Description
+
 A textile warehouse containing tapestries and carpets, many of which are woven in Haven, and some imported.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ A textile warehouse containing tapestries and carpets, many of which are woven i
 
 **Image:** n/a
 
-**Textiles (Shopping)** 
+**Textiles (Shopping)**
 
  **Owner:**  Marcus Neeman
 
@@ -60,12 +70,14 @@ A textile warehouse containing tapestries and carpets, many of which are woven i
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Warehouse, Commercial
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A textile warehouse containing tapestries and carpets, many of which are woven i
 ---
 
 ### World Anvil Metadata
+
 **Id:** 15b904e4-1f73-4e6a-bd50-1014ae4449ca<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ A textile warehouse containing tapestries and carpets, many of which are woven i
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
-location: [5746.615,  2807.143]
+aliases: []
+tags: [map-marker]
+location: [2807.143, 5746.615]
 mapmarker: Residence
+title: de la Riis Family Residence
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # de la Riis Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/de-la-riis-family-residence|de la Riis Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

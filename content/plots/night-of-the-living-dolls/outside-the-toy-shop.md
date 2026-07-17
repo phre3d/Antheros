@@ -1,4 +1,10 @@
-#import #plot  #Night_of_the_Living_Dolls
+---
+aliases: []
+tags: [import, plot/Night-of-the-Living-Dolls, plot]
+title: NotLD Outside the Toy Shop
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # NotLD Outside the Toy Shop
 
 ````col
@@ -59,7 +65,6 @@ Lucille
 
 ```
 ````
-
 
 ---
 

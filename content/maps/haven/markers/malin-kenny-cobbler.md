@@ -1,8 +1,12 @@
 ---
-location: [2250.697,  6970.408]
+aliases: []
+tags: [map-marker]
+location: [2250.697, 6970.408]
 mapmarker: Shopping
+title: Malin Kenny - Cobbler
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Malin Kenny - Cobbler
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/malin-kenny-cobbler|Malin Kenny - Cobbler]]<br>
 **Location Type:** Footwear
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,5 +1,12 @@
-#person #npc #Burgled_Budgie
+---
+aliases: []
+tags: [plot/burgled-budgie, npc, person]
+title: Tibbles
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Tibbles
+
 Cat Familiar, N
 
 >[!read aloud]
@@ -16,4 +23,5 @@ Her collar is a [[plots/burgled-budgie/items/collar-of-communication|Collar of C
 >(AI created)
 
 ---
+
 **Source:** Debacle of the Burgled Budgie

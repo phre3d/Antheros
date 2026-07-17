@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Watt Mikekins
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Watt Mikekins
 
-### 
+###
 
-**Full Name:**  Watt  Mikekins    
+**Full Name:**  Watt  Mikekins
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See scenario Lions 3 - Gladiators 0
 
 ---
 
-
-
 ![[people/blocks/watt-mikekins]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

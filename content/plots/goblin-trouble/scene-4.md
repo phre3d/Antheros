@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: Scene 4
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Scene 4
 
 ````col

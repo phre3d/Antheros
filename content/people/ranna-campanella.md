@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-street-of-harps]
+title: Ranna Campanella
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Ranna Campanella
 
-### 
+###
 
-**Full Name:**  Ranna  Campanella    
+**Full Name:**  Ranna  Campanella
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A fat, jolly blond-haired woman of middle age, with a cheerful grin, usually wea
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ranna-campanella]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

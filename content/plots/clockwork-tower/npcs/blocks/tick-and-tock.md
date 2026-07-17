@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Clockwork_Tower #npc
+---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person, statblock]
+title: Tick and Tock
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Tick and Tock
 
 ````col
@@ -38,34 +44,28 @@ flexGrow=2
 ---
 
 # Description
-Tick and Tock were among Constantine's most cherished creations. The clockwork birds served not only as clockwork marvels but also as his companions. He imbued them with a fraction of his genius, enabling them to understand and navigate the labyrinthine complexity of the Clockwork Tower.    **Tick** , the slightly larger of the pair, has a more assertive personality. He often takes the lead, making decisions and guiding the way through the tower's twisting passages.    **Tock** , on the other hand, is more cautious and methodical. He carefully analyzes each situation, often catching details that Tick may miss in his haste.
 
+Tick and Tock were among Constantine's most cherished creations. The clockwork birds served not only as clockwork marvels but also as his companions. He imbued them with a fraction of his genius, enabling them to understand and navigate the labyrinthine complexity of the Clockwork Tower.    **Tick** , the slightly larger of the pair, has a more assertive personality. He often takes the lead, making decisions and guiding the way through the tower's twisting passages.    **Tock** , on the other hand, is more cautious and methodical. He carefully analyzes each situation, often catching details that Tick may miss in his haste.
 
 ---
 
 # Special Abilities
+
 **Immutable Form.**  Tick and Tock are immune to any spell or effect that would alter their form.
 
 ---
 
 # Actions
-## Peck 
+
+## Peck
+
 **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target. <br>
 *Hit:*  6  piercing damage.  
 
-## Repair (3/Day Each) 
+## Repair (3/Day Each)
+
   As an action, Tick or Tock touches a construct or a mechanical object and <u>restores  hit points to it</u>, potentially fixing broken mechanical systems.
 
 ---
+
 **Source:** Penny Blood Adventures
-
-
-
-
-
-
-
-
-
-
-

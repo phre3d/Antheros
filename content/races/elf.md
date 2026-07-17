@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Elven Race
+date modified: 2026-07-16, 9:38:26 pm
+---
+
 # Elven Race
 
 ````col
@@ -100,5 +106,7 @@ Amrunelara, Dardlara, Faunra, Jathal, Merisiel, Oparal, Soumral, Tessara, Yaland
 
 ```
 ````
+
 ---
+
 *Source:* Player's Handbook

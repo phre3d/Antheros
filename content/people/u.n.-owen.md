@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #jewelers-guild #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, jewelers-guild, npc, person, the-north-corridor]
+title: U.N. Owen
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # U.N. Owen
 
-### 
+###
 
-**Full Name:**  Ulysses Nicodemus Owen    
+**Full Name:**  Ulysses Nicodemus Owen
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ U. N. Owen (the U. N. stands for Ulysses Nicodemus) is middle-aged, graying, and
 
 ---
 
-
-
 ![[people/blocks/u.n.-owen]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [4077.228,  4175.51]
+aliases: []
+tags: [map-marker]
+location: [4077.228, 4175.51]
 mapmarker: Shopping
+title: Jarien the Jeweler
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Jarien the Jeweler
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/jarien-the-jeweler|Jarien the Jeweler]]<br>
 **Location Type:** Jeweler
 
-**Description**<br> 
-
+**Description**<br>

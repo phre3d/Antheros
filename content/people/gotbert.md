@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Gotbert
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gotbert
 
-### 
+###
 
-**Full Name:**  Gotbert      
+**Full Name:**  Gotbert
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Hot Priest
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gotbert]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

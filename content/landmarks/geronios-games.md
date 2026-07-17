@@ -1,18 +1,28 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-gaming #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, the-south-corridor, type-gaming]
+title: "Geronio's Games"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Geronio's Games
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Casino and Fun Emporiurn 
 
-## Description 
-[[people/geronio|Geronio]] is a dwarf who is both extremely greedy and exceedingly lazy. He therefore is trying to make as much money as he can with as little effort as possible. To this end, he runs a small, casino-type operation which, on better days, is thoroughly dishonest (you wouldn't believe the bad days). [[people/geronio|Geronio]] is smart enough to realize that if everyone lost all the time, no one would ever come again. He therefore allows enough people to win enough money to give the appearance of honesty. If told that he runs a dishonest operation, [[people/geronio|Geronio]] will, at first, feign innocence and act very hurt, but if the accuser persists, he will become angry, and call on his goliath bouncer, Uthal "Steadyhand" Elanithino, to "dispose of this trash." 
+# Description
+
+## Casino and Fun Emporiurn
+
+## Description
+
+[[people/geronio|Geronio]] is a dwarf who is both extremely greedy and exceedingly lazy. He therefore is trying to make as much money as he can with as little effort as possible. To this end, he runs a small, casino-type operation which, on better days, is thoroughly dishonest (you wouldn't believe the bad days). [[people/geronio|Geronio]] is smart enough to realize that if everyone lost all the time, no one would ever come again. He therefore allows enough people to win enough money to give the appearance of honesty. If told that he runs a dishonest operation, [[people/geronio|Geronio]] will, at first, feign innocence and act very hurt, but if the accuser persists, he will become angry, and call on his goliath bouncer, Uthal "Steadyhand" Elanithino, to "dispose of this trash."
 
  [[people/geronio|Geronio]] is an immensely fat dwarf who can barely walk unassisted. He loves food, wine, and beer of any type, and he despises exercise with a passion. If in danger, he has a magically enchanted ring which will teleport him and the cash box (which he sits on) to his home.  
 
@@ -52,7 +62,7 @@ shadow: off
 
 **Image:** n/a
 
-**Gaming (Entertainment)** 
+**Gaming (Entertainment)**
 
  **Owner:**  Geronio
 
@@ -64,12 +74,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -86,6 +98,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** ad781a8f-59c9-4180-b7fb-bf40a48477e9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -94,7 +107,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

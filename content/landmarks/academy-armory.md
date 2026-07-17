@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-guard]
+title: Academy Armory
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Academy Armory
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## City Guard armory 
 
-## Description 
+# Description
+
+## City Guard armory
+
+## Description
+
 This building contains the Guard's main armory. Is also houses the workshops of three armorers who craft and maintain all Guard-supplied gear.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ This building contains the Guard's main armory. Is also houses the workshops of 
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ This building contains the Guard's main armory. Is also houses the workshops of 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Arsenal
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ This building contains the Guard's main armory. Is also houses the workshops of 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 439681aa-c25d-4f28-af69-5ddd709f8547<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ This building contains the Guard's main armory. Is also houses the workshops of 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

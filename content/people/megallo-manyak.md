@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Megallo Manyak
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Megallo Manyak
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A small, bookish individual, with thin graying hair and a wispy beard. He has pr
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/megallo-manyak]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

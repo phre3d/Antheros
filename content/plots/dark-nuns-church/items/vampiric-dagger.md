@@ -1,6 +1,12 @@
-#import #statblock #item #Dark_Nuns_Church #item
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, item, statblock]
+title: Vampiric Dagger
+date modified: 2026-07-16, 9:18:16 pm
+---
 
---- start-multi-column: Top
+---start-multi-column: Top
+
 ```column-settings  
 number of columns: 2  
 column size: [59%, 39%]
@@ -8,11 +14,14 @@ border: [off]
 alignment: [left, center]
 shadow: off
 ```
+
 # Vampiric Dagger
+
   Source: The Dark Nun''s Church
 
 **Item Type:** Weapon<br>
 **Subtype:** Simple Melee
+
 **Rarity:** Rare<br>
 **Price:** <br>
 **Weight:** 1.25 lb<br>
@@ -25,10 +34,14 @@ shadow: off
 --- end-multi-column
 
 ---
+
 # Properties
+
 ### Use
-Whenever you hit a creature with this magical weapon, the dagger deals the standard 1d4 piercing damage plus an additional 1d6 necrotic damage as it endeavors to transfer the life substance of its prey to its bearer. 
-- If you [b]succeed[/b] on a [u]DC 12 Constitution saving throw[/u], you gain hit points equal to the portion of necrotic damage dealt. 
+
+Whenever you hit a creature with this magical weapon, the dagger deals the standard 1d4 piercing damage plus an additional 1d6 necrotic damage as it endeavors to transfer the life substance of its prey to its bearer.
+
+- If you [b]succeed[/b] on a [u]DC 12 Constitution saving throw[/u], you gain hit points equal to the portion of necrotic damage dealt.
 - If you [b]fail[/b] the saving throw, your body rejects the creature's life force, and take the same amount of necrotic damage.
 
 Undead creatures or reanimated monsters are not affected by the necrotic damage, and you cannot gain hit points from them.
@@ -36,9 +49,7 @@ Undead creatures or reanimated monsters are not affected by the necrotic damage,
 ---
 
 # Description
+
 This ornate dagger with an edge made of black steel casts a powerful aura of necrotic magic obvious to anyone.
 
 ---
-
-
-

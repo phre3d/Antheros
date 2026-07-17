@@ -1,8 +1,12 @@
 ---
-location: [3645.595,  714.286]
+aliases: []
+tags: [map-marker]
+location: [3645.595, 714.286]
 mapmarker: Service
+title: Windrider Courier Service
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Windrider Courier Service
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/windrider-courier-service|Windrider Courier Service]]<br>
 **Location Type:** Courier
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,21 +1,31 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Vairë
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Vairë
 
-Goddess of the Underworld     
+Goddess of the Underworld
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 The clergy of Vairë are clad in black robes with much silver piping and trim.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -35,6 +45,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -60,6 +71,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -79,6 +91,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -107,7 +120,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -125,7 +138,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Latterborn
 
@@ -135,12 +148,13 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 
  **Father:**  [[religions/mandos]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/thalos]] (with Maedhros)
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -160,7 +174,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -174,7 +188,7 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -185,16 +199,17 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 64c80232-0ec2-4dae-a56a-78daa08980cc<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -207,31 +222,37 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/vaire-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/vaire-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/vaire-person)
 
 ---
@@ -239,18 +260,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 cdcccf05-1462-4e63-a50d-5332573ef176
 
 --- end-column ---
 
 Next:
+
 8c2bc95c-4e17-409e-950e-7486e83c89e4
 
 --- end-multi-column

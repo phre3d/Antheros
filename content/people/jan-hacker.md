@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Jan Hacker
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jan Hacker
 
-### 
+###
 
-**Full Name:** Station Captain Jan  Hacker    
+**Full Name:** Station Captain Jan  Hacker
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Station Captain of the [[landmark/nobles-way-station|Nobles' Way Station]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jan-hacker]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [1793.554,  6377.551]
+aliases: []
+tags: [map-marker]
+location: [1793.554, 6377.551]
 mapmarker: Service
+title: "Sym's Storage Company"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Sym's Storage Company
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/syms-storage-company|Sym's Storage Company]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

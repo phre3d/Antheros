@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary D10
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary D10
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Crossbow, hand:**  +5 to hit , 1d6+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+title: Portia Maggia
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Portia Maggia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -214,13 +220,12 @@ There is only a 25% chance that Portia will be in Haven at any time; if in town,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/portia-maggia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,17 +1,37 @@
-#import #organization   #Free_City_of_Haven #type-guild-professional
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/professional, import, organization]
+title: "Merchants' Guild"
+date modified: 2026-07-16, 9:15:49 pm
+---
+
 # Merchants' Guild
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
+>[!info]
+>**Type:** Guild, Professional<br>
+>**Alternate Names:** <br>
+>**Leader:** <br>
+>**Leader Title:** [[ranks/guild-grandmaster|Grandmaster]] <br><br>
+>**Founding Date:** <br>
+>**Motto/Slogan**: <br>
+>**Demonym:** <br>
+>**Related Races:**  <br>
+>**Related Ethnicities:**
+
 Anyone whose focus is on selling (wholesale or retails) and not production. While one might think this a powerful guild it is not the case in Haven. They don't even have their own guildhall and must meet in [[landmarks/the-hall-of-all-guilds|The Hall of All Guilds]].
 
-## Associated People & Places 
+## Associated People & Places
 
 [tagged:merchants-guild-person|list|none]
 
@@ -20,16 +40,18 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Guild, Professional<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -42,10 +64,11 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -63,9 +86,9 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -78,10 +101,11 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -105,7 +129,7 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -179,15 +203,16 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 0c31d832-401e-4776-9a59-05dc6fc74794<br>
 **Entity Type:** Article / organization<br>
 **Category:** Guilds of Haven<br>
@@ -196,7 +221,9 @@ Anyone whose focus is on selling (wholesale or retails) and not production. Whil
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

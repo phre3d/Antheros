@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Kobri
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kobri
 
-### 
+###
 
-**Full Name:**  Kobri      
+**Full Name:**  Kobri
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A spare, dark bearded dwarf with a sharp tongue and a ready wit, Kobri operates 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kobri]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

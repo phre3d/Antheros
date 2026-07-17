@@ -1,8 +1,12 @@
 ---
-location: [3040.493,  2291.837]
+aliases: []
+tags: [map-marker]
+location: [2291.837, 3040.493]
 mapmarker: Guild
+title: Hall of the Word
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hall of the Word
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Guild
 **Location:** [[landmarks/hall-of-the-word|Hall of the Word]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
-
+**Description**<br>

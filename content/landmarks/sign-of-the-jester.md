@@ -1,30 +1,43 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-corridor, type-tavern]
+title: Sign of the Jester
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Sign of the Jester
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## No Jokes About Ale 
 
-## Description 
+# Description
+
+## No Jokes About Ale
+
+## Description
+
 A small tavern catering mostly to circus people. Run by [[people/old-olaf|Old Olaf]], a small hunchback, and his partner, a seven foot goliath ex-gladiator named Eglath "Horncarver" Thunukalathi.  
 
  The patrons trade tales about their experiences on the road, drink beer, throw darts, and grouse about the [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]]. Non circus-folk are viewed with suspicion, although another "carney" is freely welcomed.  
 
  [[people/fenris-redbeard|Fenris Redbeard]] (NPC's The South Corridor) is a regular here.
 
-## Price Range 
+## Price Range
+
 Fair
 
-## Quality 
+## Quality
+
 Poor/Fair
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/eglath-thunukalathi|Eglath Thunukalathi]]
 
 # Purpose / Function
@@ -61,7 +74,7 @@ Poor/Fair
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  Old Olaf
 
@@ -73,12 +86,14 @@ Poor/Fair
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -95,6 +110,7 @@ Poor/Fair
 ---
 
 ### World Anvil Metadata
+
 **Id:** d3fc11ef-1de2-4c62-ac0e-3e998101195e<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -103,7 +119,9 @@ Poor/Fair
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

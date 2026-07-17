@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-heights #the-north-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, person, the-heights, the-north-corridor]
+title: Gallia Stonnard
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gallia Stonnard
 
-### 
+###
 
-**Full Name:**  Galliana  Stonnard (nee Maggia)   
+**Full Name:**  Galliana  Stonnard (nee Maggia)
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Gallia is a portrait painter, and spends part of her time engaged in this pursui
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gallia-stonnard]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [1253.758,  4872.449]
+aliases: []
+tags: [map-marker]
+location: [1253.758, 4872.449]
 mapmarker: Guild
+title: "The Thieves' Guild House"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Thieves' Guild House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Guild
 **Location:** [[landmarks/the-thieves-guild-house|The Thieves' Guild House]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
-
+**Description**<br>

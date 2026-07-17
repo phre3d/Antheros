@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Barbara Weyr - Rugs and Carpets
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Barbara Weyr - Rugs and Carpets
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/barbara-weyr-rugs-and-carpets|Barbara Weyr - Rugs and Carpets]]<br>
 **Location Type:** Textiles
 
-**Description**<br> 
-
+**Description**<br>

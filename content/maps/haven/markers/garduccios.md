@@ -1,8 +1,12 @@
 ---
-location: [5143.554,  4941.837]
+aliases: []
+tags: [map-marker]
+location: [4941.837, 5143.554]
 mapmarker: Inns & Taverns
+title: "Garduccio's"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Garduccio's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/garduccios|Garduccio's]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
+**Description**<br>
+
 One of the best dining establishments in the city

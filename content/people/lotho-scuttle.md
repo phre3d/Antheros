@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #merchants-guild #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, merchants-guild, npc, person, the-dell]
+title: Lotho Scuttle
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lotho Scuttle
 
-### 
+###
 
-**Full Name:**  Lotho  Scuttle    
+**Full Name:**  Lotho  Scuttle
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Runs a large shop selling just about anything you might need (except weapons/arm
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lotho-scuttle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

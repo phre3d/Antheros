@@ -1,4 +1,9 @@
-#toc #Murder_at_the_Old_Wolf_Inn 
+---
+aliases: []
+tags: [plot/Murder-at-the-Old-Wolf-Inn, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 **[[plots/murder-at-the-old-wolf-inn/murder-at-the-old-wolf-inn|Introduction]]** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/murder-at-the-old-wolf-inn/mysterious-clues|Mysterious Clues]]<br>
@@ -22,4 +27,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/murder-at-the-old-wolf-inn/npcs/william-fastfinger|William Fastfinger]]<br>
 **Monsters**   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/murder-at-the-old-wolf-inn/monsters/stenbumling-troll|Stenbumling Troll]]
-

@@ -1,9 +1,15 @@
-#import #person 
+---
+aliases: []
+tags: [import, person]
+title: Lanita
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lanita
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -192,13 +198,10 @@ Standing at around 5 feet 5 inches tall, Lanita has darkish skin and long black 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

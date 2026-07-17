@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Anton Valvidi
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Anton Valvidi
 
-### 
+###
 
-**Full Name:**  Anton  Valvidi    
+**Full Name:**  Anton  Valvidi
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ An elderly gentleman, with thinning white hair, a prominent nose, and spectacles
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/anton-valvidi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

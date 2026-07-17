@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-magic #mages-guild #magic
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, magic-street, type-magic]
+title: The Pentacle
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Pentacle
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Everything for the discerning mage 
 
-## Description 
+# Description
+
+## Everything for the discerning mage
+
+## Description
+
 Magical supplies: material components etc.    Also potion ingredients.  Next door to Eye of Newt, their prime competitor.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Magical supplies: material components etc.    Also potion ingredients.  Next doo
 
 **Image:** n/a
 
-**Magic (Shopping)** 
+**Magic (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Magical supplies: material components etc.    Also potion ingredients.  Next doo
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Magic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Magical supplies: material components etc.    Also potion ingredients.  Next doo
 ---
 
 ### World Anvil Metadata
+
 **Id:** 44748019-058a-45f5-a298-e7dd47f02645<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -90,7 +103,9 @@ Magical supplies: material components etc.    Also potion ingredients.  Next doo
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: "The Knight's Lady and The High Judge"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Knight's Lady and The High Judge
 
 ````col
@@ -51,7 +57,6 @@ At night, there is only a 2% chance of the Guard being summoned, and the servant
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

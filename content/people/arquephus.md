@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Arquephus
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Arquephus
 
-### 
+###
 
-**Full Name:**  Arquephus      
+**Full Name:**  Arquephus
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ The diminutive Keeper of Records may well be the most potentially powerful figur
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/arquephus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

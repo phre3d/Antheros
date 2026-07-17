@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-magic #mages-guild #magic
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, magic-street, type-magic]
+title: Hire-a-Mage
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Hire-a-Mage
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/virago-tainley|Virago Tainley]] | [[people/zprahim|Zprahim]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Magic (Shopping)** 
+**Magic (Shopping)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Magic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3839b363-6043-4b14-9341-c99cc6dedb9d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

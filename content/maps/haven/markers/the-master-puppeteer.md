@@ -1,8 +1,12 @@
 ---
-location: [2246.615,  2198.98]
+aliases: []
+tags: [map-marker]
+location: [2198.98, 2246.615]
 mapmarker: Shopping
+title: The Master Puppeteer
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Master Puppeteer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-master-puppeteer|The Master Puppeteer]]<br>
 **Location Type:** Toymaker
 
-**Description**<br> 
-
+**Description**<br>

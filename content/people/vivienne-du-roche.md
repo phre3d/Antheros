@@ -1,9 +1,15 @@
-#import #person #npc #the-commons #guild-of-the-beast
+---
+aliases: []
+tags: [guild/beast, import, npc, person, the-commons]
+title: Vivienne Du Roche
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vivienne Du Roche
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Vivienne is still in her teens, with a slender, coltish frame and long chestnut 
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

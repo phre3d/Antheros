@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-cauldron]
+title: Nikkulai arn Kolvi
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nikkulai arn Kolvi
 
-### 
+###
 
-**Full Name:**  Nikkulai  arn Kolvi    
+**Full Name:**  Nikkulai  arn Kolvi
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A dark-bearded, scowling fellow that runs the [[landmark/boarshead-tavern|Boarsh
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nikkulai]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

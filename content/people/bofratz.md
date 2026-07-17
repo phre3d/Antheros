@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Bofratz
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bofratz
 
-### 
+###
 
-**Full Name:**  Bofratz      
+**Full Name:**  Bofratz
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to [[plots/street-encounters|Street Encounters]]: Pouch on a String
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bofratz]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

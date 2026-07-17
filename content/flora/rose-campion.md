@@ -1,4 +1,10 @@
-#import #flora #essence-shadow-plant
+---
+aliases: []
+tags: [essence-shadow-plant, flora, import]
+title: Rose Campion
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Rose Campion
 
 ````col
@@ -45,7 +51,9 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 ````
 
 <!-- Standard page footer -->
+
 ---
+
 ````col
 ```col-md
 

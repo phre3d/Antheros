@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Taubardur Elengul
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Taubardur Elengul
 
 ````col
@@ -37,42 +43,16 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
-**Racial** 
+
+**Racial**
 
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +5 to hit , 1d8+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

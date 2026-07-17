@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hide #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hide, import, npc, person, the-commons]
+title: Tandy Buckwalter
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tandy Buckwalter
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A halfling who prefers to live with the human folk in [[settlement/the-commons|T
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tandy-buckwalter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

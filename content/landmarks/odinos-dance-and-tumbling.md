@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-education #type-training #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, street-of-harps, type-training]
+title: "Odino's Dance and Tumbling"
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Odino's Dance and Tumbling
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## [[people/odino|Odino]] of Mandalai 
 
-## Description 
+# Description
+
+## [[people/odino|Odino]] of Mandalai
+
+## Description
+
 The entire first floor is one large room. Mats are stacked neatly along a wall when not in use, and racks of barbells, ropes, etc. line the other wall. A door against the back wall leads to stairs going up and down. Downstairs, there is a food storage area and a large bath and sauna. Upstairs are [[people/odino|Odino]]'s rooms, which are starkly furnished, and a small shrine to Eollana.  
 
  [[people/odino|Odino]] is a small, dark, wiry fellow, full of nervous energy. He teaches tumbling to students with at least an average DEX for 5gp a week for daily 2 hour sessions. [[people/odino|Odino]] is a good teacher, and if a student does well (STA INT and DEX), after 3 months, can improve coordination and reflexes (d6: 1-3 +1, 4-5 +2, 6 +3). [[people/odino|Odino]] is into a "health food" diet of brown rice and raw vegetables, which he eagerly espouses to his students, along with meditation sessions and a regular exercise ritual. The improvement will last as long as the student keeps up the half-hour of exercise ritual daily.  
@@ -52,7 +62,7 @@ The entire first floor is one large room. Mats are stacked neatly along a wall w
 
 **Image:** n/a
 
-**Training (Service)** 
+**Training (Service)**
 
  **Owner:**  Odino
 
@@ -64,12 +74,14 @@ The entire first floor is one large room. Mats are stacked neatly along a wall w
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Gym
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -86,6 +98,7 @@ The entire first floor is one large room. Mats are stacked neatly along a wall w
 ---
 
 ### World Anvil Metadata
+
 **Id:** c0c50bf8-c167-4b7b-a409-90e6d2a447c9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -94,7 +107,9 @@ The entire first floor is one large room. Mats are stacked neatly along a wall w
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

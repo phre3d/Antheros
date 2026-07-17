@@ -1,8 +1,12 @@
 ---
-location: [3759.881,  1359.184]
+aliases: []
+tags: [map-marker]
+location: [1359.184, 3759.881]
 mapmarker: Shopping
+title: Nicodemus Bottleboro - Apothecary
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Nicodemus Bottleboro - Apothecary
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/nicodemus-bottleboro-apothecary|Nicodemus Bottleboro - Apothecary]]<br>
 **Location Type:** Apothecary
 
-**Description**<br> 
-
+**Description**<br>

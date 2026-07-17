@@ -1,8 +1,12 @@
 ---
-location: [4574.166,  5514.286]
+aliases: []
+tags: [map-marker]
+location: [4574.166, 5514.286]
 mapmarker: Shopping
+title: The Golden Goblet
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Golden Goblet
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-golden-goblet|The Golden Goblet]]<br>
 **Location Type:** Drinkware
 
-**Description**<br> 
-
+**Description**<br>

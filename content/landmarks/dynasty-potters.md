@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-potter #crafters-guild #potter
+---
+aliases: []
+tags: [cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, potter, the-south-docks, type-potter]
+title: Dynasty Potters
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Dynasty Potters
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Pots and a stone 
 
-## Description 
+# Description
+
+## Pots and a stone
+
+## Description
+
 Stenger works very hard at his craft but wears rags because he donates half his pots to the poor and sells his best works for 1-6 CP. He has inherited a map to 'The Stone of Alatvair' eighty miles due north in a ruined manor. The Stone will yield one potion of healing per week or will warn the owner of any pending danger within 200 feet. The healing potion will also cure any disease except Lycanthrope or Buonic Plague.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Stenger works very hard at his craft but wears rags because he donates half his 
 
 **Image:** n/a
 
-**Potter (Shopping)** 
+**Potter (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Stenger works very hard at his craft but wears rags because he donates half his 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Stenger works very hard at his craft but wears rags because he donates half his 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 97499281-6bad-49dd-b755-44fa63d1740a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ Stenger works very hard at his craft but wears rags because he donates half his 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

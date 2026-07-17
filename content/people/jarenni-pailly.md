@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Jarenni Pailly
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jarenni Pailly
 
-### 
+###
 
 **Full Name:** Lady Jarenni  Pailly    Renni
 
@@ -205,13 +211,12 @@ A shopgirl at Adrielle's shop.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jarenni-pailly]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #angelinas-guild #the-south-docks #the-north-corridor #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, import, npc, person, the-north-corridor, the-south-docks]
+title: Mordred de Laterre
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mordred de Laterre
 
-### 
+###
 
-**Full Name:**  Mordred  de Laterre    
+**Full Name:**  Mordred  de Laterre
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Mordred de Laterre, the crippled, wizened, and now retired caravan master who op
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mordred-de-laterre]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

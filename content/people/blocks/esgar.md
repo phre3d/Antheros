@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Esgar
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Esgar
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +4 to hit , 1d4+2 piercing damage  
   **Dagger, thrown:**  +4 to hit , 1d4+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

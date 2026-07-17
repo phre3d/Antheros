@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-word #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/word, import, npc, person, the-street-of-harps]
+title: Bennichio Lapiz
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bennichio Lapiz
 
-### 
+###
 
-**Full Name:**  Bennichio  Lapiz    
+**Full Name:**  Bennichio  Lapiz
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A plump, mild little man with thinning hair. His voice tends to squeak when exci
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bennichio-lapiz]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

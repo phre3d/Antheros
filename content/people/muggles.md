@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, thieves-market]
+title: Muggles
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Muggles
 
-### 
+###
 
-**Full Name:**  Muggles      
+**Full Name:**  Muggles
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Is in fact a transformed mage, [[person/cassilda|Cassilda]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/muggles]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #savonna-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, savonna-family, the-heights]
+title: Donia Savonna
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Donia Savonna
 
-### 
+###
 
-**Full Name:**  Donia  Savonna    
+**Full Name:**  Donia  Savonna
 
 `````col
 ````col-md
@@ -213,13 +219,12 @@ Purse:  gp
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/donia-savonna]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

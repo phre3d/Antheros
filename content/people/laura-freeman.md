@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Laura Freeman
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Laura Freeman
 
-### 
+###
 
-**Full Name:** Borough Commander Laura  Freeman    
+**Full Name:** Borough Commander Laura  Freeman
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ A spitfire who nevertheless leads her teams to well executed raids, rescues and 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/laura-freeman]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Firlirrel Ilorim
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Firlirrel Ilorim
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Mace:**  +4 to hit , 1d6+0 bludgeoning damage  
   **Longsword:**  +4 to hit , 1d8+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

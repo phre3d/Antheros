@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Brisla Stoneaxe
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Brisla Stoneaxe
 
-### 
+###
 
-**Full Name:**  Brisla  Stoneaxe    
+**Full Name:**  Brisla  Stoneaxe
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Brisla is the chief cook at the [[landmark/horn-and-hardart|Horn and Hardart]]. 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/brisla-stoneaxe]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

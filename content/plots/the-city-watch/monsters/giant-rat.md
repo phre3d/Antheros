@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,17 +43,21 @@ Small Beast Unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Keen Smell.**  The rat has advantage on Wisdom (Perception) checks that rely on smell.   **Pack Tactics.**  The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Bite** 
-   *Melee Attack:*  +4 to hit , reach 5 ft. , one target. 
+
+**Bite**
+
+   *Melee Attack:*  +4 to hit , reach 5 ft. , one target.
+
   *Hit:*   or 4 piercing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
-A normal rat, but 4x the size.
 
+A normal rat, but 4x the size.

@@ -1,4 +1,10 @@
-#import #person #Murder_at_the_Old_Wolf_Inn #npc
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Jon Callion
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Jon Callion
 
 `````col
@@ -69,7 +75,9 @@ Jon will also add that Hugo has been acting very nervously, and that the local m
 `````
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

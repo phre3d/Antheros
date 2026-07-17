@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-rooming-house #guild-of-the-hearth #rooming-house
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, rooming-house, the-south-corridor, type-rooming-house]
+title: The Widow Shelakii - Rooms
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Widow Shelakii - Rooms
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Another clean rooming house 
 
-## Description 
+# Description
+
+## Another clean rooming house
+
+## Description
+
 The widow Shelaki runs a clean rooming house and loves to hear the stories of her guests' travels since she is too old to do much wantering herself.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The widow Shelaki runs a clean rooming house and loves to hear the stories of he
 
 **Image:** n/a
 
-**Rooming House (Residence)** 
+**Rooming House (Residence)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The widow Shelaki runs a clean rooming house and loves to hear the stories of he
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apartment building / Tenament
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The widow Shelaki runs a clean rooming house and loves to hear the stories of he
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0b35b9b8-5a38-498d-812b-b213a115f644<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ The widow Shelaki runs a clean rooming house and loves to hear the stories of he
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

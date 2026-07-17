@@ -1,8 +1,12 @@
 ---
-location: [2249.677,  6406.122]
+aliases: []
+tags: [map-marker]
+location: [2249.677, 6406.122]
 mapmarker: Shopping
+title: Warehouse of Marcus Neeman
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Warehouse of Marcus Neeman
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/warehouse-of-marcus-neeman|Warehouse of Marcus Neeman]]<br>
 **Location Type:** Textiles
 
-**Description**<br> 
-
+**Description**<br>

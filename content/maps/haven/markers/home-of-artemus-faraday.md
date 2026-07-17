@@ -1,8 +1,12 @@
 ---
-location: [2766.003,  2228.571]
+aliases: []
+tags: [map-marker]
+location: [2228.571, 2766.003]
 mapmarker: Residence
+title: Home of Artemus Faraday
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Home of Artemus Faraday
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/home-of-artemus-faraday|Home of Artemus Faraday]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

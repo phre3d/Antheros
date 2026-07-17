@@ -1,5 +1,12 @@
-#import #map
---- start-multi-column: MainBody
+---
+aliases: []
+tags: [import, map]
+title: Description
+date modified: 2026-07-16, 9:18:38 pm
+---
+
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 29%]
@@ -9,14 +16,11 @@ shadow: off
 
 # Description
 
-
-
 # Image
 
 ![[plots/howling-in-the-woods/maps/tarnsworth-base-map-image.png]]
 
 # Legend
-
 
 --- end-column ---
 
@@ -29,6 +33,7 @@ shadow: off
 **Campaign(s):**
 
 **Markers:**
+
 - [[maps/tarnsworth/markers/gredels-house]]
 - [[maps/tarnsworth/markers/headmans-house]]
 - [[maps/tarnsworth/markers/church-stables]]
@@ -37,7 +42,3 @@ shadow: off
 - [[maps/tarnsworth/markers/tavern]]
 
 --- end-multi-column
-
-
-
-

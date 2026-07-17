@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true
 timelines:
   - The-Girls-Are-Missing
 aat-event-start-date: 1172/3/24 00:00
 aat-event-title: Byelaya Disappears
 aat-event-body: Byelaya Tainley leaves home and becomes the courtesan Bianca, working at The Blue Lantern on The Street of Silk Veils.
+title: Byelaya Disappears
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Byelaya Disappears
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -51,7 +56,3 @@ flexGrow=2.5
 
 ```
 ````
-
-
-
-

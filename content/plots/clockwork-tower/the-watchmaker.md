@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: "CT: The Watchmaker"
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # CT: The Watchmaker
 
 ````col
@@ -154,7 +160,6 @@ Spring-Loaded Sprite
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

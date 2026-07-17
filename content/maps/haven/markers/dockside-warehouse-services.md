@@ -1,8 +1,12 @@
 ---
-location: [1722.126,  6639.796]
+aliases: []
+tags: [map-marker]
+location: [1722.126, 6639.796]
 mapmarker: Service
+title: Dockside Warehouse Services
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Dockside Warehouse Services
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/dockside-warehouse-services|Dockside Warehouse Services]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

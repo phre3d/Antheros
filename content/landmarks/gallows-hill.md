@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-landmark #type-other-landmark #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-south-corridor, type-other-landmark]
+title: Gallows Hill
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Gallows Hill
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Hang 'em High 
 
-## Description 
+# Description
+
+## Hang 'em High
+
+## Description
+
 Just outside Judgement Gate, this hill has seen many deaths over the years. At the top of the hill there is a set of gallows that have been used for decades by the courts of Haven.  It is not unusual to see a tumbrel on its way from the Grey Halls to the hill, or even from the Black Halls if there if a quick execution has been ordered.
 
 While not quite the spectator sport they used to be, citizens will still be drawn to the hill when there is a specially interesting "customer".
@@ -50,7 +60,7 @@ While not quite the spectator sport they used to be, citizens will still be draw
 
 **Image:** n/a
 
-**Other Landmark (Landmark)** 
+**Other Landmark (Landmark)**
 
  **Owner:**  
 
@@ -62,12 +72,14 @@ While not quite the spectator sport they used to be, citizens will still be draw
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -84,6 +96,7 @@ While not quite the spectator sport they used to be, citizens will still be draw
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0be95441-47bc-4662-9b2e-d5d0fd95ef5d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -92,7 +105,9 @@ While not quite the spectator sport they used to be, citizens will still be draw
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

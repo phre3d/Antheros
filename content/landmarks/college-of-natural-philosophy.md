@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #scholars-triangle #cat-education #type-university #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, scholars-triangle, type-university]
+title: College of Natural Philosophy
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # College of Natural Philosophy
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**University (Education)** 
+**University (Education)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** University / Educational complex
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/scholars-triangle|Scholar's Triangle]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 868543f0-30ee-4dfe-b138-17cc891c00f0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Scholar's Triangle<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

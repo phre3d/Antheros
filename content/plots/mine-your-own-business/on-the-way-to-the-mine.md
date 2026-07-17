@@ -1,4 +1,10 @@
-#import #plot  #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, plot]
+title: On the Way to the Mine
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # On the Way to the Mine
 
 ````col

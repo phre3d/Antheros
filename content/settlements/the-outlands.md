@@ -1,14 +1,23 @@
-#import #settlement #Free_City_of_Haven #quarter
+---
+aliases: []
+tags: [Free_City_of_Haven, import, quarter, settlement]
+title: The Outlands
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The Outlands
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 The Outlands is the most diverse of Haven's six boroughs; it is the home of the more affluent members of the non-human races. Each of the major races has its own quarter, where the living conditions are quite similar to those in their homelands. The quarters are the Dell, a meadow and hill area favored by the halflings, the Dwarrow, primarily underground construction sunk into the bedrock of a largish hill, living and working area for the most businesslike of the younger races, the dwarves, and Erinhir, the River-Forest, where, amid stately trees, some nearly as old as the city itself, dwell the elves (some nearly as old as the city itself). The fourth quarter is called the Cauldron (alluding to the melting pot quality of the mixture of races), and is the home of the less wealthy; the centaurs have no special quarter of their own, since they normally prefer to live outside the city's walls, and they share this southern portion of the Outlands will all the other races.
 
 The Outlands reaches from Summ Plaza, at Lorien and Southbank, to the western wall, and covers most of the available living space to the Horse Gate, at the southern end of Haven's main passageway, Caravan Street. Along the river's edge, closest to the wall, and at the bottom of the dwarves' hill, can be found the docks and warehouses of the chandlers who deal with the upriver trade; slightly to the east, where the hill levels out to the height of the rest of the riverbank, a row of gristmills lines the Dorian (these mills are primarily owned and operated by halflings). The remainder of the riverbank, almost to Stonebridge, is a thickly grown strip of near-forest called the Shieldwood. The Dwarrow, the Dell, and Erinhir spread eastward along the edge of the river, and the Cauldron occupies the major portion of the southerly area.
@@ -21,10 +30,11 @@ There are two outposts of the City Guard in the Outlands. One is found at the Ir
 
 The Outlands is so diverse an area that is nearly impossible to treat it as a single entity, as has been done with the other boroughs. Each of the major quarters has its own subsection, which follows the format given in the introduction for the major sections of this first volume of the Free City of Haven. No attempt is made to cover the Cauldron in this volume, but the Dell, the Dwarrow, and Erinhir are all thoroughly described.
 
-## Persons of Interest 
+## Persons of Interest
+
 --Willemena::An old woman of indeterminate race and age, dressed in an old gray dress and cloak - almost always hooded. She has been wandering around the Outlands as long as anyone's memory runs, and will occasionally totter up to a person walking along the street, stop that one with a gentle hand on the arm, then peer earnestly into that person's face. There seem to be only two reactions to whatever she spies there - either she frowns, as if in fear and displeasure, and hobbles quickly away, or she smiles broadly and holds out her hand, palm up.--
 
-## People and Locations in The Outlands 
+## People and Locations in The Outlands
 
 | People      | Places   |
 |---|---|
@@ -62,15 +72,18 @@ The Outlands is so diverse an area that is nearly impossible to treat it as a si
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ![[maps/haven/the-outlands-full.jpg]]
 
 ---
-**Persons of Interest** 
+
+**Persons of Interest**
+
 - [[people/willemena|Willemena]]
 
- **Neighborhoods** 
+ **Neighborhoods**
+
 - [[settlements/erinhir|Erinhir]]
 - [[settlements/the-dell|The Dell]]
 - [[settlements/the-dwarrow|The Dwarrow]]
@@ -88,18 +101,19 @@ The Outlands is so diverse an area that is nearly impossible to treat it as a si
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** d933131a-640d-4513-b6aa-d99247dfa47a<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -108,19 +122,24 @@ The Outlands is so diverse an area that is nearly impossible to treat it as a si
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 587a7a3a-ba45-4bfd-94bc-fe6e17ae023c
 
 --- end-column ---
 
 Next:
+
 96d2680b-e669-4c07-ba6b-f4727fb8d9d9
 
 --- end-multi-column

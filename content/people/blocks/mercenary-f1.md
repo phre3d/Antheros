@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary F1
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary F1
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +7 to hit , 2d6+3 slashing damage  
   **Hoof:**  +7 to hit , 2d6+7 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

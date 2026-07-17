@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Young Stallion Who Was
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Young Stallion Who Was
 
 ````col
@@ -56,7 +62,6 @@ Gunter will have to be protected from Bugri's attempt to kill him (he uses a sma
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

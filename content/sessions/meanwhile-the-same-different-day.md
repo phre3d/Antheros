@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -27,4 +32,3 @@ It is about 40 feet from tower to tower, and 80 feet from front to back.
 We head back to the inn. In the morning we go back.
 
 ---
-

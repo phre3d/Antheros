@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Ariel
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Ariel
 
-### 
+###
 
-**Full Name:** Goddess of Love and Patron of the Arts       
+**Full Name:** Goddess of Love and Patron of the Arts
 
 `````col
 ````col-md
@@ -205,13 +211,10 @@ Also of note is the fact that her full parentage is not clear. Some say that [[p
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 38e86db9-e6a3-4571-90cb-531f65c96c37

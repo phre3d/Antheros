@@ -1,4 +1,10 @@
-#import #person #npc #Murder_at_the_Old_Wolf_Inn
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Cael Thraelive
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Cael Thraelive
 
 `````col
@@ -43,7 +49,9 @@ What Cael omits to mention is that he in fact quietly left his room during midni
 `````
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

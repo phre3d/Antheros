@@ -1,4 +1,10 @@
-#item/magic-item/explosive 
+---
+aliases: []
+tags: [item/magic-item/explosive]
+title: Thunderstone
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Thunderstone
 
 >[!info]
@@ -7,39 +13,42 @@
 >**Effect Category:** Offensive
 >
 >**Application:**Thrown <br>
->**Duration:** Instantaneous 
+>**Duration:** Instantaneous
 >
 >**Price:** 75gp
 
 ## Description
+
 A dull, brittle crystal.
 
 ## Effects
-Shatters upon striking a hard surface, creating a deafening bang audible out to 500 feet. 
+
+Shatters upon striking a hard surface, creating a deafening bang audible out to 500 feet.
 
 As an action, you can throw the thunderstone up to 30 feet. Each creature in a 15-foot radius of the point of impact must succeed on a DC 12 Constitution saving throw or be deafened for one minute.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
+
 **Base:** Calcium Grease<br>
 **Essence(s):**   Earth  <br>
 **Spell Needed:**  <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Alchemist <br>
 *Base:* Calcium Grease <br>
 *Essence(s):*    Earth   <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-heights #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-heights]
+title: Amsterdam Craddock
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Amsterdam Craddock
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Runs a shop selling house an garden tools as well as small pieces of agricultura
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/amsterdam-craddock]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

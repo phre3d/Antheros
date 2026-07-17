@@ -1,8 +1,12 @@
 ---
-location: [4135.391,  852.041]
+aliases: []
+tags: [map-marker]
+location: [4135.391, 852.041]
 mapmarker: Shopping
+title: "Ralki - Men's Tailor"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Ralki - Men's Tailor
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/ralki-mens-tailor|Ralki - Men's Tailor]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

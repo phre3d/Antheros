@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Fingers Arthas
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Fingers Arthas
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +5 to hit , 1d4+2 piercing damage  
   **Claw:**  +3 to hit , 2d6+4+0 slashing damage  
   **Sling:**  +5 to hit , 1d4+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

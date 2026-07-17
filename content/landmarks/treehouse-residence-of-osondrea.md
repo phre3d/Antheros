@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-residence #type-treehouse #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-north-corridor, type-treehouse]
+title: Treehouse Residence of Osondrea
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Treehouse Residence of Osondrea
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Home of a high level elven enchantress 
 
-## Description 
+# Description
+
+## Home of a high level elven enchantress
+
+## Description
+
 Noteable primarily because it is outside of Erinhir, where most other elves make their home.
 
-## NPC Encounters 
+## NPC Encounters
+
 Osondrea | Karl Geronde
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Osondrea | Karl Geronde
 
 **Image:** n/a
 
-**Treehouse (Residence)** 
+**Treehouse (Residence)**
 
  **Owner:**  Osondrea
 
@@ -63,12 +74,14 @@ Osondrea | Karl Geronde
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Tree house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Osondrea | Karl Geronde
 ---
 
 ### World Anvil Metadata
+
 **Id:** cf88dea6-141b-414a-9f54-eb446fc8b356<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -93,7 +107,9 @@ Osondrea | Karl Geronde
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, npc, person, the-heights]
+title: Udral Geronde
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Udral Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Although he has been a deaf-mute since birth, Udral is far from a simpleton. He 
 
 ---
 
-
-
 ![[people/blocks/udral-geronde]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

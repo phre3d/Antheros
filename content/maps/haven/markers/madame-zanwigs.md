@@ -1,8 +1,12 @@
 ---
-location: [1057.84,  3866.327]
+aliases: []
+tags: [map-marker]
+location: [1057.84, 3866.327]
 mapmarker: Shopping
+title: "Madame Zanwig's"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Madame Zanwig's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/madame-zanwigs|Madame Zanwig's]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

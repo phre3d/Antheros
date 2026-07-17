@@ -1,8 +1,12 @@
 ---
-location: [1010.901,  3864.286]
+aliases: []
+tags: [map-marker]
+location: [1010.901, 3864.286]
 mapmarker: Shopping
+title: "The Dreamseller's"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Dreamseller's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-dreamsellers|The Dreamseller's]]<br>
 **Location Type:** Potions
 
-**Description**<br> 
-
+**Description**<br>

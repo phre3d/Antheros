@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-street-of-harps #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: "Kelly O'Shea"
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kelly O'Shea
 
-### 
+###
 
-**Full Name:**  Kelly  O'Shea    
+**Full Name:**  Kelly  O'Shea
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Kelly is a tall, chunky fellow whose red hair has begun to grey, but his hands a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kelly-oshea]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,15 +1,24 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-butcher #butcher
+---
+aliases: []
+tags: [butcher, cat-shop, Free_City_of_Haven, import, landmark, thieves-market, type-butcher]
+title: "Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products"
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-Vaunea, a (relatively) slender and rather short (only 6'8") female goliath, deals in fresh poultry and their eggs. Despite her size and apparent clumsiness, she has never been known to drop or crush an egg (people, yes - but never an egg!). 
+
+Vaunea, a (relatively) slender and rather short (only 6'8") female goliath, deals in fresh poultry and their eggs. Despite her size and apparent clumsiness, she has never been known to drop or crush an egg (people, yes - but never an egg!).
 
 Her "baby" (6'4", 280 lbs. of muscle) boy, Rovon who hasn't earned his nickname yet, assists her with the stall. He drops eggs - he is also very rambunctious for a 7 year old.
 
@@ -49,11 +58,9 @@ Becoming friendly with Vaunea is an "in" with Benzantree, the goliath mercenary 
 
 **Image:** n/a
 
-**Shop / Butcher** 
-
+**Shop / Butcher**
 
  **Location:**  Thieves Market
-
 
  **Map Reference:**  TM-04
 
@@ -61,12 +68,13 @@ Becoming friendly with Vaunea is an "in" with Benzantree, the goliath mercenary 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Market stall
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -102,7 +110,9 @@ Becoming friendly with Vaunea is an "in" with Benzantree, the goliath mercenary 
  **Purse:**  20gp
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** c407464f-6e93-4dfb-b85e-ea3f0cddedc2<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -111,7 +121,9 @@ Becoming friendly with Vaunea is an "in" with Benzantree, the goliath mercenary 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

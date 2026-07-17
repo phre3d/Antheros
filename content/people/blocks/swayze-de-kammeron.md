@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Swayze de Kammeron
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Swayze de Kammeron
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +6 to hit , 1d8+3 slashing damage  
   **Rapier:**  +6 to hit , 1d8+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

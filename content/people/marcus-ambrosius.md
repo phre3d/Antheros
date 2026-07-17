@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-cauldron]
+title: Marcus Ambrosius
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Marcus Ambrosius
 
-### 
+###
 
-**Full Name:**  Marcus  Ambrosius    
+**Full Name:**  Marcus  Ambrosius
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A retired mercenary who runs a hostel for mercenaries staying in town.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marcus-ambrosius]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

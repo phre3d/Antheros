@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Turlough Waverider
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Turlough Waverider
 
-### 
+###
 
-**Full Name:**  Turlough  Waverider    
+**Full Name:**  Turlough  Waverider
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: The Illustrated Man
 
 ---
 
-
-
 ![[people/blocks/turlough-waverider]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

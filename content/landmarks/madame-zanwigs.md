@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-magic #mages-guild #magic
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, the-labyrinth, type-magic]
+title: "Madame Zanwig's"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Madame Zanwig's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/madame-zanwig|Madame Zanwig]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Magic (Shopping)** 
+**Magic (Shopping)**
 
  **Owner:**  Madame Zanwig
 
@@ -58,12 +68,13 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Magic
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** bf56c5a6-a1ae-4c68-ae5f-799447f457b2<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

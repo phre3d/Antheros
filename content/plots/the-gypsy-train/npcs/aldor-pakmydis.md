@@ -1,21 +1,18 @@
 ---
+aliases: []
 cr_type: person
 cr_id: aldor-pakmydis
 name: Aldor Pakmydas
 sex: male
 born: 1155
-tags:
-  - npc
-  - person
-  - The_Gypsy_Train
-date modified: 2026-06-12, 3:33:38 pm
+tags: [npc, person, plot/The_Gypsy_Train]
+date modified: 2026-07-16, 9:18:12 pm
 twin: "[[plots/the-gypsy-train/npcs/albar-pakmydis]]"
 twin_id: albar-pakmydis
 father: "[[ambrosis-pakmydis|Ambrosis Pakmydas]]"
 father_id: ambrosis-pakmydis
+title: Aldor Pakmydas
 ---
-
-#person #npc #The_Gypsy_Train
 
 # Aldor Pakmydas
 

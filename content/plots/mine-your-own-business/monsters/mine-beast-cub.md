@@ -1,4 +1,9 @@
-#import #statblock #monster 
+---
+aliases: []
+tags: [import, monster, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -38,14 +43,21 @@ Small monstrosity unaligned
 ![[~attachments/dndline.png]]
 
 # Actions
-### Bite 
+
+### Bite
+
   **Melee Weapon Attack: ** +4 to hit, reach 5 ft., one target.
-  **Hit:**  4  piercing damage. 
-### Claw 
-  **Melee Weapon Attack:**  +4 to hit, reach 5 ft., one target. 
+
+  **Hit:**  4  piercing damage.
+
+### Claw
+
+  **Melee Weapon Attack:**  +4 to hit, reach 5 ft., one target.
+
   **Hit: ** 5  slashing damage
 
 ## Usual Tactics
-### Pack Tactics 
- The Cub Beast has advantage on an atack roll against a creature if at least one of the Cub Beast's allies is within 5 feet of the creature and the ally isn't incapacitated.<br>
 
+### Pack Tactics
+
+ The Cub Beast has advantage on an atack roll against a creature if at least one of the Cub Beast's allies is within 5 feet of the creature and the ally isn't incapacitated.<br>

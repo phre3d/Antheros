@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Puppet Show Thief
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Puppet Show Thief
 
-### 
+###
 
-**Full Name:**  Thief      
+**Full Name:**  Thief
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Used in Street Encounter: Puppets
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/puppet-show-thief]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

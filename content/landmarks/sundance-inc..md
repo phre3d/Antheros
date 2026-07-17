@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-shop #type-dance #guild-of-entertainers #dance
+---
+aliases: []
+tags: [cat-shop, dance, Free_City_of_Haven, guild/entertainers, import, landmark, street-of-harps, type-dance]
+title: Sundance - Inc.
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Sundance - Inc.
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Elicia and [[people/koali-mazurka|Koali Mazurka]] 
 
-## Description 
+# Description
+
+## Elicia and [[people/koali-mazurka|Koali Mazurka]]
+
+## Description
+
 A dance company that incorporates magic and illusion with the dance media. Koali is an illusionist, and provides for the dazzling special effects with their dancers. Elicia is the director and choreographer for their troupe of 12 men and women.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/elicia-mazurka|Elicia Mazurka]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ A dance company that incorporates magic and illusion with the dance media. Koali
 
 **Image:** n/a
 
-**Dance (Service)** 
+**Dance (Service)**
 
  **Owner:**  Koali Mazurka
 
@@ -63,12 +74,14 @@ A dance company that incorporates magic and illusion with the dance media. Koali
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Dance club
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ A dance company that incorporates magic and illusion with the dance media. Koali
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5261ae43-1da1-4bc3-a079-3ba9760082f6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -93,7 +107,9 @@ A dance company that incorporates magic and illusion with the dance media. Koali
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

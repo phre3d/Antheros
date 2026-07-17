@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Mercenary E4
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mercenary E4
 
-### 
+###
 
-**Full Name:**  Mercenary  E4    
+**Full Name:**  Mercenary  E4
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary E4
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-e4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

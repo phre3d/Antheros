@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -41,17 +46,20 @@ Small Plant unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **False Appearance.**  While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Rake** 
+
+**Rake**
+
   *Melee Attack:*  +1 to hit , reach 5 ft., one target.  
   *Hit:*   or 1 slashing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
-An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.
 
+An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.

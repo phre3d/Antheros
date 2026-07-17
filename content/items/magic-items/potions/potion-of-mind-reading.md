@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Mind Reading
+date modified: 2026-07-16, 9:19:00 pm
+---
+
 # Potion of Mind Reading
 
 >[!info]
@@ -7,38 +13,40 @@
 >**Effect Category:** Spell
 >
 >**Application:**Ingest <br>
->**Duration:** 1 minute 
+>**Duration:** 1 minute
 >
 >**Price:** 450gp
 
-
 ## Description
+
 A potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 
 ## Effects
+
 When you drink this potion, you gain the effect of the detect thoughts spell (save DC 13).
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
+
 **Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  <br>
 **Spell Needed:** *Detect Thoughts* <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Distilled alcohol <br>
 *Essence(s):*  Air    Life  Shadow   <br>
 *Spell Emulated:* *Detect Thoughts*
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

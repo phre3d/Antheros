@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-wainwright #crafters-guild #wainwright
+---
+aliases: []
+tags: [cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, the-labyrinth, type-wainwright, wainwright]
+title: "Paddy's Wagons"
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Paddy's Wagons
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Wainwright (Shopping)** 
+**Wainwright (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 273c737b-332f-4455-a623-59c331a8f9ae<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
-location: [4060.901,  625.51]
+aliases: []
+tags: [map-marker]
+location: [4060.901, 625.51]
 mapmarker: Shopping
+title: Borin - Clockmaker
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Borin - Clockmaker
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/borin-clockmaker|Borin - Clockmaker]]<br>
 **Location Type:** Timepieces
 
-**Description**<br> 
-
+**Description**<br>

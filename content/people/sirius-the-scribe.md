@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, trade-island]
+title: Sirius the Scribe
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sirius the Scribe
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ An old man with thin white hair; his eyes and hand are no longer what they were,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sirius-the-scribe]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

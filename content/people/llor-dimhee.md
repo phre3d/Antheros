@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person, the-commons]
+title: Llor Dimhee
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Llor Dimhee
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Llor is currently unmarried (his wife died about three years ago), has little to
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/llor-dimhee]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

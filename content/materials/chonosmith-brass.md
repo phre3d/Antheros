@@ -1,4 +1,10 @@
-#import #material #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, material]
+title: Chonosmith Brass
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Chonosmith Brass
 
 ````col
@@ -89,7 +95,9 @@ A special alloy named in honor of [[person/constantine-chronosmith|Constantine C
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

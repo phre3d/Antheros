@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Zipper
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Zipper
 
 ````col
@@ -37,40 +43,18 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 Thaumaturgy (cantrip)
 
 ## Cast Once per Day
-**Racial** 
+
+**Racial**
+
 @3rd Level:  **Hellish Rebuke**  | @5th Level:  **Darkness**
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +6 to hit , 1d4+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

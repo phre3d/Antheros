@@ -1,44 +1,63 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-shop #type-scribe #guild-of-the-word #scribe
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/word, import, landmark, scribe, street-of-harps, type-scribe]
+title: Music Copiers
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Music Copiers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## [[people/bennichio-lapiz|Bennichio Lapiz]], prop. 
 
-## Description 
+# Description
+
+## [[people/bennichio-lapiz|Bennichio Lapiz]], prop.
+
+## Description
+
 [[people/bennichio-lapiz|Bennichio Lapiz]] is a plump, mild little man with thinning hair. His voice tends to squeak when excited, and usually deals with the customers.
 
-## Exterior 
+## Exterior
+
 This building is rather nondescript, and the only indication of the shops presence is the small sign over the open door.
 
-## Interior 
+## Interior
+
 The front room of the shop has racks along the walls showing samples of the careful work of these specialized scribes.
 
-## Hours 
+## Hours
+
 9:00am - 4:00pm
 
-## Price Range 
+## Price Range
+
 High
 
-## Quality 
+## Quality
+
 Excellent
 
-## Cash Box 
+## Cash Box
+
 the cash box is kept in Bennichio's desk drawer. Trapped with a needle, save vs CON or sleep 8 hours. 3d10gp.
 
-## Staff 
+## Staff
+
 The chief scribe, [[people/farris|Farris]], usually oversees the work and keeps the rowdy apprentices and journeymen under control and productive. [[people/farris|Farris]] is not above boxing a boy's ears for careless scribing or avoidable errors.
 
-## Customers 
+## Customers
+
 There is a 40% chance of 1d8 customers at any time with an additional 75% chance of an additional 2d3 during lunch hours (11:30am - 1:00pm).
 
-## Outstanding Items 
+## Outstanding Items
+
 This shop puts out very high quality products, and is very well known, thus Bennichio does not feel he needs fancy (as well as expensive) frills. The shop is very Spartan, and little is wasted.
 
 # Purpose / Function
@@ -75,7 +94,7 @@ This shop puts out very high quality products, and is very well known, thus Benn
 
 **Image:** n/a
 
-**Scribe (Shopping)** 
+**Scribe (Shopping)**
 
  **Owner:**  Bennichio Lapiz
 
@@ -87,12 +106,14 @@ This shop puts out very high quality products, and is very well known, thus Benn
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -109,6 +130,7 @@ This shop puts out very high quality products, and is very well known, thus Benn
 ---
 
 ### World Anvil Metadata
+
 **Id:** ea378301-58f6-4f7e-98c7-fd361656086f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -117,7 +139,9 @@ This shop puts out very high quality products, and is very well known, thus Benn
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

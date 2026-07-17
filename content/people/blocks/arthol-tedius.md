@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Arthol Tedius
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Arthol Tedius
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortbow:**  +4 to hit , 1d6+2 piercing damage  
   **Shortsword:**  +4 to hit , 1d6+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

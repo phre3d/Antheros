@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-cauldron]
+title: Oskro
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Oskro
 
-### 
+###
 
-**Full Name:**  Oskro      
+**Full Name:**  Oskro
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Oskro the innkeeper is a grouchy old fellow who suffers from rheumatism, gout, i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/oskro]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

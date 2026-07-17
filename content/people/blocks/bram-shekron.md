@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Bram Shekron
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Bram Shekron
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortsword:**  +7 to hit , 1d6+4 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

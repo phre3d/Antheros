@@ -1,8 +1,14 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: Shopping
+date modified: 2026-07-16, 9:18:38 pm
+---
 
 **Map Name:** Thieves Market
 
 **Markers in the group:**
+
 - [[maps/thieves-market/markers/frogals|Frogal's]]
 - [[maps/thieves-market/markers/biff-tekk-butcher|Biff Tekk - Butcher]]
 - [[maps/thieves-market/markers/vaunea-dawncaller-kolae-gileana-poultry-products|Vaunea 'Dawncaller' Kolae-Gileana - Poultry Products]]
@@ -14,4 +20,3 @@
 - [[maps/thieves-market/markers/vorikooreis-herbs-minor-potions|Vorikooreis - Herbs & Minor Potions]]
 - [[maps/thieves-market/markers/brodskys|Brodsky's]]
 - [[maps/thieves-market/markers/beydom-son-general-goods|Beydom & Son General Goods]]
-

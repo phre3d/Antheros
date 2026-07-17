@@ -1,8 +1,12 @@
 ---
-location: [2766.003,  913.265]
+aliases: []
+tags: [map-marker]
+location: [2766.003, 913.265]
 mapmarker: Shopping
+title: "Mudikar's Saddlery and Tack Shop"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mudikar's Saddlery and Tack Shop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/mudikars-saddlery-and-tack-shop|Mudikar's Saddlery and Tack Shop]]<br>
 **Location Type:** Saddler
 
-**Description**<br> 
-
+**Description**<br>

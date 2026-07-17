@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Bianca
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bianca
 
-### 
+###
 
 **Full Name:**  Bianca      Lady Byelaya Tainley
 
@@ -211,13 +217,12 @@ Bianca/Byelaya is a natural courtesan - she enjoys men and women and her clients
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bianca-aka-lady-byelaya-tainley]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

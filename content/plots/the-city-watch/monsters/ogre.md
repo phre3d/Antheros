@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Actions
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,9 +43,11 @@ Large giant chaotic evil
 ![[~attachments/dndline.png]]
 
 # Actions
-**Greatclub** 
+
+**Greatclub**
+
   *Melee Attack:*  +6 to hit , reach 5 ft., one target.  
-  *Hit:*   or 13 bludgeoning damage.    **Javelin** 
+  *Hit:*   or 13 bludgeoning damage.    **Javelin**
+
   *Melee or Ranged Attack:*  +6 to hit , reach 5 ft. or range 30/120 ft., one target.  
   *Hit:*   or 11piercing damage.
-

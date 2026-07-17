@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Resoom
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Resoom
 
-### 
+###
 
-**Full Name:**  Resoom      
+**Full Name:**  Resoom
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ The Guild's Librarian is a tall but plain fellow with a permanently disheveled l
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/resoom]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

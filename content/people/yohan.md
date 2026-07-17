@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor]
+title: Yohan
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Yohan
 
-### 
+###
 
-**Full Name:**  Yohan      
+**Full Name:**  Yohan
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Olive-skinned, longish dark hair, tied-back in a ponytail; bearded, with dark, r
 
 ---
 
-
-
 ![[people/blocks/yohan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

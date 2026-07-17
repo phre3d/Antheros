@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-landmark #type-ruin #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-south-corridor, type-ruin]
+title: Condemned Building
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Condemned Building
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Like it says…condemned 
 
-## Description 
+# Description
+
+## Like it says…condemned
+
+## Description
+
 A long abandoned building left to crumble. The doors and windows are boarded up
 
 # Purpose / Function
@@ -48,7 +58,7 @@ A long abandoned building left to crumble. The doors and windows are boarded up
 
 **Image:** n/a
 
-**Ruin (Landmark)** 
+**Ruin (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ A long abandoned building left to crumble. The doors and windows are boarded up
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Ruins
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A long abandoned building left to crumble. The doors and windows are boarded up
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0c787363-7c7b-4c63-904e-074ba1361493<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ A long abandoned building left to crumble. The doors and windows are boarded up
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

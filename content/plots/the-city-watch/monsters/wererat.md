@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:12 pm
+---
 
 ````col
 ```col-md
@@ -40,16 +45,22 @@ Medium humanoid lawful evil
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Shapechanger.**  The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.   **Keen Smell.**  The were rat has advantage on Wisdom (Perception) checks that rely on smell.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Multiattack (Humanoid or Hybrid Form Only). ** The were rat makes two attacks, only one of which can be a bite.    **Bite (Rat or Hybrid Form Only)** 
-  *Melee Attack:*  +4 to hit , reach 5 ft., one target. 
-  *Hit:*  4  piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with were rat lycanthropy.    **Shortsword (Humanoid or Hybrid Form Only). ** 
-  *Melee Attack:*  +4 to hit , reach 5 ft., one target.  
-  *Hit:*   or 5 piercing damage.    **Hand Crossbow (Humanoid or Hybrid Form Only). ** 
-  *Ranged Attack:*  +4 to hit , range 30/120 ft., one target. 
-  *Hit:*   or 5 piercing damage.
 
+**Multiattack (Humanoid or Hybrid Form Only). ** The were rat makes two attacks, only one of which can be a bite.    **Bite (Rat or Hybrid Form Only)**
+
+  *Melee Attack:*  +4 to hit , reach 5 ft., one target.
+
+  *Hit:*  4  piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with were rat lycanthropy.    **Shortsword (Humanoid or Hybrid Form Only). **
+
+  *Melee Attack:*  +4 to hit , reach 5 ft., one target.  
+  *Hit:*   or 5 piercing damage.    **Hand Crossbow (Humanoid or Hybrid Form Only). **
+
+  *Ranged Attack:*  +4 to hit , range 30/120 ft., one target.
+
+  *Hit:*   or 5 piercing damage.

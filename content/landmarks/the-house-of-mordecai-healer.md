@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-labyrinth, type-house]
+title: The House of Mordecai - Healer
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The House of Mordecai - Healer
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/mordecai|Mordecai]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  Mordecai
 
@@ -58,12 +68,13 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House, Large
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** b7a6ea91-ed45-409a-a5e4-98865fe88c01<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

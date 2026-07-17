@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Merchant 3
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Merchant 3
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Handaxe:**  +5 to hit , 1d6+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

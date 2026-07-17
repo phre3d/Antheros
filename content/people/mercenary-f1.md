@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Mercenary F1
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mercenary F1
 
-### 
+###
 
-**Full Name:**  Mercenary  F1    
+**Full Name:**  Mercenary  F1
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary F1
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-f1]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

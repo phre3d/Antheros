@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-labyrinth]
+title: Kerral Bramer
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kerral Bramer
 
-### 
+###
 
-**Full Name:**  Kerral  Bramer    
+**Full Name:**  Kerral  Bramer
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See scenario [[plots/invitation-to-a-???|Invitation to a ???]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kerral-bramer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

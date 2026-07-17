@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Picket Post Merchandise
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Picket Post Merchandise
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/pickett-post-merchandise|Pickett Post Merchandise]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

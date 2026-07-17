@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #crafters-guild #the-dell #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-dell, thieves-guild]
+title: Wilham Took
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Wilham Took
 
-### 
+###
 
-**Full Name:**  Wilham  Took    
+**Full Name:**  Wilham  Took
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ A greying, weathered old halfling in his nineties, and his five craftsmen design
 
 ---
 
-
-
 ![[people/blocks/wilham-took]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

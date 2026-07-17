@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-docks, type-tavern]
+title: "Soul's Anchor"
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Soul's Anchor
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Dockfront dive for sailors who can't be bothered for walk far
 
 # Purpose / Function
@@ -45,7 +54,7 @@ shadow: off
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -57,12 +66,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** cf5dc2e7-53ec-4a2f-bad2-1a3bd8519181<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

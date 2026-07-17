@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-beast #the-south-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/beast, import, person, the-south-corridor]
+title: Numirolakos
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Numirolakos
 
-### 
+###
 
-**Full Name:**  Numirolakos      
+**Full Name:**  Numirolakos
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Legend has it that a centaur trained horse will only throw a cruel master and Nu
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/numirolakos]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

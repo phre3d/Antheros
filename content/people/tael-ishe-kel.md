@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: "Tael I'she-Kel"
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tael I'she-Kel
 
-### 
+###
 
-**Full Name:**  Tael  I'she-Kel    
+**Full Name:**  Tael  I'she-Kel
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A money-changer who has a stall in the [[settlement/thieves-market|Thieves' Mark
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tael-ishe-kel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

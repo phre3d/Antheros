@@ -1,6 +1,12 @@
- #monster #Mimic_Mayhem
+---
+aliases: []
+tags: [plot/Mimic-Mayhem, monster]
+title: Medium Mimic
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 # Medium Mimic
+
 medium monstrosity, neutral
 
 **Armour Class:** 14 (natural armour)<br>
@@ -32,6 +38,7 @@ medium monstrosity, neutral
 ---
 
 # Special Abilities
+
 **Shapechanger.** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Equipment is not transformed. It reverts to its true form if it dies.
 
 **False Appearance** (Object Form Only). While motionless, the mimic is indistinguishable from an ordinary object.
@@ -47,6 +54,7 @@ medium monstrosity, neutral
 ---
 
 # Actions
+
 <mark style="background:#fff88f">**Multi-Attack.** The mimic can make two attacks. One with its pseudopod and one with its bite.</mark>
 
 **Pseudopod.** <br>
@@ -69,4 +77,3 @@ medium monstrosity, neutral
 |13 to 30 | Add only the green special abilities.|
 |31 to 48 | Add the green and yellow special abilities.|
 |49 to 78 | Use all the colored special abilities |
-

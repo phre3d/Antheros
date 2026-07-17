@@ -1,4 +1,10 @@
-#import #plot  #The_City_Watch
+---
+aliases: []
+tags: [import, plot, plot/The_City_Watch]
+title: "TCW: Chickens"
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # TCW: Chickens
 
 ````col

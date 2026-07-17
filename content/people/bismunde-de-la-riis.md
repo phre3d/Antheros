@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Bismunde de la Riis
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bismunde de la Riis
 
-### 
+###
 
-**Full Name:**  Bismunde  de la Riis    
+**Full Name:**  Bismunde  de la Riis
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bismunde-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

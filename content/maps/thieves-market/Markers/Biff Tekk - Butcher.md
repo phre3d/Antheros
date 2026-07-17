@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Biff Tekk - Butcher
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Biff Tekk - Butcher
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,6 @@ mapmarker: Shopping
 **Location:** [[landmarks/biff-tekk-butcher|Biff Tekk - Butcher]]<br>
 **Location Type:** Butcher
 
-**Description**<br> 
+**Description**<br>
+
 One can usually get meats ranging from mutton to pork to beef from this butcher wagon. Fancy meats like veal or lamb are available only occasionally

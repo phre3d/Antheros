@@ -1,8 +1,12 @@
 ---
-location: [1363.962,  3753.061]
+aliases: []
+tags: [map-marker]
+location: [1363.962, 3753.061]
 mapmarker: Shopping
+title: "Malikor's Exchange"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Malikor's Exchange
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/malikors-exchange|Malikor's Exchange]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

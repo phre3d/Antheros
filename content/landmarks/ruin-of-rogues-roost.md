@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-landmark #type-ruin #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-labyrinth, type-ruin]
+title: "Ruin of Rogues' Roost"
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Ruin of Rogues' Roost
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## The former citadel of crime 
 
-## Description 
+# Description
+
+## The former citadel of crime
+
+## Description
+
 A burned-out shell of what was once a large warehouse, only part of the walls are left standing, and the lot is filled with rubble. In fact, there is little more than rubble left along almost the entire street, as the fire spread throughout the west side of Cust Way. This was the former headquarters of the Thieves Guild, burned down in a daring raid by [[organizations/criminal/the-black-hand|The Black Hand]] six months ago. Some say (though not too loudly in this part of town) that the power of the Guild, symbolized by the Roost, may be permanently on the wane.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ A burned-out shell of what was once a large warehouse, only part of the walls ar
 
 **Image:** n/a
 
-**Ruin (Landmark)** 
+**Ruin (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ A burned-out shell of what was once a large warehouse, only part of the walls ar
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Ruins
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A burned-out shell of what was once a large warehouse, only part of the walls ar
 ---
 
 ### World Anvil Metadata
+
 **Id:** d9093b23-a675-45a8-8547-ebe9af0fbc68<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -90,7 +103,9 @@ A burned-out shell of what was once a large warehouse, only part of the walls ar
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

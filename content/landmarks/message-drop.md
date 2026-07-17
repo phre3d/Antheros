@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-landmark #type-fountain #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-south-corridor, type-fountain]
+title: Message Drop
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Message Drop
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Nothing really spectacular 
 
-## Description 
+# Description
+
+## Nothing really spectacular
+
+## Description
+
 A loose stone in a fountain near the center of the Plaza of Troubadours serves [[organizations/criminal/the-black-hand|The Black Hand]] as a convenient message drop. The hole beneath the well-concealed stone is large enough to accommodate a small scroll case.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ A loose stone in a fountain near the center of the Plaza of Troubadours serves [
 
 **Image:** n/a
 
-**Fountain (Landmark)** 
+**Fountain (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ A loose stone in a fountain near the center of the Plaza of Troubadours serves [
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Fountain
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A loose stone in a fountain near the center of the Plaza of Troubadours serves [
 ---
 
 ### World Anvil Metadata
+
 **Id:** b1408f12-fdda-4093-94a1-be369d669fa8<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ A loose stone in a fountain near the center of the Plaza of Troubadours serves [
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,20 +1,30 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-guild #type-guildhouse #thieves-guild #guild
+---
+aliases: []
+tags: [cat-guild, Free_City_of_Haven, guild, import, landmark, the-labyrinth, thieves-guild, type-guildhouse]
+title: "The Thieves' Guild House"
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Thieves' Guild House
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A new beginning for an established group 
 
-## Description 
+# Description
+
+## A new beginning for an established group
+
+## Description
+
 The new Guild house is located along Shadowfall Street, where a series of row houses was built years ago adjacent to a now defunct warehouse complex. Some of the houses are inhabited by typical Labyrinthers, many of whom have lived in the neighborhood for years. Others are abandoned shells, filled with debris and fallen timbers. Some are long boarded up, haphazard beams nailed across rotting doorways and gaping windows in a jumbled panoply of angular, jagged boards. Other houses exist in the warehouse yards. Once the homes of warehouse personnel, they too are long abandoned, or are the present homes of drunkards and beggars, too poor to live elsewhere.
 
-This is how the neighborhood seems. In actuality, some of the boarded up houses have back corridors or crawlspaces, allowing easy and unseen passage between sections of the complex. Some of the owners of houses in good condition are Thieves Guild members, who provide entrance into the complex, and often, back walls have been opened or torn down to provide access to the warehouses behind (access may also be had via the maze of catacombs beneath Kurgan's Hill known as the Forgotten City).  A number of sentinels posted on rooftops or in houses across the street guard the new Guild House. Armed with compound bows, they are ready to deal death to any new attempts of [[organizations/criminal/the-black-hand|The Black Hand]] to destroy the Guild. 
+This is how the neighborhood seems. In actuality, some of the boarded up houses have back corridors or crawlspaces, allowing easy and unseen passage between sections of the complex. Some of the owners of houses in good condition are Thieves Guild members, who provide entrance into the complex, and often, back walls have been opened or torn down to provide access to the warehouses behind (access may also be had via the maze of catacombs beneath Kurgan's Hill known as the Forgotten City).  A number of sentinels posted on rooftops or in houses across the street guard the new Guild House. Armed with compound bows, they are ready to deal death to any new attempts of [[organizations/criminal/the-black-hand|The Black Hand]] to destroy the Guild.
 
 The warehouses themselves serve as convenient meeting places, and good training areas. The complex walls have been surreptitiously strengthened where necessary, and lined with broken glass to make scaling difficult. The interior houses provide homes for the Guild House staff, and places to keep records, files, archives, and the like. Trusted sworn swords patrol even the interior, and movements within the area require knowledge of passwords. The Thieves Guild has become careful, and security is tight.
 
@@ -50,7 +60,8 @@ The following is a more specific layout of the different buildings in the comple
 
   **M.	[[landmarks/thieves-guild-meeting-hall|Thieves' Guild Meeting Hall]] (TI):**  The main meeting hall, used for large meetings of Guild Masters, initiations, ceremonies, and other purposes. When not in use, all trappings are removed, leaving what appears to be an abandoned warehouse. The door to the alley is locked unless a meeting is planned.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/resoom|Resoom]] | [[people/arquephus|Arquephus]] | [[people/sulemon-duur|Sulemon Duur]] | [[people/gidri|Gidri]] | [[people/gossij|Gossij]] | [[people/lando-buckminister|Lando Buckminister]] | [[people/evan-monier|Evan Monier]] | [[people/lefty-grazziano|Lefty Grazziano]] | [[people/cruncher-mcgee|Cruncher McGee]] | [[people/foxcraft-q.-pennywhistle|Foxcraft Q. Pennywhistle]] | [[people/merrick|Merrick]] | [[people/dragontooth|Dragontooth]] | [[people/raven|Raven]] | [[people/rioldi-thorn|Rioldi Thorn]] | [[people/sarasin-mour|Sarasin Mour]] | [[people/ernie|Ernie]] | [[people/mugs|Mugs]] | [[people/dickens|Dickens]] | [[people/custer|Custer]] | [[people/yacobur|Yacobur]] | [[people/chalka|Chalka]]
 
 # Purpose / Function
@@ -87,7 +98,7 @@ The following is a more specific layout of the different buildings in the comple
 
 **Image:** n/a
 
-**Guildhouse (Guild)** 
+**Guildhouse (Guild)**
 
  **Owner:**  
 
@@ -99,12 +110,14 @@ The following is a more specific layout of the different buildings in the comple
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guildhall
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -121,6 +134,7 @@ The following is a more specific layout of the different buildings in the comple
 ---
 
 ### World Anvil Metadata
+
 **Id:** bb82a2b9-aaf5-4075-b2be-e0f51becdac0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -129,7 +143,9 @@ The following is a more specific layout of the different buildings in the comple
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

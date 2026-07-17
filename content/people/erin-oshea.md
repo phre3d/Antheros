@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: "Erin O'Shea"
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Erin O'Shea
 
-### 
+###
 
-**Full Name:**  Erin  O'Shea    
+**Full Name:**  Erin  O'Shea
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ A lovely young woman completely devoted to Kelly O-Shea whom she recently marrie
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/erin-oshea]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

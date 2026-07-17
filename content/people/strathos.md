@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Strathos
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Strathos
 
-### 
+###
 
-**Full Name:** God of War, Strength, and Courage; Patron of Warriors       
+**Full Name:** God of War, Strength, and Courage; Patron of Warriors
 
 `````col
 ````col-md
@@ -219,13 +225,10 @@ A large red bullseye of four concentric circles.
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 74a5fbe1-efe8-4723-b118-35eec9865113

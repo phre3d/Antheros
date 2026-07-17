@@ -1,8 +1,12 @@
 ---
-location: [3244.574,  7002.041]
+aliases: []
+tags: [map-marker]
+location: [3244.574, 7002.041]
 mapmarker: City Guard
+title: Coppergate Barracks
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Coppergate Barracks
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/coppergate-barracks|Coppergate Barracks]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

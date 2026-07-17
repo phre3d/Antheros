@@ -1,8 +1,12 @@
 ---
-location: [2289.472,  914.286]
+aliases: []
+tags: [map-marker]
+location: [2289.472, 914.286]
 mapmarker: Shopping
+title: "Bolihank's Feed and Grain"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bolihank's Feed and Grain
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/bolihanks-feed-and-grain|Bolihank's Feed and Grain]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

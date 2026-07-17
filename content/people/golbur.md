@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #jewelers-guild #the-dwarrow
+---
+aliases: []
+tags: [Free_City_of_Haven, import, jewelers-guild, person, the-dwarrow]
+title: Golbur
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Golbur
 
-### 
+###
 
-**Full Name:**  Golbur      
+**Full Name:**  Golbur
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A dealer in cut and uncut stones, he dresses rather foppishly, in brightly color
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/golbur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

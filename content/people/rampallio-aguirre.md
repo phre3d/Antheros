@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Rampallio Aguirre
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Rampallio Aguirre
 
-### 
+###
 
-**Full Name:**  Rampallio  Aguirre    
+**Full Name:**  Rampallio  Aguirre
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Squire to [[person/bruning-de-la-riis|Bruning de la Riis]] for the last twelve y
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rampallio-aguirre]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-docks]
+title: Tiny
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tiny
 
-### 
+###
 
-**Full Name:**  Tiny      
+**Full Name:**  Tiny
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The proprietor of [[landmark/the-crystal-ship|The Crystal Ship]] is an immense, 
 
 ---
 
-
-
 ![[people/blocks/tiny]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

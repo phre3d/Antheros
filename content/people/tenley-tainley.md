@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Tenley Tainley
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tenley Tainley
 
-### 
+###
 
-**Full Name:** Sir Tenley  Tainley    
+**Full Name:** Sir Tenley  Tainley
 
 `````col
 ````col-md
@@ -218,13 +224,12 @@ Given his predilections for the outdoor life, he tends to dress rather ruggedly,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tenley-tainley]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

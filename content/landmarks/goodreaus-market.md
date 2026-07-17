@@ -1,26 +1,39 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-shop #type-victualer #guild-of-provenders #victualer
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-heights, type-victualer, victualer]
+title: "Goodreau's Market"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Goodreau's Market
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Everything you want in a shop and a little bit more 
 
-## Description 
+# Description
+
+## Everything you want in a shop and a little bit more
+
+## Description
+
 [[people/goodreau|Goodreau]] carries a varied selection of fresh meats (kept in a magically constructed Cold storage box), fruits and dairy products, all of good quality. Most of the patrons of the store are the kitchen servants of the estates. Consequently, there is a great deal of gossip passed back and forth over the counter here (only about 40% of it true).
 
-## Price Range 
+## Price Range
+
 Fair.
 
-## Quality 
+## Quality
+
 Good.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/graella-maggia|Graella Maggia]]
 
 # Purpose / Function
@@ -57,7 +70,7 @@ Good.
 
 **Image:** n/a
 
-**Victualer (Shopping)** 
+**Victualer (Shopping)**
 
  **Owner:**  Goodreau
 
@@ -69,12 +82,14 @@ Good.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -91,6 +106,7 @@ Good.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 40d89b21-19b9-4402-9f89-66ed04f8da1d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -99,7 +115,9 @@ Good.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

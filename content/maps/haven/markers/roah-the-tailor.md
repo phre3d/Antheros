@@ -1,8 +1,12 @@
 ---
-location: [1093.554,  3879.592]
+aliases: []
+tags: [map-marker]
+location: [1093.554, 3879.592]
 mapmarker: Shopping
+title: Roah the Tailor
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Roah the Tailor
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/roah-the-tailor|Roah the Tailor]]<br>
 **Location Type:** Tailor
 
-**Description**<br> 
-
+**Description**<br>

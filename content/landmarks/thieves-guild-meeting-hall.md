@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-guild #type-guildhouse #guild
+---
+aliases: []
+tags: [cat-guild, Free_City_of_Haven, guild, import, landmark, the-labyrinth, type-guildhouse]
+title: "Thieves' Guild Meeting Hall"
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Thieves' Guild Meeting Hall
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Central hall for guild meetings 
 
-## Description 
+# Description
+
+## Central hall for guild meetings
+
+## Description
+
 The main meeting hall, used for large meetings of guild leaders, initiations, ceremonies, and other purposes. When not in use, all trappings are removed, leaving what appears to be an abandoned warehouse. The door to the alley is locked unless a meeting is planned.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The main meeting hall, used for large meetings of guild leaders, initiations, ce
 
 **Image:** n/a
 
-**Guildhouse (Guild)** 
+**Guildhouse (Guild)**
 
  **Owner:**  
 
@@ -60,12 +70,13 @@ The main meeting hall, used for large meetings of guild leaders, initiations, ce
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guildhall
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ The main meeting hall, used for large meetings of guild leaders, initiations, ce
 ---
 
 ### World Anvil Metadata
+
 **Id:** ab9730d0-fb57-454f-8298-83418b61a7b2<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ The main meeting hall, used for large meetings of guild leaders, initiations, ce
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #blackbourne-family #the-heights #npc
+---
+aliases: []
+tags: [blackbourne-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Marcus Blackbourne
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Marcus Blackbourne
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ The second son, Marcus is in his third year of apprenticeship as a cloth trader;
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marcus-blackbourne]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,17 +43,20 @@ Huge monstrosity unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 Standing Leap. The mole dragon''s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Bite** 
+
+**Bite**
+
   *Melee Attack:*  +3 to hit , reach 5 ft., one target  
   *Hit:*   or 16 piercing damage
 
 ![[~attachments/dndline.png]]
 
 # Description
-Not a true dragon, but rather a larger, slower cousin to the Bulette (MM pg 34)
 
+Not a true dragon, but rather a larger, slower cousin to the Bulette (MM pg 34)

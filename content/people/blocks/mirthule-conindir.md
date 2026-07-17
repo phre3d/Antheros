@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mirthule Conindir
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mirthule Conindir
 
 ````col
@@ -37,43 +43,17 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
-**Racial** 
+
+**Racial**
 
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +2 to hit , 1d4+0 piercing damage  
   **Longsword:**  +2 to hit , 1d8+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

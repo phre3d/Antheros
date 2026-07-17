@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [npc, person, plot/The_Gypsy_Train]
 cr_type: person
 cr_id: ezerina-galinys
 name: Ezerina Galinys
 sex: female
 spouse: "[[rymvid-galinys|Rymivd Galinys]]"
 spouse_id: rymvid-galinys
+title: Ezerina Galinys
+date modified: 2026-07-16, 9:18:12 pm
 ---
-#person #npc #The_Gypsy_Train 
+
 # Ezerina Galinys
+
 size, race (type), alignment
 
 **Profession:**
@@ -33,11 +38,10 @@ size, race (type), alignment
 **Languages:** <br>
 **Challenge:**  / (XP)<br>
 **Senses:** <br>
-**Skills:** 
+**Skills:**
 
 >[!infobox]
 >IMAGE
->
 
 ---
 
@@ -46,7 +50,7 @@ size, race (type), alignment
 **Ideals:** <br>
 **Bonds:** <br>
 **Flaws:** <br>
-**Suggested Environments** 
+**Suggested Environments**
 
 ---
 
@@ -59,13 +63,15 @@ size, race (type), alignment
 ---
 
 # Actions
+
 **Long Sword.**<br>
 *Attack:*      <br>
-*Hit:*    
+*Hit:*
 
 **Dagger +2.**<br>
 *Attack:*      <br>
 *Hit:*
 
 ---
+
 **Source:** [[plots/the-gypsy-train/the-gypsy-train|The Gypsy Train]]

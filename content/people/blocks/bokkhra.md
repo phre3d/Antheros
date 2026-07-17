@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Bokkhra
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Bokkhra
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +10 to hit , 1d4+8 bludgeoning damage  
   **Bite:**  +10 to hit , 1d6+12 piercing damage  
   **Claw:**  +10 to hit , 2d6+12 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

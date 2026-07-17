@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #hochritter-family #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, hochritter-family, import, npc, person]
+title: Willetta Hochritter
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Willetta Hochritter
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -199,13 +205,10 @@ Dughter of [[person/mathilde-hochritter|Mathilde Hochritter]]. Currently living 
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

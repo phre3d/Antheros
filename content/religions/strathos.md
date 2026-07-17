@@ -1,29 +1,39 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Strathos
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Strathos
 
-God of War, Strength, and Courage; Patron of Warriors     
+God of War, Strength, and Courage; Patron of Warriors
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Strathos is a warrior's god, and is extremely popular with most of those who follow the ways of battle.  Follower ascribe to a code for the warrior, with the promise of an eternal life in a Valhalla-like setting for those who follow the code to the best of their ability.
 
-There is no acknowledged high priest/priestess for Strathos. In fact, all clergy of Strathos are old soldiers, former fighters whose wounds have retired them from the battlefield. Since great cunning (tactical ability and strategic genius) in one's leaders is much respected among fighting troops, most of the clergy are referred to as Uncle/Aunt Fox. Those of great physical prowess are called Uncle/Aunt Bear. 
+There is no acknowledged high priest/priestess for Strathos. In fact, all clergy of Strathos are old soldiers, former fighters whose wounds have retired them from the battlefield. Since great cunning (tactical ability and strategic genius) in one's leaders is much respected among fighting troops, most of the clergy are referred to as Uncle/Aunt Fox. Those of great physical prowess are called Uncle/Aunt Bear.
 
 The professed clergy of Strathos wear normal clothing with an over-tunic of white with a large red bullseye (a series of 4 concentric circles) on both chest and back. The colors are designed to stand out in the hurly-burly of a melee on the battlefield.
 
-The clergy run a hostel for wounded and recuperating (and just plain down-on-their-luck) soldiers and fighters, where free food and lodging are available. They would welcome members of the Lydian Sisterhood if one would ever cross their doorstep. Recipients of this largesse are expected to contribute to the temple when life starts treating them a little better, so that the service may be continued. Hostels of this type are found in every sizable town and city. 
+The clergy run a hostel for wounded and recuperating (and just plain down-on-their-luck) soldiers and fighters, where free food and lodging are available. They would welcome members of the Lydian Sisterhood if one would ever cross their doorstep. Recipients of this largesse are expected to contribute to the temple when life starts treating them a little better, so that the service may be continued. Hostels of this type are found in every sizable town and city.
 
 The proper form for acknowledgment is taught by older fighters to their younger comrades, as they are deemed worthy of the knowledge - there is a 25% chance that any blooded (having combat experience) 1st level fighter will have been taught, 65% for a 2nd level, and 99% for third level and above.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -43,6 +53,7 @@ The proper form for acknowledgment is taught by older fighters to their younger 
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -68,6 +79,7 @@ The proper form for acknowledgment is taught by older fighters to their younger 
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -87,6 +99,7 @@ The proper form for acknowledgment is taught by older fighters to their younger 
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -115,14 +128,16 @@ The proper form for acknowledgment is taught by older fighters to their younger 
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
 ## Artifacts
 
 ## Holy Books and Codes
-### The Warrior's Code 
+
+### The Warrior's Code
+
 - Always respect your superiors.
 - Never desert a wounded comrade.
 - Be noble in battle. Do not slaughter needlessly. Grant quarter to those who ask it.
@@ -132,6 +147,7 @@ The proper form for acknowledgment is taught by older fighters to their younger 
 - Never desert an employer until the agreed term of original service has expired.
 
 ## Divine Symbols & Sigils
+
 A large red bullseye of four concentric circles.
 
 ## Tenets of Faith
@@ -142,7 +158,7 @@ A large red bullseye of four concentric circles.
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Secondborn
 
@@ -152,14 +168,15 @@ A large red bullseye of four concentric circles.
 
  **Father:**  [[religions/ladros]]
 
- **Offspring** 
+ **Offspring**
+
 - None
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -179,7 +196,7 @@ A large red bullseye of four concentric circles.
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -193,7 +210,7 @@ A large red bullseye of four concentric circles.
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -204,16 +221,17 @@ A large red bullseye of four concentric circles.
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** eced066b-e995-40b7-962b-b42ecc9165f2<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -226,31 +244,37 @@ A large red bullseye of four concentric circles.
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/strathos-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/strathos-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/strathos-person)
 
 ---
@@ -258,18 +282,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 74a5fbe1-efe8-4723-b118-35eec9865113
 
 --- end-column ---
 
 Next:
+
 da6b1939-060c-4f36-8da6-8d4be3b07cf0
 
 --- end-multi-column

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kethelas
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kethelas
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Unarmed strike:**  +8 to hit , 1d1+5 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

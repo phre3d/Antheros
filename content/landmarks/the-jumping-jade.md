@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-shop #type-inn #guild-of-the-hearth #inn
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, the-horse-market, type-inn]
+title: The Jumping Jade
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Jumping Jade
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Inn (Inns & Taverns)** 
+**Inn (Inns & Taverns)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Inn
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9c9e8aa5-5a5d-4d07-b083-7a49637d83d3<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

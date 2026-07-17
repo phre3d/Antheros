@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Kradoc
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kradoc
 
-### 
+###
 
-**Full Name:**  Kradoc      
+**Full Name:**  Kradoc
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A sullen half-orc named Kradoc who works at [[landmark/alekhines-boarding-house|
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kradoc]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

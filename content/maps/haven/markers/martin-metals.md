@@ -1,8 +1,12 @@
 ---
-location: [4376.207,  634.694]
+aliases: []
+tags: [map-marker]
+location: [4376.207, 634.694]
 mapmarker: Shopping
+title: Martin Metals
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Martin Metals
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/martin-metals|Martin Metals]]<br>
 **Location Type:** Artist
 
-**Description**<br> 
-
+**Description**<br>

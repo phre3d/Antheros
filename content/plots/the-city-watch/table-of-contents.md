@@ -1,4 +1,9 @@
-#toc #The_City_Watch 
+---
+aliases: []
+tags: [plot/The_City_Watch, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:12 pm
+---
 
 [[plots/the-city-watch/panic-on-the-streets|1. Panic on the Streets]]<br>
 [[plots/the_city_watch/my-baby!|2. My Baby!]]<br>

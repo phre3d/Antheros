@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-metalwork #guild-of-metalsmiths #metalwork
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/metalsmiths, import, landmark, metalwork, the-labyrinth, type-metalwork]
+title: Kelvin the Tinsmith
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Kelvin the Tinsmith
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Pots and other items mended 
 
-## Description 
+# Description
+
+## Pots and other items mended
+
+## Description
+
 Kelvin and his family live and mend pots and other items of metal in this house. It also contains a secret entrance to Sulemon Duur's much more luxurious residence behind it.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Kelvin and his family live and mend pots and other items of metal in this house.
 
 **Image:** n/a
 
-**Metalwork (Shopping)** 
+**Metalwork (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,13 @@ Kelvin and his family live and mend pots and other items of metal in this house.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Blacksmith / Smithy
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Kelvin and his family live and mend pots and other items of metal in this house.
 ---
 
 ### World Anvil Metadata
+
 **Id:** ed3aae3c-3434-41f5-9158-5cb364a4b21c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Kelvin and his family live and mend pots and other items of metal in this house.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

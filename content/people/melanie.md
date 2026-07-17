@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-north-corridor]
+title: Melanie
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Melanie
 
-### 
+###
 
-**Full Name:**  Melanie      
+**Full Name:**  Melanie
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Melanie is short, round, ruddy-faced, blonde-haired and hazel-eyed. She is an ex
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/melanie]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Curadon
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Curadon
 
-### 
+###
 
-**Full Name:**  Curadon      
+**Full Name:**  Curadon
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ He is much revered by the healers in the city, and they do what they can to prot
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/curadon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

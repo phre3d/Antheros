@@ -1,8 +1,12 @@
 ---
-location: [5181.309,  4667.347]
+aliases: []
+tags: [map-marker]
+location: [4667.347, 5181.309]
 mapmarker: Guild
+title: Guildhall of the Loom
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Guildhall of the Loom
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Guild
 **Location:** [[landmarks/guildhall-of-the-loom|Guildhall of the Loom]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
+**Description**<br>
+
 The guild looks after anyone who makes or works with cloth and textiles.

@@ -1,4 +1,10 @@
-#import #flora #essence-earth-plant
+---
+aliases: []
+tags: [essence-earth-plant, flora, import]
+title: Weirwood Bark
+date modified: 2026-07-16, 9:19:03 pm
+---
+
 # Weirwood Bark
 
 ````col
@@ -46,7 +52,9 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 ````
 
 <!-- Standard page footer -->
+
 ---
+
 ````col
 ```col-md
 

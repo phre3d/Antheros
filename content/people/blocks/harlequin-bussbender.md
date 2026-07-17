@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Harlequin Bussbender
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Harlequin Bussbender
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Maul:**  +1 to hit , 2d6-1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,8 +1,12 @@
 ---
-location: [1026.207,  3754.082]
+aliases: []
+tags: [map-marker]
+location: [1026.207, 3754.082]
 mapmarker: Landmark
+title: "Ruin of Rogues' Roost"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Ruin of Rogues' Roost
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/ruin-of-rogues-roost|Ruin of Rogues' Roost]]<br>
 **Location Type:** Ruin
 
-**Description**<br> 
+**Description**<br>
+
 The burned out remains of the headquarters of the Thieves' Guild

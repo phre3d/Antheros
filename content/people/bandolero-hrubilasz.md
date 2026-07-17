@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Bandolero Hrubilasz
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bandolero Hrubilasz
 
-### 
+###
 
-**Full Name:**  Bandolero  Hrubilasz    
+**Full Name:**  Bandolero  Hrubilasz
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Runs a riding acedemy
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bandolero-hrubilasz]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

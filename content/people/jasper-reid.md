@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-labyrinth]
+title: Jasper Reid
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jasper Reid
 
-### 
+###
 
-**Full Name:**  Jasper  Reid    
+**Full Name:**  Jasper  Reid
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Old arthritic Jasper buys and sells used clothing from this dilapidated house. I
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jasper-reid]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

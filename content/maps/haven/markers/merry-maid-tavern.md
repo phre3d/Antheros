@@ -1,8 +1,12 @@
 ---
-location: [2251.717,  7020.408]
+aliases: []
+tags: [map-marker]
+location: [2251.717, 7020.408]
 mapmarker: Inns & Taverns
+title: Merry Maid Tavern
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Merry Maid Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/merry-maid-tavern|Merry Maid Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

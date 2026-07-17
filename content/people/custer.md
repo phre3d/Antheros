@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Custer
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Custer
 
-### 
+###
 
-**Full Name:**  Custer      
+**Full Name:**  Custer
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Common thief.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/custer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

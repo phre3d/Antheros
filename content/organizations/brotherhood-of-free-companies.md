@@ -1,17 +1,26 @@
-#import #organization   #Free_City_of_Haven #type-guild-mercenary
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/mercenary, import, organization]
+title: Brotherhood of Free Companies
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Brotherhood of Free Companies
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-Represents mercenaries and [[organizations/mercenary-companies|Mercenary Companies]] present in Haven, including all female companies. Individual female mercenaries gravitate toward the [[organizations/guilds/lydian-sisterhood|Lydian Sisterhood]].
 
-## Associated People & Places 
+# Description
+
+Represents mercenaries and [[organizations/mercenary-companies|Mercenary Companies]] present in Haven, including all female companies. Individual female mercenaries gravitate toward the [[organizations/lydian-sisterhood|Lydian Sisterhood]].
+
+## Associated People & Places
 
 [tagged:brotherhood-of-free-companies-person|list|none]
 
@@ -20,16 +29,18 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Guild, Fighter / Mercenary<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -42,10 +53,11 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -65,9 +77,9 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -80,10 +92,11 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -107,7 +120,7 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -179,17 +192,18 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 
 # Military Organizations
 
-**Formation Type:**  
+**Formation Type:**
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 06f3e4cd-bcce-44e0-9b9e-a7ca10acefd9<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -198,7 +212,9 @@ Represents mercenaries and [[organizations/mercenary-companies|Mercenary Compani
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

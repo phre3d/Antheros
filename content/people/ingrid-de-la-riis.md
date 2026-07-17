@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Ingrid de la Riis
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Ingrid de la Riis
 
-### 
+###
 
-**Full Name:**  Ingrid  del la Riis    
+**Full Name:**  Ingrid  del la Riis
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Ingrid, [[person/bruning-de-la-riis|Bruning de la Riis]]' daughter from his firs
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ingrid-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [1639.472,  2978.571]
+aliases: []
+tags: [map-marker]
+location: [1639.472, 2978.571]
 mapmarker: Landmark
+title: Fountain of Porpidolphus
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Fountain of Porpidolphus
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/fountain-of-porpidolphus|Fountain of Porpidolphus]]<br>
 **Location Type:** Fountain
 
-**Description**<br> 
-
+**Description**<br>

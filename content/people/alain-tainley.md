@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights]
+title: Alain Tainley
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alain Tainley
 
-### 
+###
 
-**Full Name:** Father Alain  Tainley    
+**Full Name:** Father Alain  Tainley
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ Alain will not communicate with the rest of his family, unless they are in dire 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alain-tainley]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-mill #guild-of-provenders #mill
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, mill, the-south-docks, type-mill]
+title: "Redonso's Grain Mill"
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Redonso's Grain Mill
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Grain (and people) ground to flour 
 
-## Description 
+# Description
+
+## Grain (and people) ground to flour
+
+## Description
+
 This large water mill is indirectly owned by [[people/prospero-maggia|Prospero Maggia]]. It is run by [[people/redonso|Redonso]] and his associate, [[people/albert|Albert]]. The pair are expert torturers in the employ of [[people/cariadoc|Cariadoc]], [[organizations/criminal/the-black-hand|The Black Hand]] leader. The mill also serves as [[people/cariadoc|Cariadoc]]'s headquarters.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/cariadoc|Cariadoc]] | [[people/redonso|Redonso]] | [[people/albert|Albert]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ This large water mill is indirectly owned by [[people/prospero-maggia|Prospero M
 
 **Image:** n/a
 
-**Mill (Shopping)** 
+**Mill (Shopping)**
 
  **Owner:**  Prospero Maggia
 
@@ -63,12 +74,14 @@ This large water mill is indirectly owned by [[people/prospero-maggia|Prospero M
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Mill
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ This large water mill is indirectly owned by [[people/prospero-maggia|Prospero M
 ---
 
 ### World Anvil Metadata
+
 **Id:** 265108e3-fdb2-40b2-a9a5-47a3d3b14c36<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -93,7 +107,9 @@ This large water mill is indirectly owned by [[people/prospero-maggia|Prospero M
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

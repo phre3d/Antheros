@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-cauldron]
+title: Bessie
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bessie
 
-### 
+###
 
-**Full Name:**  Bessie      
+**Full Name:**  Bessie
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A baker who looks as if she's sampled too many of her own wares. She and her hus
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bessie]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

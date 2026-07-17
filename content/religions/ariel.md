@@ -1,16 +1,25 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Ariel
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Ariel
 
-Goddess of Love and Patron of the Arts     
+Goddess of Love and Patron of the Arts
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Followers are often artists and entertainers.
 
 It should be noted that she is not a sex goddess; sex is a beautiful aspect of love, but isn't part of any specific rituals.
@@ -20,6 +29,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -39,6 +49,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -64,6 +75,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -83,6 +95,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -111,7 +124,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -129,7 +142,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Secondborn
 
@@ -143,7 +156,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -163,7 +176,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -177,7 +190,7 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -188,16 +201,17 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** dbb2eafb-b59f-42aa-9c8b-f4caea122fbc<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -210,31 +224,37 @@ Also of note is the fact that her full parentage is not clear. Some say that [[r
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ariel-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ariel-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ariel-person)
 
 ---
@@ -242,18 +262,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 38e86db9-e6a3-4571-90cb-531f65c96c37
 
 --- end-column ---
 
 Next:
+
 75724afd-a80d-43de-940a-c251a3a5e798
 
 --- end-multi-column

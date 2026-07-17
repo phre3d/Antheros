@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Nacon
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nacon
 
-### 
+###
 
-**Full Name:**  Nacon      
+**Full Name:**  Nacon
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See Street Encounter: Drunken Barbarians
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nacon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

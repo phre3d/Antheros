@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Herdi
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Herdi
 
-### 
+###
 
-**Full Name:**  Herdi      
+**Full Name:**  Herdi
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Owner of [[landmark/sweet-springs|Sweet Springs]], a thriving laundry business j
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/herdi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

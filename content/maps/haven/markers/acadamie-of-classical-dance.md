@@ -1,8 +1,12 @@
 ---
-location: [2397.636,  2301.02]
+aliases: []
+tags: [map-marker]
+location: [2301.02, 2397.636]
 mapmarker: Service
+title: Acadamie of Classical Dance
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Acadamie of Classical Dance
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/acadamie-of-classical-dance|Acadamie of Classical Dance]]<br>
 **Location Type:** Dance
 
-**Description**<br> 
-
+**Description**<br>

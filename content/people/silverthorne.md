@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Silverthorne
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Silverthorne
 
-### 
+###
 
 **Full Name:**  Silverthorne      Prince Celebdil
 
@@ -207,13 +213,12 @@ A Noldor elf with piercing grey eyes and very pale blond hair who describes hims
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/silverthorne]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-dwarrow]
+title: Asgird asha Nikkolai
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Asgird asha Nikkolai
 
-### 
+###
 
-**Full Name:**  Asgird  asha Nikkolai    
+**Full Name:**  Asgird  asha Nikkolai
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to the scenario [[plots/the-bartered-brides|The Bartered Brides]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/asgird-asha-nikkolai]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

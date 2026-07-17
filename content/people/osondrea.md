@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Osondrea
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Osondrea
 
-### 
+###
 
-**Full Name:**  Osondrea      
+**Full Name:**  Osondrea
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ A high level elven enchantress who specializes in the enchantment of wood and fi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/osondrea]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

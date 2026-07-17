@@ -1,8 +1,12 @@
 ---
-location: [3344.574,  3243.878]
+aliases: []
+tags: [map-marker]
+location: [3243.878, 3344.574]
 mapmarker: Shopping
+title: Manalla - Seamstress
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Manalla - Seamstress
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/manalla-seamstress|Manalla - Seamstress]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

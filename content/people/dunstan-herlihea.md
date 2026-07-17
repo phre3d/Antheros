@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-north-corridor]
+title: Dunstan Herlihea
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dunstan Herlihea
 
-### 
+###
 
-**Full Name:**  Dunstan  Herlihea    
+**Full Name:**  Dunstan  Herlihea
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Dunstan Herlihea is of average height, slender, red-haired, and black eyed. He m
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dunstan-herlihea]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

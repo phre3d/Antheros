@@ -1,8 +1,12 @@
 ---
-location: [1379.268,  2906.122]
+aliases: []
+tags: [map-marker]
+location: [1379.268, 2906.122]
 mapmarker: Service
+title: "Taki's Storage"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Taki's Storage
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/takis-storage|Taki's Storage]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

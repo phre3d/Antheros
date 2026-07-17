@@ -1,9 +1,16 @@
+---
+aliases: []
+tags: [plot, plot/Undead_Unicorn_Invasion]
+title: Background
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 ![[plots/undead-unicorn-invasion/images/undead-unicorn-invasion-header.jpg]]
-#plot #Undead_Unicorn_Invasion
 
 This isn't a specific module but rather provides a backdrop against which adventures happen. I intend to draw from it to provide larger world happenings for the campaign.
 
 # Background
+
 Picture the scene.
 
 The Great and Terrible Dracolich, Thraxolar, has unleashed a dread army that is spreading across the world like a cancer, literally warping the earth where it treads.
@@ -24,13 +31,9 @@ The choice is yours. There’s only two things you must do.
 
 Make it fun. Make it EPIC!
 
-
-
-
 ---
 
-# 
-
+#
 
 >[!infobox]
 >![[plots/undead-unicorn-invasion/images/undead-unicorn-invasion-cover.jpg]]

@@ -1,9 +1,14 @@
-#import #map
+---
+aliases: []
+tags: [import, map]
+title: Map of Haven
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 # Map of Haven
+
 **Image Name:** The Free City of Haven - Players' map Base Map Image<br>
 **Location:**[[settlements/free-city-of-haven|Free City of Haven]]<br>
-**Campaign:** [[campaign/7-haven-irregulars|7-haven-irregulars]]
 
 A map of the [[settlements/free-city-of-haven|Free City of Haven]], which serves as the starting point for the [Haven Irregulars](https://www.worldanvil.com/epic/phre3d-haven-irregulars) campaign.
 
@@ -28,4 +33,3 @@ darkMode: false
 ```
 
 ![[maps/legend]]
-

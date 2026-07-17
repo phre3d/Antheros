@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Ricoh
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Ricoh
 
-### 
+###
 
-**Full Name:**  Ricoh      
+**Full Name:**  Ricoh
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A rather large "associate" of [[person/barbara-weyr|Barbara Weyr]] who help her 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ricoh]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

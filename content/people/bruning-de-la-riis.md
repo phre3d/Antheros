@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Bruning de la Riis
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bruning de la Riis
 
-### 
+###
 
-**Full Name:**  Bruning  de la Riis    
+**Full Name:**  Bruning  de la Riis
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ He can be contacted through the mercenaries guild in Haven, the Sworn Swords (OE
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bruning-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [1016.003,  2091.837]
+aliases: []
+tags: [map-marker]
+location: [1016.003, 2091.837]
 mapmarker: Landmark
+title: Gallows Hill
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Gallows Hill
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/gallows-hill|Gallows Hill]]<br>
 **Location Type:** Other Landmark
 
-**Description**<br> 
-
+**Description**<br>

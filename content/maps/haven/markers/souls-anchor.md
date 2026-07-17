@@ -1,8 +1,12 @@
 ---
-location: [2037.432,  6337.755]
+aliases: []
+tags: [map-marker]
+location: [2037.432, 6337.755]
 mapmarker: Inns & Taverns
+title: "Soul's Anchor"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Soul's Anchor
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/souls-anchor|Soul's Anchor]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

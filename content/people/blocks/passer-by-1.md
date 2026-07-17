@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Passer-by 1
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Passer-by 1
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +6 to hit , 1d8+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

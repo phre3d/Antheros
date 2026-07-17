@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Duelist 2
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Duelist 2
 
-### 
+###
 
-**Full Name:**  Duelist  Two    
+**Full Name:**  Duelist  Two
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Dueling Daggers
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/duelist-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

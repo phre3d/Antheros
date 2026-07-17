@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #rand-family #the-glens #npc #hofstra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hofstra-family, import, npc, person, rand-family, the-glens]
+title: Zalle Rand
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zalle Rand
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Resembles Kruegger, except he is quite trim. He makes reasonably good guesses ab
 
 ---
 
-
-
 ![[people/blocks/zalle-rand]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

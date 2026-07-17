@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Constable 4
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Constable 4
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greataxe:**  +5 to hit , 1d12+2 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

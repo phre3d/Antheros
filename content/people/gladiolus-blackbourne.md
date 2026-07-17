@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #blackbourne-family #the-heights #npc
+---
+aliases: []
+tags: [blackbourne-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Gladiolus Blackbourne
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gladiolus Blackbourne
 
-### 
+###
 
-**Full Name:**  Gladiolus  Blackbourne    
+**Full Name:**  Gladiolus  Blackbourne
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ A pudgy blond haired lad with very delicate features and an acerbic tongue, Glad
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gladiolus-blackbourne]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

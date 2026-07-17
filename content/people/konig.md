@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #disaffected-artisans #armorers-guild #the-dwarrow #npc
+---
+aliases: []
+tags: [armorers-guild, disaffected-artisans, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Konig
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Konig
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ An embittered man, seeking to wreak vengeance on the cause of his unhappiness. H
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/konig]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

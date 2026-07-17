@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: "Brodsky's"
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Brodsky's
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/brodskys|Brodsky's]]<br>
 **Location Type:** Dairy
 
-**Description**<br> 
-
+**Description**<br>

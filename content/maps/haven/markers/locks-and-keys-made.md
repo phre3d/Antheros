@@ -1,8 +1,12 @@
 ---
-location: [1857.84,  1500.]
+aliases: []
+tags: [map-marker]
+location: [1500., 1857.84]
 mapmarker: Shopping
+title: Locks and Keys Made
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Locks and Keys Made
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/locks-and-keys-made|Locks and Keys Made]]<br>
 **Location Type:** Locksmith
 
-**Description**<br> 
-
+**Description**<br>

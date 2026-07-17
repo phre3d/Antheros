@@ -1,8 +1,12 @@
 ---
-location: [4807.84,  4726.531]
+aliases: []
+tags: [map-marker]
+location: [4726.531, 4807.84]
 mapmarker: Inns & Taverns
+title: The Lying Lawyer
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Lying Lawyer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-lying-lawyer|The Lying Lawyer]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

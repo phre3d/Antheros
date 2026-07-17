@@ -1,8 +1,12 @@
 ---
-location: [2068.044,  1124.49]
+aliases: []
+tags: [map-marker]
+location: [1124.49, 2068.044]
 mapmarker: Service
+title: "Kenzo's Caravan Services"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kenzo's Caravan Services
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/kenzos-caravan-services|Kenzo's Caravan Services]]<br>
 **Location Type:** Caravan
 
-**Description**<br> 
-
+**Description**<br>

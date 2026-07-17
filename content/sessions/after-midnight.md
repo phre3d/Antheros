@@ -1,6 +1,11 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: After Midnight…
+date modified: 2026-07-16, 9:18:10 pm
+---
 
-# After Midnight...
+# After Midnight…
 
 **Game Date:**
 
@@ -8,7 +13,7 @@
 
 ## Details
 
-... And then we feel a sudden lurch that makes us feel totally nauseous .
+… And then we feel a sudden lurch that makes us feel totally nauseous .
 
 We are back in the room of with the mirror. It is still covered. Our spots are light blue now. The door is closed not broken down. We]ve gone back in time.
 
@@ -56,7 +61,6 @@ Eugene identifies the two things we had found that were magical.
 
 - The rock is a + 1 stone of protection
 
-- The gloves are... to be determined
+- The gloves are… to be determined
 
 ---
-

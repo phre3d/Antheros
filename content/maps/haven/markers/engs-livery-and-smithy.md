@@ -1,8 +1,12 @@
 ---
-location: [2161.921,  3979.592]
+aliases: []
+tags: [map-marker]
+location: [2161.921, 3979.592]
 mapmarker: Shopping
+title: "Eng's Livery and Smithy"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Eng's Livery and Smithy
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/engs-livery-and-smithy|Eng's Livery and Smithy]]<br>
 **Location Type:** Livery
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,5 +1,12 @@
-#import #map-marker-type
---- start-multi-column: MainBody
+---
+aliases: []
+tags: [import, map-marker-type]
+title: inns-&-taverns
+date modified: 2026-07-16, 9:18:38 pm
+---
+
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 29%]
@@ -26,4 +33,3 @@ shadow: off
 ![[maps/~markertypes/inns-taverns.png]]
 
 --- end-multi-column
-

@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person, statblock]
+title: Alotel Galamin
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Alotel Galamin
 
 ````col
@@ -40,44 +46,17 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 Sister Alotel Galamin is a 167-year-old female dark-elf scribe - She has a bald head and black eyes.
+
 - She has soft black skin.
 - She stands 162cm (5'3\") tall and has a lean build.
 - She has a triangular, slightly stunning face.
 - She is missing three fingers from her right hand.
- 
-### Personality 
+
+### Personality
+
  - She openly worships [[people/mandos|Mandos]], God of Death.
 - She is quick to forgive.
 - She is very talkative. She collects iridescent feathers. She stretches the truth to tell a good story.
 - She likes to gamble.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

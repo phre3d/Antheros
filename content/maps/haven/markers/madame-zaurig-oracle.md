@@ -1,8 +1,12 @@
 ---
-location: [1094.574,  3900.]
+aliases: []
+tags: [map-marker]
+location: [1094.574, 3900.]
 mapmarker: Shopping
+title: Madame Zaurig - Oracle
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Madame Zaurig - Oracle
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/madame-zaurig-oracle|Madame Zaurig - Oracle]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

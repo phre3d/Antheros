@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-north-corridor, type-guard]
+title: Mint Station
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Mint Station
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 Across from the Mint is a Haven City Watch station commanded by Claidhaemmor Redkilt, who is also the North Corridor Borough Commander. The station has a complement of 160 of which about 40 are on duty at any time.
 
-## NPC Encounters 
+## NPC Encounters
+
 Claidhaemmor Redkilt
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Claidhaemmor Redkilt
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Claidhaemmor Redkilt
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Claidhaemmor Redkilt
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3e7f73d4-077b-43d4-bb83-4a5beefc5d8d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -93,7 +107,9 @@ Claidhaemmor Redkilt
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

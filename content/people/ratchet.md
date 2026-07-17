@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #merchants-guild #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, merchants-guild, npc, person, the-street-of-harps]
+title: Ratchet
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Ratchet
 
-### 
+###
 
-**Full Name:**  Ratchet      
+**Full Name:**  Ratchet
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ This seemingly ageless man has long golden hair, with deep blue eyes and fine, d
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ratchet]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

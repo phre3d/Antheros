@@ -1,8 +1,12 @@
 ---
-location: [2874.166,  2308.163]
+aliases: []
+tags: [map-marker]
+location: [2308.163, 2874.166]
 mapmarker: Landmark
+title: "Illusionist's Park"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Illusionist's Park
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/illusionists-park|Illusionist's Park]]<br>
 **Location Type:** Park
 
-**Description**<br> 
+**Description**<br>
+
 A public park on Magic St.

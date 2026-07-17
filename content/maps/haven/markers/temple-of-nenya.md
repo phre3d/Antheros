@@ -1,8 +1,12 @@
 ---
-location: [4389.472,  4454.082]
+aliases: []
+tags: [map-marker]
+location: [4389.472, 4454.082]
 mapmarker: Religion
+title: Temple of Nenya
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Nenya
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-nenya|Temple of Nenya]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Nenya: Goddess of the Sea, Mother of Storms, Patron of Sailors

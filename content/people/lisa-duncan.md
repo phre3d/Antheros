@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Lisa Duncan
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lisa Duncan
 
-### 
+###
 
-**Full Name:**  Lisa  Duncan    
+**Full Name:**  Lisa  Duncan
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A songstress from [[settlement/the-street-of-harps|The Street of Harps]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lisa-duncan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

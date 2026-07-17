@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Vertikoulos
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Vertikoulos
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Hoof:**  +7 to hit , 2d6+8 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Fernando di Cotillion
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Fernando di Cotillion
 
 ````col
@@ -37,39 +43,12 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 Rapier :  +7 to hit, 1d8+3 piercing damage
+
  Longbow :  +5 to hit, 1d8+1 piercing damage
+
  Battleaxe :  +7 to hit, 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

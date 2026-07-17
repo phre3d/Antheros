@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #adrielles-watch #erinhir #the-outlands #npc
+---
+aliases: []
+tags: [adrielles-watch, erinhir, Free_City_of_Haven, import, npc, person, the-outlands]
+title: Culvhen
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Culvhen
 
-### 
+###
 
-**Full Name:** Watchleader Culvhen      
+**Full Name:** Watchleader Culvhen
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The leader of [[organization/adrielles-watch|Adrielle's Watch]] is a golden-eyed
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/culvhen]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #npc #the-city-watch
+---
+aliases: []
+tags: [import, npc, person, the-city-watch]
+title: Lucille Rilossa
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lucille Rilossa
 
-### 
+###
 
-**Full Name:** Watchman Lucille  Rilossa    
+**Full Name:** Watchman Lucille  Rilossa
 
 `````col
 ````col-md
@@ -254,13 +260,12 @@ Lucille Rilossa joined the guards to be like her uncle, a local hero from a few 
 
 ![[dndline.png]]
 
-
-
 Source:  *Folio of Familiar Faces* , Evil Pigeon Games
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

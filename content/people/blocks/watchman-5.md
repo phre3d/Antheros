@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Watchman 5
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Watchman 5
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +8 to hit , 1d4+4 piercing damage  
   **Longsword:**  +8 to hit , 1d8+4 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

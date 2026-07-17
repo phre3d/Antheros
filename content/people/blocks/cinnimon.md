@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Cinnimon
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Cinnimon
 
 ````col
@@ -37,40 +43,18 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 Thaumaturgy (cantrip)
 
 ## Cast Once per Day
-**Racial** 
+
+**Racial**
+
 @3rd Level:  **Hellish Rebuke**  | @5th Level:  **Darkness**
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +5 to hit , 1d4+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

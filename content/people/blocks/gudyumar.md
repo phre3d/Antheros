@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Gudyumar
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Gudyumar
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
+
 **Fade Away:**  naturally disappear in to the surroundings (as if you had cast the invisibility on yourself). Once per short rest. This is neither a spell nor a magical effect that dispelled.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

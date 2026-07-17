@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Paladin Brandybuck
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Paladin Brandybuck
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortsword:**  +4 to hit , 1d6+2 piercing damage  
   **Shortbow:**  +4 to hit , 1d6+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

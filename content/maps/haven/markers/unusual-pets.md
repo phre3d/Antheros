@@ -1,8 +1,12 @@
 ---
-location: [2884.37,  2385.714]
+aliases: []
+tags: [map-marker]
+location: [2385.714, 2884.37]
 mapmarker: Shopping
+title: Unusual Pets
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Unusual Pets
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/unusual-pets|Unusual Pets]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

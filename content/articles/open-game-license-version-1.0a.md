@@ -1,14 +1,22 @@
-#import #article 
+---
+aliases: []
+tags: [article, import]
+title: OPEN GAME LICENSE Version 1.0a
+date modified: 2026-07-16, 9:19:06 pm
+---
+
 # OPEN GAME LICENSE Version 1.0a
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# OPEN GAME LICENSE Version 1.0a 
+
+# OPEN GAME LICENSE Version 1.0a
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 
@@ -40,9 +48,9 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-15. COPYRIGHT NOTICE 
+15. COPYRIGHT NOTICE
 
-Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. 
+Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 
@@ -51,17 +59,18 @@ END OF LICENSE
 --- end-column ---
 
 ### World Anvil Metadata
+
 **Id:** d32e4785-876c-4833-b7e0-526826bce7b0<br>
 **Entity Type:** Article / article<br>
 **Category:** Credits<br>
-**Tags:** 
+**Tags:**
 
 --- end-multi-column
 
-
-
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

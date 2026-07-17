@@ -1,8 +1,12 @@
 ---
-location: [2216.003,  2381.633]
+aliases: []
+tags: [map-marker]
+location: [2216.003, 2381.633]
 mapmarker: Shopping
+title: Wig and Masque
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Wig and Masque
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/wig-and-masque|Wig and Masque]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

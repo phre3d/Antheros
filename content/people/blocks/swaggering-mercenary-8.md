@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Swaggering Mercenary 8
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Swaggering Mercenary 8
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greataxe:**  +3 to hit , 1d12+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

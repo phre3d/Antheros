@@ -1,8 +1,12 @@
 ---
-location: [1391.513,  4912.245]
+aliases: []
+tags: [map-marker]
+location: [1391.513, 4912.245]
 mapmarker: Service
+title: "Pocheffski's School of Arms"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Pocheffski's School of Arms
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/pocheffskis-school-of-arms|Pocheffski's School of Arms]]<br>
 **Location Type:** Training
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [6279.268,  2274.49]
+aliases: []
+tags: [map-marker]
+location: [2274.49, 6279.268]
 mapmarker: Service
+title: Arkmonides - Scribe
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Arkmonides - Scribe
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/arkmonides-scribe|Arkmonides - Scribe]]<br>
 **Location Type:** Scribe
 
-**Description**<br> 
-
+**Description**<br>

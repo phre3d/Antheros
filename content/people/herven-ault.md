@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Herven Ault
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Herven Ault
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Ault (#217) is tall, and spare, with longish sandy hair and blue eyes. He is als
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/herven-ault]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Astrilde de la Riis
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Astrilde de la Riis
 
-### 
+###
 
-**Full Name:**  Astrilde  de la Riis    
+**Full Name:**  Astrilde  de la Riis
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Astrilde, Morgan del la Riis' wife, is happy with her lot as a Guard's wife. She
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/astrilde-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

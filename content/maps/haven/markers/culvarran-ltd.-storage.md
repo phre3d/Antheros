@@ -1,8 +1,12 @@
 ---
-location: [2494.574,  6246.939]
+aliases: []
+tags: [map-marker]
+location: [2494.574, 6246.939]
 mapmarker: Service
+title: Culvarran Ltd. - Storage
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Culvarran Ltd. - Storage
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/culvarran-ltd.-storage|Culvarran Ltd. - Storage]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Mardo Breakwater
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mardo Breakwater
 
-### 
+###
 
-**Full Name:**  Mardo  Breakwater    
+**Full Name:**  Mardo  Breakwater
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A greying, older, halfling who Lives with his daughter's family, Mardo can almos
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mardo-breakwater]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

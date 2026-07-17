@@ -1,4 +1,9 @@
-#import #statblock #item #Clockwork_Tower #magic-item
+---
+aliases: []
+tags: [plot/clockwork-tower, import, item, magic-item, statblock]
+title: eternity-wardens-shield
+date modified: 2026-07-16, 9:18:17 pm
+---
 
 ````col
 ```col-md
@@ -31,4 +36,3 @@ Forged from the metals of the Clockwork Tower, this gleaming brass and steel shi
 ![[~attachments/eternity-wardens-shield.png]]
 ```
 ````
-

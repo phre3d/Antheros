@@ -1,6 +1,14 @@
-#spell 
+---
+aliases: []
+tags: [spell]
+title: Bolster
+date modified: 2026-07-16, 9:18:07 pm
+---
+
 # Bolster
+
 *0th-level evocation*
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -23,6 +31,7 @@ This spell's extra healing increases by 1d4 when you reach 5th level (2d4), 11th
 
 ```
 ````
+
 ---
 
 *Source:* Physician Class (DM Guild)

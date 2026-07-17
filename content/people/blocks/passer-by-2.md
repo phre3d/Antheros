@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Passer-by 2
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Passer-by 2
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +6 to hit , 1d8+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

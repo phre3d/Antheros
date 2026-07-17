@@ -1,8 +1,12 @@
 ---
-location: [6229.268,  1928.571]
+aliases: []
+tags: [map-marker]
+location: [1928.571, 6229.268]
 mapmarker: Residence
+title: Hochritter Family Residence
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hochritter Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/hochritter-family-residence|Hochritter Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

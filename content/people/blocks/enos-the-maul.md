@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Enos the Maul
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Enos the Maul
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Maul:**  +9 to hit , 2d6+5 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

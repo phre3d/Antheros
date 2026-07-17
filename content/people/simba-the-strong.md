@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor]
+title: Simba the Strong
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Simba the Strong
 
-### 
+###
 
 **Full Name:**  Simba    the Strong  
 
@@ -207,13 +213,12 @@ A powerfully built man, who wears tunics that show off his impressive physique. 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/simba-the-strong]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

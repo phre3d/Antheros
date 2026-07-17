@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Folonar Fairweather
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Folonar Fairweather
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortsword:**  +3 to hit , 1d6+1 piercing damage  
   **Shortbow:**  +3 to hit , 1d6+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

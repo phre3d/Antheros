@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hide #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, guild/hide, import, npc, person]
+title: Sindra
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sindra
 
-### 
+###
 
-**Full Name:**  Sindra      
+**Full Name:**  Sindra
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Sindra, a master leatherworker, a slender elven woman of youthful appearance (af
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sindra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

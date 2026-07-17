@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Yacobur
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Yacobur
 
-### 
+###
 
-**Full Name:**  Yacobur      
+**Full Name:**  Yacobur
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Common thief.
 
 ---
 
-
-
 ![[people/blocks/yacobur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

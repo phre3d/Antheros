@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: Scene 3
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Scene 3
 
 ````col
@@ -27,7 +33,6 @@ As the party travels through the forest, one or more of the following encounters
 
 ```
 ````
-
 
 ---
 

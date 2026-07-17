@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Daran Tiko
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Daran Tiko
 
-### 
+###
 
-**Full Name:**  Daran  Tiko    
+**Full Name:**  Daran  Tiko
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Runs a second hand furniture stall in the [[settlement/thieves-market|Thieves' M
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/daran-tiko]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

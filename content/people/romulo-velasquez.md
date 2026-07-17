@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+title: Romulo Velasquez
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Romulo Velasquez
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Of all the artists receiving [[person/gilberto-maggia|Gilberto Maggia]]'s suppor
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/romulo-velasquez]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

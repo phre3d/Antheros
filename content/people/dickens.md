@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Dickens
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dickens
 
-### 
+###
 
-**Full Name:**  Dickens      
+**Full Name:**  Dickens
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Common thief.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dickens]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

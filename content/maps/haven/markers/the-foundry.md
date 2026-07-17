@@ -1,8 +1,12 @@
 ---
-location: [2150.697,  6194.898]
+aliases: []
+tags: [map-marker]
+location: [2150.697, 6194.898]
 mapmarker: Shopping
+title: The Foundry
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Foundry
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-foundry|The Foundry]]<br>
 **Location Type:** Foundry
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [3551.717,  376.531]
+aliases: []
+tags: [map-marker]
+location: [3551.717, 376.531]
 mapmarker: Residence
+title: Home of Balin arn Malbar
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Home of Balin arn Malbar
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/home-of-balin-arn-malbar|Home of Balin arn Malbar]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

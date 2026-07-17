@@ -1,5 +1,12 @@
-#import #plot  #Depths_of_Erdea 
+---
+aliases: []
+tags: [plot/depths-of-erdea, import, plot]
+title: NPCs and Monsters
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 ![[plots/depths-of-erdea/images/depths-of-erdea-header.png]]
+
 # NPCs and Monsters
 
 ````col
@@ -70,7 +77,6 @@ An  **ogre** , Orthur is a lieutenant to Vera / Jubal and based out of [room 19]
 
 ```
 ````
-
 
 ---
 

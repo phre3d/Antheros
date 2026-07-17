@@ -1,4 +1,9 @@
-#import #statblock #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Spellcasting
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -38,21 +43,25 @@ Tiny fey neutral good
 ---
 
 # Spellcasting
+
 **Innate Spellcasting.**  The pixie's innate spellcasting ability is Charisma (spell save DC 12).
 
 ## Cast at Will
+
 * Druidcraft*
 
 ## Cast Once per Day
+
 *Confusion, entangle, sleep, dispel, polymorph, detect thoughts*
 
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Magic Resistance.**  Lalalna has advantage on saving throws against spells and other magical effects.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Superior Invisibility.**  The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it.
 
+**Superior Invisibility.**  The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it.

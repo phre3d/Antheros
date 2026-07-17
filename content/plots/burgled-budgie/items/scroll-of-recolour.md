@@ -1,4 +1,9 @@
-#item #magic-item #Burgled_Budgie 
+---
+aliases: []
+tags: [plot/burgled-budgie, item, magic-item]
+title: Scroll of Recolour
+date modified: 2026-07-16, 9:18:18 pm
+---
 
 # Scroll of Recolour
 
@@ -10,7 +15,9 @@
 ---
 
 # Properties
+
 The scroll contains the *[[spells/recolour|Recolour]]* spell
 
 ---
+
 **Source:** Debacle of the Burgled Budgie

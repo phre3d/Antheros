@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-beast #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/beast, import, npc, person, thieves-market]
+title: Cocoa Tobler
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cocoa Tobler
 
-### 
+###
 
-**Full Name:**  Cocoa  Tobler    
+**Full Name:**  Cocoa  Tobler
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Cocoa, a large and very brown man (with a taste for chocolate - hence his nickna
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cocoa-tobler]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

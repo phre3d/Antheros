@@ -1,8 +1,12 @@
 ---
-location: [3411.921,  1065.306]
+aliases: []
+tags: [map-marker]
+location: [1065.306, 3411.921]
 mapmarker: Shopping
+title: Ilrin the Bowyer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Ilrin the Bowyer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/ilrin-the-bowyer|Ilrin the Bowyer]]<br>
 **Location Type:** Weapons
 
-**Description**<br> 
-
+**Description**<br>

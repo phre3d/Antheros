@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Manneo Thuliaga
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Manneo Thuliaga
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ A bouncer at [[landmark/the-aerie|The Aerie]], Manneo is an example of the stron
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/manneo-thuliaga]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

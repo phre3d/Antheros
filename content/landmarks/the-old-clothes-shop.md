@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-general-clothing #guild-of-the-loom #general-clothing
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-labyrinth, type-general-clothing]
+title: The Old Clothes Shop
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Old Clothes Shop
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Clothing buy 'n' sell 
 
-## Description 
+# Description
+
+## Clothing buy 'n' sell
+
+## Description
+
 Old arthritic Jasper buys and sells used clothing from this dilapidated house. If he suspects anything of why business has improved in recent months, he says nothing. Jasper did not reach his present age by indulging his curiosity.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Old arthritic Jasper buys and sells used clothing from this dilapidated house. I
 
 **Image:** n/a
 
-**General Clothing (Shopping)** 
+**General Clothing (Shopping)**
 
  **Owner:**  Jasper Reid
 
@@ -60,12 +70,13 @@ Old arthritic Jasper buys and sells used clothing from this dilapidated house. I
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Old arthritic Jasper buys and sells used clothing from this dilapidated house. I
 ---
 
 ### World Anvil Metadata
+
 **Id:** f07f7915-f388-4dd1-bff2-b93c3ec8974b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Old arthritic Jasper buys and sells used clothing from this dilapidated house. I
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

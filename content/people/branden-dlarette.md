@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: "Branden d'Larette"
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Branden d'Larette
 
-### 
+###
 
-**Full Name:**  Branden  d'Larette    
+**Full Name:**  Branden  d'Larette
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Branden, oldest child of Bartholomew and Amelia, is a chunky youth of 19 who he 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/branden-dlarette]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

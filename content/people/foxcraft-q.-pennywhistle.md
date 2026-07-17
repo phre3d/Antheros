@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Foxcraft Q. Pennywhistle
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Foxcraft Q. Pennywhistle
 
-### 
+###
 
-**Full Name:**  Foxcraft Q. Pennywhistle    
+**Full Name:**  Foxcraft Q. Pennywhistle
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ General alley basher/legbreakers/other muscle.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/foxcraft-q.-pennywhistle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Lefty Grazziano
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lefty Grazziano
 
-### 
+###
 
-**Full Name:**  Lefty  Grazziano    
+**Full Name:**  Lefty  Grazziano
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Soft-hearted as an enforcer, he often lets people off the hook. If Lefty is atta
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lefty-grazziano]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

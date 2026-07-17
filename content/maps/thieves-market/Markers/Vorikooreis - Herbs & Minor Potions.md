@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Vorikooreis - Herbs& Minor Potions
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Vorikooreis - Herbs& Minor Potions
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/vorikooreis-herbs-and-minor-potions|Vorikooreis - Herbs and Minor Potions]]<br>
 **Location Type:** Potions, Herbalist
 
-**Description**<br> 
-
+**Description**<br>

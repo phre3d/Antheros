@@ -1,8 +1,12 @@
 ---
-location: [1938.452,  2410.204]
+aliases: []
+tags: [map-marker]
+location: [1938.452, 2410.204]
 mapmarker: Service
+title: "Profundo's Studio"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Profundo's Studio
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/profundos-studio|Profundo's Studio]]<br>
 **Location Type:** Training
 
-**Description**<br> 
-
+**Description**<br>

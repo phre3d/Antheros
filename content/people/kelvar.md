@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #armorers-guild #the-heights #npc
+---
+aliases: []
+tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-heights]
+title: Kelvar
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kelvar
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Kelvar is the only dwarven artisan who chooses to work in [[settlement/the-heigh
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kelvar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

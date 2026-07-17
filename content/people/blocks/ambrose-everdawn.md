@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Sins_of_the_Past #npc
+---
+aliases: []
+tags: [import, npc, person, plot/Sins_of_the_Past, statblock]
+title: Ambrose Everdawn
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Ambrose Everdawn
 
 ````col
@@ -40,39 +46,15 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 City of the Dead caretaker. He is a tall man in his fifties, with a straight posture, long gray beard, and gray robes. He enjoys his work and likes to tell jokes full of dark humor.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
-## Dagger 
-  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target. 
+
+## Dagger
+
+  **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
+
   **Hit:**  6  slashing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-

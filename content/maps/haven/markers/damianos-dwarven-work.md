@@ -1,8 +1,12 @@
 ---
-location: [3847.636,  4172.449]
+aliases: []
+tags: [map-marker]
+location: [3847.636, 4172.449]
 mapmarker: Shopping
+title: "Damiano's Dwarven Work"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Damiano's Dwarven Work
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/damianos-dwarven-work|Damiano's Dwarven Work]]<br>
 **Location Type:** Toymaker
 
-**Description**<br> 
-
+**Description**<br>

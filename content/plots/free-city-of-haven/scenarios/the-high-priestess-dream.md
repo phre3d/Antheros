@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: "The High Priestess' Dream"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The High Priestess' Dream
 
 ````col
@@ -38,7 +44,6 @@ The puzzle is relatively simple, provided the players do a fair amount of wander
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

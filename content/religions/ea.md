@@ -1,21 +1,30 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Ea
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Ea
 
-Goddess of the Air, Patron of Travellers     
+Goddess of the Air, Patron of Travellers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Ea rules the air and is popular with the [[races/avanthar|Avanthar]] who believe that the Deva from which they are descended were sent by Ea. Sailors are also known to prey to Ea in addition to [[religions/nenya]] when hoping for steady winds to speed them along.
 
 Her worshipers are the ultimate free spirits. They believe that it is improper to allow oneself to be tied down for any length of time. They are always seeking new adventures and new journeys. It is said that she is the favorite of Ladros, because she is the one who goes off to gather new knowledge, always to return. It is this love of adventure that led people to offer a prayer or other devotion before setting out on a journey - and hence become the patron of travellers.
 
-Her followers love to climb and explore as high places as they can, if nothing else than to see the horizon. They are also known to be excellent mapmakers. 
+Her followers love to climb and explore as high places as they can, if nothing else than to see the horizon. They are also known to be excellent mapmakers.
 
 Ea gave no gift to the races of man, choosing instead to be an inspiration for their own greatness.
 
@@ -24,6 +33,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -43,6 +53,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -68,6 +79,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -87,6 +99,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -115,7 +128,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -133,7 +146,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Firstborn
 
@@ -143,14 +156,15 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 
  **Father:**  [[religions/ladros]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/etheah]] (with [[religions/narconal]])
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -170,7 +184,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -184,7 +198,7 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -195,16 +209,17 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 38e86db9-e6a3-4571-90cb-531f65c96c37<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -217,31 +232,37 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ea-article)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ea-article)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ea-article)
 
 ---
@@ -249,18 +270,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 1c8a7687-5623-48f0-b9bd-23725a2c8e34
 
 --- end-column ---
 
 Next:
+
 dbb2eafb-b59f-42aa-9c8b-f4caea122fbc
 
 --- end-multi-column

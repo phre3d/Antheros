@@ -1,4 +1,10 @@
-#import #person #npc #Murder_at_the_Old_Wolf_Inn
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Artemis Nahanna
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Artemis Nahanna
 
 `````col
@@ -24,9 +30,10 @@ In life, Artemis Nahanna was a handsome male high-elf noble (LN). He had long si
 ````
 `````
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 

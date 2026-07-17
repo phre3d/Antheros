@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor, thieves-guild]
+title: Kinderk
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kinderk
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ An ugly, filthy, scabby beggar, who frequents Caravan Street in [[settlement/the
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kinderk]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

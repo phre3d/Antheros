@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kuber Hasbin
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kuber Hasbin
 
 ````col
@@ -37,41 +43,18 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
+
 **Spellcasting modifier:**  Charisma, +0 to hit with spells
+
   **Spell Save DC:**  10
+
   **Spell Slots: **  4<sup>1st</sup>, 2<sup>2nd</sup>
+
   **Known Spells:**   *Bolster* <sup>0th</sup> |  *Cure Wounds* <sup>1st</sup> |  *Healing Elixir* <sup>1st</sup>|  *Healing Word* <sup>1st</sup>|  *Sleep* <sup>1st</sup>|   *Mage Armor* <sup>1st</sup>|  *Purify Food and Drink* <sup>1st</sup>|  *Prayer of Healing* <sup>2nd</sup>|  *Aid* <sup>2nd</sup>|  *Calm Emotions* <sup>2nd</sup>|  *Protection from Poison* <sup>2nd</sup>
 
 ## Cast at Will
+
 **Cantrips:**   *Guidance*  |  *Friends*  |  *Light*  |  *Mage Hand*  |   *Spare the Dying*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

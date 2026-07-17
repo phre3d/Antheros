@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Dagnir Saurul
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Dagnir Saurul
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Dagnir is the only non-human judge in the Haven [[landmark/courts|Courts]]; he i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dagnir-saurul]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Esgar
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Esgar
 
-### 
+###
 
-**Full Name:**  Esgar      
+**Full Name:**  Esgar
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Works for [[person/lazar-symbocca|Lazar Symbocca]] at [[landmark/syms-storage-co
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/esgar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

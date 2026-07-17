@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: "Sherriff's Deputies"
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Sherriff's Deputies
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +3 to hit , 1d4+0 bludgeoning damage  
   **Sling:**  +4 to hit , 1d4+1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

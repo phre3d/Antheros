@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ohlfaardt-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, ohlfaardt-family, person]
+title: Cambol Tartyn
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cambol Tartyn
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Built like the dockworker he once was, he now works for [[person/neberhard-ohlfa
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cambol-tartyn]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

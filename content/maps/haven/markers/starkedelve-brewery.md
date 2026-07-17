@@ -1,8 +1,12 @@
 ---
-location: [4797.636,  397.959]
+aliases: []
+tags: [map-marker]
+location: [397.959, 4797.636]
 mapmarker: Shopping
+title: Starkedelve Brewery
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Starkedelve Brewery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/starkedelve-brewery|Starkedelve Brewery]]<br>
 **Location Type:** Brewer
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Dog-end
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dog-end
 
-### 
+###
 
-**Full Name:**  Dog-end      
+**Full Name:**  Dog-end
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Dog-end (Jethro Tull reference) is an old man who lives on the streets. He can b
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dog-end]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

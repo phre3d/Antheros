@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Claudia de la Riis
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Claudia de la Riis
 
-### 
+###
 
-**Full Name:**  Claudia  de la Riis    
+**Full Name:**  Claudia  de la Riis
 
 `````col
 ````col-md
@@ -215,13 +221,12 @@ The wife of [[person/harz-de-la-riis|Harz de la Riis]] is a tall, spare woman wi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/claudia-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

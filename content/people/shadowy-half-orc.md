@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, street-encounters]
+title: Shadowy Half-Orc
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Shadowy Half-Orc
 
-### 
+###
 
-**Full Name:**  Shadowy  Half-Orc    
+**Full Name:**  Shadowy  Half-Orc
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Beckoner
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/shadowy-half-orc]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

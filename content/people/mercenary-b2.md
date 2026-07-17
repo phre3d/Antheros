@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Mercenary B2
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mercenary B2
 
-### 
+###
 
-**Full Name:**  Mercenary  B2    
+**Full Name:**  Mercenary  B2
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary B2
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-b2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,15 +1,14 @@
-#profession
-
-
-
-
-
-
+---
+aliases: []
+tags: [profession]
+title: blacksmith
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 >[!infobox]
 >**Alternative Names:**  
 >
->**Guild:** 
+>**Guild:**
 >
 >**Famous in the Field:**
 >

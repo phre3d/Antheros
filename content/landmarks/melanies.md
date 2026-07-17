@@ -1,25 +1,37 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-shop #type-restaurant #guild-of-the-hearth #restaurant
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, restaurant, the-north-corridor, type-restaurant]
+title: "Melanie's"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Melanie's
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A hole-in-the-wall with delicious food 
 
-## Description 
-[[people/melanie|Melanie]] is short, round, ruddy-faced, blonde-haired and hazel-eyed. She is an excellent cook, and serves meals three times a day. Her small kitchen has no menu - customers pay 2sp for whatever [[people/melanie|Melanie]] serves for breakfast or lunch, and 3sp for dinner. There is only seating for about 40 people at the long tables in the front room of her house, and the place is usually jammed (10% chance of finding a seat). Mealtimes are 6:30am to 8:30am for breakfast, 11:00am to 2:00pm for lunch, and 5:00pm to 8:00pm for supper. [[people/melanie|Melanie]] is assisted by her two daughters, Shalimar and Frangipani, both of whom are plump, blonde, and thoroughly married and proposition-proof. The girls do the majority of the customer service. 
+# Description
+
+## A hole-in-the-wall with delicious food
+
+## Description
+
+[[people/melanie|Melanie]] is short, round, ruddy-faced, blonde-haired and hazel-eyed. She is an excellent cook, and serves meals three times a day. Her small kitchen has no menu - customers pay 2sp for whatever [[people/melanie|Melanie]] serves for breakfast or lunch, and 3sp for dinner. There is only seating for about 40 people at the long tables in the front room of her house, and the place is usually jammed (10% chance of finding a seat). Mealtimes are 6:30am to 8:30am for breakfast, 11:00am to 2:00pm for lunch, and 5:00pm to 8:00pm for supper. [[people/melanie|Melanie]] is assisted by her two daughters, Shalimar and Frangipani, both of whom are plump, blonde, and thoroughly married and proposition-proof. The girls do the majority of the customer service.
 
  The customers are on the honor system, expected to drop the cost of the meal into a small box by the front door. If you can't afford to pay now, pay later (freeloaders are generally noticed after the first few times, and usually ejected by the regular clientele. For every attempt after the first, there is a cumulative 5% chance of it being noticed that one hasn't paid). Few customers freeload. They remember what it was like, trying to find good, cheap food before [[people/melanie|Melanie]] opened the place, and they don't want her to even think of closing.
 
-## Price Range 
+## Price Range
+
 Low, see above.
 
-## Quality 
+## Quality
+
 Good to Excellent.
 
 # Purpose / Function
@@ -56,7 +68,7 @@ Good to Excellent.
 
 **Image:** n/a
 
-**Restaurant (Dining)** 
+**Restaurant (Dining)**
 
  **Owner:**  Melanie
 
@@ -68,12 +80,14 @@ Good to Excellent.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -90,6 +104,7 @@ Good to Excellent.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8a8ba34d-fd91-4a57-a108-13224e50120d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -98,7 +113,9 @@ Good to Excellent.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

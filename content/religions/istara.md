@@ -1,27 +1,37 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Istara
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Istara
 
-Goddess of Magic     
+Goddess of Magic
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Istara rules over all things magical and is the patron of wizards, sorcerers, and any others who draw on themselves for magic.
 
 Unlike any of the other Firstborn, Istara has only one parent, Laydi. Whether there was a father, another mother, or was born through  parthenogenesis is not known. She is said to be unfavored, as those who would most benefit from her blessings are also those who are least prone to worship, namely the practitioners of the arcane arts.
 
-She created the weave, the flow of arcane energy that allows magic to happen, and it is said that those born with the spontaneous gift of magic are touched by her. 
+She created the weave, the flow of arcane energy that allows magic to happen, and it is said that those born with the spontaneous gift of magic are touched by her.
 
 Her holy symbol is a chariot, based on the constellation Agrae with its eight stars, one representing each school of magic.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -41,6 +51,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -66,6 +77,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -85,6 +97,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -113,7 +126,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -131,7 +144,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Firstborn
 
@@ -141,14 +154,15 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 
  **Father:**  [[religions/ladros]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/lohi]] (with Ladros)
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -168,7 +182,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -182,7 +196,7 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -193,16 +207,17 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 28133af1-7b3b-49df-a147-3e17f2da3daf<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -215,31 +230,37 @@ Her holy symbol is a chariot, based on the constellation Agrae with its eight st
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/istara-article)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/istara-article)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/istara-article)
 
 ---
@@ -247,18 +268,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 b07298f6-f8f9-4277-9023-b5771d9bcc85
 
 --- end-column ---
 
 Next:
+
 d65f1431-1ea7-474b-81f6-c34ab830cc0a
 
 --- end-multi-column

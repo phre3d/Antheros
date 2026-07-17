@@ -1,20 +1,29 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Mandos
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Mandos
 
-God of Death     
+God of Death
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -34,6 +43,7 @@ shadow: off
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -59,6 +69,7 @@ shadow: off
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -78,6 +89,7 @@ shadow: off
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -106,7 +118,7 @@ shadow: off
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -124,7 +136,7 @@ shadow: off
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Secondborn
 
@@ -134,7 +146,8 @@ shadow: off
 
  **Father:**  [[religions/narconal]]
 
- **Offspring** 
+ **Offspring**
+
 - [[religions/azriel]] (with Lohi)
 - [[religions/vairë]] (with Etheah)
 
@@ -142,7 +155,7 @@ shadow: off
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -162,7 +175,7 @@ shadow: off
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -176,7 +189,7 @@ shadow: off
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -187,16 +200,17 @@ shadow: off
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 74a5fbe1-efe8-4723-b118-35eec9865113<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -209,31 +223,37 @@ shadow: off
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/mandos-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/mandos-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/mandos-person)
 
 ---
@@ -241,18 +261,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 75724afd-a80d-43de-940a-c251a3a5e798
 
 --- end-column ---
 
 Next:
+
 eced066b-e995-40b7-962b-b42ecc9165f2
 
 --- end-multi-column

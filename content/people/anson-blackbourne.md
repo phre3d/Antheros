@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #blackbourne-family #the-heights #npc
+---
+aliases: []
+tags: [blackbourne-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Anson Blackbourne
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Anson Blackbourne
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ Anson, regardless of the time of day, is always willing to widen his circle of i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/anson-blackbourne]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

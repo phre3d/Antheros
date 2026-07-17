@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-shop #type-dance #guild-of-entertainers #dance
+---
+aliases: []
+tags: [cat-shop, dance, Free_City_of_Haven, guild/entertainers, import, landmark, street-of-harps, type-dance]
+title: Acadamie of Classical Dance
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Acadamie of Classical Dance
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 **[[people/zarabem|Zarabem]], master**
@@ -16,7 +24,8 @@ shadow: off
 
  Graduates are rarely seen on [[settlements/the-street-of-silk-veils|The Street of Silk Veils]], because they are in such great demand as dancers that they do not need to wear the silk veil to earn a living. [[people/zarabem|Zarabem]] teaches them confidence and independence.
 
-## Exterior 
+## Exterior
+
 The house sits back from the street, surrounded by a high stone wall. A heavy oaken gate is the only entrance.
 
 # Purpose / Function
@@ -53,7 +62,7 @@ The house sits back from the street, surrounded by a high stone wall. A heavy oa
 
 **Image:** n/a
 
-**Dance (Service)** 
+**Dance (Service)**
 
  **Owner:**  [[people/zarabem|Zarabem]]
 
@@ -65,12 +74,14 @@ The house sits back from the street, surrounded by a high stone wall. A heavy oa
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Dance club
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -87,6 +98,7 @@ The house sits back from the street, surrounded by a high stone wall. A heavy oa
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8d464d78-092b-4cfb-b0d9-8444cdd4ec5b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -95,7 +107,9 @@ The house sits back from the street, surrounded by a high stone wall. A heavy oa
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

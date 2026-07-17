@@ -1,8 +1,12 @@
 ---
-location: [2789.472,  765.306]
+aliases: []
+tags: [map-marker]
+location: [2789.472, 765.306]
 mapmarker: Service
+title: Hrubilasz Riding Academy
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hrubilasz Riding Academy
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/hrubilasz-riding-academy|Hrubilasz Riding Academy]]<br>
 **Location Type:** Training
 
-**Description**<br> 
-
+**Description**<br>

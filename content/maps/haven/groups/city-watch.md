@@ -1,6 +1,12 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: city-watch
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 **Markers in the group:**
+
 - [[maps/haven/markers/mint-station]]
 - [[maps/haven/markers/academy-barracks]]
 - [[maps/haven/markers/caravan-station]]
@@ -18,5 +24,3 @@
 - [[maps/haven/markers/southbridge-barracks]]
 - [[maps/haven/markers/academy-training-field]]
 - [[maps/haven/markers/grey-halls-station]]
-
-

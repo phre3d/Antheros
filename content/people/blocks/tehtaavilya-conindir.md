@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Tehtaavilya Conindir
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Tehtaavilya Conindir
 
 ````col
@@ -37,42 +43,16 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
-**Racial** 
+
+**Racial**
 
 1 Wizard cantrip of choice
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +3 to hit , 1d4+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

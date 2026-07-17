@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-docks, type-tavern]
+title: The Waterlogged Rat
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Waterlogged Rat
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A low-class hangout 
 
-## Description 
+# Description
+
+## A low-class hangout
+
+## Description
+
 The Rat is a dim, smoke-filled, low class bar. It is a favorite hangout for many of [[people/cariadoc|Cariadoc]]'s thugs, some of whom may be found here at almost any hour.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The Rat is a dim, smoke-filled, low class bar. It is a favorite hangout for many
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The Rat is a dim, smoke-filled, low class bar. It is a favorite hangout for many
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The Rat is a dim, smoke-filled, low class bar. It is a favorite hangout for many
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7d581473-a0bb-406c-b81d-ef9bc7233858<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ The Rat is a dim, smoke-filled, low class bar. It is a favorite hangout for many
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
-location: [5699.677,  5652.041]
+aliases: []
+tags: [map-marker]
+location: [5652.041, 5699.677]
 mapmarker: Shopping
+title: The Feather and Frock
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Feather and Frock
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-feather-and-frock|The Feather and Frock]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

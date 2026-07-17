@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #the-street-of-silk-veils #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-street-of-silk-veils]
+title: G. Maximus
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # G. Maximus
 
-### 
+###
 
-**Full Name:**  G.  Maximus    
+**Full Name:**  G.  Maximus
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Maximus himself is as venal and loathsome as the activities he directs, and is w
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/g.-maximus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,29 +1,40 @@
-#import #organization   #Free_City_of_Haven #type-entertainment-troupe
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-entertainment-troupe]
+title: "Redbeard's Repertory Players"
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Redbeard's Repertory Players
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 group that Fenris Redbeard takes on the road one a year
 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Entertainment, Troupe<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -36,10 +47,11 @@ group that Fenris Redbeard takes on the road one a year
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -57,9 +69,9 @@ group that Fenris Redbeard takes on the road one a year
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -72,10 +84,11 @@ group that Fenris Redbeard takes on the road one a year
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -99,7 +112,7 @@ group that Fenris Redbeard takes on the road one a year
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -173,21 +186,24 @@ group that Fenris Redbeard takes on the road one a year
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-### Members 
+### Members
+
 [tagged:redbeard's repertory players|list|none]
 
 ---
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 371660d3-8a20-4500-b950-081feb9737b3<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -196,7 +212,9 @@ group that Fenris Redbeard takes on the road one a year
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

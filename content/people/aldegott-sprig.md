@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Aldegott Sprig
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Aldegott Sprig
 
-### 
+###
 
-**Full Name:**  Aldegott  Sprig    
+**Full Name:**  Aldegott  Sprig
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ A fletcher who specializes in the shaft and point of arrows and bolts.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/aldegott-sprig]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

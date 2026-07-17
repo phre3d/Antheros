@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #hofstra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hofstra-family, import, npc, person, the-glens]
+title: Abel Hofstra
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Abel Hofstra
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The spitting image of his father, except for the graying temples. He does not ha
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/abel-hofstra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [4909.881,  4377.551]
+aliases: []
+tags: [map-marker]
+location: [4377.551, 4909.881]
 mapmarker: Residence
+title: House of Lucius Cardallo
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Lucius Cardallo
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/house-of-lucius-cardallo|House of Lucius Cardallo]]<br>
 **Location Type:** Large House
 
-**Description**<br> 
-
+**Description**<br>

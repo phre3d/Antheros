@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Emmanuel York
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Emmanuel York
 
-### 
+###
 
-**Full Name:**  Emmanuel  York    
+**Full Name:**  Emmanuel  York
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Emmanuel is the owner of a small merchantman that hauls grain for the Haven mark
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/emmanuel-york]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

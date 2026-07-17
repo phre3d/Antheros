@@ -1,4 +1,9 @@
-#import #statblock #monster #Dark_Nuns_Church #monster
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -36,50 +41,22 @@ Medium undead (any race) Neutral Evil
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[~attachments/dndline.png]]
 
 # Actions
-### Multi-attack 
+
+### Multi-attack
+
  The Skeleton Nun can attack with two sets of boney fingers.  
-### Boney Fingers 
-  **Melee Weapon Attack:**  +3 to hit , tech 5 ft., one target. 
+
+### Boney Fingers
+
+  **Melee Weapon Attack:**  +3 to hit , tech 5 ft., one target.
+
   **Hit:**  2  piercing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 Boney, pointy, and haggard, the skeleton nun wears her habit long after life has left her body. All that remains are her bones and her tortured soul.
-
-
-
-
-
-
-

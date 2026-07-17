@@ -1,8 +1,12 @@
 ---
-location: [3479.268,  3582.653]
+aliases: []
+tags: [map-marker]
+location: [3479.268, 3582.653]
 mapmarker: Service
+title: Sweet Springs
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Sweet Springs
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/sweet-springs|Sweet Springs]]<br>
 **Location Type:** Laundry
 
-**Description**<br> 
-
+**Description**<br>

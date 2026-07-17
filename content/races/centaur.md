@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Centaur Race
+date modified: 2026-07-16, 9:38:00 pm
+---
+
 # Centaur Race
 
 ````col
@@ -57,5 +63,7 @@ Centaurs' given names are passed down through family lines. The name bestowed on
 
 ```
 ````
+
 ---
+
 *Source:*    <!-- Original Source of the item -->

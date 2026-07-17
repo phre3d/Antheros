@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #disaffected-artisans #the-dwarrow #npc
+---
+aliases: []
+tags: [disaffected-artisans, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Borin
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Borin
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Clockmaker
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/borin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

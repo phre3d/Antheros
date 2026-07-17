@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Portia Maggia
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Portia Maggia
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +4 to hit , 1d4+1 piercing damage  
    **Dagger, thrown:**  +4 to hit , 1d4+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

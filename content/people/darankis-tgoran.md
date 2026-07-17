@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, npc, person]
+title: "Darankis t'Goran"
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Darankis t'Goran
 
-### 
+###
 
-**Full Name:**  Darankis  t'Goran    
+**Full Name:**  Darankis  t'Goran
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A slender, dark-haired, dark-complexioned man of later years. He is a prominent 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/darankis-tgoran]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

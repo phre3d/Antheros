@@ -1,17 +1,26 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-greengrocer #greengrocer
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, greengrocer, import, landmark, thieves-market, type-greengrocer]
+title: Ballard Lindsey - Produce
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Ballard Lindsey - Produce
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-This greengrocer brings fresh produce and fruits to the market each day during their particular growing seasons. He frequently has hard-to-obtain varieties of fruit from faraway countries (15% chance), and occasionally normal varieties available out of season (25% chance). 
 
-He does not like to haggle, and will become rather surly if pushed about it. 
+# Description
+
+This greengrocer brings fresh produce and fruits to the market each day during their particular growing seasons. He frequently has hard-to-obtain varieties of fruit from faraway countries (15% chance), and occasionally normal varieties available out of season (25% chance).
+
+He does not like to haggle, and will become rather surly if pushed about it.
 
 No one has figured out yet where he gets what he sells since he is not known to deal with any of the farmers or ship's captains around Haven. One of Ballard's competitors may be willing to pay for information on his sources of supply.
 
@@ -49,11 +58,9 @@ No one has figured out yet where he gets what he sells since he is not known to 
 
 **Image:** n/a
 
-**Shop / Produce** 
-
+**Shop / Produce**
 
  **Location:**  Thieves Market
-
 
  **Map Reference:**  TM-02
 
@@ -61,12 +68,13 @@ No one has figured out yet where he gets what he sells since he is not known to 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Market stall
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -84,6 +92,7 @@ No one has figured out yet where he gets what he sells since he is not known to 
 ---
 
  **Stall Type:**  Open Stall
+
  **# Occupants:**  Owner
 
  **Prices:**  Fair
@@ -101,7 +110,9 @@ No one has figured out yet where he gets what he sells since he is not known to 
  **Purse:**  35gp
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 85bc638c-5c0c-408c-b3dc-9f3a56851137<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -110,7 +121,9 @@ No one has figured out yet where he gets what he sells since he is not known to 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

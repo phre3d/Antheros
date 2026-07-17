@@ -1,8 +1,12 @@
 ---
-location: [4677.228,  5408.163]
+aliases: []
+tags: [map-marker]
+location: [4677.228, 5408.163]
 mapmarker: Inns & Taverns
+title: Holiday Inn
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Holiday Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/holiday-inn|Holiday Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

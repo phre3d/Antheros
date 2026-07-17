@@ -1,5 +1,12 @@
-#import #history 
+---
+aliases: []
+tags: [history, import]
+title: Declaration of the 2nd Namori Empire
+date modified: 2026-07-16, 9:18:07 pm
+---
+
 # Declaration of the 2nd Namori Empire
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -43,7 +50,3 @@ With the surrender of Emor, the Namori Empire completed its western expansion an
 
 ```
 ````
-
-
-
-

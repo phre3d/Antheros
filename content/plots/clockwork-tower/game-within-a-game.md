@@ -1,7 +1,14 @@
-#import #article #Clockwork_Tower
+---
+aliases: []
+tags: [article, plot/clockwork-tower, import]
+title: Game within a Game
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Game within a Game
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
@@ -56,7 +63,9 @@ column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 3a33908c-c76f-486d-a6a1-c424d3a81707
 
 --- end-column ---

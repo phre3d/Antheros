@@ -1,8 +1,12 @@
 ---
-location: [4366.003,  3048.98]
+aliases: []
+tags: [map-marker]
+location: [3048.98, 4366.003]
 mapmarker: Landmark
+title: "Wizard's Isle"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Wizard's Isle
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Landmark
 **Location:** [[landmarks/wizards-isle|Wizard's Isle]]<br>
 **Location Type:** Other Landmark
 
-**Description**<br> 
+**Description**<br>
+
 Off the north end of Trade Island, this was once used by smugglers moving good upreiver.

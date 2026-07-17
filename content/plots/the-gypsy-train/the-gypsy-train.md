@@ -1,9 +1,15 @@
-#plot  #The_Gypsy_Train 
+---
+aliases: []
+tags: [93, plot, plot/The_Gypsy_Train]
+title: The Wandering Folk Train
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 >[!info]
 >![[plots/the-gypsy-train/images/the-gypsy-train-cover.jpg]]
 >
 >---
-> 
+>
 >![[plots/the-gypsy-train/table-of-contents|Table of Contents]]
 >
 >---
@@ -36,11 +42,13 @@
 >|6|[[plots/the-gypsy-train/npcs/ambrosis-pakmydis\|Ambrosis Pakmydis]] |
 
 # The Wandering Folk Train
+
 ### A Moving Scenario for AD&D
 
 **Note:** This has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign. Key changes include converting stats to D&D 5e and renaming "gypsy" to "wandering folk".
 
 # DM Notes
+
 The Wandering Folk Train, written for the AD&D® game, is a “moving town” adventure that player characters may encounter almost anywhere, usually on a road between two towns or cities. Among the various wagons, two distinct types will be found: the house­hold wagon and the merchant wagon. Each type is pulled by two or four draft horses.
 
 The household wagon is like a predecessor of today’s modern motor home. It is occupied by one or two families and contains beds and storage space for household items and family possessions. A normal-sized door is located in the back, which is the main entrance, led to by a single step, while another smaller entrance can be found in front behind the bench that the drivers occupy when the wagon is moving. Each side of the wagon has a pair of shuttered windows.
@@ -62,7 +70,6 @@ Even though the Folk may be between towns, not all towns are close together. If 
 
 If adventurers come upon the caravan between sunset and early morning, they will find the Wandering Folk wagons positioned as shown in the accompanying illustration of an en­campment. Guards will be posted as speci­fied below. During daylight hours the caravan will be moving in the order de­scribed in the table, above.
 
-
 ## High prices, light fingers
 
 The Vanagas family is a band of Wandering Folk who make their living traveling between cities and towns, trading for whatever mer­chandise is available in each town they visit. They have been in this business for two generations and have their seasonal paths well charted, knowing which markets pros­per in which cities at what time of year. Their merchandise will usually reflect the town that they have visited most recently. They will sell or trade merchandise in deal­ings with non-Folk on the road, but their prices in such a case will normally be marked up 50% to 100% over normal retail prices (the extra cost of convenience).
@@ -80,12 +87,11 @@ The suggested encounters described above represent eight ways in which the membe
 ---
 
 # Credits
+
 Designed by Richard Fichera<br>
 Artwork by Bob Maurus<br>
 
-Published in *Dragon*, Issue #93, January 1985
-
-
+Published in *Dragon*, Issue, January 1985
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>

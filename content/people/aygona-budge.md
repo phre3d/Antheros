@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-dell]
+title: Aygona Budge
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Aygona Budge
 
-### 
+###
 
-**Full Name:**  Aygona  Budge    
+**Full Name:**  Aygona  Budge
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A ruddy-faced halfling who always wears a velvet waistcoat and pocket watch, Ayg
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/aygona-budge]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

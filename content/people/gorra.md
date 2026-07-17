@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Gorra
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gorra
 
-### 
+###
 
-**Full Name:**  Gorra      
+**Full Name:**  Gorra
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Gorra and her husband [[person/jambur|Jambur]], make and sell men's and women's 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gorra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

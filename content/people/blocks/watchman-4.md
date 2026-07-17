@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Watchman 4
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Watchman 4
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Shortbow:**  +3 to hit , 1d6+0 piercing damage  
   **Club:**  +1 to hit , 1d4-2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

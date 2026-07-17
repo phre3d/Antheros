@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-livestock #guild-of-the-beast #livestock
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livestock, magic-street, type-livestock]
+title: Unusual Pets
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Unusual Pets
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Exotic pets for the discerning 
 
-## Description 
+# Description
+
+## Exotic pets for the discerning
+
+## Description
+
 Sometimes used as a source for familiars???
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Sometimes used as a source for familiars???
 
 **Image:** n/a
 
-**Livestock (Shopping)** 
+**Livestock (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Sometimes used as a source for familiars???
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Sometimes used as a source for familiars???
 ---
 
 ### World Anvil Metadata
+
 **Id:** a85955e7-76d7-467c-b8cb-8624c9efa93a<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -90,7 +103,9 @@ Sometimes used as a source for familiars???
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

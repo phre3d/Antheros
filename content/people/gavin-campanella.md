@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Gavin Campanella
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gavin Campanella
 
-### 
+###
 
-**Full Name:**  Gavin  Campanella    
+**Full Name:**  Gavin  Campanella
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Keeper of the [[landmark/carillon-tower|Carillon Tower]], Gavin lives on the low
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gavin-campanella]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

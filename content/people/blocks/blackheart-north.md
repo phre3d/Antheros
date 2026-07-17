@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: BlackHeart North
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # BlackHeart North
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Light hammer:**  +4 to hit , 1d4+2 bludgeoning damage  
   **Shortbow:**  +4 to hit , 1d6+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

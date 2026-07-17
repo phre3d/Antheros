@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Great Junkyard
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Great Junkyard
 
 ````col
@@ -136,7 +142,6 @@ The junkyard takes an action to cause one of the following effects; the same eff
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

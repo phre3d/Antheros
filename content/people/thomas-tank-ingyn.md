@@ -1,9 +1,15 @@
-#import #person 
+---
+aliases: []
+tags: [import, person]
+title: "Thomas 'Tank' Ingyn"
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Thomas 'Tank' Ingyn
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -197,13 +203,10 @@ Thomas is a tall, broad-shouldered man, and the constant field sunlight weathere
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

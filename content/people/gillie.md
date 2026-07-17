@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Gillie
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gillie
 
-### 
+###
 
-**Full Name:**  Gillie      
+**Full Name:**  Gillie
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to [[plots/street-encounters|Street Encounters]]: Pouch on a String
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gillie]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

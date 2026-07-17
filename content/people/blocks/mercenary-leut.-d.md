@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary Leut. D
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary Leut. D
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Crossbow, heavy:**  +6 to hit , 1d10+2 piercing damage  
   **Shortsword:**  +7 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

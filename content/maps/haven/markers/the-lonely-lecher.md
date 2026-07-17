@@ -1,8 +1,12 @@
 ---
-location: [1659.881,  4217.347]
+aliases: []
+tags: [map-marker]
+location: [1659.881, 4217.347]
 mapmarker: Inns & Taverns
+title: The Lonely Lecher
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Lonely Lecher
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-lonely-lecher|The Lonely Lecher]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

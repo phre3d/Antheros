@@ -1,9 +1,15 @@
-#import #person #the-heights #npc #maggia-family
+---
+aliases: []
+tags: [import, maggia-family, npc, person, the-heights]
+title: Georgio Iffleren
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Georgio Iffleren
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -191,13 +197,10 @@ Works as the head of security for the [[organization/maggia-family|Maggia Family
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

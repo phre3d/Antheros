@@ -1,8 +1,12 @@
 ---
-location: [3816.003,  2330.612]
+aliases: []
+tags: [map-marker]
+location: [2330.612, 3816.003]
 mapmarker: Service
+title: Herundor Holdings
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Herundor Holdings
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/herundor-holdings|Herundor Holdings]]<br>
 **Location Type:** Real Estate
 
-**Description**<br> 
-
+**Description**<br>

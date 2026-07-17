@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-victualer #guild-of-provenders #victualer
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-south-docks, type-victualer, victualer]
+title: Fawset Street Market
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Fawset Street Market
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Victualer (Shopping)** 
+**Victualer (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 6ffe44c8-a2a7-4750-b54b-e6ff32c7f4e5<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

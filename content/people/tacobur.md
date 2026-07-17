@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #disaffected-artisans #guild-of-metalsmiths #the-dwarrow #npc
+---
+aliases: []
+tags: [disaffected-artisans, Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-dwarrow]
+title: Tacobur
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tacobur
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Unquestionably the best dwarven metalworker in Haven, and arguably the peer of S
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tacobur]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

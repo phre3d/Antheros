@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #varrasch-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights, varrasch-family]
+title: Kronen Varrasch
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kronen Varrasch
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ A barrel-chested, husky giant, Kronen is several inches taller but somewhat thin
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kronen-varrasch]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

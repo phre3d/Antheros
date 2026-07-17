@@ -1,6 +1,14 @@
-#spell 
+---
+aliases: []
+tags: [spell]
+title: Recolour
+date modified: 2026-07-16, 9:18:07 pm
+---
+
 # Recolour
+
 *1st level transmutation*
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -23,6 +31,7 @@ If you maintain concentration for the entire duration of the spell, the new colo
 
 ```
 ````
+
 ---
 
 *Source:* Debacle of the Burgled Budgie

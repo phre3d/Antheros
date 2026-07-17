@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Raku the Potter
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Raku the Potter
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Quality: Generaly Good, aside from the above
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/raku-the-potter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

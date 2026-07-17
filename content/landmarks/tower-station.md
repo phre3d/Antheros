@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-dwarrow, type-guard]
+title: Tower Station
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Tower Station
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Tower Station is home to 40 guards, of which about 10 are on duty at any point in time. The Station Captain is Lithfan Isilluva, who is also Borough Commander for The Outlands.
 
-## NPC Encounters 
+## NPC Encounters
+
 Paladin Brandybuck
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Paladin Brandybuck
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Paladin Brandybuck
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Paladin Brandybuck
 ---
 
 ### World Anvil Metadata
+
 **Id:** 88873682-278a-4473-852a-cd95cea27d9b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -93,7 +107,9 @@ Paladin Brandybuck
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

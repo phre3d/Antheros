@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person, statblock]
+title: Dark Mother Superior
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Dark Mother Superior
 
 ````col
@@ -40,7 +46,9 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 Ellyn Cloudfang, the current Dark Mother Superior, is a 50-year-old female half-elf. - She has short, straight, blond hair and green eyes.
+
 - She has rugged red skin.
 - She stands 187cm (6'2\") tall and has a lean build.
 - She has an oval, awful face.
@@ -48,43 +56,24 @@ Ellyn Cloudfang, the current Dark Mother Superior, is a 50-year-old female half-
    **Personality**  - She proudly worships [[people/azriel|Azriel]]: Goddess of Disease & Suffering, Mistress of Pain
 - She is very pessimistic. She uses a beautiful walking cane.
 
-
-
 ![[dndline.png]]
 
 # Spellcasting
+
 Spells are primarilay related to reanimation of the dead, not combat, as she expects to be protected.  **Casting Ability:**  INT
+
   **Spell Save DC:**  15
+
   **Spell Attacks:**  +7 to hit
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Special Abilities
+
 **Life Giving Blood.**  Her blood is the cure for any sickness.
 
 ![[dndline.png]]
 
 # Actions
+
 **Leadership.**  For 1 minute, the Dark Mother Superior can utter a Special Command or warning whenever a non-hostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can <u>add a d6 to its roll provided it can hear and understand the Dark Mother Superior</u>. A creature can benefit from only one Leadership die at a time. This effect ends if the Dark Mother Superior is killed.
-
-
-
-
-
-
-
-
-
-
-
-
-

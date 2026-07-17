@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Callon
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Callon
 
-### 
+###
 
-**Full Name:**  Callon      
+**Full Name:**  Callon
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Callon is a journeyman leatherworker in [[person/sindra|Sindra]]'s shop and does
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/callon]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

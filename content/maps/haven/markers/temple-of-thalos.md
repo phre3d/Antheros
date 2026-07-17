@@ -1,8 +1,12 @@
 ---
-location: [3934.37,  5116.327]
+aliases: []
+tags: [map-marker]
+location: [3934.37, 5116.327]
 mapmarker: Religion
+title: Temple of Thalos
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Thalos
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-thalos|Temple of Thalos]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Thalos: God of the Night, Patron of Thieves, Lord of Mischief

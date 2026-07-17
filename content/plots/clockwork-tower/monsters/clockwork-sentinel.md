@@ -1,4 +1,9 @@
-#import #statblock #monster #Clockwork_Tower #monster
+---
+aliases: []
+tags: [plot/clockwork-tower, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:17 pm
+---
 
 ````col
 ```col-md
@@ -40,31 +45,45 @@ Medium construct (humanoid) unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-### Immutable Form. 
- The sentinel is immune to any spell or effect that would alter its form. 
- 
-### Magic Resistance. 
+
+### Immutable Form.
+
+ The sentinel is immune to any spell or effect that would alter its form.
+
+### Magic Resistance.
+
  The sentinel has advantage on saving throws against spells and other magical effects.
- 
-### Integrated Weapons. 
+
+### Integrated Weapons.
+
  The sentinel's weapon attacks are magical.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Multiattack 
-  The sentinel makes two blade arm attacks. 
-### Blade Arm 
-   **Melee Weapon Attack:**  +7 to it , reach 5 ft., one target. 
-  **Hit:**  11  slashing damage. 
-### Net Launcher (Recharge 5-6) 
-  **Ranged Weapon Attack:**  +4 to hit , range 15/30 ft., one target. 
+
+### Multiattack
+
+  The sentinel makes two blade arm attacks.
+
+### Blade Arm
+
+   **Melee Weapon Attack:**  +7 to it , reach 5 ft., one target.
+
+  **Hit:**  11  slashing damage.
+
+### Net Launcher (Recharge 5-6)
+
+  **Ranged Weapon Attack:**  +4 to hit , range 15/30 ft., one target.
+
   **Hit:**  The <u>target is restrained</u>. A creature can use its action to make a <u>DC 14 Strength check</u>, freeing itself or another creature within its reach on a success. Dealing <u>5 slashing damage to the net (AC 10)</u> also frees the creature without harming it and destroys the net.
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 The Clockwork Sentinel is a marvel of engineering, standing at roughly the height of an average humanoid but with a much sturdier build. Its body is primarily made of brass, with intricate gear patterns visible through gaps in its armor plating. The sentinel's head is a simple, helmet-like structure with two glowing eyes that observe its surroundings with mechanical precision. One of its arms ends in a sharp, blade-like structure, while the other features a net launcher used to restrain targets.   It moves with a quiet efficiency, the soft whirring of gears and the faint hiss of steam accompanying each step. Crafted to protect areas of importance, the Clockwork Sentinel remains ever vigilant against intruders.
 
 ---
+
 **Source:** Penny Blood Adventures

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Juliano Monferrat
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Juliano Monferrat
 
-### 
+###
 
-**Full Name:**  Juliano  Monferrat    
+**Full Name:**  Juliano  Monferrat
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Refer to scenario [[plots/the-black-book|The Black Book]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/juliano-monferrat]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

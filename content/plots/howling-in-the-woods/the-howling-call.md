@@ -1,4 +1,10 @@
-#import #plot  #Howling_in_the_Woods
+---
+aliases: []
+tags: [plot/Howling-in-the-Woods, import, plot]
+title: The Howling Call
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Howling Call
 
 ````col
@@ -36,8 +42,6 @@ Each night the party guards Milk and Cheese, they are terrorized by The Howling 
 
 ```
 ````
-
-
 
 ---
 

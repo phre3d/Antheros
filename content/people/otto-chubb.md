@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-dell]
+title: Otto Chubb
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Otto Chubb
 
-### 
+###
 
-**Full Name:**  Otto  Chubb    
+**Full Name:**  Otto  Chubb
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Offers meat on the hoof in more ways than one these days. While roly-poly Otto a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/otto-chubb]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

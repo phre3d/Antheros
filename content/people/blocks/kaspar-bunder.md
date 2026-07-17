@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kaspar Bunder
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kaspar Bunder
 
 ````col
@@ -37,41 +43,15 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
+
 Sleep | Shield | Detect Magic | Read Magic
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +3 to hit , 1d8+1 slashing damage  
   **Mace:**  +3 to hit , 1d6+1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

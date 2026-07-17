@@ -1,8 +1,12 @@
 ---
-location: [3246.615,  1809.184]
+aliases: []
+tags: [map-marker]
+location: [1809.184, 3246.615]
 mapmarker: Education
+title: College of Rhetoric
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # College of Rhetoric
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/college-of-rhetoric|College of Rhetoric]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

@@ -1,14 +1,23 @@
-#import #settlement #Free_City_of_Haven #capital
+---
+aliases: []
+tags: [capital, Free_City_of_Haven, import, settlement]
+title: Herudana
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # Herudana
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Large city
 
 Oriental flavour
@@ -45,27 +54,28 @@ Oriental flavour
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** Large city<br>
 **Other Name(s):** <br>
-**Located In:** 
+**Located In:**
 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:**  <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9165fd2f-d607-4579-83a7-eae6c838997f<br>
 **Entity Type:** Article / settlement<br>
 **Category:** The Namori Empire<br>
@@ -74,7 +84,9 @@ Oriental flavour
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

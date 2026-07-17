@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Kazan the Mender
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kazan the Mender
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A half-orc who makes a meager living mending pots and pans; also buys and sells 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kazan-the-mender]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

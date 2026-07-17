@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Galeana
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Galeana
 
-### 
+###
 
-**Full Name:** Abbess Galeana      
+**Full Name:** Abbess Galeana
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Galeana is also an outspoken opponent of the growing materialism of the city's e
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/galeana]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

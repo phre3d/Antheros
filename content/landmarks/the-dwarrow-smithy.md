@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-blacksmith #guild-of-metalsmiths #blacksmith
+---
+aliases: []
+tags: [blacksmith, cat-shop, Free_City_of_Haven, guild/metalsmiths, import, landmark, the-dwarrow, type-blacksmith]
+title: The Dwarrow Smithy
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Dwarrow Smithy
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## [[people/dagar-oakenhaft|Dagar Oakenhaft]], Prop. 
 
-## Description 
+# Description
+
+## [[people/dagar-oakenhaft|Dagar Oakenhaft]], Prop.
+
+## Description
+
 Dagar is rather slight for a smithy but the red-bearded dwarf is no less powerful for his lack of girth (his secret is tremendous upper arm strength). He works at a forge mounted on a large, rectangular wooden platform, under a partially open wood canopy. This pavilion is located in the shade of three immense linden trees, in one of the few areas of green in [[settlements/the-dwarrow|The Dwarrow]]. Dagar is newlywed, and totally and completely infatuated with his new bride, Merian (found for him by Meydal) - he may be convinced to trade his services for a traveler's small trinket, if he thinks it will brighten Merian's eye. The pedestal for Dagar's forge, unbeknownst to him, hides a mighty religious talisman (see North Corridor, Scenarios).
 
-## Price Range 
+## Price Range
+
 Fair
 
-## Quality 
+## Quality
+
 Good
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Good
 
 **Image:** n/a
 
-**Blacksmith (Shopping)** 
+**Blacksmith (Shopping)**
 
  **Owner:**  Dagar Oakenhaft
 
@@ -66,12 +78,14 @@ Good
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Blacksmith / Smithy
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Good
 ---
 
 ### World Anvil Metadata
+
 **Id:** fcf748ae-c7f9-4eb1-846d-a6fd8b4b9aa4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -96,7 +111,9 @@ Good
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

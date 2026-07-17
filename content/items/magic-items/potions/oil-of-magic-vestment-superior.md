@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Oil of Magic Vestment, Superior
+date modified: 2026-07-16, 9:19:02 pm
+---
+
 # Oil of Magic Vestment, Superior
 
 >[!info]
@@ -7,40 +13,42 @@
 >**Effect Category:** Mechanic
 >
 >**Application:**Coat <br>
->**Duration:** 8 hours 
+>**Duration:** 8 hours
 >
 >**Price:** 258,000gp
 
-
 ## Description
+
 An oily substance that is brown in color. It smells like rot, but tastes like milk.
 
 There is enough to coat one set of armor or clothing. Applying the oil takes 10 minutes.
 
 ## Effects
+
 The coated item is magical and grants a bonus of +3 to AC. Coated clothing is treated as armor that grants an AC of 10 plus the target's Dexterity modifier.
 
-
-
 ## Crafting
+
 **Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
+
 **Base:** [[/materials/Aluminium grease|Aluminium grease]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
 
 ## Results from Identify Spell
+
 *Crafter:* Alchemist <br>
 *Base:* Aluminium grease <br>
 *Essence(s):*  Air    Earth  Life  Shadow  Water <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

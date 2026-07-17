@@ -1,15 +1,24 @@
-#import #organization   #Free_City_of_Haven #type-social-brotherhood
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-social-brotherhood]
+title: Brotherhood of the Broken Blade
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Brotherhood of the Broken Blade
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-The Brotherhood are a group of older, experienced dwarven warriors, who hold in their possession the shards of the legendary Singing Sword of Truth, Waarhite. They seek the dwarven man or woman fated to make the weapon whole again, and to free the ancient dwarven stronghold Arkendelve from its domination by a stalker from the netherworld (see  [[plots/free-city-of-haven/haven-scenarios|Haven Scenarios]]: The Broken Blade). 
+
+The Brotherhood are a group of older, experienced dwarven warriors, who hold in their possession the shards of the legendary Singing Sword of Truth, Waarhite. They seek the dwarven man or woman fated to make the weapon whole again, and to free the ancient dwarven stronghold Arkendelve from its domination by a stalker from the netherworld (see  [[plots/free-city-of-haven/haven-scenarios|Haven Scenarios]]: The Broken Blade).
 
 The Brotherhood may be encountered all together, at their semi-regular meetings at [[landmarks/the-stone-hammer|The Stone Hammer]] inn, or its individual members may be found at their various places of business. However, if a dwarven player is an experienced fighter and makes more than one appearance in [[settlements/the-dwarrow|The Dwarrow]], he will probably not have to seek them out, for the brothers are likely to be already searching for him.
 
@@ -20,16 +29,18 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Social, Brotherhood<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -42,10 +53,11 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -63,9 +75,9 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -78,10 +90,11 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -105,7 +118,7 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -179,21 +192,24 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-**See also:** 
+**See also:**
+
 - [[plots/free_city_of_haven/scenarios/The Broken Blade|plots/Free City of Haven/Scenarios/The Broken Blade]] scenario
 
 ---
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 4a287a6e-7bd4-4721-9333-79ee98681350<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -202,7 +218,9 @@ Their leader is [[people/coppin-oxblood|Coppin Oxblood]], with [[people/tolbin-i
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

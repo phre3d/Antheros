@@ -1,8 +1,12 @@
 ---
-location: [4909.881,  4431.633]
+aliases: []
+tags: [map-marker]
+location: [4431.633, 4909.881]
 mapmarker: Inns & Taverns
+title: The Hanged Man
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Hanged Man
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-hanged-man|The Hanged Man]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
+**Description**<br>
+
 A tavern popular with the legal crowd

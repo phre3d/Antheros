@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-labyrinth]
+title: Varkin Jelas
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Varkin Jelas
 
-### 
+###
 
-**Full Name:**  Varkin  Jelas    
+**Full Name:**  Varkin  Jelas
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Varkin, owner of [[landmark/the-silver-penny|The Silver Penny]], is a lean, dark
 
 ---
 
-
-
 ![[people/blocks/varkin-jelas]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

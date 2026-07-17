@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #south-caravan-street
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, south-caravan-street]
+title: Keliduros Threelegs
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Keliduros Threelegs
 
-### 
+###
 
-**Full Name:**  Keliduros  Threelegs    
+**Full Name:**  Keliduros  Threelegs
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ One of Baraggio's old traveling companions, a centaur who walks using a peg-leg 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/keliduros-threelegs]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

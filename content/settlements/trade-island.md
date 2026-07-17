@@ -1,27 +1,36 @@
-#import #settlement #Free_City_of_Haven #quarter
+---
+aliases: []
+tags: [Free_City_of_Haven, import, quarter, settlement]
+title: Trade Island
+date modified: 2026-07-16, 9:18:07 pm
+---
+
 # Trade Island
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Trade Island splits the River Dorian into two deep and rocky gorges of rushing rapids. The island is nearly a mile in length. Two sets of bridges, Stonebridge and Woodbridge, cross the river via the island. This is the only place the Dorian may be bridged for commercial traffic. Trade Island has served as a neutral meeting place for merchants and traders for countless centuries, even before the city existed. Those who buy and sell on Trade Island, rate no warehouses, large caravans, or trade ships; they are considered the least of the merchants and traders of Haven; they are the [[organizations/free-traders|Free Traders]], Wandering Folk, and various craftsmen.
 
-The greater part of the island is an open-air bazaar, where all manner of goods may be found (if one looks hard enough). The bazaar is a sprawling tapestry of color and sound, where traders and craftsmen display their wares from wagons, tents, pavilions, hastily constructed booths, or from scattered camps.   
+The greater part of the island is an open-air bazaar, where all manner of goods may be found (if one looks hard enough). The bazaar is a sprawling tapestry of color and sound, where traders and craftsmen display their wares from wagons, tents, pavilions, hastily constructed booths, or from scattered camps.
 
 All manner of trinket may be found: things to delight the eye or tempt the jaded palate; things to make life easier, and things to give a moment's joy. The voices of traders fill the air, calling attention to their wares, "which are like no other", and further calling attention to their prices, "which are the lowest in Haven!” The sounds of [[articles/haggling|Haggling]] over costs of such precious goods as spices from Seki, and knick-knacks from far Namorin, resounds amidst the stirring crowd. The atmosphere is electric; a bustling panorama of noise and riotous color exists, unmatched anywhere in Haven (who else would wear such lousy looking clothes?).
 
 The booths of the major traders and craftsmen line the length of the Loop, a wide, well-trodden dirt road that circles the island, and Caravan Street, between the north and south bridges. Lesser traders form along lanes that run from one side of the Loop to the other, but rarely set up near the forbidding ruins of the South Keep (which is fearfully haunted, as any Havener will tell). The Wandering Folk have traditionally encamped along the South Loop, near the ruins. As the Loop moves north, it climbs a low hill and forms a ramp leading to the gates of [[landmarks/the-citadel|The Citadel]], the imposing stone castle that has guarded the island and its vital bridges for over 4,000 years.
 
-The population of Trade Island is transient; except for [[landmarks/the-citadel|The Citadel]] guards and a small number of semi-permanent residences, peoples are always on the move. Of all the populace, the [[organizations/free-traders|Free Traders]] are the most numerous. 
+The population of Trade Island is transient; except for [[landmarks/the-citadel|The Citadel]] guards and a small number of semi-permanent residences, peoples are always on the move. Of all the populace, the [[organizations/free-traders|Free Traders]] are the most numerous.
 
-There is stiff competition for the choice spots to set up stalls, those on the Bridge roads, and on the Loop near [[landmarks/the-citadel|The Citadel]] and between [[settlements/the-bridges|The Bridges]]. 
+There is stiff competition for the choice spots to set up stalls, those on the Bridge roads, and on the Loop near [[landmarks/the-citadel|The Citadel]] and between [[settlements/the-bridges|The Bridges]].
 
-[var:private-access-phre3d]Among the [[organizations/free-traders|Free Traders]], there is a loose hierarchy, measured by the size of one's business, and its apparent wealth, as well as by reputation of trading acumen. Well-established traders of higher prestige usually get the best spots in the bazaar, while the younger traders and smaller operations take what is left. The poorest end up on the far end of the Loop, near the gypsies. Disputes over precedence or other matters are usually settled peacefully by arbitration by another Free Trader who is known for his fairness as violence is considered to be very bad for business. 
+[var:private-access-phre3d]Among the [[organizations/free-traders|Free Traders]], there is a loose hierarchy, measured by the size of one's business, and its apparent wealth, as well as by reputation of trading acumen. Well-established traders of higher prestige usually get the best spots in the bazaar, while the younger traders and smaller operations take what is left. The poorest end up on the far end of the Loop, near the gypsies. Disputes over precedence or other matters are usually settled peacefully by arbitration by another Free Trader who is known for his fairness as violence is considered to be very bad for business.
 
 Not all on Trade Island are [[organizations/free-traders|Free Traders]]. Many craftsmen and artisans bring their wares to the Island from workshops in Haven and nearby villages to better catch the eye - and the purses - of customers. Food and drink vendors operate out of pushcarts and simple stalls, and the ever-present beggars and thieves roam the bazaar in search of marks. There are even those who have made Trade Island their home, living in simple shacks or tents, and rarely crossing either Bridge.
 
@@ -29,24 +38,28 @@ The most visually impressive residents of the Island have the least to do with i
 
 Below the southern bend of the Loop is the traditional camping spot of the [[ethnicites/wandering-folk|wandering folk]]. The Ursa clan that presently occupies this spot are primarily horse dealers and trainers from the Great Plains area, dark of skin and hair, and wear brightly colored, embroidered garb. They are in town for the annual Stallion's Challenge, the most prestigious horse race in the region [var:private-access-phre3d] (see [[plots/free-city-of-haven/scenarios/the-challenge-cup|plots/Free City of Haven/Scenarios/The Challenge Cup]]). This race has been dominated for years by the [[organizations/families/varrasch-family|Varrasch Family]] of [[settlements/the-heights|The Heights]], but this year, the Wandering Folk have a surprise entry, a magnificent chestnut stallion named Firebringer, who has won many a race in the Plains.  
 
-[var:private-access-phre3d]]Clan Ursa  is led by [[people/daruko-ken-ursa|Daruko Ken-Ursa]], a proud, shrewd man, and a charismatic leader whose total authority is rarely questioned. They are a close knit group of around forty men, women and children, and keep mostly to themselves, although they may wander the bazaar. The Ursa speak their own language among themselves, but they also know the Common tongue and many other languages from their constant traveling. The gypsies are also renowned for their "second sight", and several members of the clan will see clients for foreseeing, answering questions, etc. during the day - for a reasonable fee, of course. 
+[var:private-access-phre3d]]Clan Ursa  is led by [[people/daruko-ken-ursa|Daruko Ken-Ursa]], a proud, shrewd man, and a charismatic leader whose total authority is rarely questioned. They are a close knit group of around forty men, women and children, and keep mostly to themselves, although they may wander the bazaar. The Ursa speak their own language among themselves, but they also know the Common tongue and many other languages from their constant traveling. The gypsies are also renowned for their "second sight", and several members of the clan will see clients for foreseeing, answering questions, etc. during the day - for a reasonable fee, of course.
 
 Beyond the Wandering Folk camp, are the ruins of an ancient stone fortress, long abandoned, known as the South Keep. No one ventures past its overgrown, crumbling walls or even camps within a hundred yards of it at night. All Haveners and Islanders know it to be haunted. The restless, vengeful spirits of the long-dead guardians of the Island still keep vigilance among the fallen towers and grass-grown barrows. At times, one can hear the tramping of feet, the clinking of ghostly arms and armor, or glimpse shadowy forms moving in the twilight or early dawn near the Keep. On stormy nights, there are often pale, luminous figures flitting about the stones, and unearthly moans fill the air. [var:private-access-phre3d] More detailed information about the inhabitants of the South Keep, both living and dead, can be found in the [[plots/free-city-of-haven/haven-scenarios|Haven Scenarios]] at the rear of the section.
 
-When [[settlements/the-bridges|The Bridges]] close at midnight those still on the Island stay there until dawn when they re-open. The Island at night becomes a community of friends; although many have just met, and may never meet again. Campfires glow cheerfully in front of the wagons and pavilions, or behind booths, and the heady aromas of roasting meat and trader's stew (made of whatever's donated) draw the Islander's together in congenial circles. 
+When [[settlements/the-bridges|The Bridges]] close at midnight those still on the Island stay there until dawn when they re-open. The Island at night becomes a community of friends; although many have just met, and may never meet again. Campfires glow cheerfully in front of the wagons and pavilions, or behind booths, and the heady aromas of roasting meat and trader's stew (made of whatever's donated) draw the Islander's together in congenial circles.
 
 Should the player-characters spend a night on Trade Island, they will find the Islanders open and hospitable, sharing food and around the many campfires, laughing, talking, singing, dancing, drinking, and storytelling far into the night. It is said the Islanders celebrate a festival every night, and there are those who seem the worse for it the next morning.
 
 When morning comes, the wagons of those who are moving on rumble over [[settlements/the-bridges|The Bridges]] down the Long Road, and those who remain, and those who have come in to set up the evening before, make ready for another day.
 
 [var:private-access-phre3d]]
-## Persons of Interest 
-As was mentioned earlier, most of the population of Trade Island is transient. For the GM' s convenience, it is assumed that all NPC's hereafter described are all present when the players first encounter them. After each NPC's name there is a percentage figure in parentheses - this is the percentage chance that the NPC will still be on (or returned to) the Island the next time the players are looking for them. 
+
+## Persons of Interest
+
+As was mentioned earlier, most of the population of Trade Island is transient. For the GM' s convenience, it is assumed that all NPC's hereafter described are all present when the players first encounter them. After each NPC's name there is a percentage figure in parentheses - this is the percentage chance that the NPC will still be on (or returned to) the Island the next time the players are looking for them.
 
 As there are no shops, per se, the NPC descriptions contain information on the wares they sell and the type of booth, stall, or tent they have. Their location on the Loop (on the neighborhood maps) gives an idea of their prestige in the Free Trader's pecking order.
+
 [anchor|street_encounters]
 
-## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]] 
+## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]]
+
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
 | [roll:d1000]       | Encounter       | Roll      | Encounter       | Roll      | Encounter    |
@@ -64,13 +77,14 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 230-243       | [Chase](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Chase)       | 587-628       | [[[person/astrologer|Astrologer]]](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Astrologer)       | 987-000       | [Tumbril Men](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Tumbril_Men)    |
 | 244-285       | [Hell-fire](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Hell-fire)       | 629-656       | [Crotofiran](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Crotofiran)       |       |    |
 
-## People and Locations on Trade Island 
+## People and Locations on Trade Island
 
 | People      | Places   |
 |---|---|
 |  [tagged:trade-island-person|list|none]       |  [tagged:trade-island-location|list|none]    |
 
 # Demographics
+
 The population of Trade Island is transient - except for the Citadel guards and a small number of semi-permanent residences, peoples are always on the move. Of all the populace, the Free Traders are the most numerous.
 
 # Government
@@ -103,16 +117,19 @@ The population of Trade Island is transient - except for the Citadel guards and 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ![[maps/haven/trade-island-full.jpg]]
 
 ---
+
 ]
- **Persons of Interest** 
+
+ **Persons of Interest**
+
 - [[people/emel-dlormai|Emel d'Lormai]] (65%)
 - [[people/magda-cordovan|Magda Cordovan]] (20%)
-- Mother [[people/yosofal|Yosofal]] (90%) 
+- Mother [[people/yosofal|Yosofal]] (90%)
 - [[people/bonyodel|Bonyodel]] (90%)
 - Jaquel Estankris (40%)
 - [[people/raku-the-potter|Raku the Potter]] (40%)
@@ -143,18 +160,19 @@ The population of Trade Island is transient - except for the Citadel guards and 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** eec2fc60-5565-40fa-9047-69924589c400<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -163,19 +181,24 @@ The population of Trade Island is transient - except for the Citadel guards and 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 3a847a4d-42be-490b-a109-5bd60a093e1f
 
 --- end-column ---
 
 Next:
+
 433922e7-e67a-4bfc-a438-e591c5497f24
 
 --- end-multi-column

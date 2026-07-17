@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-kammeron-family #the-heights #npc
+---
+aliases: []
+tags: [de-kammeron-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Alvona de Kammeron
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alvona de Kammeron
 
-### 
+###
 
-**Full Name:** Lady Alvona  de Kammeron (nee Dwillian)   
+**Full Name:** Lady Alvona  de Kammeron (nee Dwillian)
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Wife of [[person/boccaccio-de-kammeron|Boccaccio de Kammeron]]. Bedridden for mo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alvona-dwillian-de-kammeron]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

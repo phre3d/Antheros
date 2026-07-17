@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-guild #type-guildhouse #guild #brotherhood-of-free-companies
+---
+aliases: []
+tags: [brotherhood-of-free-companies, cat-guild, Free_City_of_Haven, guild, import, landmark, the-south-corridor, type-guildhouse]
+title: Free Companies House
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Free Companies House
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Merc's 'r Us    
 
-## Description 
+# Description
+
+## Merc's 'r Us
+
+## Description
+
 Haven HQ for the Brotherhood of Free Companies. If you are looking to hire, or join a mercenary company this is the place to start as representatives of all the local companies can be found here.
 
 Services for individual Brotherhood member can be found here - for men and women. It should be noted however that most female mercenaries join the Lydian Sisterhood instead.
@@ -50,7 +60,7 @@ Services for individual Brotherhood member can be found here - for men and women
 
 **Image:** n/a
 
-**Guildhouse (Guild)** 
+**Guildhouse (Guild)**
 
  **Owner:**  
 
@@ -62,12 +72,14 @@ Services for individual Brotherhood member can be found here - for men and women
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guildhall
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -76,7 +88,7 @@ Services for individual Brotherhood member can be found here - for men and women
 **Owner Rank:** <br>
 **Additional Ruler/Owner(s):**
 
-**Owning Organization:** [[organizations/guilds/brotherhood-of-free-companies|Brotherhood of Free Companies]]<br>
+**Owning Organization:** [[organizations/brotherhood-of-free-companies|Brotherhood of Free Companies]]<br>
 **Organizations Contesting Ownership:**
 
 **Included Vehicle:** n/a
@@ -84,6 +96,7 @@ Services for individual Brotherhood member can be found here - for men and women
 ---
 
 ### World Anvil Metadata
+
 **Id:** c7102ee5-78b8-460e-81c5-716629f47e31<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -92,7 +105,9 @@ Services for individual Brotherhood member can be found here - for men and women
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

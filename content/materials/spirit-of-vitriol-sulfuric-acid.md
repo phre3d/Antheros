@@ -1,4 +1,10 @@
-#item  #material #potion-base 
+---
+aliases: []
+tags: [item, material, potion-base]
+title: Spirit of Vitriol (Sulfuric Acid)
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Spirit of Vitriol (Sulfuric Acid)
 
 ````col
@@ -49,6 +55,8 @@ If imbibed, acids deal twice the normal damage, and if the target is a living cr
 
 ```
 ````
+
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

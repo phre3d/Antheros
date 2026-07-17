@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-corridor, type-tavern]
+title: The Knighte Oute
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Knighte Oute
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## The name says it all 
 
-## Description 
+# Description
+
+## The name says it all
+
+## Description
+
 In this quaint-e little-e tavern-e can be found the chief hangout for members of the [[organizations/criminal/thieves-guild|Thieves Guild]] in this area. There is a 35% chance that any given person met in the common room is a member in good standing of Haven's largest criminal organization. By dropping the proper word or sign (or an appropriate amount of cash), one may make contact with fairly important people in the organization, possibly even one of the Guild's lieutenants. From there, events take their own courses.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/fingers-arthas|Fingers Arthas]] | [[people/mykyl-two-fingers|Mykyl Two Fingers]] | [[people/katarina|Katarina]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ In this quaint-e little-e tavern-e can be found the chief hangout for members of
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ In this quaint-e little-e tavern-e can be found the chief hangout for members of
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ In this quaint-e little-e tavern-e can be found the chief hangout for members of
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9c8b1af3-8ee0-4161-a334-ceabc6b04d34<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -93,7 +107,9 @@ In this quaint-e little-e tavern-e can be found the chief hangout for members of
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

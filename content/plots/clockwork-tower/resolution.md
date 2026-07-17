@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Resolution
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Resolution
 
 ````col
@@ -187,7 +193,6 @@ Platinum Cufflinks with Sapphire Hourglass Inlay: High fashion cufflinks that sh
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

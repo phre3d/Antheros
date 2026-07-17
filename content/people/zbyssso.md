@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Zbyssso
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zbyssso
 
-### 
+###
 
-**Full Name:**  Zbyssso      
+**Full Name:**  Zbyssso
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A young goblin married to [[person/kobri|Kobri]]. She is also an apprentice mage
 
 ---
 
-
-
 ![[people/blocks/zbyssso]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Invitation to a ???
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Invitation to a ???
 
 ````col
@@ -148,7 +154,6 @@ Unfortunately, the spirits are greatly disturbed by the perversion of their pena
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Eldri
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Eldri
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Battleaxe:**  +6 to hit , 1d8+3 slashing damage  
   **Warhammer:**  +6 to hit , 1d8+3 bludgeoning damage  
   **Longsword:**  +6 to hit , 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

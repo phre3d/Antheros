@@ -1,4 +1,9 @@
-#toc #Goblin_Trouble 
+---
+aliases: []
+tags: [plot/Goblin-Trouble, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 [[plots/goblin-trouble/goblin-trouble|Introduction]]<br>
 [[plots/goblin-trouble/scene-1|Scene 1]]<br>

@@ -1,8 +1,12 @@
 ---
-location: [1771.105,  3638.776]
+aliases: []
+tags: [map-marker]
+location: [1771.105, 3638.776]
 mapmarker: Inns & Taverns
+title: "Kurgan's Rout"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kurgan's Rout
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/kurgans-rout|Kurgan's Rout]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

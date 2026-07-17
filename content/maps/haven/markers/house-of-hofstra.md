@@ -1,8 +1,12 @@
 ---
-location: [4979.268,  5189.796]
+aliases: []
+tags: [map-marker]
+location: [4979.268, 5189.796]
 mapmarker: Shopping
+title: House of Hofstra
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Hofstra
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/house-of-hofstra|House of Hofstra]]<br>
 **Location Type:** Banking
 
-**Description**<br> 
-
+**Description**<br>

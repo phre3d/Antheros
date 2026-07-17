@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Pippin Frosh
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pippin Frosh
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Round as a dumpling, with rosy cheeks and bright eyes, and perpetually wearing a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pippin-frosh]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

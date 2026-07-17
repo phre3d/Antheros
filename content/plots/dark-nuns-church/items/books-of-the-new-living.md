@@ -1,8 +1,14 @@
-#import #statblock #item #Dark_Nuns_Church #item 
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, item, statblock]
+title: Books of the New Living
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 # Books of the New Living
 
   Source: The Dark Nun's Church
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -34,10 +40,3 @@ These three books are old and moldy with puss oozing out of the pages. There is 
 
 ```
 ````
-
-
-
-
-
-
-

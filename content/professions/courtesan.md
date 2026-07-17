@@ -1,4 +1,10 @@
-#import #profession
+---
+aliases: []
+tags: [import, profession]
+title: Courtesan
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Courtesan
 
 Being a courtesan is not a "lesser" profession and its existence is taken for granted. While sex is part of the role (and some courtesans never grow beyond this), being a higher ranking courtesan is much more and involves the overall enjoyment of one's company.
@@ -12,6 +18,7 @@ Because of the closeness to a customer that a courtesan may achieve they are som
 ---
 
 # Career
+
 ## Qualifications
 
 ## Career Progression
@@ -23,14 +30,17 @@ Because of the closeness to a customer that a courtesan may achieve they are som
 ---
 
 # Perception
+
 ## Purpose / Function
 
 ## Demand
 
 ## Legality
+
   Legal in Haven
 
 ## Social Status
+
 Depends on the courtesan's training and standing within the profession. Higher level courtesans are sought out by customers of any gender or social standing.
 
 ## Demographics
@@ -42,9 +52,11 @@ Depends on the courtesan's training and standing within the profession. Higher l
 ## Demand
 
 ## Legality
+
   Legal in Haven
 
 ## Social Status
+
 Depends on the courtesan's training and standing within the profession. Higher level courtesans are sought out by customers of any gender or social standing.
 
 ## Demographics
@@ -54,25 +66,28 @@ Depends on the courtesan's training and standing within the profession. Higher l
 ---
 
 # Operations
+
 ## Tools
 
 ## Materials
 
 ## Workplace
+
 While there are definitely those who work the streets or from their own homes, most work in one of the "houses" run for that purpose.
 
 ## Provided Services
+
 Sex, companionship, entertainment, confidant.
 
 ## Hazards
-Customers
 
+Customers
 
 >[!infobox]
 ><br><br><br><br>
 >**Alternative Names:**  
 >
->**Guild:** 
+>**Guild:**
 >
 >**Famous in the Field:**
 >
@@ -90,7 +105,8 @@ Customers
 
 ---
 
---- start-multi-column: PreviousNext
+---start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
@@ -100,4 +116,4 @@ alignment: [left, right]
 
 --- end-column ---
 
---- end-multi-column 
+--- end-multi-column

@@ -1,47 +1,67 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-leatherworker #guild-of-the-hide #leatherworker
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hide, import, landmark, leatherworker, the-south-corridor, type-leatherworker]
+title: Lorien Leathergoods
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Lorien Leathergoods
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Nice leatherwork and tanning 
 
-## Description 
+# Description
+
+## Nice leatherwork and tanning
+
+## Description
+
 [[people/sindra|Sindra]] is a master leatherworker, a slender elven woman of youthful appearance (after all, she's only 240, hardly out of her teens). She is in union with [[people/raf-poul|Raf Poul]], an associate of [[people/nimrodel|Nimrodel]] the shipwright.
 
-## Exterior 
+## Exterior
+
 A pair of leather boots with an intricate sign reading "Lorien" hangs outside the front door. The building is a two level [[people/brick|Brick]] structure, painted light green, with a large front window and several other smaller windows.
 
-## Interior 
+## Interior
+
 The first floor consists of a merchandise room, a leatherworking room, a dyeing room, and a large business office.
 
-## Hours 
+## Hours
+
 9:00arn to 6:00pm.
 
-## Price Range 
+## Price Range
+
 High.
 
-## Quality 
+## Quality
+
 (1-2) Fair, (3-7) Good, (8-10) Excellent.
 
-## Cash Box 
+## Cash Box
+
 A leather bag lies on a shelf in the rear working area. It contains 1d10 x 1d10gp.
 
-## Staff 
+## Staff
+
 [[people/sindra|Sindra]] makes most of the complicated clothing designs for customers who wish to purchase custom work. There are 4 youthful apprentices, one of whom is a level 2 thief trying to learn an honest trade, and a [[people/callon|Callon]], a journeyman elf who does the less complicated leatherwork that [[people/sindra|Sindra]] has no time for. [[people/raf-poul|Raf Poul]] occasionally helps [[people/sindra|Sindra]] with the bookwork, when he has free time.
 
-## Customers 
+## Customers
+
 There are 1d4 customers in the shop on the average (nearly half of them will be elves).
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/mirthule-conindir|Mirthule Conindir]] | [[people/finsilivren-conindir|Finsilivren Conindir]] | [[people/regin-aqueen|Regin A'Queen]]
 
-## Outstanding Items 
+## Outstanding Items
+
 A lightly tanned but perfectly made leather jacket hangs in the front window. It bears the design of a strong dwarf with a pretty tavern girl slung over one shoulder (and a wineskin slung over the other). It is dwarf-sized and priced at 1,000gp.
 
 # Purpose / Function
@@ -78,7 +98,7 @@ A lightly tanned but perfectly made leather jacket hangs in the front window. It
 
 **Image:** n/a
 
-**Leatherworker (Shopping)** 
+**Leatherworker (Shopping)**
 
  **Owner:**  Sindra
 
@@ -90,12 +110,14 @@ A lightly tanned but perfectly made leather jacket hangs in the front window. It
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Leatherworker
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -112,6 +134,7 @@ A lightly tanned but perfectly made leather jacket hangs in the front window. It
 ---
 
 ### World Anvil Metadata
+
 **Id:** f6e8c906-a300-404d-8243-723bb9563ce4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -120,7 +143,9 @@ A lightly tanned but perfectly made leather jacket hangs in the front window. It
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

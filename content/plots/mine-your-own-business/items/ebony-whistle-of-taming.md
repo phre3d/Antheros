@@ -1,14 +1,23 @@
-#import #item #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, item, Mine_Your_Own_Business]
+title: Ebony Whistle of Taming
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Ebony Whistle of Taming
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 The Ebony Whistle of Taming has been created by a renowned beastmaster, Erind Wen Beermaster. He sought a way to connect with beasts on a level of mutual respect and understanding. After years of research and experimentation, he infused this whistle with a powerful enchantment, using rare materials and ancient rituals. The whistle has since passed through the hands of various adventurers, each using its power to forge alliances with the creatures of the wild.
 
  **Item Type:**  Wondrous item, rare (requires attunement)
@@ -29,26 +38,26 @@ The Ebony Whistle of Taming has been created by a renowned beastmaster, Erind We
 
 ---
 
-**Rarity:** 
+**Rarity:**
 
 **Weight:** <br>
 **Dimensions:** <br>
-**Base Price:** 
+**Base Price:**
 
 **Creation Date:** <br>
 **Destruction Date:**  
 
 **Current Geographic Location:** <br>
 **Current Holder:** <br>
-**Owning Organization:** 
+**Owning Organization:**
 
 **Creator:** <br>
 **Modeled After / Subtype of:**  <br>
 **Manufacturer:**  <br>
 **Materials & Components:** <br>
-**Tooling:** 
+**Tooling:**
 
-**Related Condition:** 
+**Related Condition:**
 
 **Related Technologies**
 
@@ -57,6 +66,7 @@ The Ebony Whistle of Taming has been created by a renowned beastmaster, Erind We
 ---
 
 ### World Anvil Metadata
+
 **Id:** b69b64e7-627e-4d8a-8fa5-66f63d9c7065<br>
 **Entity Type:** Article / item<br>
 **Category:** Module: Mine Your Own Business<br>
@@ -65,7 +75,9 @@ The Ebony Whistle of Taming has been created by a renowned beastmaster, Erind We
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

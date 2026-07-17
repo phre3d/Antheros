@@ -1,4 +1,10 @@
-#import #article   #Free_City_of_Haven
+---
+aliases: []
+tags: [article, Free_City_of_Haven, import]
+title: Places in Haven by District
+date modified: 2026-07-16, 9:19:06 pm
+---
+
 # Places in Haven by District
 
 | District | Subtype | Type | Name | Key Ref. | Grid Ref.  |
@@ -542,4 +548,3 @@
 | Trademasters' Square | Large House  | Residence | [House of Lucius Cardallo](landmarks/House%20of%20Lucius%20Cardallo.md) | GY | N16  |
 | Trademasters' Square | Prison  | Government | [The Black Halls](landmarks/The%20Black%20Halls.md) | GL | O16  |
 | Trademasters' Square | Tavern  | Entertainment | [The Hanged Man](landmarks/The%20Hanged%20Man.md) | GF | O16  |
-

@@ -1,8 +1,12 @@
 ---
-location: [2400.697,  6441.837]
+aliases: []
+tags: [map-marker]
+location: [2400.697, 6441.837]
 mapmarker: Service
+title: "D'Lormaii Warehouses"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # D'Lormaii Warehouses
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/dlormaii-warehouses|D'Lormaii Warehouses]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

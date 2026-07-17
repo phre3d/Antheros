@@ -1,4 +1,10 @@
-#plot #The_Gypsy_Train 
+---
+aliases: []
+tags: [plot, plot/The_Gypsy_Train]
+title: NPC Families
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 >[!info]
 >![[plots/the-gypsy-train/images/the-gypsy-train-header.jpg|no-float]]
 >
@@ -7,11 +13,13 @@
 >![[plots/the-gypsy-train/table-of-contents|Table of Contents]]
 
 ![[plots/the-gypsy-train/maps/on-the-road-pt.a.png|no-float|600]]
+
 ![[plots/the-gypsy-train/maps/on-the-road-pt.b.png|no-float|600]]
 
 # NPC Families
 
 ## Vanagas Family
+
 ![[plots/the-gypsy-train/images/vanagas-family-chart.png|no-float|100]]<br>
 **Parents**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/the-gypsy-train/npcs/balkrin-vanagas|Balkrin Vanagas]]<br>
@@ -33,6 +41,7 @@
 ---
 
 ## Pakmydis Family
+
 ![[plots/the-gypsy-train/images/pakmydas-s.-family-chart-2026-07-01.png|no-float|300]]<br>
 **Parents**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal Pakmydis]]<br>
@@ -49,6 +58,7 @@
 ---
 
 ## Gudas Family
+
 ![[plots/the-gypsy-train/images/gudas-family-chart-2026-07-01.png|no-float|300]]<br>
 **Parents**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/the-gypsy-train/npcs/javyd-gudas|Javyd Gudas]]<br>
@@ -65,6 +75,7 @@
 ---
 
 ## Prusas Family
+
 ![[plots/the-gypsy-train/images/prusas-family-chart-2026-07-01.png|no-float|300]]<br>
 **Parents**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/the-gypsy-train/npcs/bronkar-prusas|Bronkar Prusas]]<br>
@@ -72,7 +83,6 @@
 
 **Children**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/the-gypsy-train/npcs/dinmiel-prusas|Dinmiel Prusas]]
-
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>

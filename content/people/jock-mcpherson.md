@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #blackbourne-family #the-heights #npc
+---
+aliases: []
+tags: [blackbourne-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Jock McPherson
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jock McPherson
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Jock is the [[organization/blackbourne-family|Blackbourne Family]]'s oldest and 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jock-mcpherson]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

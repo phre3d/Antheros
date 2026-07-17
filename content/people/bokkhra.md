@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-commons]
+title: Bokkhra
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bokkhra
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ He rents a room 'in a rambling pile of a building referred to as [[landmark/duhm
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bokkhra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

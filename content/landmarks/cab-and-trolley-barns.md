@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-transportation #type-taxi-bus #guild-of-drayers #transportation
+---
+aliases: []
+tags: [cat-transportation, Free_City_of_Haven, guild/drayers, import, landmark, the-horse-market, transportation, type-taxi-bus]
+title: Cab and Trolley Barns
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Cab and Trolley Barns
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Resting place for the night 
 
-## Description 
+# Description
+
+## Resting place for the night
+
+## Description
+
 There are several buildings comprising the barns for the cabs and trolleys. All are without walls, simply providing weather protection for the numerous vehicles of the centaur operation. The chief superintendent of the lines, Adonaios Swiftfoot, has a small office where the record books are kept. This area is the only walled section in the area, and is thus rather easy to find - interviewees (centaurs only - few humanoids have the strength to pull a trolley) will usually (80% chance) find him there from 6am to 4pm daily.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ There are several buildings comprising the barns for the cabs and trolleys. All 
 
 **Image:** n/a
 
-**Taxi/Bus (Service)** 
+**Taxi/Bus (Service)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ There are several buildings comprising the barns for the cabs and trolleys. All 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Transportation hub
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ There are several buildings comprising the barns for the cabs and trolleys. All 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 1fed356b-9b31-44aa-a201-f4a622c1157c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -90,7 +103,9 @@ There are several buildings comprising the barns for the cabs and trolleys. All 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

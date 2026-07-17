@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [Haven-Irregulars]
 aat-event-start-date: 997/01/01 00:00
 aat-event-title: Freeing of Haven
 aat-event-body: "The Free City of Haven was given its charter as an independent city-state by the crumbling Namori Empire which was retreating to the east."
 # aat-event-picture: 
+title: Freeing of Haven
+date modified: 2026-07-16, 9:19:03 pm
 ---
-#import #history 
+
 # Freeing of Haven
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -29,7 +34,7 @@ The Free City of Haven was given its charter as an independent city-state by the
 
 **Organizations:** 
 
-**Timelines** - [[timeline/haven-irregulars]]<br>
+**Timelines** - [[timelines/haven-irregulars]]<br>
 
 
 ```
@@ -51,7 +56,3 @@ The Free City of Haven was given its charter as an independent city-state by the
 
 ```
 ````
-
-
-
-

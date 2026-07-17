@@ -1,8 +1,12 @@
 ---
-location: [1806.819,  3081.633]
+aliases: []
+tags: [map-marker]
+location: [1806.819, 3081.633]
 mapmarker: Inns & Taverns
+title: The Golden Sovereign
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Golden Sovereign
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-golden-sovereign|The Golden Sovereign]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

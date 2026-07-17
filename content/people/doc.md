@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #scenarios #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-labyrinth, thieves-guild]
+title: Doc
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Doc
 
-### 
+###
 
-**Full Name:**  Doc      
+**Full Name:**  Doc
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See scenario [[plots/the-stoned-maiden|The Stoned Maiden]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/doc]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

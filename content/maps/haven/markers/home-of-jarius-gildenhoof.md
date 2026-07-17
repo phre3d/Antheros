@@ -1,8 +1,12 @@
 ---
-location: [3121.105,  611.224]
+aliases: []
+tags: [map-marker]
+location: [3121.105, 611.224]
 mapmarker: Residence
+title: Home of Jarius Gildenhoof
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Home of Jarius Gildenhoof
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/home-of-jarius-gildenhoof|Home of Jarius Gildenhoof]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

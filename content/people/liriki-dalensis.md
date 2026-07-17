@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, person]
+title: "Liriki d'Alensis"
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Liriki d'Alensis
 
-### 
+###
 
-**Full Name:**  Liriki  d'Alensis    
+**Full Name:**  Liriki  d'Alensis
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Of medium height, and average build, with the normal coloration for his heritage
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/liriki-dalensis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

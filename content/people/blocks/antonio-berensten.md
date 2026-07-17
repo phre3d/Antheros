@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Antonio Berensten
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Antonio Berensten
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +4 to hit , 1d8+2 slashing damage  
   **Mace:**  +4 to hit , 1d6+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

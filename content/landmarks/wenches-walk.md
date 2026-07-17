@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-entertainment #type-brothel #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-brothel]
+title: "Wenches' Walk"
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Wenches' Walk
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A house of all female courtesans 
 
-## Description 
+# Description
+
+## A house of all female courtesans
+
+## Description
+
 The women working here dress in open, loose, satin and silk clothing leaving little to the imagination. They are sexy and playful and come in all shapes and sizes.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The women working here dress in open, loose, satin and silk clothing leaving lit
 
 **Image:** n/a
 
-**Brothel (Entertainment)** 
+**Brothel (Entertainment)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The women working here dress in open, loose, satin and silk clothing leaving lit
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Brothel / Whorehouse
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The women working here dress in open, loose, satin and silk clothing leaving lit
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8571e63a-fa7e-4418-8cf9-3f45593c83b6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ The women working here dress in open, loose, satin and silk clothing leaving lit
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

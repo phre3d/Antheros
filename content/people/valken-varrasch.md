@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #varrasch-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights, varrasch-family]
+title: Valken Varrasch
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Valken Varrasch
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Valken lives with his brother and sister-in-law at the family's estate in virtua
 
 ---
 
-
-
 ![[people/blocks/valken-varrasch]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

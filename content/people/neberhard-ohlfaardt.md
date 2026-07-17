@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ohlfaardt-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, ohlfaardt-family, person, the-heights]
+title: Neberhard Ohlfaardt
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Neberhard Ohlfaardt
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ He considers his bride, [[person/sui-tuong-ding|Sui Tuong Ding]], well worth the
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/neberhard-ohlfaardt]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

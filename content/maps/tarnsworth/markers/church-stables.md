@@ -1,4 +1,9 @@
-#map-marker  #tarnsworth   
+---
+aliases: []
+tags: [map-marker, tarnsworth]
+title: church-stables
+date modified: 2026-07-16, 9:18:39 pm
+---
 
 **Description** <br>
 Stables at the rear of the church

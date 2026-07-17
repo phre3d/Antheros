@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -70,7 +75,6 @@ Eugene sees another snail in the distance and fires at it. Two more mephits also
 
 When the last one dies, it explodes, hitting Arada and Penelope for moderate damage.
 
-We still haven't found Lyza, but we've made progress at least. And Martin has nine more minutes of spirit guardians...
+We still haven't found Lyza, but we've made progress at least. And Martin has nine more minutes of spirit guardians…
 
 ---
-

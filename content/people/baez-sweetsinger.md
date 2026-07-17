@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-corridor]
+title: Baez Sweetsinger
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Baez Sweetsinger
 
-### 
+###
 
-**Full Name:**  Baez  Sweetsinger    
+**Full Name:**  Baez  Sweetsinger
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Baez Sweetsinger drayed for some thirty years before he bought the [[landmark/wa
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/baez-sweetsinger]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

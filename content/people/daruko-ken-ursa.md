@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Daruko Ken-Ursa
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Daruko Ken-Ursa
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ A slender man of middle years, with grizzled hair bound with an ornate leather h
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/daruko-ken-ursa]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [3762.942,  6800.]
+aliases: []
+tags: [map-marker]
+location: [3762.942, 6800.]
 mapmarker: Residence
+title: "Duhm's Rooms"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Duhm's Rooms
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/duhms-rooms|Duhm's Rooms]]<br>
 **Location Type:** Rooming House
 
-**Description**<br> 
-
+**Description**<br>

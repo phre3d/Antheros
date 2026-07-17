@@ -1,8 +1,12 @@
 ---
-location: [3071.105,  3504.082]
+aliases: []
+tags: [map-marker]
+location: [3071.105, 3504.082]
 mapmarker: Inns & Taverns
+title: "Wagoneer's Delight"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Wagoneer's Delight
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/wagoneers-delight|Wagoneer's Delight]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

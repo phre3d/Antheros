@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Ernie
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Ernie
 
-### 
+###
 
-**Full Name:**  Ernie      
+**Full Name:**  Ernie
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Common thief.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ernie]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

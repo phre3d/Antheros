@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Laydi
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Laydi
 
-### 
+###
 
-**Full Name:** Goddess of Luck, Patron of Gamblers       
+**Full Name:** Goddess of Luck, Patron of Gamblers
 
 `````col
 ````col-md
@@ -204,13 +210,10 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: a68596cb-7eab-49f9-aa4f-ffdbb63865ce

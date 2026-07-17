@@ -1,8 +1,12 @@
 ---
-location: [4057.84,  5496.939]
+aliases: []
+tags: [map-marker]
+location: [4057.84, 5496.939]
 mapmarker: Shopping
+title: Pane in the Glass
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Pane in the Glass
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/pane-in-the-glass|Pane in the Glass]]<br>
 **Location Type:** Glass
 
-**Description**<br> 
-
+**Description**<br>

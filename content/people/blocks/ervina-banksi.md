@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person, statblock]
+title: Ervina Banksi
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Ervina Banksi
 
 ````col
@@ -40,42 +46,14 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 Sister Ervina Banksi is a 38 year old female lightfoot halfling acolyte. - She has long, wavy, gray hair and blue eyes.
+
 - She has soft golden skin.
 - She stands 94cm (3'1\") tall and has a round build.
 - She has a sharp, cute face.
 - She is very nimble.
-  **Personality** 
+  **Personality**
  - She is very focused.
 - She can't keep a secret.
 - She sporadically misquotes proverbs.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

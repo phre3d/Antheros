@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #disaffected-artisans #jewelers-guild #the-dwarrow #npc
+---
+aliases: []
+tags: [disaffected-artisans, Free_City_of_Haven, import, jewelers-guild, npc, person, the-dwarrow]
+title: Malakki
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Malakki
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ An outstanding jewelsmith, Malakki is honest to a fault but very paranoid. He ke
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/malakki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

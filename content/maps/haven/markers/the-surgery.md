@@ -1,8 +1,12 @@
 ---
-location: [3318.044,  1726.531]
+aliases: []
+tags: [map-marker]
+location: [1726.531, 3318.044]
 mapmarker: Medical
+title: The Surgery
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Surgery
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Medical
 **Location:** [[landmarks/the-surgery|The Surgery]]<br>
 **Location Type:** Medical
 
-**Description**<br> 
+**Description**<br>
+
 One of the more trustworthy places to be healed.

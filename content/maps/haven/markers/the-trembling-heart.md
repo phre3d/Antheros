@@ -1,8 +1,12 @@
 ---
-location: [3027.228,  1243.878]
+aliases: []
+tags: [map-marker]
+location: [1243.878, 3027.228]
 mapmarker: Inns & Taverns
+title: The Trembling Heart
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Trembling Heart
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-trembling-heart|The Trembling Heart]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

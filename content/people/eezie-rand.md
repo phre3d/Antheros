@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #rand-family #the-glens #npc #hofstra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hofstra-family, import, npc, person, rand-family, the-glens]
+title: Eezie Rand
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Eezie Rand
 
-### 
+###
 
-**Full Name:**  Eezie  Rand (nee Hofstra)   
+**Full Name:**  Eezie  Rand (nee Hofstra)
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ A petite, vivacious brunette with blue eyes and a luscious figure. She is totall
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/eezie-hofstra-rand]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,5 +1,12 @@
-#person #npc #Burgled_Budgie
+---
+aliases: []
+tags: [plot/burgled-budgie, npc, person]
+title: Jenkins
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Jenkins
+
 Half-Orc Servant, NG
 
 >[!read aloud]
@@ -7,6 +14,6 @@ Half-Orc Servant, NG
 
 Jenkins is Matilda Brumblebush’s head servant. When addressing strangers, he is polite, but firm. It is clear that he has the run of the house and will not be trifled with. He is clever and well-spoken, and has little time to waste on adventurers bringing baseless accusations against his employer.
 
-
 ---
+
 **Source:** Debacle of the Burgled Budgie

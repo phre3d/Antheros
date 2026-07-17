@@ -1,4 +1,9 @@
-#import #statblock #monster #Dark_Nuns_Church #monster
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -39,48 +44,18 @@ Tiny Construct Neutral Evil
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[~attachments/dndline.png]]
 
 # Actions
-### Razor Sharp Nails 
+
+### Razor Sharp Nails
+
   **Melee Weapon Attack:**  +3 to hit , tech 5 ft., one target.
+
   **Hit:**  2  piercing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 The necrotic hand scuttles around the floor on long, razor-sharp nails like a crab searching for its next victim.
-
-
-
-
-
-
-

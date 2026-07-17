@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #player-character
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, player-character]
+title: Penelope Sutherland
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Penelope Sutherland
 
-### 
+###
 
-**Full Name:**  Penelope  Sutherland    
+**Full Name:**  Penelope  Sutherland
 
 `````col
 ````col-md
@@ -192,13 +198,10 @@ Penelope is quick to laughter and quick to anger - loyal to her friends, but wil
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

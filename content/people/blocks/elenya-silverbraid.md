@@ -1,4 +1,10 @@
-#import #statblock #person #npc #npc #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, npc, person, statblock]
+title: Elenya Silverbraid
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Elenya Silverbraid
 
 ````col
@@ -37,42 +43,18 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
+
 Elenya is a 3rd level spell￾caster. Her Spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks).
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
-### Staff. 
-  **Melee weapon attack.**   to hit, reach 5 feet, one target. 
+
+### Staff.
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
   **Hit:**  4  bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

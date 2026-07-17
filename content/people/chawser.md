@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Chawser
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Chawser
 
-### 
+###
 
-**Full Name:**  Chawser      
+**Full Name:**  Chawser
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See scenario The Tiefling's Tale
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/chawser]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

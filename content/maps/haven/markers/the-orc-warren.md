@@ -1,8 +1,12 @@
 ---
-location: [621.105,  4197.959]
+aliases: []
+tags: [map-marker]
+location: [4197.959, 621.105]
 mapmarker: Inns & Taverns
+title: The Orc Warren
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Orc Warren
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-orc-warren|The Orc Warren]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

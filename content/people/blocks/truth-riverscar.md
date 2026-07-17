@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Truth Riverscar
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Truth Riverscar
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +6 to hit , 1d8+3 piercing damage  
   **Longbow:**  +3 to hit , 1d8+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

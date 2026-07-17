@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Cortina de la Riis
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cortina de la Riis
 
-### 
+###
 
-**Full Name:**  Cortina  de la Riis    
+**Full Name:**  Cortina  de la Riis
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Harz del la Riis' daughter is a small but amply endowed girl, with long brown ha
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cortina-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

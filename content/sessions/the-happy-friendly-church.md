@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -31,4 +36,3 @@ On the body, Martin finds a symbol of Mandos that has been corrupted. She also h
 Eugene investigates the three books. The books seem to be possessed. They are a trilogy, "The Books of New Living"and are about how to reanimate bodies.
 
 ---
-

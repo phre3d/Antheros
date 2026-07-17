@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #mages-guild #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, mages-guild, npc, person, the-heights]
+title: Rowena Geronde
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rowena Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -213,13 +219,12 @@ A tall and stately woman in her mid-forties, with dark hair and grey eyes, the B
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rowena-geronde]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

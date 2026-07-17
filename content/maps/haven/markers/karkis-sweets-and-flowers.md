@@ -1,8 +1,12 @@
 ---
-location: [2299.677,  3921.429]
+aliases: []
+tags: [map-marker]
+location: [2299.677, 3921.429]
 mapmarker: Shopping
+title: "Karki's Sweets and Flowers"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Karki's Sweets and Flowers
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/karkis-sweets-and-flowers|Karki's Sweets and Flowers]]<br>
 **Location Type:** Confectioner
 
-**Description**<br> 
-
+**Description**<br>

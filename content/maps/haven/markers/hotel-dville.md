@@ -1,8 +1,12 @@
 ---
-location: [1545.595,  2842.857]
+aliases: []
+tags: [map-marker]
+location: [1545.595, 2842.857]
 mapmarker: Inns & Taverns
+title: "Hotel d'Ville"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hotel d'Ville
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/hotel-dville|Hotel d'Ville]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

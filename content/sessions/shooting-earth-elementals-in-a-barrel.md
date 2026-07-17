@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -43,4 +48,3 @@ We get Thom to look at Lyza. She goes into ger2018er done mode and sends Turin a
 We get her settled, and gop to rest.
 
 ---
-

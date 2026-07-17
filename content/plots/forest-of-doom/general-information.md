@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: "FoD: General Information"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # FoD: General Information
 
 ````col

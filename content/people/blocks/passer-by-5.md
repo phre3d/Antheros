@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Passer-by 5
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Passer-by 5
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Warhammer:**  +6 to hit , 1d8+3 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #government-of-haven #government-of-haven #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, government-of-haven, import, npc, person]
+title: Boldan Hansumrogge
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Boldan Hansumrogge
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ The Minister of Highways is occasionally seen galloping into Haven from either t
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/boldan-hansumrogge]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

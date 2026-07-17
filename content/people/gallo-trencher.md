@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-beast #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/beast, import, npc, person, the-dell]
+title: Gallo Trencher
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gallo Trencher
 
-### 
+###
 
-**Full Name:**  Gallo  Trencher    
+**Full Name:**  Gallo  Trencher
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Owner and stablemaster of [[landmark/trenchers-pony-stable|Trencher's Pony Stabl
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gallo-trencher]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

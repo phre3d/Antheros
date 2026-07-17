@@ -1,28 +1,41 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-tavern #guild-of-the-hearth #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-corridor, type-tavern]
+title: "Scholl's Tavern"
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Scholl's Tavern
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A Good Tavern 
 
-## Description 
+# Description
+
+## A Good Tavern
+
+## Description
+
 A small tavern noted for its inexpensive food and the attractive girls who work here. Most are aspiring to be actresses, and are hoping to be "discovered". Alas, the Guild officers and other theater managers rarely eat here. However, the elvish silk merchant Adrielle Ilorin has been seen here on occasion.  
 
  Most girls do not stay long. They either become discouraged and go home, find better work elsewhere, or actually go on to the stage. Some simply disappear without a trace.
 
-## Price Range 
+## Price Range
+
 Inexpensive
 
-## Quality 
+## Quality
+
 Average
 
-## NPC Encounters 
+## NPC Encounters
+
 Adrielle Ilorhim
 
 # Purpose / Function
@@ -59,7 +72,7 @@ Adrielle Ilorhim
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -71,12 +84,14 @@ Adrielle Ilorhim
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -93,6 +108,7 @@ Adrielle Ilorhim
 ---
 
 ### World Anvil Metadata
+
 **Id:** c17d7d87-ba66-4d7c-8c05-7832a91a2f8b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -101,7 +117,9 @@ Adrielle Ilorhim
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

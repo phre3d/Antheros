@@ -1,8 +1,12 @@
 ---
-location: [3261.921,  3969.388]
+aliases: []
+tags: [map-marker]
+location: [3261.921, 3969.388]
 mapmarker: Guild
+title: Lydian House
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lydian House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Guild
 **Location:** [[landmarks/lydian-house|Lydian House]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
-
+**Description**<br>

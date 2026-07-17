@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-nautical-supplies #guild-of-the-ship #nautical-supplies
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/ship, import, landmark, nautical-supplies, the-south-docks, type-nautical-supplies]
+title: Bidurum - Chartmaker
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Bidurum - Chartmaker
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Navigate the known seas
 
 # Purpose / Function
@@ -45,7 +54,7 @@ shadow: off
 
 **Image:** n/a
 
-**Nautical Supplies (Shopping)** 
+**Nautical Supplies (Shopping)**
 
  **Owner:**  
 
@@ -57,12 +66,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 4c09f1ff-d169-45a2-9336-197abdbd7dd6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

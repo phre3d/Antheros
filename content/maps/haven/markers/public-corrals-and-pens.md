@@ -1,8 +1,12 @@
 ---
-location: [2686.411,  832.653]
+aliases: []
+tags: [map-marker]
+location: [2686.411, 832.653]
 mapmarker: Shopping
+title: Public Corrals and Pens
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Public Corrals and Pens
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/public-corrals-and-pens|Public Corrals and Pens]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

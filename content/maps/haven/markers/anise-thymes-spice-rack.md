@@ -1,8 +1,12 @@
 ---
-location: [6314.983,  2283.673]
+aliases: []
+tags: [map-marker]
+location: [2283.673, 6314.983]
 mapmarker: Shopping
+title: "Anise Thyme's Spice Rack"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Anise Thyme's Spice Rack
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/anise-thymes-spice-rack|Anise Thyme's Spice Rack]]<br>
 **Location Type:** Spices
 
-**Description**<br> 
-
+**Description**<br>

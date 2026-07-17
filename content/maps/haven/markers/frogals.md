@@ -1,8 +1,12 @@
 ---
-location: [1618.044,  2850.]
+aliases: []
+tags: [map-marker]
+location: [1618.044, 2850.]
 mapmarker: Shopping
+title: "Frogal's"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Frogal's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/frogals|Frogal's]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Meydal
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Meydal
 
-### 
+###
 
-**Full Name:**  Meydal      
+**Full Name:**  Meydal
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ An old, crone-ish dwarven woman who will attempt to arrange marriages for lovelo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/meydal]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #material #potion-base
+---
+aliases: []
+tags: [import, material, potion-base]
+title: Distilled Alcohol
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Distilled Alcohol
 
 ````col
@@ -95,7 +101,9 @@ Consumed as an aid to a good time or to drown one's sorrow. Also used by [[profe
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [6106.819,  2455.102]
+aliases: []
+tags: [map-marker]
+location: [2455.102, 6106.819]
 mapmarker: Service
+title: "Gladshaw's Aviary"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Gladshaw's Aviary
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/gladshaws-aviary|Gladshaw's Aviary]]<br>
 **Location Type:** Animal Trainer
 
-**Description**<br> 
-
+**Description**<br>

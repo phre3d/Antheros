@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-education #type-training #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-labyrinth, type-training]
+title: "Grande Salle d'Armes"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Grande Salle d'Armes
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Training (Service)** 
+**Training (Service)**
 
  **Owner:**  
 
@@ -56,12 +64,13 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Dojo
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -77,6 +86,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** c4799d3c-0bc1-4e06-9e55-12e1c1d06631<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -85,7 +95,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

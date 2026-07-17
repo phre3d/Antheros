@@ -1,4 +1,9 @@
-#import #statblock #monster 
+---
+aliases: []
+tags: [import, monster, statblock]
+title: Spellcasting
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -41,29 +46,39 @@ Medium fey chaotic evil
 ---
 
 # Spellcasting
-### Innate Spellcasting 
+
+### Innate Spellcasting
+
  The hag's innate spellcasting ability is Charisma  (spell save DC 14).
 
 ## Cast at Will
+
 *Mage Hand* ,  *Minor Illusion*
 
 ## Cast Once per Day
+
 *Hallucinatory Terrain* ,  *Phantasmal Killer*
 
 ## Cast Thrice per Day
+
 *Darkness* ,  *Invisibilites*
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Claw 
-   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target. 
-  **Hit:**  12  slashing damage. 
-### Illusory Distraction 
+
+### Claw
+
+   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
+
+  **Hit:**  12  slashing damage.
+
+### Illusory Distraction
+
  As a bonus action, the hag creates an illusory duplicate of herself within 30 feet. The duplicate appears identical to the hag and can move up to 30 feet. It lasts until the start of the hag's next turn. The hag can use this feature once, recharging on a roll of 5-6 on a d6 at the start of each turn.
 
 ![[~attachments/dndline.png]]
 
 # Description
-On her side, she has two loyal wolves, Bonemeal and Toothache.
 
+On her side, she has two loyal wolves, Bonemeal and Toothache.

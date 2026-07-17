@@ -1,9 +1,15 @@
-#import #person #south-corridor #npc
+---
+aliases: []
+tags: [import, npc, person, south-corridor]
+title: Holton Elensar
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Holton Elensar
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Head cleark at Enchantments Ltd.
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

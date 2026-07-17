@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #trademasters-square #cat-government #type-government #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, trademasters-square, type-government]
+title: "Mayor's Palace"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Mayor's Palace
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-The Mayor's Palace is both a residence and home of many civic offices. Together with the [[landmarks/hall-of-the-council-of-boroughs|Hall of the Council of Boroughs]] next door, this is the core of Haven's government. 
 
-## NPC Encounters 
+# Description
+
+The Mayor's Palace is both a residence and home of many civic offices. Together with the [[landmarks/hall-of-the-council-of-boroughs|Hall of the Council of Boroughs]] next door, this is the core of Haven's government.
+
+## NPC Encounters
+
 [[people/elsbeth-windermere|Elsbeth Windermere]]
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The Mayor's Palace is both a residence and home of many civic offices. Together 
 
 **Image:** n/a
 
-**Government (Government)** 
+**Government (Government)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The Mayor's Palace is both a residence and home of many civic offices. Together 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Government complex
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trademasters-square|Trademasters' Square]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The Mayor's Palace is both a residence and home of many civic offices. Together 
 ---
 
 ### World Anvil Metadata
+
 **Id:** c0ab8179-cf4b-415f-b825-6c2535ae893b<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trademasters' Square<br>
@@ -90,7 +103,9 @@ The Mayor's Palace is both a residence and home of many civic offices. Together 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,4 +1,10 @@
-#import #article #Sins_of_the_Past
+---
+aliases: []
+tags: [article, import, plot/Sins_of_the_Past]
+title: Supernatual Regions
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Supernatual Regions
 
 ````col
@@ -46,17 +52,19 @@ Consider rolling on the Haunted Effects table when the following circumstances o
 ```
 ````
 
-
-
 ---
---- start-multi-column: PreviousNext
+
+---start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 62128390-8db4-4488-b59a-cbd46fb68a06
 
 --- end-column ---

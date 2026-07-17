@@ -1,8 +1,12 @@
 ---
-location: [5489.472,  6203.061]
+aliases: []
+tags: [map-marker]
+location: [5489.472, 6203.061]
 mapmarker: City Guard
+title: Caravan Station
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Caravan Station
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/caravan-station|Caravan Station]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 Station of the City Watch

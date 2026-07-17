@@ -1,29 +1,40 @@
-#import #organization   #Free_City_of_Haven #type-guild-mercenary
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/mercenary, import, organization]
+title: Lydian Sisterhood
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Lydian Sisterhood
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 The sisterhood was created as a home for female mercenaries who didn't feel welcome in any of the other mercenary guilds.
 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Guild, Fighter / Mercenary<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -36,10 +47,11 @@ The sisterhood was created as a home for female mercenaries who didn't feel welc
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -59,9 +71,9 @@ The sisterhood was created as a home for female mercenaries who didn't feel welc
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -74,10 +86,11 @@ The sisterhood was created as a home for female mercenaries who didn't feel welc
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -101,7 +114,7 @@ The sisterhood was created as a home for female mercenaries who didn't feel welc
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -175,15 +188,16 @@ The sisterhood was created as a home for female mercenaries who didn't feel welc
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 36371d00-e1ea-4675-93a6-164b28521cad<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -192,7 +206,9 @@ The sisterhood was created as a home for female mercenaries who didn't feel welc
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-shop #type-leatherworker #guild-of-the-hide #leatherworker
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hide, import, landmark, leatherworker, the-horse-market, type-leatherworker]
+title: "Pando's Leather Gear"
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Pando's Leather Gear
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## his former business 
 
-## Customers 
+# Description
+
+## his former business
+
+## Customers
+
 drinks, some quietly washing away sorrows and others
 
 # Purpose / Function
@@ -48,7 +58,7 @@ drinks, some quietly washing away sorrows and others
 
 **Image:** n/a
 
-**Leatherworker (Shopping)** 
+**Leatherworker (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ drinks, some quietly washing away sorrows and others
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Leatherworker
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ drinks, some quietly washing away sorrows and others
 ---
 
 ### World Anvil Metadata
+
 **Id:** d029b2b4-47c1-4a46-86f8-26434f5d79df<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -90,7 +103,9 @@ drinks, some quietly washing away sorrows and others
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

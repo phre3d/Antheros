@@ -1,6 +1,12 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: religious
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 **Markers in the group:**
+
 - [[maps/haven/markers/temple-of-strathos]]
 - [[maps/haven/markers/temple-of-ladros]]
 - [[maps/haven/markers/temple-of-maedhros]]
@@ -16,5 +22,3 @@
 - [[maps/haven/markers/temple-of-etheah]]
 - [[maps/haven/markers/temple-of-nenya]]
 - [[maps/haven/markers/temple-of-thalos]]
-
-

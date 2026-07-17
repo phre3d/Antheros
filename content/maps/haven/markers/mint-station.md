@@ -1,8 +1,12 @@
 ---
-location: [4160.901,  5331.633]
+aliases: []
+tags: [map-marker]
+location: [4160.901, 5331.633]
 mapmarker: City Guard
+title: Mint Station
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mint Station
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/mint-station|Mint Station]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 A City Watch station.

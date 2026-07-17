@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crafters-guild #the-street-of-harps #npc
+---
+aliases: []
+tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Florina
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Florina
 
-### 
+###
 
-**Full Name:**  Florina      
+**Full Name:**  Florina
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ An Elven woman with violet eyes and hair of jet. She is one of the most beautifu
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/florina]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

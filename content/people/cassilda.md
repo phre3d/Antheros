@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, thieves-market]
+title: Cassilda
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Cassilda
 
-### 
+###
 
-**Full Name:**  Cassilda      
+**Full Name:**  Cassilda
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See scenario [[plots/the-lady-in-the-bottle|The Lady in the Bottle]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/cassilda]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

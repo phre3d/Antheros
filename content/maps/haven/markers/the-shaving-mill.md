@@ -1,8 +1,12 @@
 ---
-location: [1748.656,  4032.653]
+aliases: []
+tags: [map-marker]
+location: [1748.656, 4032.653]
 mapmarker: Service
+title: The Shaving Mill
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Shaving Mill
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/the-shaving-mill|The Shaving Mill]]<br>
 **Location Type:** Barber
 
-**Description**<br> 
-
+**Description**<br>

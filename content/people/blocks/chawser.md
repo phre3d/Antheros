@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Chawser
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Chawser
 
 ````col
@@ -37,40 +43,18 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
 ## Cast at Will
+
 Thaumaturgy (cantrip)
 
 ## Cast Once per Day
-**Racial** 
+
+**Racial**
+
 @3rd Level:  **Hellish Rebuke**  | @5th Level:  **Darkness**
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Blowgun:**  +4 to hit , 1d1+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

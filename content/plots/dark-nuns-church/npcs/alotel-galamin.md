@@ -1,9 +1,15 @@
-#import #person #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person]
+title: Alotel Galamin
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Alotel Galamin
 
-### 
+###
 
-**Full Name:** Sister Alotel  Galamin    
+**Full Name:** Sister Alotel  Galamin
 
 `````col
 ````col-md
@@ -204,13 +210,10 @@ Alotel Galamin is a 167-year-old female dark-elf scribe and a Sister in the cult
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

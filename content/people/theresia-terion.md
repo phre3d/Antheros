@@ -1,9 +1,15 @@
-#import #person #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, person]
+title: Theresia Terion
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Theresia Terion
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,10 @@ Her voice is smooth and persuasive, capable of persuading opinions and charming 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Beydom
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Beydom
 
-### 
+###
 
-**Full Name:**  Beydom      
+**Full Name:**  Beydom
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Looks like a large bowling pin with arms and legs. He runs a stall in the [[sett
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/beydom]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

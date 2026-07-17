@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #rand-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, rand-family, the-glens]
+title: Kruegger Rand
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kruegger Rand
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ Brown-haired, brown eyed, and of medium height; he's a bit roly-poly, since he e
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kruegger-rand]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

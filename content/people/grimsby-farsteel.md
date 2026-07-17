@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Grimsby Farsteel
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Grimsby Farsteel
 
-### 
+###
 
-**Full Name:**  Grimsby  Farsteel    
+**Full Name:**  Grimsby  Farsteel
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ The Hand's loan shark in [[settlement/the-south-docks|The South Docks]] area, ru
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/grimsby-farsteel]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

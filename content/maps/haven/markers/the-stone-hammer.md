@@ -1,8 +1,12 @@
 ---
-location: [4145.595,  759.184]
+aliases: []
+tags: [map-marker]
+location: [4145.595, 759.184]
 mapmarker: Inns & Taverns
+title: The Stone Hammer
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Stone Hammer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-stone-hammer|The Stone Hammer]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

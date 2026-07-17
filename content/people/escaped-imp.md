@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Escaped Imp
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Escaped Imp
 
-### 
+###
 
-**Full Name:**  Imp      
+**Full Name:**  Imp
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Devil-may-care Imp
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/escaped-imp]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

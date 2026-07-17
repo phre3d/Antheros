@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person, the-dell]
+title: Paladin Brandybuck
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Paladin Brandybuck
 
-### 
+###
 
-**Full Name:**  Paladin  Brandybuck    
+**Full Name:**  Paladin  Brandybuck
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ Anyone wishing to make Paladin livid with rage need only persist in calling him 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/paladin-brandybuck]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

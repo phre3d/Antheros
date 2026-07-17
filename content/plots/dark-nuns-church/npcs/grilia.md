@@ -1,9 +1,15 @@
-#import #person #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person]
+title: Grilia
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Grilia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -207,13 +213,10 @@ Grilia is an 81 year old male tiefling innkeeper in the village of Kilwich.
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-dwarrow]
+title: Katzi
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Katzi
 
-### 
+###
 
-**Full Name:**  Katzi      
+**Full Name:**  Katzi
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A deli proprietor who can also provide an endless stream of local gossip. His is
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/katzi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

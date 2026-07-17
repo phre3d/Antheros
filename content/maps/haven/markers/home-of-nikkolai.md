@@ -1,8 +1,12 @@
 ---
-location: [3584.37,  544.898]
+aliases: []
+tags: [map-marker]
+location: [3584.37, 544.898]
 mapmarker: Residence
+title: Home of Nikkolai
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Home of Nikkolai
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/home-of-nikkolai|Home of Nikkolai]]<br>
 **Location Type:** House
 
-**Description**<br> 
-
+**Description**<br>

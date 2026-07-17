@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #elengul-family #erinhir #npc
+---
+aliases: []
+tags: [elengul-family, erinhir, Free_City_of_Haven, import, npc, person]
+title: Taubardur Elengul
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Taubardur Elengul
 
-### 
+###
 
-**Full Name:**  Taubardur  Elengul    
+**Full Name:**  Taubardur  Elengul
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Taubardur (Taub to his friends) is young, only 75, and frequently shows his yout
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/taubardur-elengul]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

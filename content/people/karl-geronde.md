@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #geronde-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, geronde-family, import, npc, person, the-heights]
+title: Karl Geronde
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Karl Geronde
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Karl still continues to study part-time with [[person/osondrea|Osondrea]], a hig
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/karl-geronde]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

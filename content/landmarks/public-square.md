@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-landmark #type-square #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, magic-street, type-square]
+title: Public Square
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Public Square
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## An open 'square' for performing or whatever 
 
-## Description 
+# Description
+
+## An open 'square' for performing or whatever
+
+## Description
+
 This is a small public space at the corner where Vine, Magic, and South Caravan streets come together. As it sits between the Magic Street and Street of Harps neighborhood, it is often used by itinerant magicians and bards to entertain the passing crowds.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ This is a small public space at the corner where Vine, Magic, and South Caravan 
 
 **Image:** n/a
 
-**Square (Landmark)** 
+**Square (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ This is a small public space at the corner where Vine, Magic, and South Caravan 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ This is a small public space at the corner where Vine, Magic, and South Caravan 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 3d6ae3c7-292e-4b67-ad99-e52a3d90d5c9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -90,7 +103,9 @@ This is a small public space at the corner where Vine, Magic, and South Caravan 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

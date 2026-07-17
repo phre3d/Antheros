@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Brikarm arn Mugin
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Brikarm arn Mugin
 
-### 
+###
 
-**Full Name:**  Brikarm  arn Mugin    
+**Full Name:**  Brikarm  arn Mugin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Brikarm is a dwarven accountant who works for Adrielle in the office from 9:00am
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/brikarm-arn-mugin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

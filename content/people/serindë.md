@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Serindë
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Serindë
 
-### 
+###
 
-**Full Name:** Goddess of Truth, Mother of the Gods       
+**Full Name:** Goddess of Truth, Mother of the Gods
 
 `````col
 ````col-md
@@ -208,13 +214,10 @@ Her holy symbol is a checkerboard pattern that spirals inward, giving the illusi
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 0b51c24f-a708-4b51-9631-c41202588749

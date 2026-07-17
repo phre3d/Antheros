@@ -1,8 +1,12 @@
 ---
-location: [2394.574,  2241.837]
+aliases: []
+tags: [map-marker]
+location: [2241.837, 2394.574]
 mapmarker: Inns & Taverns
+title: Horn and Hardart
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Horn and Hardart
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/horn-and-hardart|Horn and Hardart]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

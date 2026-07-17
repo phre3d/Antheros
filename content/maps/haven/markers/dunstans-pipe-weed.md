@@ -1,8 +1,12 @@
 ---
-location: [4727.228,  5744.898]
+aliases: []
+tags: [map-marker]
+location: [4727.228, 5744.898]
 mapmarker: Shopping
+title: "Dunstan's - Pipe Weed"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Dunstan's - Pipe Weed
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/dunstans-pipe-weed|Dunstan's - Pipe Weed]]<br>
 **Location Type:** Tobacco
 
-**Description**<br> 
-
+**Description**<br>

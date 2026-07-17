@@ -1,4 +1,10 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: The Goblins
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # The Goblins
 
 ````col
@@ -23,7 +29,6 @@ As the party searches the camp, a successful <u>DC 12 Intelligence (Investigatio
 ![[~attachments/dndline.png]]
 ```
 ````
-
 
 ---
 

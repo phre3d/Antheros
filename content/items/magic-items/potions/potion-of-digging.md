@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of Digging
+date modified: 2026-07-16, 9:19:02 pm
+---
+
 # Potion of Digging
 
 >[!info]
@@ -7,39 +13,44 @@
 >**Effect Category:** Skill
 >
 >**Application:**Ingest <br>
->**Duration:** 10 minutes 
+>**Duration:** 10 minutes
 >
 >**Price:** 43,000gp
 
-
 ## Description
+
 A rose tonic with yellow flecks. It smells like cantaloupe, but tastes like milk.
 
 ## Effects
+
 Convert the imbiber's hands into badger claws for one hour. While so transformed, you can dig five feet a minute through dirt and three feet a minute through stone areas.
 
 ## History
+
 An enterprising mine owner decided he could get more productivity from his workers if they could effectively dig with their hands in some of the more delicate parts of the mine. He had a potion created that would
 
 ## Crafting
+
 **Crafted By:** [[profession/|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
+
 **Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
 **Essence(s):** Air    Earth  Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** Badger claws
 
 ## Results from Identify Spell
+
 *Crafter:* Alchemist <br>
 *Base:* Aluminium Grease <br>
 *Essence(s):*  Air    Earth  Fire  Water <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

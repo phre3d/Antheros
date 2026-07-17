@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ilorim-family #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, ilorim-family, import, npc, person]
+title: Lachoriel Ilorim
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lachoriel Ilorim
 
-### 
+###
 
-**Full Name:**  Lachoriel  Ilorim    
+**Full Name:**  Lachoriel  Ilorim
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Lachoriel is a beautiful elfin maid of Londhin, a minor family in [[settlement/e
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lachoriel-ilorim]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

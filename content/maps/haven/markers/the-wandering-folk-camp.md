@@ -1,8 +1,12 @@
 ---
-location: [3021.105,  4919.388]
+aliases: []
+tags: [map-marker]
+location: [3021.105, 4919.388]
 mapmarker: Residence
+title: The Wandering Folk Camp
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Wandering Folk Camp
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/the-wandering-folk-camp|The Wandering Folk Camp]]<br>
 **Location Type:** Campsite
 
-**Description**<br> 
-
+**Description**<br>

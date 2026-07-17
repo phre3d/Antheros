@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Nera
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nera
 
-### 
+###
 
-**Full Name:**  Nera      
+**Full Name:**  Nera
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Fiercely loyal to Ranna and Ryan, and dangerous with a thrown knife
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nera]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

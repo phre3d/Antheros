@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Tiefling 2
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tiefling 2
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ See scenario [[plots/the-south-keep-gang|The South Keep Gang]]
 
 ---
 
-
-
 ![[people/blocks/tiefling-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

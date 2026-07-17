@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Rumours of All Kinds
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Rumours of All Kinds
 
 |#|Description|

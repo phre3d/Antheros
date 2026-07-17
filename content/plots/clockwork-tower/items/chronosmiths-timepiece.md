@@ -1,4 +1,9 @@
-#import #statblock #item #Clockwork_Tower #magic-item
+---
+aliases: []
+tags: [plot/clockwork-tower, import, item, magic-item, statblock]
+title: chronosmiths-timepiece
+date modified: 2026-07-16, 9:18:17 pm
+---
 
 ````col
 ```col-md

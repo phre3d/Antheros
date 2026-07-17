@@ -1,8 +1,12 @@
 ---
-location: [4859.881,  4513.265]
+aliases: []
+tags: [map-marker]
+location: [4513.265, 4859.881]
 mapmarker: Service
+title: Cowry Keltus - Investigations
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Cowry Keltus - Investigations
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/cowry-keltus-investigations|Cowry Keltus - Investigations]]<br>
 **Location Type:** Investigations
 
-**Description**<br> 
-
+**Description**<br>

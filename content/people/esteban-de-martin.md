@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Esteban de Martin
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Esteban de Martin
 
-### 
+###
 
-**Full Name:**  Esteban  de Martin    
+**Full Name:**  Esteban  de Martin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A ruthless man, who is also a Black Hand agent and captain of Dark of the Moon.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/esteban-de-martin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

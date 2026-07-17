@@ -1,13 +1,21 @@
-#import #settlement 
+---
+aliases: []
+tags: [import, settlement]
+title: Mandalai
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # Mandalai
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Demographics
@@ -42,36 +50,39 @@ shadow: off
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** <br>
 **Other Name(s):** <br>
-**Located In:** 
+**Located In:**
 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:**  <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** af32e79a-42d1-4531-8f42-287dc5154892<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Geography<br>
-**Tags:** 
+**Tags:**
 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

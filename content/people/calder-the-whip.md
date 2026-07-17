@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-labyrinth]
+title: Calder the Whip
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Calder the Whip
 
-### 
+###
 
 **Full Name:**  Calder    the Whip  
 
@@ -203,13 +209,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/calder-the-whip]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

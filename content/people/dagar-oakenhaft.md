@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-metalsmiths #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-dwarrow]
+title: Dagar Oakenhaft
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Dagar Oakenhaft
 
-### 
+###
 
-**Full Name:**  Dagar  Oakenhaft    
+**Full Name:**  Dagar  Oakenhaft
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Dagar is newlywed, and totally and completely infatuated with his new bride, Mer
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dagar-oakenhaft]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

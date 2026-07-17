@@ -1,10 +1,10 @@
 ---
+aliases: []
 tags: [spell]
 date created: 2026-05-29, 8:08:33 pm
-date modified: 2026-06-09, 12:22:40 pm
+date modified: 2026-07-16, 9:18:07 pm
+title: Analgesic Veil
 ---
-
-#spell
 
 # Analgesic Veil
 
@@ -34,4 +34,5 @@ When you cast this spell using a spell slot of 5th level or higher, add one addi
 ````
 
 ---
+
 *Source:* Physician Class (DM Guild)  <!-- Original source -->

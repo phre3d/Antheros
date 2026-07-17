@@ -1,8 +1,12 @@
 ---
-location: [2478.248,  1371.429]
+aliases: []
+tags: [map-marker]
+location: [1371.429, 2478.248]
 mapmarker: Service
+title: "Baraggio's Warehouse and Yard"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Baraggio's Warehouse and Yard
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/baraggios-warehouse-and-yard|Baraggio's Warehouse and Yard]]<br>
 **Location Type:** Warehouse
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, person]
+title: Gingar Terion
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gingar Terion
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,10 @@ Despite the pressures of his role, he remains deeply committed to his wife, Ther
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

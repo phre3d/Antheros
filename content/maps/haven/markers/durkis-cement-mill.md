@@ -1,8 +1,12 @@
 ---
-location: [2552.738,  4745.918]
+aliases: []
+tags: [map-marker]
+location: [2552.738, 4745.918]
 mapmarker: Service
+title: "Durki's Cement Mill"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Durki's Cement Mill
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/durkis-cement-mill|Durki's Cement Mill]]<br>
 **Location Type:** Construction
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Swaggering Mercenary 4
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Swaggering Mercenary 4
 
-### 
+###
 
-**Full Name:**  Swaggering  Mercenary Four    
+**Full Name:**  Swaggering  Mercenary Four
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Swaggering Mercs
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/swaggering-mercenary-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

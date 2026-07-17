@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Dradd Plen-or
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dradd Plen-or
 
-### 
+###
 
-**Full Name:**  Dradd  Plen-or    
+**Full Name:**  Dradd  Plen-or
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Healer for the [[organization/thieves-guild|Thieves' Guild]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dradd-plen-or]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

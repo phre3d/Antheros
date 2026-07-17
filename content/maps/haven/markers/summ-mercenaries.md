@@ -1,8 +1,12 @@
 ---
-location: [3529.268,  3610.204]
+aliases: []
+tags: [map-marker]
+location: [3529.268, 3610.204]
 mapmarker: Service
+title: Summ Mercenaries
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Summ Mercenaries
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/summ-mercenaries|Summ Mercenaries]]<br>
 **Location Type:** Mercenaries
 
-**Description**<br> 
-
+**Description**<br>

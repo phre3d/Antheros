@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-shop #type-musical-instruments #crafters-guild #musical-instruments
+---
+aliases: []
+tags: [cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, musical-instruments, street-of-harps, type-musical-instruments]
+title: The Harp Sellers
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Harp Sellers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Kelly and [[people/erin-oshea|Erin O'Shea]], prop. 
 
-## Description 
+# Description
+
+## Kelly and [[people/erin-oshea|Erin O'Shea]], prop.
+
+## Description
+
 Selling harps (by commission, usually) from lady's lap harps to the great floor harps. Most made on premises, though some are on consignment from other harp makers. Quality is quite good, and Kelly frequently uses carving and inlay for ornamentation (at extra cost). The front room of the shop is workshop and display at once, aromatic with the scent of fine woods and resin.  
 
  Kelly is a tall, chunky fellow whose red hair has begun to grey, but his hands are sure at their task. His newly-wedded bride, Erin, is twenty years his junior. A lovely girl, and devoted to him. She also plays harp. Kelly is secretly making a special harp for her and is frantic to hide it if she comes down to the shop from their upstairs apartment unexpected.  
@@ -20,16 +30,20 @@ Selling harps (by commission, usually) from lady's lap harps to the great floor 
 
  About two weeks ago, Kelly restrung an old harp, made of elvish heartwood and beautifully carved with the likeness of dragons for a young journeyman, [[people/vernadot|Vernadot]]. He will only remember this if asked about a similar harp. He does not know where [[people/vernadot|Vernadot]] lives.
 
-## Price Range 
+## Price Range
+
 High
 
-## Quality 
+## Quality
+
 Excellent
 
-## Cash Box 
+## Cash Box
+
 is hidden under a work bench and contains 4d10gp.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/erin-oshea|Erin O'Shea]]
 
 # Purpose / Function
@@ -66,7 +80,7 @@ is hidden under a work bench and contains 4d10gp.
 
 **Image:** n/a
 
-**Musical Instruments (Shopping)** 
+**Musical Instruments (Shopping)**
 
  **Owner:**  Kelly O'Shea
 
@@ -78,12 +92,14 @@ is hidden under a work bench and contains 4d10gp.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -100,6 +116,7 @@ is hidden under a work bench and contains 4d10gp.
 ---
 
 ### World Anvil Metadata
+
 **Id:** a3b8a884-cc7b-4fcb-a1a3-3c111a612b0f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -108,7 +125,9 @@ is hidden under a work bench and contains 4d10gp.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

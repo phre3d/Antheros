@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Elias Pennywhistle
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Elias Pennywhistle
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +3 to hit , 1d4+0 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

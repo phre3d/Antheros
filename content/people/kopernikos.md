@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Kopernikos
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Kopernikos
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A very old Centaur, with an age-lined face, dark eyes and a long grey beard. He 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kopernikos]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Surfey Yerdien
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Surfey Yerdien
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +5 to hit , 1d8+3 piercing damage  
   **composite longbow:**  +5 to hit , 1d10+3 piercing damage  
   **shortbow:**  +5 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

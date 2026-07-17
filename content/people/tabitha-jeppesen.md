@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-north-corridor]
+title: Tabitha Jeppesen
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tabitha Jeppesen
 
-### 
+###
 
 **Full Name:**  Tabitha  Jeppesen    Tabi
 
@@ -201,13 +207,12 @@ Tabitha is a slender young woman of exceptional beauty, and can usually be found
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/tabitha-jeppesen]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

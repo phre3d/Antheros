@@ -1,8 +1,12 @@
 ---
-location: [3477.228,  371.429]
+aliases: []
+tags: [map-marker]
+location: [3477.228, 371.429]
 mapmarker: Shopping
+title: Studio of Albrekki arn Dur - artist
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Studio of Albrekki arn Dur - artist
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/studio-of-albrekki-arn-dur-artist|Studio of Albrekki arn Dur - artist]]<br>
 **Location Type:** Artist
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-education #type-training #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-north-corridor, type-training]
+title: The Topaz Health Center
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # The Topaz Health Center
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Weapons and physical training 
 
-## Description 
+# Description
+
+## Weapons and physical training
+
+## Description
+
 This North Corridor gym is patronized by several of the best Black Hand sworn swords, including [[people/angelina|Angelina]]'s body guard from [[landmarks/silvantes|Silvante's]]. The weapons master here is a Black Hand operative.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ This North Corridor gym is patronized by several of the best Black Hand sworn sw
 
 **Image:** n/a
 
-**Training (Service)** 
+**Training (Service)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ This North Corridor gym is patronized by several of the best Black Hand sworn sw
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Gym
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ This North Corridor gym is patronized by several of the best Black Hand sworn sw
 ---
 
 ### World Anvil Metadata
+
 **Id:** bf0d99d8-4f6f-4315-bcdb-946bc2bef7f9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -90,7 +103,9 @@ This North Corridor gym is patronized by several of the best Black Hand sworn sw
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

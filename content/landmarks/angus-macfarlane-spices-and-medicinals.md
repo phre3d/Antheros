@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-spices #spices
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, spices, thieves-market, type-spices]
+title: Angus MacFarlane - Spices and Medicinals
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Angus MacFarlane - Spices and Medicinals
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Angus MacFarlane, a small, energetic man, runs this booth with the aid of his hulking assistant, Hallen MacCormac. They carry assorted powdered spices and minerals (sort of an early version of a natural health store), and sell assorted drugs (particularly hashish) under the counter. Occasionally, a muffled groan can be discerned coming from behind the heavy curtain that divides the interior of the tent.
 
 # Purpose / Function
@@ -45,11 +54,9 @@ Angus MacFarlane, a small, energetic man, runs this booth with the aid of his hu
 
 **Image:** n/a
 
-**Shop / Spices** 
-
+**Shop / Spices**
 
  **Location:**  Thieves Market
-
 
  **Map Reference:**  TM-13
 
@@ -57,12 +64,13 @@ Angus MacFarlane, a small, energetic man, runs this booth with the aid of his hu
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Market stall
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -80,6 +88,7 @@ Angus MacFarlane, a small, energetic man, runs this booth with the aid of his hu
 ---
 
  **Stall Type:**  Pavillion
+
  **# Occupants:**  Owner + 1
 
  **Prices:**  Fair
@@ -97,7 +106,9 @@ Angus MacFarlane, a small, energetic man, runs this booth with the aid of his hu
  **Purse:**  100gp
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 70cc3259-ab09-48dc-9871-f656fd3883de<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -106,7 +117,9 @@ Angus MacFarlane, a small, energetic man, runs this booth with the aid of his hu
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

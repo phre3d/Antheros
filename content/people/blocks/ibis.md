@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Ibis
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Ibis
 
 ````col
@@ -37,41 +43,16 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
-**Heavenly Touch: ** Heal xd4 damage where x = proficiency bonus. Needs long rest to recharge 
+
+**Heavenly Touch: ** Heal xd4 damage where x = proficiency bonus. Needs long rest to recharge
+
  **Light**  cantrip
-
-
-
-
-
-
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +3 to hit , 1d4+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

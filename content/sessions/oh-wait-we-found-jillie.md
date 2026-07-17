@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -63,4 +68,3 @@ Eugene is a little leery and casts detect thoughts on Jillie. Martin determines 
 When they get back to the Griffon, Arada asks Eugene to see if the vest she got as a package is magic. It is, but he also knows it is beyond his abilities to identify. Arada decides to try to attune to it anyhow with the caveat that if it eats her soul Penelope will punch her out.
 
 ---
-

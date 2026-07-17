@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Dragonborn Race
+date modified: 2026-07-16, 9:38:09 pm
+---
+
 # Dragonborn Race
 
 ````col
@@ -71,5 +77,7 @@ Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshk
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

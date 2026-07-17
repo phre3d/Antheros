@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Walyn
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Walyn
 
-### 
+###
 
-**Full Name:**  Walyn      
+**Full Name:**  Walyn
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Owner of Walyn's House of Wonders
 
 ---
 
-
-
 ![[people/blocks/walyn]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

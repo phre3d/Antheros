@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-shop #type-rooming-house #guild-of-the-hearth #rooming-house
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, rooming-house, street-of-silk-veils, type-rooming-house]
+title: "Mama Rosa's Rooming House"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Mama Rosa's Rooming House
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Rooming House (Residence)** 
+**Rooming House (Residence)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apartment building / Tenament
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0080ef93-aac8-4c97-802b-25601053ce82<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

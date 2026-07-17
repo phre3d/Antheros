@@ -1,4 +1,10 @@
-#import #statblock #person #npc #npc
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Fernlace
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Fernlace
 
 ````col
@@ -37,48 +43,34 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
 ![[dndline.png]]
 
 # Spellcasting
+
 **Spellcasting modifier:**  Wisdom, +9 to hit with her spells
+
   **Spell Save DC:**  17
+
   **Spell Slots: **  4 <sup>1st</sup> | 3 <sup>2nd</sup> | 3 <sup>3rd</sup> | 3 <sup>4th</sup> | 2 <sup>5th</sup> | 1 <sup>6th</sup> | 1 <sup>7th</sup>
+
   **Known Spells:**   *Entangle*  <sup>1st</sup>|  *Create Water*  <sup>1st</sup>|  *Locate Plants*  <sup>2nd</sup>|  *Pass without Trace*  <sup>2nd</sup>|  *Spike Growth*  <sup>2nd</sup>|  *Plant Growth*  <sup>3rd</sup>|   *Speak with Plants*  <sup>3rd</sup>|  *Commune with Nature*  <sup>5th</sup>|  *Tree Stride*  <sup>5th</sup>|  *Transport via Plants*  <sup>6th</sup>|  *Wall of Thorns*  <sup>6th</sup>
 
 ## Cast at Will
+
 Druidcraft
 
 ## Cast Once per Day
+
 **Ungrow:**  Return a mature plant to it's seed
 
 ## Cast Twice per Day
+
 **Force-grow:**  cause a seedling to fully mature over 12 hours.
-
-
-
-
-
 
 ![[dndline.png]]
 
 # Actions
+
 **Sickle:**  +6 to hit , 1d4+1 slashing damage  
   **Scimitar:**  +6 to hit , 1d6+1 slashing damage  
   **Quarterstaff:**  +6 to hit , 1d6+1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

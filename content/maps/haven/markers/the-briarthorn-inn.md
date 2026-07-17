@@ -1,8 +1,12 @@
 ---
-location: [1296.615,  3764.286]
+aliases: []
+tags: [map-marker]
+location: [1296.615, 3764.286]
 mapmarker: Residence
+title: The Briarthorn Inn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Briarthorn Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/the-briarthorn-inn|The Briarthorn Inn]]<br>
 **Location Type:** Rooming House
 
-**Description**<br> 
-
+**Description**<br>

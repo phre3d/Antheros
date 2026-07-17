@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-education #type-university #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, magic-street, type-university]
+title: College of the Mystic Arts
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # College of the Mystic Arts
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Certainly not Hogwarts 
 
-## Description 
+# Description
+
+## Certainly not Hogwarts
+
+## Description
+
 Home to the teaching of most forms of magic. It is the only part of the university not located in the [[settlements/scholars-triangle|Scholar's Triangle]].
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/karilinia-inturisdan|Karilinia Inturisdan]] | [[people/zbyssso|Zbyssso]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Home to the teaching of most forms of magic. It is the only part of the universi
 
 **Image:** n/a
 
-**University (Education)** 
+**University (Education)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Home to the teaching of most forms of magic. It is the only part of the universi
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** University / Educational complex
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Home to the teaching of most forms of magic. It is the only part of the universi
 ---
 
 ### World Anvil Metadata
+
 **Id:** 576fa97a-08bd-41d1-b588-f7d903051ea0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -93,7 +107,9 @@ Home to the teaching of most forms of magic. It is the only part of the universi
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

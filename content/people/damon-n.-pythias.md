@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Damon N. Pythias
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Damon N. Pythias
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Damon is a short, skinny man with hair that can't seem to make up its mind. In a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/damon-n.-pythias]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

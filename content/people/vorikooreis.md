@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Vorikooreis
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vorikooreis
 
-### 
+###
 
-**Full Name:**  Vorikooreis      
+**Full Name:**  Vorikooreis
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A [[settlement/thieves-market|Thieves' Market]] vendor who maintains an excellen
 
 ---
 
-
-
 ![[people/blocks/vorikooreis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

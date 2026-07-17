@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Petriko
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Petriko
 
-### 
+###
 
-**Full Name:**  Petriko      
+**Full Name:**  Petriko
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ A talented youth, Petriko and his partner [[person/kivi|Kivi]] spend their days 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/petriko]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Brick
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Brick
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +8 to hit , 1d8+5 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

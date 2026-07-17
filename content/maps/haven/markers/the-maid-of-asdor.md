@@ -1,8 +1,12 @@
 ---
-location: [5070.085,  5642.857]
+aliases: []
+tags: [map-marker]
+location: [5070.085, 5642.857]
 mapmarker: Inns & Taverns
+title: The Maid of Asdor
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Maid of Asdor
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-maid-of-asdor|The Maid of Asdor]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

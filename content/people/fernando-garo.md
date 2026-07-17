@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Fernando Garo
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Fernando Garo
 
-### 
+###
 
 **Full Name:**  Fernando  Garo    Fig
 
@@ -202,13 +208,12 @@ Provides decent barbering, non-slip shanve and leaves your ears and throat intac
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fernando-garo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

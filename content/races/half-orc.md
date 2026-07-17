@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Half-Orc Race
+date modified: 2026-07-16, 9:39:08 pm
+---
+
 # Half-Orc Race
 
 ````col
@@ -129,5 +135,7 @@ Canan, Drogheda, Goruza, Mazon, Shirish, Tevaga, Zeljka.
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

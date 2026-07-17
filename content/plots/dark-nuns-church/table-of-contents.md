@@ -1,4 +1,9 @@
-#toc #Dark_Nuns_Church
+---
+aliases: []
+tags: [plot/dark-nuns-church, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 **[[plots/dark-nuns-church/dark-nuns-church|Introduction]]**  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/dark-nuns-church/entrance|Entrance]]<br>

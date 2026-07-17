@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, the-south-docks]
+title: Geraldine
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Geraldine
 
-### 
+###
 
-**Full Name:**  Geraldine      
+**Full Name:**  Geraldine
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ She is a large woman, who makes ends meet by renting rooms in her spacious row h
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/geraldine]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

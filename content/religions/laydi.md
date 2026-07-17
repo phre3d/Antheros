@@ -1,27 +1,37 @@
-#import #person   #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Laydi
+date modified: 2026-07-16, 9:18:10 pm
+---
+
 # Laydi
 
-Goddess of Luck, Patron of Gamblers     
+Goddess of Luck, Patron of Gamblers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # General Info
+
 Laydi exists somewhat outside the main pantheon and some stories say she is from "elsewhere". Many others believe she is the true creator and birthed [[religions/serindë]] and [[religions/ladros]].
 
-Laydi rules over luck, in all its forms and is the patron of gamblers and risk takers everywhere.  Some of her worshipers believe that with devotion to her, their own fortunes can be improved. Others believe that their devotion to her is a practical way of giving thanks for their own fortune. 
+Laydi rules over luck, in all its forms and is the patron of gamblers and risk takers everywhere.  Some of her worshipers believe that with devotion to her, their own fortunes can be improved. Others believe that their devotion to her is a practical way of giving thanks for their own fortune.
 
-Her gift to the races of man was the diversity between individuals and between the races themselves. Because of this, many believe that the Halflings are her favored race, as they are perceived to be unnaturally lucky. Oddly enough, Halflings overall have rejected this belief, thinking instead that their proclivity to luckiness is just another characteristic of their race, and are a little uncomfortable about the idea that there is a god watching all of them. 
+Her gift to the races of man was the diversity between individuals and between the races themselves. Because of this, many believe that the Halflings are her favored race, as they are perceived to be unnaturally lucky. Oddly enough, Halflings overall have rejected this belief, thinking instead that their proclivity to luckiness is just another characteristic of their race, and are a little uncomfortable about the idea that there is a god watching all of them.
 
 Her most common holy symbol is a truncated diamond, and many worshipers will have a small piece of malachite carved into this image. However there are also dozens of lesser holy symbols, and her worshipers will usually carry two to three of these charms to garner her favor.
 
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
 ## Body Features
@@ -41,6 +51,7 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 ---
 
 # Mental Characteristics
+
 ## Personal History
 
 ## Gender Identity
@@ -66,6 +77,7 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 ---
 
 # Personality Characteristics
+
 ## Motivation
 
 ## Savvies & Ineptitudes
@@ -85,6 +97,7 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 ---
 
 # Social
+
 ## Titles
 
 ## Reign
@@ -113,7 +126,7 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 
 **Physical Realm:**  
 
-**Church / Cult:** 
+**Church / Cult:**
 
 ## Divine Domain(s)
 
@@ -131,20 +144,21 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Generation:**  Elder
 
  **Alignment:**  Chaotic Neutral
 
- **Offspring** 
+ **Offspring**
+
 - None known
 
 ---
 
 ---
 
-**Character Prototype:** 
+**Character Prototype:**
 
 #### Presentation
 
@@ -164,7 +178,7 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 **Family:** <br>
 **Species:** <br>
 **Ethnicity:** <br>
-**Secondary Ethnicities/Cultures:** 
+**Secondary Ethnicities/Cultures:**
 
 #### Birth
 
@@ -178,7 +192,7 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 **Date of Death:**  <br>
 **Year of Death:** <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
 #### Current State
 
@@ -189,16 +203,17 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 **Current Location:**  <br>
 **Current Vehicle:**  <br>
 **Known Language(s):**  <br>
-**Quotes & Catchphrases:** 
+**Quotes & Catchphrases:**
 
 **Affiliated Organization - Primary:**  <br>
-**Other Affiliations:** 
+**Other Affiliations:**
 
 **Conditions:**  
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 0b51c24f-a708-4b51-9631-c41202588749<br>
 **Entity Type:** Article / person<br>
 **Category:** Deities & Religions<br>
@@ -211,31 +226,37 @@ Her most common holy symbol is a truncated diamond, and many worshipers will hav
 # Relationships
 
 ## Parents
+
 --- start-multi-column: Parents
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off]
 ```
+
 **Biological**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-column ---
 
 **Adoptive**<br>
 *Parent 1:* <br>
-*Parent 2:* 
+*Parent 2:*
 
 --- end-multi-column
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/laydi-article)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/laydi-article)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/laydi-article)
 
 ---
@@ -243,18 +264,22 @@ border: [off]
 ---
 
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 a68596cb-7eab-49f9-aa4f-ffdbb63865ce
 
 --- end-column ---
 
 Next:
+
 fed8a554-c5c1-48cd-932a-2457b1cc820d
 
 --- end-multi-column

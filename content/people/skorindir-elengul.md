@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #elengul-family #guild-of-the-hearth #erinhir #npc
+---
+aliases: []
+tags: [elengul-family, erinhir, Free_City_of_Haven, guild/hearth, import, npc, person]
+title: Skorindir Elengul
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Skorindir Elengul
 
-### 
+###
 
-**Full Name:**  Skorindir  Elengul    
+**Full Name:**  Skorindir  Elengul
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Skorindir is getting elderly for an elf, being the only on in HAven with white h
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/skorindir-elengul]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

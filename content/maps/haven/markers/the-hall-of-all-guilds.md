@@ -1,8 +1,12 @@
 ---
-location: [5066.003,  4174.49]
+aliases: []
+tags: [map-marker]
+location: [4174.49, 5066.003]
 mapmarker: Guild
+title: The Hall of All Guilds
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Hall of All Guilds
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Guild
 **Location:** [[landmarks/the-hall-of-all-guilds|The Hall of All Guilds]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
+**Description**<br>
+
 This building serves a couple purposes. First, it provides a meeting place for guilds that don't have their own hall. It is also where the Council of Masters meets.

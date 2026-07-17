@@ -1,4 +1,10 @@
-#import #material #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, material]
+title: Ironwood Coal
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Ironwood Coal
 
 ````col
@@ -90,7 +96,9 @@ Sourced from the [[location/ironwood-forest|Ironwood Forest]], this coal burns h
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

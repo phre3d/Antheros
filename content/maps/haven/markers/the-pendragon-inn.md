@@ -1,8 +1,12 @@
 ---
-location: [2546.615,  1514.286]
+aliases: []
+tags: [map-marker]
+location: [1514.286, 2546.615]
 mapmarker: Inns & Taverns
+title: The Pendragon Inn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Pendragon Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-pendragon-inn|The Pendragon Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

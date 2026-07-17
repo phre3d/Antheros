@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Daisy Pinafore
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Daisy Pinafore
 
-### 
+###
 
-**Full Name:**  Daisy  Pinafore    
+**Full Name:**  Daisy  Pinafore
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A plump, matronly woman with a cheery smile, Daisy greets each ship with a fray 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/daisy-pinafore]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

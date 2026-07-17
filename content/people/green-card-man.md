@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Green Card Man
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Green Card Man
 
-### 
+###
 
-**Full Name:**  Green Card Man    
+**Full Name:**  Green Card Man
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Green Cards
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/green-card-man]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

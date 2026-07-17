@@ -1,30 +1,43 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-foundry #guild-of-metalsmiths #foundry
+---
+aliases: []
+tags: [513, cat-shop, foundry, Free_City_of_Haven, guild/metalsmiths, import, landmark, the-dwarrow, type-foundry]
+title: "Bethli's Iron Works"
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Bethli's Iron Works
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Bulk Metals 
 
-## Description 
-[[people/bethli|Bethli]]'s ( #513) huge smelter lies along the south banks of the Lorian, and melts massive quantities of iron, lead and copper ores (carried down the river by flat barge from the mines well to the north) into thin sheets or ingots. An avowed political neutral who worships no god except profit, [[people/bethli|Bethli]] will sell to anyone, and most of the major weaponeers, metalworkers, armorers and smiths of the city are among his constant customers.  
+# Description
+
+## Bulk Metals
+
+## Description
+
+[[people/bethli|Bethli]]'s () huge smelter lies along the south banks of the Lorian, and melts massive quantities of iron, lead and copper ores (carried down the river by flat barge from the mines well to the north) into thin sheets or ingots. An avowed political neutral who worships no god except profit, [[people/bethli|Bethli]] will sell to anyone, and most of the major weaponeers, metalworkers, armorers and smiths of the city are among his constant customers.  
 
  [[people/bethli|Bethli]]'s brother [[people/kels|Kels]] is a fairly high ranking mage who provides the iron works with a number of potions (in powder form) that can be added to the molten metal, for a rather stiff fee, to improve its strength, malleability, resistance to heat or cold, etc.  
 
  [[people/bethli|Bethli]] himself is a rather congenial dwarf with a ruddy complexion and a love of fine whiskey. He forges hammers and swords as a hobby - though he is a mediocre craftsman and often misbalances a weapon (-1 to -3 to HAC0), almost all of his weapons receive damage bonuses because of the quality of raw materials he uses.
 
-## Price Range 
+## Price Range
+
 High
 
-## Quality 
+## Quality
+
 Good
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/bethli|Bethli]]
 
 # Purpose / Function
@@ -61,7 +74,7 @@ Good
 
 **Image:** n/a
 
-**Foundry (Shopping)** 
+**Foundry (Shopping)**
 
  **Owner:**  Bethli
 
@@ -73,12 +86,14 @@ Good
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Foundry
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -95,6 +110,7 @@ Good
 ---
 
 ### World Anvil Metadata
+
 **Id:** e863a228-42fe-426e-965b-d905c3e1512d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -103,7 +119,9 @@ Good
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,8 +1,12 @@
 ---
-location: [1791.513,  6501.02]
+aliases: []
+tags: [map-marker]
+location: [1791.513, 6501.02]
 mapmarker: Residence
+title: "Widow Bupkes' Rooming House"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Widow Bupkes' Rooming House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/widow-bupkes-rooming-house|Widow Bupkes' Rooming House]]<br>
 **Location Type:** Rooming House
 
-**Description**<br> 
-
+**Description**<br>

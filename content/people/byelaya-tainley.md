@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #tainley-family #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-labyrinth]
+title: Byelaya Tainley
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Byelaya Tainley
 
-### 
+###
 
 **Full Name:** Lady Byelaya  Tainley    Bianca
 
@@ -211,13 +217,12 @@ The Lady Byelaya went missing a little while ago and her father is looking to hi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/byelaya-tainley-aka-bianca]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

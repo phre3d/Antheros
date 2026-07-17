@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Wrestling Match
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Wrestling Match
 
 ````col
@@ -75,7 +81,6 @@ To reflect the fact that a wrestler tires when under pressure, decrease the effe
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

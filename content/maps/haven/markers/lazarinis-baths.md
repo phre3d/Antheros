@@ -1,8 +1,12 @@
 ---
-location: [2904.779,  5946.939]
+aliases: []
+tags: [map-marker]
+location: [2904.779, 5946.939]
 mapmarker: Service
+title: "Lazarini's Baths"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lazarini's Baths
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/lazarinis-baths|Lazarini's Baths]]<br>
 **Location Type:** Other Services
 
-**Description**<br> 
-
+**Description**<br>

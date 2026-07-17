@@ -1,238 +1,39 @@
-#import #organization   #Free_City_of_Haven #type-guild-craftsmen
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/craftsmen, import, organization]
+title: Guild of the Artisan
+date modified: 2026-07-16, 9:15:12 pm
+---
+
 # Guild of the Artisan
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-# Description
+>[!info]
+>**Type:** Guild, Craftsmen<br>
+>**Alternate Names:** <br>
+>**Leader:** <br>
+>**Leader Title:** [[ranks/guild-grandmaster|Grandmaster]] <br><br>
+>**Founding Date:** <br>
+>**Motto/Slogan**: <br>
+>**Demonym:** <br>
+>**Related Races:**
+>**Related Ethnicities:**
+
 The guild represents those who make things for their looks or artistic merit rather than for usefulness. It is an organization torn by internal strife, and their leader, [[people/salvatore-celinni|Salvatore Celinni]], is considered an upstart who only became leader due to family connections.
 
 This is one of the five "great guilds" that control much of what happens in Haven and they meet in the [[landmarks/guildhall-of-the-artisan|Guildhall of the Artisan]]
 
-## Associated People & Places 
-
-[tagged:guild-of-the-artisan-person|list|none]
-
-[tagged:guild-of-the-artisan-location|list|none]
-
----
-
-# Common Information
-## Basics
-**Type:** Guild, Craftsmen<br>
-**Alternate Names:** <br>
-**Motto/Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:** 
-
-**Founders** 
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-**Leader:** [[person/salvatore-celinni|Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:** 
-
-**Founders** 
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-**Leader:** [[people/Salvatore Celinni]]<br>
-**Leader Title:** <br>
-**Ruling Organization:** <br>
-**Family Leader:** 
-
-## Structure
-
-## Culture
-
-## Public Agenda
-
-## Assets
-
-## History
-
-## Disbandment
-
----
-
-# Geopolitical Organizations
-
-**Capital:** <br>
-**Power Structure System:** <br>
-**Government System:** <br>
-**Head of State:** <br>
-**Head of Government:** <br>
-**Economic System:** <br>
-**Official State Religion:** 
-
-**Neighboring Geopolitical Organizations**
-
-**Recognized/Official Languages**
-
-## Gazetteer
-
-## Currency
-
-## Legislative Body
-
-## Judicial Body
-
-## Executive Body
-
-## Demography & Population
-
-## Foreign Relations
-
-## Laws
-
-## Territory
-
-## Military
-
-## Religion
-
-## Agriculture & Industry
-
-## Trade & Transport
-
-## Exports
-
-## Imports
-
-## Education
-
-## Infrastructure
-
-## Technological & Scientific Level
-
-![[DnDLine.png|Official Languages**
-
-## Gazetteer
-
-## Currency
-
-## Legislative Body
-
-## Judicial Body
-
-## Executive Body
-
-## Demography & Population
-
-## Foreign Relations
-
-## Laws
-
-## Territory
-
-## Military
-
-## Religion
-
-## Agriculture & Industry
-
-## Trade & Transport
-
-## Exports
-
-## Imports
-
-## Education
-
-## Infrastructure
-
-## Technological & Scientific Level
-
----
-
-# Religious Organizations
-
-**Deities**
-
-# Mythology
-
-# Origins
-
-# Cosmology
-
-# Tenets of Faith
-
-# Priesthood
-
-# Ethics
-
-# Granted Divine Powers
-
-# Political Intrigue & Influence
-
-# Worship
-
-# Sects
-
----
-
-# Military Organizations
-
-**Formation Type:**  
-
-**Training Level:** 
-
-**Veterancy:** 
-
---- end-column ---
-
-**Image:** 
-
-### Members 
-[tagged:guild of the artisan|list|none]
-
----
-
----
-### World Anvil Metadata
-**Id:** d5f28985-d602-436a-9a90-51c780ee11c7<br>
-**Entity Type:** Article / organization<br>
-**Category:** Guilds of Haven<br>
-**Tags:** fcoh,type-guild-craftsmen
-
---- end-multi-column
-
----
---- start-multi-column: PreviousNext
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
+### Associated People
+
+```dataview
+LIST title
+FROM ""
+WHERE contains(tags, "guild-of-the-artisan") and contains(tags, "person")
 ```
 
---- end-column ---
+## Associated Places
 
---- end-multi-column
+```dataview
+LIST title
+FROM ""
+WHERE contains(tags, "guild-of-ethe-artisan") and contains(tags, "landmark")
+```

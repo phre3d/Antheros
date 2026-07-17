@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Missing Heir
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Missing Heir
 
 ````col
@@ -57,7 +63,6 @@ If the players figure out the mystery, and confront Blackheart with his true ide
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

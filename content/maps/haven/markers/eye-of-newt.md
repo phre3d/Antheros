@@ -1,8 +1,12 @@
 ---
-location: [2971.105,  2236.735]
+aliases: []
+tags: [map-marker]
+location: [2236.735, 2971.105]
 mapmarker: Shopping
+title: Eye of Newt
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Eye of Newt
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/eye-of-newt|Eye of Newt]]<br>
 **Location Type:** Magic
 
-**Description**<br> 
-
+**Description**<br>

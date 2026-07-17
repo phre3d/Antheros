@@ -1,8 +1,12 @@
 ---
-location: [1689.472,  3109.184]
+aliases: []
+tags: [map-marker]
+location: [1689.472, 3109.184]
 mapmarker: Shopping
+title: "Brodsky's"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Brodsky's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/brodskys|Brodsky's]]<br>
 **Location Type:** Dairy
 
-**Description**<br> 
-
+**Description**<br>

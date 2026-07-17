@@ -1,4 +1,10 @@
-#import #plot  #Night_of_the_Living_Dolls
+---
+aliases: []
+tags: [import, plot/Night-of-the-Living-Dolls, plot]
+title: NotLD The Toy Shop
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # NotLD The Toy Shop
 
 ````col
@@ -136,7 +142,6 @@ A marionette strings drop from the ceiling, attempting to ensnare the players. E
 
 ```
 ````
-
 
 ---
 

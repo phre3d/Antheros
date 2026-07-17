@@ -1,4 +1,10 @@
-#import #plot  #Mine_Your_Own_Business
+---
+aliases: []
+tags: [import, Mine_Your_Own_Business, plot]
+title: Epilogue
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Epilogue
 
 ````col
@@ -29,7 +35,6 @@ With the party back in [[settlements/oakridge]], it's time to begin [[plots/the-
 
 ```
 ````
-
 
 ---
 

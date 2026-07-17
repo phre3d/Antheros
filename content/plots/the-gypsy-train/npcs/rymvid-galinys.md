@@ -1,4 +1,6 @@
 ---
+aliases: []
+tags: [npc, person, plot/The_Gypsy_Train]
 cr_type: person
 cr_id: rymvid-galinys
 name: Rymivd Galinys
@@ -8,9 +10,12 @@ cousin: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
 cousin_id: balkrin-vanagas
 spouse: "[[plots/the-gypsy-train/npcs/ezerina-galinys|Ezerina Galinys]]"
 spouse_id: ezerina-galinys
+title: Rymvid Galinys
+date modified: 2026-07-16, 9:18:12 pm
 ---
-#person #npc #The_Gypsy_Train 
+
 # Rymvid Galinys
+
 size, race (type), alignment
 
 **Profession:**
@@ -36,15 +41,15 @@ size, race (type), alignment
 **Languages:** <br>
 **Challenge:**  / (XP)<br>
 **Senses:** <br>
-**Skills:** 
+**Skills:**
 
 >[!infobox]
 >IMAGE
->
 
 ---
 
 # Description
+
 Guard. Cousin to [[plots/the-gypsy-train/npcs/Balkrin-vanagasBalkrin Vanagas]].
 
 Rymvid, age 26, is in a rather awkward position. Although he is a member of Balkrin’s family, he is treated almost as poorly as a stranger. As noted above, the plan is that if anything should happen to both Balkrin and his son [[plots/the-gypsy-train/npcs/Kordaal-vanagasKordaal]], then [[plots/the-gypsy-train/npcs/Scordraal-pakmydis|Scordraal Pakmydis]] is to act as leader of the group. This arrangement makes Rymvid furious, because he secretly desires to run the caravan himself and feels that if he could take command for a while, he could possibly hold the title through treachery.
@@ -54,13 +59,15 @@ Openly, he claims that he should fill this position since he is related. Balkrin
 ---
 
 # Actions
+
 **Long Sword.**<br>
 *Attack:*      <br>
-*Hit:*    
+*Hit:*
 
 **Dagger +2.**<br>
 *Attack:*      <br>
 *Hit:*
 
 ---
+
 **Source:** [[plots/the-gypsy-train/the-gypsy-train|The Gypsy Train]]

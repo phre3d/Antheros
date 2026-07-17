@@ -1,4 +1,9 @@
-#import #statblock #item #Night_of_the_Living_Dolls
+---
+aliases: []
+tags: [import, item, plot/Night-of-the-Living-Dolls, statblock]
+title: Description
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -37,10 +42,11 @@ The Cursed Mirror has the ability to trap the soul of a dying creature. When hel
 `````
 
 # Description
+
 The Cursed Mirror was once a mundane object, a beautifully crafted heirloom, until the toy maker-driven by grief and desperation-imbued it with dark magic in an attempt to hold onto the soul of his deceased daughter. Using forbidden arcane rituals, he trapped her soul inside the mirror, intending to transfer it into one of his life-sized dolls. The magic succeeded, but at a terrible cost. His daughter's spirit became twisted, full of rage and sorrow, animating the cursed doll that now haunts the toy shop.   The mirror's true power lies in its ability to trap and manipulate souls, making it a tool of both salvation and corruption. While it can free the toy maker's daughter and bring peace to her tormented soul, it can also serve darker purposes, allowing the wielder to imprison other souls for their own gain. Its cursed nature ensures that it tempts those who use it, luring them into exploiting its dark power.  
 
-### Attunement 
+### Attunement
+
  The mirror bonds itself to the wielder, slowly influencing their thoughts. After attuning, the wielder might begin seeing fleeting reflections of their own face twisted in fear or pain. The wielder must succeed on a DC 12 Wisdom saving throw each day or suffer from nightmares involving the souls trapped within.
 
 ---
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: "Sherriff's Deputies"
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Sherriff's Deputies
 
-### 
+###
 
-**Full Name:**  Sherriff's  Deputies    
+**Full Name:**  Sherriff's  Deputies
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A group of  halflings led by [[person/pauli-bracegirdle|Pauli Bracegirdle]], who
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/sherriffs-deputies]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

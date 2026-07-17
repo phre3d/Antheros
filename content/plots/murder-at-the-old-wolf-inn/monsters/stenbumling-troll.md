@@ -1,4 +1,9 @@
-#import #statblock #monster 
+---
+aliases: []
+tags: [import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -40,7 +45,8 @@ Large giant Chaotic Neutral
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-**False Appearance.**  While the stenbumling troll remains motionless, it is indistinguishable from a stone boulder. 
+
+**False Appearance.**  While the stenbumling troll remains motionless, it is indistinguishable from a stone boulder.
 
 **Regeneration.** Stenbumling trolls regain 1d6 hit points at the start of their turns.<br>
 
@@ -49,22 +55,29 @@ Large giant Chaotic Neutral
 ![[~attachments/dndline.png]]
 
 # Actions
+
 ### Fist  
+
   **Melee Weapon Attack:**  +5 to hit, reach 5 ft., one target. <br>
   **Hit:**  2d6 + 3 bludgeoning damage.  
-### Rock. 
+
+### Rock.
+
   **Ranged Weapon Attack:**  +5 to hit, range 100/400 ft., one target. <br>
   **Hit:**  1d10 + 2 bludgeoning damage.
 
 ## Reactions
-### Bash 
+
+### Bash
+
   If a Stenbumling troll takes damage, it can use its reaction to backhand a creature within 5 feet. On a hit, the creature takes  bludgeoning damage, and it is shoved 15 feet and becomes Prone.
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 The Stenbumling troll is a type of giant that is  distantly related to trolls. It is large and muscular and can often be found in mountainous regions. The stenbumling troll is a younger version of a bergatroll, a kind of stone giant.   Both stenbumling trolls and bergatrolls spend the majority of their lifetimes hibernating for extensive periods. They aren't necessarily evil but tend to be brooding and ill-tempered, especially if they are roused prematurely from their hibernation. However, stenbumling trolls are also known to be easily distracted by beautiful items and charismatic humanoids. According to stories, they sometimes ally with wood elves or help children return safety to their village in exchange for shiny trinkets or a song.
 
 ## Suggested Environments
-Mountainous areas
 
+Mountainous areas

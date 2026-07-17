@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-heights, type-guard]
+title: Shield Barracks
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Shield Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Shield Barracks is home to 60 guards, of which about 15 are on duty at any point in time. The Station Captain is Mikyl Swiftsword who is also the Heights Borough Commander and overall Commander of the Guard.
 
-## NPC Encounters 
+## NPC Encounters
+
 Mikyl Swiftsword
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Mikyl Swiftsword
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Mikyl Swiftsword
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Mikyl Swiftsword
 ---
 
 ### World Anvil Metadata
+
 **Id:** bbfae2a7-d7e1-41bb-b4ae-e3d962d87abf<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -93,7 +107,9 @@ Mikyl Swiftsword
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

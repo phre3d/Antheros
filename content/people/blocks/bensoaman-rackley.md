@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Bensoaman Rackley
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Bensoaman Rackley
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +3 to hit , 1d8+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

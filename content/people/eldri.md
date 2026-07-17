@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Eldri
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Eldri
 
-### 
+###
 
-**Full Name:**  Eldri      
+**Full Name:**  Eldri
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A talented, expert fighter who is qualified to teach any axe or hammer weapon, a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/eldri]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

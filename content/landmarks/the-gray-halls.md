@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-government #type-prison #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-prison]
+title: The Gray Halls
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Gray Halls
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Prison
 
 # Purpose / Function
@@ -47,9 +56,7 @@ shadow: off
 
 **Government / Prison**  
 
-
- **Location:**  The South Corridor 
-
+ **Location:**  The South Corridor
 
  **Map Reference:**  OS (G04)
 
@@ -57,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Prison
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -79,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 599f7440-74c7-4d40-b984-4a91f559fda9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -87,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

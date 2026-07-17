@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:10 pm
+---
 
 # Session Recap
 
@@ -55,4 +60,3 @@ Gearhart thinks Olivia might be a watchmaker. There are a few streets where ther
 Martin suggests we talk to the guards in that area and see if they know of her shop.
 
 ---
-

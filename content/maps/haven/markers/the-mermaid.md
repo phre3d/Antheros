@@ -1,8 +1,12 @@
 ---
-location: [2018.044,  6073.469]
+aliases: []
+tags: [map-marker]
+location: [2018.044, 6073.469]
 mapmarker: Inns & Taverns
+title: The Mermaid
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Mermaid
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-mermaid|The Mermaid]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

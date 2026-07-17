@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-cauldron]
+title: Oriol
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Oriol
 
-### 
+###
 
-**Full Name:**  Oriol      
+**Full Name:**  Oriol
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ An avanthar who works primarily with soft leather, feathers, beads, and other na
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/oriol]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

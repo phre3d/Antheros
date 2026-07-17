@@ -1,15 +1,24 @@
-#import #organization   #Free_City_of_Haven #type-religious-sect
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-religious-sect]
+title: Sisters of the Unicorn
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Sisters of the Unicorn
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-Follows the teachings of the goddesses in the Pantheon (except for Laydi), placing their feminity above all.  This does not mean they are against the male gods, or men in general, nor does this impact their sexuality in any way - all women are welcome. 
+
+Follows the teachings of the goddesses in the Pantheon (except for Laydi), placing their feminity above all.  This does not mean they are against the male gods, or men in general, nor does this impact their sexuality in any way - all women are welcome.
 
  **Symbol:**  White unicorn on a black background.
 
@@ -18,16 +27,18 @@ Follows the teachings of the goddesses in the Pantheon (except for Laydi), placi
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Religious, Sect<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -40,10 +51,11 @@ Follows the teachings of the goddesses in the Pantheon (except for Laydi), placi
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -61,9 +73,9 @@ Follows the teachings of the goddesses in the Pantheon (except for Laydi), placi
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -76,10 +88,11 @@ Follows the teachings of the goddesses in the Pantheon (except for Laydi), placi
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -103,7 +116,7 @@ Follows the teachings of the goddesses in the Pantheon (except for Laydi), placi
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -178,6 +191,7 @@ Follows the teachings of the goddesses in the Pantheon (except for Laydi), placi
 # Priesthood
 
 # Ethics
+
 Chastity outside of marriage
 
 # Granted Divine Powers
@@ -194,15 +208,16 @@ Chastity outside of marriage
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 2408af28-23ec-4ef0-acb6-f29005cbbc58<br>
 **Entity Type:** Article / organization<br>
 **Category:** Deities & Religions<br>
@@ -211,7 +226,9 @@ Chastity outside of marriage
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

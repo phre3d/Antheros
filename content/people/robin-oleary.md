@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #the-cleff #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cleff, the-street-of-harps]
+title: "Robin O'Leary"
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Robin O'Leary
 
-### 
+###
 
-**Full Name:**  Robin  O'Leary    
+**Full Name:**  Robin  O'Leary
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ Dashing, handsome young man with long curly dark hair, and gorgeously curled mou
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/robin-oleary]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

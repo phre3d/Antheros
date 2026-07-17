@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-butcher #guild-of-provenders #butcher
+---
+aliases: []
+tags: [butcher, cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-south-corridor, type-butcher]
+title: "Guski's Sausage Factory"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Guski's Sausage Factory
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Best not to ask
 
 # Purpose / Function
@@ -45,7 +54,7 @@ shadow: off
 
 **Image:** n/a
 
-**Butcher (Shopping)** 
+**Butcher (Shopping)**
 
  **Owner:**  
 
@@ -57,12 +66,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** c3c83db8-eb27-4740-8219-7b2fcb63b2a4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

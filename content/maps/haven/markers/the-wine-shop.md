@@ -1,8 +1,12 @@
 ---
-location: [3354.779,  3272.449]
+aliases: []
+tags: [map-marker]
+location: [3272.449, 3354.779]
 mapmarker: Shopping
+title: The Wine Shop
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Wine Shop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-wine-shop|The Wine Shop]]<br>
 **Location Type:** Vintner
 
-**Description**<br> 
-
+**Description**<br>

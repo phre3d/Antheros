@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Gib
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gib
 
-### 
+###
 
-**Full Name:**  Gib      
+**Full Name:**  Gib
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Stablehand at [[landmark/trenchers-pony-stable|Trencher's Pony Stable]]. Not abo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gib]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

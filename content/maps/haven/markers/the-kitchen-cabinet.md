@@ -1,8 +1,12 @@
 ---
-location: [4066.003,  1702.041]
+aliases: []
+tags: [map-marker]
+location: [1702.041, 4066.003]
 mapmarker: Shopping
+title: The Kitchen Cabinet
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Kitchen Cabinet
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-kitchen-cabinet|The Kitchen Cabinet]]<br>
 **Location Type:** Carpenter
 
-**Description**<br> 
-
+**Description**<br>

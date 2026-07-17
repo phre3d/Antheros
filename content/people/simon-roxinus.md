@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Simon Roxinus
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Simon Roxinus
 
-### 
+###
 
-**Full Name:**  Simon  Roxinus    
+**Full Name:**  Simon  Roxinus
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Simon, a brawny young man with green-eyes, blond hair and a thick beard. Simon i
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/simon-roxinus]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

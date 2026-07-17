@@ -1,8 +1,12 @@
 ---
-location: [4017.023,  1530.612]
+aliases: []
+tags: [map-marker]
+location: [1530.612, 4017.023]
 mapmarker: Shopping
+title: Suttler on the Green
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Suttler on the Green
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/suttler-on-the-green|Suttler on the Green]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

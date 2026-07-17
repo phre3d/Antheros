@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: [148.763, 97.5704]
 mapmarker: Inns & Taverns
+title: Golden Wheat Inn
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Golden Wheat Inn
 
 **Map:** [[maps/oakridge/oakridge|Oakridge]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/golden-wheat-inn|Golden Wheat Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
-
+**Description**<br>

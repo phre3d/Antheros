@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+title: Romano Maggia
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Romano Maggia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Gilberto Maggio's eighteen-year-old son, called "Mano" affectionately by his fam
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/romano-maggia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

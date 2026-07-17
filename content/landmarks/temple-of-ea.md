@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #believers-lane #cat-religion #type-temple #religion
+---
+aliases: []
+tags: [believers-lane, cat-religion, Free_City_of_Haven, import, landmark, religion, type-temple]
+title: Temple of Ea
+date modified: 2026-07-16, 9:18:47 pm
+---
+
 # Temple of Ea
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Goddess of the Air 
 
-## Description 
+# Description
+
+## Goddess of the Air
+
+## Description
+
 The Temple of Ea is very new to Believers' Lane. For years, this small cult useed to worship outside Caravan Gate. In the past few months, the cult has seen a phenomenal growth in membership, and a corresponding rise in contributions. The sect has managed to lease a relatively large building (and immediately removed the roof of the major chamber), and now conducts its rites, worshipping the open air, in relative opulence.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ The Temple of Ea is very new to Believers' Lane. For years, this small cult usee
 
 **Image:** n/a
 
-**Temple (Religion)** 
+**Temple (Religion)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ The Temple of Ea is very new to Believers' Lane. For years, this small cult usee
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Cathedral / Great temple
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/believers-lane|Believer's Lane]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ The Temple of Ea is very new to Believers' Lane. For years, this small cult usee
 ---
 
 ### World Anvil Metadata
+
 **Id:** cb867d0d-7d50-4ee2-af89-8d6d317863c6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Believer's Lane<br>
@@ -90,7 +103,9 @@ The Temple of Ea is very new to Believers' Lane. For years, this small cult usee
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

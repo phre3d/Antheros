@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Samantha Jeppesen
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Samantha Jeppesen
 
-### 
+###
 
-**Full Name:**  Samantha  Jeppesen    
+**Full Name:**  Samantha  Jeppesen
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Younger sister of Tabitha, she helps run the store selling Tabi's gooey goodies
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/samantha-jeppesen]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

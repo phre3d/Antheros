@@ -1,8 +1,12 @@
 ---
-location: [2518.044,  1201.02]
+aliases: []
+tags: [map-marker]
+location: [1201.02, 2518.044]
 mapmarker: Inns & Taverns
+title: The Jumping Jade
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Jumping Jade
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-jumping-jade|The Jumping Jade]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

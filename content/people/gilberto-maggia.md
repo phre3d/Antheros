@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #guild-of-provenders #council-of-masters #the-heights #npc
+---
+aliases: []
+tags: [council-of-masters, Free_City_of_Haven, guild/provenders, import, maggia-family, npc, person, the-heights]
+title: Gilberto Maggia
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gilberto Maggia
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -213,13 +219,12 @@ An immensely proud, hardworking man of about fifty, who has olive skin and dark 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gilberto-maggia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

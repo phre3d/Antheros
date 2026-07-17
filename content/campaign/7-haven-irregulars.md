@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+title: Haven Irregulars
+date modified: 2026-07-16, 9:19:05 pm
+---
+
 # Haven Irregulars
 
 A Dungeons & Dragons 5e game In the world of Antheros
@@ -22,25 +29,28 @@ A Dungeons & Dragons 5e game In the world of Antheros
 ---
 
 # Maps
+
 # World Map
+
 ![[maps/antheros/antheros.jpg]]
-   
+
 ## The Free City of Haven
+
 ![[maps/haven/haven-players.png]]
 
 ---
 
 # Characters
+
 ## Main Cast
 
 | Name | Race | Class | Background | Image |
 |------|------|-------|------------|-------|
 | Arada Thornkin | Lightfoot Halfling | Rogue (Thief) | Charlatan | ![[~attachments/arada-thornkin.jpeg\|300]]  |
-| Eugene the Elf (you'll only mis-pronounce my elvish name) | High Elf | Wizard (Divination) | Scholar| ![[~attachments/eugene-the-elf.jpg\|300]] | 
-| Martin Plowhearth | Stout Halfling | Cleric (Peace Domain) | Farmer | ![[~attachments/martin-plowhearth.png\|300]] | 
-| Penelope Sutherland | Half-Elf | Fighter (Battlemaster) | Noble    | ![[~attachments/penelope-sutherland.jpg\|300]] | 
-| Turin Windrider | Half-Elf  |  Ranger (Hunter)     | Sailor | ![[~attachments/turin-windrider.jpg\|300]] | 
-
+| Eugene the Elf (you'll only mis-pronounce my elvish name) | High Elf | Wizard (Divination) | Scholar| ![[~attachments/eugene-the-elf.jpg\|300]] |
+| Martin Plowhearth | Stout Halfling | Cleric (Peace Domain) | Farmer | ![[~attachments/martin-plowhearth.png\|300]] |
+| Penelope Sutherland | Half-Elf | Fighter (Battlemaster) | Noble    | ![[~attachments/penelope-sutherland.jpg\|300]] |
+| Turin Windrider | Half-Elf  |  Ranger (Hunter)     | Sailor | ![[~attachments/turin-windrider.jpg\|300]] |
 
 ## Supporting Cast
 
@@ -48,19 +58,23 @@ A Dungeons & Dragons 5e game In the world of Antheros
 |------|-------------|:-----:|
 | [[people/lyza\|Watch Captain Lyza]] | A powerful woman in her forties. A recently promoted Watch Captain commanding a new, irregular unit of the Haven City Watch. | ![[~attachments/watch-captain-lyza.jpg\|300]] |
 | [[people/porky\|Porky]] | A somewhat overweight, ageing, half-orc. Proprietor of The Giggling Gargoyle | ![[~attachments/porky.jpg\|300]] |
-| "Mender" [[people/thomasina\|Thomasina]] | A petite half-elf with an innocent face and white hair. She is short for a half-elf at 4'11" and weighs only 104 lbs. |  ![[~attachments/thomasina.png\|300]]| 
+| "Mender" [[people/thomasina\|Thomasina]] | A petite half-elf with an innocent face and white hair. She is short for a half-elf at 4'11" and weighs only 104 lbs. |  ![[~attachments/thomasina.png\|300]]|
 | [[people/lucille-rilossa\|Lucille Rilossa]]|    | ![[~attachments/lucille-rilossa.jpg\|300]]  |
 
 ---
 
 # Useful Links
+
 ## Discord
+
 [![[~attachments/discord-logo-resized.webp]]](https://discord.gg/c8ZCaUFRCX)
 
 ## Foundry VTT
+
 ### Main Server
-[![[~attachments/foundryvtt-logo-resized.webp]]](https://foundry.shaland.ca) 
+
+[![[~attachments/foundryvtt-logo-resized.webp]]](https://foundry.shaland.ca)
 
 ### Alternate Server
-[![[~attachments/foundryvtt-logo-resized.webp]]](https://foundry-alt.shaland.ca) 
 
+[![[~attachments/foundryvtt-logo-resized.webp]]](https://foundry-alt.shaland.ca)

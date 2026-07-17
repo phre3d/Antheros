@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Sui Tuong Ding
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Sui Tuong Ding
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +2 to hit , 1d4+0 piercing damage  
   **Dagger, thrown:**  +2 to hit , 1d4+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

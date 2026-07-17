@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-shop #type-barber #barber
+---
+aliases: []
+tags: [barber, cat-shop, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-barber]
+title: The Shaving Mill
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Shaving Mill
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Gotta look good before visiting our neighbours 
 
-## Description 
+# Description
+
+## Gotta look good before visiting our neighbours
+
+## Description
+
 Hair cutting for anyone
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Hair cutting for anyone
 
 **Image:** n/a
 
-**Barber (Service)** 
+**Barber (Service)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Hair cutting for anyone
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Barber / Dentist / Surgery
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Hair cutting for anyone
 ---
 
 ### World Anvil Metadata
+
 **Id:** 8d3a5952-f6f2-491d-b2d0-3424df1cfb8d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ Hair cutting for anyone
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

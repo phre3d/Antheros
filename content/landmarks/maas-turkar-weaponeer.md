@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-shop #type-weapons #armorers-guild #weapons
+---
+aliases: []
+tags: [armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-heights, type-weapons, weapons]
+title: Maas Turkar - Weaponeer
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Maas Turkar - Weaponeer
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Excellent Swords and Bows 
 
-## Description 
+# Description
+
+## Excellent Swords and Bows
+
+## Description
+
 Maas makes swords, rapiers, and mace-type weapons himself. And acquires bows and pole weapons for sale in his shop from other craftsmen in the city. His own creations tend to be of good quality.  
 
  A customer can order a sword or mace crafted up to a maximum of +2 HP and/or +4 to damage (triple the base cost of the weapon ordered for each point of increase desired, waiting period 3 months).  
@@ -20,13 +30,16 @@ Maas makes swords, rapiers, and mace-type weapons himself. And acquires bows and
 
  Special orders of these items can be taken under the terms listed above (except that bows cannot receive damage bonuses), but the waiting period is 6-9 months, and there is a 25% chance that the finished weapon will not meet the desired specifications.
 
-## Price Range 
+## Price Range
+
 High.
 
-## Quality 
+## Quality
+
 Good/excellent.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/bruning-de-la-riis|Bruning de la Riis]] | [[people/tenley-tainley|Tenley Tainley]]
 
 # Purpose / Function
@@ -63,7 +76,7 @@ Good/excellent.
 
 **Image:** n/a
 
-**Weapons (Shopping)** 
+**Weapons (Shopping)**
 
  **Owner:**  Maas Turkar
 
@@ -75,12 +88,14 @@ Good/excellent.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -97,6 +112,7 @@ Good/excellent.
 ---
 
 ### World Anvil Metadata
+
 **Id:** e896b418-1b05-4320-979c-0009eec68426<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -105,7 +121,9 @@ Good/excellent.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

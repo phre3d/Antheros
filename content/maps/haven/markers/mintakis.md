@@ -1,8 +1,12 @@
 ---
-location: [1489.472,  2495.918]
+aliases: []
+tags: [map-marker]
+location: [1489.472, 2495.918]
 mapmarker: Shopping
+title: "Mintaki's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mintaki's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/mintakis|Mintaki's]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

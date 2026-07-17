@@ -1,8 +1,12 @@
 ---
-location: [4211.921,  1010.204]
+aliases: []
+tags: [map-marker]
+location: [1010.204, 4211.921]
 mapmarker: Shopping
+title: The Clothes Closet
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Clothes Closet
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-clothes-closet|The Clothes Closet]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

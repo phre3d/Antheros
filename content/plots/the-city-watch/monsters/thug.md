@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:12 pm
+---
 
 ````col
 ```col-md
@@ -38,19 +43,23 @@ Medium humanoid any non-good alignment
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Pack Tactics.**  The thug has advantage on an attack roll against a creature if at least one of the thug''s allies is within 5 feet of the creature and the ally is n''t incapacitated.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Multiattack.**  The thug makes two melee attacks.    **Mace** 
+
+**Multiattack.**  The thug makes two melee attacks.    **Mace**
+
   *Melee Attack:*  +4 to hit , reach 5 ft., one creature.  
-  *Hit:*  5  bludgeoning damage.    **Heavy Crossbow** 
+  *Hit:*  5  bludgeoning damage.    **Heavy Crossbow**
+
   *Ranged Attack:*  +2 to hit , range 100/400 ft., one target.  
   *Hit:*  5  piercing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
-Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
+Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.

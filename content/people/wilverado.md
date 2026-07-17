@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #ohlfaardt-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, ohlfaardt-family, person, the-heights]
+title: Wilverado
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Wilverado
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Built like the dockworker he once was, he now works for [[person/neberhard-ohlfa
 
 ---
 
-
-
 ![[people/blocks/wilverado]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Ballard Lindsay
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Ballard Lindsay
 
-### 
+###
 
-**Full Name:**  Ballard  Lindsay    
+**Full Name:**  Ballard  Lindsay
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A [[settlement/thieves-market|Thieves' Market]] greengrocer who brings fresh pro
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ballard-lindsay]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-heights]
+title: Fandril C. Cloess
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Fandril C. Cloess
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Fandril is known around [[settlement/the-heights|The Heights]] as a quality tail
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fandril-c.-cloess]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

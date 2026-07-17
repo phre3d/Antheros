@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Avanthar Race
+date modified: 2026-07-16, 9:37:50 pm
+---
+
 # Avanthar Race
 
 ````col
@@ -105,5 +111,7 @@ Avanthari are nimble and quick, and are usually astute in matters of commercial 
 **Parent Ethnicities:** [[ethnicity/elven-race|Elven Race]], Deva<br>
 
 ````
+
 ---
+
 *Source:*  Homebrew   <!-- Original Source of the item -->

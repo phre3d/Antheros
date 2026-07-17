@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Watchman 1
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Watchman 1
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Spear:**  +3 to hit , 1d6+0 piercing damage  
   **Longsword:**  +3 to hit , 1d8+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

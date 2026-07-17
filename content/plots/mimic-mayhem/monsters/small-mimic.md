@@ -1,6 +1,12 @@
- #monster #Mimic_Mayhem
+---
+aliases: []
+tags: [plot/Mimic-Mayhem, monster]
+title: Small Mimic
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 # Small Mimic
+
 small monstrosity, neutral
 
 **Armour Class:** 13 (natural armour)<br>
@@ -33,6 +39,7 @@ small monstrosity, neutral
 ---
 
 # Special Abilities
+
 **Shapechanger.** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Equipment is not transformed. It reverts to its true form if it dies.
 
 **False Appearance** (Object Form Only). While motionless, the mimic is indistinguishable from an ordinary object.
@@ -45,10 +52,10 @@ small monstrosity, neutral
 
 <mark style="background:#ff4d4f">**Regeneration.** As one of their attacks, the mimic can swallow a pseudopod to instantly heal 10 hp. It regenerates a new pseudopod in 1d4 days.</mark>
 
-
 ---
 
 # Actions
+
 <mark style="background:#fff88f">**Multi-Attack.** The mimic can make two attacks. One with its pseudopod and one with its bite.</mark>
 
 **Pseudopod.** <br>
@@ -67,4 +74,3 @@ small monstrosity, neutral
 | 13 to 30 | Add only the green special abilities.|
 | 31 to 48 | Add the green and yellow special abilities.|
 | 49 to 78 | Use all the colored special abilities |
-

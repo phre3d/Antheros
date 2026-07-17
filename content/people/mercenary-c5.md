@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, person]
+title: Mercenary C5
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Mercenary C5
 
-### 
+###
 
-**Full Name:**  Mercenary  C5    
+**Full Name:**  Mercenary  C5
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary C5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-c5]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

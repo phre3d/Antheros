@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, npc, person, the-cauldron]
+title: Rohan Flanderin
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rohan Flanderin
 
-### 
+###
 
-**Full Name:**  Rogan  Flanderin    
+**Full Name:**  Rogan  Flanderin
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Wealthy owner of a spidersilk empire. He both manufactures and sells.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rohan-flanderin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

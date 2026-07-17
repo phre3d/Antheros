@@ -1,8 +1,12 @@
 ---
-location: [5876.207,  4183.673]
+aliases: []
+tags: [map-marker]
+location: [4183.673, 5876.207]
 mapmarker: Residence
+title: Rand Family Residence
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Rand Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/rand-family-residence|Rand Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

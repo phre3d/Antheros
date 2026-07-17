@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Elrick Jelas
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elrick Jelas
 
-### 
+###
 
-**Full Name:**  Elrick  Jelas    
+**Full Name:**  Elrick  Jelas
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Works at his brother [[person/varkin-jelas|Varkin Jelas]]' tavern, The Silber Pe
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elrick-jelas]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

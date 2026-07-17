@@ -1,5 +1,12 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Gnomish Race
+date modified: 2026-07-16, 9:38:33 pm
+---
+
 # Gnomish Race
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -149,5 +156,7 @@ Besh, Fijit, Lini, Majet, Neji, Pai, Queck, Trig
 
 ```
 `````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

@@ -1,8 +1,12 @@
 ---
-location: [2403.758,  5904.082]
+aliases: []
+tags: [map-marker]
+location: [2403.758, 5904.082]
 mapmarker: Shopping
+title: "Redonso's Grain Mill"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Redonso's Grain Mill
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/redonsos-grain-mill|Redonso's Grain Mill]]<br>
 **Location Type:** Mill
 
-**Description**<br> 
-
+**Description**<br>

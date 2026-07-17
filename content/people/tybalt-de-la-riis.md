@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: Tybalt de la Riis
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Tybalt de la Riis
 
-### 
+###
 
-**Full Name:**  Tybalt  de la Riis    
+**Full Name:**  Tybalt  de la Riis
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Tybalt loves to hunt in the woods surrounding their country manor, and is still 
 
 ---
 
-
-
 ![[people/blocks/tybalt-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

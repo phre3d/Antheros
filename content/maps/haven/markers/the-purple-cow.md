@@ -1,8 +1,12 @@
 ---
-location: [5317.023,  2886.735]
+aliases: []
+tags: [map-marker]
+location: [2886.735, 5317.023]
 mapmarker: Inns & Taverns
+title: The Purple Cow
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Purple Cow
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-purple-cow|The Purple Cow]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

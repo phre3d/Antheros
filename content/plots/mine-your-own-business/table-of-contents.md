@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+title: table-of-contents
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 **[[plots/mine-your-own-business/mine-your-own-business|Mine Your Own Business]]** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- **[[plots/mine-your-own-business/the-village|The Village]] ** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-  **[[plots/mine-your-own-business/on-the-way-to-the-mine|On the Way to the Mine]]** <br>

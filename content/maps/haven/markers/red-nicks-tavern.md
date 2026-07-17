@@ -1,8 +1,12 @@
 ---
-location: [1713.962,  6322.449]
+aliases: []
+tags: [map-marker]
+location: [1713.962, 6322.449]
 mapmarker: Inns & Taverns
+title: "Red Nick's Tavern"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Red Nick's Tavern
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/red-nicks-tavern|Red Nick's Tavern]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

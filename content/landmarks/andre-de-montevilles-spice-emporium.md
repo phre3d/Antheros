@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-spices #guild-of-provenders #spices
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, spices, the-south-docks, type-spices]
+title: "Andre de Monteville's Spice Emporium"
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Andre de Monteville's Spice Emporium
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Right off the boat fresh! 
 
-## Description 
+# Description
+
+## Right off the boat fresh!
+
+## Description
+
 Seller of imported spices
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Seller of imported spices
 
 **Image:** n/a
 
-**Spices (Shopping)** 
+**Spices (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Seller of imported spices
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Seller of imported spices
 ---
 
 ### World Anvil Metadata
+
 **Id:** 54db5f08-11bb-45d0-9aa1-8ad837c952dc<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ Seller of imported spices
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

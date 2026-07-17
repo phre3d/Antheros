@@ -1,8 +1,12 @@
 ---
-location: [2162.942,  2102.041]
+aliases: []
+tags: [map-marker]
+location: [2102.041, 2162.942]
 mapmarker: Entertainment
+title: Open Air Theater of the Performing Arts
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Open Air Theater of the Performing Arts
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Entertainment
 **Location:** [[landmarks/open-air-theater-of-the-performing-arts|Open Air Theater of the Performing Arts]]<br>
 **Location Type:** Theatre
 
-**Description**<br> 
+**Description**<br>
+
 An outdoor theatre

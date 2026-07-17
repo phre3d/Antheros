@@ -1,4 +1,10 @@
-#import #landmark   #Free_City_of_Haven #believers-lane #cat-shop #type-medical 
+---
+aliases: []
+tags: [believers-lane, cat-shop, Free_City_of_Haven, import, landmark, type-medical]
+title: Lohisian Place
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Lohisian Place
 
 ````col
@@ -50,4 +56,3 @@ flexGrow=2.5
 ````
 
 ![[~attachments/dndline.png]]
-

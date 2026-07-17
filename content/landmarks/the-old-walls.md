@@ -1,14 +1,23 @@
-#import #landmark   #Free_City_of_Haven #the-commons #cat-entertainment #type-tavern #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, the-commons, type-tavern]
+title: The Old Walls
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Old Walls
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Cuz it's by the old wall. Duh.
 
 # Purpose / Function
@@ -45,7 +54,7 @@ shadow: off
 
 **Image:** n/a
 
-**Tavern (Inns & Taverns)** 
+**Tavern (Inns & Taverns)**
 
  **Owner:**  
 
@@ -57,12 +66,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-commons|The Commons]]
 
 **Connected Rooms:**
@@ -79,6 +90,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** fd3949fb-1d04-4c71-83a7-5d20c6528408<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Commons<br>
@@ -87,7 +99,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

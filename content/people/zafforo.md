@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Zafforo
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zafforo
 
-### 
+###
 
-**Full Name:**  Zafforo      
+**Full Name:**  Zafforo
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A small, round man with darting, suspicious eyes and elaborately pomaded moustac
 
 ---
 
-
-
 ![[people/blocks/zafforo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

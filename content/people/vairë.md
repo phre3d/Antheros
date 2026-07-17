@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Vairë
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vairë
 
-### 
+###
 
-**Full Name:** Goddess of the Underworld       
+**Full Name:** Goddess of the Underworld
 
 `````col
 ````col-md
@@ -200,13 +206,10 @@ The clergy of Vairë are clad in black robes with much silver piping and trim.
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: cdcccf05-1462-4e63-a50d-5332573ef176

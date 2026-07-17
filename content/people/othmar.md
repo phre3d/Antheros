@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Othmar
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Othmar
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Othmar is about 50 years old, with a gray, wispy beard and mustache, and a raspy
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/othmar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

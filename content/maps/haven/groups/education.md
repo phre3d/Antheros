@@ -1,6 +1,12 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: education
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 **Markers in the group:**
+
 - [[maps/haven/markers/college-of-the-mystic-arts]]
 - [[maps/haven/markers/college-of-physical-naturalism]]
 - [[maps/haven/markers/college-of-common-law]]
@@ -10,5 +16,3 @@
 - [[maps/haven/markers/school-of-medicine]]
 - [[maps/haven/markers/school-of-alchemy]]
 - [[maps/haven/markers/student-tenements]]
-
-

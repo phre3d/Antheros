@@ -1,4 +1,10 @@
-#import #person #npc #Murder_at_the_Old_Wolf_Inn
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: Kara Tanner
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # Kara Tanner
 
 `````col
@@ -45,7 +51,9 @@ Kara will lie about her background. She is a former thug with a gambling problem
 `````
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

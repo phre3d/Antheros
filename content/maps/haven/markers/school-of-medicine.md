@@ -1,8 +1,12 @@
 ---
-location: [3228.248,  1977.551]
+aliases: []
+tags: [map-marker]
+location: [1977.551, 3228.248]
 mapmarker: Education
+title: School of Medicine
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # School of Medicine
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/school-of-medicine|School of Medicine]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

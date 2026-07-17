@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Elegrin Herundor
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elegrin Herundor
 
-### 
+###
 
-**Full Name:**  Elegrin  Herundor    
+**Full Name:**  Elegrin  Herundor
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Handles "real estate" transactions for the folk of the trees (although land in [
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elegrin-herundor]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

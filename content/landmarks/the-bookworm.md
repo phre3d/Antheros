@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #erinhir #cat-shop #type-written-word #guild-of-the-word #written-word
+---
+aliases: []
+tags: [cat-shop, erinhir, Free_City_of_Haven, guild/word, import, landmark, type-written-word, written-word]
+title: The Bookworm
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Bookworm
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Written Word (Shopping)** 
+**Written Word (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/erinhir|Erinhir]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** d5c95a38-a956-4d3c-ab00-5e5d2098c416<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Erinhir<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

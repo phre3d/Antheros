@@ -1,4 +1,10 @@
-#import #plot  #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, plot]
+title: Council Chambers
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Council Chambers
 
 ````col
@@ -152,7 +158,6 @@ Mayor [[person/elsbeth-windermere]]
 **Tags:** CT-plot
 ```
 ````
-
 
 ---
 

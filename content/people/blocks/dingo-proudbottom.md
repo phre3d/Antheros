@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Dingo Proudbottom
+date modified: 2026-07-16, 9:18:33 pm
+---
+
 # Dingo Proudbottom
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Unarmed strike:**  +2 to hit , 1d1-2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

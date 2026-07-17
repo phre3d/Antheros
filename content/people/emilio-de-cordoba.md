@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-south-docks]
+title: Emilio de Cordoba
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Emilio de Cordoba
 
-### 
+###
 
-**Full Name:**  Emilio  de Cordoba    
+**Full Name:**  Emilio  de Cordoba
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Captain Emilio di Cordoba of the Pavanne is an enterprising fellow who never ove
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/emilio-de-cordoba]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

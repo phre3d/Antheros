@@ -1,4 +1,10 @@
-#import #statblock #person #npc #npc #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, npc, person, statblock]
+title: Oakenville Villager
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Oakenville Villager
 
 ````col
@@ -37,39 +43,12 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 ### Club.  
-  **Melee weapon attack.**   to hit, reach 5 feet, one target. 
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
   **Hit:** \_2  bludgeoning damage.
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Angus MacFarland
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Angus MacFarland
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +3 to hit , 1d4+1 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

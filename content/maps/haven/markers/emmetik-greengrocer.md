@@ -1,8 +1,12 @@
 ---
-location: [1100.697,  3705.102]
+aliases: []
+tags: [map-marker]
+location: [1100.697, 3705.102]
 mapmarker: Shopping
+title: Emmetik - Greengrocer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Emmetik - Greengrocer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/emmetik-greengrocer|Emmetik - Greengrocer]]<br>
 **Location Type:** Greengrocer
 
-**Description**<br> 
-
+**Description**<br>

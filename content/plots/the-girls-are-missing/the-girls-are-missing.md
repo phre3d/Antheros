@@ -1,4 +1,10 @@
-#import #plot  
+---
+aliases: []
+tags: [import, plot]
+title: The Girls are Missing
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 # The Girls are Missing
 
 ````col

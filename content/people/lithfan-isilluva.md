@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Lithfan Isilluva
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Lithfan Isilluva
 
-### 
+###
 
-**Full Name:** Borough Commander Lithfan  Isilluva    
+**Full Name:** Borough Commander Lithfan  Isilluva
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Borough Commander of [[settlement/the-outlands|The Outlands]] stationed at
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lithfan-isilluva]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

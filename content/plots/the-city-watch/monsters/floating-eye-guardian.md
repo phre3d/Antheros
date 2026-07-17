@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Spellcasting
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -39,10 +44,11 @@ Medium aberration Lawful neutral
 ---
 
 # Spellcasting
+
 As an action, the Floating Guardian Eye can cast one of the following: - Magic Missile (2 missiles) - Fire Bolt - Poison Spray
 
 ![[~attachments/dndline.png]]
 
 # Description
-A Floating Eye Guardian is a magically created creature that resembles a giant eyeball with dangling tentacles like a jellyfish.
 
+A Floating Eye Guardian is a magically created creature that resembles a giant eyeball with dangling tentacles like a jellyfish.

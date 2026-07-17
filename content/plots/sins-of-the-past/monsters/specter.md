@@ -1,4 +1,9 @@
-#import #statblock #monster #Sins_of_the_Past #monster
+---
+aliases: []
+tags: [import, monster, plot/Sins_of_the_Past, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 ````col
 ```col-md
@@ -41,12 +46,15 @@ Medium Undead Chaotic Evil
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Incorporeal Movement.**  The specter can move through other creatures and objects as if they were difficult terrain. It takes 5  force damage if it ends its turn inside an object.   **Sunlight Sensitivity.**  While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-## Life Drain 
-  **Melee Spell Attack:**  +4 to hit , reach 5 ft., one creature. 
-  **Hit:**  10  necrotic damage. The target must succeed on a <u>DC 10 Constitution saving throw</u> or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
+## Life Drain
+
+  **Melee Spell Attack:**  +4 to hit , reach 5 ft., one creature.
+
+  **Hit:**  10  necrotic damage. The target must succeed on a <u>DC 10 Constitution saving throw</u> or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.

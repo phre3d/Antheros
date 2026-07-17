@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Rombo Alecastle
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rombo Alecastle
 
-### 
+###
 
-**Full Name:**  Rombo  Alecastle    
+**Full Name:**  Rombo  Alecastle
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ A well-known, but reclusive figure in [[settlement/the-dell|The Dell]] because o
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rombo-alecastle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

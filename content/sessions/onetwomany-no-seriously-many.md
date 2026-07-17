@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -119,4 +124,3 @@ A pile of lumber </blockquote>
 We take the gold and the gems and decide to pull the rest outside and camp for the night.
 
 ---
-

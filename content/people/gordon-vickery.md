@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Gordon Vickery
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Gordon Vickery
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A good average lawyer; he wins the share of cases his ability entitles him to, a
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/gordon-vickery]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

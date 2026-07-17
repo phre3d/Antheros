@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #trade-island #cat-shop #type-scribe #guild-of-the-word #scribe
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/word, import, landmark, scribe, trade-island, type-scribe]
+title: Sirius the Scribe
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Sirius the Scribe
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Scribe (Shopping)** 
+**Scribe (Shopping)**
 
  **Owner:**  Sirius the Scribe
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/trade-island|Trade Island]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** b85b980f-114b-469f-a29d-40a0a9754cc4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Trade Island<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

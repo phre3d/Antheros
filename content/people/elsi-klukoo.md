@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #jewelers-guild #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, jewelers-guild, npc, person, the-heights]
+title: Elsi Klukoo
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elsi Klukoo
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Elsi is a rather elderly but spry woman who makes pocket watches and large clock
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elsi-klukoo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Chiles Putney
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Chiles Putney
 
-### 
+###
 
-**Full Name:**  Chiles  Putney    
+**Full Name:**  Chiles  Putney
 
 `````col
 ````col-md
@@ -190,13 +196,12 @@ A tall, ruggedly handsome fellow with thick, curly blond hair, piercing blue eye
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/chiles-putney]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

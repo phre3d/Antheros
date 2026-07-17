@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios, the-dell]
+title: Leader of the Toughs
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Leader of the Toughs
 
-### 
+###
 
-**Full Name:**  Leader of toughs      
+**Full Name:**  Leader of toughs
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Refer to scenario [[plots/the-peacekeepers|The Peacekeepers]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/leader-of-the-toughs]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

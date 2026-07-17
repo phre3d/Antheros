@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-tailor #guild-of-the-loom #tailor
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/loom, import, landmark, magic-street, tailor, type-tailor]
+title: Style Matters
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Style Matters
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 ## Tailoring for the well dressed man  
 
-## Description 
+## Description
+
 Ninian is assisted by three apprentices and can offer next day service if the item isn't too complicated. Ninian originally focused on specialty clothing for magic users but had to branch out due to the stinginess of his target market.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Ninian is assisted by three apprentices and can offer next day service if the it
 
 **Image:** n/a
 
-**Tailor (Shopping)** 
+**Tailor (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Ninian is assisted by three apprentices and can offer next day service if the it
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Ninian is assisted by three apprentices and can offer next day service if the it
 ---
 
 ### World Anvil Metadata
+
 **Id:** e1718535-2b60-4308-9b07-7489f8f79b3c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -90,7 +103,9 @@ Ninian is assisted by three apprentices and can offer next day service if the it
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

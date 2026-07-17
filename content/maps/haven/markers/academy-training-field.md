@@ -1,8 +1,12 @@
 ---
-location: [1951.717,  1379.592]
+aliases: []
+tags: [map-marker]
+location: [1379.592, 1951.717]
 mapmarker: City Guard
+title: Academy Training Field
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Academy Training Field
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: City Guard
 **Location:** [[landmarks/academy-training-field|Academy Training Field]]<br>
 **Location Type:** City Guard
 
-**Description**<br> 
+**Description**<br>
+
 Part of the City Watch Academy

@@ -1,9 +1,15 @@
-#import #person #npc #the-dell #guild-of-the-hearth
+---
+aliases: []
+tags: [guild/hearth, import, npc, person, the-dell]
+title: Jillie Ferndew
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jillie Ferndew
 
-### 
+###
 
-**Full Name:**  Jillie  Ferndew    
+**Full Name:**  Jillie  Ferndew
 
 `````col
 ````col-md
@@ -190,13 +196,10 @@ Her boyfriend, [[person/martin-plowhearth|Martin Plowhearth]], is a member of [[
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

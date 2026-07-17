@@ -1,8 +1,12 @@
 ---
-location: [2343.554,  6238.776]
+aliases: []
+tags: [map-marker]
+location: [2343.554, 6238.776]
 mapmarker: Shopping
+title: The Moneymonger
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Moneymonger
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-moneymonger|The Moneymonger]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

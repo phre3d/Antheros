@@ -1,8 +1,12 @@
 ---
-location: [2472.126,  4485.714]
+aliases: []
+tags: [map-marker]
+location: [2472.126, 4485.714]
 mapmarker: Shopping
+title: "Bettina's"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bettina's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/bettinas|Bettina's]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

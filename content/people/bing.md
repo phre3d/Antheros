@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor]
+title: Bing
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bing
 
-### 
+###
 
-**Full Name:**  Bing      
+**Full Name:**  Bing
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Bing and his brother, [[person/bob|Bob]], seem to act as two halves of one perso
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bing]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

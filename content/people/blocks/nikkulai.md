@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Nikkulai
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Nikkulai
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Club:**  +5 to hit , 1d4+2 bludgeoning damage  
   **Sling:**  +4 to hit , 1d4+1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

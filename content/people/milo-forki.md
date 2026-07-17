@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #the-north-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, person, the-north-corridor]
+title: Milo Forki
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Milo Forki
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Milo Forki is an outcast from [[settlement/the-dwarrow|The Dwarrow]]; his father
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/milo-forki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

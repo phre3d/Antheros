@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Viliadri
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Viliadri
 
-### 
+###
 
-**Full Name:**  Viliadri      
+**Full Name:**  Viliadri
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ First encountered on her way to the gallows, she is a psychopath who is intensel
 
 ---
 
-
-
 ![[people/blocks/viliadri]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

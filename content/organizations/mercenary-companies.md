@@ -1,14 +1,23 @@
-#import #organization   #Free_City_of_Haven #type-military-mercenary-group
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-military-mercenary-group]
+title: Mercenary Companies
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Mercenary Companies
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 One of the things that helps Haven stay a Free City is the presence of several mercenary companies that have chosen to make Haven their headquarters. These companies range from the 50 men in the cataphract cavalry (very heavily armed and armored) force of Buren Tasidek through the 100 seasoned dwarves of Bonur arn Jasti and the 200 strong centaur contingent of Galidonos Goldenhoof to the small army of 500 commanded by Donelek of Petiz. The companies frequently leave the city on assignments, and may be gone for as long as two years, but always seem to return - a little battered, maybe, and with a few holes in the ranks - but none so far has failed to come back.
 
 Even with a majority of the companies gone at one time or another, there are seldom less than a dozen assorted companies in the city. The soldiers use the city's facilities for rest and recreation, and are free-spending enough to assuage the merchants' bad feelings about the ruckuses and uproars caused by the men's antics ([[plots/free-city-of-haven/street-encounters|Street Encounters]] [Swaggering Mercs](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Swaggering_Mercs) and [Cavalry Troop](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Cavalry_Troop)).
@@ -17,11 +26,11 @@ Occasionally, in the past, various companies have been hired for "road-cleaning"
 
 A number of reasonably large mercenary contingents (200 to 500 men each) regularly station themselves at the three towns of the Borgonnin Pass through the Mountains of Peace, the pass taken by the Long Road. They provide protection for groups of travelers and caravans using the pass, which is unfortunately infested with Lizarim (the townspeople appreciate the mercenaries' presence too - fewer successful raids by the lizard-men). These companies are nearly always on the lookout for new recruits, since the casualty rates for duty in the Pass are not low. The pay is high, about five times the regular rates, but the risk factor is at the same level.
 
-In the city, the sworn swords (the common appellation for mercenaries in general) will tend to congregate at the hall of the major guild, [[landmarks/free-companies-house|Free Companies House]] (located on Caravan Street near the corner of Galenkris), or at the Lydian House the home in Haven, of the [[organizations/guilds/lydian-sisterhood|Lydian Sisterhood]] (other mercenary guilds exist but are not represented in Haven). At other times, many mercenaries can be found at one of three different taverns in the area of the Free Companies guild house, [[landmarks/the-brass-blade|The Brass Blade]], [[landmarks/ludwigs-brauhaus|Ludwig's Brauhaus]], and the [[landmarks/bull-of-anathor|Bull of Anathor]]. Few outsiders (obvious non-soldiers) are welcomed at these taverns when the mercenaries are in full attendance, but likely recruits might be tolerated (at least for a beer or two, and a question or three).
+In the city, the sworn swords (the common appellation for mercenaries in general) will tend to congregate at the hall of the major guild, [[landmarks/free-companies-house|Free Companies House]] (located on Caravan Street near the corner of Galenkris), or at the Lydian House the home in Haven, of the [[organizations/lydian-sisterhood|Lydian Sisterhood]] (other mercenary guilds exist but are not represented in Haven). At other times, many mercenaries can be found at one of three different taverns in the area of the Free Companies guild house, [[landmarks/the-brass-blade|The Brass Blade]], [[landmarks/ludwigs-brauhaus|Ludwig's Brauhaus]], and the [[landmarks/bull-of-anathor|Bull of Anathor]]. Few outsiders (obvious non-soldiers) are welcomed at these taverns when the mercenaries are in full attendance, but likely recruits might be tolerated (at least for a beer or two, and a question or three).
 
-## Signing Up 
-Joining a mercenary company is not overly difficult. Surviving in one may be. Most companies are in need of fighting personnel at any given time, and will accept anyone who is relatively strong, dexterous, and trained with the weapons favored by the men of the company - swords, pikes, etc. To determine whether a character would be acceptable to a company commander as a recruit: 
+## Signing Up
 
+Joining a mercenary company is not overly difficult. Surviving in one may be. Most companies are in need of fighting personnel at any given time, and will accept anyone who is relatively strong, dexterous, and trained with the weapons favored by the men of the company - swords, pikes, etc. To determine whether a character would be acceptable to a company commander as a recruit:
 
 - Total STR, DEX and CON
 - Add 2 for each point of STR > 14, DEX > 13, and/or CON > 15.
@@ -31,17 +40,11 @@ Joining a mercenary company is not overly difficult. Surviving in one may be. Mo
 - Add 2 for each combat plus with proper weapons
 - If the recruit can provide their own mount, add 10
 
-
-Using the total as a percentage, roll D100 to see if the commander accepts the recruit in his company. Experienced soldiers have a chance equal to 
-
-
+Using the total as a percentage, roll D100 to see if the commander accepts the recruit in his company. Experienced soldiers have a chance equal to
 
 (100 - # higher level people in the company / 100) / 3 times (# in the troop / 100)
 
-
-
 of being offered a command position of some sort (the greater the difference between roll and figure to beat, the better the position should be).
-
 
  **<center>Mercenary Weekly Pay Scales</center>**
 
@@ -58,22 +61,19 @@ of being offered a command position of some sort (the greater the difference bet
 | Scouts | 30gp | 23gp | 15gp | 10gp  |
 | Engineers | 40gp | 30gp | 17gp | 10gp  |
 
-
-
-
-Pay in a mercenary company is usually in arrears unless the group has just returned from a relatively successful campaign. Normally, the commander is responsible for maintenance of the men (room and board). Weaponry, armor and clothing are the responsibility of the men themselves, as are other than basic daily food requirements (beer, steak, etc.). Those commanders who have developed large companies usually have some in-city guard position or easy caravan duty to provide income for their men when they are not engaged on active duty. 
+Pay in a mercenary company is usually in arrears unless the group has just returned from a relatively successful campaign. Normally, the commander is responsible for maintenance of the men (room and board). Weaponry, armor and clothing are the responsibility of the men themselves, as are other than basic daily food requirements (beer, steak, etc.). Those commanders who have developed large companies usually have some in-city guard position or easy caravan duty to provide income for their men when they are not engaged on active duty.
 
 Should anyone wish to hire a mercenary company or possibly found a troop, the above pay scales may be used. To find the cost for a company or troop, total the amounts for the various types of soldier in the troop by percentage of experience level. The resultant sum is the weekly cost of the mercenary company. Or attempt to hire one of the mercenary bands outlined below.
 
-The normal contract is for a minimum of 4 weeks but this is negotiable, at a cost if the duration is shorter. 
+The normal contract is for a minimum of 4 weeks but this is negotiable, at a cost if the duration is shorter.
 
 A note to the wise: few mercenary commanders take well to being cheated out of agreed upon sums for duty, whether combat or garrison. It is not unknown for the contractor hiring a company to be overrun and conquered himself when he tried to withhold the mercenaries' hard-earned gold.
 
-## Mercenary Companies In Haven 
-The companies that may be found in Haven at any given time are listed below, including style of fighting (racial type denoted), general type of armor and favored weapon(s), percentages of various experience levels comprising the company, weekly pay requirements (for the entire company), and chance of being in Haven (and therefore available) at any given time. The better companies will usually be less available, since they may get hired as soon as they hit town. 
+## Mercenary Companies In Haven
+
+The companies that may be found in Haven at any given time are listed below, including style of fighting (racial type denoted), general type of armor and favored weapon(s), percentages of various experience levels comprising the company, weekly pay requirements (for the entire company), and chance of being in Haven (and therefore available) at any given time. The better companies will usually be less available, since they may get hired as soon as they hit town.
 
 Note that the amounts in the following tables are what the overall commander of the company receives for use of his men. The men actually receive about one-half to one-third of this money. If the troops are on garrison duty, rather than combat duty, the amounts may be reduced by one-half.  
-
 
  **<center>Companies of 50</center>**
 
@@ -92,10 +92,6 @@ Note that the amounts in the following tables are what the overall commander of 
 | Inrisdil o'Lake      | 3      | Elven      | Archers      | Light leather      | Bow Rapier      | 10% Elite 45% Veteran 35% Intermediate 10% Green      | 999      | 15%    |
 | Bonorbenztreezantyzemintanods      | 2      | Goliath      | Heavy infantry (only 15 but count as 50 normal men)      | Heavy leather Large shields Iron greaves      | Heavy impact weapons (clubs, mauls, warhammers etc.)      | 5% Elite 25% Veteran 50% Intermediate 20% Green      | 2,535      | 10%    |
 
-
-
-
-
  **<center>Companies of 100</center>**
 
 | Commander      | Cmdr. Quality      | Race      | Makeup      | Armour      | Weapons      | Experience      | Weekly Pay (gp)      | Chance to be in Haven    |
@@ -108,8 +104,6 @@ Note that the amounts in the following tables are what the overall commander of 
 | Karlina ni-Hasdrubal      | 5      | Mixed      | Light cavalry      | Light leather Shield      | Lance Bow  Sword      | 10% Elite 45% Veteran 20% Intermediate 25% Green      | 2,975      | 30%    |
 | Mogri arn Borlir      | 4      | Dwarven      | Medium infantry, sappers, siege engineers      | Light chain Shield      | Hammer Mattock Pickaxe      | 20% Elite 50% Veteran 30% Intermediate      | 1,890      | 20%    |
 | Leona nesa-Melorie      | 4      | Mixed      | Female light infantry      | Leather or light chain Shield      | Sword or axe Javelin      | 10% Elite 30% Veteran 50% Intermediate 10% Green      | 1,700      | 35%    |
-
-
 
  **<center>Companies of 200</center>**
 
@@ -124,8 +118,6 @@ Note that the amounts in the following tables are what the overall commander of 
 | Walter the Hunter      | 4      | Mixed      | Mounted archers (100) Heavy infantry (100)      | Equipped as usual for type      | Equipped as usual for type      | 10% Elite 35% Veteran 40% Intermediate 15% Green      | 6,600      | 40%    |
 | Keri Silkenbeard      | 4      | Mixed      | Mounted light infantry (80) Mounted archers (100) Scouts (20)      | Equipped as usual for type      | Equipped as usual for type      | 30% Elite 50% Veteran 10% Intermediate 10% Green      | 6,360      | 35%    |
 
-
-
  **<center>Companies of 500</center>**
 
 | Commander      | Cmdr. Quality      | Race      | Makeup      | Armour      | Weapons      | Experience      | Weekly Pay (gp)      | Chance to be in Haven    |
@@ -137,16 +129,18 @@ Note that the amounts in the following tables are what the overall commander of 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Military, Mercenary Group<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -159,10 +153,11 @@ Note that the amounts in the following tables are what the overall commander of 
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -180,9 +175,9 @@ Note that the amounts in the following tables are what the overall commander of 
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -195,10 +190,11 @@ Note that the amounts in the following tables are what the overall commander of 
 **Related Species**
 
 ## Leadership
+
 **Leader:** <br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -222,7 +218,7 @@ Note that the amounts in the following tables are what the overall commander of 
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -296,15 +292,16 @@ Note that the amounts in the following tables are what the overall commander of 
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** 1f566952-526a-46ee-924e-c5f90b98505b<br>
 **Entity Type:** Article / organization<br>
 **Category:** City Watch and Military<br>
@@ -313,7 +310,9 @@ Note that the amounts in the following tables are what the overall commander of 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

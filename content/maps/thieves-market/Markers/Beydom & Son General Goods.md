@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Shopping
+title: Beydom & Son General Goods
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Beydom & Son General Goods
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/beydom-son-general-goods|Beydom & Son General Goods]]<br>
 **Location Type:** General Goods
 
-**Description**<br> 
-
+**Description**<br>

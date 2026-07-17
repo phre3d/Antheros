@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Albert
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Albert
 
-### 
+###
 
-**Full Name:**  Albert      
+**Full Name:**  Albert
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Runs a water driven mill as his public job but is also a torturer in the employ 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/albert]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #material #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, material]
+title: Tempered Copper
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Tempered Copper
 
 ````col
@@ -89,7 +95,9 @@ This copper has been carefully treated in the Haven Ironworks furnaces to increa
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

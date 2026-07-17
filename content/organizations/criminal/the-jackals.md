@@ -1,4 +1,10 @@
-#import #organization #Sins_of_the_Past #type-illicit-gang
+---
+aliases: []
+tags: [import, organization/criminal, plot/Sins_of_the_Past, type-illicit-gang]
+title: The Jackals
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # The Jackals
 
 - A gang of 5 grave robbers
@@ -9,10 +15,11 @@
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Illicit, Gang<br>
 **Founding Date:** <br>
 **Dissolution Date:** 25 of Planting, 1172
 
 ---
-

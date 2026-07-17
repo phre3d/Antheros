@@ -1,23 +1,35 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-construction #guild-of-erectors #construction
+---
+aliases: []
+tags: [cat-shop, construction, Free_City_of_Haven, guild/erectors, import, landmark, the-dwarrow, type-construction]
+title: Sakbar - Excavation Contractor
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Sakbar - Excavation Contractor
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Construction and Excavation 
 
-## Description 
+# Description
+
+## Construction and Excavation
+
+## Description
+
 [[people/sakbar|Sakbar]] employs about three score working class dwarves and hires them out for pick and shovel work (ditch digging, demolition, etc.) He himself a reasonably competent stone mason, and with three other assistants will also take on small construction jobs (homes, small footbridges, and the like). Within the city limits, his workmen keep their noses clean. But on jobs outside the jurisdiction of the Guilds, [[people/sakbar|Sakbar]]'s crews will often walk off the job at a critical juncture in its completion, using any small incident as a pretext for declaring the site unsafe or the land owner unreasonable. They will then demand higher wages and benefits to complete the project. [[people/sakbar|Sakbar]]'s reputation for these hold-up tactics is well known around Haven, if anyone bothers to ask around. Otherwise, Caveat Emptor!
 
-## Price Range 
+## Price Range
+
 Fair/High
 
-## Quality 
+## Quality
+
 Fair
 
 # Purpose / Function
@@ -54,7 +66,7 @@ Fair
 
 **Image:** n/a
 
-**Construction (Service)** 
+**Construction (Service)**
 
  **Owner:**  Sakbar
 
@@ -66,12 +78,14 @@ Fair
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -88,6 +102,7 @@ Fair
 ---
 
 ### World Anvil Metadata
+
 **Id:** ed657301-0098-4c44-bdb0-85c160a77167<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -96,7 +111,9 @@ Fair
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

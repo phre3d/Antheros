@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Dorki
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Dorki
 
-### 
+###
 
-**Full Name:**  Dorki      
+**Full Name:**  Dorki
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Dorki barks for his girls' act outside the entrance flap to his rather large ten
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/dorki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Merchant 4
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Merchant 4
 
-### 
+###
 
-**Full Name:**  Merchant  Four    
+**Full Name:**  Merchant  Four
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Merchant 4
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/merchant-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

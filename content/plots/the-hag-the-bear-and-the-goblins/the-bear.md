@@ -1,4 +1,10 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: The Bear
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # The Bear
 
 ````col
@@ -27,7 +33,6 @@ As the party investigates the bear and its surroundings, they discover crude wea
 ![[~attachments/dndline.png]]
 ```
 ````
-
 
 ---
 

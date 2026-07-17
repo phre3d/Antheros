@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: [2104.1016, 3941.1337]
 mapmarker: Landmark
+title: Street of Silk Veils
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Street of Silk Veils
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]<br>
 **Location Type:** Street
 
-**Description**<br> 
-
+**Description**<br>

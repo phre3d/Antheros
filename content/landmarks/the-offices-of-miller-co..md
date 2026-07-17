@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-cooper #crafters-guild #cooper
+---
+aliases: []
+tags: [cat-shop, cooper, crafters-guild, Free_City_of_Haven, import, landmark, the-cauldron, type-cooper]
+title: The Offices of Miller & Co.
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Offices of Miller & Co.
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## The barrel makers 
 
-## Description 
+# Description
+
+## The barrel makers
+
+## Description
+
 The halfling family of Miller are coopers, making barrel staves and kegs for Haven's thriving wine industry. In the past generation, [[people/russell-miller|Russell Miller]], the family's enterprising head, has expanded the business considerably.  
 
  The Millers now own three workshops, a large warehouse, and employ over 50 halflings in the barrel business. Nearly all the employees, incidentally, have the last name of Miller. It has become automatic among the halflings of Haven to associate the name of Miller with the profession of cooper, just as any halfling named Cooper is assumed to be a poulterer.
@@ -50,7 +60,7 @@ The halfling family of Miller are coopers, making barrel staves and kegs for Hav
 
 **Image:** n/a
 
-**Cooper (Shopping)** 
+**Cooper (Shopping)**
 
  **Owner:**  Russell Miller
 
@@ -62,12 +72,14 @@ The halfling family of Miller are coopers, making barrel staves and kegs for Hav
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -84,6 +96,7 @@ The halfling family of Miller are coopers, making barrel staves and kegs for Hav
 ---
 
 ### World Anvil Metadata
+
 **Id:** 320a9e3e-4cb6-40e0-b723-e560f296bc49<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -92,7 +105,9 @@ The halfling family of Miller are coopers, making barrel staves and kegs for Hav
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

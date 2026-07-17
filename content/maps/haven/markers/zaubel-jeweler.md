@@ -1,8 +1,12 @@
 ---
-location: [4119.064,  718.367]
+aliases: []
+tags: [map-marker]
+location: [4119.064, 718.367]
 mapmarker: Shopping
+title: Zaubel - Jeweler
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Zaubel - Jeweler
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/zaubel-jeweler|Zaubel - Jeweler]]<br>
 **Location Type:** Jeweler
 
-**Description**<br> 
-
+**Description**<br>

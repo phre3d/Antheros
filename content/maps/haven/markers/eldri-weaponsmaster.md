@@ -1,8 +1,12 @@
 ---
-location: [4054.779,  559.184]
+aliases: []
+tags: [map-marker]
+location: [4054.779, 559.184]
 mapmarker: Service
+title: Eldri - Weaponsmaster
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Eldri - Weaponsmaster
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/eldri-weaponsmaster|Eldri - Weaponsmaster]]<br>
 **Location Type:** Training
 
-**Description**<br> 
-
+**Description**<br>

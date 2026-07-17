@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #grey-halls #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, grey-halls, import, npc, person]
+title: Recci
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Recci
 
-### 
+###
 
-**Full Name:**  Recci  the Beast    
+**Full Name:**  Recci  the Beast
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A tall, loosely made man who appears unfinished. The nickname has been given him
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/recci]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

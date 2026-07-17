@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Benngrimm
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Benngrimm
 
-### 
+###
 
-**Full Name:**  Benngrimm      
+**Full Name:**  Benngrimm
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ flexGrow=2.5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/benngrimm]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

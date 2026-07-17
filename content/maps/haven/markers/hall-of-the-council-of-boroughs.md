@@ -1,8 +1,12 @@
 ---
-location: [4993.554,  4557.143]
+aliases: []
+tags: [map-marker]
+location: [4557.143, 4993.554]
 mapmarker: Government
+title: Hall of the Council of Boroughs
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hall of the Council of Boroughs
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Government
 **Location:** [[landmarks/hall-of-the-council-of-boroughs|Hall of the Council of Boroughs]]<br>
 **Location Type:** Government
 
-**Description**<br> 
+**Description**<br>
+
 Sort like a city hall

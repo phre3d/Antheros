@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Elias Pennywhistle
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Elias Pennywhistle
 
-### 
+###
 
-**Full Name:**  Elias  Pennywhistle    
+**Full Name:**  Elias  Pennywhistle
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Elias is the part-owner of one of [[settlement/the-dell|The Dell]]'s fresh produ
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/elias-pennywhistle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

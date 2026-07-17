@@ -1,9 +1,15 @@
-#import #organization   #Free_City_of_Haven #type-family
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-family]
+title: Ohlfaardt Family
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Ohlfaardt Family
 
-The Ohlfaardts own massive plots of rangeland to the southeast of Haven, and have traditionally been Haven's largest supplier of cured meat products. This role has been somewhat reduced over the years, because 1) the availability of relatively inexpensive magic have made it possible for wealthier merchants to buy storage chests with permanent Cold spells embedded in them; and 2) the expansion of cottage industry in Haven has resulted in the construction of large slaughter-house complexes which are close enough to food markets so that proprietors can pick up a day's worth of fresh meat every morning. 
+The Ohlfaardts own massive plots of rangeland to the southeast of Haven, and have traditionally been Haven's largest supplier of cured meat products. This role has been somewhat reduced over the years, because 1) the availability of relatively inexpensive magic have made it possible for wealthier merchants to buy storage chests with permanent Cold spells embedded in them; and 2) the expansion of cottage industry in Haven has resulted in the construction of large slaughter-house complexes which are close enough to food markets so that proprietors can pick up a day's worth of fresh meat every morning.
 
-The Ohlfaardts have unequivocally refused to change in step with the times, and thus have heightened their problems; nonetheless, the sheer size of their herds are such that they continue to make a significant profit from these activities. 
+The Ohlfaardts have unequivocally refused to change in step with the times, and thus have heightened their problems; nonetheless, the sheer size of their herds are such that they continue to make a significant profit from these activities.
 
 The last five generations of Counts Ohlfaardt have been uniformly miserly men, who enjoyed counting their money more than spending it. The current Count, [[people/neberhard-ohlfaardt|Neberhard]], fit this model perfectly until, at the ripe old age of sixty, he cast caution to the winds, and wed a voluptuous young maiden ([[people/sui-tuong-ding|Sui Tuong Ding]]) of fifteen while on a journey to exotic [[settlements/outside-haven/herudana|Herudana]]. The other aristocratic families look upon Neberhard's sudden transformation as scandalous; they consider it even more shocking, however, that he has spent a fortune on fine jewels and gowns to crown his lady's beauty.
 
@@ -12,7 +18,9 @@ The family's home in Haven is located in [[settlements/the-heights|The Heights]]
 ---
 
 **Family Leader:** [[people/neberhard-ohlfaardt|Neberhard Ohlfaardt]]
-**Members:** 
+
+**Members:**
+
 ```dataview
 LIST
 FROM #ohlfaardt-family

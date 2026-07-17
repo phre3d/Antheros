@@ -1,14 +1,23 @@
-#import #location
+---
+aliases: []
+tags: [import, location]
+title: Ironwood Forest
+date modified: 2026-07-16, 9:18:42 pm
+---
+
 # Ironwood Forest
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 A forested region known for its mines, especially those producing [[materials/ironwood-coal|Ironwood Coal]].
 
 # Geography
@@ -31,36 +40,39 @@ A forested region known for its mines, especially those producing [[materials/ir
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-**Alternative Name(s):** 
+**Alternative Name(s):**
 
-**Parent Location:** 
+**Parent Location:**
 
 **Type:** Forest
 
-**Ruler / Owner:** 
+**Ruler / Owner:**
 
 **Additional Rulers/Owners**
 
-**Owning Rank:** 
+**Owning Rank:**
 
-**Owning Organization:** 
+**Owning Organization:**
 
 **Organizations Contesting Ownership**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 63f8cdd2-8d51-4846-996e-19525db18f7d<br>
 **Entity Type:** Article / location<br>
 **Category:** Geography<br>
-**Tags:** 
+**Tags:**
 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

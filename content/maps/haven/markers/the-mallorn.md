@@ -1,8 +1,12 @@
 ---
-location: [3645.595,  1365.306]
+aliases: []
+tags: [map-marker]
+location: [1365.306, 3645.595]
 mapmarker: Inns & Taverns
+title: The Mallorn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Mallorn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-mallorn|The Mallorn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
-
+**Description**<br>

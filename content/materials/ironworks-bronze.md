@@ -1,4 +1,10 @@
-#import #material #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, material]
+title: Ironworks Bronze
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Ironworks Bronze
 
 ````col
@@ -89,7 +95,9 @@ A durable and hardy alloy of copper and tin. Bronze from Havens Ironworks is par
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [2681.309,  3709.184]
+aliases: []
+tags: [map-marker]
+location: [2681.309, 3709.184]
 mapmarker: Inns & Taverns
+title: The House of Lionel
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The House of Lionel
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-house-of-lionel|The House of Lionel]]<br>
 **Location Type:** Inn (Caravanserai)
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,8 +1,12 @@
 ---
-location: [2245.595,  2311.224]
+aliases: []
+tags: [map-marker]
+location: [2245.595, 2311.224]
 mapmarker: Entertainment
+title: "Muses' Theatre"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Muses' Theatre
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/muses-theatre|Muses' Theatre]]<br>
 **Location Type:** Theatre
 
-**Description**<br> 
-
+**Description**<br>

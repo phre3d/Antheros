@@ -1,8 +1,12 @@
 ---
-location: [1094.574,  3812.245]
+aliases: []
+tags: [map-marker]
+location: [1094.574, 3812.245]
 mapmarker: Inns & Taverns
+title: The Silver Penny
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Silver Penny
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-silver-penny|The Silver Penny]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

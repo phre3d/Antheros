@@ -1,8 +1,12 @@
 ---
-location: [2474.166,  3886.735]
+aliases: []
+tags: [map-marker]
+location: [2474.166, 3886.735]
 mapmarker: Inns & Taverns
+title: "The Virgin's Flute"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Virgin's Flute
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-virgins-flute|The Virgin's Flute]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

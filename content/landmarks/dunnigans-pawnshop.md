@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-pawnbroker #pawnbroker
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, the-labyrinth, type-pawnbroker]
+title: "Dunnigan's Pawnshop"
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Dunnigan's Pawnshop
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Pawnbroker (Shopping)** 
+**Pawnbroker (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,13 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -77,6 +86,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 211ebce9-4eb2-49ff-a4f1-a7d7c247e53f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -85,7 +95,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

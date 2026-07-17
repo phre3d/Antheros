@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Claidhaemmor Redkilt
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Claidhaemmor Redkilt
 
-### 
+###
 
-**Full Name:** Borough Commander Claidhaemmor  Redkilt    
+**Full Name:** Borough Commander Claidhaemmor  Redkilt
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Borough Commander for [[settlement/the-north-corridor|The North Corridor]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/claidhaemmor-redkilt]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

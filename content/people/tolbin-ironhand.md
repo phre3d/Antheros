@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #brotherhood-of-the-broken-blade #guild-of-the-hearth #the-dwarrow #npc
+---
+aliases: []
+tags: [brotherhood-of-the-broken-blade, Free_City_of_Haven, guild/hearth, import, npc, person, the-dwarrow]
+title: Tolbin Ironhand
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tolbin Ironhand
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Tolbin is a broad-shouldered, robust dwarf with a well-kept beard and thinning h
 
 ---
 
-
-
 ![[people/blocks/tolbin-ironhand]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

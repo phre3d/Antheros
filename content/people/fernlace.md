@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, thieves-market]
+title: Fernlace
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Fernlace
 
-### 
+###
 
-**Full Name:**  Fernlace      
+**Full Name:**  Fernlace
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ She appears ageless and in in fact a prophet of the goddess [[person/etheah|Ethe
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fernlace]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

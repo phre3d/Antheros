@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Zeluan Kurtin
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zeluan Kurtin
 
-### 
+###
 
-**Full Name:** Station Captain Zeluan  Kurtin    
+**Full Name:** Station Captain Zeluan  Kurtin
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Station Captain of the [[landmark/caravan-station|Caravan Station]] of the
 
 ---
 
-
-
 ![[people/blocks/zeluan-kurtin]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

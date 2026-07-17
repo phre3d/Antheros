@@ -1,4 +1,10 @@
-#import #statblock #person #npc #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person, statblock]
+title: Grilia
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Grilia
 
 ````col
@@ -40,44 +46,17 @@ flexGrow=2
 ![[dndline.png]]
 
 # Description
+
 Grilia is an 81 year old male tiefling innkeeper. - He has extremely long, curled, gray hair and green eyes.
+
 - He has soft red skin.
 - He stands 177cm (5'9\") tall and has a regular build.
 - He has an edgy, stunning face.
 - He has a lisp.
- 
-### Personality 
+
+### Personality
+
  - He doesn't worship any god.
 - He is very competitive.
 - He is materialistic. He cannot tolerate rough living conditions.
 - He collects iridescent feathers.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

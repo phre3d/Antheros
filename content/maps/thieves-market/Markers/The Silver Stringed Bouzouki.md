@@ -1,8 +1,12 @@
 ---
+aliases: []
+tags: [map-marker]
 location: []
 mapmarker: Entertainment
+title: The Silver Stringed Bouzouki
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # The Silver Stringed Bouzouki
 
 **Map:** [[maps/thieves-market/thieves-market|Thieves Market]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/the-silver-stringed-bouzouki|The Silver Stringed Bouzouki]]<br>
 **Location Type:** Theatre
 
-**Description**<br> 
-
+**Description**<br>

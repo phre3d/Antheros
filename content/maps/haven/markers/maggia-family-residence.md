@@ -1,8 +1,12 @@
 ---
-location: [5997.636,  2741.837]
+aliases: []
+tags: [map-marker]
+location: [2741.837, 5997.636]
 mapmarker: Residence
+title: Maggia Family Residence
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Maggia Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/maggia-family-residence|Maggia Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

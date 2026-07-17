@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-loom #the-south-docks
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/loom, import, person, the-south-docks]
+title: Marcus Neeman
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Marcus Neeman
 
-### 
+###
 
-**Full Name:**  Marcus  Neeman    
+**Full Name:**  Marcus  Neeman
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Neeman is a textile merchant who specializes in tapestries and carpets, many of 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marcus-neeman]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

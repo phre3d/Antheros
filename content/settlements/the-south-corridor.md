@@ -1,41 +1,59 @@
-#import #settlement #Free_City_of_Haven #quarter
+---
+aliases: []
+tags: [Free_City_of_Haven, import, quarter, settlement]
+title: The South Corridor
+date modified: 2026-07-16, 9:18:08 pm
+---
+
 # The South Corridor
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-The South Corridor is the most active of the boroughs. It seems to be alive around the clock, as it is the location of the largest of the caravanserais and hostels in the city. Shops and taverns abound in the borough, and the residential areas are crowded with inhabitants. Each of the major sectors of the borough (Gambol Street, [[settlements/magic-street|Magic Street]], the bards' quarter along [[settlements/the-street-of-harps|The Street of Harps]], the great plaza called [[settlements/thieves-market|Thieves' Market]], and the Horse Market) has its own particular flavor and tempo. Even the various residential areas seem quite differentiated. 
 
-The South Corridor, in general, is a mercantile paradise; many small cottage industries produce a wealth of different items, and the atmosphere of trade is all pervading. It seems that one can find anything for sale in the area, provided one is willing to look, and to pay the price when it is found. 
+# Description
+
+The South Corridor is the most active of the boroughs. It seems to be alive around the clock, as it is the location of the largest of the caravanserais and hostels in the city. Shops and taverns abound in the borough, and the residential areas are crowded with inhabitants. Each of the major sectors of the borough (Gambol Street, [[settlements/magic-street|Magic Street]], the bards' quarter along [[settlements/the-street-of-harps|The Street of Harps]], the great plaza called [[settlements/thieves-market|Thieves' Market]], and the Horse Market) has its own particular flavor and tempo. Even the various residential areas seem quite differentiated.
+
+The South Corridor, in general, is a mercantile paradise; many small cottage industries produce a wealth of different items, and the atmosphere of trade is all pervading. It seems that one can find anything for sale in the area, provided one is willing to look, and to pay the price when it is found.
 
 The City Guard has four stations in the South Corridor: Corridor Station, Market Station, Judgment Barracks, and [[landmarks/horsegate-barracks|Horsegate Barracks]]. The [[landmarks/the-grey-halls|The Grey Halls]], the city's major prison, and [[landmarks/the-academy|The Academy]], which provides training for new guardsmen (and for the city militia), are also located in the South Corridor. Patrols range through most of the residential and business areas of the Corridor on a regular hourly basis, both day and night.
 
-### Gambol Street 
-Gambol Street (and the adjacent blocks) is essentially bohemian. Here live many of those who are interested in the theater; performers, playwrights, even stage and scenery designers. Many aspiring actors and actresses flock to the various acting companies like [[landmarks/frods-theater|Frod's Theater]], the Muse, or the Lyricon, trying to secure parts in the productions staged in those theaters. 
+### Gambol Street
 
-### [[settlements/magic-street|Magic Street]] 
-[[settlements/magic-street|Magic Street]] is the center of the arcane arts in the city. The area seems to virtually reek with magic; the atmosphere is charged with the forces of many mancies. Here will be found the residences and shops of some of the foremost mages, wizards, and enchanters in the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]]. Many items of magical ability and power are for sale along the southern section of the street (which wends its way up to Dwarrow Square). Midway along it is the section known as Hypotenuse Square, a triangular area in which are located most of the schools of non-magical erudition; there are a number of famous scholars who reside here, and they 
-are occasionally willing to imparts their knowledge (for a slight fee, of course, for each course, of course). 
+Gambol Street (and the adjacent blocks) is essentially bohemian. Here live many of those who are interested in the theater; performers, playwrights, even stage and scenery designers. Many aspiring actors and actresses flock to the various acting companies like [[landmarks/frods-theater|Frod's Theater]], the Muse, or the Lyricon, trying to secure parts in the productions staged in those theaters.
 
-### Street of Harps 
-[[settlements/the-street-of-harps|The Street of Harps]] is the midway of an area that throbs with music, song, story, and verse. On Liederstrasse, in the center of the area bounded by Holly, Wood, and Vine, is located the Great Hall of the [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]]. It is surrounded by theaters, shops, taverns and inns, whose life's blood is music and the art of words. Some of the finest bards in the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]], master musicians all, live and work in this vicinity. 
+### [[settlements/magic-street|Magic Street]]
 
-### [[settlements/thieves-market|Thieves' Market]] 
-[[settlements/thieves-market|Thieves' Market]], as the large plaza near the Judgment Gate is called, is a great bazaar (of the common and the bizarre) where one can purchase anything from a piece of preserved fruit imported from the mystic western lands across the sea to a hand-carved pipe stand recently stolen 3 blocks away. There are numerous taverns surrounding the nearly 5 acres of open space, and pushcart peddlers hawk food and drink of many kinds. The great market fairly throbs with activity during the day, and slumbers quietly at night. 
+[[settlements/magic-street|Magic Street]] is the center of the arcane arts in the city. The area seems to virtually reek with magic; the atmosphere is charged with the forces of many mancies. Here will be found the residences and shops of some of the foremost mages, wizards, and enchanters in the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]]. Many items of magical ability and power are for sale along the southern section of the street (which wends its way up to Dwarrow Square). Midway along it is the section known as Hypotenuse Square, a triangular area in which are located most of the schools of non-magical erudition; there are a number of famous scholars who reside here, and they
 
-### [[settlements/horse-market|Horse Market]] 
-The [[settlements/horse-market|Horse Market]] is located near the gate at the southern exit of Caravan Street from the city, the Horse Gate (interesting question: which came first - the market or the gate?), and is the primary source of riding and draft animals inside the city walls. Many centaurs work here gentling and training mounts for any that care to purchase them ('tis said that a centaur-trained animal will only throw a cruel master). Here also are located the trolley and cab barns for the centaur transportation system. 
+are occasionally willing to imparts their knowledge (for a slight fee, of course, for each course, of course).
 
-### [[settlements/south-caravan-street|South Caravan Street]] 
+### Street of Harps
+
+[[settlements/the-street-of-harps|The Street of Harps]] is the midway of an area that throbs with music, song, story, and verse. On Liederstrasse, in the center of the area bounded by Holly, Wood, and Vine, is located the Great Hall of the [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]]. It is surrounded by theaters, shops, taverns and inns, whose life's blood is music and the art of words. Some of the finest bards in the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]], master musicians all, live and work in this vicinity.
+
+### [[settlements/thieves-market|Thieves' Market]]
+
+[[settlements/thieves-market|Thieves' Market]], as the large plaza near the Judgment Gate is called, is a great bazaar (of the common and the bizarre) where one can purchase anything from a piece of preserved fruit imported from the mystic western lands across the sea to a hand-carved pipe stand recently stolen 3 blocks away. There are numerous taverns surrounding the nearly 5 acres of open space, and pushcart peddlers hawk food and drink of many kinds. The great market fairly throbs with activity during the day, and slumbers quietly at night.
+
+### [[settlements/horse-market|Horse Market]]
+
+The [[settlements/horse-market|Horse Market]] is located near the gate at the southern exit of Caravan Street from the city, the Horse Gate (interesting question: which came first - the market or the gate?), and is the primary source of riding and draft animals inside the city walls. Many centaurs work here gentling and training mounts for any that care to purchase them ('tis said that a centaur-trained animal will only throw a cruel master). Here also are located the trolley and cab barns for the centaur transportation system.
+
+### [[settlements/south-caravan-street|South Caravan Street]]
+
 Several large inns and caravanserais are also located on or near [[settlements/south-caravan-street|South Caravan Street]] in [[settlements/the-south-corridor|The South Corridor]], providing fairly comfortable and merchandise-safe tarrying places for the many sets of travelers stoppping in Haven. Places of particular repute are [[landmarks/the-pendragon-inn|The Pendragon Inn]], [[landmarks/the-house-of-lionel|The House of Lionel]], and [[landmarks/two-for-the-road|Two For The Road]].
+
 [anchor|street_encounters]
 
-## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]] 
+## Random [[plots/free-city-of-haven/street-encounters|Street Encounters]]
+
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
 | [roll:d1000]       | Encounter       |       | Encounter       |       | Encounter    |
@@ -61,7 +79,7 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 292-307       | [Buy a Duck?](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Buy_a_Duck)       | 642-658       | [Runaways](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Runaways)       | 980-986       | [Tumbril Men](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Tumbril_Men)    |
 | 308-323       | [Yok](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Yok)       | 659-675      | [Directions](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Directions)       | 987-000       | [Gardayloo](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Gardayloo)    |
 
-## People and Locations in the South Corridor 
+## People and Locations in the South Corridor
 
 | People      | Places   |
 |---|---|
@@ -99,12 +117,14 @@ While a party is wandering through the area roll d1000 to determine what random 
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ![[maps/haven/the-south-corridor-full.jpg]]
 
 ---
-**Neighbourhoods** 
+
+**Neighbourhoods**
+
 - [[settlements/horse-market|Horse Market]]
 - [[settlements/south-caravan-street|South Caravan Street]]
 - [[settlements/thieves-market|Thieves' Market]]
@@ -124,18 +144,19 @@ While a party is wandering through the area roll d1000 to determine what random 
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** d684e9e8-9b69-45fc-8352-3de0e6e7f870<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -144,19 +165,24 @@ While a party is wandering through the area roll d1000 to determine what random 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 e2e38a16-2c10-443d-b40a-6789aa7c041a
 
 --- end-column ---
 
 Next:
+
 3987cb08-4abd-4e55-a582-128df2ff71db
 
 --- end-multi-column

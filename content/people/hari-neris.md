@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #guild-of-the-hearth #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/hearth, import, npc, person, south-caravan-street]
+title: Hari Neris
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Hari Neris
 
-### 
+###
 
 **Full Name:**  Hari  Neris    Dunk
 
@@ -203,13 +209,12 @@ The owner of [[landmark/dunks-tavern|Dunk's Tavern]], Hari is a former drover fr
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/hari-neris]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

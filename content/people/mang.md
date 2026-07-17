@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Mang
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Mang
 
-### 
+###
 
-**Full Name:**  Mang      
+**Full Name:**  Mang
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ The neophyte adventurer, is the embodiment of youthful enthusiasm, and is truly 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mang]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

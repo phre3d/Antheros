@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Nathalie Galutine
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nathalie Galutine
 
-### 
+###
 
-**Full Name:** Baroness Nathalie  Galutine    
+**Full Name:** Baroness Nathalie  Galutine
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Inn security's influence pales in comparison to that of the Baroness, however. N
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nathalie-galutine]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

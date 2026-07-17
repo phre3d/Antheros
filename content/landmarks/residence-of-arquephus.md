@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-labyrinth, type-house]
+title: Residence of Arquephus
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Residence of Arquephus
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Just a house, no Thieves' Guild records here 
 
-## Description 
+# Description
+
+## Just a house, no Thieves' Guild records here
+
+## Description
+
 Arquephus, Keeper of Records, has his home, office, and records archives of the Guild accountants. Access to the passages below the complex ensures that those Guild officials making reports do not use the same entrance too frequently.
 
-## NPC Encounters 
+## NPC Encounters
+
 Arquephus
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Arquephus
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  
 
@@ -63,12 +74,13 @@ Arquephus
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Bathhouse
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -84,6 +96,7 @@ Arquephus
 ---
 
 ### World Anvil Metadata
+
 **Id:** fd40bedd-1251-478d-aefa-55e6e0df4f47<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -92,7 +105,9 @@ Arquephus
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

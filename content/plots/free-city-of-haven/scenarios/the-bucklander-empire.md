@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Bucklander Empire
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Bucklander Empire
 
 ````col
@@ -41,7 +47,6 @@ It is also a very good idea to attempt to get oneself assigned to guarding the w
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #guild-of-the-beast #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/beast, import, npc, person, the-south-corridor]
+title: John Keterina
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # John Keterina
 
-### 
+###
 
 **Full Name:**  John  Keterina    Honest
 
@@ -201,13 +207,12 @@ Runs a used horse business
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/john-keterina]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

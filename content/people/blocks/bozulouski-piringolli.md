@@ -1,5 +1,11 @@
-#import #statblock #person #npc 
-# Bozulouski Piringolli 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: "Bozulouski Piringolli "
+date modified: 2026-07-16, 9:18:34 pm
+---
+
+# Bozulouski Piringolli
 
 ````col
 ```col-md
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +4 to hit , 1d4+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

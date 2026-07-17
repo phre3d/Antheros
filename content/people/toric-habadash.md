@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #thieves-guild #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor, thieves-guild]
+title: Toric Habadash
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Toric Habadash
 
-### 
+###
 
-**Full Name:**  Toric  Habadash    
+**Full Name:**  Toric  Habadash
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ Nominally by [[person/fenris-redbeard|Fenris Redbeard]] as a guard he in fact a 
 
 ---
 
-
-
 ![[people/blocks/toric-habadash]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

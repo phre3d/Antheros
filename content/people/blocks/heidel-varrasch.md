@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Heidel Varrasch
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Heidel Varrasch
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +5 to hit , 1d8+2 slashing damage  
   **Shortbow:**  +6 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

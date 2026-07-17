@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #crotofiros #street-encounters #npc
+---
+aliases: []
+tags: [crotofiros, Free_City_of_Haven, import, npc, person, street-encounters]
+title: Friar
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Friar
 
-### 
+###
 
-**Full Name:**  Friar      
+**Full Name:**  Friar
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See Street Encounter: Crotofiran
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/friar]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

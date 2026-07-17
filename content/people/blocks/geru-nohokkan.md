@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Geru Nohokkan
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Geru Nohokkan
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longbow:**  +6 to hit , 1d8+3 piercing damage  
   **Longsword:**  +4 to hit , 1d8+1 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

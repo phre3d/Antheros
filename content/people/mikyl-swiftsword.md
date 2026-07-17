@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Mikyl Swiftsword
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mikyl Swiftsword
 
-### 
+###
 
-**Full Name:** Commander of the Guard Mikyl  Swiftsword    
+**Full Name:** Commander of the Guard Mikyl  Swiftsword
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ He is Commander of the Guard of the [[landmark/shield-barracks|Shield Barracks]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mikyl-swiftsword]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#item/magic-item/potion 
+---
+aliases: []
+tags: [item/magic-item/potion]
+title: Potion of the Radiant Burst
+date modified: 2026-07-16, 9:18:59 pm
+---
+
 # Potion of the Radiant Burst
 
 >[!info]
@@ -7,45 +13,50 @@
 >**Effect Category:** Spell
 >
 >**Application:**Ingest <br>
->**Duration:** Special 
+>**Duration:** Special
 >
 >**Price:** 42,000gp
 
-
 ## Description
+
 A translucent tonic that is violet in color. It smells like oranges and bread, but tastes like grapes.
 
 ## Effects
-Allows the imbiber to unleash a whirlwind of radiant energy in a 30' radius. The longer the imbiber can delay the release, the stronger the effect. 
 
-It works as follows: the imbiber makes a DC 12 Constitution check each round. If succeessfil, the potion does not automatically cause the radiant discharge (although the imbiber can choose to release its power at any time.) 
+Allows the imbiber to unleash a whirlwind of radiant energy in a 30' radius. The longer the imbiber can delay the release, the stronger the effect.
 
-The potion can cause 1d8 radiant damage immediately after drinking. The damage increases by 1d8 per round up to a maximum of 10d8. 
+It works as follows: the imbiber makes a DC 12 Constitution check each round. If succeessfil, the potion does not automatically cause the radiant discharge (although the imbiber can choose to release its power at any time.)
+
+The potion can cause 1d8 radiant damage immediately after drinking. The damage increases by 1d8 per round up to a maximum of 10d8.
 
 Once the sphere of radiant energy is released, the potion's effect ends. If the damage reaches its maximum level, it immediately releases.
 
 ## History
+
 This potion was created as the ultimate weapon by a cultist fanatic who made it her mission to destroy all the undead in the region.
 
 ## Crafting
+
 **Crafted By:** [[profession/|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
+
 **Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Shadow  Water<br>
 **Spell Needed:**  <br>
-**Other:** 
+**Other:**
 
 ## Results from Identify Spell
+
 *Crafter:* Herbalist <br>
 *Base:* Pure alcohol <br>
 *Essence(s):*  Air    Earth  Shadow  Water <br>
 *Spell Emulated:* None detected
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->
- 
+

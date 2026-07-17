@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -89,4 +94,3 @@ We decide to lock itp and come back another day. On our way out of the Labyrinth
 We let Lyza know, and go to sleep.
 
 ---
-

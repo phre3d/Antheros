@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary A9
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary A9
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +1 to hit , 1d8-1 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

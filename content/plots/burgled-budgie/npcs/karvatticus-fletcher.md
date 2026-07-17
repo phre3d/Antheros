@@ -1,5 +1,12 @@
-#person #npc #Burgled_Budgie
+---
+aliases: []
+tags: [plot/burgled-budgie, npc, person]
+title: Karvatticus Fletcher
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Karvatticus Fletcher
+
 Gnome Ranger, CG
 
 >[!read aloud]
@@ -12,4 +19,5 @@ Karvatticus is friendly and affable, especially when talking about animals. He l
 >(AI created)
 
 ---
+
 **Source:** Debacle of the Burgled Budgie

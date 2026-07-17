@@ -1,9 +1,15 @@
-#import #person #Dark_Nuns_Church #npc
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, npc, person]
+title: Sister Ervina Banksi
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Sister Ervina Banksi
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,10 @@ Sister Ervina Banksi is a 38 year old female lightfoot halfling acolyte.
 
 ---
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

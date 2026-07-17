@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Kynnik
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Kynnik
 
 ````col
@@ -37,39 +43,10 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Maul:**  +7 to hit , 2d6+3 bludgeoning damage  
   **Spear:**  +7 to hit , 1d6+3 piercing damage  
   **Spear, thrown:**  +7 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Mine_Your_Own_Business #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, Mine_Your_Own_Business, person]
+title: Rico Suavay
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rico Suavay
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,10 @@ Rico's culinary skills are self-taught, born of experimentation and a deep appre
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

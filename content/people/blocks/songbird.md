@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Songbird
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Songbird
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +0 to hit , 1d8-2 slashing damage  
   **Crossbow, hand:**  +2 to hit , 1d6+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

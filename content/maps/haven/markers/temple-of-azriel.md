@@ -1,8 +1,12 @@
 ---
-location: [3893.554,  5186.735]
+aliases: []
+tags: [map-marker]
+location: [3893.554, 5186.735]
 mapmarker: Religion
+title: Temple of Azriel
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Azriel
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-azriel|Temple of Azriel]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Azriel: Goddess of Disease and Suffering, Mistress of Pain

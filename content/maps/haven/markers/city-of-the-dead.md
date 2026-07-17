@@ -1,8 +1,12 @@
 ---
-location: [5761.921,  3482.653]
+aliases: []
+tags: [map-marker]
+location: [3482.653, 5761.921]
 mapmarker: Landmark
+title: City of the Dead
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # City of the Dead
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/city-of-the-dead|City of the Dead]]<br>
 **Location Type:** Park
 
-**Description**<br> 
-
+**Description**<br>

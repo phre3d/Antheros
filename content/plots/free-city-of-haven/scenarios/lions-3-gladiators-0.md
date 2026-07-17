@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Lions 3 – Gladiators 0
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Lions 3 – Gladiators 0
 
 ````col
@@ -33,7 +39,6 @@ The nearest site for big cats is the Wold, the large forest area some two hundre
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

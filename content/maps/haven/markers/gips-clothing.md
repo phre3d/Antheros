@@ -1,8 +1,12 @@
 ---
-location: [3804.779,  5830.612]
+aliases: []
+tags: [map-marker]
+location: [3804.779, 5830.612]
 mapmarker: Shopping
+title: "Gip's Clothing"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Gip's Clothing
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/gips-clothing|Gip's Clothing]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

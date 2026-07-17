@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #angelinas-guild #guild-of-drayers #the-south-docks #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, guild/drayers, import, npc, person, the-south-docks]
+title: Alfonso Caradallo
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alfonso Caradallo
 
-### 
+###
 
-**Full Name:**  Alfonso  Caradallo    
+**Full Name:**  Alfonso  Caradallo
 
 `````col
 ````col-md
@@ -214,13 +220,12 @@ Alfonso is one of [[person/angelina|Angelina]]'s lieutenants in [[organization/t
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alfonso-caradallo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

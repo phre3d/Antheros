@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #armorers-guild #the-dwarrow #npc
+---
+aliases: []
+tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Mahti
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Mahti
 
-### 
+###
 
-**Full Name:**  Mahti      
+**Full Name:**  Mahti
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A husky dwarf of middle age, he is so ugly that he keeps his face hidden from th
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mahti]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

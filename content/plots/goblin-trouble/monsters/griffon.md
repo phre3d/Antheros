@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -38,16 +43,23 @@ Large monstrosity neutral
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Keen Sight.**  The griffon has advantage on Wisdom (Perception) checks that rely on sight
+
   **Multiattack.**  The griffon makes two attacks: one with its beak and one with its claws.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Beak. 
-   **Melee weapon attack.**   to hit, reach 5 feet, one target. 
-  **Hit:**  8  piercing damage  
-### Claws 
-  **Melee weapon attack.**   to hit, reach 5 feet, one target. 
-  **Hit:** \_11  slashing damage.
 
+### Beak.
+
+   **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
+  **Hit:**  8  piercing damage  
+
+### Claws
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
+  **Hit:** \_11  slashing damage.

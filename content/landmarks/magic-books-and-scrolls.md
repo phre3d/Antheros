@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-written-word #guild-of-the-word #written-word
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/word, import, landmark, magic-street, type-written-word, written-word]
+title: Magic Books and Scrolls
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Magic Books and Scrolls
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Written Word (Shopping)** 
+**Written Word (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7db7fb56-9f59-46f6-a4ed-4f00fd1d4097<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

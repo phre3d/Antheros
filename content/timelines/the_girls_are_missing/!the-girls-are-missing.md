@@ -1,7 +1,13 @@
-#timeline 
-# The Girls Are Missing
-This is a visual outline of the key events within the plot of [[plots/the-girls-are-missing/the-girls-are-missing|The Girls are Missing]].
+---
+aliases: []
+tags: [timeline]
+title: The Girls Are Missing
+date modified: 2026-07-16, 9:18:07 pm
+---
 
+# The Girls Are Missing
+
+This is a visual outline of the key events within the plot of [[plots/the-girls-are-missing/the-girls-are-missing|The Girls are Missing]].
 
 ---
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Ryan Campanella
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Ryan Campanella
 
-### 
+###
 
-**Full Name:**  Ryan  Campanella    
+**Full Name:**  Ryan  Campanella
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Ranna's youngest son, a red-haired, freckle faced boy of 14 who has the head for
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ryan-campanella]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

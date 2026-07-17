@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, person]
+title: Merchant 2
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Merchant 2
 
-### 
+###
 
-**Full Name:**  Merchant  Two    
+**Full Name:**  Merchant  Two
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Merchant 2
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/merchant-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

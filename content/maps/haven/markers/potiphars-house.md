@@ -1,8 +1,12 @@
 ---
-location: [2188.452,  3873.469]
+aliases: []
+tags: [map-marker]
+location: [2188.452, 3873.469]
 mapmarker: Entertainment
+title: "Potiphar's House"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Potiphar's House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/potiphars-house|Potiphar's House]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

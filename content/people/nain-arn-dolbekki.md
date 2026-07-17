@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Nain arn Dolbekki
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Nain arn Dolbekki
 
-### 
+###
 
-**Full Name:**  Nain  arn Dolbekki    
+**Full Name:**  Nain  arn Dolbekki
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See scenario [[plots/the-stoned-maiden|The Stoned Maiden]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/nain-arn-dolbekki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #magic-street #cat-shop #type-apothecary #brotherhood-of-the-amalgam #apothecary
+---
+aliases: []
+tags: [apothecary, brotherhood-of-the-amalgam, cat-shop, Free_City_of_Haven, import, landmark, magic-street, type-apothecary]
+title: Ye Apothecary Shoppe
+date modified: 2026-07-16, 8:06:15 pm
+---
+
 # Ye Apothecary Shoppe
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Apothecary (Shopping)** 
+**Apothecary (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apothecary
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/magic-street|Magic Street]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 35d105a3-a348-45e2-8d89-5ab03de4ac0f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Magic Street<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Howie
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Howie
 
-### 
+###
 
-**Full Name:**  Howie      
+**Full Name:**  Howie
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A former sailor who is now a servant for Emmanuuel York and looks after his hous
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/howie]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

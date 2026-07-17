@@ -1,8 +1,12 @@
 ---
-location: [1093.554,  3980.612]
+aliases: []
+tags: [map-marker]
+location: [1093.554, 3980.612]
 mapmarker: Religion
+title: Cust Way Crotofiran Mission
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Cust Way Crotofiran Mission
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Religion
 **Location:** [[landmarks/cust-way-crotofiran-mission|Cust Way Crotofiran Mission]]<br>
 **Location Type:** Mission
 
-**Description**<br> 
-
+**Description**<br>

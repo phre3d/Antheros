@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [The-Girls-Are-Missing]
 aat-event-start-date: 1172/8/10 22:00
 aat-event-title: "Olivia & Seraphina are kidnapped"
 aat-event-body: "Seraphona and [[person/olivia|Olivia]] were are taken around 10:30pm."
 # aat-event-picture: 
+title: Olivia & Seraphina are kidnapped
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Olivia & Seraphina are kidnapped
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -51,7 +56,3 @@ Seraphona and [[person/olivia|Olivia]] were are taken around 10:30pm.
 
 ```
 ````
-
-
-
-

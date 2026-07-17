@@ -1,4 +1,9 @@
-#import #statblock #monster #Dark_Nuns_Church #monster
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -35,24 +40,21 @@ Medium humanoid (any race) Neutral Evil
 ```
 ````
 
-
 ![[~attachments/dndline.png]]
 
 # Actions
-### Multi-attack. 
+
+### Multi-attack.
+
  The Dark Nun can attack with two daggers (50% chance one is a [[plots/dark-nuns-church/items/vampiric-dagger|Vampiric Dagger]])  
-### Dagger 
+
+### Dagger
+
   **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target. <br>
   **Hit:**  1d4 piercing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 A Dark Nun has given her life to learning the arts of reanimating dead flesh. She preys upon the living, using their body parts for dark purposes.
-
-
-
-
-
-
-

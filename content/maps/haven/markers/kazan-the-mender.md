@@ -1,8 +1,12 @@
 ---
-location: [3330.289,  4934.694]
+aliases: []
+tags: [map-marker]
+location: [3330.289, 4934.694]
 mapmarker: Service
+title: Kazan the Mender
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kazan the Mender
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/kazan-the-mender|Kazan the Mender]]<br>
 **Location Type:** Repair
 
-**Description**<br> 
-
+**Description**<br>

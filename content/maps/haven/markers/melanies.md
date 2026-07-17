@@ -1,8 +1,12 @@
 ---
-location: [4399.677,  5098.98]
+aliases: []
+tags: [map-marker]
+location: [4399.677, 5098.98]
 mapmarker: Dining
+title: "Melanie's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Melanie's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Dining
 **Location:** [[landmarks/melanies|Melanie's]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
-
+**Description**<br>

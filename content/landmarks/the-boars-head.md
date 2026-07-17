@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #thieves-market #cat-shop #type-inn #guild-of-the-hearth #inn
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, thieves-market, type-inn]
+title: "The Boar's Head"
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Boar's Head
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Fine meals, with clean accommodations 
 
-## Description 
+# Description
+
+## Fine meals, with clean accommodations
+
+## Description
+
 A nice place to stay, and a quite reasonable eatery, this inn is run by a large [[people/fuzzy|Fuzzy]] man, his wives and children.
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/vereet|Vereet]] | [[people/mykyl-two-fingers|Mykyl Two Fingers]] (evenings only) | [[people/silva-baraggio|Silva Baraggio]] (when he's in town) | [[people/bensoaman-rackley|Bensoaman Rackley]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ A nice place to stay, and a quite reasonable eatery, this inn is run by a large 
 
 **Image:** n/a
 
-**Inn (Inns & Taverns)** 
+**Inn (Inns & Taverns)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ A nice place to stay, and a quite reasonable eatery, this inn is run by a large 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Inn
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/thieves-market|Thieves' Market]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ A nice place to stay, and a quite reasonable eatery, this inn is run by a large 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 5311f2ab-f5fe-4f72-90fe-25bf6ef85417<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Thieves' Market<br>
@@ -93,7 +107,9 @@ A nice place to stay, and a quite reasonable eatery, this inn is run by a large 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

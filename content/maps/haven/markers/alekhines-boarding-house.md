@@ -1,8 +1,12 @@
 ---
-location: [1873.146,  6364.286]
+aliases: []
+tags: [map-marker]
+location: [1873.146, 6364.286]
 mapmarker: Inns & Taverns
+title: "Alekhine's Boarding House"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Alekhine's Boarding House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/alekhines-boarding-house|Alekhine's Boarding House]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
-
+**Description**<br>

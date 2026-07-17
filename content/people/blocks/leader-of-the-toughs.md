@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Leader of the Toughs
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Leader of the Toughs
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Longsword:**  +6 to hit , 1d8+4 slashing damage  
   **Dagger:**  +6 to hit , 1d4+4 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

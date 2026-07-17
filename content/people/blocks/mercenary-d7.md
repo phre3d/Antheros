@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary D7
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary D7
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Halberd:**  +3 to hit , 1d10+1 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

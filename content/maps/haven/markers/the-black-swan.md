@@ -1,8 +1,12 @@
 ---
-location: [4803.758,  5893.878]
+aliases: []
+tags: [map-marker]
+location: [4803.758, 5893.878]
 mapmarker: Inns & Taverns
+title: The Black Swan
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Black Swan
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-black-swan|The Black Swan]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

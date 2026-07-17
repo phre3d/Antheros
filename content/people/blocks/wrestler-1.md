@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Wrestler 1
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Wrestler 1
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Unarmed strike:**  +4 to hit , 1d1+1 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

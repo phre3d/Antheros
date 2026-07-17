@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, scenarios]
+title: Thorn Alecastle
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Thorn Alecastle
 
-### 
+###
 
-**Full Name:**  Thorn  Alecastle    
+**Full Name:**  Thorn  Alecastle
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Refer to scenario [[plots/the-missing-heir|The Missing Heir]]. Thorn is the heir
 
 ---
 
-
-
 ![[people/blocks/thorn-alecastle]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

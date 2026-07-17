@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-shop #type-magic #mages-guild #magic
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, the-labyrinth, type-magic]
+title: Madame Zaurig - Oracle
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Madame Zaurig - Oracle
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## True prophesies. Sort of. Sometimes. 
 
-## Description 
+# Description
+
+## True prophesies. Sort of. Sometimes.
+
+## Description
+
 Madame Zaurig's prophesies are generally misleading but occasionally (30% 1d100) chance of being very accurate.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Madame Zaurig's prophesies are generally misleading but occasionally (30% 1d100)
 
 **Image:** n/a
 
-**Magic (Shopping)** 
+**Magic (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Madame Zaurig's prophesies are generally misleading but occasionally (30% 1d100)
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Magic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-labyrinth|The Labyrinth]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Madame Zaurig's prophesies are generally misleading but occasionally (30% 1d100)
 ---
 
 ### World Anvil Metadata
+
 **Id:** 640b7e60-b87e-4195-b5a2-3068bb958418<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -90,7 +103,9 @@ Madame Zaurig's prophesies are generally misleading but occasionally (30% 1d100)
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

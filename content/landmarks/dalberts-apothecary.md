@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-apothecary #brotherhood-of-the-amalgam #apothecary
+---
+aliases: []
+tags: [apothecary, brotherhood-of-the-amalgam, cat-shop, Free_City_of_Haven, import, landmark, the-south-docks, type-apothecary]
+title: "Dalbert's Apothecary"
+date modified: 2026-07-16, 8:06:07 pm
+---
+
 # Dalbert's Apothecary
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Chemistry for cures - some permanent 
 
-## Description 
+# Description
+
+## Chemistry for cures - some permanent
+
+## Description
+
 [[people/dalbert|Dalbert]] runs a small, low budget Apothecary on Datashi Street, in [[settlements/the-commons|The Commons]]. The two halfling poisoners from [[landmarks/silvantes|Silvante's]] (Angelina's headquarters) buy the supplies necessary for their trade here. [[people/dalbert|Dalbert]] is affiliated with [[organizations/criminal/the-black-hand|The Black Hand]], and his shop also provides a convenient short term storage place for contraband opium and hashish.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ shadow: off
 
 **Image:** n/a
 
-**Apothecary (Shopping)** 
+**Apothecary (Shopping)**
 
  **Owner:**  Dalbert
 
@@ -60,12 +70,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Apothecary
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** bb0c527d-1798-4582-9541-f97ee1a8a7ef<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

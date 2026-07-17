@@ -1,9 +1,9 @@
 ---
-tags: [Mimic_Mayhem, npc, person]
-date modified: 2026-06-11, 1:15:06 pm
+aliases: []
+tags: [plot/Mimic-Mayhem, npc, person]
+date modified: 2026-07-16, 9:18:14 pm
+title: Mazio Merryshadow
 ---
-
-#person #npc #Mimic_Mayhem
 
 # Mazio Merryshadow
 

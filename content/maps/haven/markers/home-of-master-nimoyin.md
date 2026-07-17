@@ -1,8 +1,12 @@
 ---
-location: [3336.411,  1560.204]
+aliases: []
+tags: [map-marker]
+location: [1560.204, 3336.411]
 mapmarker: Residence
+title: Home of Master Nimoyin
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Home of Master Nimoyin
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/home-of-master-nimoyin|Home of Master Nimoyin]]<br>
 **Location Type:** Large House
 
-**Description**<br> 
-
+**Description**<br>

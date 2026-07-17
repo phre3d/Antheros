@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Rasputin
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Rasputin
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +7 to hit , 1d4+3 piercing damage  
   **Longsword:**  +7 to hit , 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-word #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/word, import, npc, person, the-cauldron]
+title: Darvi arn Malakki
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Darvi arn Malakki
 
-### 
+###
 
-**Full Name:**  Darvi  arn Malakki    
+**Full Name:**  Darvi  arn Malakki
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A bespectacled dwarf of middle years with bright blue eyes and a cheery voice ma
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/darvi-arn-malakki]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

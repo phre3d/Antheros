@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #thieves-guild #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild]
+title: Madame Zanwig
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Madame Zanwig
 
-### 
+###
 
 **Full Name:**  Madame  Zanwig    Zannia
 
@@ -208,13 +214,12 @@ A rather hefty, heavily made-up woman of apparent middle age with wild, wispy gr
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/madame-zanwig]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

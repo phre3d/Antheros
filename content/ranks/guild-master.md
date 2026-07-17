@@ -1,14 +1,23 @@
-#import #rank
+---
+aliases: []
+tags: [import, rank]
+title: Guild Master
+date modified: 2026-07-16, 7:54:52 pm
+---
+
 # Guild Master
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 Somone who is the leader of a guild.  Not to be confused with a Master within a guild, which is someone who has risent to the highest level of their craft.
 
 A Guild Master may in turn be responsible to a Grandmaster in the case where multiple smaller guilds band together under a single umbrella.
@@ -22,6 +31,7 @@ A Guild Master may in turn be responsible to a Grandmaster in the case where mul
 # Creation
 
 # Source of Authority
+
 Elected by guild members, normally those who have risen to the level of Master at their craft.
 
 # Duties
@@ -33,6 +43,7 @@ Elected by guild members, normally those who have risen to the level of Master a
 # Accoutrements & Equipment
 
 # Removal or Dismissal
+
 By popular vote or violent overthrow, depending upon the guild.
 
 # History
@@ -43,9 +54,9 @@ By popular vote or violent overthrow, depending upon the guild.
 
 --- end-column ---
 
-**Type:** 
+**Type:**
 
-**Status:** 
+**Status:**
 
 **Form of Address:** Guild Master, or less formally, Master
 
@@ -53,7 +64,6 @@ By popular vote or violent overthrow, depending upon the guild.
 
 **Length of Term:** Until membership, or the Grandmaster demands a change.
 
---- end-multi-column 
+--- end-multi-column
 
 ---
-

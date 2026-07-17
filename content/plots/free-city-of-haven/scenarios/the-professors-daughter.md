@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: "The Professor's Daughter"
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Professor's Daughter
 
 ````col
@@ -41,7 +47,6 @@ Jewl's best friend, Lalie Bulin, knows where she is staying and visits her occas
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

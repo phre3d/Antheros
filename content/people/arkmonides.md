@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-word #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/word, import, npc, person, the-heights]
+title: Arkmonides
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Arkmonides
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Older scribe with a large collection of scrolls and leather bound volumes. While
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/arkmonides]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

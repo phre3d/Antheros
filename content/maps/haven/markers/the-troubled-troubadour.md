@@ -1,8 +1,12 @@
 ---
-location: [2314.983,  3931.633]
+aliases: []
+tags: [map-marker]
+location: [2314.983, 3931.633]
 mapmarker: Inns & Taverns
+title: The Troubled Troubadour
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Troubled Troubadour
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-troubled-troubadour|The Troubled Troubadour]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

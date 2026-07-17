@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-shop #type-saddler #guild-of-the-hide #saddler
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hide, import, landmark, saddler, the-cauldron, type-saddler]
+title: Darius and Sons - Saddlers
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Darius and Sons - Saddlers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Saddler (Shopping)** 
+**Saddler (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Craftsman, Leatherworker
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 627ceacd-b0c2-4967-bb45-6976159af053<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

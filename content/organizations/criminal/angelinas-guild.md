@@ -1,4 +1,10 @@
-#import #organization   #Free_City_of_Haven #type-guild-professional
+---
+aliases: []
+tags: [Free_City_of_Haven, organization/criminal, import, organization, angelinas-guild]
+title: "Angelina's Guild"
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Angelina's Guild
 
 [[people/angelina|Angelina's]] Guild controls Black Hand interests in smuggling, both by sea and by caravan, and the supply of drugs to many of Haven's noxious opium dens. Auxiliary concerns include the brothel, [[landmarks/the-black-whip|The Black Whip]] (DU), on [[settlements/the-street-of-silk-veils|The Street of Silk Veils]], and the small but lucrative underground slave trade (a highly illegal business centered around the shop of [[people/adrielle-ilorim|Adrielle Ilorim]] in Erinhir). Its headquarters are a posh and seemingly respectable dining establishment in [[settlements/the-north-corridor|The North Corridor]] known as [[landmarks/silvantes|Silvante's]] owned and operated by the guild.
@@ -9,7 +15,8 @@ The head of [[people/angelina|Angelina]]'s drug dealing operation, [[people/juli
 
 [[people/mordred-de-laterre|Mordred de Laterre]], the crippled, wizened, and now retired caravan master who operates a caravanserai in [[settlements/the-north-corridor|The North Corridor]], is another of [[people/angelina|Angelina's]] top lieutenants. From his establishment caravans set out for most of the cities along the great road, and often carry Black Hand contraband among their cargo. Mordred does not have many operatives directly under him, for the success of his business is dependent upon legitimate contacts with area caravan masters, and not upon brute force or strength of numbers. Nonetheless, two or three of his employees at the caravanserai are affiliated with the Hand. Since Mordred needs to coordinate the activities of Black Hand agents in the other great cities who act as his buyers and shippers, he also employs several couriers who are constantly moving in and out of Haven with major caravans carrying letters between Mordred and his agents.
 
-By far the most extensive part of this guild is [[settlements/the-south-docks|The South Docks]] smuggling operation, run by [[people/alfonso-caradallo|Alfonso Caradallo]]. Alfonso, along with three other subordinates of slightly greater brawn but vastly inferior wit, directs a small longshoreman's firm and storage warehouse, known respectively as Longshoremen Inc. and 
+By far the most extensive part of this guild is [[settlements/the-south-docks|The South Docks]] smuggling operation, run by [[people/alfonso-caradallo|Alfonso Caradallo]]. Alfonso, along with three other subordinates of slightly greater brawn but vastly inferior wit, directs a small longshoreman's firm and storage warehouse, known respectively as Longshoremen Inc. and
+
 [[landmarks/caradallos-storage|Caradallo's Storage]]. He also supervises the activities of [[people/constantino-maylino|Constantino Maylino]], owner of a dockside warehouse, Maylino's night watchman [[people/rufus|Rufus]], and [[people/lazar-symbocca|Lazar Symbocca]], owner of [[landmarks/syms-storage-company|Sym's Storage Company]]. Under the direction of Caradello, Maylino oversees the buying and storage of illicit cargos for the small fleet of Black Hand smugglers that operates along the river. Unknown to Maylino, cargos smuggled into Haven are stored in Caradello's warehouse, or at Sym's Storage.
 
 The final immediate underling of Caradello's is [[people/conrad-bissell|Conrad Bissell]], a small ferret faced man, who is one of the three day-shift assistant customs inspectors employed by the ministry of Ports and Shipping to collect customs duties along [[settlements/the-south-docks|The South Docks]], under the direction of Inspector [[people/valyri-pipper|Valyri Pipper]]. Caradello attempts to arrange for Black Hand cargos to be inspected by Bissell who places the proper seals and stamps upon the appropriate items. Nonetheless, there is only a 65% chance that Bissell will be the inspector on duty at any given time; illegal Black Hand cargos, therefore, are usually well concealed, even when Caradello has arranged for Bissell to inspect the smuggler. In exchange for his duplicity, Caradello pays Bissell an annual gratuity, and arranged for Bissell's sister to receive training and employment as a courtesan from [[landmarks/the-black-whip|The Black Whip]] (small government officials, like beggars, cannot afford to be choosers).
@@ -25,7 +32,9 @@ Caradello coordinates the movements of his smuggler captains from [[landmarks/bl
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Guild, Thieves<br>
 **Parent Organization:** [[organizations/criminal/the-black-hand|The Black Hand]]<br>
 
@@ -42,4 +51,3 @@ textAlign=right
 Next: 3105545d-0a89-481a-977a-2808f1ac2521
 ```
 ````
-

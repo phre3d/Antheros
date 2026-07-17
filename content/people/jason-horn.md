@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Jason Horn
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jason Horn
 
-### 
+###
 
-**Full Name:**  Jason  Horn    
+**Full Name:**  Jason  Horn
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ The captain of the Argos, currently docked in Haven is the young, fast-talking J
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jason-horn]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

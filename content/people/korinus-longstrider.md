@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-drayers #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/drayers, import, npc, person, the-cauldron]
+title: Korinus Longstrider
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Korinus Longstrider
 
-### 
+###
 
-**Full Name:**  Korinus  Longstrider    
+**Full Name:**  Korinus  Longstrider
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A centaur who runs a percel post service along with his three sons, their wives,
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/korinus-longstrider]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

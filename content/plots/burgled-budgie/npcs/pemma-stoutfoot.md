@@ -1,5 +1,12 @@
-#person #npc #Burgled_Budgie
+---
+aliases: []
+tags: [plot/burgled-budgie, npc, person]
+title: Pamma Stoutfoot
+date modified: 2026-07-16, 9:18:17 pm
+---
+
 # Pamma Stoutfoot
+
 Halfling Clerk, CG
 
 >[!read aloud]
@@ -12,4 +19,5 @@ Pemma is sensible and helpful, and seems to possess an inner calm that contrasts
 >(AI created)
 
 ---
+
 **Source:** Debacle of the Burgled Budgie

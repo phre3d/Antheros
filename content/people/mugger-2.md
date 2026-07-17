@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Mugger 2
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mugger 2
 
-### 
+###
 
-**Full Name:**  Mugger  Two    
+**Full Name:**  Mugger  Two
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Merchant Maulers
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mugger-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

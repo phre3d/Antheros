@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Petriko
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Petriko
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +6 to hit , 2d6+4 slashing damage  
   **Longsword:**  +6 to hit , 1d8+4 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-glens #cat-residence #type-mansion #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-glens, type-mansion]
+title: Rand Family Residence
+date modified: 2026-07-16, 9:18:49 pm
+---
+
 # Rand Family Residence
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Another North Corridor mansion 
 
-## Description 
+# Description
+
+## Another North Corridor mansion
+
+## Description
+
 This estate house is shared by the three Rand brothers
 
-## NPC Encounters 
+## NPC Encounters
+
 Kruegger Rand | Eezie Rand | Sberri Rand | Zalle Rand
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Kruegger Rand | Eezie Rand | Sberri Rand | Zalle Rand
 
 **Image:** n/a
 
-**Mansion (Residence)** 
+**Mansion (Residence)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Kruegger Rand | Eezie Rand | Sberri Rand | Zalle Rand
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Mansion / Villa
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-glens|The Glens]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Kruegger Rand | Eezie Rand | Sberri Rand | Zalle Rand
 ---
 
 ### World Anvil Metadata
+
 **Id:** 7bf9d8b6-edaf-4f32-8d22-cac55848b6d0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Glens<br>
@@ -93,7 +107,9 @@ Kruegger Rand | Eezie Rand | Sberri Rand | Zalle Rand
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

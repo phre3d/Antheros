@@ -1,8 +1,12 @@
 ---
-location: [1269.064,  4905.102]
+aliases: []
+tags: [map-marker]
+location: [1269.064, 4905.102]
 mapmarker: Shopping
+title: Kelvin the Tinsmith
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Kelvin the Tinsmith
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/kelvin-the-tinsmith|Kelvin the Tinsmith]]<br>
 **Location Type:** Metalwork
 
-**Description**<br> 
-
+**Description**<br>

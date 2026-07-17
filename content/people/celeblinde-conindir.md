@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #conindir-family #erinhir #npc
+---
+aliases: []
+tags: [conindir-family, erinhir, Free_City_of_Haven, import, npc, person]
+title: Celeblinde Conindir
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Celeblinde Conindir
 
-### 
+###
 
-**Full Name:**  Celeblinde  Conindir    
+**Full Name:**  Celeblinde  Conindir
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Son of [[person/teleril-conindir|Teleril Conindir]] and [[person/khelekien-conin
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/celeblinde-conindir]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

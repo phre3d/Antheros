@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Shopkeeper 5
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Shopkeeper 5
 
-### 
+###
 
-**Full Name:**  Shopkeeper  Five    
+**Full Name:**  Shopkeeper  Five
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Shopkeeper 5
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/shopkeeper-5]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

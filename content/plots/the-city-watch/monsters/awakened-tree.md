@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -41,17 +46,21 @@ Huge Plant unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **False Appearance.**  While the tree remains motionless, it is indistinguishable from a normal tree.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Slam** 
+
+**Slam**
+
   *Melee Attack:*  +6 to hit , reach 10ft., one target
+
   *Hit:*   or 14 bludgeoning damage
 
 ![[~attachments/dndline.png]]
 
 # Description
-An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic.
 
+An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic.

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Marcus Ambrosius
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Marcus Ambrosius
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Halberd:**  +7 to hit , 1d10+3 slashing damage  
   **Longsword:**  +7 to hit , 1d8+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

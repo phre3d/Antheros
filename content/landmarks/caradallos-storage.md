@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-warehouse #guild-of-drayers #warehouse
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, the-south-docks, type-warehouse, warehouse]
+title: "Caradallo's Storage"
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Caradallo's Storage
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Storage space with a Hand connection 
 
-## Description 
+# Description
+
+## Storage space with a Hand connection
+
+## Description
+
 A storage facility owned by a member of [[organizations/criminal/angelinas-guild|Angelina's Guild]].
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/alfonso-caradallo|Alfonso Caradallo]]
 
 # Purpose / Function
@@ -51,7 +62,7 @@ A storage facility owned by a member of [[organizations/criminal/angelinas-guild
 
 **Image:** n/a
 
-**Warehouse (Service)** 
+**Warehouse (Service)**
 
  **Owner:**  Alfonso Caradallo
 
@@ -63,12 +74,14 @@ A storage facility owned by a member of [[organizations/criminal/angelinas-guild
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Warehouse, Commercial
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ A storage facility owned by a member of [[organizations/criminal/angelinas-guild
 ---
 
 ### World Anvil Metadata
+
 **Id:** 061fa499-04c8-404a-a4a2-dd450f701b04<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -93,7 +107,9 @@ A storage facility owned by a member of [[organizations/criminal/angelinas-guild
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

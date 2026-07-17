@@ -1,8 +1,12 @@
 ---
-location: [4032.33,  1771.429]
+aliases: []
+tags: [map-marker]
+location: [1771.429, 4032.33]
 mapmarker: Service
+title: "Trencher's Pony Stable"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Trencher's Pony Stable
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/trenchers-pony-stable|Trencher's Pony Stable]]<br>
 **Location Type:** Stable
 
-**Description**<br> 
-
+**Description**<br>

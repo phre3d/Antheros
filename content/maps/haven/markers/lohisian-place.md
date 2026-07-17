@@ -1,8 +1,12 @@
 ---
-location: [3794.574,  5353.061]
+aliases: []
+tags: [map-marker]
+location: [3794.574, 5353.061]
 mapmarker: Medical
+title: Lohisian Place
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Lohisian Place
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Medical
 **Location:** [[landmarks/lohisian-place|Lohisian Place]]<br>
 **Location Type:** Medical
 
-**Description**<br> 
+**Description**<br>
+
 This 'temple' to Lohi, Goddess of Healing, is in fact a working hospital

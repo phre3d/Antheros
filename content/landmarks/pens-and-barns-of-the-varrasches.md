@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-shop #type-livestock #guild-of-the-beast #livestock
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livestock, the-horse-market, type-livestock]
+title: Pens and Barns of the Varrasches
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Pens and Barns of the Varrasches
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/branden-varrasch|Branden Varrasch]] | [[people/valken-varrasch|Valken Varrasch]] | [[people/er-keng-varrasch|er-Keng Varrasch]] | [[people/enver|Enver]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Livestock (Shopping)** 
+**Livestock (Shopping)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 75ad724a-b6ee-4a2a-8eee-d405d023c7be<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #blackbourne-family #council-of-boroughs #council-of-masters #the-heights #npc
+---
+aliases: []
+tags: [blackbourne-family, council-of-boroughs, council-of-masters, Free_City_of_Haven, import, npc, person, the-heights]
+title: Hamlin Blackbourne
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Hamlin Blackbourne
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -212,13 +218,12 @@ A small, bald-headed man with a nagging cough and darting watery eyes; Hamlin is
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/hamlin-blackbourne]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

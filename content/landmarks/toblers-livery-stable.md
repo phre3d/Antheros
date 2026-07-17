@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-livery #guild-of-the-beast #livery
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livery, the-south-corridor, type-livery]
+title: "Tobler's Livery Stable"
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Tobler's Livery Stable
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Carriages for rent - and horses, even dogs 
 
-## Description 
+# Description
+
+## Carriages for rent - and horses, even dogs
+
+## Description
+
 If one needs a heavy wagon and team, or a horse and carriage, or a pony cart, or a dog cart (etc., etc., etc.), in the vicinity of [[settlements/the-south-corridor|The South Corridor]], there is only place to patronize. "Cocoa" Tobler's livery stable can supply almost any kind of vehicle from a small dog cart (suitable for one's youngest daughter) to a heavy wain (suitable for a trip to the farthest reaches of the known world), and motive power of proportional capability - he has animals available from dogs to oxen.  
 
  Tobler's reputation in Haven is good and well deserved. If the conveyance will be leaving the city gates, the client has his choice. Either buy it (and the team), or pay the full rental (plus some extra) in advance (Tobler's no fool!) for a stable hand to travel along and bring the rig and team back (one of the stable hands is currently on his way to Emor with a rig).  
@@ -22,7 +32,8 @@ If one needs a heavy wagon and team, or a horse and carriage, or a pony cart, or
 
  Prices: Fair
 
-## Quality 
+## Quality
+
 Good (the pulling teams don't die in the first five miles, or even five hundred!
 
 # Purpose / Function
@@ -59,7 +70,7 @@ Good (the pulling teams don't die in the first five miles, or even five hundred!
 
 **Image:** n/a
 
-**Livery (Shopping)** 
+**Livery (Shopping)**
 
  **Owner:**  Cocoa Tobler
 
@@ -71,12 +82,14 @@ Good (the pulling teams don't die in the first five miles, or even five hundred!
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Stables
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -93,6 +106,7 @@ Good (the pulling teams don't die in the first five miles, or even five hundred!
 ---
 
 ### World Anvil Metadata
+
 **Id:** b7393403-609b-4603-8aa9-4a2b6b908066<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -101,7 +115,9 @@ Good (the pulling teams don't die in the first five miles, or even five hundred!
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

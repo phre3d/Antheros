@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #erinhir #cat-shop #type-weapons #armorers-guild #weapons
+---
+aliases: []
+tags: [armorers-guild, cat-shop, erinhir, Free_City_of_Haven, import, landmark, type-weapons, weapons]
+title: Elven Bowyer
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Elven Bowyer
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Weapons (Shopping)** 
+**Weapons (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/erinhir|Erinhir]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 96a8ce6b-5eee-46b3-bd81-b9b374c1c234<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Erinhir<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

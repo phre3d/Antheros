@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: The Tiefling’s Tale
+date modified: 2026-07-16, 9:18:15 pm
+---
+
 # The Tiefling’s Tale
 
 ````col
@@ -49,7 +55,6 @@ The players have approximately 1d20+10 [roll:1d20+10] melee rounds before they a
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

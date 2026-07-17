@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dwarrow]
+title: Kels
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kels
 
-### 
+###
 
-**Full Name:**  Kels      
+**Full Name:**  Kels
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A fairly high ranking mage who provides his brother [[landmark/bethlis-iron-work
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kels]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

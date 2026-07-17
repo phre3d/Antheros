@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-general-clothing #guild-of-the-loom #general-clothing
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-south-corridor, type-general-clothing]
+title: The Secret Cabinet
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Secret Cabinet
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Lace and leather for m'lady or m'sir 
 
-## Description 
+# Description
+
+## Lace and leather for m'lady or m'sir
+
+## Description
+
 Lingerie store on Summ Plaza
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Lingerie store on Summ Plaza
 
 **Image:** n/a
 
-**General Clothing (Shopping)** 
+**General Clothing (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Lingerie store on Summ Plaza
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Tailor
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Lingerie store on Summ Plaza
 ---
 
 ### World Anvil Metadata
+
 **Id:** eb5dfb51-30c8-41cd-9c8a-0c5338a1c3e4<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -90,7 +103,9 @@ Lingerie store on Summ Plaza
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

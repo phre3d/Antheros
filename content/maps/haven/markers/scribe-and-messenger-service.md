@@ -1,8 +1,12 @@
 ---
-location: [6305.799,  2338.776]
+aliases: []
+tags: [map-marker]
+location: [2338.776, 6305.799]
 mapmarker: Service
+title: Scribe and Messenger Service
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Scribe and Messenger Service
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/scribe-and-messenger-service|Scribe and Messenger Service]]<br>
 **Location Type:** Courier
 
-**Description**<br> 
-
+**Description**<br>

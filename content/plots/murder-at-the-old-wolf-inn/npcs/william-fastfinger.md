@@ -1,4 +1,10 @@
-#import #person #npc #Murder_at_the_Old_Wolf_Inn
+---
+aliases: []
+tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+title: William Fastfinger
+date modified: 2026-07-16, 9:18:13 pm
+---
+
 # William Fastfinger
 
 `````col
@@ -51,7 +57,9 @@ If asked why he is hiding in the stables, William will claim that he can't affor
 `````
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

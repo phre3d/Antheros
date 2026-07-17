@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Beryn Perkins
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Beryn Perkins
 
-### 
+###
 
-**Full Name:** Station Captain Beryn  Perkins    
+**Full Name:** Station Captain Beryn  Perkins
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ She is Station Captain of the [[landmark/northgate-barracks|Northgate Barracks]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/beryn-perkins]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

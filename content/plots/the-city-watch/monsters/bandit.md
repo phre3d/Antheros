@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Actions
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,9 +43,12 @@ Medium humanoid (any race) any non-lawful alignment
 ![[~attachments/dndline.png]]
 
 # Actions
-**Scimitar  ** 
-  *Melee Attack:*  +3 to hit , reach 5 ft., one' target.  
-  *Hit:*  4  slashing damage.    **Light Crossbow** 
-  **Ranged Attack:**  +3 to hit , range 80 ft./320ft., one target. 
-  *Hit:*   or 5 piercing damage.
 
+**Scimitar  **
+
+  *Melee Attack:*  +3 to hit , reach 5 ft., one' target.  
+  *Hit:*  4  slashing damage.    **Light Crossbow**
+
+  **Ranged Attack:**  +3 to hit , range 80 ft./320ft., one target.
+
+  *Hit:*   or 5 piercing damage.

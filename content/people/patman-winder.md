@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-dell]
+title: Patman Winder
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Patman Winder
 
-### 
+###
 
-**Full Name:**  Patman  Winder    
+**Full Name:**  Patman  Winder
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Assistant barkeeper at [[landmark/the-bandersnatch-inn|The Bandersnatch Inn]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/patman-winder]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

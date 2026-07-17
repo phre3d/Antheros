@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Urb Brassknuckle
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Urb Brassknuckle
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greataxe:**  +5 to hit , 1d12+2 slashing damage  
   **Unarmed strike:**  +5 to hit , 1d1+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

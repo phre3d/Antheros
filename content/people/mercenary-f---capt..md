@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #generic-person #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, generic-person, import, npc, person]
+title: Mercenary F - Capt.
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Mercenary F - Capt.
 
-### 
+###
 
-**Full Name:**  Mercenary Capt.  F    
+**Full Name:**  Mercenary Capt.  F
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ Generic Mercenary Capt. F
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/mercenary-capt.-f]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

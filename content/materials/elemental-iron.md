@@ -1,4 +1,10 @@
-#import #material #Clockwork_Tower
+---
+aliases: []
+tags: [plot/clockwork-tower, import, material]
+title: Elemental Iron
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Elemental Iron
 
 ````col
@@ -89,7 +95,9 @@ A rare type of iron infused with elemental energy during the smelting process. T
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Goblin_Trouble
+---
+aliases: []
+tags: [plot/Goblin-Trouble, import, monster, statblock]
+title: Actions
+date modified: 2026-07-16, 9:18:14 pm
+---
 
 ````col
 ```col-md
@@ -38,7 +43,9 @@ Large giant neutral evil
 ![[~attachments/dndline.png]]
 
 # Actions
-### Large Axe.  
-  **Melee weapon attack.**   to hit, reach 5 feet, one target.
-  **Hit:**  12  slashing damage or 14  slashing damage if held with both hands.
 
+### Large Axe.  
+
+  **Melee weapon attack.**   to hit, reach 5 feet, one target.
+
+  **Hit:**  12  slashing damage or 14  slashing damage if held with both hands.

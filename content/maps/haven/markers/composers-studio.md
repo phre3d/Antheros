@@ -1,8 +1,12 @@
 ---
-location: [2400.697,  2479.592]
+aliases: []
+tags: [map-marker]
+location: [2400.697, 2479.592]
 mapmarker: Shopping
+title: "Composer's Studio"
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Composer's Studio
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/composers-studio|Composer's Studio]]<br>
 **Location Type:** Music
 
-**Description**<br> 
-
+**Description**<br>

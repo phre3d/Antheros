@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #disaffected-artisans #guild-of-metalsmiths #the-dwarrow #npc
+---
+aliases: []
+tags: [disaffected-artisans, Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-dwarrow]
+title: Bethli
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Bethli
 
-### 
+###
 
-**Full Name:**  Bethli      
+**Full Name:**  Bethli
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ Bethli himself is a rather congenial dwarf with a ruddy complexion and a love of
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bethli]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Vernadot
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Vernadot
 
-### 
+###
 
-**Full Name:**  Vernadot      
+**Full Name:**  Vernadot
 
 `````col
 ````col-md
@@ -207,13 +213,12 @@ Vernadot has no idea of the harp's powers, and is delighted at the sudden increa
 
 ---
 
-
-
 ![[people/blocks/vernadot]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

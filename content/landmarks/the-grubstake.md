@@ -1,28 +1,41 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-general-goods #guild-of-merchants #general-goods
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, general-goods, guild/merchants, import, landmark, the-dwarrow, type-general-goods]
+title: The Grubstake
+date modified: 2026-07-16, 9:18:45 pm
+---
+
 # The Grubstake
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## [[people/ninar-goldrush|Ninar Goldrush]] and [[people/forti|Forti]] , Props. 
 
-## Description 
+# Description
+
+## [[people/ninar-goldrush|Ninar Goldrush]] and [[people/forti|Forti]] , Props.
+
+## Description
+
 Ninar and [[people/forti|Forti]] are former wildcat prospectors who met years ago in the foothills of the Khuz and have survived as rather [[people/rocky|Rocky]] business partners ever since. Ninar is both incredibly gullible and incredibly lucky, the kind of fellow who spends his life savings on an abandoned, worthless mine, and then falls through a hole in its shaft and discovers an untapped mother lode beneath. After years of feast and famine, [[people/forti|Forti]] convinced his partner to abandon the miner's life for the "greater security" of owning this shop, which sells all manner of prospecting supplies.  
 
  Ninar and [[people/forti|Forti]] used to have a third partner, T'mothee who recently died in a mine collapse. He had been demonstrating a "Special Revolutionary New, One-Size Fits All, Pick and Shovel Set" with to couple of local miners (Joe and Buoy, a pair of half-orcs), both of whom were rescued after several days in good health, but there was no sign of T'im (Timothy, The Buoys).  Needless to say, [[people/forti|Forti]] and Ninar are still mourning and not on speaking terms at the moment with any half-orc.
 
-## Price Range 
+## Price Range
+
 Fair
 
-## Quality 
+## Quality
+
 Fair
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/forti|Forti]]
 
 # Purpose / Function
@@ -59,7 +72,7 @@ Fair
 
 **Image:** n/a
 
-**General Goods (Shopping)** 
+**General Goods (Shopping)**
 
  **Owner:**  Ninar Goldrush
 
@@ -71,12 +84,14 @@ Fair
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** General Store
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -93,6 +108,7 @@ Fair
 ---
 
 ### World Anvil Metadata
+
 **Id:** b19a1629-5e9b-493d-a0a2-ac29d1f3e434<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -101,7 +117,9 @@ Fair
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Kidnapper 2
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Kidnapper 2
 
-### 
+###
 
-**Full Name:**  Kidnapper  Two    
+**Full Name:**  Kidnapper  Two
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Kidnapping
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kidnapper-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

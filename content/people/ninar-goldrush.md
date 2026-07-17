@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #merchants-guild #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, merchants-guild, npc, person, the-dwarrow]
+title: Ninar Goldrush
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Ninar Goldrush
 
-### 
+###
 
-**Full Name:**  Ninar  Goldrush    
+**Full Name:**  Ninar  Goldrush
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A formet wildcat prospector, Ninar is both incredibly gullible and incredibly lu
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ninar-goldrush]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

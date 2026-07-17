@@ -1,8 +1,12 @@
 ---
-location: [1680.289,  6289.796]
+aliases: []
+tags: [map-marker]
+location: [1680.289, 6289.796]
 mapmarker: Entertainment
+title: Petals of the Rose
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Petals of the Rose
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/petals-of-the-rose|Petals of the Rose]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

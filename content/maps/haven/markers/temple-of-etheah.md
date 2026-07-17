@@ -1,8 +1,12 @@
 ---
-location: [4149.677,  4740.816]
+aliases: []
+tags: [map-marker]
+location: [4149.677, 4740.816]
 mapmarker: Religion
+title: Temple of Etheah
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Temple of Etheah
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-etheah|Temple of Etheah]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Etheah: Goddess of Nature

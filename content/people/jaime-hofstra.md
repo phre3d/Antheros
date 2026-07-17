@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-glens #npc #hofstra-family
+---
+aliases: []
+tags: [Free_City_of_Haven, hofstra-family, import, npc, person, the-glens]
+title: Jaime Hofstra
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Jaime Hofstra
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ About 5'5”, tall, and slender, with piercing hazel eyes and [[person/raven|Rav
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/jaime-hofstra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

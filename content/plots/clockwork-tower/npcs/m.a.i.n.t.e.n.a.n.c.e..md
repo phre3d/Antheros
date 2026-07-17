@@ -1,13 +1,17 @@
 ---
+aliases: []
+tags: [plot/clockwork-tower, import, npc, person]
 cssclasses:
   - callouts-outlined
+title: M.A.I.N.T.E.N.A.N.C.E.
+date modified: 2026-07-16, 9:18:16 pm
 ---
-#import #person #Clockwork_Tower #npc
+
 # M.A.I.N.T.E.N.A.N.C.E.
 
-### 
+###
 
-**Full Name:** 
+**Full Name:**
 
 `````col
 ````col-md
@@ -60,15 +64,14 @@ Though capable in combat, M.A.I.N.T.E.N.A.N.C.E. is primarily designed as a main
 `````
 
 ![[dndline2.png]]
->[!Statblock]+ 
+
+>[!Statblock]+
 >![[plots/clockwork-tower/npcs/blocks/m.a.i.n.t.e.n.a.n.c.e]]
->
-
-
-
 
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

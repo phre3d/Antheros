@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Melisandre
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Melisandre
 
-### 
+###
 
-**Full Name:**  Melisandre      
+**Full Name:**  Melisandre
 
 `````col
 ````col-md
@@ -210,13 +216,12 @@ A slender young woman with long brown hair and wide brown eyes, of less than ave
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/melisandre]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

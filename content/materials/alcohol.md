@@ -1,4 +1,10 @@
-#import #material #potion-base
+---
+aliases: []
+tags: [import, material, potion-base]
+title: Alcohol
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Alcohol
 
 ````col
@@ -60,7 +66,9 @@ Can be distilled to further increase the concentration, producing various produc
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

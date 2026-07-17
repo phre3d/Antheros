@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: "Turlough O'Carolan"
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Turlough O'Carolan
 
-### 
+###
 
-**Full Name:**  Turlough  O'Carolan    
+**Full Name:**  Turlough  O'Carolan
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ An old man with a careworn face and long grey hair and beard meticulously trimme
 
 ---
 
-
-
 ![[people/blocks/turlough-ocarolan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

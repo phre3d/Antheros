@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -42,15 +47,19 @@ Large Ooze unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
+
 **Amorphous.**  The jelly can move through a space as narrow as 1 inch wide without squeezing.   **Spider Climb.**  The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-**Pseudopod** 
-  *Melee Attack:*  +4 to hit , reach 5 ft., one target. 
+
+**Pseudopod**
+
+  *Melee Attack:*  +4 to hit , reach 5 ft., one target.
+
   *Hit:*   or 9 bludgeoning damage plus  or 3 acid damage.
 
 ## Reactions
-**Split.**  When a jelly that is Medium or larger and has at least 10 hit points is subjected to lightning or slashing damage, it splits into two new jellies. Each new jelly has hit points equal to half the original jelly''s, rounded down. New jellies are one size smaller than the original jelly.
 
+**Split.**  When a jelly that is Medium or larger and has at least 10 hit points is subjected to lightning or slashing damage, it splits into two new jellies. Each new jelly has hit points equal to half the original jelly''s, rounded down. New jellies are one size smaller than the original jelly.

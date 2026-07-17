@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary D5
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Mercenary D5
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greataxe:**  +6 to hit , 1d12+3 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

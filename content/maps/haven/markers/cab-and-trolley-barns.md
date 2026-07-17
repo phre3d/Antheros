@@ -1,8 +1,12 @@
 ---
-location: [2720.085,  1288.776]
+aliases: []
+tags: [map-marker]
+location: [1288.776, 2720.085]
 mapmarker: Service
+title: Cab and Trolley Barns
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Cab and Trolley Barns
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Service
 **Location:** [[landmarks/cab-and-trolley-barns|Cab and Trolley Barns]]<br>
 **Location Type:** Taxi/Bus
 
-**Description**<br> 
+**Description**<br>
+
 Home of the centaur trolley system

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Geronio
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Geronio
 
-### 
+###
 
-**Full Name:**  Geronio      
+**Full Name:**  Geronio
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A dwarf who is both extremely greedy and exceedingly lazy. He therefore is tryin
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/geronio]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

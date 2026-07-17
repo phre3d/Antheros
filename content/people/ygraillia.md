@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Ygraillia
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Ygraillia
 
-### 
+###
 
-**Full Name:**  Ygraillia      
+**Full Name:**  Ygraillia
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A Sindar elf who helps her brother [[person/querrel-seadreamer|Querrel Seadreame
 
 ---
 
-
-
 ![[people/blocks/ygraillia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

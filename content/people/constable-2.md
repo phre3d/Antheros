@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Constable 2
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Constable 2
 
-### 
+###
 
-**Full Name:**  Constable  Two    
+**Full Name:**  Constable  Two
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ See Street Encounter: Appleby, I Presume?
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/constable-2]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,18 +1,28 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-education #type-training #guild-of-tuition #education
+---
+aliases: []
+tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-dwarrow, type-training]
+title: Eldri - Weaponsmaster
+date modified: 2026-07-16, 9:18:56 pm
+---
+
 # Eldri - Weaponsmaster
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Training and Exercise 
 
-## Description 
-[[people/eldri|Eldri]] is a talented, expert fighter who is qualified to teach any axe or hammer weapon, as well as the bastard and broadsword. He is capable of training a fighter to a level of normal weapon skill in 6 weeks (i.e., 25% faster than a normal weapons master).   
+# Description
+
+## Training and Exercise
+
+## Description
+
+[[people/eldri|Eldri]] is a talented, expert fighter who is qualified to teach any axe or hammer weapon, as well as the bastard and broadsword. He is capable of training a fighter to a level of normal weapon skill in 6 weeks (i.e., 25% faster than a normal weapons master).
 
  Unless a character establishes himself in early practice sessions as a highly talented warrior, he will be trained not by [[people/eldri|Eldri]], but by one of his two assistants, [[people/novig|Novig]] or [[people/sikki|Sikki]] at the normal learning rate of 8 weeks per weapon.  
 
@@ -20,13 +30,16 @@ shadow: off
 
  Experienced fighters relaxing for a time in Haven frequently come in to [[people/eldri|Eldri]]'s once or twice a week to work out in the gymnasium and keep their weapon eye sharp. This is an excellent place to meet potential hireling fighters, with the added advantage that one can observe the candidates in mock action to gauge their relative proficiency.
 
-## Price Range 
+## Price Range
+
 Costly
 
-## Quality 
+## Quality
+
 Excellent
 
-## NPC Encounters 
+## NPC Encounters
+
 [[people/sikki|Sikki]] | [[people/novig|Novig]]
 
 # Purpose / Function
@@ -63,7 +76,7 @@ Excellent
 
 **Image:** n/a
 
-**Training (Service)** 
+**Training (Service)**
 
  **Owner:**  Eldri
 
@@ -75,12 +88,14 @@ Excellent
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Dojo
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -97,6 +112,7 @@ Excellent
 ---
 
 ### World Anvil Metadata
+
 **Id:** ab805285-e548-4601-a82f-1aeebcebd6de<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -105,7 +121,9 @@ Excellent
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

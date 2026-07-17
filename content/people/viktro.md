@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-cauldron #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+title: Viktro
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Viktro
 
-### 
+###
 
-**Full Name:**  Viktro      
+**Full Name:**  Viktro
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A young fighter who acts as a guard at [[landmark/the-ironmongery|The Ironmonger
 
 ---
 
-
-
 ![[people/blocks/viktro]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

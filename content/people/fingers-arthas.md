@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-guild, thieves-market]
+title: Fingers Arthas
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Fingers Arthas
 
-### 
+###
 
-**Full Name:**  Fingers  Arthas    
+**Full Name:**  Fingers  Arthas
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A short and relatively chubby (when on duty) half-orc. Arthas is a 5th Level thi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fingers-arthas]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-commons]
+title: Prospero Maggia
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Prospero Maggia
 
-### 
+###
 
-**Full Name:**  Prospero  Maggia    
+**Full Name:**  Prospero  Maggia
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ Prospero has been frequently linked by rumor to the activities of the underworld
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/prospero-maggia]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

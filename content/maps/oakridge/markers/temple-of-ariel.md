@@ -1,8 +1,12 @@
 ---
-location: [276.263, 120.947]
+aliases: []
+tags: [map-marker]
+location: [120.947, 276.263]
 mapmarker: Religion
+title: Temple of Ariel
+date modified: 2026-07-16, 9:18:38 pm
 ---
-#map-marker 
+
 # Temple of Ariel
 
 **Map:** [[maps/oakridge/oakridge|Oakridge]]
@@ -19,5 +23,6 @@ mapmarker: Religion
 **Location:** [[landmarks/temple-of-ariel|Temple of Ariel]]<br>
 **Location Type:** Temple
 
-**Description**<br> 
+**Description**<br>
+
 Ariel: Goddess of Love and Beauty, Patron of the Arts

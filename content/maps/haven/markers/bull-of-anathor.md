@@ -1,8 +1,12 @@
 ---
-location: [2867.023,  3855.102]
+aliases: []
+tags: [map-marker]
+location: [2867.023, 3855.102]
 mapmarker: Inns & Taverns
+title: Bull of Anathor
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Bull of Anathor
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/bull-of-anathor|Bull of Anathor]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

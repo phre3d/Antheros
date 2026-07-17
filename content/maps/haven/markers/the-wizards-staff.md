@@ -1,8 +1,12 @@
 ---
-location: [3240.493,  2855.102]
+aliases: []
+tags: [map-marker]
+location: [2855.102, 3240.493]
 mapmarker: Inns & Taverns
+title: "The Wizards' Staff"
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Wizards' Staff
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-wizards-staff|The Wizards' Staff]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

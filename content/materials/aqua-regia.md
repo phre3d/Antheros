@@ -1,4 +1,10 @@
-#import #material #potion-base
+---
+aliases: []
+tags: [import, material, potion-base]
+title: Aqua Regia
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Aqua Regia
 
 ````col
@@ -93,7 +99,9 @@ Used by [[profession/herbalist|Herbalists]] as a base for making  *uncommon*  po
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

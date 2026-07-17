@@ -1,8 +1,12 @@
 ---
-location: [4157.84,  903.061]
+aliases: []
+tags: [map-marker]
+location: [4157.84, 903.061]
 mapmarker: Shopping
+title: Golbur - Gem Appraiser
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Golbur - Gem Appraiser
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/golbur-gem-appraiser|Golbur - Gem Appraiser]]<br>
 **Location Type:** Jeweler
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #government-of-haven #government-of-haven #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, government-of-haven, import, npc, person]
+title: Freggo the Hairless
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Freggo the Hairless
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Freggo, the Minister of Ports and Shipping, is greedy and corrupt, and is widely
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/freggo-the-hairless]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

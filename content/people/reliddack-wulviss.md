@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-heights]
+title: Reliddack Wulviss
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Reliddack Wulviss
 
-### 
+###
 
-**Full Name:**  Reliddack  Wulviss    
+**Full Name:**  Reliddack  Wulviss
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Reliddack is known for growing thriving medicinal herbs, such as can cure even d
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/reliddack-wulviss]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [5407.84,  4668.367]
+aliases: []
+tags: [map-marker]
+location: [4668.367, 5407.84]
 mapmarker: Guild
+title: Guildhall of Erectors
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Guildhall of Erectors
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Guild
 **Location:** [[landmarks/guildhall-of-erectors|Guildhall of Erectors]]<br>
 **Location Type:** Guildhouse
 
-**Description**<br> 
+**Description**<br>
+
 Represents all those involved in the building construction trades.

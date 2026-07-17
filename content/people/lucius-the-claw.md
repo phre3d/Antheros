@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #brotherhood-of-the-amalgam #the-labyrinth #npc
+---
+aliases: []
+tags: [brotherhood-of-the-amalgam, Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Lucius the Claw
+date modified: 2026-07-16, 8:06:09 pm
+---
+
 # Lucius the Claw
 
-### 
+###
 
 **Full Name:**  Lucius    the Claw  
 
@@ -203,13 +209,12 @@ Lucius, owner of [[landmark/the-dreamsellers|The Dreamseller's]], is a tall, cad
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/lucius-the-claw]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

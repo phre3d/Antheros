@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Marco
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Marco
 
-### 
+###
 
-**Full Name:** Father Marco      
+**Full Name:** Father Marco
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ The dark and mysterious eminence who holds absolute sway over [[organization/the
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marco]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

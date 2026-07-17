@@ -1,8 +1,12 @@
 ---
-location: [6518.044,  2551.02]
+aliases: []
+tags: [map-marker]
+location: [2551.02, 6518.044]
 mapmarker: Residence
+title: Savonna Family Residence
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Savonna Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/savonna-family-residence|Savonna Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

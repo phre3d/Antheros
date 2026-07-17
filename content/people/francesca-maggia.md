@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #maggia-family #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+title: Francesca Maggia
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Francesca Maggia
 
-### 
+###
 
-**Full Name:**  Francesca  Maggia    
+**Full Name:**  Francesca  Maggia
 
 `````col
 ````col-md
@@ -203,13 +209,10 @@ Recently deceased head of the [[organization/maggia-family|Maggia Family]]. She 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

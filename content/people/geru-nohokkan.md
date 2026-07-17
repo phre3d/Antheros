@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #south-caravan-street #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, south-caravan-street]
+title: Geru Nohokkan
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Geru Nohokkan
 
-### 
+###
 
-**Full Name:**  Geru  Nohokkan    
+**Full Name:**  Geru  Nohokkan
 
 `````col
 ````col-md
@@ -206,13 +212,12 @@ An orc-elf half-breed of less than ugly mien and disposition; tall but fairly sl
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/geru-nohokkan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

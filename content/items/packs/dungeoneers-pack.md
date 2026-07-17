@@ -1,6 +1,12 @@
-#item #container 
+---
+aliases: []
+tags: [container, item]
+title: "Dungeoneer's Pack"
+date modified: 2026-07-16, 9:18:59 pm
+---
 
 # Dungeoneer's Pack
+
 ````col
 ```col-md
 flexGrow=2.5

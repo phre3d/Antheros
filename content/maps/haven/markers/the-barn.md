@@ -1,8 +1,12 @@
 ---
-location: [1269.064,  2557.143]
+aliases: []
+tags: [map-marker]
+location: [1269.064, 2557.143]
 mapmarker: Shopping
+title: The Barn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Barn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-barn|The Barn]]<br>
 **Location Type:** Livery
 
-**Description**<br> 
-
+**Description**<br>

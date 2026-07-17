@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-residence #type-house #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-labyrinth, type-house]
+title: House of Jurgan Bland
+date modified: 2026-07-16, 9:18:54 pm
+---
+
 # House of Jurgan Bland
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Home of a Thieves' Guild lieutenant 
 
-## Description 
+# Description
+
+## Home of a Thieves' Guild lieutenant
+
+## Description
+
 Jurgan is one of the Sulemon Duur's chief lieutenants in the Thives' Guild.
 
-## NPC Encounters 
+## NPC Encounters
+
 Jurgan Bland
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Jurgan Bland
 
 **Image:** n/a
 
-**House (Residence)** 
+**House (Residence)**
 
  **Owner:**  Jurgan Bland
 
@@ -63,12 +74,13 @@ Jurgan Bland
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** House, Large
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -84,6 +96,7 @@ Jurgan Bland
 ---
 
 ### World Anvil Metadata
+
 **Id:** 4ae70d29-a889-487e-ba29-e53cd719c167<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -92,7 +105,9 @@ Jurgan Bland
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,4 +1,10 @@
-#import #plot  #The_City_Watch
+---
+aliases: []
+tags: [import, plot, plot/The_City_Watch]
+title: "TCW: The Quest"
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 # TCW: The Quest
 
 ````col
@@ -88,7 +94,6 @@ This session ends with the PCs back on the road again, approaching Port Perro, w
 ![[plots/the-city-watch/table-of-contents|Table of Contents]]
 ```
 ````
-
 
 ---
 

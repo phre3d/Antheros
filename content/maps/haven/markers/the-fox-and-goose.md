@@ -1,8 +1,12 @@
 ---
-location: [2068.044,  4006.122]
+aliases: []
+tags: [map-marker]
+location: [2068.044, 4006.122]
 mapmarker: Inns & Taverns
+title: The Fox and Goose
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Fox and Goose
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-fox-and-goose|The Fox and Goose]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

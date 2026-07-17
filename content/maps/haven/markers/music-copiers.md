@@ -1,8 +1,12 @@
 ---
-location: [2388.452,  2365.306]
+aliases: []
+tags: [map-marker]
+location: [2365.306, 2388.452]
 mapmarker: Shopping
+title: Music Copiers
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Music Copiers
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/music-copiers|Music Copiers]]<br>
 **Location Type:** Scribe
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Valyri Pipper
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Valyri Pipper
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +3 to hit , 1d8+0 piercing damage  
   **Shortbow:**  +3 to hit , 1d6+0 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

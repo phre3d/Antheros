@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #horse-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, horse-market, import, npc, person]
+title: Hughar Wolfskill
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Hughar Wolfskill
 
-### 
+###
 
-**Full Name:**  Hughar  Wolfskill    
+**Full Name:**  Hughar  Wolfskill
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ One of the few tieflings tolerated outside [[settlement/the-labyrinth|The Labyri
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/hughar-wolfskill]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: My Baby!
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # My Baby!
 
@@ -17,4 +22,3 @@ We followed the baby and came to a canyon trail. We followed switchbacksp to a h
 EDIT: We later learned that the woman was @UUID[JournalEntry. k7iu07Lqyyzbim74]{Claudia de la Riis}
 
 ---
-

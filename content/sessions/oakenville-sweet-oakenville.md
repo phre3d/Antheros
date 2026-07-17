@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -25,4 +30,3 @@ Masha givess some healing potions for our journey. Yuri joinss. They fell toward
 We decide to get some sleep and explore in the morning. We also requested a map to the clearing.
 
 ---
-

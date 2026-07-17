@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #angelinas-guild #the-black-hand #the-south-docks #npc
+---
+aliases: []
+tags: [angelinas-guild, Free_City_of_Haven, import, npc, person, the-black-hand, the-south-docks]
+title: Angelina
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Angelina
 
-### 
+###
 
 **Full Name:**  Angelina      Angel
 
@@ -212,13 +218,12 @@ Angelina is one of [[organization/the-black-hand|The Black Hand]]'s masters and 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/angelina]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,4 +1,10 @@
-#import #ethnicity#race
+---
+aliases: []
+tags: [import, race]
+title: Dwarven Race
+date modified: 2026-07-16, 9:38:19 pm
+---
+
 # Dwarven Race
 
 ````col
@@ -84,5 +90,7 @@ Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
 
 ```
 ````
+
 ---
+
 *Source:*  D&D Player's Handbook   <!-- Original Source of the item -->

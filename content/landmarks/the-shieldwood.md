@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #erinhir #cat-landmark #type-park #landmark 
+---
+aliases: []
+tags: [cat-landmark, erinhir, Free_City_of_Haven, import, landmark, type-park]
+title: The Shieldwood
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Shieldwood
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Riverbank wooded area 
 
-## Description 
+# Description
+
+## Riverbank wooded area
+
+## Description
+
 These woods form the northern boundry of [[settlements/erinhir|Erinhir]], along the south bank of the Dorian. They are lightly populated as most folk live south of The Horseshoe.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ These woods form the northern boundry of [[settlements/erinhir|Erinhir]], along 
 
 **Image:** n/a
 
-**Park (Landmark)** 
+**Park (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ These woods form the northern boundry of [[settlements/erinhir|Erinhir]], along 
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Park
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/erinhir|Erinhir]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ These woods form the northern boundry of [[settlements/erinhir|Erinhir]], along 
 ---
 
 ### World Anvil Metadata
+
 **Id:** deafde46-ba58-4ffa-99d1-24f8c5276152<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Erinhir<br>
@@ -90,7 +103,9 @@ These woods form the northern boundry of [[settlements/erinhir|Erinhir]], along 
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

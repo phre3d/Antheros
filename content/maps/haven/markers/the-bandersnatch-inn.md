@@ -1,8 +1,12 @@
 ---
-location: [4031.309,  1731.633]
+aliases: []
+tags: [map-marker]
+location: [1731.633, 4031.309]
 mapmarker: Inns & Taverns
+title: The Bandersnatch Inn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Bandersnatch Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-bandersnatch-inn|The Bandersnatch Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
-
+**Description**<br>

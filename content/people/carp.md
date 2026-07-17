@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Carp
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Carp
 
-### 
+###
 
-**Full Name:**  Carp  the Fishmonger    
+**Full Name:**  Carp  the Fishmonger
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A small, brown fellow, who hawks his odiferous wares in a surprisingly powerful 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/carp]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

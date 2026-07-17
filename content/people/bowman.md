@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Bowman
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Bowman
 
-### 
+###
 
-**Full Name:**  Bowman      
+**Full Name:**  Bowman
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Trick Shot
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/bowman]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

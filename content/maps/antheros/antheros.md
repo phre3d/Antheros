@@ -1,5 +1,12 @@
-#import #map
---- start-multi-column: MainBody
+---
+aliases: []
+tags: [import, map]
+title: Description
+date modified: 2026-07-16, 9:18:39 pm
+---
+
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 29%]
@@ -17,7 +24,6 @@ A map of the known world, centered on the [[settlements/free-city-of-haven]].
 
 # Legend
 
-
 --- end-column ---
 
 **Image Name:** Antheros.jpg<br>
@@ -30,11 +36,7 @@ A map of the known world, centered on the [[settlements/free-city-of-haven]].
 **Campaign(s):**
 
 **Markers:**
+
 - [[maps/antheros/haven]]
 
-
 --- end-multi-column
-
-
-
-

@@ -1,8 +1,12 @@
 ---
-location: [3225.187,  3626.531]
+aliases: []
+tags: [map-marker]
+location: [3225.187, 3626.531]
 mapmarker: Shopping
+title: "Hamilton's Hockshop"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hamilton's Hockshop
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/hamiltons-hockshop|Hamilton's Hockshop]]<br>
 **Location Type:** Pawnbroker
 
-**Description**<br> 
-
+**Description**<br>

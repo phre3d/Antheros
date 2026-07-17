@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Fagin Childstealer
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Fagin Childstealer
 
-### 
+###
 
-**Full Name:**  Fagin  Childstealer    
+**Full Name:**  Fagin  Childstealer
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Fagin, a wiry old half-elf with wild eyes, has set up a thriving business in chi
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fagin-childstealer]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

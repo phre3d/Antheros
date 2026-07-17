@@ -1,8 +1,12 @@
 ---
-location: [2360.901,  911.224]
+aliases: []
+tags: [map-marker]
+location: [2360.901, 911.224]
 mapmarker: Shopping
+title: The Auction Pens
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Auction Pens
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-auction-pens|The Auction Pens]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

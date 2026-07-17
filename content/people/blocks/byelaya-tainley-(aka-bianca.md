@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Byelaya Tainley (aka Bianca)
+date modified: 2026-07-16, 9:18:34 pm
+---
+
 # Byelaya Tainley (aka Bianca)
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +4 to hit , 1d4+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

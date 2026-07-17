@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Wilham Took
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Wilham Took
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger:**  +8 to hit , 1d4+4 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

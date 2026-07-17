@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person]
+title: Ron Heavymight
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Ron Heavymight
 
-### 
+###
 
-**Full Name:** Borough Commander Ron  Heavymight    
+**Full Name:** Borough Commander Ron  Heavymight
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ He is Borough Commander of [[settlement/the-labyrinth|The Labyrinth]] stationed 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/ron-heavymight]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

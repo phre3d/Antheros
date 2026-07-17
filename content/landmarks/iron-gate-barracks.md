@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-cauldron #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-cauldron, type-guard]
+title: Iron Gate Barracks
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Iron Gate Barracks
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Iron Gate Barracks is home to 40 guards, of which about 10 are on duty at any point in time. The Station Captain is Dorobur arn Fegli.
 
-## NPC Encounters 
+## NPC Encounters
+
 Drobur arn Fegli
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Drobur arn Fegli
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Drobur arn Fegli
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-cauldron|The Cauldron]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Drobur arn Fegli
 ---
 
 ### World Anvil Metadata
+
 **Id:** f2837d28-776e-4cfa-aa45-d5a3ea74fa9c<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Cauldron<br>
@@ -93,7 +107,9 @@ Drobur arn Fegli
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

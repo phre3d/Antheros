@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-street-of-harps #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+title: Odino
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Odino
 
-### 
+###
 
-**Full Name:**  Odino      
+**Full Name:**  Odino
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ A small, dark, wiry fellow, full of nervous energy. He teaches tumbling to stude
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/odino]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

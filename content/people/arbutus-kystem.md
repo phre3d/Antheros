@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Arbutus Kystem
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Arbutus Kystem
 
-### 
+###
 
-**Full Name:**  Arbutus  Kystem    
+**Full Name:**  Arbutus  Kystem
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Trailing Arbutus
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/arbutus-kystem]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [4489.472,  1000.]
+aliases: []
+tags: [map-marker]
+location: [1000., 4489.472]
 mapmarker: Shopping
+title: Tambel - Sculptress
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Tambel - Sculptress
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/tambel-sculptress|Tambel - Sculptress]]<br>
 **Location Type:** Artist
 
-**Description**<br> 
-
+**Description**<br>

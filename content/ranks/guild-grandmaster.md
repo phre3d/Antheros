@@ -1,14 +1,23 @@
-#import #rank
+---
+aliases: []
+tags: [import, rank]
+title: Guild Grandmaster
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Guild Grandmaster
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 In cases where multiple smaller guilds band together under a single umbrella, they elect a Grandmaster who leads the group as a whole.
 
 # Qualifications
@@ -20,6 +29,7 @@ In cases where multiple smaller guilds band together under a single umbrella, th
 # Creation
 
 # Source of Authority
+
 Elected by the Guild Masters within the smaller guilds
 
 # Duties
@@ -31,6 +41,7 @@ Elected by the Guild Masters within the smaller guilds
 # Accoutrements & Equipment
 
 # Removal or Dismissal
+
 By popular vote or violent overthrow, depending upon the guild.
 
 # History
@@ -41,7 +52,7 @@ By popular vote or violent overthrow, depending upon the guild.
 
 --- end-column ---
 
-**Type:** 
+**Type:**
 
 **Status:**
 
@@ -49,9 +60,6 @@ By popular vote or violent overthrow, depending upon the guild.
 
 **Length of Term:** Until the Guild Masters demand a change
 
-
-
---- end-multi-column 
+--- end-multi-column
 
 ---
-

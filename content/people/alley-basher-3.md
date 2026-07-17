@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Alley Basher 3
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Alley Basher 3
 
-### 
+###
 
-**Full Name:**  Alley Basher  Three    
+**Full Name:**  Alley Basher  Three
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Beckoner
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/alley-basher-3]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

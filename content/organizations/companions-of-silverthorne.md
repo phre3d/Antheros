@@ -1,29 +1,40 @@
-#import #organization   #Free_City_of_Haven #type-secret-brotherhood
+---
+aliases: []
+tags: [Free_City_of_Haven, import, organization, type-secret-brotherhood]
+title: Companions of Silverthorne
+date modified: 2026-07-16, 9:18:37 pm
+---
+
 # Companions of Silverthorne
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
+
 [[people/silverthorne|Silverthorne]], aka Prince Celebdil, has a small band of loyal followers, who have sworn to defend him and his interests, and to help him regain his throne.
 
 ---
 
 # Common Information
+
 ## Basics
+
 **Type:** Secret, Brotherhood<br>
 **Alternate Names:** <br>
 **Motto/Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -36,13 +47,14 @@ shadow: off
 **Related Species**
 
 ## Leadership
+
 **Leader:** [[person/mistwood|Slogan**: <br>
 **Demonym:** <br>
 **Parent Organization:** <br>
 **Founding Date:** <br>
-**Dissolution Date:** 
+**Dissolution Date:**
 
-**Founders** 
+**Founders**
 
 **Predecessor Organizations**
 
@@ -55,10 +67,11 @@ shadow: off
 **Related Species**
 
 ## Leadership
+
 **Leader:** [[people/Mistwood]]<br>
 **Leader Title:** <br>
 **Ruling Organization:** <br>
-**Family Leader:** 
+**Family Leader:**
 
 ## Structure
 
@@ -82,7 +95,7 @@ shadow: off
 **Head of State:** <br>
 **Head of Government:** <br>
 **Economic System:** <br>
-**Official State Religion:** 
+**Official State Religion:**
 
 **Neighboring Geopolitical Organizations**
 
@@ -194,15 +207,16 @@ shadow: off
 
 **Formation Type:**  
 
-**Training Level:** 
+**Training Level:**
 
-**Veterancy:** 
+**Veterancy:**
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 ### World Anvil Metadata
+
 **Id:** f7474c59-37eb-43bd-b1fc-d47dd38da65e<br>
 **Entity Type:** Article / organization<br>
 **Category:** Other Organizations<br>
@@ -211,7 +225,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

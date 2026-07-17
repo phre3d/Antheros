@@ -1,8 +1,12 @@
 ---
-location: [3035.391,  4201.02]
+aliases: []
+tags: [map-marker]
+location: [3035.391, 4201.02]
 mapmarker: Inns & Taverns
+title: Iron Phalanx
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Iron Phalanx
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/iron-phalanx|Iron Phalanx]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

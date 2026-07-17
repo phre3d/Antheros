@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #rand-family #npc #the-glens
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, rand-family, the-glens]
+title: Karistu Rand
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Karistu Rand
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -198,13 +204,10 @@ Deceased father of Kruegger, Sberri and Zalle
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

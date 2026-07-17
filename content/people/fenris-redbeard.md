@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, redbeards-repertory-players, the-south-corridor]
+title: Fenris Redbeard
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Fenris Redbeard
 
-### 
+###
 
-**Full Name:**  Fenris  Redbeard    
+**Full Name:**  Fenris  Redbeard
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A tall, burly man with thick red hair and beard. An experienced showman, he has 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/fenris-redbeard]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

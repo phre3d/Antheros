@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #the-city-watch
+---
+aliases: []
+tags: [import, monster, statblock, the-city-watch]
+title: Actions
+date modified: 2026-07-16, 9:18:13 pm
+---
 
 ````col
 ```col-md
@@ -38,7 +43,9 @@ Small beast unaligned
 ![[~attachments/dndline.png]]
 
 # Actions
-**Bite** 
-  *Melee Attack:*  +4 to hit , reach 5 ft ., one creature.
-    *Hit:*   or 4 piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take  or 10 poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
+**Bite**
+
+  *Melee Attack:*  +4 to hit , reach 5 ft ., one creature.
+
+    *Hit:*   or 4 piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take  or 10 poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.

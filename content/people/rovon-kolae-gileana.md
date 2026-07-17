@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Rovon Kolae-Gileana
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Rovon Kolae-Gileana
 
-### 
+###
 
-**Full Name:**  Rovon  Kolae-Gileana    
+**Full Name:**  Rovon  Kolae-Gileana
 
 `````col
 ````col-md
@@ -200,13 +206,12 @@ Rovon, who hasn't earned his nickname yet, assists his mother at her market stal
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/rovon-kolae-gileana]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

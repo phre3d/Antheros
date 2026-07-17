@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #redbeards-repertory-players #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, redbeards-repertory-players, the-south-corridor]
+title: Clairone
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Clairone
 
-### 
+###
 
-**Full Name:**  Clairone      
+**Full Name:**  Clairone
 
 `````col
 ````col-md
@@ -205,13 +211,12 @@ A beautiful girl of 18, with wide, violet eyes, fair skin, and waist-length hair
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/clairone]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

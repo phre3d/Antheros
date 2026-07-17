@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-shop #type-confectioner #guild-of-provenders #confectioner
+---
+aliases: []
+tags: [cat-shop, confectioner, Free_City_of_Haven, guild/provenders, import, landmark, street-of-silk-veils, type-confectioner]
+title: "Karki's Sweets and Flowers"
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Karki's Sweets and Flowers
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Gifts for your Ms./Mr. Right …or Right Now 
 
-## Description 
+# Description
+
+## Gifts for your Ms./Mr. Right …or Right Now
+
+## Description
+
 Karki does a great business - people stop in beofre visiting their sweetheat and again on the way home to their spouse / partner.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Karki does a great business - people stop in beofre visiting their sweetheat and
 
 **Image:** n/a
 
-**Confectioner (Shopping)** 
+**Confectioner (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Karki does a great business - people stop in beofre visiting their sweetheat and
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Karki does a great business - people stop in beofre visiting their sweetheat and
 ---
 
 ### World Anvil Metadata
+
 **Id:** 1ea55125-5c39-47f9-bd55-c7cbf098b970<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ Karki does a great business - people stop in beofre visiting their sweetheat and
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

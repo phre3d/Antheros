@@ -1,4 +1,10 @@
-#import #plot  #Sins_of_the_Past
+---
+aliases: []
+tags: [import, plot, plot/Sins_of_the_Past]
+title: Resolution
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Resolution
 
 ````col
@@ -33,7 +39,6 @@ At the end of Part III, characters should reach 4th level. They should also rece
 
 ```
 ````
-
 
 ---
 

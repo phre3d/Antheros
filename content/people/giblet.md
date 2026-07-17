@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #erinhir #npc
+---
+aliases: []
+tags: [erinhir, Free_City_of_Haven, import, npc, person]
+title: Giblet
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Giblet
 
-### 
+###
 
-**Full Name:**  Giblet      
+**Full Name:**  Giblet
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Giblet is a counter clerk at the [[landmark/professors-challenge|Professor's Cha
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/giblet]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

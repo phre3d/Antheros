@@ -1,14 +1,22 @@
-#import #species #Free_City_of_Haven 
+---
+aliases: []
+tags: [Free_City_of_Haven, import, species]
+title: About Horses
+date modified: 2026-07-16, 9:18:07 pm
+---
+
 # About Horses
 
-Horses come in a number of different breeds for different purposes and a myriad of patterns and colors. 
+Horses come in a number of different breeds for different purposes and a myriad of patterns and colors.
+
 They are rated against six attributes: SPeeD, STRength, STaMina, AGiLity, INTelligence, and TeMPerament. The physical requisites (SPD, STR, CON, AGL) depend on overall size, and vary in the number of dice rolled.
+
 - SPD governs the horse's ability to (flat-out) run
-- STR handles load carrying 
+- STR handles load carrying
 - CON controls endurance and healing
 - AGL covers jumping and fighting ability
 
-The base rolls for these requisites are given in the overall size descriptions in the following table; they also depend on the quality of the animal involved, and adjustments should be made according to whatever level of quality is determined. 
+The base rolls for these requisites are given in the overall size descriptions in the following table; they also depend on the quality of the animal involved, and adjustments should be made according to whatever level of quality is determined.
 
 | <br>Name | <br>Size | <br>Description | Value<br>Multiplier | <br>SPD | <br>STR | <br>AGL | <br>CON | <br>INT | <br>TMP|
 |----------|----------|-----------------|:-------------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:------:|
@@ -18,9 +26,9 @@ The base rolls for these requisites are given in the overall size descriptions i
 | Light | 12-16 hands, ca. 1,100 lbs. | Donkey, Burro, Barb, Hackney and Mustang (riding animals primarily; draft work uses pack harnesses, or team efforts for any larger wheeled vehicles - single animal vehicles are quite small) | x 1.3 | 6d6 | STR;5d6| 4d6 | 4d6 | 3d6 |4d6 |
 | Small |  9-14 hands, ca. 850 lbs. | Shetland pony, Welsh pony, Dales pony and Highland Pony (riding animals for smaller people and races; draft work is generally small vehicles or light packs) | x 1.0 | 4d6 | 4d6 | 4d6 | 4d6 | 3d6 | 4d6 |
 
-The "hand" is the standard unit of measure for horses; it equals 4" (1" for each knuckle). A horse's height is measured on the fore shoulder, at the end of the neck (the withers). 
+The "hand" is the standard unit of measure for horses; it equals 4" (1" for each knuckle). A horse's height is measured on the fore shoulder, at the end of the neck (the withers).
 
-Values for horses usually depend on the use to which they will be put. A good draft animal will average 75-100gp, a riding horse 50-80gp, and a decent war horse 350-500gp. These bases are modified by the following multipliers given for breed and quality. 
+Values for horses usually depend on the use to which they will be put. A good draft animal will average 75-100gp, a riding horse 50-80gp, and a decent war horse 350-500gp. These bases are modified by the following multipliers given for breed and quality.
 
 | d100 | Quality | Value | Adjustments |
 |:-----:|---------|:-----:|-------------|
@@ -33,10 +41,11 @@ Values for horses usually depend on the use to which they will be put. A good dr
 | 98-00 | Cull | x .2 | SPD - 2d5, AGL - 1d8, CON - 2d5 |
 
 The other two attributes (INT, TMP) are mental requisites, and are relatively constant in number of dice rolled for original generation.
+
 - INT governs the horse's ability to learn and indicates how it will respond to training
 - TMP measures the horse's reaction to people and other animals, the lower the number the meaner the horse (4 to 7 would be a real killer type, eminently suitable for a warhorse)
 
-Some breeds tend to be slightly more docile, or more high-strung, than others, and receive an adjustment to TMP. 
+Some breeds tend to be slightly more docile, or more high-strung, than others, and receive an adjustment to TMP.
 
 | <br>Description | TMP<br>Adj. | <br>Example Breeds |
 |-----------------|:-----------:|--------------------|
@@ -45,11 +54,11 @@ Some breeds tend to be slightly more docile, or more high-strung, than others, a
 | Stubborn | -1d3 | Mule, Mustang, Percheron |
 | High-strung | -1d6 | Thoroughbred, Arabian |
 
+## Equine Coloration
 
-## Equine Coloration 
 The color ranges for horses are as broad as the hair color ranges of humanity, with mixtures tossed in. Horses are either solid colors, slightly marked about the face and/or legs, lightly splotched with white (roans), or very thickly splotched with white (piebald, skewbald). Markings are small patches of white confined to the face and legs. These are usually remarked only on horses of otherwise solid color, but may occasionally occur on roans and balds. There are some special terms used for particular color combinations noted in the colors chart below. When rolling for areas on the well-marked horses, ignore further results of "roll multiple".
 
- **Roll for markings d100** 
+ **Roll for markings d100**
 
 | d100 | Markings |
 |:----:|----------|
@@ -62,7 +71,7 @@ The color ranges for horses are as broad as the hair color ranges of humanity, w
 | 81-97 | Horse is thickly splotched with white, roll d100<br>01-06: neck<br>07-12: chest<br>13-20: withers<br>21-30: back<br>31-38: flanks<br>39-46: hindquarters<br>47-50: legs<br>51-76: roll twice (reroll 51+)<br>77-93: roll three times (reroll 51+)<br>94-00: roll four times (reroll 51+) |
 | 98-00 | And also marked on face and/or feet. |
 
- **Roll for colouring d100** 
+ **Roll for colouring d100**
 
 | Solid | Marks | Roans | Balds | Color |
 |:-----:|:-----:|:-----:|:-----:|-------|
@@ -87,10 +96,8 @@ The color ranges for horses are as broad as the hair color ranges of humanity, w
  <sup>c</sup> as "strawberry roan" <br>
  <sup>d</sup> called "pinto"
 
-
-
 >[!infobox]
->**Image:** 
+>**Image:**
 >
 >**Is Sentient:** No<br>
 >**Is Intelligent:** No<br>
@@ -101,18 +108,18 @@ The color ranges for horses are as broad as the hair color ranges of humanity, w
 >
 >**Origin/Ancestry:** <br>
 >**Lifespan:** <br>
->**Conservation Status:** 
+>**Conservation Status:**
 >
 >**Sizing**<br>
 >*Height:* <br>
 >*Weight:* <br>
 >*Length:* <br>
->*Physique:* 
->
+>*Physique:*
 
 ![[~attachments/dndline2.png]]
 
 --- start-multi-column: PreviousNext
+
 ```column-settings 
 number of columns: 2 
 column size: [50%, 49%]

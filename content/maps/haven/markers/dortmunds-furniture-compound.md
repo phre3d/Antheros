@@ -1,8 +1,12 @@
 ---
-location: [2389.472,  3500.]
+aliases: []
+tags: [map-marker]
+location: [2389.472, 3500.]
 mapmarker: Shopping
+title: "Dortmund's Furniture Compound"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Dortmund's Furniture Compound
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/dortmunds-furniture-compound|Dortmund's Furniture Compound]]<br>
 **Location Type:** Carpenter
 
-**Description**<br> 
-
+**Description**<br>

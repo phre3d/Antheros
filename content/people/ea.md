@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Ea
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Ea
 
-### 
+###
 
-**Full Name:** Goddess of the Air, Patron of Travellers       
+**Full Name:** Goddess of the Air, Patron of Travellers
 
 `````col
 ````col-md
@@ -210,13 +216,10 @@ Her holy symbol is a compass rose, with a blank circle in the middle. It is cust
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 1c8a7687-5623-48f0-b9bd-23725a2c8e34

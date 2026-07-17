@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #south-caravan-street #cat-transportation #type-stagecoach #guild-of-drayers #transportation
+---
+aliases: []
+tags: [cat-transportation, Free_City_of_Haven, guild/drayers, import, landmark, south-caravan-street, transportation, type-stagecoach]
+title: Stage Depot - Fargot & Weishe
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Stage Depot - Fargot & Weishe
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Stagecoach (Service)** 
+**Stagecoach (Service)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Transportation station
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/south-caravan-street|South Caravan Street]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** caa17d0c-5e81-4f84-a505-be31fcde5b57<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: South Caravan Street<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

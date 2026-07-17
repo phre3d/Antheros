@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: BlackHeart North
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # BlackHeart North
 
-### 
+###
 
-**Full Name:**  BlackHeart  North    
+**Full Name:**  BlackHeart  North
 
 `````col
 ````col-md
@@ -198,13 +204,12 @@ Refer to scenario [[plots/the-missing-heir|The Missing Heir]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/blackheart-north]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

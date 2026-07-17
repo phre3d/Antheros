@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-stevedores #guild-of-drayers #stevedores
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, stevedores, the-south-docks, type-stevedores]
+title: "Longshoreman's Inc."
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Longshoreman's Inc.
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Workers for the docks 
 
-## Description 
+# Description
+
+## Workers for the docks
+
+## Description
+
 Alfonso pretty much has a monopoly on the South Docks for loading and unloading cargo. Anyone wanting to work the dock must go through this firm. The only exceptions are for ship captains who are willing to go through the trouble to obtain their own stevedore services.
 
-## NPC Encounters 
+## NPC Encounters
+
 Alfonso Caradallo
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Alfonso Caradallo
 
 **Image:** n/a
 
-**Stevedores (Service)** 
+**Stevedores (Service)**
 
  **Owner:**  Alfonso Caradallo
 
@@ -63,12 +74,14 @@ Alfonso Caradallo
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Alfonso Caradallo
 ---
 
 ### World Anvil Metadata
+
 **Id:** 1b6e1dfe-22cb-4c61-b918-6255f996a29d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -93,7 +107,9 @@ Alfonso Caradallo
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

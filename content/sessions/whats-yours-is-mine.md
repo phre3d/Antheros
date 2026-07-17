@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -46,7 +51,7 @@ There is the remains of a cage and whatever was inside the cage has burst out. T
 
 <imgsrc = "images/Oakridge/Items/Diary.png">
 
-I met someone hidden in shadows in the Farwater Inn in the middle of town. Was offered 50 gold pieces plus ten percent. The person was /u...
+I met someone hidden in shadows in the Farwater Inn in the middle of town. Was offered 50 gold pieces plus ten percent. The person was /u…
 
 One entry looks like one of the critters we killed called a mine demon and its young look like the smaller ones.
 
@@ -81,4 +86,3 @@ And we find another one of the clockwork monsters. It swings and hits Penelope. 
 We keep finding crystals and get to another monster. This one seems harder to take down, either that or the luck has not been as with us.  We kill it and take a short rest in Eugene's hut.
 
 ---
-

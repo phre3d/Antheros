@@ -1,8 +1,12 @@
 ---
-location: [1760.901,  1845.918]
+aliases: []
+tags: [map-marker]
+location: [1760.901, 1845.918]
 mapmarker: Shopping
+title: Holsum - Greengrocer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Holsum - Greengrocer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/holsum-greengrocer|Holsum - Greengrocer]]<br>
 **Location Type:** Greengrocer
 
-**Description**<br> 
-
+**Description**<br>

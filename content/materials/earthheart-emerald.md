@@ -1,4 +1,10 @@
-#import #material 
+---
+aliases: []
+tags: [import, material]
+title: Earthheart Emerald
+date modified: 2026-07-16, 9:18:38 pm
+---
+
 # Earthheart Emerald
 
 ````col
@@ -103,7 +109,9 @@ Must be kept carefully packed to avoid physical damage potentially leading to an
 ````
 
 <!-- Footer for Previous/Next Page -->
+
 ---
+
 ````col
 ```col-md
 

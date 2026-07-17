@@ -1,8 +1,12 @@
 ---
-location: [6430.289,  4117.347]
+aliases: []
+tags: [map-marker]
+location: [4117.347, 6430.289]
 mapmarker: Shopping
+title: House of Hanki
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Hanki
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/house-of-hanki|House of Hanki]]<br>
 **Location Type:** General Clothing
 
-**Description**<br> 
-
+**Description**<br>

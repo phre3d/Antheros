@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -31,4 +36,3 @@ The captain of the ship closed the hatch ons, and wantss to leave. We search the
 As we leave, @UUID[JournalEntry. 4pk1PyuDgUzhhqwZ]{Lucille Rilossa} (Our guard friend from the other day) runsp and then agrees to go get help. We see the captain on the deck jump off the far side. With nothing left to do, we return to the Giggling Griffon to fill in Captain Lyza.
 
 ---
-

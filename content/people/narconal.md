@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #deity
+---
+aliases: []
+tags: [deity, Free_City_of_Haven, import, person]
+title: Narconal
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Narconal
 
-### 
+###
 
-**Full Name:** God of the Earth and Agriculture       
+**Full Name:** God of the Earth and Agriculture
 
 `````col
 ````col-md
@@ -223,13 +229,10 @@ Worshipers are expected to respect the land, and give thanks for its gifts. The 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 Previous: 28133af1-7b3b-49df-a147-3e17f2da3daf

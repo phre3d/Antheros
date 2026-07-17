@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Marjo
+date modified: 2026-07-16, 9:18:23 pm
+---
+
 # Marjo
 
-### 
+###
 
-**Full Name:**  Marjo      
+**Full Name:**  Marjo
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Marjo was hired by [[person/bardol-murchisson|Bardol Murchisson]] to manage the 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/marjo]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-artisan #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/artisan, import, npc, person, the-dwarrow]
+title: Browin Treebeard
+date modified: 2026-07-16, 9:18:28 pm
+---
+
 # Browin Treebeard
 
-### 
+###
 
-**Full Name:**  Browin  Treebeard    
+**Full Name:**  Browin  Treebeard
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Browin has the physical appearance of a dwarf but is actually an alien being fro
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/browin-treebeard]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #trade-island #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, trade-island]
+title: Miranda
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Miranda
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ A lovely woman with honey-colored hair and haze, eyes, with the easy grace of a 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/miranda]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,8 +1,12 @@
 ---
-location: [3489.472,  3500.]
+aliases: []
+tags: [map-marker]
+location: [3489.472, 3500.]
 mapmarker: Shopping
+title: Belossan - Locksmith
+date modified: 2026-07-16, 9:18:42 pm
 ---
-#map-marker 
+
 # Belossan - Locksmith
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/belossan-locksmith|Belossan - Locksmith]]<br>
 **Location Type:** Locksmith
 
-**Description**<br> 
-
+**Description**<br>

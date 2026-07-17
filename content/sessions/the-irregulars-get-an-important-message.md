@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -10,7 +15,7 @@
 
 Martin asks the Sergeant if he has a couple guards who are particularly bad gossips, and if so could they be on the crew that helps cleanp the basement. And it would be a shame &lt; wink &gt; if they spread rumors about how Adrelle isn't so awesome and is running a slavery ring from her basement. Time to take her reputation down a peg.
 
-The next morning...
+The next morning…
 
 Turin and Martin wake up and go to Summ Plaza. Martin casts Locate Object to find the stone he had given Torik. It is a dense wood, but moderately passable. Given that the Elves who live in the woods don't like non-elves, Turin goes in alone and Martin waits.
 
@@ -24,7 +29,7 @@ We walk towards the Heights with Arada following at a distance to see if we are 
 
 As we get to North Caravan Street, we hear a couple horses steam as if startled and charge towardss. Turin and Penelope go to help a mother and their child. Turin picks the childp. Penelope grabs the mom who is frozen in panic. Penelope drags her to the side. Eugene sleeps one of the horses and physics starts to happen. The left horse falls causing the second horse to stumble. The wagon lurches and rolls, spilling several barrels, one of which lands on Martin.
 
-Martin getsp and tries to calm the horse down. Penelope and Turin reunite mom and child, and Eugene sleeps the other horse. Martin heals the most dangerous of its injuries. We start cleaning stuffp, curious why nobody has come to claim the wagon. On the side are the faded words"C. . . ransport Company". Sadly there is no bill of lading. Turin realizes one of the barrels"broke open" and seems to be flour.
+Martin getsp and tries to calm the horse down. Penelope and Turin reunite mom and child, and Eugene sleeps the other horse. Martin heals the most dangerous of its injuries. We start cleaning stuffp, curious why nobody has come to claim the wagon. On the side are the faded words"C… ransport Company". Sadly there is no bill of lading. Turin realizes one of the barrels"broke open" and seems to be flour.
 
 Turin tries to track it back to Stone Bridge. He sees where they got startled, but there is nothing there now. We take it to Mint Station. Eugene puts in a secondary claim that if nobody showsp to take it, we want it.
 
@@ -59,4 +64,3 @@ The Grey Halls is an old fortress that has been converted into a prison. There i
 While we wait, we level up.
 
 ---
-

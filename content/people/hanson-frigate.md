@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Hanson Frigate
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Hanson Frigate
 
-### 
+###
 
-**Full Name:**  Hanson  Frigate    
+**Full Name:**  Hanson  Frigate
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Chief foreman at [[person/nimrodel|Nimrodel]]'s Shipyard
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/hanson-frigate]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

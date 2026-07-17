@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-silk-veils #cat-entertainment #type-brothel #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-brothel]
+title: Ambrosia
+date modified: 2026-07-16, 9:18:58 pm
+---
+
 # Ambrosia
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A high class house for people with excellent taste 
 
-## Description 
+# Description
+
+## A high class house for people with excellent taste
+
+## Description
+
 A high class house for people with excellent taste
 
 # Purpose / Function
@@ -48,7 +58,7 @@ A high class house for people with excellent taste
 
 **Image:** n/a
 
-**Brothel (Entertainment)** 
+**Brothel (Entertainment)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ A high class house for people with excellent taste
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Brothel / Whorehouse
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A high class house for people with excellent taste
 ---
 
 ### World Anvil Metadata
+
 **Id:** 2ea58265-942c-40e3-bdfa-0b73ab59fcac<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Silk Veils<br>
@@ -90,7 +103,9 @@ A high class house for people with excellent taste
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

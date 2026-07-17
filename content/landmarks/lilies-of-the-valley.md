@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-labyrinth #cat-entertainment #type-brothel #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, the-labyrinth, type-brothel]
+title: Lilies of the Valley
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Lilies of the Valley
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A cheap bordello 
 
-## Description 
+# Description
+
+## A cheap bordello
+
+## Description
+
 Asking for one of several girls will allow entrance to the warehouse complex behind the house.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Asking for one of several girls will allow entrance to the warehouse complex beh
 
 **Image:** n/a
 
-**Brothel (Entertainment)** 
+**Brothel (Entertainment)**
 
  **Owner:**  
 
@@ -60,12 +70,13 @@ Asking for one of several girls will allow entrance to the warehouse complex beh
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Brothel / Whorehouse
 
-**Parent Location:** 
+**Parent Location:**
 
 **Connected Rooms:**
 
@@ -81,6 +92,7 @@ Asking for one of several girls will allow entrance to the warehouse complex beh
 ---
 
 ### World Anvil Metadata
+
 **Id:** 66d73929-c12b-4c77-81b4-96670c8bc06d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Labyrinth<br>
@@ -89,7 +101,9 @@ Asking for one of several girls will allow entrance to the warehouse complex beh
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

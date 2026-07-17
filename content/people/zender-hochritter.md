@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #hochritter-family #young-stallions #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, hochritter-family, import, npc, person, the-heights, young-stallions]
+title: Zender Hochritter
+date modified: 2026-07-16, 9:18:18 pm
+---
+
 # Zender Hochritter
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -213,13 +219,12 @@ A tall, thin man with a pale complexion and a scraggly black goatee, Zender too 
 
 ---
 
-
-
 ![[people/blocks/zender-hochritter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

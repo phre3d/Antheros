@@ -1,4 +1,9 @@
-#import #statblock #monster #monster #Dark_Nuns_Church
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:16 pm
+---
 
 ````col
 ```col-md
@@ -39,52 +44,24 @@ Tiny Beast Unaligned
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-**Keen Smell.**  The rat has an advantage on Wisdom (Perception) checks that rely on smell.
 
+**Keen Smell.**  The rat has an advantage on Wisdom (Perception) checks that rely on smell.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Bite. 
+
+### Bite.
+
   **Melee Weapon Attack:**  +0 to hit , reach 5 ft., one target.
+
   **Hit:**  1 piercing damage.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 The blind rats have had their eyes burned from their skull. They are feral and will attack anyone. Roll  to determine the number of rats that attack.
-
-
-
-
-
-
-

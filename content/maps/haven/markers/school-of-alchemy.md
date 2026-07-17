@@ -1,8 +1,12 @@
 ---
-location: [3374.166,  1892.857]
+aliases: []
+tags: [map-marker]
+location: [1892.857, 3374.166]
 mapmarker: Education
+title: School of Alchemy
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # School of Alchemy
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Education
 **Location:** [[landmarks/school-of-alchemy|School of Alchemy]]<br>
 **Location Type:** University
 
-**Description**<br> 
+**Description**<br>
+
 Part of the University of Haven

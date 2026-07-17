@@ -1,8 +1,12 @@
 ---
-location: [1797.636,  2086.735]
+aliases: []
+tags: [map-marker]
+location: [1797.636, 2086.735]
 mapmarker: Entertainment
+title: The Cock and Bull
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Cock and Bull
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/the-cock-and-bull|The Cock and Bull]]<br>
 **Location Type:** Gaming
 
-**Description**<br> 
-
+**Description**<br>

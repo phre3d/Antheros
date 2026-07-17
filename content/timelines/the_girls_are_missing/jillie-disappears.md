@@ -1,13 +1,18 @@
 ---
+aliases: []
+tags: [history, import]
 aat-render-enabled: true 
 timelines: [The-Girls-Are-Missing]
 aat-event-start-date: 1172/8/11 12:00
 aat-event-title: "Jillie Disappears"
 aat-event-body: "Jillie disappears sometime between leaving work at noon, and 8pm when she was supposed to meet [[person/martin|Martin]]. Reason is not sinister - her mom is sick and she's helping look after her."
 # aat-event-picture: 
+title: Jillie Disappears
+date modified: 2026-07-16, 9:18:07 pm
 ---
-#import #history 
+
 # Jillie Disappears
+
 ````col
 ```col-md
 flexGrow=2.5
@@ -54,7 +59,3 @@ her.
 
 ```
 ````
-
-
-
-

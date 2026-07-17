@@ -1,4 +1,9 @@
-#toc #Sins_of_the_Past 
+---
+aliases: []
+tags: [plot/Sins_of_the_Past, toc]
+title: table-of-contents
+date modified: 2026-07-16, 9:18:11 pm
+---
 
 **[[plots/sins-of-the-past/sins-of-the-past|Sins of the Past]]**   OR   **[[plots/sins-of-the-past/bridge-intro|Bridge Intro]]** <br>
 **[[plots/sins-of-the-past/city-of-the-dead|City of the Dead]]**<br>
@@ -11,5 +16,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- B. [[plots/sins-of-the-past/monster-stats|Monster Stats]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- C. [[plots/sins-of-the-past/npcs|NPCs]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- D. [[plots/sins-of-the-past/supernatual-regions|Supernatual Regions]]
- 
+
 ---

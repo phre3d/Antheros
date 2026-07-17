@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-footwear #guild-of-the-loom #footwear
+---
+aliases: []
+tags: [cat-shop, footwear, Free_City_of_Haven, guild/loom, import, landmark, the-south-docks, type-footwear]
+title: Malin Kenny - Cobbler
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Malin Kenny - Cobbler
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Footwear (Shopping)** 
+**Footwear (Shopping)**
 
  **Owner:**  
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Cobbler
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** f70f4361-0be8-4bef-8341-8b9509faeaa7<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

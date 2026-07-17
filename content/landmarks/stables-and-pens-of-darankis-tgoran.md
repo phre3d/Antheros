@@ -1,13 +1,21 @@
-#import #landmark   #Free_City_of_Haven #the-horse-market #cat-shop #type-livestock #guild-of-the-beast #livestock
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livestock, the-horse-market, type-livestock]
+title: "Stables and Pens of Darankis t'Goran"
+date modified: 2026-07-16, 9:18:48 pm
+---
+
 # Stables and Pens of Darankis t'Goran
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 # Purpose / Function
@@ -44,7 +52,7 @@ shadow: off
 
 **Image:** n/a
 
-**Livestock (Shopping)** 
+**Livestock (Shopping)**
 
  **Owner:**  Darankis t'Goran
 
@@ -56,12 +64,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/horse-market|Horse Market]]
 
 **Connected Rooms:**
@@ -78,6 +88,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** d42c4368-ee85-4f2f-af72-9c7c7007a8e0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Horse Market<br>
@@ -86,7 +97,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

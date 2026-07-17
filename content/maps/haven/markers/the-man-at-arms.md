@@ -1,8 +1,12 @@
 ---
-location: [5342.534,  6191.837]
+aliases: []
+tags: [map-marker]
+location: [5342.534, 6191.837]
 mapmarker: Inns & Taverns
+title: The Man-at-Arms
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Man-at-Arms
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-man-at-arms|The Man-at-Arms]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

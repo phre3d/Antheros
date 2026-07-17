@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-landmark #type-park #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-south-corridor, type-park]
+title: Circus Park
+date modified: 2026-07-16, 9:18:57 pm
+---
+
 # Circus Park
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Does it have three rings? 
 
-## Description 
+# Description
+
+## Does it have three rings?
+
+## Description
+
 To the east of the Street of Harps, is Circus Park. It takes up the entire large block, is enclosed by a high stone wall, and serves as an off-season rest and rehearsal spot for many circus and carnival style performers between tours.
 
-## Exterior 
+## Exterior
+
 A high stone wall completely encloses this complex of long barns, caravan wagons, tents and sawdust tracks. The Park is a training ground for acrobats, jugglers, animal trainers, and other "carney" sorts of entertainment. Animals stabled here include horses, camels, elephants, great cats, and several even more exotic beasts.  
 
  The "carneys" do not feel a part of the Entertainer's Guild, although they are required to be members of it. They feel that the bards look down on them as 'peasant entertainment'. And, because they are more transitory take little part in running the Guild. The circus folk resent the rule bards, but do little about it.  
@@ -55,7 +66,7 @@ A high stone wall completely encloses this complex of long barns, caravan wagons
 
 **Image:** n/a
 
-**Park (Landmark)** 
+**Park (Landmark)**
 
  **Owner:**  
 
@@ -67,12 +78,14 @@ A high stone wall completely encloses this complex of long barns, caravan wagons
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Park
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -89,6 +102,7 @@ A high stone wall completely encloses this complex of long barns, caravan wagons
 ---
 
 ### World Anvil Metadata
+
 **Id:** 9b3f3e48-d7d7-4cc0-82b3-de141c42956d<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -97,7 +111,9 @@ A high stone wall completely encloses this complex of long barns, caravan wagons
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

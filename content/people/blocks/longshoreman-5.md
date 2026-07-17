@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Longshoreman 5
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Longshoreman 5
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Unarmed strike:**  +4 to hit , 1d1+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Swaggering Mercenary 4
+date modified: 2026-07-16, 9:18:29 pm
+---
+
 # Swaggering Mercenary 4
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Rapier:**  +5 to hit , 1d8+2 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

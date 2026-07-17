@@ -1,15 +1,25 @@
-#import #landmark   #Free_City_of_Haven #the-heights #cat-residence #type-mansion #residence
+---
+aliases: []
+tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-heights, type-mansion]
+title: Varrasch Family Residence
+date modified: 2026-07-16, 9:18:43 pm
+---
+
 # Varrasch Family Residence
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## NPC Encounters 
+
+## NPC Encounters
+
 [[people/branden-varrasch|Branden Varrasch]] | [[people/valken-varrasch|Valken Varrasch]] | [[people/er-keng-varrasch|er-Keng Varrasch]] | [[people/heidel-varrasch|Heidel Varrasch]] | [[people/kronen-varrasch|Kronen Varrasch]] | [[people/branden-varrasch|Branden Varrasch]]
 
 # Purpose / Function
@@ -46,7 +56,7 @@ shadow: off
 
 **Image:** n/a
 
-**Mansion (Residence)** 
+**Mansion (Residence)**
 
  **Owner:**  
 
@@ -58,12 +68,14 @@ shadow: off
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Mansion / Villa
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-heights|The Heights]]
 
 **Connected Rooms:**
@@ -80,6 +92,7 @@ shadow: off
 ---
 
 ### World Anvil Metadata
+
 **Id:** 088c7ea5-cbca-4cb0-b3f8-cad8ebeb6f0f<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Heights<br>
@@ -88,7 +101,9 @@ shadow: off
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

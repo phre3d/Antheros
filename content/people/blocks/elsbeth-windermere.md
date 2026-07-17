@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Elsbeth Windermere
+date modified: 2026-07-16, 9:18:32 pm
+---
+
 # Elsbeth Windermere
 
 ````col
@@ -37,39 +43,11 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Dagger.**  
  Melee Weapon Attack: +2 to hit , reach 5 ft., one target
+
  Hit: 2 (1d4) piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

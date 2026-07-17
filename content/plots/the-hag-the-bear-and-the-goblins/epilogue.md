@@ -1,4 +1,10 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: Epilogue
+date modified: 2026-07-16, 9:18:12 pm
+---
+
 # Epilogue
 
 ````col

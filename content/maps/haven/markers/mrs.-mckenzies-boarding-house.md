@@ -1,8 +1,12 @@
 ---
-location: [2425.187,  6997.959]
+aliases: []
+tags: [map-marker]
+location: [2425.187, 6997.959]
 mapmarker: Residence
+title: "Mrs. McKenzie's Boarding House"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Mrs. McKenzie's Boarding House
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/mrs.-mckenzies-boarding-house|Mrs. McKenzie's Boarding House]]<br>
 **Location Type:** Rooming House
 
-**Description**<br> 
-
+**Description**<br>

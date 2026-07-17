@@ -1,14 +1,23 @@
-#import #article 
+---
+aliases: []
+tags: [article, import]
+title: Modules Used
+date modified: 2026-07-16, 9:19:05 pm
+---
+
 # Modules Used
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Active and/or Completed 
+
+# Active and/or Completed
+
 While the overall backdrop is the [[settlements/free-city-of-haven|Free City of Haven]], the campaign plot draws from many sources. Most are purchased modules but some are homebrew ( *in italics* ).  The key plot source items are listed below in order started - some overlap in duration.
 
 1. [[settlements/free-city-of-haven|Free City of Haven]] (aka FCOH)
@@ -28,7 +37,7 @@ While the overall backdrop is the [[settlements/free-city-of-haven|Free City of 
 
 5. [[plots/goblin-trouble/goblin-trouble|Goblin Trouble]] (GT)
 
-6.  *[[plots/goblin-trouble/post-goblin-trouble|Bridge_ Post Goblin Trouble|Bridge: Post Goblin Trouble]]* 
+6.  *[[plots/goblin-trouble/post-goblin-trouble|Bridge_ Post Goblin Trouble|Bridge: Post Goblin Trouble]]*
 
 7. [[plots/clockwork-tower/clockwork-tower|Clockwork Tower]] (CT)
 
@@ -48,37 +57,36 @@ While the overall backdrop is the [[settlements/free-city-of-haven|Free City of 
 
 15. [[plots/the-gypsy-train/the-gypsy-train|The Gypsy Train]] (GT) - aka The [[ethnicites/wandering-folk|wandering folk]] Train
 
+# Future Consideration
 
-# Future Consideration 
+## Mysteries to solve
 
-## Mysteries to solve 
 - Mystery of the Cursed Statuette
 - The Phantoms of the Opera - at a theatre in Haven?
 - What Happened to Evy Ashwood
 - Korrington Academy - Reposition to Haven / museum at the university
 - A Stranger Among Us
 
-## Assignments 
+## Assignments
+
 - An Unexpected Wedding Invitation - hired as guards for Antonio/Marita wedding,  followed by A Most Unexpected Zombie Invasion
 - Blood Moon Masquerade - assigned as guards
 
-## Out of Town 
+## Out of Town
+
 - [[plots/murder-at-the-old-wolf-inn/murder-at-the-old-wolf-inn|Murder at the Old Wolf Inn]] - on the way back from Khuz Mts. for Clockwork Tower??
 - [[plots/forest-of-doom/forest-of-doom|Forest of Doom]] - on the way back from Khuz Mts. for Clockwork Tower
 - Adventures in the Night
 - The Gypsy Train - a road encounter
 
-## Other 
+## Other
+
 - An Inheritance
 - Caves of the Cockatrice - move to the [[settlements/the-forgotten-city|The Forgotten City]] under Haven
 - From Fantastic Adventures:
 - Gloom
 - The  Gleam in the King's Eye  - a noble in Haven
 - The Cult of Dusk
-
-
-
-
 
 ````col
 ```col-md

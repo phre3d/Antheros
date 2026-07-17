@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #tainley-family #young-stallions #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, tainley-family, the-heights, young-stallions]
+title: Antonio Berensten
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Antonio Berensten
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -218,13 +224,12 @@ In the meantime, Antonio lives a double life, and has begun to show external sig
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/antonio-berensten]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

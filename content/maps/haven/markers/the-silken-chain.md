@@ -1,8 +1,12 @@
 ---
-location: [2119.064,  3888.776]
+aliases: []
+tags: [map-marker]
+location: [2119.064, 3888.776]
 mapmarker: Entertainment
+title: The Silken Chain
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Silken Chain
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/the-silken-chain|The Silken Chain]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

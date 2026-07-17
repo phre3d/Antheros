@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-the-word #the-dwarrow #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/word, import, npc, person, the-dwarrow]
+title: A. Gori Greataxe
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # A. Gori Greataxe
 
-### 
+###
 
-**Full Name:**  A. Gori Greataxe    
+**Full Name:**  A. Gori Greataxe
 
 `````col
 ````col-md
@@ -208,13 +214,12 @@ Most of the older dwarves view these claims with skepticism, but Gori has develo
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/a.-gori-greataxe]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

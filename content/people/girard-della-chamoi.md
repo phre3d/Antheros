@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-docks]
+title: Girard della Chamoi
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # Girard della Chamoi
 
-### 
+###
 
-**Full Name:**  Girard  della Chamoi    
+**Full Name:**  Girard  della Chamoi
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Chamoi is a firm but fair master, and a brilliant navigator. His avowed intentio
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/girard-della-chamoi]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

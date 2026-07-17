@@ -1,4 +1,10 @@
-#import #plot  #Free_City_of_Haven
+---
+aliases: []
+tags: [Free_City_of_Haven, import, plot]
+title: Search for the Bearded Dwarven Women
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 # Search for the Bearded Dwarven Women
 
 ````col
@@ -48,7 +54,6 @@ These inert forms will be carried off and kept in Browin's wagons, (and later, i
 **Tags:** FCoH-plot
 ```
 ````
-
 
 ---
 

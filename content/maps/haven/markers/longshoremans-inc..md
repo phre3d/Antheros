@@ -1,8 +1,12 @@
 ---
-location: [1956.819,  6112.245]
+aliases: []
+tags: [map-marker]
+location: [1956.819, 6112.245]
 mapmarker: Service
+title: "Longshoreman's Inc."
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Longshoreman's Inc.
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/longshoremans-inc.|Longshoreman's Inc.]]<br>
 **Location Type:** Stevedores
 
-**Description**<br> 
-
+**Description**<br>

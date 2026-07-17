@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-guild #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth, thieves-guild]
+title: Daquis Reeve
+date modified: 2026-07-16, 9:18:27 pm
+---
+
 # Daquis Reeve
 
-### 
+###
 
-**Full Name:**  Daquis  Reeve    
+**Full Name:**  Daquis  Reeve
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ A small, dark fellow with black eyes and a thoughtful manner, Reeve is an inform
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/daquis-reeve]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

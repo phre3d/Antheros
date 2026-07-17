@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary D12
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary D12
 
 ````col
@@ -37,37 +43,8 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Battleaxe:**  +2 to hit , 1d8+0 slashing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

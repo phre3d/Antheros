@@ -1,4 +1,9 @@
-#import #statblock #monster #Clockwork_Tower #monster
+---
+aliases: []
+tags: [plot/clockwork-tower, import, monster, statblock]
+title: Special Abilities
+date modified: 2026-07-16, 9:18:17 pm
+---
 
 ````col
 ```col-md
@@ -40,22 +45,31 @@ Large construct unaligned
 ![[~attachments/dndline.png]]
 
 # Special Abilities
-### Immutable Form 
+
+### Immutable Form
+
  The Pendulum Horror is immune to any spell or effect that would alter its form.
 
 ![[~attachments/dndline.png]]
 
 # Actions
-### Multiattack 
- The Pendulum Horror makes two swing attacks. 
-### Swing 
-  **Melee Weapon Attack:**  +2 to hit , reach 10 ft., one target. 
+
+### Multiattack
+
+ The Pendulum Horror makes two swing attacks.
+
+### Swing
+
+  **Melee Weapon Attack:**  +2 to hit , reach 10 ft., one target.
+
   **Hit:**  10  slashing damage.
 
 ![[~attachments/dndline.png]]
 
 # Description
+
 Like a deadly chandelier, the Pendulum Horror hangs ominously from the ceilings.  Crafted from reinforced, black steel, it resembles an oversized bulbous pendulum with a mouth containing dozens of sharp teeth, swinging back and forth in a constant and ominously rhythmic motion.  Each swing of the monstrous construct is measured and deadly, a balance of menacing elegance and unerring precision.   The air hums with tension as the Pendulum Horror moves, a terrifying waltz of metal and momentum. Although it seems inanimate at first glance, when provoked, it swiftly shows its deadly nature, chewing into anything unfortunate enough to be in its path.
 
 ---
+
 **Source:** Penny Blood Adventures

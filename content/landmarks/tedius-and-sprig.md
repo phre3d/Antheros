@@ -1,39 +1,55 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-shop #type-weapons #armorers-guild #weapons
+---
+aliases: []
+tags: [armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-south-corridor, type-weapons, weapons]
+title: Tedius and Sprig
+date modified: 2026-07-16, 9:18:47 pm
+---
+
 # Tedius and Sprig
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-## Best arrows and bolts around 
 
-## Description 
-Arthol Tedius does the nock and fletching. He trades regularly with local bird specialisits to obtain the finest feathers and occasionally makes trips outside the city to search out new varieties of feathers. 
+## Best arrows and bolts around
 
-Aldegott Sprig makes the shafts and arrowheads. The most balanced and perfect arrrows get Carbelium arrowheads. 
+## Description
+
+Arthol Tedius does the nock and fletching. He trades regularly with local bird specialisits to obtain the finest feathers and occasionally makes trips outside the city to search out new varieties of feathers.
+
+Aldegott Sprig makes the shafts and arrowheads. The most balanced and perfect arrrows get Carbelium arrowheads.
 
 A "True Strike" spell (gives ADV on attack rolls) from local mages is available at an extra cost (20gp per arrow/bolt: cost plus 100% markup).
 
-## Hours 
+## Hours
+
 Store hours are 1:00pm to 5:00pm. At other times they are busy working on orders.
 
-## Price Range 
+## Price Range
+
 Fair to Costly
 
-## Quality 
+## Quality
+
 excellent.
 
-## Customers 
+## Customers
+
 the blandness of the food or drinks.
 
-## Outstanding Items 
+## Outstanding Items
+
 There is a vault of arrowheads worth I ,000 GP.
 
-## Special Options 
+## Special Options
+
 30% chance of visitors that come in are allergic to something in the shop. 10% chance of un-controllable sneezing.
 
 # Purpose / Function
@@ -70,7 +86,7 @@ There is a vault of arrowheads worth I ,000 GP.
 
 **Image:** n/a
 
-**Weapons (Shopping)** 
+**Weapons (Shopping)**
 
  **Owner:**  Arthol Tedius
 
@@ -82,12 +98,14 @@ There is a vault of arrowheads worth I ,000 GP.
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -106,6 +124,7 @@ There is a vault of arrowheads worth I ,000 GP.
 ---
 
 ### World Anvil Metadata
+
 **Id:** 2759c57e-f754-418b-b6e1-92277730a156<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -114,7 +133,9 @@ There is a vault of arrowheads worth I ,000 GP.
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

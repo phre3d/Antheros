@@ -1,8 +1,12 @@
 ---
-location: [2276.207,  3919.388]
+aliases: []
+tags: [map-marker]
+location: [2276.207, 3919.388]
 mapmarker: Entertainment
+title: "Rima's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Rima's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Entertainment
 **Location:** [[landmarks/rimas|Rima's]]<br>
 **Location Type:** Brothel
 
-**Description**<br> 
-
+**Description**<br>

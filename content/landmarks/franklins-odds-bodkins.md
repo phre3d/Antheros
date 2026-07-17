@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-dry-goods #guild-of-provenders #dry-goods
+---
+aliases: []
+tags: [cat-shop, dry-goods, Free_City_of_Haven, guild/provenders, import, landmark, the-south-docks, type-dry-goods]
+title: "Franklin's Odds Bodkins"
+date modified: 2026-07-16, 9:18:55 pm
+---
+
 # Franklin's Odds Bodkins
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## If its not here is doesn't exist 
 
-## Description 
+# Description
+
+## If its not here is doesn't exist
+
+## Description
+
 Franklin keeps a very odd collection of items. If you can't find it anywhere else you can probably find it here. Of course that means he doesn't make a sale very often so the prices are quite high.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ Franklin keeps a very odd collection of items. If you can't find it anywhere els
 
 **Image:** n/a
 
-**Dry Goods (Shopping)** 
+**Dry Goods (Shopping)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ Franklin keeps a very odd collection of items. If you can't find it anywhere els
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** General Store
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ Franklin keeps a very odd collection of items. If you can't find it anywhere els
 ---
 
 ### World Anvil Metadata
+
 **Id:** c2ca9e31-31ca-4603-a7bc-40b456e21e08<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ Franklin keeps a very odd collection of items. If you can't find it anywhere els
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

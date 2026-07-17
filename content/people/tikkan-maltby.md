@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #haven-city-guard #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, haven-city-guard, import, npc, person, the-commons]
+title: Tikkan Maltby
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Tikkan Maltby
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -209,13 +215,12 @@ Tikkan is very outgoing, and an acquaintance can easily become a friend. Any fri
 
 ---
 
-
-
 ![[people/blocks/tikkan-maltby]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-docks
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, the-south-docks]
+title: Perendhil
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Perendhil
 
-### 
+###
 
-**Full Name:**  Perendhil      
+**Full Name:**  Perendhil
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Runs [[person/nimrodel|Nimrodel]]'s Shipyard on behalf of his father, who just d
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/perendhil]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

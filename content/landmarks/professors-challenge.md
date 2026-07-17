@@ -1,44 +1,63 @@
-#import #landmark   #Free_City_of_Haven #the-south-corridor #cat-entertainment #type-gaming #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, the-south-corridor, type-gaming]
+title: "Professor's Challenge"
+date modified: 2026-07-16, 9:18:50 pm
+---
+
 # Professor's Challenge
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Coffee House and games 
 
-## Description 
+# Description
+
+## Coffee House and games
+
+## Description
+
 [[people/theadus-mckessin|Theadus McKessin]]
 
-## Exterior 
+## Exterior
+
 A quaint red [[people/brick|Brick]] building of one level has a sign displaying a silver armored knight on the back of a griffin outside its door.
 
-## Interior 
+## Interior
+
 A large front room makes up the whole shop. There are old wooden tables and chairs, some booths, and a counter area. The shop seats 30 people. Anybody making the slightest noise within the shop front will receive a chorus of "shhhh!!" and very cold stares from the customers.
 
-## Hours 
+## Hours
+
 10:00am to 10:00pm.
 
-## Price Range 
+## Price Range
+
 Fair.
 
-## Quality 
+## Quality
+
 Good, if Theadus makes the coffee (35%) and poor if any other clerk makes it (65%).
 
-## Cash Box 
+## Cash Box
+
 A wooden box is in the only back room, where the coffee is stored. It has a Complexity 2 lock and contains 1d4 x 1d6gp in assorted small coins.
 
-## Staff 
+## Staff
+
 Theadus, an old elf, works in the store on weekends and his two counter clerks [[people/murfy|Murfy]] and [[people/giblet|Giblet]] work during the week. Theadus is a teacher at the College of Alchemy, the bungling professor type with spectacles and a nose-tuned voice box. He is the only surviving member of the Strathspey Regiment.
 
-## Customers 
+## Customers
+
 At any particular time, there will be [roll:1d4*2] customers in pairs playing Haven's equivalent to chess. On Firesday (just before the weekend) the store will have [roll:1d6*1d5] customers, with the odd ones looking for a good game at a good bet (watch it! - most of these old guys know their stuff).
 
-## Outstanding Items 
+## Outstanding Items
+
 Most of the tables have chess boards on them. Pieces may be acquired from the counter clerk.
 
 # Purpose / Function
@@ -75,7 +94,7 @@ Most of the tables have chess boards on them. Pieces may be acquired from the co
 
 **Image:** n/a
 
-**Gaming (Entertainment)** 
+**Gaming (Entertainment)**
 
  **Owner:**  Theadus McKessin
 
@@ -87,12 +106,14 @@ Most of the tables have chess boards on them. Pieces may be acquired from the co
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Shop, Generic
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-corridor|The South Corridor]]
 
 **Connected Rooms:**
@@ -109,6 +130,7 @@ Most of the tables have chess boards on them. Pieces may be acquired from the co
 ---
 
 ### World Anvil Metadata
+
 **Id:** 406c46cf-0370-4cc8-940f-415e25fe9783<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Corridor<br>
@@ -117,7 +139,9 @@ Most of the tables have chess boards on them. Pieces may be acquired from the co
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

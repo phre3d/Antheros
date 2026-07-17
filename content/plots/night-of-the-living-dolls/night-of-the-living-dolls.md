@@ -1,4 +1,10 @@
-#import #plot  #Night_of_the_Living_Dolls
+---
+aliases: []
+tags: [import, plot/Night-of-the-Living-Dolls, plot]
+title: Night of the Living Dolls
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # Night of the Living Dolls
 
 ````col
@@ -77,7 +83,8 @@ horror that will keep players on the edge of their seats from start to finish.
 ````
 
 # Credits  
- **Author:**  M A D (aka, Matthew David) 
+
+ **Author:**  M A D (aka, Matthew David)
 
  **Artists:**  Adobe Stock Art, Adobe Firefly, Adobe Photoshop, DALL-E, Midjourney
 

@@ -1,8 +1,12 @@
 ---
-location: [5636.411,  1963.265]
+aliases: []
+tags: [map-marker]
+location: [1963.265, 5636.411]
 mapmarker: Residence
+title: Ohlfaardt Family Residence
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Ohlfaardt Family Residence
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Residence
 **Location:** [[landmarks/ohlfaardt-family-residence|Ohlfaardt Family Residence]]<br>
 **Location Type:** Mansion
 
-**Description**<br> 
-
+**Description**<br>

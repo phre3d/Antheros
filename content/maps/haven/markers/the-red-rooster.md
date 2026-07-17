@@ -1,8 +1,12 @@
 ---
-location: [1971.105,  4035.714]
+aliases: []
+tags: [map-marker]
+location: [1971.105, 4035.714]
 mapmarker: Inns & Taverns
+title: The Red Rooster
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Red Rooster
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-red-rooster|The Red Rooster]]<br>
 **Location Type:** Tavern
 
-**Description**<br> 
-
+**Description**<br>

@@ -1,7 +1,13 @@
-#import #person #npc #supporting-cast #the-city-watch
+---
+aliases: []
+tags: [import, npc, person, supporting-cast, the-city-watch]
+title: Porky
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Porky
 
-### 
+###
 
 **Full Name:**  Henk      Porky
 
@@ -190,13 +196,10 @@ A somewhat overweight, ageing, half-orc. Former adventuring partner of Lyza and 
 
 ![[dndline.png]]
 
-
-
-
-
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

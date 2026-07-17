@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #de-la-riis-family #the-heights #npc
+---
+aliases: []
+tags: [de-la-riis-family, Free_City_of_Haven, import, npc, person, the-heights]
+title: "K'maill de la Riis"
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # K'maill de la Riis
 
-### 
+###
 
-**Full Name:**  K'maill  del la Riis    
+**Full Name:**  K'maill  del la Riis
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ At first confused by the hostility of her relations she has now become angry, an
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/kmaill-de-la-riis]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

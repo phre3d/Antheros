@@ -1,8 +1,12 @@
 ---
-location: [5940.493,  4726.531]
+aliases: []
+tags: [map-marker]
+location: [4726.531, 5940.493]
 mapmarker: Shopping
+title: "Tabitha's"
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Tabitha's
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/tabithas|Tabitha's]]<br>
 **Location Type:** Baker
 
-**Description**<br> 
-
+**Description**<br>

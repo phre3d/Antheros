@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #scholars-triangle #cat-landmark #type-ruin #landmark 
+---
+aliases: []
+tags: [cat-landmark, Free_City_of_Haven, import, landmark, scholars-triangle, type-ruin]
+title: The Ruined Barracks of the Strathspey Regiment
+date modified: 2026-07-16, 9:18:44 pm
+---
+
 # The Ruined Barracks of the Strathspey Regiment
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Ruined barracks of an almost forgotten regiment 
 
-## Description 
+# Description
+
+## Ruined barracks of an almost forgotten regiment
+
+## Description
+
 On the edge of Erinhir by Scholar's Triangle is a large building  in ruins. It's what's left of the barracks of the Strathsprey Regiment. The regiment was nearly wiped out to a man during an uprising
 
 # Purpose / Function
@@ -48,7 +58,7 @@ On the edge of Erinhir by Scholar's Triangle is a large building  in ruins. It's
 
 **Image:** n/a
 
-**Ruin (Landmark)** 
+**Ruin (Landmark)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ On the edge of Erinhir by Scholar's Triangle is a large building  in ruins. It's
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Ruins
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/scholars-triangle|Scholar's Triangle]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ On the edge of Erinhir by Scholar's Triangle is a large building  in ruins. It's
 ---
 
 ### World Anvil Metadata
+
 **Id:** c14c4abc-be0f-421b-a1d2-fb1e65887cc9<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Scholar's Triangle<br>
@@ -90,7 +103,9 @@ On the edge of Erinhir by Scholar's Triangle is a large building  in ruins. It's
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

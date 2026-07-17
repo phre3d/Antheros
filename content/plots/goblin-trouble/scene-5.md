@@ -1,4 +1,10 @@
-#import #plot  #Forest_of_Doom
+---
+aliases: []
+tags: [Forest_of_Doom, import, plot]
+title: Scene 5
+date modified: 2026-07-16, 9:18:14 pm
+---
+
 # Scene 5
 
 ````col
@@ -197,7 +203,6 @@ Toother hid his loot in a chest behind the throne. The chest is closed. If the p
 
 ```
 ````
-
 
 ---
 

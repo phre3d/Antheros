@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Student 4
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Student 4
 
-### 
+###
 
-**Full Name:**  Student  Four    
+**Full Name:**  Student  Four
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Drunk Students
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/student-4]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

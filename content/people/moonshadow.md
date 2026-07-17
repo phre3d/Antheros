@@ -1,7 +1,13 @@
-#import #person #Free_City_of_Haven #scenarios #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, scenarios]
+title: Moonshadow
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Moonshadow
 
-### 
+###
 
 **Full Name:**  Moonshadow      Starsinger
 
@@ -198,13 +204,12 @@ Refer to scenario [[plots/the-renegade-prince|The Renegade Prince]].
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/moonshadow]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

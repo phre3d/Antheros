@@ -1,8 +1,12 @@
 ---
-location: [4222.126,  5251.02]
+aliases: []
+tags: [map-marker]
+location: [4222.126, 5251.02]
 mapmarker: Government
+title: The Mint
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Mint
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Government
 **Location:** [[landmarks/the-mint|The Mint]]<br>
 **Location Type:** Government
 
-**Description**<br> 
+**Description**<br>
+
 Where coins and other valuables are struck

@@ -1,8 +1,12 @@
 ---
-location: [4482.33,  4912.245]
+aliases: []
+tags: [map-marker]
+location: [4482.33, 4912.245]
 mapmarker: Inns & Taverns
+title: The Speedwell Inn
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Speedwell Inn
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Inns & Taverns
 **Location:** [[landmarks/the-speedwell-inn|The Speedwell Inn]]<br>
 **Location Type:** Inn
 
-**Description**<br> 
+**Description**<br>
+
 One of the more well known inns/taverns in haven

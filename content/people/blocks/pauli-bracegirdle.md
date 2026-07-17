@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Pauli Bracegirdle
+date modified: 2026-07-16, 9:18:30 pm
+---
+
 # Pauli Bracegirdle
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Mace:**  +3 to hit , 1d6+1 bludgeoning damage  
   **Sling:**  +4 to hit , 1d4+2 bludgeoning damage
-
-
-
-
-
-
-
-
-
-
-
-
-

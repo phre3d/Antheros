@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #street-of-harps #cat-entertainment #type-theatre #guild-of-entertainers #entertainment
+---
+aliases: []
+tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/entertainers, import, landmark, street-of-harps, type-theatre]
+title: The Ducal Arms Theater
+date modified: 2026-07-16, 9:18:46 pm
+---
+
 # The Ducal Arms Theater
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Play on Words 
 
-## Exterior 
+# Description
+
+## Play on Words
+
+## Exterior
+
 The grandest theater in Haven, a magnificent marble edifice with graceful columns and extensive carvings of scenes from famous plays. The Ducal Arms are carved on a huge stone shield high above the doors.  
 
  The interior is no less lavish, with marble parquet floors, rich paneling and woodwork on the staircase bannisters, and great tapestries hanging in the lobby. The seats in the upper boxes are padded, with leather upholstery, and the ceiling of Theater is covered with a magnificent allegorical painting.  
@@ -56,7 +66,7 @@ The grandest theater in Haven, a magnificent marble edifice with graceful column
 
 **Image:** n/a
 
-**Theatre (Entertainment)** 
+**Theatre (Entertainment)**
 
  **Owner:**  
 
@@ -68,12 +78,14 @@ The grandest theater in Haven, a magnificent marble edifice with graceful column
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Theatre / Concert hall
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-street-of-harps|The Street of Harps]]
 
 **Connected Rooms:**
@@ -90,6 +102,7 @@ The grandest theater in Haven, a magnificent marble edifice with graceful column
 ---
 
 ### World Anvil Metadata
+
 **Id:** a619a958-6e1b-4308-a814-3783f66a96c3<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: Street of Harps<br>
@@ -98,7 +111,9 @@ The grandest theater in Haven, a magnificent marble edifice with graceful column
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #circle-chamber #mages-guild #scenarios #npc
+---
+aliases: []
+tags: [circle-chamber, Free_City_of_Haven, import, mages-guild, npc, person, scenarios]
+title: Karilinia Inturisdan
+date modified: 2026-07-16, 9:18:25 pm
+---
+
 # Karilinia Inturisdan
 
-### 
+###
 
-**Full Name:**  Karilinia  Inturisdan    
+**Full Name:**  Karilinia  Inturisdan
 
 `````col
 ````col-md
@@ -211,13 +217,12 @@ See Street Encounter: [[plots/the-stoned-maiden|The Stoned Maiden]]
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/karilinia-inturisdan]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

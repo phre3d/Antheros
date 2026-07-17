@@ -1,4 +1,9 @@
-#import #session_notes
+---
+aliases: []
+tags: [import, session_notes]
+title: Session Recap
+date modified: 2026-07-16, 9:18:09 pm
+---
 
 # Session Recap
 
@@ -49,4 +54,3 @@ We sump the situation to his foster mom.
 We also explain about the necklace that is in Lady Roweena's house. We also suggest that we could send a message to Marita through the wall. She suggests she could talk to Marita's mother (Grilla), as they are neighbors and all. We told her we will come back tomorrow.
 
 ---
-

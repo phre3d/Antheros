@@ -1,8 +1,12 @@
 ---
-location: [2503.758,  6629.592]
+aliases: []
+tags: [map-marker]
+location: [2503.758, 6629.592]
 mapmarker: Medical
+title: House of Linneas Mauray
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # House of Linneas Mauray
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Medical
 **Location:** [[landmarks/house-of-linneas-mauray|House of Linneas Mauray]]<br>
 **Location Type:** Medical
 
-**Description**<br> 
-
+**Description**<br>

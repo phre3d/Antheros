@@ -1,8 +1,12 @@
 ---
-location: [4608.86,  758.163]
+aliases: []
+tags: [map-marker]
+location: [4608.86, 758.163]
 mapmarker: Shopping
+title: Valli - Armorer
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # Valli - Armorer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/valli-armorer|Valli - Armorer]]<br>
 **Location Type:** Armor
 
-**Description**<br> 
-
+**Description**<br>

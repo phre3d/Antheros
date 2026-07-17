@@ -1,8 +1,12 @@
 ---
-location: [3457.84,  3469.388]
+aliases: []
+tags: [map-marker]
+location: [3457.84, 3469.388]
 mapmarker: Service
+title: Keziniel - Scribe
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Keziniel - Scribe
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/keziniel-scribe|Keziniel - Scribe]]<br>
 **Location Type:** Scribe
 
-**Description**<br> 
-
+**Description**<br>

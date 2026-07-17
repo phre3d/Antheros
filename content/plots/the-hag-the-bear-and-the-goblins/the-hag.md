@@ -1,4 +1,10 @@
-#import #plot  #Hag_Bear_Goblin
+---
+aliases: []
+tags: [plot/Hag-Bear-Goblin, import, plot]
+title: The Hag
+date modified: 2026-07-16, 9:18:11 pm
+---
+
 # The Hag
 
 ````col
@@ -39,7 +45,6 @@ In case the party kills her, the following can be found in her home:
 ![[~attachments/dndline.png]]
 ```
 ````
-
 
 ---
 

@@ -1,8 +1,12 @@
 ---
-location: [1261.921,  5344.898]
+aliases: []
+tags: [map-marker]
+location: [1261.921, 5344.898]
 mapmarker: Landmark
+title: "Fisherman's Cay"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Fisherman's Cay
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Landmark
 **Location:** [[landmarks/fishermans-cay|Fisherman's Cay]]<br>
 **Location Type:** Other Landmark
 
-**Description**<br> 
-
+**Description**<br>

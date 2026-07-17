@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-labyrinth #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-labyrinth]
+title: Malikor
+date modified: 2026-07-16, 9:18:24 pm
+---
+
 # Malikor
 
-### 
+###
 
-**Full Name:**  Malikor  the Eye    
+**Full Name:**  Malikor  the Eye
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Malikor the Eye, so called for the patch he wears over his right eye, runs a paw
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/malikor]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

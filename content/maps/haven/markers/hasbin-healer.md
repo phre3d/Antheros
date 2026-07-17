@@ -1,8 +1,12 @@
 ---
-location: [853.758,  4072.449]
+aliases: []
+tags: [map-marker]
+location: [4072.449, 853.758]
 mapmarker: Medical
+title: Hasbin - Healer
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Hasbin - Healer
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Medical
 **Location:** [[landmarks/hasbin-healer|Hasbin - Healer]]<br>
 **Location Type:** Medical
 
-**Description**<br> 
-
+**Description**<br>

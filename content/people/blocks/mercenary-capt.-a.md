@@ -1,4 +1,10 @@
-#import #statblock #person #npc 
+---
+aliases: []
+tags: [import, npc, person, statblock]
+title: Mercenary Capt. A
+date modified: 2026-07-16, 9:18:31 pm
+---
+
 # Mercenary Capt. A
 
 ````col
@@ -37,38 +43,9 @@ flexGrow=2
 ```
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[dndline.png]]
 
 # Actions
+
 **Greatsword:**  +7 to hit , 2d6+3 slashing damage  
   **Shortsword:**  +7 to hit , 1d6+3 piercing damage
-
-
-
-
-
-
-
-
-
-
-
-
-

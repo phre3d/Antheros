@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-commons #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-commons]
+title: George
+date modified: 2026-07-16, 9:18:26 pm
+---
+
 # George
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ George is Gip's nephew and helps out at Gip's store.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/george]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

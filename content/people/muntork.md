@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, street-encounters]
+title: Muntork
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Muntork
 
-### 
+###
 
-**Full Name:**  Muntork      
+**Full Name:**  Muntork
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ See Street Encounter: Bang-up Gang-up
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/muntork]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

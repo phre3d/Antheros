@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-north-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+title: Meron Glyptes
+date modified: 2026-07-16, 9:18:22 pm
+---
+
 # Meron Glyptes
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -204,13 +210,12 @@ The lawyer of choice, it seems, for every half-orc, tiefling, or lowlife who get
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/meron-glyptes]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

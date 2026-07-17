@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #guild-of-provenders #the-heights #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, guild/provenders, import, npc, person, the-heights]
+title: Pirandello
+date modified: 2026-07-16, 9:18:21 pm
+---
+
 # Pirandello
 
-### 
+###
 
-**Full Name:**        
+**Full Name:**
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Pirandello's own ample form shows the effects of sampling his own wares.
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/pirandello]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

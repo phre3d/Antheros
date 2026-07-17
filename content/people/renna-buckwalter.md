@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #merchants-guild #the-dell #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, merchants-guild, npc, person, the-dell]
+title: Renna Buckwalter
+date modified: 2026-07-16, 9:18:20 pm
+---
+
 # Renna Buckwalter
 
-### 
+###
 
-**Full Name:**  Renna  Buckwalter    
+**Full Name:**  Renna  Buckwalter
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ Renna is a very sweet-hearted older woman prone to bouts of forgetfulness; she h
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/renna-buckwalter]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-south-docks #cat-shop #type-other-services #other-services
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, import, landmark, other-services, the-south-docks, type-other-services]
+title: "Lazarini's Baths"
+date modified: 2026-07-16, 9:18:52 pm
+---
+
 # Lazarini's Baths
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A nice place to get clean 
 
-## Description 
+# Description
+
+## A nice place to get clean
+
+## Description
+
 These private baths serve [[organizations/criminal/the-black-hand|The Black Hand]] as a [[landmarks/message-drop|Message Drop]]. Messages or small packages are kept by the day clerk behind the counter, marked "For Jonathon". "Jonathon" is a code word, and the clerk will give the message or package to anyone claiming that name. Several of [[organizations/criminal/the-black-hand|The Black Hand]] sworn swords come here to cool off after workouts.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ These private baths serve [[organizations/criminal/the-black-hand|The Black Hand
 
 **Image:** n/a
 
-**Other Services (Service)** 
+**Other Services (Service)**
 
  **Owner:**  
 
@@ -60,12 +70,14 @@ These private baths serve [[organizations/criminal/the-black-hand|The Black Hand
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Bathhouse
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-south-docks|The South Docks]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ These private baths serve [[organizations/criminal/the-black-hand|The Black Hand
 ---
 
 ### World Anvil Metadata
+
 **Id:** 497dff0f-1727-42a8-a29e-5f9056e49780<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The South Docks<br>
@@ -90,7 +103,9 @@ These private baths serve [[organizations/criminal/the-black-hand|The Black Hand
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

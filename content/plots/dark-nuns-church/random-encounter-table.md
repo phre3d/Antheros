@@ -1,5 +1,12 @@
-#import #plot  #Dark_Nuns_Church
+---
+aliases: []
+tags: [plot/dark-nuns-church, import, plot]
+title: The Random Encounter Table
+date modified: 2026-07-16, 9:18:16 pm
+---
+
 ![[plots/dark-nuns-church/images/the-dark-nuns-church-header.jpg]]
+
 # The Random Encounter Table
 
 ````col
@@ -36,8 +43,6 @@ lively.
 
 ```
 ````
-
-
 
 ---
 

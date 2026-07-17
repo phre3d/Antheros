@@ -1,8 +1,12 @@
 ---
-location: [2579.268,  3688.776]
+aliases: []
+tags: [map-marker]
+location: [2579.268, 3688.776]
 mapmarker: Dining
+title: The Blue Harper
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Blue Harper
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Dining
 **Location:** [[landmarks/the-blue-harper|The Blue Harper]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
+**Description**<br>
+
 One of the finer placest to eat in the city

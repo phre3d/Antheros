@@ -1,17 +1,27 @@
-#import #landmark   #Free_City_of_Haven #the-dwarrow #cat-shop #type-restaurant #guild-of-the-hearth #restaurant
+---
+aliases: []
+tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, restaurant, the-dwarrow, type-restaurant]
+title: "Katzi's Dwarven Deli"
+date modified: 2026-07-16, 9:18:53 pm
+---
+
 # Katzi's Dwarven Deli
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## Quick-n-Good 
 
-## Description 
+# Description
+
+## Quick-n-Good
+
+## Description
+
 A stand up lunch counter serving quick filling fare (sausages wrapped in dark bread, beans and sauerkraut, boiled horsemeat with cabbage) and an endless stream of local gossip, both dispensed by the shop's rotund, constantly complaining, proprietor. In any given hour, [[people/katzi|Katzi]] will kvetch about the weather, the price of meat, the tax rate, and the disrespectfulness of many of the clientele - in between, however, he is likely to pass along several morsels of useful information about local comings and goings, merchants holding sales, etc. [[people/katzi|Katzi]]'s regular customers are 99+% dwarven, and the presence of non-dwarves around the counter will cause [[people/katzi|Katzi]] to button up his otherwise flapping lip.
 
 # Purpose / Function
@@ -48,7 +58,7 @@ A stand up lunch counter serving quick filling fare (sausages wrapped in dark br
 
 **Image:** n/a
 
-**Restaurant (Dining)** 
+**Restaurant (Dining)**
 
  **Owner:**  Katzi
 
@@ -60,12 +70,14 @@ A stand up lunch counter serving quick filling fare (sausages wrapped in dark br
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Pub / Tavern / Restaurant
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-dwarrow|The Dwarrow]]
 
 **Connected Rooms:**
@@ -82,6 +94,7 @@ A stand up lunch counter serving quick filling fare (sausages wrapped in dark br
 ---
 
 ### World Anvil Metadata
+
 **Id:** 81d90c44-fe8d-4ca1-bd91-eaaa23e383c6<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The Dwarrow<br>
@@ -90,7 +103,9 @@ A stand up lunch counter serving quick filling fare (sausages wrapped in dark br
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

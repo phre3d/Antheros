@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #the-south-corridor #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+title: Allyra
+date modified: 2026-07-16, 9:18:36 pm
+---
+
 # Allyra
 
-### 
+###
 
-**Full Name:**  Allyra      
+**Full Name:**  Allyra
 
 `````col
 ````col-md
@@ -201,13 +207,12 @@ Random entertainer to be user as necessary
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/allyra]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

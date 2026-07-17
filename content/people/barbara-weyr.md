@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #thieves-market #npc
+---
+aliases: []
+tags: [Free_City_of_Haven, import, npc, person, thieves-market]
+title: Barbara Weyr
+date modified: 2026-07-16, 9:18:35 pm
+---
+
 # Barbara Weyr
 
-### 
+###
 
-**Full Name:**  Barbara  Weyr    
+**Full Name:**  Barbara  Weyr
 
 `````col
 ````col-md
@@ -202,13 +208,12 @@ A youngish woman of fair complexion and feature who deals normally in fine rugs 
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/barbara-weyr]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

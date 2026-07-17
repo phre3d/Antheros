@@ -1,15 +1,24 @@
-#import #settlement #Free_City_of_Haven #district
+---
+aliases: []
+tags: [district, Free_City_of_Haven, import, settlement]
+title: Erinhir
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # Erinhir
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
-Located in [[settlements/the-outlands|The Outlands]] of Haven is the elven section, called Erinhir by its residents (called other things, few of them polite, by the dwarves). This seemingly enchanted place reaches into [[settlements/the-dell|The Dell]] and south to the intersection of Lorien and Magic Streets.  From this corner, it extends east along Lorien to Summ Plaza. The entire area is surrounded by a hedgerow of bushes and shrubbery intended to ensure privacy. Along Southbank Street, between the avenue and Dorian's bank, is a thickly grown strip of trees called "The Shieldwood", which the elves planted nearly 300 years ago attempting to protect their children from the sights of thousands of cut trees floating in the water. Loggers use the Dorian to transport many toppled forest giants to the sawmills and from there large rafts of sawn lumber and planks downriver to the drying yards to be processed for commercial uses. 
+
+Located in [[settlements/the-outlands|The Outlands]] of Haven is the elven section, called Erinhir by its residents (called other things, few of them polite, by the dwarves). This seemingly enchanted place reaches into [[settlements/the-dell|The Dell]] and south to the intersection of Lorien and Magic Streets.  From this corner, it extends east along Lorien to Summ Plaza. The entire area is surrounded by a hedgerow of bushes and shrubbery intended to ensure privacy. Along Southbank Street, between the avenue and Dorian's bank, is a thickly grown strip of trees called "The Shieldwood", which the elves planted nearly 300 years ago attempting to protect their children from the sights of thousands of cut trees floating in the water. Loggers use the Dorian to transport many toppled forest giants to the sawmills and from there large rafts of sawn lumber and planks downriver to the drying yards to be processed for commercial uses.
 
 Throughout Erinhir, there are paths, groves, and peaceful clearings for the delight of the elves, as well as a stream and pond for refreshing dips or thirst-quenching.
 
@@ -32,9 +41,9 @@ Hypotenuse Square is the center of the educational community in Haven, and provi
 | Genius Park      | 25%      | 10gp to 60gp    |
 | Hostels / Inns      | 65%      | as given    |
 
-Students who do not live in Haven, or who wish to reside near the school they're attending, may rent bed (and, supposedly, study-space) in dormitories provided in the buildings of the various colleges. These dorm rooms are seldom clean, and the conditions do not permit much privacy.  The cost is 3gp for room alone, board not included. 
+Students who do not live in Haven, or who wish to reside near the school they're attending, may rent bed (and, supposedly, study-space) in dormitories provided in the buildings of the various colleges. These dorm rooms are seldom clean, and the conditions do not permit much privacy.  The cost is 3gp for room alone, board not included.
 
-Many students prefer to dwell out of the immediate buildings of the schools, since overcrowding and noise seem to be the rule in the dorms as the colleges are less than discrete in their choices of tenants, and will rent space to anyone who is willing to endure the conditions. 
+Many students prefer to dwell out of the immediate buildings of the schools, since overcrowding and noise seem to be the rule in the dorms as the colleges are less than discrete in their choices of tenants, and will rent space to anyone who is willing to endure the conditions.
 
 There are rooms for students available in many of the homes nearby in [[settlements/the-cauldron|The Cauldron]], Erinhir, around lower Magic Street, and in a complex of buildings called Genius Park. Depending on the race of the prospective roomer, accommodations might even be arranged in [[settlements/the-dell|The Dell]] or [[settlements/the-dwarrow|The Dwarrow]]. Cost and availability of rooms vary with the section.
 
@@ -48,7 +57,8 @@ There are rooms for students available in many of the homes nearby in [[settleme
 
 - **[[organizations/adrielles-watch|Adrielle's Watch]]:** An unofficial force that guards [[settlements/the-outlands|The Outlands]], though mostly seen in (60%) Erinhir
 
-## Random Street Encounters 
+## Random Street Encounters
+
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
 | [roll:d1000]       | Encounter       |       | Encounter       |       | Encounter    |
@@ -62,6 +72,7 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 251-325       | [Assassin](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Assassin)       | 576-625       | [Crier](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Crier)       |       |    |
 
 ## Locations  
+
 ```dataview
 LIST
 FROM #landmark AND #erinhir
@@ -70,9 +81,10 @@ SORT file.name
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
-**Persons of Interest** 
+**Persons of Interest**
+
 - [[organizations/families/elengul-family|Elengul Family]]
 - [[people/blocks/skorindir-elengul]]
 - [[organizations/families/ilorim-family|Ilorim Family]]
@@ -91,18 +103,19 @@ SORT file.name
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
 ### World Anvil Metadata
+
 **Id:** 96d2680b-e669-4c07-ba6b-f4727fb8d9d9<br>
 **Entity Type:** Article / settlement<br>
 **Category:** <br>
@@ -111,19 +124,24 @@ SORT file.name
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 d933131a-640d-4513-b6aa-d99247dfa47a
 
 --- end-column ---
 
 Next:
+
 e8aa9d8f-68be-4d89-9e11-6ba288e71515
 
 --- end-multi-column

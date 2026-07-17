@@ -1,8 +1,12 @@
 ---
-location: [2499.677,  997.959]
+aliases: []
+tags: [map-marker]
+location: [2499.677, 997.959]
 mapmarker: Shopping
+title: "Heidel Varrasch's Office"
+date modified: 2026-07-16, 9:18:41 pm
 ---
-#map-marker 
+
 # Heidel Varrasch's Office
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/heidel-varraschs-office|Heidel Varrasch's Office]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>

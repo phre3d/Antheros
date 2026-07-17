@@ -1,20 +1,31 @@
-#import #landmark   #Free_City_of_Haven #the-north-corridor #cat-government #type-guard #government-of-haven
+---
+aliases: []
+tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-north-corridor, type-guard]
+title: "Nobles' Way Station"
+date modified: 2026-07-16, 9:18:51 pm
+---
+
 # Nobles' Way Station
 
 --- start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
-# Description
-## A City Guard station 
 
-## Description 
+# Description
+
+## A City Guard station
+
+## Description
+
 The Nobles' Way Station is home to 48 guards, of which about 12 are on duty at any point in time. The Station Captain is Jan Hacker.
 
-## NPC Encounters 
+## NPC Encounters
+
 Jan Hacker
 
 # Purpose / Function
@@ -51,7 +62,7 @@ Jan Hacker
 
 **Image:** n/a
 
-**City Guard (City Guard)** 
+**City Guard (City Guard)**
 
  **Owner:**  
 
@@ -63,12 +74,14 @@ Jan Hacker
 
 **Alternate Name(s):**  
 
-**Founding Date:** 
-**Date of Ruin:** 
+**Founding Date:**
+
+**Date of Ruin:**
 
 **Type:** Guard post / house
 
-**Parent Location:** 
+**Parent Location:**
+
 [[settlements/the-north-corridor|The North Corridor]]
 
 **Connected Rooms:**
@@ -85,6 +98,7 @@ Jan Hacker
 ---
 
 ### World Anvil Metadata
+
 **Id:** 2f71fb1b-679b-4d86-9ec1-c301c44af2a0<br>
 **Entity Type:** Article / landmark<br>
 **Category:** Places: The North Corridor<br>
@@ -93,7 +107,9 @@ Jan Hacker
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]

@@ -1,37 +1,56 @@
-#import #settlement #Free_City_of_Haven #neighbourhood
+---
+aliases: []
+tags: [Free_City_of_Haven, import, neighbourhood, settlement]
+title: The Bridges
+date modified: 2026-07-16, 9:18:09 pm
+---
+
 # The Bridges
 
---- start-multi-column: MainBody
+---start-multi-column: MainBody
+
 ```column-settings  
 number of columns: 2  
 column size: [69%, 30%]
 border: [off]
 shadow: off
 ```
+
 # Description
 
 [left] | Class of Traffic 	| Stonebridge   | Woodbridge  [/left] |
+
 |---|---|---|
+
 | Riding Animal (including rider) 	| 60 bits   | 35 bits  |
+
 [td:68]Led Animal -- With load -- No load[/td]	[td:18] 45 bits 30 bits[/td]  [td:18] 30 bits 15 bits[/td] |
+
 [td:68]Wagon or Cart<sup> **1** </sup> -- Loaded -- Unloaded[/td]	[td:18] 100 bits 45 bits[/td]  [td:18] 60 bits 30 bits[/td] |
+
 [td:68]Man[/td]	[td:18]30 bits[/td]  [td:18]15 bits[/td] |
+
 [td:68]Woman or Child[/td]	[td:18]15 bits[/td]  [td:18]8 bits[/td] |
+
 [td:68]Large Dog[/td]	[td:18]5 bits[/td]  [td:18]3 bits[/td] |
+
 [td:68]Small Animals (each)[/td]	[td:18]8 bits<sup> **2** </sup>[/td]  [td:18]1 bits[/td] |
 
  **<sup>1</sup>**  Toll rates for wagons/carts are charged separately from passengers.
 
  **<sup>2</sup>**  The high rate for small animals on Stonebridge is designed to discourage passage of flocks of sheep and goats.
 
-## The Bridges 
+## The Bridges
+
 There are three bridges crossing the Dorian River in Haven; these are Stonebridge, Woodbridge, and Southbridge (very imaginative names - the northernmost bridge is constructed of stone, the middle one of wood, and the third lies at the southernmost end of the island). Stonebridge and Woodbridge both lead to and from Trade Island and both are toll bridges; both are closed from midnight 'til 6:00am each night. Southbridge is only a footbridge, with no vehicular or animal traffic allowed, and there is no charge to use it; it is never closed (except in extremely bad weather).
 
 The tolls are higher on Stonebridge (the official reason being the higher cost of upkeep), so most of the poorer folk use Woodbridge or Southbridge; the tolls are based on the type of traffic, and are figured in bits.
 
 ]
+
 [anchor|street_encounters_bridges]
-### Bridge Random Street Encounters 
+
+### Bridge Random Street Encounters
 
 | [roll:d1000]       | Encounter       | Roll      | Encounter   |
 |---|---|---|---|
@@ -75,7 +94,7 @@ The tolls are higher on Stonebridge (the official reason being the higher cost o
 
 --- end-column ---
 
-**Image:** 
+**Image:**
 
 **Type:** Neighbourhood<br>
 **Other Name(s):** <br>
@@ -84,23 +103,25 @@ The tolls are higher on Stonebridge (the official reason being the higher cost o
 **Population:** <br>
 **Demonym:** <br>
 **Founded:** <br>
-**Runied:** 
+**Runied:**
 
 **Ruler:** <br>
 **Rank:**  <br>
 **Ruling Organization:**  <br>
-**Other Rulers:** 
+**Other Rulers:**
 
-**Founders:** 
+**Founders:**
 
 ---
 
-**People of The Bridges** 
+**People of The Bridges**
 
 [tagged:the-bridges-person|list|none]
 
 ---
+
 ### World Anvil Metadata
+
 **Id:** 433922e7-e67a-4bfc-a438-e591c5497f24<br>
 **Entity Type:** Article / settlement<br>
 **Category:** Districts of Haven<br>
@@ -109,19 +130,24 @@ The tolls are higher on Stonebridge (the official reason being the higher cost o
 --- end-multi-column
 
 ---
+
 --- start-multi-column: PreviousNext
+
 ```column-settings  
 number of columns: 2  
 column size: [50%, 49%]
 border: [off, off]
 alignment: [left, right]
 ```
+
 Previous:
+
 eec2fc60-5565-40fa-9047-69924589c400
 
 --- end-column ---
 
 Next:
+
 8ff1c19a-c29d-4050-9c7c-7200f23453be
 
 --- end-multi-column

@@ -1,6 +1,12 @@
-#import #map-marker-group
+---
+aliases: []
+tags: [import, map-marker-group]
+title: major-landmarks
+date modified: 2026-07-16, 9:18:42 pm
+---
 
 **Markers in the group:**
+
 - [[maps/haven/markers/gold-alley]]
 - [[maps/haven/markers/ruin-of-rogues-roost]]
 - [[maps/haven/markers/the-bronze-rat-memorial]]
@@ -18,5 +24,3 @@
 - [[maps/haven/markers/the-shieldwood]]
 - [[maps/haven/markers/the-citadel]]
 - [[maps/haven/markers/the-tower-of-the-kindred-races]]
-
-

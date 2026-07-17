@@ -1,9 +1,15 @@
-#import #person #Free_City_of_Haven #street-encounters
+---
+aliases: []
+tags: [Free_City_of_Haven, import, person, street-encounters]
+title: Student 1
+date modified: 2026-07-16, 9:18:19 pm
+---
+
 # Student 1
 
-### 
+###
 
-**Full Name:**  Student  One    
+**Full Name:**  Student  One
 
 `````col
 ````col-md
@@ -203,13 +209,12 @@ See Street Encounter: Drunk Students
 
 ![[dndline.png]]
 
-
-
 ![[people/blocks/student-1]]
 
-
 <!-- Standard page footer -->
+
 ![[~attachments/dndline.png]]
+
 ````col
 ```col-md
 

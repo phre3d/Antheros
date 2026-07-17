@@ -1,8 +1,12 @@
 ---
-location: [2930.289,  1559.184]
+aliases: []
+tags: [map-marker]
+location: [1559.184, 2930.289]
 mapmarker: Dining
+title: The Lamb and Lime
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Lamb and Lime
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,6 @@ mapmarker: Dining
 **Location:** [[landmarks/the-lamb-and-lime|The Lamb and Lime]]<br>
 **Location Type:** Restaurant
 
-**Description**<br> 
+**Description**<br>
+
 One of the finer placest to eat in the city

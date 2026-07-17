@@ -1,8 +1,12 @@
 ---
-location: [2817.023,  1129.592]
+aliases: []
+tags: [map-marker]
+location: [1129.592, 2817.023]
 mapmarker: Service
+title: Numirolakos the Gentler
+date modified: 2026-07-16, 9:18:40 pm
 ---
-#map-marker 
+
 # Numirolakos the Gentler
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Service
 **Location:** [[landmarks/numirolakos-the-gentler|Numirolakos the Gentler]]<br>
 **Location Type:** Animal Trainer
 
-**Description**<br> 
-
+**Description**<br>

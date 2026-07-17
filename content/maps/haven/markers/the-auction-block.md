@@ -1,8 +1,12 @@
 ---
-location: [2382.33,  1015.306]
+aliases: []
+tags: [map-marker]
+location: [1015.306, 2382.33]
 mapmarker: Shopping
+title: The Auction Block
+date modified: 2026-07-16, 9:18:39 pm
 ---
-#map-marker 
+
 # The Auction Block
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
@@ -19,5 +23,4 @@ mapmarker: Shopping
 **Location:** [[landmarks/the-auction-block|The Auction Block]]<br>
 **Location Type:** Livestock
 
-**Description**<br> 
-
+**Description**<br>
