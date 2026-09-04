@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [antheros, celestial, sky]
+tags: [Antheros, Antheros/celestial]
 title: Celestial Objects
-date modified: 2026-07-16, 9:19:08 pm
+date modified: 2026-08-17, 12:46:33 pm
 ---
 
 # Celestial Objects

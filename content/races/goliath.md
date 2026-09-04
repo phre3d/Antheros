@@ -1,17 +1,32 @@
 ---
-aliases: []
-tags: [import, race]
+aliases: [goliath-race]
+tags: [Race]
 title: Goliath Race
-date modified: 2026-07-16, 9:38:54 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Goliath Race
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>## Traits
+>**Ability Score Increase:** +2 STR, +1 CON1<br>
+>**Age:** Goliaths have lifespans comparable to humans.<br>
+>**Alignment:** Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on self-sufficiency and personal accountability, pushes them toward neutrality.<br>
+>**Size:** Medium<br>
+>**Speed:** 30'<br>
+>**Languages:** Common, Giant and Goliath.<br>
+>
+>---
+>
+>## Features
+>**Little Giant.**  You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
+>
+>**Mountain Born.**  You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.   
+>
+>**Stone's Endurance.**  You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction reduce the damage by an amount equal to 1d12 + CON modifier. You can use this trait a number of times equal to your proficiency bonus between long rests.
+
+
+
 At the highest mountain peaks, far above the slopes where trees grow and where the air is thin and the frigid winds howl-dwell the reclusive goliaths. Few folk can claim to have seen a goliath, and few still can claim friendship with one. Goliaths wander bleak realm of rock, wind, and cold. Their bodies look as if they are carved from mountain stone and give them great physical power. Their spirits take after the wandering wind, making them nomads who wander from peak to peak. Their hearts are infused with the cold regard of their frigid realm, leaving each goliath with the responsibility to earn a place in the tribe or die trying.
 
 Every day brings a new challenge to a Goliath. Food, water, and shelter are rare in the uppermost mountain reaches. A single mistake can bring doom to an entire tribe, while an individual's heroic effort can ensure the entire group's survival. Goliaths thus place a premium on self-sufficiency and individual skill. They have a compulsion to keep score, counting their deeds and tallying their accomplishments to compare to others. Goliaths love to win, but they see defeat as a prod to improve their skills. This dedication to competition has a dark side. Goliaths are ferocious competitors, but above all else they are driven to outdo their past efforts. If a Goliath slays a Dragon, he or she might seek out a larger, more powerful Wyrm to battle. Few Goliath adventurers reach old age, as most die attempting to surpass their past accomplishments.   
@@ -43,7 +58,7 @@ Among Goliaths, any adult who can't contribute to the tribe is expelled. A lone 
 
 1005549
 
----
+
 
 # Naming Traditions
 Every goliath has three names: a birth name assigned by the newborn's mother and father, a nickname assigned by the tribal chief, and a family or clan name. A birth name is up to three syllables long. Clan names are five syllables or more and end in a vowel.
@@ -57,91 +72,9 @@ Goliaths present all three names when identifying themselves, in the order of bi
 -  **Nicknames:**  Bearkiller, Dawncaller, Fearless, Flintfinder, Horncarver, Keeneye, Lonehunter, Longleaper, Rootsmasher, Skywatcher, Steadyhand, Threadtwister, Twice-Orphaned, Twistedlimb, Wordpainter
 -  **Clan Names:**  Anakalathai, Elanithino, Gathakanathi, Kalagiano, Katho-Olavi, Kolae-Gileana, Ogolakanu, Thuliaga, Thunukalathi, Vaimei-Laga
 
----
 
-# Culture
-## Major Language Groups & Dialects
 
-## Culture & Cultural Heritage
-
-## Shared Customary Codes & Values
-
-## Average Technological Level
-
-## Common Etiquette
-
-## Common Dress Code
-
-## Arts & Architecture
-
-## Average Technological Level
-
-## Foods & Cuisine
-
-## Common Myths & Legends
-
-## Major Historical Figures
-
-## Major Organizations
 
 ---
 
-# Rites & Observations
-## Birth / Baptismal Rites
-
-## Coming of Age Rites
-
-## Funerary & Memorial Customs
-
-## Common Customs & Observed Traditions
-
-## Common Taboos
-
----
-
-# Ideals
-## Beauty Ideals
-
-## Gender Ideals
-
-## Courtship Ideals
-
-## Relationship Ideals
-
-```
-
-```col-md
-**<span style="font-size:1.5em">Traits</span>**<br>
-**Ability Score Increase:** +2 STR, +1 CON1<br>
-**Age:** Goliaths have lifespans comparable to humans.<br>
-**Alignment:** Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on self-sufficiency and personal accountability, pushes them toward neutrality.<br>
-**Size:** Medium<br>
-**Speed:** 30'<br>
-**Languages:** Common, Giant and Goliath.<br>
-
----
-
-**<span style="font-size:1.5em">Traits</span>**<br>
-**Little Giant.**  You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.   
-
-**Mountain Born.**  You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.   
-
-**Stone's Endurance.**  You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction reduce the damage by an amount equal to 1d12 + CON modifier. You can use this trait a number of times equal to your proficiency bonus between long rests.
-
-```
-````
-
----
-
----start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+*Source:* 

@@ -1,13 +1,18 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, npc, person]
+tags: [Person, Person/npc, Plot/Burgled-Budgie]
 title: Jane Goodhorn
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 # Jane Goodhorn
 
-Tiefling Servant, CG
+
+>[!info] Portrait
+>![[plots/burgled-budgie/images/jane-goodhorn.png]]
+>(AI created)
+
+*Tiefling Servant, CG*
 
 >[!read aloud]
 >The young woman standing before you seems exceedingly shy and awkward. Her straight red hair is pulled into a bun, although a few fiery strands hang down from her mop cap. Her green eyes peer cautiously at you as she shifts from foot to foot nervously, her hands clasped in front of her. Her cheeks are a bit pink and speckled with freckles.
@@ -22,9 +27,7 @@ Jane tends to be taciturn, mumbling when she speaks. If [[plots/burgled-budgie/n
 
 She is embarrassed of her heritage and tries to divert attention away from the fact that she’s a tiefling.
 
->[!infobox]
->![[plots/burgled-budgie/images/jane-goodhorn.png]]
->(AI created)
+
 
 ---
 

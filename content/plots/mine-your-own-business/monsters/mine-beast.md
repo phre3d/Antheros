@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, Mine_Your_Own_Business, monster, statblock]
+tags: [Monster, Plot/Mine-Your-Own-Business, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col
@@ -52,32 +52,32 @@ Large Monstrosity unaligned
 
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Mother Beast makes two atacks with its claws and one with its bite.
 
-### Claw
+## Claw
 
   **Melee Weapon Attack:**  +6 to hit, reach 5 ft., one target.
 
   **Hit:**  8  slashing damage.
 
-### Bite
+## Bite
 
    **Melee Weapon Attack:[/br] +6 to hit, reach 5 ft., one creature.
 
   **Hit:**  11  piercing damage.
 
-## Usual Tactics
+# Usual Tactics
 
-### Ambush
+## Ambush
 
  The Mother Beast prefers to ambush its prey, using its Stealth bonus to hide in the shadows before atacking.
 
-### Protective Fury
+## Protective Fury
 
  If any of its cubs are atacked or killed, the Mother Beast begins a frenzied atack, focusing its aggression on the atacker.
 
-### Retreat
+## Retreat
 
  If reduced to below 25% of its hit points and if escape is possible, the Mother Beast will atempt to flee, prioritizing its survival and the protection of its remaining cubs.<br>

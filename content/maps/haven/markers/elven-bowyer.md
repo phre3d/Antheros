@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2164.286, 3221.105]
 mapmarker: Shopping
 title: Elven Bowyer
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Elven Bowyer

@@ -1,228 +1,107 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, guild/word, import, npc, person, the-cauldron]
+tags: [Organization/professional/guild-of-the-word, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/outlands/cauldron]
 title: Darvi arn Malakki
-date modified: 2026-07-16, 9:18:27 pm
+date modified: 2026-08-20, 8:03:17 pm
 ---
 
 # Darvi arn Malakki
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1516
+>
+>
+> **Class/Profession:**  Scholar 8th
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-masters-quill|The Master's Quill]]
+>- [[settlements/haven/the-outlands/the-cauldron|The Cauldron]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/dwarf|Dwarf]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Dwarvish |  Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-outlands/the-cauldron| The Cauldron]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Darvi  arn Malakki
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A bespectacled dwarf of middle years with bright blue eyes and a cheery voice married to [[person/meekin-arn-malakki|Meekin arn Malakki]]. Darvi is more than a seller of books and maps -  he is a trained scholar and historian and can read over a dozen languages, both contemporary and ancient. He is also a student of myth and legend and has an 85% chance of having some information on a given topic if it concerns dwarves or dwarvish history, with a 45% chance on non-dwarvish topics.
 
-![[dndline.png]]
+A bespectacled dwarf of middle years with bright blue eyes and a cheery voice married to [[people/meekin-arn-malakki|Meekin arn Malakki]]. Darvi is more than a seller of books and maps -  he is a trained scholar and historian and can read over a dozen languages, both contemporary and ancient. He is also a student of myth and legend and has an 85% chance of having some information on a given topic if it concerns dwarves or dwarvish history, with a 45% chance on non-dwarvish topics.
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/darvi-arn-malakki-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/darvi-arn-malakki-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/darvi-arn-malakki-person)
 
-````
-````col-md
-
-
-**ID #**  1516
-
-
- **Class/Profession:**  Scholar 8th
-
-
- **Places Encountered** 
-- [[landmark/the-masters-quill|The Master's Quill]]
-- [[settlement/the-cauldron|The Cauldron]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/dwarven-race|Dwarven Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Dwarvish |  Common<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[settlement/the-cauldron|The Cauldron]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/darvi-arn-malakki]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

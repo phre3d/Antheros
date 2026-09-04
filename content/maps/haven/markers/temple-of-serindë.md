@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3995.918, 4608.86]
 mapmarker: Religion
 title: Temple of Serindë
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Temple of Serindë
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: M15 (GU)
 
-**Location:** [[landmarks/temple-of-serindë|Temple of Serindë]]<br>
+**Location:** [[landmarks/temple-of-serinde|Temple of Serindë]]<br>
 **Location Type:** Temple
 
 **Description**<br>

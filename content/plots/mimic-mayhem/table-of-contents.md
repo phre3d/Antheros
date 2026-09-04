@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, plot]
+date modified: 2026-08-26, 2:30:46 pm
+tags: [Plot, Plot/Mimic-Mayhem]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 **[[plots/mimic-mayhem/mimic-mayhem|Introduction]]**<br>
@@ -24,7 +24,5 @@ date modified: 2026-07-16, 9:18:14 pm
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/tiny-mimic|Tiny Mimic]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/small-mimic|Small Mimic]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/medium-mimic|Medium Mimic]]<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/large-mimic|Large Mimic]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[plots/mimic-mayhem/monsters/huge-mimic|Huge Mimic]]<br>
-

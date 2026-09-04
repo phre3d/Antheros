@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2151.02, 3116.003]
 mapmarker: Shopping
 title: Ye Apothecary Shoppe
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Ye Apothecary Shoppe

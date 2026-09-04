@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-landmark, Free_City_of_Haven, import, landmark, scholars-triangle, type-ruin]
+tags: [Haven/outlands/cauldron/scholars-triangle, Landmark, Landmark/ruin, Plot/Free-City-of-Haven]
 title: The Ruined Barracks of the Strathspey Regiment
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Ruined Barracks of the Strathspey Regiment
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Ruin (Landmark) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/scholars-triangle|Scholar's Triangle]] <br>
+>**Grid (Key) Ref.:**    F11 (JV)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Ruins  <br>
 
 ## Ruined barracks of an almost forgotten regiment
 
@@ -24,95 +29,9 @@ shadow: off
 
 On the edge of Erinhir by Scholar's Triangle is a large building  in ruins. It's what's left of the barracks of the Strathsprey Regiment. The regiment was nearly wiped out to a man during an uprising
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Ruin (Landmark)**
-
- **Owner:**  
-
- **District:**  Scholar's Triangle
-
- **Grid (Key) Ref.:**   F11 (JV)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Ruins
-
-**Parent Location:**
-
-[[settlements/scholars-triangle|Scholar's Triangle]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** c14c4abc-be0f-421b-a1d2-fb1e65887cc9<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Scholar's Triangle<br>
-**Tags:** fcoh,scholars-triangle-location,cat-landmark,type-ruin,landmark
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

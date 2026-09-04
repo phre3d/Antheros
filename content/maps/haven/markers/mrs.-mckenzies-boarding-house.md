@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2425.187, 6997.959]
 mapmarker: Residence
 title: "Mrs. McKenzie's Boarding House"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Mrs. McKenzie's Boarding House
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: W07 (CA)
 
-**Location:** [[landmarks/mrs.-mckenzies-boarding-house|Mrs. McKenzie's Boarding House]]<br>
+**Location:** [[landmarks/mrs-mckenzies-boarding-house|Mrs. McKenzie's Boarding House]]<br>
 **Location Type:** Rooming House
 
 **Description**<br>

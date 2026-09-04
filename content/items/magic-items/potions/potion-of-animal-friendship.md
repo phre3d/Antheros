@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Animal Friendship
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Animal Friendship
@@ -27,14 +27,14 @@ When you drink this potion, you can cast the animal friendship spell (DC 13) for
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Life  Shadow  <br>
 **Spell Needed:** *Animal Friendship* <br>
 **Other:**
@@ -49,4 +49,3 @@ When you drink this potion, you can cast the animal friendship spell (DC 13) for
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

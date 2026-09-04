@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, plot, plot/The_City_Watch]
+tags: [Plot, Plot/The-City-Watch]
 title: The City Watch
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # The City Watch
@@ -12,7 +12,7 @@ date modified: 2026-07-16, 9:18:12 pm
 flexGrow=2.5
 ===
 # Foreward 
-What follows is based upon  **The City Watch** , a series of adventures obtained via [Kickstarter campaign](https://www.kickstarter.com/projects/skd/one-hour-rpg-the-city-watch/) of the same name (full credits, below).  It has been modified to fit within the [[settlements/free-city-of-haven]] setting in this world.
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Introduction 
 In these ten adventures, the player characters (PCs) are all members of the [[organization/haven-city-watch]]. Their duties will involve patrolling the streets, manning the city gates, investigating crimes, and doing whatever [[person/lyza]], the captain of the guard, tells them to.

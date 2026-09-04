@@ -1,36 +1,30 @@
 ---
 aliases: []
-tags: [class, class/Ranger]
+tags: [Class, Class/ranger]
 title: Ranger
-date modified: 2026-07-16, 9:19:04 pm
+date modified: 2026-08-17, 12:46:32 pm
 ---
 
 # Ranger
 
+>[!info]
+>**Hit Dice:** 1d10 per Ranger level<br>
+>**Hit Points @ 1st Level:**  10 + Constitution modifier<br>
+>**Hit Points @ Higher Levels:**  1d10 + Constitution modifier per Ranger level after 1st<br>
+>**Armour Proficiencies:**  Light Armor, Medium Armor, Shields<br>
+>**Weapon Proficiencies:**  Simple Weapons and Martial Weapons<br>
+>**Tools:**  None<br>
+>**Saving Throws:**  Dexterity, Strength<br>
+>**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival<br>
+>**Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your background:
+>- scale mail OR leather armor
+>- two shortswords OR two simple melee weapons
+>- a dungeoneer's pack OR an explorer's pack
+>- A longbow and a quiver of 20 arrows
+
 Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.
 
-**Variant - Urban Stalker:**  Given that the city is just another kind of jungle, a small number of Rangers choose to stalk the streets and alleyways of of larger urban areas. These individuals' skills are attuned to the city and they follow the Conclave of the Urban Stalker. If you choose this path then you must choose Conclave of the Urban Stalker and the variant skills replace their non-urban counterparts.
-
----
-
-**Hit Dice:** 1d10 per Ranger level<br>
-**Hit Points @ 1st Level:**  10 + Constitution modifier<br>
-**Hit Points @ Higher Levels:**  1d10 + Constitution modifier per Ranger level after 1st<br>
-**Armour Proficiencies:**  Light Armor, Medium Armor, Shields<br>
-**Weapon Proficiencies:**  Simple Weapons and Martial Weapons<br>
-**Tools:**  None<br>
-**Saving Throws:**  Dexterity, Strength<br>
-**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival<br>
-**Starting Equipment:**
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- scale mail or leather armor
-- two shortswords or two simple melee weapons
-- a dungeoneer's pack or an explorer's pack
-- A longbow and a quiver of 20 arrows
-
----
+**Variant - Urban Stalker:**  Given that the city is just another kind of jungle, a small number of Rangers choose to stalk the streets and alleyways of of larger urban areas. These individuals' skills are attuned to the city and they follow the conclave-of-the-Urban Stalker. If you choose this path then you must choose conclave-of-the-Urban Stalker and the variant skills replace their non-urban counterparts.
 
 # Spellcasting
 
@@ -61,8 +55,6 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 - **3rd Level:**  Conjure Animals, Plant Growth, Speak with Plants, Water Walk are pleaced by Dispel Magic, Glyph of Warding,Speak with Dead, Tongues
 - **4th Level:**  Conjure Woodland Beings is replaced by Faithful Hound
 - **5th Level:**  Commune with Nature, Tree Stride is replaced by Hold Monster, Mislead
-
----
 
 # Class Features
 
@@ -141,46 +133,33 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
  At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-# Subclass Options
+# Ranger Conclaves (Subclasses)
 
  At 3rd level, you choose to emulate the ideals and training of a ranger conclave. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.  
 
->[!info]- Conclave of the Beast Master
->Class/Subclass/Conclave of the Beast Master|Conclave of the Beast Master]]
+>classes/ranger/conclave-of-the-beast-master|Conclave of the Beast Master]]
 
->[!info]- Conclave of the Bushwhacker
->Class/Subclass/Conclave of the Bushwhacker|Conclave of the Bushwhacker]]
+>classes/ranger/conclave-of-the-bushwhacker|Conclave of the Bushwhacker]]
 
->[!info]- Conclave of the Drakewarden
->[Class/Subclass/Conclave of the Drakewarden|Conclave of the Drakewarden]]
+>classes/ranger/conclave-of-the-drakewarden|Conclave of the Drakewarden]]
 
->[!info]-  Conclave of the Fey Wanderer
->Class/Subclass/Conclave of the Fey Wanderer|Conclave of the Fey Wanderer]]
+>classes/ranger/conclave-of-the-fey-wanderer|Conclave of the Fey Wanderer]]
 
->[!info]-  Conclave of the Gloom Stalker
->Class/Subclass/Conclave of the Gloom Stalker|Conclave of the Gloom Stalker]]
+>classes/ranger/conclave-of-the-gloom-stalker|Conclave of the Gloom Stalker]]
 
->[!info]-  Conclave of the Horizon Walker
->Class/Subclass/Conclave of the Horizon Walker|Conclave of the Horizon Walker]]
+>classes/ranger/conclave-of-the-horizon-walker|Conclave of the Horizon Walker]]
 
->[!info]-  Conclave of the Hunter
->Class/Subclass/Conclave of the Hunter|Conclave of the Hunter]]
+>classes/ranger/conclave-of-the-hunter|Conclave of the Hunter]]
 
->[!info]-  Conclave of the Monster Slayer
->Class/Subclass/Conclave of the Monster Slayer|Conclave of the Monster Slayer]]
+>classes/ranger/conclave-of-the-monster-slayer|Conclave of the Monster Slayer]]
 
->[!info]-  Conclave of the Primeval Guardian
->Class/Subclass/Conclave of the Primeval Guardian|Conclave of the Primeval Guardian]]
+>classes/ranger/conclave-of-the-primeval-guardian|Conclave of the Primeval Guardian]]
 
->[!info]-  Conclave of the Swarmkeeper
->Class/Subclass/Conclave of the Swarmkeeper|Conclave of the Swarmkeeper]]
+>classes/ranger/conclave-of-the-swarmkeeper|Conclave of the Swarmkeeper]]
 
->[!info]-  Conclave of the Urban Stalker
->Class/subclass/Conclave of the Urban Stalker|Conclave of the Urban Stalker]]
+>classes/ranger/conclave-of-the-urban-stalker|Conclave of the Urban Stalker]]
 
----
-
-## Table Data
+# Table Data
 
 |Level | Proficiency | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |:----:|:----:|----|:----:|:----:|:----:|:----:|:----:|:----:|

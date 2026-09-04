@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3010.204, 3085.391]
 mapmarker: Residence
 title: House of Lisa Duncan
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # House of Lisa Duncan

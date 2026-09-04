@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Iron Stomach
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Iron Stomach
@@ -33,14 +33,14 @@ It is still used today as a remedy for a delicate stomach or for festivals where
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -55,4 +55,3 @@ It is still used today as a remedy for a delicate stomach or for festivals where
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

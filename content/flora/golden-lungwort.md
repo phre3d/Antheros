@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-fire-plant, flora, import]
-title: Golden Lungwort
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/fire]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Golden Lungwort
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-The golden lungwort has large oval leaves, covered in small hairs and small pale blotches. It grows to a height of about 1 foot, and has small bell-shaped flowers with five petals which change color from pink to mauve to blue. Flowers of different colors are often found on the same plant.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 6 gp  <br>
+>**Rarity:** Uncommon <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+The golden lungwort has large oval leaves, covered in small hairs and small pale blotches. It grows to a height of about 1 foot, and has small bell-shaped flowers with five petals which change color from pink to mauve to blue. Flowers of different colors are often found on the same plant. 
 
 # Natural Range
+
 Forests
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 This herb heals the user of all aches and pains at the cost of -1 to all Intelligence­based ability checks for the next 4 hours.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-fire|Essence of Fire]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-fire | Essence of Fire ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 6 gp<br>
-**Rarity:** Uncommon<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

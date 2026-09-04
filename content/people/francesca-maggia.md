@@ -1,226 +1,106 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+tags: [Organization/family/maggia-family, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/heights]
 title: Francesca Maggia
-date modified: 2026-07-16, 9:18:26 pm
+date modified: 2026-08-20, 8:03:18 pm
 ---
 
 # Francesca Maggia
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  285
+>
+>
+> **Class/Profession:**  Noble 1st
+>
+>
+> **Places Encountered**
+>- [[organizations/families/maggia-family|Maggia Family]] Crypt
+>- [[settlements/haven/the-heights/the-heights|The Heights]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  [[organizations/families/maggia-family| Maggia Family]] <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**  Deceased <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-heights/the-heights| The Heights]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Francesca  Maggia
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Recently deceased head of the [[organization/maggia-family|Maggia Family]]. She leaves behind a large and somewhat fractured family. [[person/gilberto-maggia|Gilberto Maggia]] has assumed the family leadership role. 
+
+Recently deceased head of the [[organizations/families/maggia-family|Maggia Family]]. She leaves behind a large and somewhat fractured family. [[people/gilberto-maggia|Gilberto Maggia]] has assumed the family leadership role.
 
  [familytree:a9232402-5b98-4e76-a3be-cfc0177ddaa3]
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/francesca-maggia-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/francesca-maggia-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/francesca-maggia-person)
 
-````
-````col-md
-
-
-**ID #**  285
-
-
- **Class/Profession:**  Noble 1st
-
-
- **Places Encountered** 
-- [[organization/maggia-family|Maggia Family]] Crypt
-- [[settlement/the-heights|The Heights]]
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** [[organization/maggia-family|Maggia Family]]<br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  Deceased<br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-heights|The Heights]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

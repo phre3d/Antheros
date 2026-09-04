@@ -1,8 +1,16 @@
-#import #profession 
+---
+aliases: []
+tags: [Profession]
+title: 
+date modified: 2026-08-08, 3:16:28 pm
+---
+
+# ///profession///
+
 >[!info]
 >**Alternative Names:**  
 >
->**Type:** 
+>**Type:**
 >
 >**Famous in the Field:**
 >- [[people/]]
@@ -25,59 +33,47 @@
 >**Related Technologies:**
 >- [[rank/title]]
 
+***Tagline***
 
-# Title
-
+# Description
 
 
 
 # Career
-## Qualifications
 
+## Qualifications
 
 ## Career Progression
 
-
 ## Payment & Reimbursement
-
 
 ## Benefits
 
 
-
-
 # Perception
-## Purpose / Function
 
+## Purpose / Function
 
 ## Demand
 
-
 ## Legality
-  
 
 ## Social Status
 
-
 ## Demographics
-
 
 ## History
 
 
 
-
 # Operations
-## Tools
 
+## Tools
 
 ## Materials
 
-
 ## Workplace
 
-
 ## Provided Services
-
 
 ## Hazards

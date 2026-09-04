@@ -1,20 +1,16 @@
 ---
 aliases: []
-tags: [article, plot/clockwork-tower, import]
+tags: [Plot/Clockwork-Tower]
 title: NPCs, Monsters, and Items
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
+
+![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
 
 # NPCs, Monsters, and Items
 
----start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/clockwork-tower/table-of-contents|Table of Contents]]
 
 The Clockwork Tower introduces several new NPCs, Monsters, and Items unique to the plot.
 
@@ -52,31 +48,9 @@ The Clockwork Tower introduces several new NPCs, Monsters, and Items unique to t
 - [[plots/clockwork-tower/items/gears-of-constant-motion]]
 - [[plots/clockwork-tower/items/temporal-quill]]
 
---- end-column ---
-
-![[plots/clockwork-tower/table-of-contents|Table of Contents]]
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
-Previous:
-
-8d22fb05-8f06-406f-88ea-5d6d766b711b
-
---- end-column ---
-
-Next:
-
-3a33908c-c76f-486d-a6a1-c424d3a81707
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/clockwork-tower/resolution" class="internal-link">Resolution</a></span>
+  <span class="nav-next">Next: <a href="plots/clockwork-tower/scaling-monster-numbers" class="internal-link">Scaling Monster Numbers</a> →</span>
+</div>

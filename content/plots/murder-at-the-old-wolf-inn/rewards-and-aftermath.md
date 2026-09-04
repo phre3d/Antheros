@@ -1,32 +1,23 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Rewards and Aftermath
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Rewards and Aftermath
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Outline
 
 If the characters succeed in solving the mystery at the Old Wolf Inn, Kara Tanner will reward them with 50 gp.
 
 In addition, [[plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer|Inga Broadhammer]] gives them an additional 50 gp and a wooden barrel filled with her finest apple brandy. She adds that the characters are always welcome back to the Old Wolf Inn and never have to pay for their stay.
 
-## the guests chime in
 
-[[plots/murder-at-the-old-wolf-inn/npcs/william-fastfinger|William Fastfinger]] joins in the congratulations y composing a surprisingly good and catchy song about the whole incident. He titles the song “Who Killed the Guard in the Night – Can You Perchance Figure It Out?”, and over the following years, it becomes a rather popular drinking song. In addition, [[plots/murder-at-the-old-wolf-inn/npcs/hugo-von-silverton|Hugo von Silverton]] (if he is still alive) offers the characters a 20% discount on his current and future goods, should their paths cross again.
+[[plots/murder-at-the-old-wolf-inn/npcs/william-fastfinger|William Fastfinger]] joins in the congratulations by composing a surprisingly good and catchy song about the whole incident. He titles the song “Who Killed the Guard in the Night – Can You Perchance Figure It Out?”, and over the following years, it becomes a rather popular drinking song. In addition, [[plots/murder-at-the-old-wolf-inn/npcs/hugo-von-silverton|Hugo von Silverton]] (if he is still alive) offers the characters a 20% discount on his current and future goods, should their paths cross again.
 
 Finally, [[plots/murder-at-the-old-wolf-inn/npcs/enoch-the-birdwhisperer|Enoch the Birdwhisperer]] gives the characters a silver spoon for “Bringing peace to the forest and my favourite inn.” The antique spoon (worth 10 gp) was recently brought to Enoch by his tame raven, named Crow, who pinched it from a stenbumling troll's treasure hidden deep in the forest. Crow isn't overly pleased with Enoch's generosity and will make a discreet attempt to steal the spoon back from the characters.
 
@@ -60,24 +51,10 @@ When the characters are about to leave the inn, Inga waits by the entrance to bi
  >
  > You glance at the sky as you step outside. The dark clouds have passed, and the fierce wind has abated. The road and a bright and beautiful autumnal day lie before you.
 
---- end-column ---
 
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
-
-![[~attachments/dndline.png]]
-
---- end-multi-column
-
----
-
-````col
-```col-md
-Previous: [[plots/murder-at-the-old-wolf-inn/unfolding-the-mystery|Unfolding the Mystery]]
-```
-
-```col-md
-textAlign=right
-===
-Next: [[plots/murder-at-the-old-wolf-inn/appendix|Appendix]]
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/unfolding-the-mystery" class="internal-link">Unfolding the Mystry</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/appendix" class="internal-link">Appendix</a> →</span>
+</div>

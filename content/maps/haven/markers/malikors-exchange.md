@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1363.962, 3753.061]
 mapmarker: Shopping
 title: "Malikor's Exchange"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Malikor's Exchange

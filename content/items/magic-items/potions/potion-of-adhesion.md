@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Adhesion
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Adhesion
@@ -33,14 +33,14 @@ This potion was created by a thieves guild in a tropical region after observing 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Base:** [[/materials/aqua-regia|Aqua Regia]]<br>
 **Essence(s):**   Earth  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Giant Spider Spinnerette
@@ -55,4 +55,3 @@ This potion was created by a thieves guild in a tropical region after observing 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

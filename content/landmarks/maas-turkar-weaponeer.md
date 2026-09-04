@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-heights, type-weapons, weapons]
+tags: [Haven/heights, Organization/professional/armorers-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/weapons]
 title: Maas Turkar - Weaponeer
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Maas Turkar - Weaponeer
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Weapons (Shopping) <br>
+>**Owner:**  [[people/maas-turkar|Maas Turkar]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G20 (CO)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Excellent Swords and Bows
+***Excellent Swords and Bows***
 
 ## Description
 
@@ -42,95 +47,9 @@ Good/excellent.
 
 [[people/bruning-de-la-riis|Bruning de la Riis]] | [[people/tenley-tainley|Tenley Tainley]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Weapons (Shopping)**
-
- **Owner:**  Maas Turkar
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G20 (CO)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/maas-turkar|Maas Turkar]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** e896b418-1b05-4320-979c-0009eec68426<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-shop,type-weapons,armorers-guild-location,weapons
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

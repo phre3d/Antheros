@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, monster, statblock]
+tags: [Monster, Plot/Dark-Nuns-Church, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ````col
@@ -54,13 +54,13 @@ Medium Undead Any evil
 
 # Actions
 
-### Withering Touch
+## Withering Touch
 
   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  17 ) necrotic damage.  
 
-### Possession
+## Possession
 
  The Ghost can also possess a single person in their mind. The victim must make a <u>DC13 Wisdom saving throw</u> or become Frightened for one minute. On an <u>unsuccessful saving throw, the Ghost must roll an Intimidation Check</u> . If the value exceeds 18, the target takes  psychic damage.
 

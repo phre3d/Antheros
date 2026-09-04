@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Fortifying Powder
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Fortifying Powder
@@ -27,14 +27,14 @@ Drinking this potion provides 2d4 temporary hit points. A creature cannot benefi
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Life  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ Drinking this potion provides 2d4 temporary hit points. A creature cannot benefi
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

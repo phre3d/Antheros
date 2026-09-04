@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2430.289, 3996.939]
 mapmarker: Entertainment
 title: "Frod's Theater"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Frod's Theater

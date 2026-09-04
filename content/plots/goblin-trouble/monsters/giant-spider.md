@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, import, monster, statblock]
+tags: [Monster, Plot/Goblin-Trouble, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 ````col
@@ -54,13 +54,13 @@ Large beast
 
 # Actions
 
-### Bite.
+## Bite
 
   **Melee weapon attack.**   to hit, reach 5 feet, one target.
 
   **Hit:**  7  piercing damage, and the target must make a <u>DC 11 Constitution saving throw</u>, taking 9  poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.  
 
-### Web
+## Web
 
   **Recharge:**  5-6
 

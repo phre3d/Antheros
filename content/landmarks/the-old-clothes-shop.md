@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-labyrinth, type-general-clothing]
+tags: [Haven/labyrinth, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/general-clothing]
 title: The Old Clothes Shop
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Old Clothes Shop
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Clothing (Shopping) <br>
+>**Owner:**  [[people/jasper-reid|Jasper Reid]] <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    P04 (SZ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Tailor  <br>
 
 ## Clothing buy 'n' sell
 
@@ -24,93 +29,9 @@ shadow: off
 
 Old arthritic Jasper buys and sells used clothing from this dilapidated house. If he suspects anything of why business has improved in recent months, he says nothing. Jasper did not reach his present age by indulging his curiosity.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Clothing (Shopping)**
-
- **Owner:**  Jasper Reid
-
- **District:**  
-
- **Grid (Key) Ref.:**   P04 (SZ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Tailor
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/jasper-reid|Jasper Reid]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f07f7915-f388-4dd1-bff2-b93c3ec8974b<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-shop,type-general-clothing,guild-of-the-loom-location,general-clothing
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

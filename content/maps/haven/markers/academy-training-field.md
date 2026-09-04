@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1379.592, 1951.717]
 mapmarker: City Guard
 title: Academy Training Field
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Academy Training Field

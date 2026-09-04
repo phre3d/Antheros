@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [4744.898, 943.554]
 mapmarker: Residence
 title: The House of Mordecai - Healer
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The House of Mordecai - Healer

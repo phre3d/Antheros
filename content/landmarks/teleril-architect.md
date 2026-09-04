@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, construction, erinhir, Free_City_of_Haven, guild/erectors, import, landmark, type-construction]
+tags: [Haven/outlands/erinhir, Organization/professional/guild-of-erectors, Plot/Free-City-of-Haven, Shop, Shop/service/construction]
 title: Teleril - Architect
-date modified: 2026-07-16, 9:18:47 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Teleril - Architect
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Construction (Service) <br>
+>**Owner:**  [[people/teleril-conindir|Teleril Conindir]] <br>
+>**District:** [[settlements/haven/the-outlands/erinhir|Erinhir]] <br>
+>**Grid (Key) Ref.:**    L11 (JA)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Advice and custom planning
 
@@ -46,7 +51,7 @@ Excellent.
 
 ## Cash Box
 
-In Teleril's office desk-drawer, a stout leather bag with a Complexity 2 lock contains receipts, invoices and IOU's, in addition to 1d10 x 1d100gp.
+In Teleril's office desk-drawer, a stout leather bag with a Complexity 2 lock contains receipts, invoices and IOU's, in addition to  x 1d100gp.
 
 ## Staff
 
@@ -58,7 +63,7 @@ A player trying for a job with Tel will get it only if a saving roll against CHA
 
 ## Customers
 
-There is a 50% chance for 1d4 individual customers at all times, and a separate 30% chance for 1d2 couples looking at samples and asking advice.
+There is a 50% chance for  individual customers at all times, and a separate 30% chance for 1d2 couples looking at samples and asking advice.
 
 ## NPC Encounters
 
@@ -68,95 +73,9 @@ Various nobles looking for good (and hopefully free) advice are occasionally enc
 
 Good drawing tools and pens, high quality paper, and expensive furniture.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Construction (Service)**
-
- **Owner:**  Teleril Conindir
-
- **District:**  Erinhir
-
- **Grid (Key) Ref.:**   L11 (JA)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/erinhir|Erinhir]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/teleril-conindir|Teleril Conindir]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** e94390ec-8cbe-41f0-83d2-fbff8e183fcd<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Erinhir<br>
-**Tags:** fcoh,erinhir-location,cat-shop,type-construction,guild-of-erectors-location,construction
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

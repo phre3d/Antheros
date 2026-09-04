@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Levitation
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Levitation
@@ -29,14 +29,14 @@ The object rises 5 feet into the air and floats there for 10 minutes. The object
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium grease]]<br>
 **Essence(s):** Air    Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -51,4 +51,3 @@ The object rises 5 feet into the air and floats there for 10 minutes. The object
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

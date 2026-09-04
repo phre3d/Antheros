@@ -1,9 +1,21 @@
-#plot  
+---
+aliases: []
+tags: [Plot, Plot/.......]
+title: 
+date modified: 2026-08-08, 3:16:11 pm
+---
+
+![[header image]]
+
+# ///Title///
+
+### subtitle
+
 >[!info]
->![[image-link]]
+>![[cover page]]
 >
 >---
-> 
+>
 >![[plots/xxxx/table-of-contents]]
 >
 >---
@@ -21,9 +33,6 @@
 >**Related Locations:**
 >- [[location-link]]
 
-# Title
-### subtitle
+***Tagline***
 
-
-
-
+# Description

@@ -1,30 +1,29 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: javyd-gudas
 name: Javyd Gudas
 sex: male
 born: 1130
-spouse: "[[plots/the-gypsy-train/npcs/tierza-gudas|Tierza Gudas]]"
+spouse: "[[plots/the-gypsy-train/npcs/tierza-gudas]]"
 spouse-id: tierza-gudas
 children:
-  - "[[plots/the-gypsy-train/npcs/dravyn-gudas|Dravyn Gudas]]"
-  - "[[plots/the-gypsy-train/npcs/mazyna-gudas|Mazyna Gudas]]"
-  - "[[plots/the-gypsy-train/npcs/ryndana-gudas|Ryndana Gudas]]"
-children_id:
-  - dravyn-gudas
-  - mazyna-gudas
-  - ryndana-gudas
-sibling: "[[plots/the-gypsy-train/npcs/Survillo Gudas]]"
+  - "[[plots/the-gypsy-train/npcs/dravyn-gudas]]"
+  - "[[plots/the-gypsy-train/npcs/mazyna-gudas]]"
+  - "[[plots/the-gypsy-train/npcs/ryndana-gudas]]"
+sibling: "[[plots/the-gypsy-train/npcs/survillo-gudas]]"
 sibling_id: survillo-gudas
 title: Javyd Gudas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Javyd Gudas
 
-Medium, human, chaotic good
+>[!info] Portrait
+>IMAGE
+
+*Medium, human, chaotic good*
 
 **Profession:**
 
@@ -51,10 +50,9 @@ Medium, human, chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
+
 
 # Description
 
@@ -68,7 +66,6 @@ Since his marriage, Javyd has handled more than his fair share of the work and h
 
 Javyd is a 3rd-level human fighter, cha­otic good, with Str 13, Int 9, Wis 15, Dex 11, Con 11, Cha 8, AC 5, and 13 hp. He wears chain mail and carries a *short sword*, a *short bow* with 12 arrows, and a *dagger*.
 
----
 
 # Actions
 

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1793.554, 6377.551]
 mapmarker: Service
 title: "Sym's Storage Company"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Sym's Storage Company

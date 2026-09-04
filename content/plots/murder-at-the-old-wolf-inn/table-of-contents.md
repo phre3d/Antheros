@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Murder-at-the-Old-Wolf-Inn, toc]
+tags: [Plot/Murder-at-the-Old-Wolf-Inn, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 **[[plots/murder-at-the-old-wolf-inn/murder-at-the-old-wolf-inn|Introduction]]** <br>

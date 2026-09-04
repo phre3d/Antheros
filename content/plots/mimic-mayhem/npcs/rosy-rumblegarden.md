@@ -1,13 +1,16 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, npc, person]
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-26, 2:30:19 pm
+tags: [Person, Person/npc, Plot/Mimic-Mayhem]
 title: Rosy Rumblegarden
 ---
 
 # Rosy Rumblegarden
 
-Small, humanoid (Lightfoot Halfling), neutral good
+>[!info] Portrait
+>![[plots/mimic-mayhem/images/rosy-rumblegarden.jpg]]
+
+*Small, humanoid (Lightfoot Halfling), neutral good*
 
 **Profession:**
 
@@ -15,30 +18,19 @@ Small, humanoid (Lightfoot Halfling), neutral good
 **Hit Points:** 4<br>
 **Movement:** 25'
 
----
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 |  () |  () |  () |  () |  () |  () |
 
----
-
 **Languages:** halfling, common<br>
 **Senses:** <br>
 **Skills:**
-
->[!infobox]
->![[plots/mimic-mayhem/images/rosy-rumblegarden.jpg]]
-
----
 
 # Description
 
 **Ideals:** <br>
 **Bonds:** <br>
 **Flaws:** <br>
-
----
 
 # Actions
 

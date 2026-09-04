@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3981.633, 6388.452]
 mapmarker: Dining
 title: "Silvante's"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Silvante's

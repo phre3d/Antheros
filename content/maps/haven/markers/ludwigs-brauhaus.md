@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2908.86, 4069.388]
 mapmarker: Inns & Taverns
 title: "Ludwig's Brauhaus"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Ludwig's Brauhaus

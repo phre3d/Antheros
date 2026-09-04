@@ -1,234 +1,113 @@
 ---
 aliases: []
-tags: [council-of-masters, Free_City_of_Haven, guild/entertainers, import, npc, person, the-cleff, the-street-of-harps]
+tags: [Organization/government/council-of-masters, Organization/professional/guild-of-entertainers, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/south-corridor/cleff, Settlement/haven/south-corridor/street-of-harps]
 title: Helvia Larksong
-date modified: 2026-07-16, 9:18:25 pm
+date modified: 2026-08-20, 8:03:19 pm
 ---
 
 # Helvia Larksong
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  726
+>
+>
+> **Class/Profession:**  Bard 7th
+>
+>
+> **Places Encountered**
+>- Street of Harps
+>- [[landmarks/guildhall-of-entertainers|Guildhall of Entertainers]]
+>- Hall of All Guilds
+>- [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**  [[settlements/haven/the-south-corridor/the-cleff|The Cleff]]   <br>
+>**Current Location:**   [[settlements/haven/the-south-corridor/the-street-of-harps| The Street of Harps]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**  [[organizations/professional/guild-of-entertainers|Guild of Entertainers]]
 
 **Full Name:**  Helvia  Larksong
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Master of Journeymen in the Entertainers Guild, Helvia is a middle-aged, slightly built woman with bright blue eyes, greying hair, a vibrant personality, and an iron will. Dedicated to her job of overseeing the Guild's various journeymen, she knows them all by name. She also has on file were each journeyman is assigned, and would be in charge of finding a "situation" for a new journeyman (i.e. a player character). 
 
- She is happily married to Petrovio Larksong, a composer, and lives in [[landmark/the-cleff|The Cleff]]. She despises [[person/rael-gavotte|Rael Gavotte]] for personal reasons. 
+Master of Journeymen in the Entertainers Guild, Helvia is a middle-aged, slightly built woman with bright blue eyes, greying hair, a vibrant personality, and an iron will. Dedicated to her job of overseeing the Guild's various journeymen, she knows them all by name. She also has on file were each journeyman is assigned, and would be in charge of finding a "situation" for a new journeyman (i.e. a player character).
 
- Helvia knows that the harper-journeyman [[person/vernadot|Vernadot]] has recently become a member of the Temple of the Sky, and will answer questions to this effect, if she believes the questioners are friends of [[person/vernadot|Vernadot]]'s, or have a legitimate reason for needing to find him.
+ She is happily married to Petrovio Larksong, a composer, and lives in [[landmarks/the-cleff|The Cleff]]. She despises [[people/rael-gavotte|Rael Gavotte]] for personal reasons.
 
-![[dndline.png]]
+ Helvia knows that the harper-journeyman [[people/vernadot|Vernadot]] has recently become a member of the Temple of the Sky, and will answer questions to this effect, if she believes the questioners are friends of [[people/vernadot|Vernadot]]'s, or have a legitimate reason for needing to find him.
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/helvia-larksong-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/helvia-larksong-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/helvia-larksong-person)
 
-````
-````col-md
-
-
-**ID #**  726
-
-
- **Class/Profession:**  Bard 7th
-
-
- **Places Encountered** 
-- Street of Harps
-- [[landmark/guildhall-of-entertainers|Guildhall of Entertainers]]
-- Hall of All Guilds
-- [[settlement/the-south-corridor|The South Corridor]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** @[The Cleff](settlement:a16bded8-1db4-4f82-88d1-5e272e9e5f75)<br>
-**Current Location:**  [[article/the-street-of-harps|The Street of Harps]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  [[Organization/Guild of Entertainers|]]<br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/helvia-larksong]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

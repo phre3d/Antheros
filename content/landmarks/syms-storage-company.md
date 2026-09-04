@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, the-south-docks, type-warehouse, warehouse]
+tags: [Building/warehouse, Haven/commons/south-docks, Organization/professional/guild-of-drayers, Plot/Free-City-of-Haven, Shop, Shop/service/warehouse]
 title: "Sym's Storage Company"
-date modified: 2026-07-16, 9:18:47 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Sym's Storage Company
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Warehouse (Service) <br>
+>**Owner:**  [[people/lazar-symbocca|Lazar Symbocca]] <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    U05 (AM)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Warehouse, Commercial  <br>
 
 ## Warehouse space for rent
 
@@ -30,95 +35,9 @@ The warehouse is used primarily for storing sacks of grain and other foodstuffs.
 
 [[people/esgar|Esgar]] | [[people/rimer|Rimer]] | [[people/div|Div]] | [[people/jim-bostry|Jim Bostry]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Warehouse (Service)**
-
- **Owner:**  Lazar Symbocca
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   U05 (AM)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Warehouse, Commercial
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/lazar-symbocca|Lazar Symbocca]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 950bc2b9-c121-4be6-a597-f3373ed455b0<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the-south-docks-location,cat-shop,type-warehouse,guild-of-drayers-location,warehouse
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

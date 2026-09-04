@@ -1,69 +1,106 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, trade-island]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/trade-island]
 title: Imported
-date modified: 2026-07-16, 9:18:25 pm
+date modified: 2026-08-20, 8:03:19 pm
 ---
 
 # Imported
 
-`````col
-````col-md
-flexGrow=2.5
-===
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  324
+>
+>
+> **Class/Profession:**  Rogue 3rd
+>
+>
+> **Places Encountered**
+>- [[settlements/haven/trade-island/trade-island|Trade Island]]
+>
+>
+> **Purse:**   sp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/tiefling|Tiefling]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Infernal | Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/trade-island/trade-island| Trade Island]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
+
+**Full Name:**
+
 # General Info
-The only literate member of the South Keep Gang - he got his name from a packing crate. For a tiefling, he has a round, innocent face, and can pass for a human child if he covers his ears. Prefers panhandling to stealing.
 
 See scenario [[plots/free-city-of-haven/scenarios/the-south-keep-gang|The South Keep Gang]]
 
-````
-````col-md
+# Physical Description
 
+# Personality Characteristics
 
-**ID #**  324
+# Social
 
-**Class/Profession:**  Rogue 3rd
+# Relationships
 
-**Places Encountered** 
-- [[settlement/trade-island|Trade Island]]
+## Parents
 
----
+***Biological:***
 
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
+$1
 
-#### Origins
-**Race:** [[race/tiefling-race|Tiefling Race]]<br>
+***Adoptive:***
 
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Infernal | Common<br>
-**Current Location:**  [[settlement/trade-island|Trade Island]]<br>
+$1
 
-````
-`````
+***Foster:*** <br>
 
----
+## Siblings
 
-![[people/blocks/imported]]
+## Children
 
-<!-- Standard page footer -->
+## Ancestors
 
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

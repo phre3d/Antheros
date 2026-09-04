@@ -1,13 +1,33 @@
 ---
 aliases: []
-tags: [profession]
+date modified: 2026-08-30, 2:06:27 pm
+tags: [Profession]
 title: Poisoner
-date modified: 2026-07-16, 9:18:11 pm
 ---
 
 # Poisoner
 
----
+>[!info]
+>**Alternative Names:**  
+>
+>**Guild:**
+>
+>**Famous in the Field:**
+>
+>**Other Associated Professions:** [[professions/herbalist|Herbalist]], [[professions/alchemist|Alchemist]]
+>
+>**Related Locations:**
+>
+>**Employed By:**
+>
+>**Ranks & Titles:**
+>
+>**Related Vehicles:**
+>
+>**Related Technologies:**
+
+One who specializes in the manufacture and sales of poison.
+
 
 # Operations
 
@@ -20,23 +40,3 @@ date modified: 2026-07-16, 9:18:11 pm
 ## Provided Services
 
 ## Hazards
-
->[!infobox]
-><br><br><br><br>
->**Alternative Names:**  
->
->**Guild:**
->
->**Famous in the Field:**
->
->**Other Associated Professions:** [[professions/herbalist|Herbalist]]
->
->**Related Locations:**
->
->**Employed By:**
->
->**Ranks & Titles:**
->
->**Related Vehicles:**
->
->**Related Technologies:**

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, monster, statblock]
+tags: [Monster, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 ````col
@@ -45,11 +45,11 @@ Medium beast unaligned
 
 # Special Abilities
 
-### Keen Hearing and Smell
+## Keen Hearing and Smell
 
  The wolf has an advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Pack Tactics
+## Pack Tactics
 
  The wolf has an advantage on an atack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
@@ -57,7 +57,7 @@ Medium beast unaligned
 
 # Actions
 
-### Bite
+## Bite
 
   **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
 

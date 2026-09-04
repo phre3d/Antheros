@@ -1,28 +1,29 @@
 ---
 aliases: []
-tags: [import, plot]
+date modified: 2026-08-26, 2:30:49 pm
+tags: [Plot]
 title: The Adventure Begins
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 ![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]  
 
 # The Adventure Begins
 
+>[!info]
+>![[plots/mimic-mayhem/table-of-contents]]
+
 **Important:** Let everyone know they are currently at half hit points. Each spellcaster has exhausted all spell slots except for three 1st level slots.
 
 >[!read-aloud]
 >In the lofty heights of the Grandspire Mountains, where the air is as thin as a miser’s soup, you find yourselves low on rations and desperate for warmth. For the past week, you’ve been shepherding a group of travelers from a quaint town in the foothills up towards the most inhospitable mountain pass known to man and goat. Ratstew Gap may be the shortest route across these rugged peaks, but it has also made short work of your caravan.
 >
->Of the ten people and nine animals who began this journey under your protection, only three souls remain– two pilgrims and a dog. Brother Mazlo Merryshadow and Sister Rosy Rumblegarden are both followers of Fharlanghn, the god of travelers. Despite both being halflings  and sharing the same faith, neither had met before undertaking this adventure. The dog, Buttercup, having lost her elven master to an ogre attack on the second day, has since become something of a mascot to your group.
+>Of the ten people and nine animals who began this journey under your protection, only three souls remain - two pilgrims and a dog. Brother Mazlo Merryshadow and Sister Rosy Rumblegarden are both followers of Fharlanghn, the god of travelers. Despite both being halflings  and sharing the same faith, neither had met before undertaking this adventure. The dog, Buttercup, having lost her elven master to an ogre attack on the second day, has since become something of a mascot to your group.
 >
 >One by one, members of your caravan and their beasts have been killed or carried away by various mountain-dwelling monsters. Your acts of heroism, while undeniably impressive, have been tarnished by a sense of self-doubt, which has worsened with each body you’ve committed to the mountain’s cold embrace.
 
 ## Skill Check
 
-Have your players each roll an Insight check. Then share the image found on the next page entitled “Buttercup, Mazlo, & Rosy.” Address the following to the character(s) with the
-
-highest Insight check results:
+Have your players each roll an Insight check. Then share the image found on the next page entitled “Buttercup, Mazlo, & Rosy.” Address the following to the character(s) with the highest Insight check results:
 
 >[!read-aloud]
 >You notice that Mazlo and Rosy have not fallen under a cloud of sorrow one might expect from such a cascade of tragedies. The apple-cheeked halflings appear to be falling in love, which is perhaps the greatest tragedy of all, because each of them undertook a vow of celibacy before embarking on this pilgrimage. Despite the sparks between them threatening to ignite their cloaks, the two have managed to maintain their pious composure thus far. Until they complete their holy mission of building a shrine to Fharlanghn at Ratstew gap, they must refrain from indulging themselves. The romantic tension has only added to their urgency to complete this pilgrimage with haste.
@@ -85,6 +86,28 @@ Fharlanghn to guide your steps. At times, each of you falters and needs the help
 
 There are twenty other travelers here, a mix of races, men and women. They are all merchants, traveling as a caravan. They arrived earlier today coming from the other side of the mountains. For easy reference, at right is a quick list of names and a few words of description.
 
+>[!info] List of other patrons
+>1. ***Elara Thistledown***, female, half-elf, silver hair woven with ivy.
+>2. ***Borin Ironfoot***, male, dwarf, tattooed arms depicting mountain landscapes.
+>3. ***Jalia Mirthsong***, female, human, wears a wide-brimmed hat adornedwith feathers.
+>4. ***Tormund Giantsbane***, male, human, noticeable scar across left eye.
+>5. **Zara Blackwater**, female, tiefling, piercing yellow eyes.
+>6. **Grendo Gobblepot**, male, gnome, oversized spectacles and buckteeth.
+>7. ***Nissa Starshadow***, female, human, old and heavyset.
+>8. ***Harbek Stonefist***, male, dwarf, bald with intricate runic brands on his head.
+>9. ***Lyris Moonbeam***, female, tiefling, dressed in flowy fabrics with delicate floral patterns.
+>10. ***Milo Quickfoot***, male, halfling, always juggling small objects when idle.
+>11. ***Cedric the Stout***, male, human, remarkably rotund with a booming laugh.
+>12. ***Anwen Willowbark***, female, wood elf, deaf from birth.
+>13. ***Dax Ironhide***, male, half-elf, scale mail that shimmer like polished silver.
+>14. ***Selene Nightwalker***, female, human, old and thin with white hair to her knees.
+>15. ***Zebron Toppilshop***, male, gnome, wears golden jewelry and has gold teeth.
+>16. ***Mungus Broadback***, male, human, towering figure with a surprisingly gentle voice.
+>17. ***Iridessa Lightwing***, female, high elf, ethereal beauty and soft voice.
+>18. ***Fargrim Frostbeard***, male, dwarf, white beard knotted into little spikes.
+>19. ***Eldric Vane***, male, human, with long shaggy eyebrows.
+>20. ***Bram Wellfound***, male, human, has an intricately tattooed map of the trade routes on his arms.
+
 # What Happens Next
 
 An eleven-year-old girl (Penny Pickles) brings a tray loaded with steaming bowls of stew to the table. She picks one up and sets it down on the floor next to Buttercup, stopping to pet her. Buttercup wags her tail.
@@ -132,7 +155,7 @@ As Penny leads them up, she enthusiastically asks them questions about life beyo
 - “If it’s not rude to ask, where are you from?”
 - “What’s it like there? Is there music and dancing?”
 - “I’ve never been nowhere else. Now and then travelers pass through and tell all kinds of stories about their lands.
-- I made a list of all the places I want to visit when I’m old enough. I’m twelve now so it won’t be that many more years before I can join a caravan and leave these mountains behind.”
+- I made a list of all the places I want to visit when I’m old enough. I’m almost twelve now so it won’t be that many more years before I can join a caravan and leave these mountains behind.”
 
 >[!read-aloud]
 >You reach the top of the stairs and head down a hall with doors on either side. The sounds and smells of rancid farts emanate from each room you pass.
@@ -141,51 +164,9 @@ As Penny leads them up, she enthusiastically asks them questions about life beyo
 >
 >As Penny steps into the empty room, teeth close around her and she is gone. That was no room, it was a huge mimic! Yellow eyes suddenly appear in the woodwork, seething with hunger.
 
->[!infobox]
->![[plots/mimic-mayhem/table-of-contents]]
->
->---
->
->**List of other patrons**
->1. *Elara Thistledown*, female, half-elf, silver hair woven with ivy.
->2. *Borin Ironfoot*, male, dwarf, tattooed arms depicting mountain landscapes.
->3. *Jalia Mirthsong*, female, human, wears a wide-brimmed hat adornedwith feathers.
->4. *Tormund Giantsbane*, male, human, noticeable scar across left eye.
->5. *Zara Blackwater*, female, tiefling, piercing yellow eyes.
->6. *Grendo Gobblepot*, male, gnome, oversized spectacles and buckteeth.
->7. *Nissa Starshadow*, female, human, old and heavyset.
->8. *Harbek Stonefist*, male, dwarf, bald with intricate runic brands on his head.
->9. *Lyris Moonbeam*, female, tiefling, dressed in flowy fabrics with delicate floral patterns.
->10. *Milo Quickfoot*, male, halfling, always juggling small objects when idle.
->11. *Cedric the Stout*, male, human, remarkably rotund with a booming laugh.
->12. *Anwen Willowbark*, female, wood elf, deaf from birth.
->13. *Dax Ironhide*, male, half-elf, scale mail that shimmer like polished silver.
->14. *Selene Nightwalker*, female, human, old and thin with white hair to her knees.
->15. *Zebron Toppilshop*, male, gnome, wears golden jewelry and has gold teeth.
->16. *Mungus Broadback*, male, human, towering figure with a surprisingly gentle voice.
->17. *Iridessa Lightwing*, female, high elf, ethereal beauty and soft voice.
->18. *Fargrim Frostbeard*, male, dwarf, white beard knotted into little spikes.
->19. *Eldric Vane*, male, human, with long shaggy eyebrows.
->20. *Bram Wellfound*, male, human, has an intricately tattooed map of the trade routes on his arms.
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/mimic-mayhem/the-adventure-begins|The Adventure Begins]]
-
---- end-column ---
-
-Next: [[plots/mimic-mayhem/the-hallway-battle|The Hallway Battle]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/mimic-mayhem/the-adventure-begins.md" class="internal-link">The Adventure Begins</a></span>
+  <span class="nav-next">Next: <a href="plots/mimic-mayhem/the-hallway-battle" class="internal-link">The Hallway Battle</a> →</span>
+</div>

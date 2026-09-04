@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [379.592, 3869.064]
 mapmarker: City Guard
 title: Iron Gate Barracks
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Iron Gate Barracks

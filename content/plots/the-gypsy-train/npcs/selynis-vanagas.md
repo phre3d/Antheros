@@ -5,18 +5,19 @@ cr_id: selynis-vanagas
 name: Selynis Vanagas
 sex: female
 born: 1165
-mother: "[[plots/the-gypsy-train/npcs/zanthira-vanagas|Zanthira Vanagas]]"
+mother: "[[plots/the-gypsy-train/npcs/zanthira-vanagas]]"
 mother-id: zanthira-vanagas
-father: "[[plots/the-gypsy-train/npcs/balkrin-vanagas|Balkrin Vanagas]]"
-father_id: balkrin-vanagas
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
 title: Selynis Vanagas
 ---
 
 # Selynis Vanagas
 
-Small, humanoid (human), chaotic good
+>[!info] Portrait
+>IMAGE
+
+*Small, humanoid (human), chaotic good*
 
 **Profession:**
 
@@ -43,10 +44,7 @@ Small, humanoid (human), chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
 
 # Description
 
@@ -56,15 +54,15 @@ Selynis, Balkrin’s youngest child, is allowed to leave the wagon only because 
 
 Selynis is a 0-level human, chaotic good, with AC 10 and 2 hp. She has no armor or weapons.
 
----
+
 
 # Spellcasting
 
----
+
 
 # Special Abilities
 
----
+
 
 # Actions
 

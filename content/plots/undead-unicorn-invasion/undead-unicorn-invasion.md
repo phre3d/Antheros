@@ -1,15 +1,23 @@
 ---
 aliases: []
-tags: [plot, plot/Undead_Unicorn_Invasion]
-title: Background
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-09-03, 1:39:44 pm
+tags: [Plot, Plot/Undead-Unicorn-Invasion]
+title: Undead Unicorn Invasion
 ---
 
 ![[plots/undead-unicorn-invasion/images/undead-unicorn-invasion-header.jpg]]
 
-This isn't a specific module but rather provides a backdrop against which adventures happen. I intend to draw from it to provide larger world happenings for the campaign.
+>[!info]
+>![[plots/undead-unicorn-invasion/images/undead-unicorn-invasion-cover.jpg]]
+>
+>---
+>
+>![[plots/undead-unicorn-invasion/table-of-contents]]
 
-# Background
+<br><br>
+***This isn't a specific module but rather provides a backdrop against which adventures happen. I intend to draw from it to provide larger world happenings for the campaign.***
+
+# Undead Unicorn Invasion
 
 Picture the scene.
 
@@ -30,14 +38,3 @@ Where you join this apocalypse is up to you, as is how you fight it. Will you ra
 The choice is yours. There’s only two things you must do.
 
 Make it fun. Make it EPIC!
-
----
-
-#
-
->[!infobox]
->![[plots/undead-unicorn-invasion/images/undead-unicorn-invasion-cover.jpg]]
->
->---
->
->![[plots/undead-unicorn-invasion/table-of-contents]]

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Rapid Restoration
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Rapid Restoration
@@ -33,14 +33,14 @@ This potion was created by a ruthless businessperson who put profit above everyt
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -55,4 +55,3 @@ This potion was created by a ruthless businessperson who put profit above everyt
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

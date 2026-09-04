@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Hyena
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Hyena
@@ -31,14 +31,14 @@ Created by a bard to enhance his comedic performances
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** Hyena liver
@@ -53,4 +53,3 @@ Created by a bard to enhance his comedic performances
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

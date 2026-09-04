@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
-location: [120.947, 276.263]
+tags: [Map/marker]
+location: [276.263, 120.947]
 mapmarker: Religion
 title: Temple of Ariel
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Temple of Ariel

@@ -1,9 +1,13 @@
 ---
 aliases: []
-tags: [map-marker, tarnsworth]
-title: to-oxgate
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-09-02, 1:13:45 pm
+location: [424, 796]
+mapmarker: Landmark
+tags: [Map/marker, Settlement/tarnsworth]
+title: Signpost
 ---
+
+# Signpost
 
 **Description** <br>
 Signpost indicating direction to Oxgate

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2362.942, 3935.714]
 mapmarker: Entertainment
 title: "The Lover's Not"
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The Lover's Not

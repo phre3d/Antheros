@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1748.656, 4032.653]
 mapmarker: Service
 title: The Shaving Mill
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The Shaving Mill

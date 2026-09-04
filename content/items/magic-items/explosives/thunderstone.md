@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Thunderstone
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Thunderstone
@@ -29,14 +29,14 @@ As an action, you can throw the thunderstone up to 30 feet. Each creature in a 1
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** Calcium Grease<br>
+**Base:** [[materials/calcium-grease|Calcium Grease<br>
 **Essence(s):**   Earth  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -51,4 +51,3 @@ As an action, you can throw the thunderstone up to 30 feet. Each creature in a 1
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

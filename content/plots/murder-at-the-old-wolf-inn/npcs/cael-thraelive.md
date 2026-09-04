@@ -1,17 +1,15 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+tags: [Person, Person/npc, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Cael Thraelive
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Cael Thraelive
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
+
 Cael Thraelive is a male half-elf cult fanatic (NE). He keeps his long hair tied back with a leather cord at the nape of his neck, and he wears a fine sky-blue robe and a matching pointed hat embroidered with silver moon crescents and Tiny stars. Cael is reserved, bordering on aloof, and he speaks with an articulate voice.
 
 Ever since he was young, Cael has heard sinister voices whispering in his head. However, a year ago, they convinced him to start a cult. He has slowly gathered followers and grown in power through dark rituals.
@@ -41,25 +39,9 @@ Cael will claim that he slept soundly through the entire night and heard nothing
 
 What Cael omits to mention is that he in fact quietly left his room during midnight to make sure that no one was awake, as he was about to carry out his nightly religious ceremony.
 
-````
-````col-md
-![[plots/murder-at-the-old-wolf-inn/images/cael.png]]
-
-````
-`````
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna" class="internal-link">Artemis HNahanna</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/npcs/enoch-the-birdwhisperer" class="internal-link">Enoch the Birdwhisperer</a> →</span>
+</div>

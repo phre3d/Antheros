@@ -1,15 +1,15 @@
 ---
 aliases: []
-tags: [article, Free_City_of_Haven, import]
+tags: [Plot/Free-City-of-Haven]
 title: Random Market Stalls
-date modified: 2026-07-16, 9:19:05 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Random Market Stalls
 
 When populating a local market, the following table can be used to generate market stalls/vendors.
 
-### Type and Staffing
+## Type and Staffing
 
 | 1d100 | Type | Owner  | Owner +1 | Owner +2 | Asstistant | Assistant + 1d3  |
 |---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ When populating a local market, the following table can be used to generate mark
 | 50-75     | Small Tent     | 01-60         | 61-72     | 73-85     | 86-93     | 94-00   |
 | 76-89     | Pavilion         | 01-45         | 46-65     | 66-80     | 81-90     | 91-00   |
 
-### Merchandise
+## Merchandise
 
 | 1d100  | Merchandise  | 1d100  | Type  | 1d100  | Type  |
 |:-:|---|:-:|---|:-:|---|
@@ -55,7 +55,7 @@ When populating a local market, the following table can be used to generate mark
 
 The listings above are a fair selection of the many possibilities for goods and types of services to be found in a bazaar booth or stall. GMs may use these charts, create their own, or add to what has been provided. If either additions are made or new charts created, however, GMs should remember to keep the populace relatively honest - not everybody is going to be selling magic items, super weapons / armor, or luxury items that are seldom found even in the duke's palace.
 
-### Price, Quality and Variety
+## Price, Quality and Variety
 
 | 1d100  | Price  | 1d100  | Quality  | 1d100  | Variety   |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@ The more specific the description of the item, the less likely it is to be found
 - E: 81-95 scrupulous
 - F: 96-00 painfully honest
 
-### Vendor Honesty
+## Vendor Honesty
 
 Rated 1 (thoroughly dishonest) to 100 (completely, painfully, ridiculously honest); cross-reference Price and Quality on the chart below for individual ratings.
 

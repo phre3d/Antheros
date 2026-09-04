@@ -1,0 +1,30 @@
+{
+    "id": "c64c019e-767c-42e3-8df7-f42cbd1b9d98",
+    "title": "Residential",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [
+        {
+            "id": "b153b24e-2dcf-4d2c-8615-0c24bdc06d16",
+            "title": "Haven Irregulars",
+            "slug": null,
+            "state": null,
+            "entityClass": "SubscriberGroup",
+            "icon": null,
+            "url": null,
+            "subscribergroups": []
+        }
+    ],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": 710,
+    "isEditable": true,
+    "success": true
+}

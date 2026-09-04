@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, import, monster, statblock]
+tags: [Monster, Plot/Goblin-Trouble, statblock]
 title: Actions
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 ````col
@@ -44,7 +44,7 @@ Large giant neutral evil
 
 # Actions
 
-### Large Axe.  
+## Large Axe  
 
   **Melee weapon attack.**   to hit, reach 5 feet, one target.
 

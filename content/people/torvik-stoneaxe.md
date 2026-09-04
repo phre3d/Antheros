@@ -1,228 +1,107 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-street-of-harps]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/south-corridor/street-of-harps]
 title: Torvik Stoneaxe
-date modified: 2026-07-16, 9:18:19 pm
+date modified: 2026-08-20, 8:03:25 pm
 ---
 
 # Torvik Stoneaxe
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  760
+>
+>
+> **Class/Profession:**  Fighter 8th
+>
+>
+> **Places Encountered**
+>- [[landmarks/horn-and-hardart|Horn and Hardart]]
+>- [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]]
+>
+>
+> **Purse:**   sp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-south-corridor/the-street-of-harps| The Street of Harps]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Torvik  Stoneaxe
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Torvik, married to [[person/brisla-stoneaxe|Brisla Stoneaxe]], works ar the [[landmark/horn-and-hardart|Horn and Hardart]] tending the stable, grounds, and any other necessary manual work. Once a fine warrior until severely injured, he now walks with a pronounced limp, but has been known to disarm and bodily remove two of the [[organization/young-stallions|Young Stallions]] when they were causing too great a disturbance for even Bartholomew to bear
 
----
+Torvik, married to [[people/brisla-stoneaxe|Brisla Stoneaxe]], works ar the [[landmarks/horn-and-hardart|Horn and Hardart]] tending the stable, grounds, and any other necessary manual work. Once a fine warrior until severely injured, he now walks with a pronounced limp, but has been known to disarm and bodily remove two of the [[organizations/political/young-stallions|Young Stallions]] when they were causing too great a disturbance for even Bartholomew to bear
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/torvik-stoneaxe-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/torvik-stoneaxe-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/torvik-stoneaxe-person)
 
-````
-````col-md
-
-
-**ID #**  760
-
-
- **Class/Profession:**  Fighter 8th
-
-
- **Places Encountered** 
-- [[landmark/horn-and-hardart|Horn and Hardart]]
-- [[settlement/the-street-of-harps|The Street of Harps]]
-
-
- **Purse:**   sp
-
----
----
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-street-of-harps|The Street of Harps]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-![[people/blocks/torvik-stoneaxe]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

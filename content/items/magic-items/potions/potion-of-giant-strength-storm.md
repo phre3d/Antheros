@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Giant Strength, Storm
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Giant Strength, Storm
@@ -27,14 +27,14 @@ When you drink this potion, your Strength score changes to 29. The potion has no
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Storm Giant fingernail
@@ -49,4 +49,3 @@ When you drink this potion, your Strength score changes to 29. The potion has no
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

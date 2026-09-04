@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Flying
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Flying
@@ -29,14 +29,14 @@ If you're in the air when the potion wears off, you fall unless you have some ot
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:** *Fly* <br>
 **Other:** Clabrezu claw
@@ -51,4 +51,3 @@ If you're in the air when the potion wears off, you fall unless you have some ot
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

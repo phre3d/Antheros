@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Etherealness
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Etherealness
@@ -29,14 +29,14 @@ The affected creature then gains the effect of the etherealness spell.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
+**Base:** [[/materials/aluminum-grease|Aluminum Grease]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -51,4 +51,3 @@ The affected creature then gains the effect of the etherealness spell.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

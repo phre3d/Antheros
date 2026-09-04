@@ -1,17 +1,33 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, import, plot]
+date modified: 2026-08-29, 2:36:55 pm
+tags: [Plot, Plot/Forest-of-Doom]
 title: "FoD: The Forest"
-date modified: 2026-07-16, 9:18:15 pm
 ---
+
+![[plots/forest-of-doom/images/forest-of-doom-header.png]]
 
 # FoD: The Forest
 
-````col
-```col-md
-flexGrow=2.5
-===
+>[!info]
+>![[plots/forest-of-doom/table-of-contents]]
+>
+>---
+>
+>![[images/region.jpg]]
+>
+>---
+>
+>**Completion Date:** <br>
+>
+>**Related Characters:**
+>
+>**Related Organizations:**
+>
+>**Related Locations:**
+
 # Outline
+
 The Forest of Doom is a thick, dark curtain bisecting a peninsula, cutting off the Lands of Launewt (located at the tip of the peninsula) from the rest of the continent. It is a band 30 miles wide and more than six times that long. There is no way to go anywhere on foot from the Lands of Launewt without passing through the forest. (Player characters and other adventurers new to the Lands of Launewt are assumed to have approached the country by sea.)
 
 The forest, in addition to providing the surrounding environment for the drow fortress, can also be built into an extended wilderness adventure. This expansion is particularly appropriate if this adventure is being integrated into an ongoing campaign – several parties of adventurers may go into the forest, but perhaps not all of them will come out.
@@ -28,51 +44,9 @@ The center of the forest's evil activity is located, logically enough, in the ex
 
 Any time the adventurers are within one mile of the fortress, there is a 20% chance per turn of movement that they will discover one of the many trails that radiate into the forest from the drow fortress. There are 18 such radiating trails, spaced at roughly 20-degree intervals. They have been cleared to make it easier for slaves to forage raw materials (for the purpose described below) from the immediate area around the fortress.
 
-```
-
-```col-md
-
-![[table-of-contents]]
-
----
-![[images/region.jpg]]
-
----
-
-**Completion Date:** <br>
-
-**Parent Plot:**  
-
-**Related Characters:**
-
-**Related Organizations:**
-
-**Related Locations:**
-
----
-
-### World Anvil Metadata
-**Id:** 396f672d-9630-49b4-a107-29bfc1d2085c<br>
-**Entity Type:** Article / plot<br>
-**Category:** <br>
-**Tags:** FoD-plot
-
-```
-````
-
----
-
-````col
-```col-md
-Previous:
-350849f5-1244-4df4-92ee-c7a96bc702f8
-
-```
-
-```col-md
-
-Next:
-c6fb087a-ed8e-498e-8fd8-75a06ac6e34b
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/forest-of-doom/general-information" class="internal-link">General Information</a></span>
+  <span class="nav-next">Next: <a href="plots/forest-of-doom/the-fortress" class="internal-link">The Fortress</a> →</span>
+</div>

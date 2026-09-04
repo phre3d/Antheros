@@ -1,55 +1,71 @@
 ---
 aliases: []
-tags: [armorers-guild, Free_City_of_Haven, import, npc, person, the-south-corridor]
+tags: [Organization/professional/armorers-guild, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/south-corridor]
 title: Arthol Tedius
-date modified: 2026-07-16, 9:18:35 pm
+date modified: 2026-08-20, 8:03:15 pm
 ---
 
 # Arthol Tedius
 
+>[!statblock]-
+>![[people/blocks/arthol-tedius]]
+
 >[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
 >**ID #**  250
+>
 >
 > **Class/Profession:**  Ranger 3rd
 >
->**Places Encountered**
->- [[landmark/tedius-and-sprig|Tedius and Sprig]]
->- [[settlement/the-south-corridor|The South Corridor]]
+>
+> **Places Encountered**
+>- [[landmarks/tedius-and-sprig|Tedius and Sprig]]
+>- [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
+>
+>---
 >
 >---
 >
 >#### Presentation
->**Eyes:**  <br>
->**Hair:** <br>
->**Pigmentation:** <br>
->**Height:**  <br>
->**Weight:** <br>
->**Sex:** Male<br>
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
 >
->#### Origins
->**Family:** <br>
->**Race:** [[race/human-race|Human Race]]<br>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
 >
 >#### Birth
->**Age:**  <br>
->**Date of Birth:**  <br>
->**Place of Birth:** <br>
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
 >
 >#### Death
->**Date of Death:**  <br>
->**Place of Death:** <br>
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
 >**Circumstances of Death:**
 >
 >#### Current State
->**Alignment:** <br>
->**Known Language(s):**  Common | Choose 1<br>
->**Current Status:** <br>
->**Current Residence:** <br>
->**Current Location:**  [[article/the-south-corridor|The South Corridor]]<br>
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-south-corridor/the-south-corridor| The South Corridor]]   <br>
 >
 >#### Affiliations
->**Deity:**  <br>
->**Affiliated Organization:**  <br>
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Arthol  Tedius
 
@@ -59,17 +75,29 @@ A fletcher who specializes in the feathers and nock of arrows and bolts
 
 # Physical Description
 
-## General Physical Condition
-
-## Personal History
-
 # Personality Characteristics
 
 # Social
 
 # Relationships
 
-![[people/blocks/arthol-tedius]]
+## Parents
+
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
+
+## Siblings
+
+## Children
+
+## Ancestors
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>

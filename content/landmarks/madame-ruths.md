@@ -1,118 +1,37 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, mages-guild, magic, street-of-silk-veils, type-magic]
+tags: [Haven/labyrinth/street-of-silk-veils, Organization/professional/mages-guild, Plot/Free-City-of-Haven, Shop, Shop/magic]
 title: "Madame Ruth's"
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Madame Ruth's
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Magic (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-labyrinth/the-street-of-silk-veils|The Street of Silk Veils]] <br>
+>**Grid (Key) Ref.:**    M06 (DY)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Magic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Love Potion No.9
+***Love Potion No.9***
 
 ## Description
 
 Madame Ruth sells potions to help your "performance" while on the Street of Silk Veils.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Magic (Shopping)**
-
- **Owner:**  
-
- **District:**  The Street of Silk Veils
-
- **Grid (Key) Ref.:**   M06 (DY)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Magic
-
-**Parent Location:**
-
-[[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** dd65a73b-e58e-4eb3-ba2a-27d94ff52912<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Silk Veils<br>
-**Tags:** fcoh,street-of-silk-veils-location,cat-shop,type-magic,mages-guild-location,magic
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

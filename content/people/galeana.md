@@ -1,228 +1,106 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/outlands/cauldron]
 title: Galeana
-date modified: 2026-07-16, 9:18:26 pm
+date modified: 2026-08-20, 8:03:18 pm
 ---
 
 # Galeana
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1525
+>
+>
+> **Class/Profession:**  Cleric 11th
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-abbey-of-eollana|The Abbey of Eollana]]
+>- [[settlements/haven/the-outlands/the-cauldron|The Cauldron]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/elf|Elven]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Elvish | Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-outlands/the-cauldron| The Cauldron]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:** Abbess Galeana
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A graceful Sindarin woman of middle years. She is frequently called in as an impartial arbitrator in neighborhood disputes. She takes this responsibility very seriously. 
 
-Galeana is also an outspoken opponent of the growing materialism of the city's elves and her relations with the members of the [[landmark/house-of-flanderin|House of Flanderin]] are frosty at best.
+A graceful Sindarin woman of middle years. She is frequently called in as an impartial arbitrator in neighborhood disputes. She takes this responsibility very seriously.
 
-![[dndline.png]]
+Galeana is also an outspoken opponent of the growing materialism of the city's elves and her relations with the members of the [[landmarks/house-of-flanderin|House of Flanderin]] are frosty at best.
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/galeana-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/galeana-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/galeana-person)
 
-````
-````col-md
-
-
-**ID #**  1525
-
-
- **Class/Profession:**  Cleric 11th
-
-
- **Places Encountered** 
-- [[landmark/the-abbey-of-eollana|The Abbey of Eollana]]
-- [[settlement/the-cauldron|The Cauldron]]
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/elven-race|Elven Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Elvish | Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[settlement/the-cauldron|The Cauldron]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/galeana]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

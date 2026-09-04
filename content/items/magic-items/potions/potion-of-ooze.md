@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Ooze
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Ooze
@@ -31,14 +31,14 @@ The renowned thief, Reno Remora, needed a way to squeeze through tight spaces - 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** 5oz of any colored Ooze or Jelly
@@ -53,4 +53,3 @@ The renowned thief, Reno Remora, needed a way to squeeze through tight spaces - 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

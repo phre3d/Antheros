@@ -2,10 +2,10 @@
 aliases: []
 tags: []
 title: table-of-contents
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
-**[[plots/burgled-budgie/index.md|Introduction]]**<br>
+**[[plots/burgled-budgie/burgled-budgie|Introduction]]**<br>
 **[[plots/burgled-budgie/starting-the-adventure|Starting the Adventure]]**<br>
 **[[plots/burgled-budgie/the-investigation|The Investigation]]**<br>
 **[[plots/burgled-budgie/the-confrontation|The Confrontation]]**<br>

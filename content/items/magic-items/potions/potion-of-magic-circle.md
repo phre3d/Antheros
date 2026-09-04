@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Magic Circle
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Magic Circle
@@ -31,14 +31,14 @@ In addition, aberrations, celestials, elementals, fey, fiends, and undead cannot
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ In addition, aberrations, celestials, elementals, fey, fiends, and undead cannot
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

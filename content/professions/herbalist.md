@@ -1,11 +1,30 @@
 ---
 aliases: []
-tags: [profession]
+tags: [Profession]
 title: Herbalist
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:52 pm
 ---
 
 # Herbalist
+
+>[!info]
+>**Alternative Names:**  
+>
+>**Guild:** [[organizations/professional/brotherhood-of-the-amalgam|Brotherhood of the Amalgam]]
+>
+>**Famous in the Field:**
+>
+>**Other Associated Professions:** [[professions/alchemist|Alchemist]]
+>
+>**Related Locations:**
+>
+>**Employed By:**
+>
+>**Ranks & Titles:**
+>
+>**Related Vehicles:**
+>
+>**Related Technologies:**
 
 A herbalist is an expert at finding or growing plants & fungi and knowing their uses.  Their output can be used in preparation of food and drink, simple remedies and poultices, or to provide other effects - pleasurable or not.
 
@@ -13,7 +32,7 @@ Many herbalists, especially those in more urban settings, go on to explore combi
 
 Herbalist prefer to avoid poisons and their production but a few may also become [[professions/poisoner|Poisoner]].
 
----
+
 
 # Operations
 
@@ -31,22 +50,4 @@ Proficiency with this kit lets you to add your   proficiency bonus to any abilit
 
 ## Hazards
 
->[!infobox]
-><br><br><br><br>
->**Alternative Names:**  
->
->**Guild:** [[organizations/guilds/brotherhood-of-the-amalgam|Brotherhood of the Amalgam]]
->
->**Famous in the Field:**
->
->**Other Associated Professions:** [[professions/alchemist|Alchemist]]
->
->**Related Locations:**
->
->**Employed By:**
->
->**Ranks & Titles:**
->
->**Related Vehicles:**
->
->**Related Technologies:**
+

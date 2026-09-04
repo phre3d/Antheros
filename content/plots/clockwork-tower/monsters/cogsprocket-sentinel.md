@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Cogsprocket Sentinel
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Cogsprocket Sentinel
-Large construct unaligned
+
+>[!info] Image
+>![[plots/clockwork-tower/images/cogsprocket-sentinel.png]]
+
+*Large construct, unaligned*
 
 **Armour Class:** 17 (natural armor)<br>
 **Hit Points:** 110 [roll:13d10 + 39]<br>
@@ -33,56 +33,42 @@ Large construct unaligned
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/cogsprocket-sentinel.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Immutable Form.
+## Immutable Form
 
  The Cogsprocket Sentinel is immune to any spell or effect that would alter its form.
 
-### Swarm Tactics.
+## Swarm Tactics
 
  The Cogsprocket Sentinel has advantage on an attack roll against a creature if at least one of the sentinel's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Guardian Protocol.
+## Guardian Protocol
 
  If a creature deals damage to a Cogsprocket Spider within 60 feet of the sentinel, the sentinel can move up to half its speed toward that creature as a reaction.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Cogsprocket Sentinel makes two slam attacks and one piercing strike.
 
-### Slam
+## Slam
 
   **Melee Weapon Attack:**  +8 to hit , reach 10 ft., one target.
 
-  **Hit:**  14 ) bludgeoning damage.
+  **Hit:**  14  bludgeoning damage.
 
-### Piercing Strike
+## Piercing Strike
 
   **Melee Weapon Attack:**  +8 to hit , reach 5 ft., one target.
 
   **Hit:**  18  piercing damage.
 
-### Repair Burst
+## Repair Burst
 
   The Cogsprocket Sentinel releases a <u>burst of magical energy</u>. Constructs within 20 feet of the sentinel, including itself, <u>restore 15  hit points</u>.
-
-![[~attachments/dndline.png]]
 
 # Description
 

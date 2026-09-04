@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, item, Mine_Your_Own_Business]
+tags: [Item, Plot/Mine-Your-Own-Business]
 title: Ebony Whistle of Taming
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Ebony Whistle of Taming
@@ -65,7 +65,7 @@ The Ebony Whistle of Taming has been created by a renowned beastmaster, Erind We
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Id:** b69b64e7-627e-4d8a-8fa5-66f63d9c7065<br>
 **Entity Type:** Article / item<br>

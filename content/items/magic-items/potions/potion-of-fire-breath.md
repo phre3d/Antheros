@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Fire Breath
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Fire Breath
@@ -29,14 +29,14 @@ The effect ends after you exhale the fire three times or when 1 hour has passed.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):** Air    Fire  <br>
 **Spell Needed:**  <br>
 **Other:** Chimera claw, Hell Hound teeth x 4
@@ -51,4 +51,3 @@ The effect ends after you exhale the fire three times or when 1 hour has passed.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

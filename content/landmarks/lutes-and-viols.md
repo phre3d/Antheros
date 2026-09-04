@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, musical-instruments, street-of-harps, type-musical-instruments]
+tags: [Haven/south-corridor/street-of-harps, Organization/professional/crafters-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/musical-instruments]
 title: Lutes and Viols
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Lutes and Viols
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Musical Instruments (Shopping) <br>
+>**Owner:**  [[people/alfio-credenza|Alfio Credenza]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    G08 (MO)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## [[people/alfio-credenza|Alfio Credenza]], prop.
+***[[people/alfio-credenza|Alfio Credenza]], prop***
 
 ## Description
 
@@ -34,95 +39,9 @@ Expensive
 
 Good/Very Good
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Musical Instruments (Shopping)**
-
- **Owner:**  Alfio Credenza
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   G08 (MO)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/alfio-credenza|Alfio Credenza]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ab711a66-f7f7-4269-ada5-722e90e62abf<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-shop,type-musical-instruments,crafters-guild-location,musical-instruments
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

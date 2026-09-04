@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3374.166, 4856.122]
 mapmarker: Dining
 title: "Samoradat's Soup"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Samoradat's Soup

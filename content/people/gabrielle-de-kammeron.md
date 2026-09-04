@@ -1,223 +1,101 @@
 ---
 aliases: []
-tags: [de-kammeron-family, Free_City_of_Haven, import, npc, person, the-heights]
+tags: [Organization/family/de-kammeron-family, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/heights]
 title: Gabrielle de Kammeron
-date modified: 2026-07-16, 9:18:26 pm
+date modified: 2026-08-20, 8:03:18 pm
 ---
 
 # Gabrielle de Kammeron
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  409
+>
+>
+> **Class/Profession:**  Noble 6th
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  [[organizations/families/de-kammeron-family | de Kammeron Family]] <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**  [[landmarks/de-kammeron-family-residence | de Kammeron Family Residence]]   <br>
+>**Current Location:**   [[settlements/haven/the-heights/the-heights| The Heights]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Gabrielle  de Kammeron
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Gabrielle is the beautiful daughter of a perfumer, Broutier. Along with he husband, Swayze, she has a love for the outdoor life, and they have journeyed together to many exotic climes. 
+
+Gabrielle is the beautiful daughter of a perfumer, Broutier. Along with he husband, Swayze, she has a love for the outdoor life, and they have journeyed together to many exotic climes.
 
  [familytree:9b60f9bc-dd18-4f0e-9c45-17ad9d87f68b]
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/gabrielle-de-kammeron-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/gabrielle-de-kammeron-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/gabrielle-de-kammeron-person)
 
-````
-````col-md
-
-
-**ID #**  409
-
-
- **Class/Profession:**  Noble 6th
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** [[organization/de-kammeron-family|de Kammeron Family]]<br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** de Kammeron Family Residence<br>
-**Current Location:**  [[article/the-heights|The Heights]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/gabrielle-de-kammeron]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

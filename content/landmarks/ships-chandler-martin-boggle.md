@@ -1,114 +1,33 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/ship, import, landmark, nautical-supplies, the-south-docks, type-nautical-supplies]
+tags: [Haven/commons/south-docks, Organization/professional/guild-of-the-ship, Plot/Free-City-of-Haven, Shop, Shop/goods/nautical-supplies]
 title: "Ship's Chandler - Martin Boggle"
-date modified: 2026-07-16, 9:18:48 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Ship's Chandler - Martin Boggle
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Nautical Supplies (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    U05 (AS)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Almost everything you might need to  to outfit a ship
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Nautical Supplies (Shopping)**
-
- **Owner:**  
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   U05 (AS)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 24679ca4-9dfd-4f09-b6ad-08fc180375a5<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the-south-docks-location,cat-shop,type-nautical-supplies,guild-of-the-ship-location,nautical-supplies
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

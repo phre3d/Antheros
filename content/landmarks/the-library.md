@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, scholars-triangle, type-government]
+tags: [Haven/outlands/cauldron/scholars-triangle, Organization/government, Plot/Free-City-of-Haven]
 title: The Library
-date modified: 2026-07-16, 9:18:45 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Library
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Government (Government) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/scholars-triangle|Scholar's Triangle]] <br>
+>**Grid (Key) Ref.:**    F10 (JW)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Library  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Government (Government)**
-
- **Owner:**  
-
- **District:**  Scholar's Triangle
-
- **Grid (Key) Ref.:**   F10 (JW)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Library
-
-**Parent Location:**
-
-[[settlements/scholars-triangle|Scholar's Triangle]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 1fad35ca-bd59-446d-865d-6f5201603543<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Believer's Lane<br>
-**Tags:** fcoh,scholars-triangle-location,cat-government,type-government,government
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

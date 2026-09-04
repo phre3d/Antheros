@@ -1,21 +1,24 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: trynkara-prusas
 name: Trynkara Prusas
 sex: female
 born: 1143
-spouse: "[[plots/the-gypsy-train/npcs/Bronkar Prusas]]"
-children: "[[plots/the-gypsy-train/npcs/Dinmiel Prusas]]"
-children_id: dinmiel-prusas
+spouse: "[[plots/the-gypsy-train/npcs/bronkar-prusas]]"
+spouse-id: bronkar-prusas
+children: "[[plots/the-gypsy-train/npcs/dinmiel-prusas]]"
 title: Trynkara Prusas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Trynkara Prusas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -42,10 +45,8 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
 
 # Description
 
@@ -55,15 +56,13 @@ Trynkara is a patient woman in her late 20s who is very happy that her husband h
 
 Trynkara is a 1st-level human thief, neu­tral good, with Str 6, Int 9, Wis 13, Dex 15, Con 14, Cha 13, AC 7, and 6 hp. She wears leather armor and uses a *sling* with 20 bullets and a *dagger*.
 
----
 
 # Spellcasting
 
----
 
 # Special Abilities
 
----
+
 
 # Actions
 

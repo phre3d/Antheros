@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1124.49, 2068.044]
 mapmarker: Service
 title: "Kenzo's Caravan Services"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Kenzo's Caravan Services

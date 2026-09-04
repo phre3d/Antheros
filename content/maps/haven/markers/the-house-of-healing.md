@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2524.49, 2854.779]
 mapmarker: Medical
 title: The House of Healing
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The House of Healing

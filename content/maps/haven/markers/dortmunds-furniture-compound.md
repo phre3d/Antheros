@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2389.472, 3500.]
 mapmarker: Shopping
 title: "Dortmund's Furniture Compound"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Dortmund's Furniture Compound

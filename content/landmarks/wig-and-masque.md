@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, street-of-harps, type-general-clothing]
+tags: [Haven/south-corridor/street-of-harps, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/general-clothing]
 title: Wig and Masque
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Wig and Masque
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Clothing (Shopping) <br>
+>**Owner:**  [[people/rosina-maloti|Rosina Maloti]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    H07 (MD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Tailor  <br>
 
 ## Quality Costumes
 
@@ -36,95 +41,9 @@ Costly
 
 Excellent
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Clothing (Shopping)**
-
- **Owner:**  Rosina Maloti
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   H07 (MD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Tailor
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/rosina-maloti|Rosina Maloti]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** a856a253-3e5a-412f-9b53-abd392d13989<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-shop,type-general-clothing,guild-of-the-loom-location,general-clothing
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

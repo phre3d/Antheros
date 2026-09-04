@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Garlic
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Garlic
@@ -31,14 +31,14 @@ A wealthy merchant was constantly accosted by the poor asking for handouts. He a
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Oil of Vitriol|Oil of Vitriol]]<br>
+**Base:** [[materials/spirit-of-vitriol|Oil of Vitriol]]<br>
 **Essence(s):** Air    Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ A wealthy merchant was constantly accosted by the poor asking for handouts. He a
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

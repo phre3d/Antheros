@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-water-plant, flora, import]
-title: Arctic Creeper
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/water]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Arctic Creeper
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-A low, gray-stemmed creeping plant that grows around rock formations in high, cold climates.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 27 sp  <br>
+>**Rarity:** Common <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+A low, gray-stemmed creeping plant that grows around rock formations in high, cold climates. 
 
 # Natural Range
+
 Arctic and Mountains
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 The leaves can be dried and ground, and added as an ingredient to many common poisons to change the damage type to cold or necrotic.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-water|Essence of Water]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-water | Essence of Water ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 27 sp<br>
-**Rarity:** Common<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

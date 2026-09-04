@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-earth-plant, flora, import]
-title: Bloodstaunch
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/earth]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Bloodstaunch
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-A small leafy herb that is often found in gullies and ravines in arid regions and foothills. The herb has bright green leaves, and smells faintly like honey crossed with fresh rainfall
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 13 sp  <br>
+>**Rarity:** Common <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+A small leafy herb that is often found in gullies and ravines in arid regions and foothills. The herb has bright green leaves, and smells faintly like honey crossed with fresh rainfall 
 
 # Natural Range
+
 Desert and Mountains
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 From you leaves a resin can be extracted that can be applied to open wounds to quickly staunch bleeding. Applying the herb to a bleeding wound grants the recipient recovery of 1 hit point and confers immunity to bleed damage for 1 hour.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-earth | Essence of Earth ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 13 sp<br>
-**Rarity:** Common<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

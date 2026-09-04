@@ -1,131 +1,29 @@
 ---
 aliases: []
-tags: [import, npc, person, plot/Sins_of_the_Past]
+tags: [Person, Person/npc, Plot/Sins-of-the-Past]
 title: Ambrose Everdawn
-date modified: 2026-07-16, 9:18:36 pm
+date modified: 2026-08-20, 8:03:15 pm
 ---
 
 # Ambrose Everdawn
 
-###
+>[!statblock]-
+>![[people/blocks/ambrose-everdawn]]
 
-**Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Caretaker in [[landmark/city-of-the-dead|City of the Dead]].  He is a tall man in his fifties, with a straight posture, long gray beard, and gray robes. He enjoys his work and likes to tell jokes full of dark humor.
 
-![[dndline.png]]
+Caretaker in [[landmarks/city-of-the-dead|City of the Dead]].  He is a tall man in his fifties, with a straight posture, long gray beard, and gray robes. He enjoys his work and likes to tell jokes full of dark humor.
 
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
@@ -136,21 +34,21 @@ Caretaker in [[landmark/city-of-the-dead|City of the Dead]].  He is a tall man i
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ambrose-everdawn-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ambrose-everdawn-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ambrose-everdawn-person)
 
-````
-````col-md
+>[!info]
 
+### Presentation
 
-
-
-#### Presentation
 **Eyes:**  <br>
 **Hair:** <br>
 **Pigmentation:** <br>
@@ -158,54 +56,35 @@ Caretaker in [[landmark/city-of-the-dead|City of the Dead]].  He is a tall man i
 **Weight:** <br>
 **Sex:** Male<br>
 
-#### Origins
+### Origins
+
 **Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
+**Race:** [[races/human|Human]]<br>
 
+### Birth
 
-#### Birth
 **Age:**  <br>
 **Date of Birth:**  <br>
 **Place of Birth:** <br>
 
-#### Death
+### Death
+
 **Date of Death:**  <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
-#### Current State
+### Current State
+
 **Alignment:** <br>
 **Known Language(s):**  <br>
 **Current Status:** <br>
 **Current Residence:** <br>
 **Current Location:**  <br>
 
-#### Affiliations
+### Affiliations
+
 **Deity:**  <br>
 **Affiliated Organization:**  <br>
 
-
-
-![[dndline.png]]
-
-
 ````
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

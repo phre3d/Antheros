@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-commons, type-general-clothing]
+tags: [Haven/commons, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/general-clothing]
 title: "Gip's Clothing"
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Gip's Clothing
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Clothing (Shopping) <br>
+>**Owner:**  [[people/algipon|Algipon]] <br>
+>**District:** [[settlements/haven/the-commons/the-commons|The Commons]] <br>
+>**Grid (Key) Ref.:**    S12 (AB)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Tailor  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Off the rack ready-to-wear
+***Off the rack ready-to-wear***
 
 ## Description
 
@@ -72,95 +77,9 @@ There is a 15% chance one might actually find a good quality cloak or dress amon
 
 Gip does not know, but there is a second-hand embroidered linen shirt in his shop that is embedded with a spell which increases sex appeal (+4 to CHA, when dealing with the opposite sex). There is a 10% chance that a given selection of shirts will contain the magical item. Because of the fancy embroidery, Gip's asking price starts at 5 times normal cost. He can be bargained down to only 150% of his normal price.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Clothing (Shopping)**
-
- **Owner:**  Algipon
-
- **District:**  The Commons
-
- **Grid (Key) Ref.:**   S12 (AB)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Tailor
-
-**Parent Location:**
-
-[[settlements/the-commons|The Commons]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/algipon|Algipon]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 1dfb0303-6d7b-4981-bc73-a98bb39e3aca<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Commons<br>
-**Tags:** fcoh,the-commons-location,cat-shop,type-general-clothing,guild-of-the-loom-location,general-clothing
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

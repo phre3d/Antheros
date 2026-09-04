@@ -1,116 +1,37 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, the-labyrinth, type-medical]
+tags: [Haven/labyrinth, Plot/Free-City-of-Haven, Shop, Shop/service/medical, type-medical]
 title: Hasbin - Healer
-date modified: 2026-07-16, 9:18:54 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Hasbin - Healer
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Medical (Medical) <br>
+>**Owner:**  [[people/kuber-hasbin|Kuber Hasbin]] <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    M02 (TP)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Hospital  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Here we find the healer in his chosen surroundings
+***Here we find the healer in his chosen surroundings***
 
 ## Description
 
 In the deepest wilds of the Labyrinth. His house includes a clinic in which he treats anyone who walks in the door (he has even been known to make house calls!), regardless of financial status (there ain't none in the Labyrinth).
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Medical (Medical)**
-
- **Owner:**  Kuber Hasbin
-
- **District:**  
-
- **Grid (Key) Ref.:**   M02 (TP)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Hospital
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/kuber-hasbin|Kuber Hasbin]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 79ca1462-9d9e-4bce-b8e3-64e17aa7db19<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-shop,type-medical,medical
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

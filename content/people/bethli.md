@@ -1,229 +1,108 @@
 ---
 aliases: []
-tags: [disaffected-artisans, Free_City_of_Haven, guild/metalsmiths, import, npc, person, the-dwarrow]
+tags: [Organization/political/disaffected-artisans, Organization/professional/guild-of-metalsmiths, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/outlands/dwarrow]
 title: Bethli
-date modified: 2026-07-16, 9:18:35 pm
+date modified: 2026-08-20, 8:03:16 pm
 ---
 
 # Bethli
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  513
+>
+>
+> **Class/Profession:**  Metalworker 7th
+>
+>
+> **Places Encountered**
+>- [[landmarks/bethlis-iron-works|Bethli's Iron Works]]
+>- [[landmarks/minotaur-metalworks|Minotaur Metalworks]]
+>- [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/dwarf|Dwarf]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Dwarvish |  Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-outlands/the-dwarrow| The Dwarrow]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**  [[organizations/political/disaffected-artisans|Disaffected Artisans]]
 
 **Full Name:**  Bethli
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
+
 Bethli himself is a rather congenial dwarf with a ruddy complexion and a love of fine whiskey. He forges hammers and swords as a hobby - though he is a mediocre craftsman.
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/bethli-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/bethli-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/bethli-person)
 
-````
-````col-md
-
-
-**ID #**  513
-
-
- **Class/Profession:**  Metalworker 7th
-
-
- **Places Encountered** 
-- [[landmark/bethlis-iron-works|Bethli's Iron Works]]
-- [[landmark/minotaur-metalworks|Minotaur Metalworks]]
-- [[settlement/the-dwarrow|The Dwarrow]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/dwarven-race|Dwarven Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Dwarvish |  Common<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[settlement/the-dwarrow|The Dwarrow]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  [[Organization/Disaffected Artisans|]]<br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/bethli]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

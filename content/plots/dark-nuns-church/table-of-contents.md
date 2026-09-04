@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, toc]
+tags: [Plot/Dark-Nuns-Church, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 **[[plots/dark-nuns-church/dark-nuns-church|Introduction]]**  <br>

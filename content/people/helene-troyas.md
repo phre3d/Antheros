@@ -1,228 +1,107 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, person, the-south-docks]
+tags: [Person, Plot/Free-City-of-Haven, Settlement/haven/commons/south-docks]
 title: Helene Troyas
-date modified: 2026-07-16, 9:18:25 pm
+date modified: 2026-08-20, 8:03:19 pm
 ---
 
 # Helene Troyas
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1307
+>
+>
+> **Class/Profession:**  Fighter 7th
+>
+>
+> **Places Encountered**
+>- Her ship in [[settlements/haven/the-commons/the-south-docks|The South Docks]] or a nearby tavern
+>- [[settlements/haven/the-commons/the-south-docks|The South Docks]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-commons/the-south-docks| The South Docks]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Helene  Troyas
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
+
 Helene is captain of the Ocean Gypsy currently loading in the docks. She is known for her energetic personality and sharp tongue. She is also known as an experienced navigator with a unbeatable weather sense. Helene is short and her faced lined with years of seafaring. Her hair is short and greying, but her crew have been with her for years, and wish no other captain.
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/helene-troyas-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/helene-troyas-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/helene-troyas-person)
 
-````
-````col-md
-
-
-**ID #**  1307
-
-
- **Class/Profession:**  Fighter 7th
-
-
- **Places Encountered** 
-- Her ship in [[settlement/the-south-docks|The South Docks]] or a nearby tavern
-- [[settlement/the-south-docks|The South Docks]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-south-docks|The South Docks]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/helene-troyas]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

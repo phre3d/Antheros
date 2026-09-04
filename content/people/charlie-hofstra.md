@@ -1,232 +1,112 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, hofstra-family, import, npc, person, the-glens]
+tags: [Organization/family/hofstra-family, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/north-corridor/glens]
 title: Charlie Hofstra
-date modified: 2026-07-16, 9:18:28 pm
+date modified: 2026-08-20, 8:03:16 pm
 ---
 
 # Charlie Hofstra
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  208
+>
+>
+> **Class/Profession:**  Fighter 3rd
+>
+>
+> **Places Encountered**
+>- [[landmarks/house-of-hofstra|House of Hofstra]]
+>- [[landmarks/wagoneers-delight|Wagoneer's Delight]]
+>- [[settlements/haven/the-south-corridor/horse-market|Horse Market]]
+>- [[settlements/haven/the-north-corridor/the-glens|The Glens]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  [[organizations/families/hofstra-family | Hofstra Family]] <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**  [[landmarks/hofstra-family-residence | Hofstra Family Residence]]   <br>
+>**Current Location:**   [[settlements/haven/the-north-corridor/the-glens| The Glens]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Charlie and brother [[person/dauge|Dauge]] are identical twins. They are tall, heavily built, with black hair and dark eyes, and even seem to think alike. Both are outdoorsmen, and are quite likely (and happy for the opportunity) to take to the road as couriers for the family business on very short notice, not to return for two or three weeks. They are in the process of arranging remount stations, coach stops, and contracts for light freighting in the [[organization/ten-cities|Ten Cities]], hoping to provide competition for Messers Welshe and Fargot. 
 
-Neither is married, but they are currently sharing quarters with identical twin girls (the confusion must be incredible - who sleeps with whom?). 
+Charlie and brother [[people/dauge-hofstra|Dauge]] are identical twins. They are tall, heavily built, with black hair and dark eyes, and even seem to think alike. Both are outdoorsmen, and are quite likely (and happy for the opportunity) to take to the road as couriers for the family business on very short notice, not to return for two or three weeks. They are in the process of arranging remount stations, coach stops, and contracts for light freighting in the [[organizations/geopolitical/confederation-of-the-ten-cities|Ten Cities]], hoping to provide competition for Messers Welshe and Fargot.
+
+Neither is married, but they are currently sharing quarters with identical twin girls (the confusion must be incredible - who sleeps with whom?).
 
  [familytree:2a76cfbd-2b71-47b8-b505-c9cad32e55af]
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|[[person/jaime-hofstra\|Jaime Hofstra]]<br> | <br> |
+***Biological:***
+
+ [[people/jaime-hofstra | Jaime Hofstra]],  
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/charlie-hofstra-person)
+
+[[people/dauge-hofstra|Dauge Hofstra]], brother
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/charlie-hofstra-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/charlie-hofstra-person)
 
-````
-````col-md
-
-
-**ID #**  208
-
-
- **Class/Profession:**  Fighter 3rd
-
-
- **Places Encountered** 
-- [[landmark/house-of-hofstra|House of Hofstra]]
-- [[landmark/wagoneers-delight|Wagoneer's Delight]]
-- [[settlement/horse-market|Horse Market]]
-- [[settlement/the-glens|The Glens]]
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** [[organization/hofstra-family|Hofstra Family]]<br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** Hofstra Family Residence<br>
-**Current Location:**  [[settlement/the-glens|The Glens]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/sharlie-hofstra]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

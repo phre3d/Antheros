@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, item, magic-item, plot/Sins_of_the_Past, statblock]
+tags: [Item, Item/magic-item, Plot/Sins-of-the-Past, statblock]
 title: Mirror of Life Trapping
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ---start-multi-column: Top

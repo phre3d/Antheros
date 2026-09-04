@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Restoration
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Restoration
@@ -27,14 +27,14 @@ When you drink this potion, your exhaustion level is reduced by one. You cannot 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ When you drink this potion, your exhaustion level is reduced by one. You cannot 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

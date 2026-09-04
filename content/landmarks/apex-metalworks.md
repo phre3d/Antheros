@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/metalsmiths, import, landmark, metalwork, the-dwarrow, type-metalwork]
+tags: [Haven/outlands/dwarrow, Organization/professional/guild-of-metalsmiths, Plot/Free-City-of-Haven, Shop, Shop/goods/metalwork]
 title: Apex Metalworks
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Apex Metalworks
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Metalwork (Shopping) <br>
+>**Owner:**  [[people/duumin|Duumin]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    B13 (IF)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Craftsman, Blacksmith / Smithy  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## [[people/duumin|Duumin]], Prop.
+***[[people/duumin|Duumin]], Prop***
 
 ## Description
 
@@ -38,95 +43,9 @@ Costly/Outrageous
 
 Mediocre/Excellent
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Metalwork (Shopping)**
-
- **Owner:**  Duumin
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   B13 (IF)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Craftsman, Blacksmith / Smithy
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/duumin|Duumin]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 67e980fd-d96f-4b33-aae2-59d52c6ff20f<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-shop,type-metalwork,guild-of-metalsmiths-location,metalwork
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

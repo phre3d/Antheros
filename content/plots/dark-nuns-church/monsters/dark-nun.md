@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, monster, statblock]
+tags: [Monster, Plot/Dark-Nuns-Church, statblock]
 title: Actions
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ````col
@@ -44,11 +44,11 @@ Medium humanoid (any race) Neutral Evil
 
 # Actions
 
-### Multi-attack.
+## Multi-attack
 
  The Dark Nun can attack with two daggers (50% chance one is a [[plots/dark-nuns-church/items/vampiric-dagger|Vampiric Dagger]])  
 
-### Dagger
+## Dagger
 
   **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target. <br>
   **Hit:**  1d4 piercing damage.

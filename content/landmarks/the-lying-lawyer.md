@@ -1,32 +1,37 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-north-corridor, type-tavern]
+tags: [Entertainment/tavern, Haven/north-corridor, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: The Lying Lawyer
-date modified: 2026-07-16, 9:18:45 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Lying Lawyer
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/milo-forki|Milo Forki]] <br>
+>**District:** [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] <br>
+>**Grid (Key) Ref.:**    P15 (GG)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## A tavern for barristers and their clients
 
 ## Description
 
-[[people/milo-forki|Milo Forki]] - is an outcast from [[settlements/the-dwarrow|The Dwarrow]]. His father was a dwarf and his mother a goblin (is he a dwablin or a gorf?), and neither race would accept him. Luckily for him, he was accepted as a squire by a group of adventurers, and was richly rewarded for his efforts in three raids on deserted cities and monsters' strongholds. He was smart enough to invest the money in the tavern he now owns, and has prospered since. He is dwarf height with a slightly greenish skin, black eyes, and very sparse black hair and beard. Usually found tending the bar, he is known for the massive heads of foam he can create on schooners of beer.
+[[people/milo-forki|Milo Forki]] - is an outcast from [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]]. His father was a dwarf and his mother a goblin (is he a dwablin or a gorf?), and neither race would accept him. Luckily for him, he was accepted as a squire by a group of adventurers, and was richly rewarded for his efforts in three raids on deserted cities and monsters' strongholds. He was smart enough to invest the money in the tavern he now owns, and has prospered since. He is dwarf height with a slightly greenish skin, black eyes, and very sparse black hair and beard. Usually found tending the bar, he is known for the massive heads of foam he can create on schooners of beer.
 
 ## Exterior
 
-At the southeast corner of the [[settlements/barristers-maze|Barristers' Maze]], a large stone building of three stories stands alone, cut off by streets and alleys. The main entrance is on Northgate, and over it hangs a sign depicting a recumbent figure clad in lawyer's robes. There are no windows on the ground floor (there is a kitchen door on the alley paralleling Northgate), but the second and third floors are well pierced with openings.
+At the southeast corner of the [[settlements/haven/the-north-corridor/barristers-maze|Barristers' Maze]], a large stone building of three stories stands alone, cut off by streets and alleys. The main entrance is on Northgate, and over it hangs a sign depicting a recumbent figure clad in lawyer's robes. There are no windows on the ground floor (there is a kitchen door on the alley paralleling Northgate), but the second and third floors are well pierced with openings.
 
 ## Interior
 
@@ -70,95 +75,9 @@ Most of the lawyers of the Maze are here at one time or another during a given w
 
 The mace Milo used in his adventures is kept under the bar. It is enchanted, and is capable of knocking unconscious anyone struck with it on an attack value 5 over minimum.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Milo Forki
-
- **District:**  The North Corridor
-
- **Grid (Key) Ref.:**   P15 (GG)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-north-corridor|The North Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/milo-forki|Milo Forki]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 0f5a29ce-4b27-422f-a557-e53239d964d0<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The North Corridor<br>
-**Tags:** fcoh,the-north-corridor-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

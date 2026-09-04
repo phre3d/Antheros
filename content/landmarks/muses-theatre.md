@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/entertainers, import, landmark, street-of-harps, type-theatre]
+tags: [Entertainment/theatre, Haven/south-corridor/street-of-harps, Organization/professional/guild-of-entertainers, Plot/Free-City-of-Haven]
 title: "Muses' Theatre"
-date modified: 2026-07-16, 9:18:51 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Muses' Theatre
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Theatre (Entertainment) <br>
+>**Owner:**  [[people/phineous-tarkin|Phineous Tarkin]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    G07 (MZ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Theatre / Concert hall  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Not really Mount Helicon
+***Not really Mount Helicon***
 
 ## Description
 
@@ -40,103 +45,17 @@ It isn't open
 
 ## Outstanding Items
 
-see Adventures, [[settlements/the-south-corridor|The South Corridor]]
+see Adventures, [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
 
 ## Special Options
 
-see Adventures, [[settlements/the-south-corridor|The South Corridor]]
+see Adventures, [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
 
- [[settlements/the-south-corridor|The South Corridor]]
+ [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Theatre (Entertainment)**
-
- **Owner:**  Phineous Tarkin
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   G07 (MZ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Theatre / Concert hall
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/phineous-tarkin|Phineous Tarkin]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ee1ea11a-93ca-4d94-8aa3-51f9e88599f7<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-entertainment,type-theatre,guild-of-entertainers-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

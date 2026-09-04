@@ -1,18 +1,17 @@
 ---
 aliases: []
-tags: [import, class/subclass]
+tags: [Class/subclass]
 title: Merchant
-date modified: 2026-07-16, 9:19:04 pm
+date modified: 2026-08-17, 12:46:32 pm
 ---
 
 # Merchant
 
-**Parent Class:** [[classes/mundane/mundane|Mundane]]
+>[!info]
+>**Parent Class:** [[classes/mundane/mundane|Mundane]]
+>
+>**Source:** Homebrew    <!-- Original Source of the item -->
 
----
+## Subclass Features
 
-# Subclass Features
-
----
-
-*Source:* Homebrew    <!-- Original Source of the item -->
+## Spellcasting

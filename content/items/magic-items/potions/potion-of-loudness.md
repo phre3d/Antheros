@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Loudness
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Loudness
@@ -31,14 +31,14 @@ Nothing is worse than trying to get attention in a crowded room. To solve this i
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Base:** [[/materials/aqua-regia|Aqua Regia]]<br>
 **Essence(s):** Air    Life  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ Nothing is worse than trying to get attention in a crowded room. To solve this i
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

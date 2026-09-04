@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, toc]
+tags: [Plot/Forest-of-Doom, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 **[[plots/forest-of-doom/forest-of-doom| Introduction]]**<br>

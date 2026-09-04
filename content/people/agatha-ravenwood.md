@@ -1,136 +1,49 @@
 ---
 aliases: []
-tags: [import, npc, person, the-north-corridor]
+tags: [Haven/north-corridor, Person, Person/npc]
 title: Agatha Ravenwood
-date modified: 2026-07-16, 9:18:36 pm
+date modified: 2026-08-20, 8:03:14 pm
 ---
 
 # Agatha Ravenwood
 
-###
+>[!statblock]-
+>TBD
 
 **Full Name:**  Agatha  Ravenwood
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A statuesque blonde who wears her hair in braids tied with strands of rich cowhide. Agatha is from a well-to-do family living in [[settlement/the-north-corridor|The North Corridor]] but somewhat surprisingly works as a horse trainer for the [[organization/varrasch-family|Varrasch Family]].
 
-![[dndline.png]]
+A statuesque blonde who wears her hair in braids tied with strands of rich cowhide. Agatha is from a well-to-do family living in [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] but somewhat surprisingly works as a horse trainer for the [[organizations/families/varrasch-family|Varrasch Family]].
 
 # Physical Description
+
+
 ## General Physical Condition
-## General Physical Condition
+
 Solid and strong from working with horses
 
-
-
-
-
-
-
-
-
-
 ## Special Abilities
+
 Expertise in Animal Handling
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Social
 
-
-
-
 ## Contacts, Relations, & other Affiliations
-Good friends with [[person/marita-maggia|Marita Maggia]] and thus friendly with [[person/antonio-berensten|Antonio Berensten]].  She often acts ass a go-between passing messages when they can't communicate directly.
 
-
-
-
+Good friends with [[people/marita-maggia|Marita Maggia]] and thus friendly with [[people/antonio-berensten|Antonio Berensten]].  She often acts as a go-between passing messages when they can't communicate directly.
 
 ## Social Aptitude
+
 Quite capable of moving from the rough world of the Horse Market to the more refined world that some of her friends (e.g. Marita, Antonio) inhabit.
 
-
-
-
-
-
-
 ## Wealth
+
 The Ravenwood family is well of but not quite ready to join the true upper class.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
@@ -141,18 +54,21 @@ The Ravenwood family is well of but not quite ready to join the true upper class
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/agatha-ravenwood-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/agatha-ravenwood-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/agatha-ravenwood-person)
 
 ````
 ````col-md
-![[~attachments/.jpg]]
-![[dndline.png]]
+IMAGE
+
 
 
 
@@ -167,7 +83,7 @@ The Ravenwood family is well of but not quite ready to join the true upper class
 
 #### Origins
 **Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
+**Race:** [[races/human|Human]]<br>
 
 
 #### Birth
@@ -189,32 +105,15 @@ The Ravenwood family is well of but not quite ready to join the true upper class
 
 #### Affiliations
 **Deity:**  <br>
-**Affiliated Organization:**  [[Organization/Guild of the Beast|]]<br>
+**Affiliated Organization:**  [[organizations/Guild of the Beast|]]<br>
 **Other Affiliations:** 
-- [[organization/varrasch-family|Varrasch Family]]
+- [[organizations/varrasch-family|Varrasch Family]]
 
 
 
-![[dndline.png]]
+
 
 
 ````
+
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

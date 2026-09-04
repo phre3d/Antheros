@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3401.717, 3406.122]
 mapmarker: Inns & Taverns
 title: The Gilded Cage
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The Gilded Cage

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1056.819, 3903.061]
 mapmarker: Shopping
 title: "Fandral's Weapon Shop"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Fandral's Weapon Shop

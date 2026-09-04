@@ -1,4 +1,12 @@
-#spell 
+---
+aliases: []
+tags: [Spell]
+title: ///spell name///
+date modified: 2026-08-08, 3:18:15 pm
+---
+
+# ///spell name///
+
 >[!info]
 >**Cast Time:**  <br>
 >**Range:**  <br>
@@ -10,10 +18,10 @@
 >**Ritual?**  <br>       <!-- Yes|No -->
 >**Classes:** <br>       <!-- List classes that can learn the spell -->
 
-# Name
-*0th-level school*
+*0th-level, school*
 
-<< Description Goes Here >>
+/// Description Goes Here ///
 
 ---
+
 *Source:*   <!-- Original source -->

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2088.452, 6302.041]
 mapmarker: Inns & Taverns
 title: "Black Padre's"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Black Padre's

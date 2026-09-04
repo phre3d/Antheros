@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, npc, person, statblock]
+tags: [Person, Person/npc, Plot/Clockwork-Tower, statblock]
 title: Echo of Constantine Chronosmith
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # Echo of Constantine Chronosmith
@@ -60,7 +60,7 @@ He appears as a tall(ish) human mail of middle age but exists as a ghostly echo,
 
 # Actions
 
-### Unstable Temporal Touch.
+## Unstable Temporal Touch
 
 **Melee Spell Attack:**  +7 to hit, reach 5 ft., one creature.    <br>
 *Hit:*  17 (4d6 + 3) psychic damage.   The target must succeed on a <u>DC 15 Wisdom saving throw</u> or be affected by the Echo's temporal instability, causing it to relive a past action. The DM can choose the past action, which could result in the target repeating an action, suffering the effects of a past injury, or experiencing a disorienting flash of a past event.

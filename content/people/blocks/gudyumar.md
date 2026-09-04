@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Gudyumar
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Gudyumar
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Pixie<br>
 **Profession:** Pain in the Ass/2nd<br>
 **Challenge Rating:** 4<br>
@@ -20,30 +17,19 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - None<br>
 **Hit Points:** 7<br>
-**Movement:** 15&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 40&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 15&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 40&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 3 (-4) | 18 (+4) | 6 (-2) | 10 (+0) | 3 (-4) | 7 (-2) |
 
-![[dndline.png]]
-
 **Saving Throws:** <br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Sylvan | Common<br>**Challenge:** 4 / (XP)<br>**Senses:** <br>**Skills:** Fey Ancestry | Fade Away (see spells) | Naturally Stealthy | Shrink Object | Diminutive Stature
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Sylvan | Common<br>
+**Challenge:** 4 / (XP)<br>
+**Senses:** <br>
+**Skills:** Fey Ancestry | Fade Away (see spells) | Naturally Stealthy | Shrink Object | Diminutive Stature
 
 # Spellcasting
 

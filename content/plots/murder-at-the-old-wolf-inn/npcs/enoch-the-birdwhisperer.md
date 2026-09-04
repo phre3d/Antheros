@@ -1,24 +1,21 @@
 ---
 aliases: []
-tags: [import, person]
+tags: [Person]
 title: Enoch the Birdwhisperer
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Enoch the Birdwhisperer
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
 Enoch the Birdwhisperer is an elderly male human druid (NG). He has wild white hair and matching unkempt eyebrows. Most days, he wears a tatty green robe and carries a gnarly walking stick. 
 
 Enoch is a slightly deranged hermit who tends to squint and speak at length with anyone who wants to listen about all the “ill omens and dire signs” that he has seen in the forests lately. He is often engaged in mumbling conversations with his tame raven, Crow. According to Enoch, Crow understands his every word, but they often disagree with each other. 
 
 Enoch lives in a simple hut in the forest near the Old Wolf Inn, but he sometimes sleeps in the stables when the weather is foul, as his rudimentary hut isn't particularly waterproof. 
 
- **Armour and weapon: ** Enoch the Birdwhisperer doesn't wear armour, but he carries a crooked quarterstaff and a sharp sickle. He also wears a pair of rugged magic boots that have the same benefits as a Ring of Warmth, and also grants the wearer the ability to move through difficult terrain without penalty.
+ **Armour and weapon:** Enoch the Birdwhisperer doesn't wear armour, but he carries a crooked quarterstaff and a sharp sickle. He also wears a pair of rugged magic boots that have the same benefits as a Ring of Warmth, and also grants the wearer the ability to move through difficult terrain without penalty.
 
  **Trait:**  While I often talk to myself, I occasionally pretend to be more confused than I am.
 
@@ -42,33 +39,14 @@ Enoch dislikes talking about Artemis' death and will blame “his poor memory”
 
 Enoch knows about the local smugglers, but he doesn't want to admit it, as they have threatened him to keep him quiet. He isn't aware that smugglers sometimes store their goods at the Old Wolf Inn.
 
- **what he lies about ** 
-Although Enoch doesn't know exactly what happened to [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna]], he will try to protect [[plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer|Inga Broadhammer]]. She is one of Enoch's few friends and lets him sleep in the stables when the weather is dreary. She also sometimes pays him to forage for herbs and mushrooms. 
+ **what he lies about**  
+ Although Enoch doesn't know exactly what happened to [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna]], he will try to protect [[plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer|Inga Broadhammer]]. She is one of Enoch's few friends and lets him sleep in the stables when the weather is dreary. She also sometimes pays him to forage for herbs and mushrooms. 
 
 Enoch is very reluctant to admit that Inga asked him to collect frog leaves for her, as these herbs can be used for dubious purposes. Enoch doesn't believe that Inga is a murderer, but he worries that she might have killed Artemis by accident.
 
-
-````
-````col-md
-![[plots/murder-at-the-old-wolf-inn/images/enoch-the-birdwhisperer.png]]
-
-
-
-````
-`````
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/npcs/cael-thraelive" class="internal-link">Cael Thraelive</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/npcs/hugo-von-silverton" class="internal-link">Hugo von Silverton</a> →</span>
+</div>

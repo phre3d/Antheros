@@ -1,55 +1,53 @@
-#organization/military 
->[!infobox]
+---
+aliases: []
+tags: [Organization/military]
+title: 
+date modified: 2026-08-08, 3:15:28 pm
+---
+
+# ///unit name///
+
+>[!info]
 >**Image:**  ()
 >
 >---
 >
 ># Military Info
->**Commander:** 
+>**Commander:**
 >
->**Commander Title:** 
+>**Commander Title:**
 >
->**Formation Type:**    
+>**Formation Type:**
 >
->**Training Level:**    
+>**Training Level:**
 >
 >**Veterancy:**  
 >
->**Headquarters:** 
+>**Headquarters:**
 >
 ># General Information
->**Alternate Names:** 
+>**Alternate Names:**
 >
->**Motto/Slogan**: 
+>**Motto/Slogan**:
 >
->**Demonym:** 
+>**Demonym:**
 >
->**Parent Organization:** 
+>**Parent Organization:**
 >
->**Founding Date:** 
+>**Founding Date:**
 >
->**Founders:** 
+>**Founders:**
 >
->**Predecessor Organization(s):** 
+>**Predecessor Organization(s):**
 >
->**Successor Organization(s):** 
-# Title
+>**Successor Organization(s):**
 
-## Description
+***Tagline***
 
+# Description
 
+# Structure
 
-## Structure
+# Make-up
 
-
-
-
-## Make-up
-
-
-
-
-## History
-
-
-
+# History

@@ -1,35 +1,40 @@
 ---
 aliases: []
-tags: [essence-fire-plant, flora, import]
-title: Salamander Orchid
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/fire]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Salamander Orchid
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-This rare orchid is constantly on fire, and propagated by a talented spellcasters.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 15 gp  <br>
+>**Rarity:** Rare <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+This rare orchid is constantly on fire, and propagated by a talented spellcasters. 
 
 # Natural Range
+
 Arctic
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 A creature proficient with the herbalism kit can apply the sticky pollen of the flower to a bladed weapon on a successful Intelligence (Nature) check (DC 15), causing it to deal an additional 1d6 fire damage for 8 hours. 
 
 Handling the salamander orchid without proper tools found in the herbalism kit causes 1d6 points of fire damage per minute.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-fire|Essence of Fire]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-fire | Essence of Fire ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -38,32 +43,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 15 gp<br>
-**Rarity:** Rare<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

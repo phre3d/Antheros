@@ -1,233 +1,112 @@
 ---
 aliases: []
-tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-street-of-harps]
+tags: [Organization/professional/crafters-guild, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/south-corridor/street-of-harps]
 title: Luciano Clarino
-date modified: 2026-07-16, 9:18:24 pm
+date modified: 2026-08-20, 8:03:21 pm
 ---
 
 # Luciano Clarino
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  748
+>
+>
+> **Class/Profession:**  Merchant 5th
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-trumpets-call|The Trumpet's Call]]
+>- [[landmarks/mixolydian-mode|Mixolydian Mode]]
+>- [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-south-corridor/the-street-of-harps| The Street of Harps]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Luciano  Clarino
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A round-faced, pleasant little man who runs a shop making and selling various horns. His sons Mercutio and Derek work with him. 
 
- Derek has shown great interest in Zofia Credenza, daughter of his father's sworn enemy. 
+A round-faced, pleasant little man who runs a shop making and selling various horns. His sons Mercutio and Derek work with him.
 
- The source of his feud with [[person/alfio-credenza|Alfio Credenza]] lies back 30 years ago when they both loved the same woman, Elissa, who married Alfio, and died giving birth to Zofia. Both men blame the other for causing her death.
+ Derek has shown great interest in Zofia Credenza, daughter of his father's sworn enemy.
 
-![[dndline.png]]
+ The source of his feud with [[people/alfio-credenza|Alfio Credenza]] lies back 30 years ago when they both loved the same woman, Elissa, who married Alfio, and died giving birth to Zofia. Both men blame the other for causing her death.
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/luciano-clarino-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/luciano-clarino-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/luciano-clarino-person)
 
-````
-````col-md
-
-
-**ID #**  748
-
-
- **Class/Profession:**  Merchant 5th
-
-
- **Places Encountered** 
-- [[landmark/the-trumpets-call|The Trumpet's Call]]
-- [[landmark/mixolydian-mode|Mixolydian Mode]]
-- [[settlement/the-street-of-harps|The Street of Harps]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-street-of-harps|The Street of Harps]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/luciano-clarino]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

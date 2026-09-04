@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-goods, guild/merchants, import, landmark, the-dell, type-general-goods]
+tags: [Haven/outlands/dell, Organization/professional/merchants, Plot/Free-City-of-Haven, Shop, Shop/goods/general-goods]
 title: "Bucklander's Import Emporium"
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Bucklander's Import Emporium
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Goods (Shopping) <br>
+>**Owner:**  [[people/rigaletto-brandybuck|Rigaletto Brandybuck]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    E13 (IP)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** General Store  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## The everything store
+***The everything store***
 
 ## Description
 
@@ -54,7 +59,7 @@ There are a cashier and salesman in each alcove. The salesmen are usually quite 
 
 ## Customers
 
-Bucklander's will have 30-120 customers at any time. Only about 30% will be halfling, and the rest a wide variety of other races. There is a 15% chance that 1d4 nobles or prominent merchants of the city will be present in the shop.
+Bucklander's will have 30-120 customers at any time. Only about 30% will be halfling, and the rest a wide variety of other races. There is a 15% chance that  nobles or prominent merchants of the city will be present in the shop.
 
 ## NPC Encounters
 
@@ -66,95 +71,9 @@ Guards
 
 Bucklander's is the sole source in Haven for a number of goods - the best blends of halfling pipe weed, canisters of dates and nuts from far off lands, the finest Solhedrin crystal, etc. The prices on these goods are, by and large, outrageous, because of their effective monopoly. Any items marked as sale items (never more than 5-10% of the total stock) are goods which have moldered too long in inventory, and tend to be mediocre bargains even at their lowered prices - there is also a 10% chance that the sale goods are flawed or somehow defective.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Goods (Shopping)**
-
- **Owner:**  Rigaletto Brandybuck
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   E13 (IP)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** General Store
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/rigaletto-brandybuck|Rigaletto Brandybuck]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3737ee0a-7d2a-4738-a381-a8c05cd128e1<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-shop,type-general-goods,merchants-guild-location,general-goods
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

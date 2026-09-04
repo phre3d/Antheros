@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, npc, person, supporting-cast, the-city-watch]
+tags: [Campaign/supporting-cast, Person, Person/npc, Plot/The-City-Watch]
 title: Thomasina
-date modified: 2026-07-16, 9:18:19 pm
+date modified: 2026-08-20, 8:03:25 pm
 ---
 
 # Thomasina
@@ -11,14 +11,11 @@ date modified: 2026-07-16, 9:18:19 pm
 
 **Full Name:** "Mender" Thomasina      Tom
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
+
 Thomasina, or Thom as she prefers, is a petite half-elf with an innocent face and white hair. She is short for a half-elf at 4'11" and weighs only 104 lbs.  
 
-For debugging: 
+For debugging:
 
 She has green eyes that change when she "takes charge" (see below), then they glow with a golden light. She is totally unaware of this.
 
@@ -29,38 +26,35 @@ Thom is socially awkward and doesn't like crowds or social events, preferring to
 ---
 
 # Physical Description
+
 ## General Physical Condition
 
-
 ## Body Features
+
 Petite with an innocent face and white hair
 
-
-
-
-
-
-
-
 ## Special Abilities
-### Restoration Physician Features 
+
+### Restoration Physician Features
+
  **Positive Connection.**  Beginning when you select this art at 2nd level, your learn to bolster your magic with energy from the Positive Plane. As a result, you gain resistance to necrotic damage and attacks that lower your maximum hit points.
 
  **Convalescence.**  Starting at 2nd level, your suffusion in positive energy has a noticeable effect on natural recovery. When your or an ally within 50 feet of you roll hit dice, you may choose to roll it again and take the higher amount of hit points regained. In addition, during a short or long rest, you and your allies can roll one of their hit dice without spending it.
 
-### Racial Features 
+### Racial Features
+
  **Darkvision.**  Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
  **Fey Ancestry.**  You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
  **Skill Versatility.**  You gain proficiency in two skills of your choice.
 
-### Herbal Alchemist 
+### Herbal Alchemist
+
 tinker with herbs to make potions
 
-
-
 ## Specialized Equipment
+
 - Component pouch
 - Medical focus: 1' long ivory rod, about 1½" in diameter with gold finials
 - Scholar's pack
@@ -78,97 +72,46 @@ tinker with herbs to make potions
 
 ## Personal History
 
-
-
-
-
-
 ## Education
+
 University of Haven School of Medicine
 
-
-
-
-
-
-
-
-
-
-
 ## Morality & Philosophy
+
 - Everone deserves medical treatment
-- "Do no harm" is more than a phrase but rather a way of life. 
+- "Do no harm" is more than a phrase but rather a way of life.
 - Phil won't participate in anything causing physical harm to another being which includes using weapons or magic, even in self-defence
-
-
 
 ---
 
 # Personality Characteristics
+
 ## Motivation
+
 Learning and tinkering with herbal potions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
 # Social
 
-
-
-
-
-
-
-
 ## Religious Beliefs
+
 Generally neutral to the whole concept of religon, when extremely pressed, she will enlist the support of Lohi as any physician would.
 
 ## Social Aptitude
+
 Uncomfortable in large groups and socially awkward.
 
-
-
 ## Pets & Hobbies
+
 -  **Pets:**  none
 -  **Hobbies:**  potion research
 
 ## Speech
+
 Normally quiet spoken, but when she is dealing with a medical "situation" she is direct and demanding.
 
-
-
-
-
 **Church / Cult:** Lohi<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -181,17 +124,20 @@ Normally quiet spoken, but when she is dealing with a medical "situation" she is
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/thomasina-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/thomasina-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/thomasina-person)
 
 ````
 ````col-md
-![[~attachments/.jpg]]
+IMAGE
 ---
 
 
@@ -207,7 +153,7 @@ Normally quiet spoken, but when she is dealing with a medical "situation" she is
 
 #### Origins
 **Family:** <br>
-**Race:** [[race/half-elven-race|Half-Elven Race]]<br>
+**Race:** [[races/half-elf|Half-Elven]]<br>
 
 
 #### Birth
@@ -229,36 +175,16 @@ Normally quiet spoken, but when she is dealing with a medical "situation" she is
 
 #### Affiliations
 **Deity:**  <br>
-**Affiliated Organization:**  [[Organization/Haven City Watch|]]<br>
+**Affiliated Organization:**  [[organizations/Haven City Watch|]]<br>
 **Other Affiliations:** 
-- [[organization/university-of-haven|University of Haven]]
+- [[organizations/university-of-haven|University of Haven]]
+
+
 
 
 
 ---
 
-
-````
-`````
-
----
-
-###  **Footnotes**  
+##  **Footnotes**  
 
 1. "Mender" is the honorific for Restoration Physicians.
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

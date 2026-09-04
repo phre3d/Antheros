@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1662.942, 3132.653]
 mapmarker: Shopping
 title: Mustard and Fennel
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Mustard and Fennel

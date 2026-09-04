@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Elasticity
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Elasticity
@@ -31,14 +31,14 @@ Created by the battlemaster Gruin Bladelock to provide extra reach with normal m
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ Created by the battlemaster Gruin Bladelock to provide extra reach with normal m
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

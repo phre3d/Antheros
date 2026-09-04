@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3145.595, 3568.367]
 mapmarker: City Guard
 title: Corridor Barracks
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Corridor Barracks

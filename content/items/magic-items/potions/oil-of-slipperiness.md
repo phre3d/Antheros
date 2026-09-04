@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Slipperiness
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Slipperiness
@@ -33,14 +33,14 @@ Poured on the ground it duplicates the effect of the grease spell in that area.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium grease]]<br>
 **Essence(s):**   Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -55,4 +55,3 @@ Poured on the ground it duplicates the effect of the grease spell in that area.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, landmark, the-south-corridor, type-prison]
+tags: [Haven/south-corridor, Organization/legal/prison, Plot/Free-City-of-Haven]
 title: The Grey Halls
-date modified: 2026-07-16, 9:18:45 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Grey Halls
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Prison (Government) <br>
+>**Owner:**  <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:** G04 (OS)
+>
+>---
+>
+>**Alternate Name(s):** <br>
+>**Founding Date:** <br>
+>**Type:** Prison <br>
 
 ## The Main Prison
 
@@ -34,26 +39,23 @@ The guard contingent alone hardly seems enough to prevent a mass breakout from t
 
 ## Staff
 
-- **[[people/turin-khaey|Turin Khaey]]:**  One of the best commandants the prison has had in many years. While he does not believe in coddling criminals, neither does he believe in torturing them.
-- **[[people/recci|Recci the Beast]]:**  Prison watch commander; the nickname fits.
-- **[[people/benni-couldro|Benni Couldro]]:**  Guard. A half-orc who lives in [[settlements/the-labyrinth|The Labyrinth]]; he is greedy, and would like sufficient money to get out of the area. Can usually be found on Silk Veils trying to get a little cheap action. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|plots/Free City of Haven/Scenarios/The Rescue Attempt]].
-- **[[people/brodeen|Brodeen]]:**  Guard. A blandly complexioned and totally average man in all ways, likes [[landmarks/the-cock-and-bull|The Cock and Bull]], and loses lots of money there. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|plots/Free City of Haven/Scenarios/The Rescue Attempt]].
-- **[[people/credence-bond|Credence Bond]]:**  Guard. A dark complexioned, dark haired man of melancholy countenance, can usually be found in the evenings at [[landmarks/the-golden-sovereign|The Golden Sovereign]]. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|plots/Free City of Haven/Scenarios/The Rescue Attempt]].
-- **[[people/roderick|Roderick]]:**  Guard.  A slender black haired man with a mangled left hand, can normally be found In the evenings at any of four taverns in the area of the [[settlements/horse-market|Horse Market]]: [[landmarks/the-arrows-flight|The Arrow's Flight]], [[landmarks/the-iron-horse|The Iron Horse]], [[landmarks/the-four-ox-team|The Four Ox Team]], or the Carriage House. Used to lead horse trapping expeditions on the Golden Plateau, until his hand was trampled in a stampede. He likes to drink, and is usually stinking drunk by 10pm. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|plots/Free City of Haven/Scenarios/The Rescue Attempt]].
+- **[[people/turin-khaey|Turin Khaey]]:** One of the best commandants the prison has had in many years. While he does not believe in coddling criminals, neither does he believe in torturing them.
+- **[[people/recci|Recci]] the Beast:** Prison watch commander; the knickname fits.
+- **[[people/benni-couldro|Benni Couldro]]:** Guard. A half-orc who lives in [[settlements/haven/the-labyrinth/the-labyrinth|The Labyrinth]]; he is greedy, and would like sufficient money to get out of the area. Can usually be found on Silk Veils trying to get a little cheap action. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|The Rescue Attempt]].
+- **[[people/brodeen|Brodeen]]:** Guard. A blandly complexioned and totally average man in all ways, likes [[landmarks/the-cock-and-bull|The Cock and Bull]], and loses lots of money there. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|The Rescue Attempt]]..
+- **[[people/credence-bond|credence-bond]]:** Guard. A dark complexioned, dark haired man of melancholy countenance, can usually be found in the evenings at [[landmarks/the-golden-sovereign|The Golden Sovereign]]. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|The Rescue Attempt]].
+- **[[people/roderick|Roderick]]:** Guard. A slender black haired man with a mangled left hand, can normally be found In the evenings at any of three taverns in the area of the [[settlements/haven/the-south-corridor/horse-market|Horse Market]]: [[landmarks/the-arrows-flight|The Arrow's Flight]], [[landmarks/the-iron-horse|The Iron Horse]], or the [[landmarks/the-four-ox-team|The Four Ox Team]]. Used to lead horse trapping expeditions on the Golden Plateau, until his hand was trampled in a stampede. He likes to drink, and is usually stinking drunk by 10pm. See [[plots/free-city-of-haven/scenarios/the-rescue-attempt|The Rescue Attempt]]..
 
 ## NPC Encounters
 
 **<center>Guard Patrol Schedules </center>**
 
-[td:15]Lowest Level[/td]     [td:85]        - Once every two hours, usually starting at a half hour; the round takes 20 minutes. - Two guards, who also patrol the dungeon level. 10% chance for the round to be skipped during the day, 60% at night.     [/td]  |
-
-|
-
-| Dungeon Level      |         - Once every two hours, usually starting at the hour; the round takes 30 minutes. - Same conditions as above, but this level is usually checked first.        |
-
-| Ground Level      |         - Once every hour, usually starting at the quarter hour; the round takes 20 minutes if undisturbed. - At night, there is seldom (10% chance) any trouble - if so, it requires [roll:1d20+10] minutes to resolve. - During the day, there is usually (65% chance) some disturbance which requires [roll:1d15+5] minutes to quiet. - Six guards, responsible only for this level; only four patrol. No chance for the round to be skipped during the day, 15% at night.        |
-
-| 1st Floor 2nd Floor The Towers      |         - Once every hour, usually starting at the three-quarter hour; round takes 45 minutes. - During the day, there is a 35% chance for some request from one of the privileged prisoners, which will take one of the touring guards [2d6 x 5] minutes to complete. - Six guards, responsible for all these levels; only four patrol. Only 10% chance for the round to be skipped, whether day or night.        |
+| Level | Schedule |
+|----|----|
+| Lowest Level | - Once every two hours, usually starting at a half hour; the round takes 20 minutes. <br>- Two guards, who also patrol the dungeon level. 10% chance for the round to be skipped during the day, 60% at night.|
+| Dungeon Level | - Once every two hours, usually starting at the hour; the round takes 30 minutes. <br>- Same conditions as above, but this level is usually checked first. |
+| Ground Level | - Once every hour, usually starting at the quarter hour; the round takes 20 minutes if undisturbed. <br>- At night, there is seldom (10% chance) any trouble - if so, it requires minutes to resolve. - During the day, there is usually (65% chance) some disturbance which requires minutes to quiet. <br>- Six guards, responsible only for this level; only four patrol. No chance for the round to be skipped during the day, 15% at night. |
+| 1st Floor, 2nd Floor, <br>and the Towers | - Once every hour, usually starting at the three-quarter hour; round takes 45 minutes. <br>- During the day, there is a 35% chance for some request from one of the privileged prisoners, which will take one of the touring guards [2d6 x 5] minutes to complete. <br>- Six guards, responsible for all these levels; only four patrol. Only 10% chance for the round to be skipped, whether day or night. |
 
 ## Special Options
 
@@ -61,105 +63,11 @@ Unbeknownst to all but a few residents of Haven, there is a network of tunnels w
 
 Thirty-five years ago, when Coris Elan the great cat-burglar was captured and condemned to hanging. He was replaced with his closest look-alike, Viscount Aristande Boleslavski, the very noble he was robbing when he was caught and who insisted on the highest penalty for the unlucky Coris. The populace thought it was some kind of macabre joke Coris was playing when he insisted, all the way to the gallows, that he was really the viscount. Coris retired from the Guild, left Haven, and has been enjoying life as Viscount Aristande for lo these many years.
 
-The practice of replacement is not often carried out by the Guild, just for important members who happen to get caught and imprisoned. The rank and file thieves of the Guild do not even suspect the existence of these tunnels, though all are fairly familiar with the catacombs under [[settlements/the-labyrinth|The Labyrinth]]. "
+The practice of replacement is not often carried out by the Guild, just for important members who happen to get caught and imprisoned. The rank and file thieves of the Guild do not even suspect the existence of these tunnels, though all are fairly familiar with the catacombs under [[settlements/haven/the-labyrinth/the-labyrinth|The Labyrinth]].
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Prison (Government)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   G04 (OS)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Prison
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 29cb4deb-4fef-475f-8c31-0d8e6f188cda<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,type-prison
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
-Previous:
-
-a16bded8-1db4-4f82-88d1-5e272e9e5f75
-
---- end-column ---
-
-Next:
-
-6053011d-37a6-4d6b-8e0b-41925f3bbd77
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+ <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+ <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: tierza-gudas
 name: Tierza Gudas
@@ -16,12 +16,15 @@ children_id:
   - mazyna-gudas
   - ryndana-gudas
 title: Tierza Gudas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Tierza Gudas
 
-Medium, humanoid (wood elf), chaotic-good
+>[!info] Portrait
+>![[plots/the-gypsy-train/images/tierza-gudas.jpg]]
+
+*Medium, humanoid (wood elf), chaotic-good*
 
 **Profession:** Rogue (3rd) / Wizard (2nd)
 
@@ -48,10 +51,9 @@ Medium, humanoid (wood elf), chaotic-good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->![[plots/the-gypsy-train/images/tierza-gudas.jpg]]
 
----
+
+
 
 # Description
 
@@ -63,19 +65,19 @@ Tierza is a wood elf, multi-classed as a 3rd-level thief and 2nd-level magic-use
 
 It is rare for Tierza to be quiet or somber, but when she is it is usually because she is considering her future with the gypsies. Tierza is 161 years old; in her culture, she came of age only a few years ago. As time goes on, she will continue to be youthful while her husband becomes elderly. While she would not consider leaving her husband, she does worry about whether she will retain acceptance among the gypsies when she is a widow. Her spell-casting ability gives her some “bargaining power,” but complicating the matter is the fact that her daughter [[plots/the-gypsy-train/npcs/ryndana-gudas|Ryndana]] is developing the same talents.
 
----
+
 
 # Spellcasting
 
 When first encountered, she carries *sleep* and *shield* as her spells. Tierza keeps her spell book hidden under her bed among a few nondescript volumes including a book of elven bedtime stories, a personal journal, and a book of family history. The spell book is labeled “Recipes” and contains information on the spells *charm person*, *identify*, *light*, *mending*, *shield*,* and *sleep*.
 
----
+
 
 # Special Abilities
 
 She wears no armour but has a +2 Ring of Protection
 
----
+
 
 # Actions
 

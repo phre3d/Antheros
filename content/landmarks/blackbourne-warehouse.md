@@ -1,118 +1,37 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, the-south-docks, type-warehouse, warehouse]
+tags: [Building/warehouse, Haven/commons/south-docks, Organization/professional/guild-of-drayers, Plot/Free-City-of-Haven, Shop, Shop/service/warehouse]
 title: Blackbourne Warehouse
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Blackbourne Warehouse
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Warehouse (Service) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    U07 (BE)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Warehouse, Commercial  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Storage for the textile merchants
+***Storage for the textile merchants***
 
 ## Description
 
 This is a large, roofed warehouse, used for the storage of bolts of wool and linen before they are shipped out on one of the family's four trading vessels, or sold to another merchant. There are usually 5 employees here during the day, unless one of the ships is in port (10% chance), and three guards at night.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Warehouse (Service)**
-
- **Owner:**  
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   U07 (BE)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Warehouse, Commercial
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** a9afd3a8-be0a-493e-9539-37faee4a2bb4<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the-south-docks-location,cat-shop,type-warehouse,guild-of-drayers-location,warehouse
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

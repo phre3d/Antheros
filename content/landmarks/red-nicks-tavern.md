@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-docks, type-tavern]
+tags: [Entertainment/tavern, Haven/commons/south-docks, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: "Red Nick's Tavern"
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:02:23 pm
 ---
 
 # Red Nick's Tavern
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/red-nick|Red Nick]] <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    U05 (AX)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## Hangout of the Longshoremen
 
@@ -30,95 +35,9 @@ The tavern is in two old row houses on a back alley, not far from the docks. The
 
 [[people/maggie|Maggie]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Red Nick
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   U05 (AX)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/red-nick|Red Nick]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 59bb12b8-1393-43d8-9fd0-f296b2ee1187<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the-south-docks-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

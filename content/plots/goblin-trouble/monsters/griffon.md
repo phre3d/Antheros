@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, import, monster, statblock]
+tags: [Monster, Plot/Goblin-Trouble, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 ````col
@@ -52,13 +52,13 @@ Large monstrosity neutral
 
 # Actions
 
-### Beak.
+## Beak
 
    **Melee weapon attack.**   to hit, reach 5 feet, one target.
 
   **Hit:**  8  piercing damage  
 
-### Claws
+## Claws
 
   **Melee weapon attack.**   to hit, reach 5 feet, one target.
 

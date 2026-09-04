@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Translation
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Translation
@@ -31,14 +31,14 @@ A diplomat worked with an alchemist to create a marvelous potion to help secure 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ A diplomat worked with an alchemist to create a marvelous potion to help secure 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

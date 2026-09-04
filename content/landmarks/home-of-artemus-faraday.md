@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-south-corridor, type-house]
+tags: [Building/residential/house, Haven/south-corridor, Plot/Free-City-of-Haven]
 title: Home of Artemus Faraday
-date modified: 2026-07-16, 9:18:54 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Home of Artemus Faraday
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** House (Residence) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    G09 (OA)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** House  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**House (Residence)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   G09 (OA)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** House
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 19e5ccf2-8893-4ba3-9e48-3fc60281678b<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-residence,type-house,residence
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

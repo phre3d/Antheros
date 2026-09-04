@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, glass, import, landmark, the-north-corridor, type-glass]
+tags: [Haven/north-corridor, Plot/Free-City-of-Haven, Shop, Shop/goods/glass]
 title: Pane in the Glass
-date modified: 2026-07-16, 9:18:50 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Pane in the Glass
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Glass (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] <br>
+>**Grid (Key) Ref.:**    R13 (SS)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Glass, not glasses
 
@@ -42,101 +47,15 @@ There are five apprentices working with Gurtzon but they normally keep to the gl
 
 ## Customers
 
-The is a 50% chance of finding 1-4 customers.  1d100 1d4
+The is a 50% chance of finding 1-4 customers.
 
 ## Loiterers
 
 It's on a busy street so who knows who is hanging around.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Glass (Shopping)**
-
- **Owner:**  
-
- **District:**  The North Corridor
-
- **Grid (Key) Ref.:**   R13 (SS)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-north-corridor|The North Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 30e189ea-4f38-4047-8468-6bd228e47800<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The North Corridor<br>
-**Tags:** fcoh,the-north-corridor-location,cat-shop,type-glass,glass
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

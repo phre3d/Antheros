@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/entertainers, import, landmark, thieves-market, type-theatre]
+tags: [Entertainment/tavern, Haven/south-corridor/thieves-market, Organization/professional/guild-of-entertainers, Plot/Free-City-of-Haven]
 title: The Silver Stringed Bouzouki
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Silver Stringed Bouzouki
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Theatre (Entertainment) <br>
+>**Owner:**  [[people/andros-petropopolous|Andros Petropopolous]] <br>
+>**District:** [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]] <br>
+>**Grid (Key) Ref.:**    J04 (OW)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Theatre / Concert hall  <br>
 
 ## Entertainment through the night
 
@@ -64,95 +69,9 @@ Generally 60-80 men, occasionally a few women.
 
 Some really exquisite dancers.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Theatre (Entertainment)**
-
- **Owner:**  Andros Petropopolous
-
- **District:**  Thieves' Market
-
- **Grid (Key) Ref.:**   J04 (OW)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Theatre / Concert hall
-
-**Parent Location:**
-
-[[settlements/thieves-market|Thieves' Market]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/andros-petropopolous|Andros Petropopolous]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 176d8619-120b-473b-9a40-cf0cdc04eaa9<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Thieves' Market<br>
-**Tags:** fcoh,thieves-market-location,cat-entertainment,type-theatre,guild-of-entertainers-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

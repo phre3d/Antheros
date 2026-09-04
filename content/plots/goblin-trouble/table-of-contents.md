@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, toc]
+tags: [Plot/Goblin-Trouble, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 [[plots/goblin-trouble/goblin-trouble|Introduction]]<br>

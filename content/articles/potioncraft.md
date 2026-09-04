@@ -2,7 +2,7 @@
 aliases: []
 tags: []
 title: Potioncraft
-date modified: 2026-07-16, 9:19:05 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potioncraft
@@ -22,6 +22,8 @@ There are six essences, each bringing unique properties to the mixture:
 - [[materials/essence-of-shadow|Essence of Shadow]] 
 - [[materials/essence-of-water|Essence of Water]]
 ```
+```col-md
+```
 ````
 
 Another difference is that Oils, Acids and improvised weapons are the domain of alchemists while health related portions are unique to herbalists.
@@ -35,7 +37,7 @@ Another difference is that Oils, Acids and improvised weapons are the domain of 
 	- Spell to be as part of crafting
 	- Other mats as stated
 
-### The Base
+## The Base
 
 All concoctions require an alchemical base, a foundation on which the formulations are created. Generally, the more powerful the effect, the more refined and costly the requisite base. The following list describes the most common categorizations of bases:
 

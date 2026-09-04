@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1530.612, 4017.023]
 mapmarker: Shopping
 title: Suttler on the Green
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Suttler on the Green

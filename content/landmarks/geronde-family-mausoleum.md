@@ -1,32 +1,37 @@
 ---
 aliases: []
-tags: [landmark]
+tags: [Haven/heights, Landmark/landmark, Plot/Free-City-of-Haven]
 title: Geronde Family Mausoleum
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Geronde Family Mausoleum
 
----start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:**  <br>
+>**Owner:**  [[organizations/families/geronde-family|Geronde Family]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:**   <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+## Description
 
-# Description
+The [[organizations/families/geronde-family|Geronde Family]] have a crypt in [[landmarks/city-of-the-dead|The City of the Dead]]. It figures prominently in the [[plots/sins-of-the-past/sins-of-the-past|Sins of the Past]] storyline.
 
-A large family crypt located in City of the Dead, the largest park in Haven that was once used as a cemetery.
+## NPC Encounters
 
---- end-column ---
-
-**Type:**  Landmark  <br>  <!-- Shop|Inn|Tavern|Government|Landmark|etc. -->
-
-**Owner:** [[organizations/families/geronde-family|Geronde Family]]<br>
-**Parent Landmark:** [[landmarks/city-of-the-dead|City of the Dead]]
-
-**Plot(s):** [[plots/sins-of-the-past/sins-of-the-past|Sins of the Past]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

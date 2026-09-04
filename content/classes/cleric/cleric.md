@@ -1,36 +1,40 @@
 ---
 aliases: []
-tags: [Class, class/Cleric]
+tags: [Class/cleric]
 title: Cleric
-date modified: 2026-07-16, 9:19:04 pm
+date modified: 2026-08-17, 12:46:32 pm
 ---
 
 # Cleric
 
-**Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
+>[!info]
+>**Hit Dice:** 1d8<br>
+>
+>**Hit Points @ 1st Level:**  8 + Constitution Modifier<br>
+>
+>**Hit Points @ Higher Levels:**  1d8 (or 5) + Constitution Modifier<br>
+>
+>**Armour Proficiencies:**  Light armor, medium armor, shields<br>
+>
+>**Weapon Proficiencies:**   All simple weapons<br>
+>
+>**Tools:**   None<br>
+>
+>**Saving Throws:**  Wisdom, Charisma<br>
+>
+>**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion<br>
+>
+>**Starting Equipment:** You start with the following equipment, in addition to the equipment granted by your background:
+>
+>- (a) a mace or (b) a warhammer (if proficient)
+>- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+>- (a) a light crossbow and 20 bolts or (b) any simple weapon
+>- (a) a priest's pack or (b) an explorer's pack
+>- A shield and a holy symbol
 
-**   *You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
+Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
----
-
-**Hit Dice:** 1d8<br>
-**Hit Points @ 1st Level:**  8 + Constitution Modifier<br>
-**Hit Points @ Higher Levels:**  1d8 (or 5) + Constitution Modifier<br>
-**Armour Proficiencies:**  Light armor, medium armor, shields<br>
-**Weapon Proficiencies:**   All simple weapons<br>
-**Tools:**   None<br>
-**Saving Throws:**  Wisdom, Charisma<br>
-**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion<br>
-**Starting Equipment:**
-
-You start with the following equipment, in addition to the equipment granted by your background: - (a) a mace or (b) a warhammer (if proficient)
-
-- (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
-- (a) a light crossbow and 20 bolts or (b) any simple weapon
-- (a) a priest's pack or (b) an explorer's pack
-- A shield and a holy symbol
-
----
+*You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
 ## Spellcasting
 
@@ -54,9 +58,9 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
  Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
- **Spell save DC**  = 8 + your proficiency bonus + your Wisdom modifier
+ &nbsp;&nbsp;&nbsp;&nbsp;**Spell save DC**  = 8 + your proficiency bonus + your Wisdom modifier
 
- **Spell attack modifier**  = your proficiency bonus + your Wisdom modifier
+ &nbsp;&nbsp;&nbsp;&nbsp;**Spell attack modifier**  = your proficiency bonus + your Wisdom modifier
 
 ## Ritual Casting
 
@@ -65,8 +69,6 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 ## Spellcasting Focus
 
  You can use a holy symbol as a spellcasting focus for your cleric spells.
-
----
 
 # Class Features
 
@@ -126,55 +128,37 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
----
-
 # Divine Domains
 
->[!Subclass]- Arcana Domain
->![[classes/cleric/cleric-arcana-domain|Arcana Domain]]
+>![[classes/cleric/arcana-domain|Arcana Domain]]
+<br><br><br>
+>![[classes/cleric/death-domain|Death Domain]]
+<br><br><br>
+>![[classes/cleric/forge-domain|Forge Domain]]
+<br><br><br>
+>![[classes/cleric/grave-domain|Grave Domain ]]
+<br><br><br>
+>![[classes/cleric/knowledge-domain|Knowledge Domain ]]
+<br><br><br>
+>![[classes/cleric/life-domain|Life Domain ]]
+<br><br><br>
+>classes/cleric/light-domain|Light Domain ]]
+<br><br><br>
+>classes/cleric/nature-domain|Nature Domain ]]
+<br><br><br>
+>classes/cleric/order-domain|Order Domain ]]
+<br><br><br>
+>classes/cleric/peace-domain|Peace Domain ]]
+<br><br><br>
+>classes/cleric/tempest-domain|Tempest Domain ]]
+<br><br><br>
+>classes/cleric/trickery-domain|Trickery Domain ]]
+<br><br><br>
+>classes/cleric/twilight-domain|Twilight Domain ]]
+<br><br><br>
+>classes/cleric/war-domain|War Domain   ]]
 
->[!Subclass]- Death Domain
->![[classes/cleric/cleric-death-domain|Death Domain]]
-
->[!Subclass]- Forge Domain
->![[classes/cleric/cleric-forge-domain|Forge Domain]]
-
->[!Subclass]- Grave Domain
->![[classes/cleric/cleric-grave-domain|Grave Domain ]]
-
->[!Subclass]- Knowledge Domain
->![[classes/cleric/cleric-knowledge-domain|Knowledge Domain ]]
-
->[!Subclass]- Life Domain
->Class/Subclass/Life Domain|Life Domain ]]
-
->[!Subclass]- Light Domain
->Class/Subclass/Light Domain|Light Domain ]]
-
->[!Subclass]- Nature Domain
->Class/Subclass/Nature Domain|Nature Domain ]]
-
->[!Subclass]- Order Domain
->Class/Subclass/Order Domain|Order Domain ]]
-
->[!Subclass]- Peace Domain
->Class/Subclass/Peace Domain|Peace Domain ]]
-
->[!Subclass]- Tempest Domain
->Class/Subclass/Tempest Domain|Tempest Domain ]]
-
->[!Subclass]- Trickery Domain
->Class/Subclass/Trickery Domain|Trickery Domain ]]
-
->[!Subclass]- Twilight Domain
->Class/Subclass/Twilight Domain|Twilight Domain ]]
-
->[!Subclass]- War Domain
->Class/Subclass/War Domain|War Domain   ]]
-
----
-
-## Table Data
+# Table Data
 
 |<br>Level|Proficiency Bonus|<br>Features|Cantrips Known|<br>1st|<br>2nd|<br>3rd|<br>4th|<br>5th|<br>6th|<br>7th|<br>8th|<br>9th |
 |:--:|:--:|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -201,7 +185,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Entity Class:** Block<br>
 **Tags:** Class<br>

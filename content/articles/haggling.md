@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [article, Free_City_of_Haven, import]
+tags: [Plot/Free-City-of-Haven]
 title: Haggling
-date modified: 2026-07-16, 9:19:08 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Haggling
@@ -17,7 +17,7 @@ The ability rating goes from 1 to 20 and can be used to estimate the chances tha
 
 Haggling techniques are, unfortunately, something that must be learned; it is very difficult to describe all the possible ploys from both buyer and seller - a good session of haggling, however, can be a lot of fun.
 
-**<center>Vendor's Desire and Ability to Haggle</center>**
+**Vendor's Desire and Ability to Haggle**
 
 | 1d100  |   | Desire  | 1d100  | Ability    |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ Haggling techniques are, unfortunately, something that must be learned; it is ve
 
 <sup>2</sup> When deciding to lower a price, roll [roll:d20] and if you beat the number in parentheses it will be lowered. Or just decide based on role-playing.
 
- ** <center> Number of Other Customers Present </center> **
+ **Number of Other Customers Present **
 
 | 1d100 | # Present  |
 |---|---|

@@ -1,14 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: entertainment
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+# Entertainment Markers
 
-- [[maps/haven/markers/frods-theater]]
-- [[maps/haven/markers/open-air-theater-of-the-performing-arts]]
-- [[maps/thieves-market/markers/rackleys-museum-of-oddities|Rackley's Museum of Oddities]]
-- [[maps/thieves-market/markers/the-silver-stringed-bouzouki|The Silver Stringed Bouzouki]]
-- [[maps/thieves-market/markers/dorki-and-his-dancing-girls]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Entertainment"
+```

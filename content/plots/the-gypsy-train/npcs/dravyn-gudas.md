@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: dravyn-gudas
 name: Dravyn Gudas
@@ -8,15 +8,18 @@ sex: male
 born: 1153
 mother: "[[plots/the-gypsy-train/npcs/tierza-gudas]]"
 mother_id: tierza-gudas
+title: Dravyn Gudas
+date modified: 2026-08-17, 12:45:54 pm
 father: "[[javyd-gudas|Javyd Gudas]]"
 father_id: javyd-gudas
-title: Dravyn Gudas
-date modified: 2026-07-16, 9:18:12 pm
 ---
 
 # Dravyn Gudas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -43,8 +46,7 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 

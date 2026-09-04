@@ -1,20 +1,20 @@
 ---
 aliases: []
-tags: [plot/Hag-Bear-Goblin, import, plot]
+tags: [Plot, Plot/Hag-Bear-Goblin]
 title: The Hag, the Bear and the Goblins
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # The Hag, the Bear and the Goblins
 
-### aka “The Goblins' Prank Gone Wrong”
+## aka “The Goblins' Prank Gone Wrong”
 
 ````col
 ```col-md
 flexGrow=2.5
 ===
 # Foreword 
-What follows is taked from the Mine Your Own Business module from Robert Musci-Kurinyecz and Gergely Sepsi (full credits below). It has been changed to fit the world and campaign. 
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Summary 
 In the village of [[settlements/oakridge|Oakridge]], trouble is brewing as Thomas, the farmer's children have fallen seriously ill. Desperation sets in as no remedy seems to work, except for one whispered solution - the Hag living deep within the nearby woods. The adventurers must venture on a journey to negotiate with the Hag, whose cure is the only hope for the sick boys. However, dealing with the unpredictable creature will be challenging. As the adventurers unravel the layers of this one-shot adventure, they will discover that there's more to the situation than initially meets the eye.

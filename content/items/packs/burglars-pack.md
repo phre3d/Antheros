@@ -1,17 +1,21 @@
 ---
 aliases: []
-tags: [container, item]
+tags: [Item, Item/container]
 title: "Burglar's Pack"
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Burglar's Pack
 
-````col
-```col-md
-flexGrow=2.5
-===
+>[!info]
+>**Rarity:** Common
+>
+>**Weight:** 5 lbs + contents<br>
+>**Dimensions:** <br>
+>**Base Price:** 16 gp
+
 A basic backpack that can hold 1 cubic foot of gear weighing up to 30 lbs. Additional items may be strapped to the outside. It comes with:
+
 - a bag of 1,000 ball bearings
 - 10 feet of string
 - a bell
@@ -24,15 +28,4 @@ A basic backpack that can hold 1 cubic foot of gear weighing up to 30 lbs. Addit
 - 5 days rations
 - a tinderbox
 - a waterskin
-- 50 feet of hempen rope 
-```
-
-```col-md
-**Rarity:** Common
-
-**Weight:** 5 lbs + contents<br>
-**Dimensions:** <br>
-**Base Price:** 16 gp
-
-```
-````
+- 50 feet of hempen rope

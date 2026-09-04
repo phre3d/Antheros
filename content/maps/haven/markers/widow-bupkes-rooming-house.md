@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1791.513, 6501.02]
 mapmarker: Residence
 title: "Widow Bupkes' Rooming House"
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Widow Bupkes' Rooming House

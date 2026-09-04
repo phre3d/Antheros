@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1683.35, 6233.673]
 mapmarker: Shopping
 title: Jakkob the Sailmaker
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Jakkob the Sailmaker

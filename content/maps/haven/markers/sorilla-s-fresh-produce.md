@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1421.429, 3485.391]
 mapmarker: Shopping
 title: "Sorilla' s Fresh Produce"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Sorilla' s Fresh Produce
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: D11 (LC)
 
-**Location:** [[landmarks/sorilla-s-fresh-produce|Sorilla' s Fresh Produce]]<br>
+**Location:** [[landmarks/sorillas-fresh-produce|Sorilla' s Fresh Produce]]<br>
 **Location Type:** Greengrocer
 
 **Description**<br>

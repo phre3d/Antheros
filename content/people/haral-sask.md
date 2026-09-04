@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, npc, person, plot/Sins_of_the_Past]
+tags: [Person, Person/npc, Plot/Sins-of-the-Past]
 title: Haral Sask
-date modified: 2026-07-16, 9:18:25 pm
+date modified: 2026-08-20, 8:03:19 pm
 ---
 
 # Haral Sask
@@ -11,121 +11,19 @@ date modified: 2026-07-16, 9:18:25 pm
 
 **Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Half-elf, an orphan from [[settlement/the-labyrinth|The Labyrinth]] originally, he used to steal to make a living. He joined [[organization/the-jackals|The Jackals]] and decided to stick with mausoleum robbery because it brings more coin. He survived after [[person/nesan-gerondes|Nesan Geronde's]] attack in [[plots/sins-of-the-past|Sins of the Past]] but got trapped in the mirror - whether he gets out depends on the party's actions.
 
-![[dndline.png]]
+Half-elf, an orphan from [[settlements/haven/the-labyrinth/the-labyrinth|The Labyrinth]] originally, he used to steal to make a living. He joined [[organizations/criminal/the-jackals|The Jackals]] and decided to stick with mausoleum robbery because it brings more coin. He survived after [[people/nesan-geronde|Nesan Geronde's]] attack in [[plots/sins-of-the-past/sins-of-the-past|Sins of the Past]] but got trapped in the mirror - whether he gets out depends on the party's actions.
 
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
@@ -136,18 +34,21 @@ Half-elf, an orphan from [[settlement/the-labyrinth|The Labyrinth]] originally, 
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/haral-sask-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/haral-sask-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/haral-sask-person)
 
 ````
 ````col-md
-![[~attachments/.jpg]]
-![[dndline.png]]
+IMAGE
+
 
 
 
@@ -162,7 +63,7 @@ Half-elf, an orphan from [[settlement/the-labyrinth|The Labyrinth]] originally, 
 
 #### Origins
 **Family:** <br>
-**Race:** [[race/half-elven-race|Half-Elven Race]]<br>
+**Race:** [[races/half-elf|Half-Elven]]<br>
 
 
 #### Birth
@@ -184,30 +85,13 @@ Half-elf, an orphan from [[settlement/the-labyrinth|The Labyrinth]] originally, 
 
 #### Affiliations
 **Deity:**  <br>
-**Affiliated Organization:**  [[Organization/The Jackals|]]<br>
+**Affiliated Organization:**  [[organizations/The Jackals|]]<br>
 
 
 
-![[dndline.png]]
+
 
 
 ````
+
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

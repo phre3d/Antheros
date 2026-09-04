@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, item, magic-item]
+tags: [Item, Item/magic-item, Plot/Burgled-Budgie]
 title: Scroll of Recolour
-date modified: 2026-07-16, 9:18:18 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 # Scroll of Recolour

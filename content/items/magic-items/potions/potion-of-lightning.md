@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Lightning
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Lightning
@@ -31,14 +31,14 @@ This poton was created by a battlemaster looking for a way for his troops to be 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ This poton was created by a battlemaster looking for a way for his troops to be 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

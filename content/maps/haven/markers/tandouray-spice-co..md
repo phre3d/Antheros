@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2334.37, 6361.224]
 mapmarker: Shopping
-title: Tandouray Spice Co.
-date modified: 2026-07-16, 9:18:40 pm
+title: Tandouray Spice Co
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
-# Tandouray Spice Co.
+# Tandouray Spice Co
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
 
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: U07 (BH)
 
-**Location:** [[landmarks/tandouray-spice-co.|Tandouray Spice Co.]]<br>
+**Location:** [[landmarks/tandouray-spice-co|Tandouray Spice Co.]]<br>
 **Location Type:** Spices
 
 **Description**<br>

@@ -1,223 +1,102 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-north-corridor]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/north-corridor]
 title: Osondrea
-date modified: 2026-07-16, 9:18:21 pm
+date modified: 2026-08-20, 8:03:23 pm
 ---
 
 # Osondrea
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  2000
+>
+>
+> **Class/Profession:**  Wizard 10th
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/elf|Elven]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Elvish | Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**  [[landmarks/treehouse-residence-of-osondrea | Treehouse Residence of Osondrea]]   <br>
+>**Current Location:**   [[settlements/haven/the-north-corridor/the-north-corridor| The North Corridor]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Osondrea
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A high level elven enchantress who specializes in the enchantment of wood and fire. Her residence is in a tree in the Riversedge area of [[settlement/the-north-corridor|The North Corridor]]
 
-![[dndline.png]]
+A high level elven enchantress who specializes in the enchantment of wood and fire. Her residence is in a tree in the Riversedge area of [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]]
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/osondrea-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/osondrea-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/osondrea-person)
 
-````
-````col-md
-
-
-**ID #**  2000
-
-
- **Class/Profession:**  Wizard 10th
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/elven-race|Elven Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Elvish | Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** Treehouse Residence of Osondrea<br>
-**Current Location:**  [[article/the-north-corridor|The North Corridor]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/osondrea]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

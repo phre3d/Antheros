@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Minor Creation
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Minor Creation
@@ -31,14 +31,14 @@ This party potion was created by a street magician who was famous for his perfor
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ This party potion was created by a street magician who was famous for his perfor
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

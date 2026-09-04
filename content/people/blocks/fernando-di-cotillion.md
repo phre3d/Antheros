@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Fernando di Cotillion
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Fernando di Cotillion
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** Fighter/10th (Noble)<br>
 **Challenge Rating:** 3<br>
@@ -20,18 +17,17 @@ flexGrow=2
 **Alignment:** Any<br>
 **Armour Class:** 16 - Chain Mail<br>
 **Hit Points:** 65<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 61 (n/a) | 12 (+1) | 11 (+0) | 10 (+0) | 14 (+2) | 15 (+2) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Constitution<br>
-**Languages:** <br>**Challenge:** 3 / (XP)<br>**Senses:** <br>**Skills:** Proficiency bonus +4
+**Languages:** <br>
+**Challenge:** 3 / (XP)<br>
+**Senses:** <br>
+**Skills:** Proficiency bonus +4
 
 ```
 
@@ -41,9 +37,10 @@ flexGrow=2
 
 
 ```
+
 ````
 
-![[dndline.png]]
+
 
 # Actions
 

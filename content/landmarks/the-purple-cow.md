@@ -1,116 +1,35 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-north-corridor, type-tavern]
+tags: [Entertainment/tavern, Haven/north-corridor, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: The Purple Cow
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Purple Cow
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] <br>
+>**Grid (Key) Ref.:**    I17 (SU)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## NPC Encounters
 
 [[people/bakka-hofstra|Bakka Hofstra]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  
-
- **District:**  The North Corridor
-
- **Grid (Key) Ref.:**   I17 (SU)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-north-corridor|The North Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 5407271e-c08b-4801-bd49-2b8f34360f01<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The North Corridor<br>
-**Tags:** fcoh,the-north-corridor-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1155.799, 4026.531]
 mapmarker: Shopping
 title: Zafforo the Lender
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Zafforo the Lender

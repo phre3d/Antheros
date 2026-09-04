@@ -1,230 +1,109 @@
 ---
 aliases: []
-tags: [ducal-guard, Free_City_of_Haven, import, maggia-family, npc, person, the-heights]
+tags: [Organization/family/maggia-family, Organization/fighting/ducal-guard, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/heights]
 title: Emmaeus Stonnard
-date modified: 2026-07-16, 9:18:27 pm
+date modified: 2026-08-20, 8:03:18 pm
 ---
 
 # Emmaeus Stonnard
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  411
+>
+>
+> **Class/Profession:**  Fighter 5th
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-citadel|The Citadel]]
+>- [[settlements/haven/the-heights/the-heights|The Heights]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  [[organizations/families/maggia-family| Maggia Family]] <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**  [[landmarks/maggia-family-residence|Maggia Family Residence]]   <br>
+>**Current Location:**   [[settlements/haven/the-heights/the-heights| The Heights]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Emmaeus  Stonnard
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Married to [[person/gallia-stonnard|Gallia Stonnard]], a daughter of the [[organization/maggia-family|Maggia Family]]. He is a lieutenant in the [Ducal Guard](https://www.worldanvil.com/w/antheros-phre3d/a/haven-city-watch-organization#Ducal_Guard). 
+
+Married to [[people/gallia-stonnard|Gallia Stonnard]], a daughter of the [[organizations/families/maggia-family|Maggia Family]]. He is a lieutenant in the [Ducal Guard](https://www.worldanvil.com/w/antheros-phre3d/a/haven-city-watch-organization#Ducal_Guard).
 
  [familytree:95c3ce21-9114-4a5f-8c7b-d27664aedf32]
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/emmaeus-stonnard-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/emmaeus-stonnard-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/emmaeus-stonnard-person)
 
-````
-````col-md
-
-
-**ID #**  411
-
-
- **Class/Profession:**  Fighter 5th
-
-
- **Places Encountered** 
-- [[landmark/the-citadel|The Citadel]]
-- [[settlement/the-heights|The Heights]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** [[organization/maggia-family|Maggia Family]]<br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** @[Maggia Family Residence](landmark:3b8a3106-f69c-48c1-bd8d-37399c70f36d)<br>
-**Current Location:**  [[article/the-heights|The Heights]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/emmaeus-stonnard]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

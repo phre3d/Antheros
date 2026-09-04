@@ -1,15 +1,26 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, plot]
+date modified: 2026-08-26, 2:30:56 pm
+tags: [Plot, Plot/Mimic-Mayhem]
 title: The Solution
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 ![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]
 
 # The Solution
 
-The horribly twisted carcass of a mimic lays on the ground behind the gift shop. Show the Gift Shop Window image to your players (found on next page). A DC 10 Medicine check or DC 15 Nature check will reveal that this mimic died by turning itself inside out.
+>[!info]
+>![[plots/mimic-mayhem/images/gift-shop-window.png]]
+>
+>---
+>
+>![[plots/mimic-mayhem/images/impossible-triangle.png]]
+>
+>---
+>
+>![[plots/mimic-mayhem/table-of-contents]]
+
+The horribly twisted carcass of a mimic lays on the ground behind the gift shop. Show the Gift Shop Window image to your players (at right). A DC 10 Medicine check or DC 15 Nature check will reveal that this mimic died by turning itself inside out.
 
 A blue book is visible through the window. The book has the image of a triangle on its cover.
 
@@ -37,35 +48,9 @@ its legacy of warmth and welcome.
 >
 > Upon leaving Ratstew Gap, the inn thrums with a renewed sense of peace and purpose. As the sunlight kisses your faces, you feel the god of travelers radiating his blessing upon you.
 
->[!infobox]
->![[plots/mimic-mayhem/images/gift-shop-window.png]]
->
->---
->
->![[plots/mimic-mayhem/images/impossible-triangle.png]]
->
->---
->
->![[plots/mimic-mayhem/table-of-contents]]
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/mimic-mayhem/the-alley|The Alley]]
-
---- end-column ---
-
-Next:
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/mimic-mayhem/the-alley" class="internal-link">The Alley</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

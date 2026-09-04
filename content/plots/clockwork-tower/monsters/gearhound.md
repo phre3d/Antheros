@@ -1,16 +1,15 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Gearhound
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Gearhound
-Medium construct (canine) 
+
+![[plots/clockwork-tower/images/gearhound.png]]
+
+*Medium construct (canine), unaligned*
 
 **Armour Class:** 15 (natural armor)<br>
 **Hit Points:** 16 [roll:4d8]<br>
@@ -33,46 +32,34 @@ Medium construct (canine)
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/gearhound.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Immutable Form
+## Immutable Form
 
  The Gearhound is immune to any spell or effect that would alter its form.
 
-### Spring-Loaded Legs.
+## Spring-Loaded Legs
 
  The Gearhound has advantage on Dexterity (Acrobatics) checks and its jump distance is doubled.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Gearhound makes two bite attacks.
 
-### Bite
+## Bite
 
    **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
 
   **Hit:**  9  piercing damage.
 
-![[~attachments/dndline.png]]
-
 # Description
 
-With its sharp, shining, metallic body and kinetic energy, the Gearhound is an awe-inspiring sight to behold. This clockwork canine, a construct of interlocking gears and polished metal plates, radiates a sort of industrial beauty. Its eyes, glowing with an eerie, soft light, reflect a keen intelligence that belies its mechanical nature. Its mouth, filled with razor-sharp metal teeth, reveals the construct's deadly purpose. Its finely crafted spring-loaded legs allow it to move at breathtaking speeds, bouncing off walls and ceilings with an uncanny agility.   The whir of its internal gears and the soft hum of its mechanisms are the only sounds that betray its approach.   These constructs, the loyal mechanical watchdogs of Haven's Ironworks, are as dangerous as they are fiercely loyal. They patrol the perimeters of the Ironworks with a relentless dedication, a testament to the genius of their creator many human generations ago.
+With its sharp, shining, metallic body and kinetic energy, the Gearhound is an awe-inspiring sight to behold. This clockwork canine, a construct of interlocking gears and polished metal plates, radiates a sort of industrial beauty. Its eyes, glowing with an eerie, soft light, reflect a keen intelligence that belies its mechanical nature. Its mouth, filled with razor-sharp metal teeth, reveals the construct's deadly purpose. Its finely crafted spring-loaded legs allow it to move at breathtaking speeds, bouncing off walls and ceilings with an uncanny agility.   The whir of its internal gears and the soft hum of its mechanisms are the only sounds that betray its approach.
+
+These constructs, the loyal mechanical watchdogs of Haven's Ironworks, are as dangerous as they are fiercely loyal. They patrol the perimeters of the Ironworks with a relentless dedication, a testament to the genius of their creator many human generations ago.
 
 ---
 

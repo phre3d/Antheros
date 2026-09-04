@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Invisibility
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Invisibility
@@ -27,14 +27,14 @@ When you drink it, you become invisible. Anything you wear or carry is invisible
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  Water<br>
 **Spell Needed:** *Invisibility* <br>
 **Other:**
@@ -49,4 +49,3 @@ When you drink it, you become invisible. Anything you wear or carry is invisible
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,20 +1,23 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
-cr_type: person
+born: 1145
 cr_id: survillo-gudas
+cr_type: person
+date modified: 2026-09-03, 2:05:02 pm
 name: Survillo Gudas
 sex: male
-born: 1145
 sibling: "[[plots/the-gypsy-train/npcs/javyd-gudas]]"
 sibling_id: javyd-gudas
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 title: Survillo Gudas
-date modified: 2026-07-16, 9:18:12 pm
 ---
 
 # Survillo Gudas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -40,9 +43,6 @@ size, race (type), alignment
 **Challenge:**  / (XP)<br>
 **Senses:** <br>
 **Skills:**
-
->[!infobox]
->IMAGE
 
 ---
 

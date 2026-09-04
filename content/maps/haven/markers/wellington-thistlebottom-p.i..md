@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3640.493, 978.571]
 mapmarker: Service
-title: Wellington Thistlebottom - P.I.
-date modified: 2026-07-16, 9:18:39 pm
+title: Wellington Thistlebottom - P.I
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
-# Wellington Thistlebottom - P.I.
+# Wellington Thistlebottom - P.I
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
 
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:39 pm
 
 **Map Ref:** Map Ref.: C11 (LI)
 
-**Location:** [[landmarks/wellington-thistlebottom-p.i.|Wellington Thistlebottom - P.I.]]<br>
+**Location:** [[landmarks/wellington-thistlebottom-pi|Wellington Thistlebottom - P.I.]]<br>
 **Location Type:** Other Services
 
 **Description**<br>

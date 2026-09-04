@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Hrugguk
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Hrugguk
@@ -27,14 +27,14 @@ When you drink this potion, you gain advantage on saving throws against being ch
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Strong Bugbear heart
@@ -49,4 +49,3 @@ When you drink this potion, you gain advantage on saving throws against being ch
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

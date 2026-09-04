@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, Mine_Your_Own_Business, plot]
+tags: [Plot, Plot/Mine-Your-Own-Business]
 title: The Village
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # The Village

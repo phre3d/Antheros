@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item]
+tags: [Item/magic-item]
 title: Bracelet of the Wolf
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Bracelet of the Wolf
@@ -21,7 +21,7 @@ date modified: 2026-07-16, 9:19:03 pm
 >**Creation Date:** <br>
 >**Destruction Date:**  
 >
->**Current Holder:** [[people/arada-thornkin|Arada Thornkin]]<br>
+>**Current Holder:** [[campaign/player-characters/arada-thornkin|Arada Thornkin]]<br>
 
 **Item Type:** Wondrous Item<br>
 **Rarity:** Very Rare<br>
@@ -47,7 +47,7 @@ While the details are specific to each bracelet, it will always consist of 5 moo
 
 The bracelet is very strong despite its fine craftsmanship.
 
-### History of Arada's Bracelet
+## History of Arada's Bracelet
 
 - Lost by the pack during a bloody coup attempt that resulted in the alpha and mate being killed
 - Also lost the alpha's symbol - a matching torc
@@ -55,7 +55,7 @@ The bracelet is very strong despite its fine craftsmanship.
 - [[people/karilinia-inturisdan|Karilinia Inturisdan]] obtained if from a "dealer" that didn't know its true value
 - She was holding it for eventual new leadership
 - <u>Karilinia's realtionship to the pack is TBD</u>
-- [[people/arada-thornkin|Arada Thornkin]] stole it from Karilinia
+- [[campaign/player-characters/arada-thornkin|Arada Thornkin]] stole it from Karilinia
 - Karilinia doesn't mind that Arada has it since she
  - can honsetly say she doesn't have it any more
  - trusts Arada not to lose it

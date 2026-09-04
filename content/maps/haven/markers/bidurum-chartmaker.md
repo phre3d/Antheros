@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1624.166, 6242.857]
 mapmarker: Shopping
 title: Bidurum - Chartmaker
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Bidurum - Chartmaker

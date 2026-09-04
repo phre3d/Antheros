@@ -1,26 +1,29 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, monster]
+tags: [Monster, Plot/Mimic-Mayhem]
 title: Huge Mimic
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Huge Mimic
 
-huge monstrosity, neutral
+>[!info] Portrait
+> ![[plots/mimic-mayhem/images/tkn.room-mimic-huge.png]]
+
+*huge monstrosity, neutral*
 
 **Armour Class:** 15 (natural armour)<br>
 **Hit Points:** 60 <mark style="background:#d3f8b6">90</mark> <mark style="background:#fff88f">120</mark> <mark style="background:#ff4d4f">150</mark><br>
 **Proficiency Bonus:** <br>
 **Movement:** 0'
 
----
+
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  21(+5) |  6(-2)  |  12(+1) |  5(-3)  |  15(+2) |  8(-1)  |
 
----
+
 
 **Senses:** Darkvision 60', passive perception 12<br>
 **Languages:** n/a<br>
@@ -30,10 +33,9 @@ huge monstrosity, neutral
 **Damage Immunities:** acid<br>
 **Condition Immunities:** prone<br>
 
->[!infobox]
-> ![[plots/mimic_mayhem/images/tkn.room-mimic-huge.png]]
 
----
+
+
 
 # Special Abilities
 
@@ -51,7 +53,6 @@ huge monstrosity, neutral
 
 <mark style="background:#ff4d4f">**Regeneration.** As one of their attacks, the mimic can swallow a pseudopod to instantly heal 30 hps. It regenerates a new pseudopod in 1d4 days.</mark>
 
----
 
 # Actions
 
@@ -75,7 +76,7 @@ huge monstrosity, neutral
 - *If the mimic takes 10 damage or more* on a single turn from a creature inside it, the mimic must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the mimic.
 - *If the mimic dies*, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 
----
+# Level Scaling
 
 | Combined Party Level | Adjustment |
 |:---------------:|------------|
@@ -83,3 +84,6 @@ huge monstrosity, neutral
 |13 to 30 | Add only the green special abilities.|
 |31 to 48 | Add the green and yellow special abilities.|
 |49 to 78 | Use all the colored special abilities |
+
+---
+**Source:** Mimic Mayhem

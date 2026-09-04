@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Electra
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Electra
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Wood Elf<br>
 **Profession:** Merchant/2nd<br>
 **Challenge Rating:** 5<br>
@@ -20,25 +17,16 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 14 - None<br>
 **Hit Points:** 14<br>
-**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 8 (-1) | 12 (+1) | 9 (-1) | 11 (+0) | 11 (+0) | 13 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** <br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common<br>**Challenge:** 5 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry | Mask of the Wild
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common<br>
+**Challenge:** 5 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry | Mask of the Wild

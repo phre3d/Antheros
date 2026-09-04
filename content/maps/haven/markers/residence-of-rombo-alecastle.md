@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1142.857, 4195.595]
 mapmarker: Residence
 title: Residence of Rombo Alecastle
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Residence of Rombo Alecastle

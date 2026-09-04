@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, restaurant, the-commons, type-restaurant]
+tags: [Haven/commons, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/restaurant]
 title: The Snowblind Mouse
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Snowblind Mouse
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Restaurant (Dining) <br>
+>**Owner:**  [[people/muggorl|Muggorl]] <br>
+>**District:** [[settlements/haven/the-commons/the-commons|The Commons]] <br>
+>**Grid (Key) Ref.:**    U12 (AA)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## A neighborhood bar, with food
 
@@ -54,7 +59,7 @@ Kept on the bar, at the end nearest the troll. The top is normally open. There i
 
 ## Customers
 
-From 11:00am to about 1:30pm, the bar has a smattering of lunch customers. During the afternoon, it is nearly empty. By 8:00, there are usually [roll:1d26+64] people clustered at the tables, talking and drinking. They are almost all average working class types, but seem to be an unusually quiet group, with few outbursts. Everybody smiles back at the troll.
+From 11:00am to about 1:30pm, the bar has a smattering of lunch customers. During the afternoon, it is nearly empty. By 8:00, there are usually  people clustered at the tables, talking and drinking. They are almost all average working class types, but seem to be an unusually quiet group, with few outbursts. Everybody smiles back at the troll.
 
 ## Loiterers
 
@@ -68,95 +73,9 @@ If you ain't buyin' drinks, you ain't sittin'. The boss doesn't like loiterers.
 
 None.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Restaurant (Dining)**
-
- **Owner:**  Muggorl
-
- **District:**  The Commons
-
- **Grid (Key) Ref.:**   U12 (AA)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-commons|The Commons]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/muggorl|Muggorl]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 17267de1-5a94-4939-91d2-84cec7582207<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Commons<br>
-**Tags:** fcoh,the-commons-location,cat-shop,type-restaurant,guild-of-the-hearth-location,restaurant
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

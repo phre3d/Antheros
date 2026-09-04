@@ -1,59 +1,106 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, scenarios, statblock]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Plot/Free-City-of-Haven/scenario]
 title: Creature of Earth and Stone
-date modified: 2026-07-16, 9:18:28 pm
+date modified: 2026-08-20, 8:03:17 pm
 ---
 
 # Creature of Earth and Stone
 
-````col
-```col-md
-flexGrow=2
-===
-**Race:** Mutant<br>
-**Profession:** Fighter/4th<br>
-**Challenge Rating:** 4<br>
-**Proficiency Bonus:** <br>
-**Size:**  Medium<br>
-**Languages:** None<br>
-**Alignment:** Unaligned<br>
-**Armour Class:** 0 - Natural<br>
-**Hit Points:** 24<br>
-**Movement:** 30$\quad$ *Burrow:* 0$\quad$ *Swim:* 0$\quad$ *Climb:* 0$\quad$ *Fly:* 0$\quad$ *Hover:* 0
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  544
+>
+>
+> **Class/Profession:**  Fighter 4th
+>
+>
+> **Places Encountered**
+>- Arkendelve
+>- [[plots/free-city-of-haven/haven-scenarios|Scenarios]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  None <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/free-city-of-haven| Free City of Haven]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
-![[dndline.png]]
+**Full Name:**  Creature of  Earth and Stone
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-|---------|---------|---------|---------|---------|---------|
-| 7 (-2) | 11 (+0) | 8 (-1) | 2 (-4) | 1 (-5) | 0 (n/a) |
-
-![[dndline.png]]
-
-**Saving Throws:** Strength | Constitution<br>
-**Languages:** None<br>**Challenge:** 4 / (XP)<br>**Senses:** <br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-```
-````
-
-![[dndline.png]]
-
-# Actions
-
-**Unarmed strike:**  +0 to hit , 1d1-2 bludgeoning damage
-
-![[dndline.png]]
-
-# Description
+# General Info
 
 Small creatures of earth and stone, which function as rather slow bare-handed fighters (packing a reasonable wallop, but likely to be shattered to pieces by a good blow)
 
  Refer to scenario [[plots/free-city-of-haven/scenarios/the-broken-blade|The Broken Blade]]
 
-**Suggested Environments** Arkendelve
+# Physical Description
+
+# Personality Characteristics
+
+# Social
+
+# Relationships
+
+## Parents
+
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
+
+## Siblings
+
+## Children
+
+## Ancestors
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

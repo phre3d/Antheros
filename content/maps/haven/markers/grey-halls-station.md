@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1427.228, 2472.449]
 mapmarker: City Guard
 title: Grey Halls Station
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Grey Halls Station

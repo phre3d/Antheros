@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-heights, type-tavern]
+tags: [Entertainment/tavern, Haven/heights, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop/service/inn]
 title: Rose Garden Inn
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Rose Garden Inn
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/nathalie-galutine|Nathalie Galutine]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G21 (DF)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## Disrespect the rose and you shall reap the thorns
 
@@ -35,16 +40,20 @@ As is evident throughout the entire location, only the finest furniture and furn
 ## Exterior
 
 > [!read-aloud] **Read Aloud**
- > Just inside Shield Gate you see a marvellous three-tiered structure of polished brick peeking above the other buildings you first negotiate a sturdy iron perimeter fence. Following this, you come to a stone archway that is wrapped in rich green ivy and through which you see a luscious green lawn. The smell of the freshly cut grass fills the senses.
+ >  
  >
- > A cobbled road leads the way to the main stone stairwell of the mansion and is ornamented with flower gardens and flowing granite fountains. The tavern stable hands are busy and bustling as they help patrons disembark. You can feel the heaviness of the rich history that is associated with this old establishment and swells of anticipation race as you get closer to the heavy ornate exotic hardwood door which through its glass panels you can distinctly see blurs of activity. >
+ > Just inside Shield Gate you see a marvellous three-tiered structure of polished [[people/brick|Brick]] peeking above the other buildings you first negotiate a sturdy iron perimeter fence. Following this, you come to a stone archway that is wrapped in rich green ivy and through which you see a luscious green lawn. The smell of the freshly cut grass fills the senses.
+ >
+ > A cobbled road leads the way to the main stone stairwell of the mansion and is ornamented with flower gardens and flowing granite fountains. The tavern stable hands are busy and bustling as they help patrons disembark. You can feel the heaviness of the rich history that is associated with this old establishment and swells of anticipation race as you get closer to the heavy ornate exotic hardwood door which through its glass panels you can distinctly see blurs of activity.
 
-The exterior of the establishment is comprised mainly of polished brick. It is window-laden, with each glass panel bearing intricate ironmongery. A three-story marvel, a tall archway of ivy-wreathed stone serves as the entrance onto the main lawn. Down the center of the lawn traverses a smooth cobble path that diverges into the various flower beds and hedgerows that ornament this portion of the property. This road leads right up to the front stairwell of the Rose Garden Inn, up which a heavy ornate door of exotic hardwood and glass panels leads guests within.
+The exterior of the establishment is comprised mainly of polished [[people/brick|Brick]]. It is window-laden, with each glass panel bearing intricate ironmongery. A three-story marvel, a tall archway of ivy-wreathed stone serves as the entrance onto the main lawn. Down the center of the lawn traverses a smooth cobble path that diverges into the various flower beds and hedgerows that ornament this portion of the property. This road leads right up to the front stairwell of the Rose Garden Inn, up which a heavy ornate door of exotic hardwood and glass panels leads guests within.
 
 ## Interior
 
 > [!read-aloud] **Read Aloud**
- >  Upon entry, you find a grand staircase directly in the center of the main hall. This leads up to the second floor of the property, where one will find accommodations situated. To the left and right of the main entrance are subsidiary walkways leading to various ball rooms, smoking rooms, studies and dining halls.
+ >  
+ >
+ > Upon entry, you find a grand staircase directly in the center of the main hall. This leads up to the second floor of the property, where one will find accommodations situated. To the left and right of the main entrance are subsidiary walkways leading to various ball rooms, smoking rooms, studies and dining halls.
 
 One of the establishment's twenty-two employees will provide guests with a tour of the mansion, as it is common for one to get lost among its various corridors and rooms.
 
@@ -85,95 +94,9 @@ Any outsiders who arrive to visit guests must do so by invitation only. Those wi
 - [[people/gilberto-maggia|Gilberto Maggia]] and wife [[people/graella-maggia|Graella]]
 - [[people/hamlin-blackbourne|Hamlin Blackbourne]],  [[people/anson-blackbourne|Anson Blackbourne]] and wife [[people/talia-blackbourne|Talia]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Nathalie Galutine
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G21 (DF)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/nathalie-galutine|Nathalie Galutine]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** d657f21f-881e-4050-bf0b-e5bc103ac61a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

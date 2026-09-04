@@ -1,22 +1,26 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: dinmiel-prusas
 name: Dinmiel Prusas
 sex: male
 born: 1162
-mother: "[[plots/the-gypsy-train/npcs/trynkara-prusas|Trynkara Prusas]]"
 mother-id: trynkara-prusas
-father: "[[plots/the-gypsy-train/npcs/bronkar-prusas|Bronkar Prusas]]"
-father_id: bronkar-prusas
 title: Dimmiel Prusas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
+father: "[[bronkar-prusas|Bronkar Prusas]]"
+father_id: bronkar-prusas
+mother: "[[trynkara-prusas|Trynkara Prusas]]"
+mother_id: trynkara-prusas
 ---
 
 # Dimmiel Prusas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:** Fighter (1st)
 
@@ -43,8 +47,7 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 

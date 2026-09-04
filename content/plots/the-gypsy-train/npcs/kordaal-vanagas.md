@@ -5,18 +5,19 @@ cr_id: kordaal-vanagas
 name: Kordaal Vanagas
 sex: male
 born: 1152
-mother: "[[plots/the-gypsy-train/npcs/zanthira-vanagas|Zanthira Vanagas]]"
+mother: "[[plots/the-gypsy-train/npcs/zanthira-vanagas]]"
 mother-id: zanthira-vanagas
-father: "[[plots/the-gypsy-train/npcs/balkrin-vanagas|Balkrin Vanagas]]"
-father_id: balkrin-vanagas
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
 title: Kordaal Vanagas
 ---
 
 # Kordaal Vanagas
 
-Medium, humanoid (human), chaotic neutral
+>[!info] Portrait
+>!![[plots/the-gypsy-train/images/kordal-vanagas.jpg]]
+
+*Medium, humanoid (human), chaotic neutral*
 
 **Profession:**
 
@@ -43,10 +44,9 @@ Medium, humanoid (human), chaotic neutral
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->!![[plots/the-gypsy-train/images/kordal-vanagas.jpg]]
 
----
+
+
 
 # Description
 
@@ -58,15 +58,14 @@ Kordaal is a 2nd-level human fighter, chaotic neutral, with Str 17, Int 7, Wis 1
 
 Kordaal normally keeps his father’s weapons when Balkrin is wrestling so that if trouble starts, Kordaal can toss Balkrin’s *+2 dagger* to him. If the odds seem stacked against his father, Kordaal will be the first to step in, wielding his *short sword*.
 
----
+
 
 # Spellcasting
 
----
 
 # Special Abilities
 
----
+
 
 # Actions
 

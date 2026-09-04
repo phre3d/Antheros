@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2250.697, 6970.408]
 mapmarker: Shopping
 title: Malin Kenny - Cobbler
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Malin Kenny - Cobbler

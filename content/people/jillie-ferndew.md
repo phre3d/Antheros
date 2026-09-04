@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [guild/hearth, import, npc, person, the-dell]
+tags: [Haven/outlands/dell, Organization/professional/guild-of-the-hearth, Person, Person/npc]
 title: Jillie Ferndew
-date modified: 2026-07-16, 9:18:25 pm
+date modified: 2026-08-20, 8:03:20 pm
 ---
 
 # Jillie Ferndew
@@ -11,123 +11,21 @@ date modified: 2026-07-16, 9:18:25 pm
 
 **Full Name:**  Jillie  Ferndew
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Jillie is a young halfling that lives in [[settlement/the-dell|The Dell]] but works as an apprentice baker at [[landmark/pirandellos-pastries|Pirandello's Pastries]] in [[settlement/the-heights|The Heights]].
 
-Her boyfriend, [[person/martin-plowhearth|Martin Plowhearth]], is a member of [[article/the-city-watch|The City Watch]] and their relationship is somewhat complicated due to this.
+Jillie is a young halfling that lives in [[settlements/haven/the-outlands/the-dell|The Dell]] but works as an apprentice baker at [[landmarks/pirandellos-pastries|Pirandello's Pastries]] in [[settlements/haven/the-heights/the-heights|The Heights]].
 
-![[dndline.png]]
+Her boyfriend, [[campaign/player-characters/martin-plowhearth|Martin Plowhearth]], is a member of [[plots/the-city-watch/the-city-watch|The City Watch]] and their relationship is somewhat complicated due to this.
 
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
@@ -138,21 +36,21 @@ Her boyfriend, [[person/martin-plowhearth|Martin Plowhearth]], is a member of [[
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/jillie-ferndew-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/jillie-ferndew-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/jillie-ferndew-person)
 
-````
-````col-md
+>[!info]
 
+### Presentation
 
-
-
-#### Presentation
 **Eyes:**  <br>
 **Hair:** <br>
 **Pigmentation:** <br>
@@ -160,54 +58,35 @@ Her boyfriend, [[person/martin-plowhearth|Martin Plowhearth]], is a member of [[
 **Weight:** 42 lbs<br>
 **Sex:** Female<br>
 
-#### Origins
+### Origins
+
 **Family:** <br>
-**Race:** [[race/halfling-race|Halfling Race]]<br>
+**Race:** [[races/halfling|Halfling]]<br>
 
+### Birth
 
-#### Birth
 **Age:**  20<br>
 **Date of Birth:**  <br>
 **Place of Birth:** <br>
 
-#### Death
+### Death
+
 **Date of Death:**  <br>
 **Place of Death:** <br>
-**Circumstances of Death:** 
+**Circumstances of Death:**
 
-#### Current State
+### Current State
+
 **Alignment:** <br>
 **Known Language(s):**  <br>
 **Current Status:** <br>
 **Current Residence:** The Dell<br>
-**Current Location:**  [[article/free-city-of-haven|Free City of Haven]]<br>
+**Current Location:**  [[settlements/haven/free-city-of-haven|Free City of Haven]]<br>
 
-#### Affiliations
+### Affiliations
+
 **Deity:**  <br>
 **Affiliated Organization:**  <br>
 
-
-
-![[dndline.png]]
-
-
 ````
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

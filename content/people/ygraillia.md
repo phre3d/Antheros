@@ -1,228 +1,107 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-cauldron]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/outlands/cauldron]
 title: Ygraillia
-date modified: 2026-07-16, 9:18:18 pm
+date modified: 2026-08-20, 8:03:26 pm
 ---
 
 # Ygraillia
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1522
+>
+>
+> **Class/Profession:**  Merchant 2nd
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-mallorn|The Mallorn]]
+>- [[settlements/haven/the-outlands/the-cauldron|The Cauldron]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/elf|Elven]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Elvish | Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-outlands/the-cauldron| The Cauldron]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Ygraillia
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A Sindar elf who helps her brother [[person/querrel-seadreamer|Querrel Seadreamer]] run [[landmark/the-mallorn|The Mallorn]]. Married to [[person/torin|Torin]].
 
----
+A Sindar elf who helps her brother [[people/querrel-seadreamer|Querrel Seadreamer]] run [[landmarks/the-mallorn|The Mallorn]]. Married to [[people/torin|Torin]].
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ygraillia-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ygraillia-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/ygraillia-person)
 
-````
-````col-md
-
-
-**ID #**  1522
-
-
- **Class/Profession:**  Merchant 2nd
-
-
- **Places Encountered** 
-- [[landmark/the-mallorn|The Mallorn]]
-- [[settlement/the-cauldron|The Cauldron]]
-
-
- **Purse:**   gp
-
----
----
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/elven-race|Elven Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Elvish | Common<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[settlement/the-cauldron|The Cauldron]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-![[people/blocks/ygraillia]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

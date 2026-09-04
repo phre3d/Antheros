@@ -1,17 +1,21 @@
 ---
 aliases: []
-tags: [container, item]
+tags: [Item, Item/container]
 title: "Diplomat's Pack"
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Diplomat's Pack
 
-````col
-```col-md
-flexGrow=2.5
-===
+>[!info]
+>**Rarity:** Common
+>
+>**Weight:** 25 lbs + contents<br>
+>**Dimensions:** <br>
+>**Base Price:** 39 gp
+
 A basic chest that can hold 12 cubic feet of gear weighing up to 300 lbs. It comes with:
+
 - 2 cases for maps and scrolls
 - a set of fine clothes
 - a bottle of ink
@@ -22,14 +26,3 @@ A basic chest that can hold 12 cubic feet of gear weighing up to 300 lbs. It com
 - a vial of perfume
 - sealing wax
 - and soap
-```
-
-```col-md
-**Rarity:** Common
-
-**Weight:** 25 lbs + contents<br>
-**Dimensions:** <br>
-**Base Price:** 39 gp
-
-```
-````

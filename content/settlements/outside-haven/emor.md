@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [10-cities]
+tags: [Organization/geopolitical/ten-cities, Settlement/emor]
 title: emor
-date modified: 2026-07-16, 9:18:09 pm
+date modified: 2026-08-17, 12:45:53 pm
 ---

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [59, plot, plot/The_Gypsy_Train]
+tags: [59, Plot, Plot/The-Gypsy-Train]
 title: Suggested Encounters
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 >[!info]
@@ -26,7 +26,7 @@ As a general introduction, use the following.
 >
 >Then, abruptly, all activity stops as you and your party are noticed. A large, burly man approaches, followed by what must be his son, judging by the resemblance be­tween them. Behind them is another man, shorter and smaller, yet no less daunting.
 >
->“What do you want?” the leader grum­bles, his accent revealing that he is not native to these parts. From what you've seen and heard on [[settlements/trade-island|Trade Island]], these must be Wandering Folk.
+>“What do you want?” the leader grum­bles, his accent revealing that he is not native to these parts. From what you've seen and heard on [[settlements/haven/trade-island/trade-island|Trade Island]], these must be Wandering Folk.
 
 <br>From here, let the party interact as they wish. Some suggested events are described in the following sections.<br>
 

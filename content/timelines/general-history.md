@@ -1,11 +1,11 @@
 ---
 aliases: []
-tags: [timeline]
+tags: [Timeline]
 title: Haven Irregulars
-date modified: 2026-07-16, 9:18:07 pm
+date modified: 2026-08-17, 12:45:52 pm
 ---
 
-# Haven Irregulars
+# General History
 
 A timeline of key history in the history of Antheros and Haven.
 
@@ -24,14 +24,8 @@ A timeline of key history in the history of Antheros and Haven.
 + 1171-15-13
 + The Burning of Rogue's Roost
 + On this day, the home of the Haven Thieves' Guild, Rogue's Roost, was burned down, leaving the guild homeless. [[history/burning-of-rogues-roost|Full article]]
-  
-+ 1172-6-8
-+ Creation of the Haven Irregulars
-+ The first official day for this new unit in the Haven City Watch. [[timelines/antheros/creation-of-the-haven-irregulars|Full article]]
 
-+ 1172-6-9
-+ 1st Patrol
-+ 1st day of patrol for the squad
+
 
 ```
 

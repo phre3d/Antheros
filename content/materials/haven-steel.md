@@ -1,22 +1,31 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, material]
+tags: [Material, Plot/Clockwork-Tower]
 title: Haven Steel
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Haven Steel
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>**Type:** Metal<br>
+>**Value:** 2gp per lb.<br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Solid
+>
+>**Related Locations** [[settlements/haven/free-city-of-haven|Free City of Haven]]
+
 A high-quality, versatile steel alloy that's the backbone of Haven's metalworks industry. Known for its exceptional strength and durability.
 
----
-
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
@@ -29,9 +38,8 @@ A high-quality, versatile steel alloy that's the backbone of Haven's metalworks 
 
 ## Half Life / Deterioration / Expiration
 
----
-
 # History & Usage
+
 ## History
 
 ## Discovery
@@ -54,59 +62,17 @@ A high-quality, versatile steel alloy that's the backbone of Haven's metalworks 
 
 ## Reusability & Recycling
 
----
-
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Metal<br>
-**Value:** 2gp per lb.<br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-<br>- [[article/free-city-of-haven|Free City of Haven]]<br>
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

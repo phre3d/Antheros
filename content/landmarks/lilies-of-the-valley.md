@@ -1,116 +1,37 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, the-labyrinth, type-brothel]
+tags: [Entertainment/brothel, Haven/labyrinth, Plot/Free-City-of-Haven]
 title: Lilies of the Valley
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Lilies of the Valley
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Brothel (Entertainment) <br>
+>**Owner:**   <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    P03 (TC)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Brothel / Whorehouse  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A cheap bordello
+***A cheap bordello***
 
 ## Description
 
 Asking for one of several girls will allow entrance to the warehouse complex behind the house.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Brothel (Entertainment)**
-
- **Owner:**  
-
- **District:**  
-
- **Grid (Key) Ref.:**   P03 (TC)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Brothel / Whorehouse
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/criminal/thieves-guild|Thieves Guild]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 66d73929-c12b-4c77-81b4-96670c8bc06d<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-entertainment,type-brothel,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

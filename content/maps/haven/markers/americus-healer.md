@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2368.367, 6311.921]
 mapmarker: Medical
 title: Americus - Healer
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Americus - Healer

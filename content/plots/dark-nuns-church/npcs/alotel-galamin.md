@@ -1,227 +1,54 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, npc, person]
+tags: [Person, Person/npc, Plot/Dark-Nuns-Church, statblock]
 title: Alotel Galamin
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Alotel Galamin
 
-###
+>[!info]
+>![[plots/dark-nuns-church/images/sister-alotel-galamin-nolabel.png]]
 
-**Full Name:** Sister Alotel  Galamin
+*Medium humanoid (Drow), Lawful Evil*
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
-# Description 
-Alotel Galamin is a 167-year-old female dark-elf scribe and a Sister in the cult inhabiting the [[plots/dark-nuns-church|Dark Nun's Church]].
- 
-- She has a bald head and black eyes.
+
+**Race:** Drow<br>
+**Profession:** Scribe<br>
+**Challenge Rating:** 2 (450 xp)<br>
+**Proficiency Bonus:** <br>
+**Size:**  Medium<br>
+**Languages:** Common, Elvish, understands Undercommon<br>
+**Alignment:** Lawful Evil<br>
+**Armour Class:** 10 robes<br>
+**Hit Points:** 12 [roll:5d8-10]<br>
+**Movement:** 30
+
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|---------|---------|---------|---------|---------|---------|
+| 6 (-2) | 11 (+0) | 7 (-2) | 16 (+3) | 16 (+3) | 14 (+2) |
+
+**Saving Throws:** <br>
+**Languages:** Common, Elvish, understands Undercommon<br>
+**Challenge:** 2 (450 xp) / (XP)<br>
+**Senses:** Darkvision 60ft., Truesight 20ft., passive Perception 13<br>
+
+
+# Description
+
+Sister Alotel Galamin is a 167-year-old female dark-elf scribe - She has a bald head and black eyes.
+
 - She has soft black skin.
-- She stands 162cm (5'3") tall and has a lean build.
+- She stands 162cm (5'3\") tall and has a lean build.
 - She has a triangular, slightly stunning face.
 - She is missing three fingers from her right hand.
 
+## Personality
 
-# Personality 
-- She openly worships [[person/mandos|Mandos]], God of Death.
+ - She openly worships [[religions/deities/mandos|Mandos]], God of Death.
 - She is quick to forgive.
 - She is very talkative. She collects iridescent feathers. She stretches the truth to tell a good story.
 - She likes to gamble.
 
 ---
-
-# Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Personality Characteristics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Relationships
-
-## Parents
-
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
-
-## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/alotel-galamin-person)
-
-## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/alotel-galamin-person)
-
-## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/alotel-galamin-person)
-
-````
-````col-md
-![[~attachments/.jpg]]
----
-
-
-
-
-#### Presentation
-**Eyes:**  black eyes<br>
-**Hair:** bald<br>
-**Pigmentation:** soft black skin<br>
-**Height:**  5' 3"<br>
-**Weight:** <br>
-**Sex:** <br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/elven-race|Elven Race]]<br>
-
-
-#### Birth
-**Age:**  167<br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  <br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  <br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+**Source:** The Dark Nun''s Church

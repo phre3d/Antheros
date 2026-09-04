@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Pendulum Horror
+date modified: 2026-08-13, 9:14:45 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Pendulum Horror
-Large construct unaligned
+
+>[!info] Image
+>![[plots/clockwork-tower/images/pendulum-horror.png]]
+
+*Large construct, unaligned*
 
 **Armour Class:** 16 (natural armor)<br>
 **Hit Points:** 30 (6d10)<br>
@@ -33,38 +33,24 @@ Large construct unaligned
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/pendulum-horror.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Immutable Form
+## Immutable Form
 
  The Pendulum Horror is immune to any spell or effect that would alter its form.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Pendulum Horror makes two swing attacks.
 
-### Swing
+## Swing
 
   **Melee Weapon Attack:**  +2 to hit , reach 10 ft., one target.
 
   **Hit:**  10  slashing damage.
-
-![[~attachments/dndline.png]]
 
 # Description
 

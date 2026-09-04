@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, import, monster, statblock]
+tags: [Monster, Plot/Goblin-Trouble, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 ````col
@@ -53,7 +53,7 @@ Medium swarm of tiny creatures unaligned
 
 # Actions
 
-### Bites.
+## Bites
 
   **Melee weapon attack.**   to hit, reach 0 ft., one target in the swarm's space.
 

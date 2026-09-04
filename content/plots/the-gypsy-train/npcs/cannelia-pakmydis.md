@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: cannelia-pakmydis
 name: Cannelia Pakmydas
@@ -10,12 +10,15 @@ children: "[[plots/the-gypsy-train/npcs/premirina-pakmydis]]"
 children_id: premirina-pakmydis
 spouse: "[[plots/the-gypsy-train/npcs/scordraal-pakmydis]]"
 title: Cannelia Pakmydis
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Cannelia Pakmydis
 
-Medium humanoid (human), chaotic good
+>[!info] Portrait
+>IMAGE
+
+*Medium humanoid (human), chaotic good*
 
 **Profession:**
 
@@ -42,8 +45,7 @@ Medium humanoid (human), chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 
@@ -51,7 +53,7 @@ Medium humanoid (human), chaotic good
 
 [[plots/the-gypsy-train/npcs/Scordraal-pakmydis|Scordraal's]] wife
 
-Cannelia is a friendly, naive woman in her early 20s who can’t seem to understand why no one but [[plots/the-gypsy-train/npcs/Balkrin-vanagasBalkrin Vanagas]] trusts her husband. She is best friends with [[plots/the-gypsy-train/npcs/Zanthira-vanagasZanthira Vanagas]] and often travels in Zanthira’s wagon to keep her company.
+Cannelia is a friendly, naive woman in her early 20s who can’t seem to understand why no one but [[plots/the-gypsy-train/npcs/Balkrin-vanagas|Balkrin Vanagas]] trusts her husband. She is best friends with [[plots/the-gypsy-train/npcs/zanthira-vanagas|Zanthira Vanagas]] and often travels in Zanthira’s wagon to keep her company.
 
 Cannelia is a 0-level human, chaotic good, with AC 10 and 3 hp. She has no armor and no weapons.
 

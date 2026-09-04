@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1428.248, 2947.959]
 mapmarker: Entertainment
 title: The Silver Stringed Bouzouki
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The Silver Stringed Bouzouki

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1568.044, 4402.041]
 mapmarker: Service
 title: "Halson's Stable & Livery"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Halson's Stable & Livery

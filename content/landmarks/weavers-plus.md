@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/loom, import, landmark, textiles, the-south-corridor, type-textiles]
+tags: [Haven/south-corridor, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/textiles]
 title: "Weavers' Plus"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Weavers' Plus
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Textiles (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    I09 (NW)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Textiles (Shopping)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   I09 (NW)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 03efdca8-25d2-4e91-8eff-45d0602cd80d<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-shop,type-textiles,guild-of-the-loom-location,textiles
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

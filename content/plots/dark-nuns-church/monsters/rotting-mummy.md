@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, monster, statblock]
+tags: [Monster, Plot/Dark-Nuns-Church, statblock]
 title: Actions
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ````col
@@ -48,15 +48,15 @@ Medium undead lawful evil
 
 # Actions
 
-### Multi-attack
+## Multi-attack
 
  The mummy can use its Necrotic Glare and make one attack with its Rotting Fist.  
 
-### Necrotic Glare
+## Necrotic Glare
 
  The mummy targets one creature it can see within 60 ft. of it. If the target can see the mummy, it must succeed on a <u>DC 11 Wisdom saving throw</u> against this magic <u>or become frightened</u> until the end of the mummy's next turn. If the target <u>fails the saving throw by 5 or more, it is also paralyzed</u> for the same duration. A target that <u>succeeds in the saving throw is immune</u> to the Necrotic Glare of all mummies for the next 24 hours.  
 
-### Rotting Fist
+## Rotting Fist
 
   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
 

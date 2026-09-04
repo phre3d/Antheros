@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Spider Climb
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Spider Climb
@@ -27,14 +27,14 @@ When you drink this potion, you gain the effect of the spider climb spell (no co
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Earth  Life  <br>
 **Spell Needed:** *Spider Climb* <br>
 **Other:** Roper eye
@@ -49,4 +49,3 @@ When you drink this potion, you gain the effect of the spider climb spell (no co
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

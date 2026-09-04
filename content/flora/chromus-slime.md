@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-fire-plant, flora, import]
-title: Chromus Slime
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/fire]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Chromus Slime
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-A yellow-orange slime mold found growing in dark, humid places, near a supply of constant water. The slime mold is capable of filtering out the salt in salt water and can therefore live in fresh water or by the ocean.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 57 gp  <br>
+>**Rarity:** Very Rare <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+A yellow-orange slime mold found growing in dark, humid places, near a supply of constant water. The slime mold is capable of filtering out the salt in salt water and can therefore live in fresh water or by the ocean. 
 
 # Natural Range
+
 Coastal
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 When combined with high­grade alcohol and added to a potion or poison chromus slime reverses it's effect, creating the opposite effects to what the potion or poison would typically do.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-fire|Essence of Fire]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-fire | Essence of Fire ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 57 gp<br>
-**Rarity:** Very Rare<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

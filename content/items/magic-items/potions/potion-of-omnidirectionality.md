@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Omnidirectionality
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Omnidirectionality
@@ -31,14 +31,14 @@ A brave mapmaker created this unique visual-oriented potion to help her survey a
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Queen from any hive-based insect (e.g. bee, ant) or brain from a giant-class insect
@@ -53,4 +53,3 @@ A brave mapmaker created this unique visual-oriented potion to help her survey a
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

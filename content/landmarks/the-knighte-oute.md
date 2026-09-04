@@ -1,122 +1,41 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-corridor, type-tavern]
+tags: [Entertainment/tavern, Haven/south-corridor, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: The Knighte Oute
-date modified: 2026-07-16, 9:18:45 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Knighte Oute
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    I06 (OT)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## The name says it all
 
 ## Description
 
-In this quaint-e little-e tavern-e can be found the chief hangout for members of the [[organizations/criminal/thieves-guild|Thieves Guild]] in this area. There is a 35% chance that any given person met in the common room is a member in good standing of Haven's largest criminal organization. By dropping the proper word or sign (or an appropriate amount of cash), one may make contact with fairly important people in the organization, possibly even one of the Guild's lieutenants. From there, events take their own courses.
+In this quaint-e little-e tavern-e can be found the chief hangout for members of the [[organizations/criminal/thieves-guild|Thieves' Guild]] in this area. There is a 35% chance that any given person met in the common room is a member in good standing of Haven's largest criminal organization. By dropping the proper word or sign (or an appropriate amount of cash), one may make contact with fairly important people in the organization, possibly even one of the Guild's lieutenants. From there, events take their own courses.
 
 ## NPC Encounters
 
 [[people/fingers-arthas|Fingers Arthas]] | [[people/mykyl-two-fingers|Mykyl Two Fingers]] | [[people/katarina|Katarina]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   I06 (OT)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/criminal/thieves-guild|Thieves Guild]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 9c8b1af3-8ee0-4161-a334-ceabc6b04d34<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-dell, type-house]
+tags: [Building/residential/house,Haven/outlands/dell, Plot/Free-City-of-Haven]
 title: Residence of Rombo Alecastle
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Residence of Rombo Alecastle
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** House (Residence) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    C13 (IY)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Bathhouse  <br>
 
 ## Home for an aging adventurer
 
@@ -30,101 +35,15 @@ In a sunny alcove of the front room, Rambo works at his current pastime of carto
 
 Among his treasures are a Ring of Flying and a large chunk of feldspar with a Find Direction spell embedded in it, both (among other items) are kept in several immaculately clean glass cases linked to alarms.
 
-Rombo has a secret passage in the dressing closet of his bedroom that leads to the underground levels of [[settlements/the-dwarrow|The Dwarrow]], for he is much loved by the dwarven peoples for his years of service.
+Rombo has a secret passage in the dressing closet of his bedroom that leads to the underground levels of [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]], for he is much loved by the dwarven peoples for his years of service.
 
 ## NPC Encounters
 
 [[people/rombo-alecastle|Rombo Alecastle]] | [[people/chelsea-cheddar|Chelsea Cheddar]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**House (Residence)**
-
- **Owner:**  
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   C13 (IY)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Bathhouse
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** b5747a92-3ca4-4b5e-9a35-8dc3d810ac68<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-residence,type-house,residence
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

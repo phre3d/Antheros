@@ -1,35 +1,36 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, plot]
+tags: [Plot, Plot/Clockwork-Tower]
 title: Great Junkyard
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
+
+![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
 
 # Great Junkyard
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
+>[!info]
+>![[plots/clockwork-tower/table-of-contents|Table of Contents]]
+
 Located on the outskirts of the city, this massive junkyard is where obsolete and broken machinery ends up. Adventurous scavengers might find useful spare parts among the piles of discarded clockwork.
 
-> [!read-aloud] **Read Aloud** 
+> [!read-aloud] **Read Aloud**
  >  
- > 
+ >
  > As you crest a hill on the outskirts of Haven, the sprawling expanse of the Great Junkyard unfurls before you. A graveyard of discarded machinery and forgotten inventions, it spans as far as the eye can see. Mountains of rusted gears, shattered clockwork mechanisms, and the skeletal frames of obsolete automata lie in organized chaos. Despite the decay, the air hums with an uncanny energy, and you can't shake the feeling of countless invisible eyes watching you.
- > 
 
-# Additional Information 
-This encounter takes place as the party ventures into the junkyard seeking parts to repair the grand clock in the [[plots/chronos-lobby]] of the Clockwork Tower. 
+# Additional Information
+
+This encounter takes place as the party ventures into the junkyard seeking parts to repair the grand clock in the [[plots/clockwork-tower/chronos-lobby]] of the Clockwork Tower.
 
 Their main opponents are the  **Rust Engineers** , the spectral remnants of mechanics forever bound to their last moments of life. The specters are not innately hostile but will fiercely defend the machinery they are committed to repair. There are <u>at least 3 Rust engineers in the junkyard but only one will be encountered at a time</u>.
 
-# Items in the Great Junkyard 
+# Items in the Great Junkyard
+
 The following items can be found in the Great Junkyard. Some items are necessary to fix broken parts within the Clockwork Tower:
 
-- **Chronosmith's Balance Wheel:**  The balance wheel of a clock created by [[person/constantine-chronosmith]] himself is necessary to replace the damaged part in the [[plots/chronos-lobby]] clock. Its metallic composition, unique to the master clockmaker, can withstand the temporal energies of the Clockwork Tower. Finding this item is quite difficult, as it is small and looks like many of the other discarded wheels in the junkyard <u>(Investigation DC 20)</u>. The balance wheel can be found within the rusted remains of an old clock tower timepiece that now lies disassembled and discarded.
-- **Temporal Mainspring:**  This is no ordinary mainspring. Imbued with Constantine's magic, the Temporal Mainspring can store and regulate the flow of temporal energy necessary for the [[plots/chronos-lobby]] clock's operation. It requires a keen eye to spot this amongst the sea of ordinary springs <u>(Investigation DC 18)</u>. This can be found tightly coiled within a broken Gearhound, its energy seemingly depleted.
+- **Chronosmith's Balance Wheel:**  The balance wheel of a clock created by [[plots/clockwork-tower/npcs/constantine-chronosmith]] himself is necessary to replace the damaged part in the [[plots/clockwork-tower/chronos-lobby]] clock. Its metallic composition, unique to the master clockmaker, can withstand the temporal energies of the Clockwork Tower. Finding this item is quite difficult, as it is small and looks like many of the other discarded wheels in the junkyard <u>(Investigation DC 20)</u>. The balance wheel can be found within the rusted remains of an old clock tower timepiece that now lies disassembled and discarded.
+- **Temporal Mainspring:**  This is no ordinary mainspring. Imbued with Constantine's magic, the Temporal Mainspring can store and regulate the flow of temporal energy necessary for the [[plots/clockwork-tower/chronos-lobby]] clock's operation. It requires a keen eye to spot this amongst the sea of ordinary springs <u>(Investigation DC 18)</u>. This can be found tightly coiled within a broken Gearhound, its energy seemingly depleted.
 - **Timeless Pivot:**  A seemingly mundane clock pivot, but crafted from a unique, unaging metal alloy by Constantine, making it resistant to the wear of time. Distinguishing it from other pivots can be quite a challenge <u>(Investigation DC 17)</u>. The pivot is lodged within a mangled clockwork spider that was once responsible for maintenance.
 - **Everlasting Spring:**  A tiny, but densely wound clockwork spring. Any mechanical device that uses this spring as a component never needs to be wound up or recharged. The spring is located within an old, rusted grandfather clock, its magic keeping the timepiece barely ticking even now <u>(Investigation DC 18)</u>.
 - **Crank of Quickening:**  This ornate hand crank is made from an enchanted alloy. When attached to a mechanical device and turned, it halves the amount of time required for the device to complete its task. The crank is hidden within the discarded remains of a mechanical forge, a testament to an inventor's ambitious project that never saw completion <u>(Investigation DC 16)</u>.
@@ -40,119 +41,23 @@ The following items can be found in the Great Junkyard. Some items are necessary
 - **Resonating Wire:**  This length of wire vibrates with a faint hum. When attached to a musical instrument, it can play any tune the user has heard before, perfectly and without need for a performer. This wire can be found wrapped around the neck of a broken violin, its previous owner having left it behind <u>(Investigation DC 16)</u>.
 - **Temporal Fragment:**  A glowing shard of a once larger clock, this fragment flickers with an ethereal light. Can be used as a component in powerful time-altering spells or to fuel time-based magical devices. This fragment lies close to the rusted remains of a mysterious, unidentifiable machine of considerable size <u>(Investigation DC 21)</u>.
 - **Self-Tightening Bolts:**  Once screwed, these bolts will never loosen on their own. They are useful for permanently fixing joints or parts together in mechanical constructs. These bolts are found in a small pouch inside the toolbox of a long-abandoned workbench <u>(Investigation DC 17)</u>.
-- **Relic of the Master Artificer:**  A small tool that once belonged to [[person/constantine-chronosmith]]. It might not have any magical or mechanical properties, but as a piece of history, it could be worth quite a lot to the right collector or could be used to gain the favor of [[person/olivia-chronosmith]]. The tool can be identified with the initials “CC” in Constantine's distinctive handwriting engraved on the base of the relic. This item is found inside an old, locked chest, the lock having rusted over time <u>(Investigation DC 23)</u>.
+- **Relic of the Master Artificer:**  A small tool that once belonged to [[plots/clockwork-tower/npcs/constantine-chronosmith]]. It might not have any magical or mechanical properties, but as a piece of history, it could be worth quite a lot to the right collector or could be used to gain the favor of [[plots/clockwork-tower/npcs/olivia-chronosmith]]. The tool can be identified with the initials “CC” in Constantine's distinctive handwriting engraved on the base of the relic. This item is found inside an old, locked chest, the lock having rusted over time <u>(Investigation DC 23)</u>.
 
-# Environmental Actions 
+# Environmental Actions
+
 The junkyard takes an action to cause one of the following effects; the same effect can't be used two rounds in a row:
 
 1. **Construct Rumble:**  The junkyard rumbles as discarded machines spontaneously assemble themselves into hostile constructs. Summon 1d4 animated armors 1d4  (or other suitable constructs) that will join the battle at the start of the next round.
 2. **Debris Cloud:**  A spectral wind sweeps through the junkyard, stirring up a cloud of dust and debris. The area within 120 feet of the party becomes heavily obscured until initiative count 20 on the next round.
 3. **Spectral Assault:**  The spectral essence of the Rust Engineers infuses the machinery in the junkyard. All creatures within 30 feet of a piece of machinery must succeed on a <u>DC 13 Dexterity saving throw</u> or take 3d6 necrotic damage 3d6 as spectral tools emerge from the machinery to attack.
 
-# Monster 
-![[1409614]]|Rust Engineer
+# Monster
 
-# plots/Story Type
+[[plots/clockwork-tower/monsters/rust-engineer|Rust Engineer]]
 
-# Sub-Structures (Scenes)
-
-# Themes
-
----
-
-# Structure
-## Exposition
-
-## Conflict
-
-## Rising Action
-
-## Climax
-
-## Falling Action
-
-## Resolution
-
----
-
-# Components
-## Goals
-
-## Hooks
-
-## Stakes
-
-## Moral Quandaries
-
-## Cruel Tricks
-
-## Red Herrings
-
----
-
-# Relations
-## Protagonists
-
-## Allies
-
-## Neutrals
-
-## Competitors
-
-## Adversaries
-
----
-
-# Backdrops
-## Locations
-
-## Threats
-
-## Encounters
-
-## Past Events / Histories
-
-```
-
-```col-md
-**Location** Southwest of the city, a mile outside Horse Gate
-
----
-
-![[plots/clockwork-tower/table-of-contents|Table of Contents]]
-
-![[~attachments/dndline.png]]
-
-**Completion Date:** <br>
-
-**Parent Plot:**  
-
-**Related Characters:**
-
-**Related Organizations:**
-
-**Related Locations:**
-
----
-
-### World Anvil Metadata
-**Id:** e9b17b41-1091-4b00-8c06-32e8eae89575<br>
-**Entity Type:** Article / plot<br>
-**Category:** <br>
-**Tags:** CT-plot
-```
-````
-
----
-
-````col
-```col-md
-Previous: 52611517-0c07-4846-bc00-dba0edbcbb3e
-```
-
-```col-md
-textAlign=right
-===
-Next: f8920a29-7a22-4ce1-93c4-636d4ba89f99
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/clockwork-tower/haven-ironworks" class="internal-link">Haven Ironworks</a></span>
+  <span class="nav-next">Next: <a href="plots/clockwork-tower/luminous-caverns" class="internal-link">Luminous Caverns</a> →</span>
+</div>

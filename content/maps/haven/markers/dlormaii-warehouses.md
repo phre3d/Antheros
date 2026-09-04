@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2400.697, 6441.837]
 mapmarker: Service
 title: "D'Lormaii Warehouses"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # D'Lormaii Warehouses

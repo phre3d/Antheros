@@ -1,232 +1,111 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-heights]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/heights]
 title: Nalla Thuliaga
-date modified: 2026-07-16, 9:18:22 pm
+date modified: 2026-08-20, 8:03:23 pm
 ---
 
 # Nalla Thuliaga
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  169
+>
+>
+> **Class/Profession:**  Fighter 4th
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-aerie|The Aerie]]
+>- [[settlements/haven/the-heights/the-heights|The Heights]]
+>
+>
+> **Purse:**   cp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/goliath|Goliath]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Giant | Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-heights/the-heights| The Heights]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A bouncer at [[landmark/the-aerie|The Aerie]], Nalla is an example of the strong silent type. He is over 7' tall and 350lbs. He is so mean-looking, even his friends call him "Sir". Besides maintaining a strict watch over the entrance, Nalla and the other goliath bouncers are summoned to the scene whenever trouble erupts. 
 
- Though he rarely speaks, he understands the need for delicacy in performing his job. He has become particularly adept at eliminating potential combatants by means of a surprisingly rapid head slap which renders the recipient unconscious, but causes no permanent damage  other than a ringing in one's ears for several hours after. 
+A bouncer at [[landmarks/the-aerie|The Aerie]], Nalla is an example of the strong silent type. He is over 7' tall and 350lbs. He is so mean-looking, even his friends call him "Sir". Besides maintaining a strict watch over the entrance, Nalla and the other goliath bouncers are summoned to the scene whenever trouble erupts.
+
+ Though he rarely speaks, he understands the need for delicacy in performing his job. He has become particularly adept at eliminating potential combatants by means of a surprisingly rapid head slap which renders the recipient unconscious, but causes no permanent damage  other than a ringing in one's ears for several hours after.
 
  Nalla seems to have little interest in fleshly pleasures, save for an occasional craving for raw meat
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/nalla-thuliaga-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/nalla-thuliaga-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/nalla-thuliaga-person)
 
-````
-````col-md
-
-
-**ID #**  169
-
-
- **Class/Profession:**  Fighter 4th
-
-
- **Places Encountered** 
-- [[landmark/the-aerie|The Aerie]]
-- [[settlement/the-heights|The Heights]]
-
-
- **Purse:**   cp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/goliath-race|Goliath Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Giant | Common<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-heights|The Heights]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/nalla-thuliaga]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

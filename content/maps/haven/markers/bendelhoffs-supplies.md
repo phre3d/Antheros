@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1516.003, 2417.347]
 mapmarker: Shopping
 title: "Bendelhoff's Supplies"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Bendelhoff's Supplies

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3531.309, 3541.837]
 mapmarker: Service
 title: Teleril - Architect
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Teleril - Architect

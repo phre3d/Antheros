@@ -1,46 +1,39 @@
-#import #ethnicity 
-# Ethnicity Name
+---
+aliases: []
+tags: [Ethnicity]
+title: ///name///
+date modified: 2026-08-08, 3:08:58 pm
+---
 
---- start-multi-column: MainBody
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+# Name
+
+>[!info]
+>**Parent Ethnicities:**
+>
+>**Related Locations:**
+
+
 # Description
 
 
-
-
 # Naming Traditions
-> [!tip]
+
+> [!author-tip]
 > For this section, consider things like gendered/non gendered names, surnames/family name
 
-
 # Culture
-> [!tip]
-> For this section, consider things like major languages & dialects, cultural heritage, 
-> codes & values, etiquette, dress, arts, architecture, food/cuisine, myths & legends, 
+
+>[!author-tip]
+> For this section, consider things like major languages & dialects, cultural heritage,
+> codes & values, etiquette, dress, arts, architecture, food/cuisine, myths & legends,
 > historical figures, major organizations
 
-
-
 # Rites & Observations
-> [!tip]
-> For this section, consider things like birth / death, coming of age, taboos, religion 
 
-
+>[!author-tip]
+> For this section, consider things like birth / death, coming of age, taboos, religion
 
 # Ideals
-> [!tip]
+
+>[!author-tip]
 > For this section, consider things like beauty, gender, courtship, relationships
-
---- end-column ---
-
-**Parent Ethnicities:**
-
-**Related Locations:**
-
---- end-multi-column
-

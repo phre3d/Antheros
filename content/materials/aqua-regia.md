@@ -1,25 +1,34 @@
 ---
 aliases: []
-tags: [import, material, potion-base]
+tags: [Material, Material/potion-base]
 title: Aqua Regia
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Aqua Regia
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>**Type:** Composite<br>
+>**Value:** <br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** Freshly prepared aqua regia is colorless, but it turns yellow, orange, or red within seconds<br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br><br>
+>**Common State:** Liquid
+>**Related Professions** [[professions/herbalist|Herbalist]], [[professions/alchemist|Alchemist]]
+
 A highly corrosive liquid known  to dissolve gold and platnum along with biologicals.
 
----
-
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
+
 Highly corrosive
 
 ## Compounds
@@ -27,19 +36,20 @@ Highly corrosive
 ## Geology/Geography
 
 ## Origin
-Made by [[profession/alchemist|Alchemists]]
+
+Made by [[professions/alchemist|Alchemists]]
 
 ## Half Life / Deterioration / Expiration
 
----
-
 # History & Usage
+
 ## History
 
 ## Discovery
 
 ## Common Use
-Used by [[profession/herbalist|Herbalists]] as a base for making  *uncommon*  potions.
+
+Used by [[professions/herbalist|Herbalists]] as a base for making  *uncommon*  potions.
 
 ## Cultural Significance and Usage
 
@@ -57,59 +67,17 @@ Used by [[profession/herbalist|Herbalists]] as a base for making  *uncommon*  po
 
 ## Reusability & Recycling
 
----
-
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Composite<br>
-**Value:** <br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** Freshly prepared aqua regia is colorless, but it turns yellow, orange, or red within seconds<br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-<br>- [[profession/herbalist|Herbalist]]<br>- [[profession/alchemist|Alchemist]]<br>
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

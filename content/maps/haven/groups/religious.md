@@ -1,24 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: religious
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+# Religion Markers
 
-- [[maps/haven/markers/temple-of-strathos]]
-- [[maps/haven/markers/temple-of-ladros]]
-- [[maps/haven/markers/temple-of-maedhros]]
-- [[maps/haven/markers/temple-of-mandos]]
-- [[maps/haven/markers/temple-of-azriel]]
-- [[maps/haven/markers/temple-of-istara]]
-- [[maps/haven/markers/temple-of-serindë]]
-- [[maps/haven/markers/lohisian-place]]
-- [[maps/haven/markers/temple-of-ariel]]
-- [[maps/haven/markers/temple-of-ea]]
-- [[maps/haven/markers/temple-of-vairë]]
-- [[maps/haven/markers/temple-of-narconal]]
-- [[maps/haven/markers/temple-of-etheah]]
-- [[maps/haven/markers/temple-of-nenya]]
-- [[maps/haven/markers/temple-of-thalos]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Religion"
+```

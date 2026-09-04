@@ -1,16 +1,14 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, item, magic-item, statblock]
-title: eternity-wardens-shield
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Item, Item/magic-item, Plot/Clockwork-Tower, statblock]
+title: "Eternity Warden''s Shield"
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Eternity Warden''s Shield
-  Source: Penny Blood Adventures
+
+>[!info] Image
+>![[plots/clockwork-tower/images/eternity-wardens-shield.png]]
 
 **Item Type:** Armor<br>
 **Rarity:** Rare<br>
@@ -21,6 +19,7 @@ flexGrow=2
 ---
 
 # Properties
+
 This shield provides a +2 bonus to AC in addition to the shield's normal bonus. Once per long rest, when an attacker hits the wielder with a melee attack, the wielder can use their reaction to activate the shield's temporal distortion, causing the attacker to redo the attack roll.
 
 Immunity to being aged magically.
@@ -28,11 +27,9 @@ Immunity to being aged magically.
 ---
 
 # Description
+
 Forged from the metals of the Clockwork Tower, this gleaming brass and steel shield has an intricate engraving of interlocking gears and clock hands.
 
 ---
-```
-```col-md
-![[~attachments/eternity-wardens-shield.png]]
-```
-````
+
+**Source:** Penny Blood Adventures

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Wolf
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Wolf
@@ -33,14 +33,14 @@ Created by accident while trying to devise an effective rat extermination poison
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Wolf heart
@@ -55,4 +55,3 @@ Created by accident while trying to devise an effective rat extermination poison
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

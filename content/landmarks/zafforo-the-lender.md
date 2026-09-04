@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, the-labyrinth, type-pawnbroker]
+tags: [Haven/labyrinth, Plot/Free-City-of-Haven, Shop, Shop/service/pawnbroker]
 title: Zafforo the Lender
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Zafforo the Lender
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Pawnbroker (Shopping) <br>
+>**Owner:**  [[people/zafforo|Zafforo]] <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    M03 (FL)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Reasonable rates for steady customers)
 
@@ -26,93 +31,9 @@ A small, round man with darting, suspicious eyes and elaborately pomaded moustac
 
  [[people/zafforo|Zafforo]] lives in a three story house on Shadowfall Street, and does business in his front room. He has three employees, a cook/maid, a bookkeeper, and a bodyguard and a mistress, a young girl of 16 whose father couldn't make his payments.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Pawnbroker (Shopping)**
-
- **Owner:**  Zafforo
-
- **District:**  
-
- **Grid (Key) Ref.:**   M03 (FL)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/zafforo|Zafforo]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ba6e4420-5e39-4eef-b8da-076fc1597181<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-shop,type-pawnbroker,pawnbroker
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

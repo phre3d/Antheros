@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, restaurant, the-south-corridor, type-restaurant]
+tags: [Haven/south-corridor, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/restaurant]
 title: The Silver Star
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Silver Star
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Restaurant (Dining) <br>
+>**Owner:**  [[people/celebel|Celebel]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    K11 (JD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## Exquisite dining and drinking
 
@@ -46,7 +51,7 @@ Good.
 
 ## Cash Box
 
-Contains [roll:1d6*1d20]gp and is located in a kitchen drawer.
+Contains gp and is located in a kitchen drawer.
 
 ## Staff
 
@@ -60,95 +65,9 @@ There is an average of 35 customers in the common room at luncheon. At suppertim
 
 At any given time, any relatively affluent person with a taste for good food could be met here.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Restaurant (Dining)**
-
- **Owner:**  Celebel
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   K11 (JD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/celebel|Celebel]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** d62e6d3f-959a-476a-abd3-162e0527b44f<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-shop,type-restaurant,guild-of-the-hearth-location,restaurant
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

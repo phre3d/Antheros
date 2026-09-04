@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, foundry, Free_City_of_Haven, guild/metalsmiths, import, landmark, street-of-harps, type-foundry]
+tags: [Haven/south-corridor/street-of-harps, Organization/professional/guild-of-metalsmiths, Plot/Free-City-of-Haven, Shop, Shop/goods/foundry]
 title: Bell Foundry
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Bell Foundry
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Foundry (Shopping) <br>
+>**Owner:**  [[people/glokkin-masterbell|Glokkin Masterbell]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    G07 (MB)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Foundry  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## [[people/glokkin-masterbell|Glokkin Masterbell]], prop.
+***[[people/glokkin-masterbell|Glokkin Masterbell]], prop***
 
 ## Description
 
@@ -54,101 +59,15 @@ Glokkin employs three apprentices and a journeyman, who all live upstairs.
 
 ## Customers
 
-30% chance of 1d3 customers
+30% chance of  customers
 
 ## Outstanding Items
 
 Glokkin's bells are of extremely fine quality, and he will make bells to order of virtually any size and shape, but custom made bells are very expensive.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Foundry (Shopping)**
-
- **Owner:**  Glokkin Masterbell
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   G07 (MB)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Foundry
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/glokkin-masterbell|Glokkin Masterbell]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 9692dfc1-e985-408a-875f-44de7bf559ab<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-shop,type-foundry,guild-of-metalsmiths-location,foundry
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

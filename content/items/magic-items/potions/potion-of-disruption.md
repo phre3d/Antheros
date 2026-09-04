@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Disruption
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Disruption
@@ -31,14 +31,14 @@ A baron commissioned a potion from the tinkerer Smith to protect his fortress.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ A baron commissioned a potion from the tinkerer Smith to protect his fortress.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

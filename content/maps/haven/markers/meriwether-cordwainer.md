@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [4559.881, 5315.306]
 mapmarker: Shopping
 title: Meriwether - Cordwainer
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Meriwether - Cordwainer

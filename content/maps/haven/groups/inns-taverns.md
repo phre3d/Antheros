@@ -1,42 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: inns-taverns
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+#  Inn and Tavern Markers
 
-- [[maps/haven/markers/the-black-swan]]
-- [[maps/haven/markers/mystic-valley-inn]]
-- [[maps/haven/markers/the-pendragon-inn]]
-- [[maps/haven/markers/the-sackbut-and-psalter]]
-- [[maps/haven/markers/the-man-at-arms]]
-- [[maps/haven/markers/the-trembling-heart]]
-- [[maps/haven/markers/the-stone-hammer]]
-- [[maps/haven/markers/wagoneers-delight]]
-- [[maps/haven/markers/the-lying-lawyer]]
-- [[maps/haven/markers/rose-garden-inn]]
-- [[maps/haven/markers/the-prancing-pony]]
-- [[maps/haven/markers/the-giggling-gryphon]]
-- [[maps/haven/markers/the-shady-rest-inn]]
-- [[maps/haven/markers/the-old-walls]]
-- [[maps/haven/markers/the-speedwell-inn]]
-- [[maps/haven/markers/holiday-inn]]
-- [[maps/haven/markers/horn-and-hardart]]
-- [[maps/haven/markers/the-silver-trumpet]]
-- [[maps/haven/markers/guardian]]
-- [[maps/haven/markers/the-lonely-lecher]]
-- [[maps/haven/markers/the-golden-ducat]]
-- [[maps/haven/markers/the-jumping-jade]]
-- [[maps/haven/markers/the-market-inn]]
-- [[maps/haven/markers/two-for-the-road]]
-- [[maps/haven/markers/kurgans-rout]]
-- [[maps/haven/markers/the-wizards-staff]]
-- [[maps/haven/markers/the-maid-of-asdor]]
-- [[maps/haven/markers/wayfarers-rest]]
-- [[maps/haven/markers/the-inn-of-the-seven-sisters]]
-- [[maps/haven/markers/the-market-inn]]
-- [[maps/thieves-market/markers/the-crocked-constable]]
-- [[maps/thieves-market/markers/the-bar-none]]
-- [[maps/thieves-market/markers/the-boars-head]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Inns & Taverns"
+```

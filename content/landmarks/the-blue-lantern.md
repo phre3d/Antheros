@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-brothel]
+tags: [Entertainment/brothel, Haven/labyrinth/street-of-silk-veils, Plot/Free-City-of-Haven]
 title: The Blue Lantern
-date modified: 2026-07-16, 9:18:46 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Blue Lantern
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Brothel (Entertainment) <br>
+>**Owner:**  [[people/kinalla-silkskin|Kinalla Silkskin]] <br>
+>**District:** [[settlements/haven/the-labyrinth/the-street-of-silk-veils|The Street of Silk Veils]] <br>
+>**Grid (Key) Ref.:**    M07 (DG)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Brothel / Whorehouse  <br>
 
 ## Entertainment and pleasure
 
@@ -64,97 +69,11 @@ Many.
 
 ## Outstanding Items
 
-There is a young newcomer, [[people/bianca|Bianca]], who has made quite a splash with the customers. She is the runaway daughter of a noble family on [[settlements/the-heights|The Heights]], and is a natural courtesan. She has altered her name and dyed her hair to change her appearance.
+There is a young newcomer, [[people/bianca|Bianca]], who has made quite a splash with the customers. She is the runaway daughter of a noble family on [[settlements/haven/the-heights/the-heights|The Heights]], and is a natural courtesan. She has altered her name and dyed her hair to change her appearance.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Brothel (Entertainment)**
-
- **Owner:**  Kinalla Silkskin
-
- **District:**  The Street of Silk Veils
-
- **Grid (Key) Ref.:**   M07 (DG)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Brothel / Whorehouse
-
-**Parent Location:**
-
-[[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/kinalla-silkskin|Kinalla Silkskin]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** c39a381b-8d84-4ac7-aa93-3f280a7f2dba<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Silk Veils<br>
-**Tags:** fcoh,street-of-silk-veils-location,cat-entertainment,type-brothel,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

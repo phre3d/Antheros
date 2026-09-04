@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-fire-plant, flora, import]
-title: Goblinberry Bush
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/fire]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Goblinberry Bush
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 5 gp  <br>
+>**Rarity:** Uncommon <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
 Growing in high, desolate areas, the small bushes have dark green leaves that are nearly black, with silver undersides. The bushes sporadically sprout reddish-purple berries that have a strong sharp smell that often causes people to gag.
 
 # Natural Range
+
 Mountains
 
----
 
 # Common Use(s)
-## Unaltered Form
-Mixing the juice of the berries with a significant quantity of water and honey makes an interesting drink that is served sporadically in Evereska and Baldur's Gate. The juice can also be used as an astringent, if the patient can handle the smelL
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-fire|Essence of Fire]]
-- Can be used in potion making
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
 
----
+ Mixing the juice of the berries with a significant quantity of water and honey makes an interesting drink that is served sporadically in Evereska and Baldur’s Gate. The juice can also be used as an astringent, if the patient can handle the smelL
+
+Used in crafting as a source of [[materials/essence-of-fire | Essence of Fire ]].
+
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 5 gp<br>
-**Rarity:** Uncommon<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

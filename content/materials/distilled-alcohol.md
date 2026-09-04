@@ -1,27 +1,36 @@
 ---
 aliases: []
-tags: [import, material, potion-base]
+tags: [Material, Material/potion-base]
 title: Distilled Alcohol
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Distilled Alcohol
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>**Type:** Organic<br>
+>**Value:** <br>
+>**Rarity:**
+>
+>**Odour:** Varies<br>
+>**Taste:** Varies<br>
+>**Colour:** Varies<br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Liquid
+>**Related Professions** [[professions/herbalist|Herbalist]], [[professions/alchemist|Alchemist]], [[professions/distiller|Distiller]]
+
 By taking a basic form of alcohol and distilling it down, a higher concentration is achieved and increasing the intoxication factor. Infusing the result with various essences - during or after the distillation process - imparts  distinct flavours.
 
 Further distillation - double or triple distillation - of the resulting liquid is possible, further raising the concentraion of alcohol, and intoxication effect.
 
----
-
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
+
 Highly flammable
 
 ## Compounds
@@ -29,19 +38,20 @@ Highly flammable
 ## Geology/Geography
 
 ## Origin
-Created by [[profession/distiller|Distillers]] and [[profession/alchemist|Alchemists]],  depending on the intended use.
+
+Created by [[professions/distiller|Distillers]] and [[professions/alchemist|Alchemists]],  depending on the intended use.
 
 ## Half Life / Deterioration / Expiration
 
----
-
 # History & Usage
+
 ## History
 
 ## Discovery
 
 ## Common Use
-Consumed as an aid to a good time or to drown one's sorrow. Also used by [[profession/herbalists]] as a base for making  *rare*  magical potions.
+
+Consumed as an aid to a good time or to drown one's sorrow. Also used by [[professions/herbalist]] as a base for making  *rare*  magical potions.
 
 ## Cultural Significance and Usage
 
@@ -59,59 +69,17 @@ Consumed as an aid to a good time or to drown one's sorrow. Also used by [[profe
 
 ## Reusability & Recycling
 
----
-
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Organic<br>
-**Value:** <br>
-**Rarity:** 
-
-**Odour:** Varies<br>
-**Taste:** Varies<br>
-**Colour:** Varies<br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-<br>- [[profession/herbalist|Herbalist]]<br>- [[profession/alchemist|Alchemist]]<br>- [[profession/distiller|Distiller]]<br>
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

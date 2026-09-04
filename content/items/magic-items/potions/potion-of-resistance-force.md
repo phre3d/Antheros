@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Resistance, Force
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Resistance, Force
@@ -27,14 +27,14 @@ When you drink this potion, you gain resistance to force damage.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):** Air    Earth  <br>
 **Spell Needed:**  <br>
 **Other:** Dollop of Orange jelly
@@ -49,4 +49,3 @@ When you drink this potion, you gain resistance to force damage.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

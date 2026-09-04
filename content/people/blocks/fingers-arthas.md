@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Fingers Arthas
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Fingers Arthas
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Half-Orc<br>
 **Profession:** Rogue/5th<br>
 **Challenge Rating:** 7<br>
@@ -20,30 +17,17 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 15 - None<br>
 **Hit Points:** 22<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (-1) | 8 (-1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Dexterity | Intelligence<br>
-**Languages:** Orc | Common<br>**Challenge:** 7 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Menacing | Relentless Endurance | Savage Attacks
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Orc | Common<br>
+**Challenge:** 7 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Menacing | Relentless Endurance | Savage Attacks
 
 # Actions
 

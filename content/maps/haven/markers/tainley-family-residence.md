@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2602.041, 6220.085]
 mapmarker: Residence
 title: Tainley Family Residence
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Tainley Family Residence

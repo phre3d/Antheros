@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Vitality
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Vitality
@@ -27,14 +27,14 @@ When you drink this potion, it removes any exhaustion you are suffering and cure
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  Water<br>
 **Spell Needed:** *Aura of Vitality* <br>
 **Other:** Vial of Troll blood
@@ -49,4 +49,3 @@ When you drink this potion, it removes any exhaustion you are suffering and cure
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

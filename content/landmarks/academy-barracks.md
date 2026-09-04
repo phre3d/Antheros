@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-south-corridor, type-guard]
+tags: [Haven/south-corridor, Organization/government, Organization/legal/haven-city-watch, Plot/Free-City-of-Haven]
 title: Academy Barracks
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-20, 8:01:31 pm
 ---
 
 # Academy Barracks
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** City Guard (City Guard) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    D06 (OO)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Guard post / house  <br>
 
 ## City Guard training centre
 
@@ -28,95 +33,9 @@ shadow: off
 
 [[people/themo-lundek|Themo Lundek]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**City Guard (City Guard)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   D06 (OO)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Guard post / house
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/haven-city-watch|Haven City Watch]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 7e66dea3-678b-488c-989c-e2f2a2b03d50<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-government,type-guard,government
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

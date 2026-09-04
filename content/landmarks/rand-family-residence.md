@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-glens, type-mansion]
+tags: [Building/residential/mansion,Haven/north-corridor/glens, Plot/Free-City-of-Haven]
 title: Rand Family Residence
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Rand Family Residence
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Mansion (Residence) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-north-corridor/the-glens|The Glens]] <br>
+>**Grid (Key) Ref.:**    N19 (UC)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Mansion / Villa  <br>
 
 ## Another North Corridor mansion
 
@@ -28,95 +33,9 @@ This estate house is shared by the three Rand brothers
 
 Kruegger Rand | Eezie Rand | Sberri Rand | Zalle Rand
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Mansion (Residence)**
-
- **Owner:**  
-
- **District:**  The Glens
-
- **Grid (Key) Ref.:**   N19 (UC)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Mansion / Villa
-
-**Parent Location:**
-
-[[settlements/the-glens|The Glens]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/families/rand-family|Rand Family]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 7bf9d8b6-edaf-4f32-8d22-cac55848b6d0<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Glens<br>
-**Tags:** fcoh,the-glens-location,cat-residence,type-mansion,residence
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

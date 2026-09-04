@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, monster, plot/Night-of-the-Living-Dolls, statblock]
+tags: [Monster, Plot/Night-of-the-Living-Dolls, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col
@@ -59,13 +59,13 @@ Small Contruct Neutral Evil
 
 # Actions
 
-### Slam
+## Slam
 
   **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
 
   **Hit:**  6  bludgeoning damage.
 
-### Creepy Lullaby
+## Creepy Lullaby
 
   **Recharge 5–6**
 

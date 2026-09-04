@@ -1,17 +1,40 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, import, plot]
+tags: [Plot, Plot/Forest-of-Doom]
 title: "FoD: First Level"
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
+
+![[plots/forest-of-doom/images/forest-of-doom-header.png]]
 
 # FoD: First Level
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
+>[!info]
+>![[plots/forest-of-doom/table-of-contents]]
+>
+>---
+>![[plots/forest-of-doom/maps/tree-cross-section.jpg]]
+>
+>---
+>![[plots/forest-of-doom/maps/first-level.jpg]]
+>
+>---
+>![[images/sludge-pit.jpg]]
+>
+>---
+>
+>**Completion Date:** <br>
+>
+>**Parent Plot:**  
+>
+>**Related Characters:**
+>
+>**Related Organizations:**
+>
+>**Related Locations:**
+>
+
+# Notes
 Elevation ranges from-5 feet (below ground) to +65 feet (above ground)
 
 ## 1.	Sentinel Posts 
@@ -141,63 +164,20 @@ The door leading to this room is securely bolted. It also happens to be watertig
 - ==A character who is not immediately submerged==  must make a DC 15 CON check or be overcome by the stench. Failure to save will cause the victim to become dizzy and keel over into the liquid, with the same chance for suffocation thereafter as for shorter characters who become submerged.
 
 ## 14. Tentamort Lair 
-If characters stay on the main branch of the long corridor and do not notice and pass through the secret door, they will attract the attention of  ==a tentamort==  (see FIEND FOLIO Tome) that resides in the chamber to the south.  Statblock: ![[1526575]]
+If characters stay on the main branch of the long corridor and do not notice and pass through the secret door, they will attract the attention of  ==a tentamort==  (see FIEND FOLIO Tome) that resides in the chamber to the south.  [[plots/forest-of-doom/monsters/tentamort|Tentamort Statblock]]
 
 - This chamber is separated from the adjacent corridor by a curved wall running the length of the corridor at this point – except for a two-foot-high opening between the wall and the floor. It is through this opening that the tentamort will attempt to attack with its tentacles.
 - To attack the body of the monster, characters must slide themselves through the slot and carry the battle into the room. The tentamort will not try to move through the slot to escape an attack, and can draw its tentacles back into the room if it desires to attack an intruder.
 
 If characters detect the secret door, move through the passage that leads off it, and exit through the other secret door, they can avoid the tentamort and gain access to a small, empty chamber with a locked door on its west wall. This doorway leads to an ascending passageway that spirals up inside the trunk and eventually leads to the second level of the fortress.
 
-```
 
-```col-md
 
-![[table-of-contents]]
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/forest-of-doom/the-fortress" class="internal-link">The Fortress</a></span>
+  <span class="nav-next">Next: <a href="plots/forest-of-doom/second-level" class="internal-link">Second Level</a> →</span>
+</div>
 
----
-![[images/tree-cross-section.jpg]]
 
----
-![[images/first-level.jpg]]
-
----
-![[images/sludge-pit.jpg]]
-
----
-
-**Completion Date:** <br>
-
-**Parent Plot:**  
-
-**Related Characters:**
-
-**Related Organizations:**
-
-**Related Locations:**
-
----
-
-### World Anvil Metadata
-**Id:** 929de3fc-6875-4969-a7c5-3964465b4954<br>
-**Entity Type:** Article / plot<br>
-**Category:** <br>
-**Tags:** FoD-plot
-
-```
-````
-
----
-
-````col
-```col-md
-Previous:
-c6fb087a-ed8e-498e-8fd8-75a06ac6e34b
-
-```
-
-```col-md
-Next:
-124a805d-b3fd-4613-a52b-b5e4ecdddf4c
-
-```
-````

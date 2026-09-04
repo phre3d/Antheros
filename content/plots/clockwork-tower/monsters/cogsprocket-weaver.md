@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Cogsprocket Weaver
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Cogsprocket Weaver
-Medium construct (spider) 
+
+>[!info] Image
+>![[plots/clockwork-tower/images/cogsprocket-weaver.png]]
+
+*Medium construct (spider), unaligned*
 
 **Armour Class:** 15 (natural armor)<br>
 **Hit Points:** 60 (8d8 + 24)<br>
@@ -33,52 +33,38 @@ Medium construct (spider)
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/cogsprocket-weaver.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Immutable Form
+## Immutable Form
 
  The Cogsprocket Weaver is immune to any spell or effect that would alter its form.
 
-### Fabricate Spider
+## Fabricate Spider
 
  As a bonus action, the Cogsprocket Weaver can begin crafting a Cogsprocket Spider. After two rounds, the spider becomes operational and acts on the Weaver's initiative count. A maximum of 3 spiders can be active at a time via this method.
 
-### Repair Aura
+## Repair Aura
 
  Constructs within 10 feet of the Weaver at the start of its turn regain 5 hit points.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Cogsprocket Weaver makes two mechanical tendril attacks.
 
-### Mechanical Tendril
+## Mechanical Tendril
 
   **Melee Weapon Attack:**  +7 to hit , reach 5 ft., one target.
 
   **Hit:**  8  slashing damage.
 
-## Bonus Actions
+# Bonus Actions
 
-### Swift Repair
+## Swift Repair
 
  The Cogsprocket Weaver can target one damaged construct within 5 feet and restore 10  hit points to it.
-
-![[~attachments/dndline.png]]
 
 # Description
 

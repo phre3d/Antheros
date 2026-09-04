@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, the-labyrinth, type-pawnbroker]
+tags: [Haven/labyrinth, Plot/Free-City-of-Haven, Shop, Shop/service/pawnbroker]
 title: "Malikor's Exchange"
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Malikor's Exchange
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Pawnbroker (Shopping) <br>
+>**Owner:**  [[people/malikor|Malikor]] <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    L04 (FM)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A trader in treasures
+***A trader in treasures***
 
 ## Description
 
@@ -26,93 +31,9 @@ shadow: off
 
  Should the players think to rob [[people/malikor|Malikor]], they will find, to their regret, that the eye hidden under the patch is glass, imbedded with a PARALYZATION spell. All who meet its gaze must make a saving roll against INT, or be paralyzed for 1d12 hours.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Pawnbroker (Shopping)**
-
- **Owner:**  Malikor
-
- **District:**  
-
- **Grid (Key) Ref.:**   L04 (FM)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/malikor|Malikor]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ecb8438f-cbef-4a4d-a99d-3f45d0fa2d5a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-shop,type-pawnbroker,pawnbroker
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

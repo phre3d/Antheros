@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Flash Pellet
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Flash Pellet
@@ -27,14 +27,14 @@ When thrown against a hard surface, this pellet explodes in a blinding flash of 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium Grease]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ When thrown against a hard surface, this pellet explodes in a blinding flash of 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2288.452, 3936.735]
 mapmarker: Shopping
 title: "Burgallo's Apothecary"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Burgallo's Apothecary

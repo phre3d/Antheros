@@ -1,11 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, plot]
+tags: [Plot, Plot/Clockwork-Tower]
 title: Assembly Room
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
+![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
+
 # Assembly Room
+
+>[!info]
+>![[plots/clockwork-tower/table-of-contents|Table of Contents]]
 
 This room, with its worn-out workbenches and rusted tools, was once a bustling hub of innovation. Olivia Chronosmith, the city's watchmaker, might provide the required tools and instructions to restore the Assembly Room.
 
@@ -116,19 +121,9 @@ On initiative count 20 (losing initiative ties), the Assembly Room activates one
 3. **Mechanical Floor:**  Parts of the floor rotate, shift, or rise. A 10-foot square section of the ground either rises by 5 feet or sinks by 5 feet (DM's choice), potentially changing the battlefield's dynamics.
 4. **Emergency Repairs**  Arcane energy flows through the room, repairing any constructs by 2d8 hit points.
 
->[!infobox]
->![[plots/clockwork-tower/table-of-contents|Table of Contents]]
-
----
-
-````col
-```col-md
-Previous: f1faca19-130f-4e86-a79b-ca1bfd5d6354
-```
-
-```col-md
-textAlign=right
-===
-Next: de51804f-2855-42d2-aeb1-a8d4a340032f
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/clockwork-tower/artificers-library" class="internal-link">Artificer's Library    </a></span>
+  <span class="nav-next">Next: <a href="plots/clockwork-tower/echo-chamber" class="internal-link">Echo Chamber    </a> →</span>
+</div>

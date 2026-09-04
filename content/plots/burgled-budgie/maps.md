@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, maps, plot]
+tags: [Map, Plot, Plot/Burgled-Budgie]
 title: Maps
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 ![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]  

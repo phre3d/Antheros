@@ -1,26 +1,24 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Murder at the Old Wolf Inn
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Murder at the Old Wolf Inn
 
----start-multi-column ---
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/images/matowi-cover-page.jpg]]
+>
+>---
+>
+>## Table of Contents
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
 
-# Note
-
-This has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.  
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Overview
 
@@ -51,7 +49,7 @@ This mystery adventure is inspired by the author and queen of crime Agatha Chris
 
 ## additional downloads  
 
-Maps, VTT tokens, handouts, and pre-made characters for the adventure can be [downloaded here](http://midnight-tower.com/additional-downloads-matowi/).
+Maps, VTT tokens, handouts, and pre-made characters for the adventure can be [downloaded here](https://midnight-tower.com/additional-downloads-matowi/).
 
 ## synopsis  
 
@@ -75,8 +73,8 @@ The DM is encouraged to create a sense of unease by reminding the characters tha
 
 However, the most important part of the adventure is to have fun while trying to solve the mystery.
 
->[!Info]- Adventure Flowchart
->![[plots/murder-at-the-old-wolf-inn/images/adventure-flowchart.jpg]]
+## Adventure Flowchart
+![[plots/murder-at-the-old-wolf-inn/images/adventure-flowchart.jpg]]
 
 <br>
 
@@ -136,15 +134,7 @@ Therefore, during the evening before Artemis was murdered, Inga sprinkled a gene
 
 However, Inga is unaware that Artemis was poisoned by Jon later that evening, so she believes that she murdered him by mistake. She is also concerned that the hermit, [[plots/murder-at-the-old-wolf-inn/npcs/enoch-the-birdwhisperer|Enoch the Birdwhisperer]], who gathered the frog leaves, will accidentally tell someone about it.
 
---- end-column ---
 
-![[plots/murder-at-the-old-wolf-inn/images/matowi-cover-page.jpg]]
-
-![[~attachments/dndline.png]]
-
-![[plots/murder-at-the-old-wolf-inn/table-of-contents|Table of Contents]]
-
---- end-multi-column
 
 # Credits
 
@@ -158,16 +148,10 @@ Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee,
 
 Based on original material by E. Gary Gygax and Dave Arneson
 
-![[~attachments/dndline.png]]
 
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-Next: [[plots/murder-at-the-old-wolf-inn/mysterious-clues|Mysterious Clues]]
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">  </span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/mysterious-clues" class="internal-link">Mysterious Clues</a> →</span>
+</div>

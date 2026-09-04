@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, trade-island, type-general-clothing]
+tags: [Haven/trade-island, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/general-clothing]
 title: "Meryn's Elvish Cloaks"
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Meryn's Elvish Cloaks
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Clothing (Shopping) <br>
+>**Owner:**  [[people/meryn-longleaf|Meryn Longleaf]] <br>
+>**District:** [[settlements/haven/trade-island/trade-island|Trade Island]] <br>
+>**Grid (Key) Ref.:**    O12 (RM)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Tailor  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Clothing (Shopping)**
-
- **Owner:**  Meryn Longleaf
-
- **District:**  Trade Island
-
- **Grid (Key) Ref.:**   O12 (RM)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Tailor
-
-**Parent Location:**
-
-[[settlements/trade-island|Trade Island]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/meryn-longleaf|Meryn Longleaf]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 5998d096-d0ff-4766-9c01-ed796287f15a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Trade Island<br>
-**Tags:** fcoh,trade-island-location,cat-shop,type-general-clothing,guild-of-the-loom-location,general-clothing
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

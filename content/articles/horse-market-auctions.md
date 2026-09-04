@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [article, Free_City_of_Haven, import]
+tags: [Plot/Free-City-of-Haven]
 title: Horse Market Auctions
-date modified: 2026-07-16, 9:19:06 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Horse Market Auctions
 
-The [[settlements/horse-market|Horse Market]] is not busy all the time. Small auctions are held daily, on various kinds of stock, and last 1-2 hours but major auctions occur but a few times yearly, usually in coincidence with the arrival of large herds of wild horses. If the players wish to attend a stock auction, the GM may use the charts below to determine what lots of stock are being offered currently.
+The [[settlements/haven/the-south-corridor/horse-market|Horse Market]] is not busy all the time. Small auctions are held daily, on various kinds of stock, and last 1-2 hours but major auctions occur but a few times yearly, usually in coincidence with the arrival of large herds of wild horses. If the players wish to attend a stock auction, the GM may use the charts below to determine what lots of stock are being offered currently.
 
 The auction has a different emphasis in stock each day:
 
@@ -33,7 +33,7 @@ On any given day, [roll:3d10+10]  lots of animals are presented. In a given lot 
 
 Determine randomly or by choice the next lot to be offered from the chart above.  Next locate the basic type of animal from the subsidiary charts and calculate an overall value for the lot. The value given is an average per animal in the lot. In most cases, it will only be necessary to derive the average value if the players are likely to bid on the animals in question. Unless one of the group is stocking a farm or ranch, none of the party is likely to bid on a flock of chickens or a herd of goats.
 
-The average values for horses can be found in the article [[species/horses|horses]].
+The average values for horses can be found in the article [[fauna/horses|horses]].
 
 ---
 

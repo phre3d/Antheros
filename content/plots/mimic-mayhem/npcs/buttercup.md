@@ -1,25 +1,24 @@
 ---
 aliases: []
-tags: [npc, person]
+date modified: 2026-08-26, 2:29:32 pm
+tags: [Plot/Mimic-Mayhem]
 title: Buttercup
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 # Buttercup
 
-medium, canine, neutral
+>[!info] Portrait
+>![[plots/mimic-mayhem/images/buttercup.jpg]]
+
+*medium, canine, neutral*
 
 **Armour Class:** 12<br>
 **Hit Points:** 6<br>
 **Movement:** 35'
 
----
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 10(+0)  |  15(+2) |  10(+0) |  3(-4)  |  12(+1) |  10(+0) |
-
----
 
 **Languages:** understand some Common<br>
 **Senses:** see below<br>
@@ -28,19 +27,11 @@ medium, canine, neutral
 
 **Keen Hearing and Smell**. The dog has advantage on Wisdom(Perception) checks that rely on hearing or smell.
 
->[!infobox]
->![[plots/mimic-mayhem/images/buttercup.jpg]]
->![[plots/mimic-mayhem/images/tkn.buttercup.png]]
-
----
-
 # Actions
 
 **Bite.**<br>
 *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target.<br>
 *Hit:* 1d4-1 piercing damage.
-
----
 
 # Description
 

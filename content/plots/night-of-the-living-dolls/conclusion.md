@@ -1,11 +1,11 @@
 ---
 aliases: []
-tags: [import, plot/Night-of-the-Living-Dolls, plot]
+tags: [Plot, Plot/Night-of-the-Living-Dolls]
 title: NotLD Conclusion
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
-# NotLD Conclusion
+# Conclusion
 
 ````col
 ```col-md

@@ -1,26 +1,31 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, monster]
+tags: [Monster, Plot/Mimic-Mayhem]
 title: Small Mimic
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Small Mimic
 
-small monstrosity, neutral
+>[!info] Portraits
+>![[plots/mimic-mayhem/images/tkn.chimney-mimic-small.png]]
+>![[plots/mimic-mayhem/images/tkn.dartboard-mimic-small.png]]
+>![[plots/mimic-mayhem/images/tkn.sign-mimic-small.png]]
+>![[plots/mimic-mayhem/images/tkn.window-mimic-small.png]]
+
+*small monstrosity, neutral*
 
 **Armour Class:** 13 (natural armour)<br>
 **Hit Points:** 10 <mark style="background:#d3f8b6">25</mark> <mark style="background:#fff88f">40</mark> <mark style="background:#fff88f">55</mark><br>
 **Proficiency Bonus:** <br>
 **Movement:** 15'
 
----
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  15(+2) |  14(+2) |  13(+1) |  5(-3) |  13(+1) |  6(-2) |
 
----
+
 
 **Senses:** Darkvision 60', passive perception 11<br>
 **Languages:** n/a<br>
@@ -30,13 +35,9 @@ small monstrosity, neutral
 **Damage Immunities:** acid<br>
 **Condition Immunities:** prone<br>
 
->[!infobox]
->![[plots/mimic_mayhem/images/tkn.chimney-mimic-small.png]]
->![[plots/mimic_mayhem/images/tkn.dartboard-mimic-small.png]]
->![[plots/mimic_mayhem/images/tkn.sign-mimic-small.png]]
->![[plots/mimic_mayhem/images/tkn.window-mimic-small.png]]
 
----
+
+
 
 # Special Abilities
 
@@ -52,7 +53,7 @@ small monstrosity, neutral
 
 <mark style="background:#ff4d4f">**Regeneration.** As one of their attacks, the mimic can swallow a pseudopod to instantly heal 10 hp. It regenerates a new pseudopod in 1d4 days.</mark>
 
----
+
 
 # Actions
 
@@ -66,7 +67,7 @@ small monstrosity, neutral
 *Melee Weapon Attack:* +4 to hit, <u>reach 5 ft.</u>, one target.  <br>
 *Hit:* 5 (1d6 + 2) piercing damage plus 3 (1d6) acid damage.
 
----
+# Level Scaling
 
 | Combined Party Level | Adjustment |
 |:---------------:|------------|
@@ -74,3 +75,6 @@ small monstrosity, neutral
 | 13 to 30 | Add only the green special abilities.|
 | 31 to 48 | Add the green and yellow special abilities.|
 | 49 to 78 | Use all the colored special abilities |
+
+---
+**Source:** Mimic Mayhem

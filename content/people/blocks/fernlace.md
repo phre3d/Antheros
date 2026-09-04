@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Fernlace
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Fernlace
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** High-Elf<br>
 **Profession:** Herbalist / 14th<br>
 **Challenge Rating:** <br>
@@ -20,30 +17,18 @@ flexGrow=2
 **Alignment:** Neutral<br>
 **Armour Class:** 15 - Leather<br>
 **Hit Points:** 88<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 12 (+1) | 12 (+1) | 16 (+3) | 10 (+0) | 19 (+4) | 15 (+2) |
 
-![[dndline.png]]
-
 **Saving Throws:** Intelligence | Wisdom<br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common | Choose 1<br>**Senses:** Darkvision 60'<br>**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry
-
-```
-
-```col-md
-
-
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common | Choose 1<br>
+**Senses:** Darkvision 60'<br>
+**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry
 
 # Spellcasting
 
@@ -66,8 +51,6 @@ Druidcraft
 ## Cast Twice per Day
 
 **Force-grow:**  cause a seedling to fully mature over 12 hours.
-
-![[dndline.png]]
 
 # Actions
 

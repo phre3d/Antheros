@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [class, class/Sorcerer]
+tags: [Class, Class/sorcerer]
 title: Sorcerer
-date modified: 2026-07-16, 9:19:04 pm
+date modified: 2026-08-17, 12:46:32 pm
 ---
 
 # Sorcerer
@@ -104,7 +104,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
  At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects. - **Sorcery Points:** You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
 
 - **Flexible Casting.**  You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels
- 
+$1
 1) **Creating Spell Slots** : You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. The created spell slots vanish at the end of a long rest.
 2) **Creating Spell Slots:** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. The created spell slots vanish at the end of a long rest.
 

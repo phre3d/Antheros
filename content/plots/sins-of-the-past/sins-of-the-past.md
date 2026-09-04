@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, plot, plot/Sins_of_the_Past]
+tags: [Plot, Plot/Sins-of-the-Past]
 title: Sins of the Past
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Sins of the Past
@@ -12,7 +12,7 @@ date modified: 2026-07-16, 9:18:11 pm
 flexGrow=2.5
 ===
 # Outline
-** *<center>This is a modified version of the [Sins of the Past](https://www.dmsguild.com/product/326297/Sins-of-the-Past) adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign (and to adjust some grammar that bothered me). One major change is the family name of the crypt owners, from Phylund to Geronde. </center>* ** 
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Introduction 
 > “Few brave souls dare to visit the [[landmark/city-of-the-dead]] at night. Some might say that tales of nighttime horrors are for children, but the wise folk know better.”

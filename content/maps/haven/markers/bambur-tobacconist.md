@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [4160.901, 473.469]
 mapmarker: Shopping
 title: Bambur - Tobacconist
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Bambur - Tobacconist

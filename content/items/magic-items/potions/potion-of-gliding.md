@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Gliding
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Gliding
@@ -31,14 +31,14 @@ Created by a swamp hunter in the early days when much more of the earth was swam
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Base:** [[/materials/aqua-regia|Aqua Regia]]<br>
 **Essence(s):** Air    Earth  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ Created by a swamp hunter in the early days when much more of the earth was swam
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

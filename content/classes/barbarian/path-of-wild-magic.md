@@ -1,29 +1,28 @@
 ---
 aliases: []
-tags: [class/Barbarian, class/subclass]
+tags: [Class/Barbarian, Class/subclass]
 title: Path of Wild Magic
-date modified: 2026-07-16, 9:19:04 pm
+date modified: 2026-08-17, 12:46:32 pm
 ---
 
 # Path of Wild Magic
 
-**Parent Class:** [[classes/barbarian/barbarian|Barbarian]]
+>[!info]
+>**Parent Class:** [[classes/barbarian/barbarian|Barbarian]]
+>
+>**Source:** Tasha's Cauldron of Everything    <!-- Original Source of the item -->
 
 >[!quote]
 >I don't recommend letting magic take the reins, but I'm not your mom. Live deliciously.<br>
->$\quad$--- Tasha
+>&nbsp;&nbsp;&nbsp;&nbsp;--- Tasha
 
 Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
 
----
-
-# Path Features
-
-### Magic Awareness
+## Magic Awareness
 
 At 3rd level, as an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-### Wild Surge
+## Wild Surge
 
 At 3rd level, the magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
@@ -38,7 +37,7 @@ At 3rd level, the magical energy roiling inside you sometimes erupts from you. W
 |7| Flowers and vines temporarily grow around you; until your rage ends, the ground within 5 feet of you is difficult terrain for your enemies.|
 |8| A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage and be blinded until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action.|
 
-### Bolstering Magic
+## Bolstering Magic
 
 You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
 
@@ -47,14 +46,10 @@ You can harness your wild magic to bolster yourself or a companion. As an action
 
 You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-### Unstable Backlash
+## Unstable Backlash
 
 When you are imperiled during your rage, the magic within you can lash out; immediately after you take damage or fail a saving throw while raging, you can use your reaction to roll on the Wild Magic table and immediately produce the effect rolled. This effect replaces your current Wild Magic effect.
 
-### Controlled Surge
+## Controlled Surge
 
 Whenever you roll on the Wild Magic table, you can roll the die twice and choose which of the two effects to unleash. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.
-
----
-
-*Source:* Tasha's Cauldron of Everything    <!-- Original Source of the item -->

@@ -1,18 +1,20 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, plot]
+tags: [Plot, Plot/Clockwork-Tower]
 title: Timepiece of Eternity
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
+
+![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
 
 # Timepiece of Eternity
 
 >[!info]
 >![[plots/clockwork-tower/table-of-contents|Table of Contents]]
 
-The heart of the Clockwork Tower, this room houses a hollow pedestal where Earthheart Emeralds should reside. The Eternity Warden stands sentinel in this room, its mechanical eyes always watching for threats.
+The heart of the Clockwork Tower, this room houses a hollow pedestal where [[materials/earthheart-emerald|Earthheart Emeralds]] should reside. The Eternity Warden stands sentinel in this room, its mechanical eyes always watching for threats.
 
-Finding replacement crystals would require a trip to the [[plots/luminous-caverns]], where the Earthheart Emeralds can be harvested from the rock.
+Finding replacement crystals would require a trip to the [[plots/clockwork-tower/luminous-caverns]], where the Earthheart Emeralds can be harvested from the rock.
 
 > [!read-aloud] **Read Aloud**
  >  
@@ -25,7 +27,7 @@ Finding replacement crystals would require a trip to the [[plots/luminous-cavern
 
 # Additional Information
 
-Deep within the Clockwork Tower lies its very heart and lifeblood: the Earthheart Emeralds. Mined from the ethereal depths of the [[plots/luminous-caverns]], these radiant gems are not just stones of beauty but the vital source powering the entire Tower. Their legends are manifold, their significance immeasurable. The Clockwork Tower does not have enough emeralds and require more. The DM can choose the amount of Earthheart Emeralds that must be mined:
+Deep within the Clockwork Tower lies its very heart and lifeblood: the Earthheart Emeralds. Mined from the ethereal depths of the [[plots/clockwork-tower/luminous-caverns]], these radiant gems are not just stones of beauty but the vital source powering the entire Tower. Their legends are manifold, their significance immeasurable. The Clockwork Tower does not have enough emeralds and require more. The DM can choose the amount of Earthheart Emeralds that must be mined:
 
 - Novice adventurers are charged with gathering a mere 5 lbs
 - Medium level PCs should mine 15 to 20 lbs
@@ -39,7 +41,7 @@ Watching over this irreplaceable treasure is the Eternity Warden, a sentinel ded
 >  
 > - **Tick:**   "Chirp-chirp! The p-p-pedestal's hollow call, seeks a crystal, to rise, not fall!"
 >
->- **Tock:**   "Tock-tock! [[plots/luminous-caverns]] gleam, but Pendulum Horrors lurk and scheme!"
+>- **Tock:**   "Tock-tock! [[plots/clockwork-tower/luminous-caverns]] gleam, but Pendulum Horrors lurk and scheme!"
 
 # Refueling the Clockwork Tower with Earthheart Emeralds
 
@@ -87,11 +89,11 @@ As a sign of gratitude, the Eternity Warden will present a [[plots/clockwork-tow
 
 # Monster
 
-![[1409607]]|Eternity Warden
+>[Monster]- [[plots/clockwork-tower/monsters/eternity-warden]]|Eternity Warden
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>
 <div class="page-nav">
-  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
-  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+  <span class="nav-prev">← Previous: <a href="plots/clockwork-tower/gear-foundry" class="internal-link">Gear Foundry    </a></span>
+  <span class="nav-next">Next: <a href="plots/clockwork-tower/resolution" class="internal-link">Resolution    </a> →</span>
 </div>

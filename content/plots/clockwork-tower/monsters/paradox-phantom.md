@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Paradox Phantom
+date modified: 2026-08-13, 9:13:22 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Paradox Phantom
-Medium elemental (temporal, incorporeal) Chaotic Neutral
+
+>[!info] Image
+>![[plots/clockwork-tower/images/paradox-phantom.png]]
+
+*Medium elemental (temporal, incorporeal), Chaotic Neutral*
 
 **Armour Class:** 15 (natural armor)<br>
 **Hit Points:** 20 [roll:5d8]<br>
@@ -33,38 +33,24 @@ Medium elemental (temporal, incorporeal) Chaotic Neutral
 
 **Damage Immunities:** Poison<br>
 **Condition Immunities:** Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/paradox-phantom.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Incorporeal Movement
+## Incorporeal Movement
 
  The Paradox Phantom can move through other creatures and objects as if they were difficult terrain. It takes 5  force damage if it ends its turn inside an object.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack.
+## Multiattack
 
  The Paradox Phantom makes two temporal touch attacks.
 
-### Temporal Touch
+## Temporal Touch
 
   **Melee Spell Attack:**  +4 to hit , reach 5 ft., one target.
 
   **Hit:**  9  force damage, and the target must succeed on a <u>DC 16 Wisdom saving throw</u> or suffer from a time echo. A creature suffering from a time echo relives the pain of the Paradox Phantom's attacks at the start of each of its turns, taking 3  psychic damage. The time echo effects last until the creature finishes a short or long rest, or until the creature benefits from the Lesser Restoration spell or similar magic, which removes all instances of time echo.
-
-![[~attachments/dndline.png]]
 
 # Description
 

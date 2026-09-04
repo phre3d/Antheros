@@ -1,0 +1,19 @@
+{
+    "id": "e18274ea-a818-4dcf-a7ad-59308679538a",
+    "title": "Dining",
+    "slug": null,
+    "state": "private",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": true,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

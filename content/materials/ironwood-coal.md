@@ -1,22 +1,31 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, material]
+tags: [Material, Plot/Clockwork-Tower]
 title: Ironwood Coal
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Ironwood Coal
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-Sourced from the [[location/ironwood-forest|Ironwood Forest]], this coal burns hotter and longer than regular coal. Essential for the intense heat needed in Haven Ironworks.
+>[!info]
+>**Type:** Rock, Sedimentary<br>
+>**Value:** 5sp per lb.<br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Solid
+>
+>**Related Locations:** [[geography/ironwood-forest|Ironwood Forest]]
 
----
+Sourced from the [[geography/ironwood-forest|Ironwood Forest]], this coal burns hotter and longer than regular coal. Essential for the intense heat needed in Haven Ironworks.
 
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
@@ -29,9 +38,8 @@ Sourced from the [[location/ironwood-forest|Ironwood Forest]], this coal burns h
 
 ## Half Life / Deterioration / Expiration
 
----
-
 # History & Usage
+
 ## History
 
 ## Discovery
@@ -54,59 +62,17 @@ Sourced from the [[location/ironwood-forest|Ironwood Forest]], this coal burns h
 
 ## Reusability & Recycling
 
----
-
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Rock, Sedimentary<br>
-**Value:** 5sp per lb.<br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-<br>- [[location/ironwood-forest|Ironwood Forest]]<br>
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

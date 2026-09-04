@@ -5,18 +5,21 @@ cr_id: albar-pakmydis
 name: Albar Pakmydas
 sex: male
 born: 1155
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
 twin: "[[plots/the-gypsy-train/npcs/aldor-pakmydis]]"
 twin_id: aldor-pakmydis
+title: Albar Pakmydas
 father: "[[ambrosis-pakmydis|Ambrosis Pakmydas]]"
 father_id: ambrosis-pakmydis
-title: Albar Pakmydas
 ---
 
 # Albar Pakmydas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -43,8 +46,7 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 

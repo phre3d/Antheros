@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, restaurant, the-heights, type-restaurant]
+tags: [Haven/heights, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/restaurant]
 title: The Aerie
-date modified: 2026-07-16, 9:18:47 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Aerie
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Restaurant (Dining) <br>
+>**Owner:**  [[people/joffa-the-barakite|Joffa the Barakite]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    F16 (CD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## A dining spot of renown
 
@@ -62,7 +67,7 @@ The three brothers, Aukhan "Flintfinder" Thuliaga, Manneo "Keeneye" Thuliaga, an
 
 The Aerie is always filled to at least 80% capacity with revelers. The clientele on any moment is likely to consist of 45% visitors to Haven, 35% local nobility, 15% local guilders, and 5% other ("Ah bin savin fo dis fo sigs jeers, an…").
 
-There is a 12% chance 1d100 that a disturbance will occur on any given evening (the combatants in such a brouhaha can be freshly designed by the GM, or they may be drawn from the cast of NPCs described earlier in this section).
+There is a 12% chance  that a disturbance will occur on any given evening (the combatants in such a brouhaha can be freshly designed by the GM, or they may be drawn from the cast of NPCs described earlier in this section).
 
 ## NPC Encounters
 
@@ -72,95 +77,9 @@ There is a 12% chance 1d100 that a disturbance will occur on any given evening (
 
 Meals with drinks will cost from 30gp up per person. Massage services are 10gp, with additional arrangements up to the parties involved.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Restaurant (Dining)**
-
- **Owner:**  Joffa the Barakite
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   F16 (CD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/joffa-the-barakite|Joffa the Barakite]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f24b8234-a53d-47df-84dd-26adc048a141<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-shop,type-restaurant,guild-of-the-hearth-location,restaurant
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

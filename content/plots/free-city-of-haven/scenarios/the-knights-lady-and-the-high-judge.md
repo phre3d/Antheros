@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, plot]
+tags: [Plot/Free-City-of-Haven/scenario]
 title: "The Knight's Lady and The High Judge"
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # The Knight's Lady and The High Judge

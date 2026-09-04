@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3225.187, 3626.531]
 mapmarker: Shopping
 title: "Hamilton's Hockshop"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Hamilton's Hockshop

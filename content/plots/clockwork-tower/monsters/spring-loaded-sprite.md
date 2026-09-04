@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Spellcasting
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Spring-Loaded Sprite
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Spring-Loaded Sprite
-Tiny construct unaligned
+
+>[!info] Image
+>![[plots/clockwork-tower/images/spring-loaded-sprite.jpg]]
+
+*Tiny construct, unaligned*
 
 **Armour Class:** 13<br>
 **Hit Points:** 7 [roll:2d4 + 2]<br>
@@ -33,20 +33,10 @@ Tiny construct unaligned
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/spring-loaded-sprite.jpg]]
-
-```
-````
-
----
 
 # Spellcasting
 
-### Innate Spellcasting
+## Innate Spellcasting
 
  The sprite''s innate spellcasting ability is Intelligence (spell save DC 10).
 
@@ -54,29 +44,23 @@ Tiny construct unaligned
 
 **Mending**  (no mats required)
 
-![[~attachments/dndline.png]]
-
 # Special Abilities
 
-### Immutable Form
+## Immutable Form
 
  The Spring-Loaded Sprite is immune to any spell or effect that would alter its form.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Dagger
+## Dagger
 
   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  5  piercing damage.
 
-### Repair
+## Repair
 
  The sprite touches a construct and restores 6  hit points to it. This ability has no effect on creatures of the living (non-construct) type.
-
-![[~attachments/dndline.png]]
 
 # Description
 

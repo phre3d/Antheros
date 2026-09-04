@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Sharpness, Minor
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Sharpness, Minor
@@ -29,14 +29,14 @@ The coated item is magical and has a a bonus to attack and damage rolls of +2.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium grease|Lithium grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium grease]]<br>
 **Essence(s):**   Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -51,4 +51,3 @@ The coated item is magical and has a a bonus to attack and damage rolls of +2.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

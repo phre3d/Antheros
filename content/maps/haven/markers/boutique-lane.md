@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2396.939, 6192.534]
 mapmarker: Landmark
 title: Boutique Lane
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Boutique Lane
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:42 pm
 
 **Map Ref:** Map Ref.: H20 (SH)
 
-**Location:** [[landmarks/boutique-lane|Boutique Lane]]<br>
+**Location:** [[settlements/haven/the-heights/boutique-lane|Boutique Lane]]<br>
 **Location Type:** Street
 
 **Description**<br>

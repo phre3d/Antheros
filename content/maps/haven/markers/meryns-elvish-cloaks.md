@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3749.677, 4627.551]
 mapmarker: Shopping
 title: "Meryn's Elvish Cloaks"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Meryn's Elvish Cloaks

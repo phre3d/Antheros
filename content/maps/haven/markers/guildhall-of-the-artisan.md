@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [4238.776, 5171.105]
 mapmarker: Guild
 title: Guildhall of the Artisan
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Guildhall of the Artisan

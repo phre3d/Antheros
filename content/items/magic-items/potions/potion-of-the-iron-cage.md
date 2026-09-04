@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Iron Cage
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Iron Cage
@@ -31,14 +31,14 @@ After too many deals were stolen from under her, a powerful merchant commissione
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ After too many deals were stolen from under her, a powerful merchant commissione
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

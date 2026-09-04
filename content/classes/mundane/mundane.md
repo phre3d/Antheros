@@ -1,59 +1,54 @@
 ---
 aliases: []
-tags: [class, class/Mundane]
+tags: [Class, Class/mundane]
 title: Mundane
-date modified: 2026-07-16, 9:19:04 pm
+date modified: 2026-08-17, 12:46:32 pm
 ---
 
 # Mundane
 
-*Source:* Homebrew
+>[!info]
+>**Hit Dice:** d6<br>
+>
+>**Hit Points @ 1st Level:** 1d6 <br>
+>
+>**Hit Points @ Higher Levels:** additional d6 at Level 5, 10<br>
+>
+>**Armour Proficiencies:**  none<br>
+>
+>**Weapon Proficiencies:**  none<br>
+>
+>**Tools:** none <br>
+>
+>**Saving Throws:** none <br>
+>
+>**Skills:**  none<br>
+>
+>**Starting Equipment:** none
+>
+>**Source:** Homebrew
 
 Also referred to as "commoner" in the sense that they aren't adventurers. These are the average people ones meets in a campaign that don't have a formal character class.
 
----
-
-**Hit Dice:** d6<br>
-**Hit Points @ 1st Level:** 1d6 <br>
-**Hit Points @ Higher Levels:** additional d6 at Level 5, 10<br>
-**Armour Proficiencies:**  none<br>
-**Weapon Proficiencies:**  none<br>
-**Tools:** none <br>
-**Saving Throws:** none <br>
-**Skills:**  none<br>
-**Starting Equipment:** none
-
----
-
-## Class Features
+# Class Features
 
 **Role.** At 2nd level (normally reached at puberty),  a Mandane will focus on developing a role in society. Often this will be based on a parent or guardian, but may also take a different direction.
 
----
+# Roles (Subclass)
 
-## Roles (Subclass)
-
->[!subclass]- Clerk
 >![[classes/mundane/role-clerk]]
-
->[!subclass]- Entertainer
+<br><br><br>
 >![[classes/mundane/role-entertainer]]
-
->[!subclass]- Labourer
+<br><br><br>
 >![[classes/mundane/role-labourer]]
-
->[!subclass]- Merchant
+<br><br><br>
 >![[classes/mundane/role-merchant]]
-
->[!subclass]- Noble
+<br><br><br>
 >![[classes/mundane/role-nobility]]
-
->[!subclass]- Scholar
+<br><br><br>
 >![[classes/mundane/role-scholar]]
 
----
-
-## Table Data
+# Table Data
 
 | Level  | Hit Dice  | Features  |
 |:-:|:-:|---|

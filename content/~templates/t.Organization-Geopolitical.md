@@ -1,132 +1,84 @@
-#organization/geopolitical
+---
+aliases: []
+tags: [Organization/geopolitical]
+title:
+date modified: 2026-08-08, 3:15:09 pm
+---
+
+# ///org name///
+
 >[!info]
 ># Common Information
->**Type:** 
+>**Type:**
 >
->**Alternate Names:** 
+>**Alternate Names:**
 >
->**Motto/Slogan**: 
+>**Motto/Slogan**:
 >
->**Demonym:** 
+>**Demonym:**
 >
->**Capital:** 
+>**Capital:**
 >
->**Economic System:** 
+>**Economic System:**
 >
->**Official State Religion:** 
+>**Official State Religion:**
 >
 >**Recognized/Official Languages:**
 >
 >**Parent Organization:**
 >
 ># Leadership
->**Leader:** 
+>**Leader:**
 >
->**Leader Title:** 
+>**Leader Title:**
 >
->**Ruling Organization:** 
+>**Ruling Organization:**
 >
->**Power Structure System:** 
+>**Power Structure System:**
 >
->**Government System:** 
+>**Government System:**
 >
->**Head of State:** 
+>**Head of State:**
 >
->**Head of Government:** 
+>**Head of Government:**
 
 
-# Title
+***Tagline***
 
-
-
-
-
+# Description
 
 ## Gazetteer
 
-
-
-
 ## Currency
-
-
 
 ## Legislative Body
 
-
-
-
 ## Judicial Body
-
-
-
 
 ## Executive Body
 
-
-
-
 ## Demography & Population
-
-
-
 
 ## Foreign Relations
 
-
-
 ## Laws
-
-
-
 
 ## Territory
 
-
-
-
 ## Military
-
-
-
 
 ## Religion
 
-
-
-
 ## Agriculture & Industry
-
-
-
 
 ## Trade & Transport
 
-
-
 ## Exports
-
-
-
 
 ## Imports
 
-
-
-
 ## Education
-
-
-
 
 ## Infrastructure
 
-
-
-
 ## Technological & Scientific Level
-
-
-
-
-

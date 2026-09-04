@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, monster, statblock, the-city-watch]
+tags: [Monster, Plot/The-City-Watch, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col
@@ -55,6 +55,7 @@ Large construct unaligned
 **Multiattack.**  The armor makes two melee attacks.    **Slam**
 
     *Melee Attack:*  +4 to hit , reach 5 ft ., one target.  
+
   *Hit:*   or 5 bludgeoning damage.
 
 ![[~attachments/dndline.png]]

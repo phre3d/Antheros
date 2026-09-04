@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Giant Strength, Cloud
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Giant Strength, Cloud
@@ -27,14 +27,14 @@ When you drink this potion, your Strength score changes to 27. The potion has no
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Cloud Giant fingernail
@@ -49,4 +49,3 @@ When you drink this potion, your Strength score changes to 27. The potion has no
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

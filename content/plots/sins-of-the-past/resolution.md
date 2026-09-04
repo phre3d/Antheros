@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, plot, plot/Sins_of_the_Past]
+tags: [Plot, Plot/Sins-of-the-Past]
 title: Resolution
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Resolution

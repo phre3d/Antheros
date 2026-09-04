@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, material, potion-base]
+tags: [Material, Material/potion-base]
 title: Aluminum Grease
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Aluminum Grease
@@ -12,7 +12,7 @@ date modified: 2026-07-16, 9:18:38 pm
 flexGrow=2.5
 ===
 # Description
-A silvery paste prepared by [[profession/alchemist|Alchemists]], used to lubricate machinery and as a base in making  *very rare*  magical potions.
+A silvery paste prepared by [[professions/alchemist|alchemists]], used to lubricate machinery and as a base in making  *very rare*  magical potions.
 
 ---
 
@@ -26,7 +26,7 @@ A silvery paste prepared by [[profession/alchemist|Alchemists]], used to lubrica
 ## Geology/Geography
 
 ## Origin
-Made by [[profession/alchemist|Alchemists]]
+Made by [[professions/alchemist|Alchemists]]
 
 ## Half Life / Deterioration / Expiration
 
@@ -38,7 +38,7 @@ Made by [[profession/alchemist|Alchemists]]
 ## Discovery
 
 ## Common Use
-Used by [[profession/herbalist|Herbalists]] as a base for making  *very rare*  potions.
+Used by [[professions/herbalist|Herbalists]] as a base for making  *very rare*  potions.
 
 ## Cultural Significance and Usage
 
@@ -90,7 +90,7 @@ Used by [[profession/herbalist|Herbalists]] as a base for making  *very rare*  p
 **Related Technologies**
 
 **Related Professions**
-<br>- [[profession/herbalist|Herbalist]]<br>- [[profession/alchemist|Alchemist]]<br>
+<br>- [[professions/herbalist|Herbalist]]<br>- [[professions/alchemist|Alchemist]]<br>
 
 ---
 

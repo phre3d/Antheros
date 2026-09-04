@@ -1,118 +1,37 @@
 ---
 aliases: []
-tags: [cat-transportation, Free_City_of_Haven, guild/drayers, import, landmark, the-horse-market, transportation, type-taxi-bus]
+tags: [Haven/south-corridor/horse-market, Organization/professional/guild-of-drayers, Plot/Free-City-of-Haven]
 title: Cab and Trolley Barns
-date modified: 2026-07-16, 9:18:57 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Cab and Trolley Barns
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Taxi/Bus (Service) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/horse-market|Horse Market]] <br>
+>**Grid (Key) Ref.:**    D08 (PI)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Transportation hub  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Resting place for the night
+***Resting place for the night***
 
 ## Description
 
 There are several buildings comprising the barns for the cabs and trolleys. All are without walls, simply providing weather protection for the numerous vehicles of the centaur operation. The chief superintendent of the lines, Adonaios Swiftfoot, has a small office where the record books are kept. This area is the only walled section in the area, and is thus rather easy to find - interviewees (centaurs only - few humanoids have the strength to pull a trolley) will usually (80% chance) find him there from 6am to 4pm daily.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Taxi/Bus (Service)**
-
- **Owner:**  
-
- **District:**  Horse Market
-
- **Grid (Key) Ref.:**   D08 (PI)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Transportation hub
-
-**Parent Location:**
-
-[[settlements/horse-market|Horse Market]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 1fed356b-9b31-44aa-a201-f4a622c1157c<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Horse Market<br>
-**Tags:** fcoh,the-horse-market-location,cat-transportation,type-taxi/bus,guild-of-drayers-location,transportation
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Morning Star Grenade
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Morning Star Grenade
@@ -29,14 +29,14 @@ Additionally, the gas ignites violently on contact with an open flame, and each 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Oil of Vitriol|Oil of Vitriol]]<br>
+**Base:** [[materials/spirit-of-vitriol|Oil of Vitriol]]<br>
 **Essence(s):** Air    Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -51,4 +51,3 @@ Additionally, the gas ignites violently on contact with an open flame, and each 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

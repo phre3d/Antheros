@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Hairy Warmth
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Hairy Warmth
@@ -31,14 +31,14 @@ Created by an explorer of the cold regions, this potion helps keep you warm.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:** Clump of fur from an arctic beast
@@ -53,4 +53,3 @@ Created by an explorer of the cold regions, this potion helps keep you warm.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

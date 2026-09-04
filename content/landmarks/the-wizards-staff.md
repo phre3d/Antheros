@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, erinhir, Free_City_of_Haven, guild/hearth, import, inn, landmark, type-inn]
+tags: [Haven/outlands/erinhir, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/inn]
 title: "The Wizards' Staff"
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Wizards' Staff
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Inn (Inns & Taverns) <br>
+>**Owner:**  [[people/humbrey-staffcarver|Humbrey Staffcarver]] <br>
+>**District:** [[settlements/haven/the-outlands/erinhir|Erinhir]] <br>
+>**Grid (Key) Ref.:**    I10 (JH)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Inn  <br>
 
 ## A wayfarers' inn
 
@@ -46,7 +51,7 @@ Rooms vary in quality as far as cleanliness and privacy are concerned: (d10) 1-2
 
 ## Cash Box
 
-The clerk's desk has a steel box with a Complexity 1 lock on it. A rune of Invisibility is on the box, as well as a rune of Clamor (which will wail louder than a banshee if the box is mishandled). It contains 1d10 x 1020gp in assorted coins.
+The clerk's desk has a steel box with a Complexity 1 lock on it. A rune of Invisibility is on the box, as well as a rune of Clamor (which will wail louder than a banshee if the box is mishandled). It contains  x 1020gp in assorted coins.
 
 ## Staff
 
@@ -54,97 +59,11 @@ Humbrey rarely is seen on the premises of the inn, he spends most of his time in
 
 ## Customers
 
-The inn is rarely full of guests and will accept any who have wandered into the city. The majority of the customers are farmers of either halfling or [[races/human|Human]], or travelers who have just come to Haven and need a place to stay.
+The inn is rarely full of guests and will accept any who have wandered into the city. The majority of the customers are farmers (either halfling or [[races/human|human]]), or travelers who have just come to Haven and need a place to stay.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Inn (Inns & Taverns)**
-
- **Owner:**  Humbrey Staffcarver
-
- **District:**  Erinhir
-
- **Grid (Key) Ref.:**   I10 (JH)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Inn
-
-**Parent Location:**
-
-[[settlements/erinhir|Erinhir]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/humbrey-staffcarver|Humbrey Staffcarver]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 865aa386-9c58-44d6-b4f6-72272bd341a3<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Erinhir<br>
-**Tags:** fcoh,erinhir-location,cat-shop,type-inn,guild-of-the-hearth-location,inn
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

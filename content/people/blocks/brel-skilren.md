@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, plot/Sins_of_the_Past, statblock]
+tags: [Person, Person/npc, Plot/Sins-of-the-Past, statblock]
 title: Brel Skilren
-date modified: 2026-07-16, 9:18:34 pm
+date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Brel Skilren
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Half Elf<br>
 **Profession:** City Guard<br>
 **Challenge Rating:** 1 (100xp)<br>
@@ -22,16 +19,15 @@ flexGrow=2
 **Hit Points:** 9 [roll:2d8+2]<br>
 **Movement:** 30
 
-![[dndline.png]]
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 16 (+3) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 11 (+0) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength, Constitution<br>
-**Languages:** Common, Dwarvish<br>**Challenge:** 1 (100xp) / (XP)<br>**Senses:** passive Perception 12<br>**Skills:** Athletics, Investigation
+**Languages:** Common, Dwarvish<br>
+**Challenge:** 1 (100xp) / (XP)<br>
+**Senses:** passive Perception 12<br>
+**Skills:** Athletics, Investigation
 
 ```
 
@@ -41,15 +37,16 @@ flexGrow=2
 
 
 ```
+
 ````
 
-![[dndline.png]]
+
 
 # Description
 
 Young City Watch sergeant responsible for the City of the Dead. He started as a regular soldier at the South Docks and transferred to the Noble''s Way Station.  He was recently promoted to sergeant and assigned to City of the Dead. He was hoping that work in the park would be easier but slowly learns that guarding the City of the Dead presents its own unique challenges.
 
-![[dndline.png]]
+
 
 # Actions
 

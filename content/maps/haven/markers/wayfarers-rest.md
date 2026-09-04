@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1626.531, 4262.942]
 mapmarker: Inns & Taverns
 title: Wayfarers Rest
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Wayfarers Rest

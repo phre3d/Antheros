@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2494.574, 6246.939]
 mapmarker: Service
 title: Culvarran Ltd. - Storage
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Culvarran Ltd. - Storage
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:42 pm
 
 **Map Ref:** Map Ref.: U08 (BI)
 
-**Location:** [[landmarks/culvarran-ltd.-storage|Culvarran Ltd. - Storage]]<br>
+**Location:** [[landmarks/culvarran-ltd-storage|culvarran-ltd-storage]]<br>
 **Location Type:** Warehouse
 
 **Description**<br>

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Red Cross
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Red Cross
@@ -31,14 +31,14 @@ This potion was developed by an alchemist at the behest of a mining operation wh
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Base:** [[/materials/aqua-regia|Aqua Regia]]<br>
 **Essence(s):**   Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ This potion was developed by an alchemist at the behest of a mining operation wh
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

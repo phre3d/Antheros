@@ -1,17 +1,14 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+tags: [Person, Person/npc, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Jon Callion
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Jon Callion
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
 Jon Callion is a male human knight (LE). He is a good-looking man in his late thirties, with brown side-swept hair, neatly trimmed sideburns, and a perfectly straight nose. Like [[plots/murder-at-the-old-wolf-inn/npcs/kara-tanner|Kara Tanner]], Jon wears a Winterhold Guards' uniform with a cornflower-blue cloak, shining breastplate armour, and well-polished riding boots. He is naturally serious and sombre, but he can also be charming and helpful, and tends to win people's confidence. 
 
 The Winterhold Guards recently recruited Jon, and he has risen in rank quickly. While Kara technically is the patrol's second in command after [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna]], Jon swiftly became Artemis's favourite.
@@ -67,25 +64,9 @@ If [[plots/murder-at-the-old-wolf-inn/npcs/cael-thraelive|Cael Thraelive]] admit
 
 Jon will also add that Hugo has been acting very nervously, and that the local merchants are known to be involved in smuggling and sometimes illegally trade in poisons.
 
-````
-````col-md
-![[plots/murder-at-the-old-wolf-inn/images/jon.png]]
-
-````
-`````
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer" class="internal-link">Inga Broadhammer</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/npcs/kara-tanner" class="internal-link">Kara Tanner</a> →</span>
+</div>

@@ -1,13 +1,49 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, plot]
+date modified: 2026-08-26, 2:30:58 pm
+tags: [Plot, Plot/Mimic-Mayhem]
 title: The Stable
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 ![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]  
 
 # The Stable
+
+>[!info]
+>![[plots/mimic-mayhem/images/stable-dm-map.jpg]]
+>
+>---
+>
+>![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
+>
+>---
+>
+>**<center>NPCs present</center>**
+>1.  *Dax Ironhide*, male, half-elf, scale mail that shimmer like polished silver.
+>2.  *Selene Nightwalker*, female, human, old and thin with white hair to her knees.
+>3.  *Zebron Toppilshop*, male, gnome, wears golden jewelry and has gold teeth.
+>4.  *Mungus Broadback*, male, human, towering figure with a surprisingly gentle voice.
+>5.  *Iridessa Lightwing*, female, high elf, ethereal beauty and soft voice.
+>6.  *Fargrim Frostbeard*, male, dwarf, white beard knotted into little spikes.
+>7.  *Lendle Pickles*, 8-year-old boy, who can’t find his parents.
+>
+>---
+>
+>**<center>Intestinal Fortitude Check 2</center>**<br>
+>Everyone must make a check unless they somehow avoided eating, in which case they might deserve a level of Exhaustion from starvation.
+>*Roll a Constitution saving throw versus poison with a DC of 14.*
+>
+>*Natural 20:* The character has no gas at the moment and can now happily eat the inn’s food without worries of getting ill.
+>
+>*Passing the 14 DC:* The character needs to fart. The GM might award inspiration for roleplaying this well.
+>
+>*Failing the 14 DC:* The character needs to use the restroom immediately. They have the poisoned condition until they relieve their bowels.
+>
+>*Natural 1:* They gain the Poisoned condition plus a sudden and urgent case of diarrhea. Every ten minutes the character can make a new Intestinal Fortitude check, experiencing another urgent bout of diarrhea on a failure, or removal of all sickness and the Poisoned condition on a success.
+>
+>**Magical Healing:**<br>
+>*Lesser Restoration* removes the Poisoned condition until the character makes their next check. <br>
+>*Protection from Poison* and *Heal* will each remove the Poisoned condition and all need for future checks until they eat again.
 
 Regardless of how the PCs exit the inn, they will find themselves at the stable next and immediately get sucked into the drama unfolding there.
 
@@ -20,7 +56,7 @@ Regardless of how the PCs exit the inn, they will find themselves at the stable 
 >
 >“My parents are gone!” cries the boy.
 
-## Time for another Intestinal Fortitude check!
+## Time for another Intestinal Fortitude check
 
 Before the players can react, make them roll their next Intestinal Fortitude check. There is an outhouse here. It is a real outhouse but you should play it up as if it is possibly not. For example, “It looks like an ordinary outhouse. Do you just walk right up to it? How do you open the door?”
 
@@ -64,7 +100,7 @@ Show your players the “before” image of the Stable (pictured on the followin
 This fight involves 4 enemies:
 
 - *Haystack Mimic* (Large Mimic)
-- *Donkey Cart Mimic* (Large Mimic)
+- *Donkey Cart Mimic* (Large Mimic)<u></u>
 - *Stable Post Mimic* (Medium Mimic)
 - *Baby Mimic Swarms*
 
@@ -80,68 +116,17 @@ Until they are engaged in melee, the mimics will use their Spit attacks, hoping 
 
 The other travelers have watched the fight from the doorway and will now accept that mimics exist.
 
-There is a small crevice at the back of the stable leading into the cliff. It is just big enough for a rat to squeeze through. If they investigate it deeply they will find a vast network of fissures in the mountain filled with hundreds of rats. This indicates that the rats have not been eliminated, but are likely just hiding from the mimics. If the mimics can be exterminated, the rats will return.
+There is <u>a small crevice at the back of the stable</u> leading into the cliff. It is just big enough for a rat to squeeze through. If they investigate it deeply <u>they will find a vast network of fissures in the mountain filled with hundreds of rats.</u> This indicates that the rats have not been eliminated, but are likely just hiding from the mimics. If the mimics can be exterminated, the rats will return.
 
-Evidence can be found of Lendle’s parents who have been eaten by the mimics. This leaves Lendle orphaned, except for his Granny, the inn’s cook.
+<u>Evidence can be found of Lendle’s parents who have been eaten by the mimics.</u> This leaves Lendle orphaned, except for his Granny, the inn’s cook.
 
 The goods being transported by the other caravan, most of which are ruined, include spilled spices, tangled prayer beads, and shattered snow globes. The merchants converge on their spoiled goods and curse the mimics for ruining them financially.
 
 Upon exiting the stable, [[plots/mimic-mayhem/the-alley|a new scene unfolds...]]
 
->[!infobox]
->![[plots/mimic-mayhem/images/stable-dm-map.jpg]]
->
->---
->
->![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
->
->---
->
->**<center>NPCs present</center>**
->1.  *Dax Ironhide*, male, half-elf, scale mail that shimmer like polished silver.
->2.  *Selene Nightwalker*, female, human, old and thin with white hair to her knees.
->3.  *Zebron Toppilshop*, male, gnome, wears golden jewelry and has gold teeth.
->4.  *Mungus Broadback*, male, human, towering figure with a surprisingly gentle voice.
->5.  *Iridessa Lightwing*, female, high elf, ethereal beauty and soft voice.
->6.  *Fargrim Frostbeard*, male, dwarf, white beard knotted into little spikes.
->7.  *Lendle Pickles*, 8-year-old boy, who can’t find his parents.
->
->---
->
->**<center>Intestinal Fortitude Check 2</center>**<br>
->Everyone must make a check unless they somehow avoided eating, in which case they might deserve a level of Exhaustion from starvation.
->*Roll a Constitution saving throw versus poison with a DC of 14.*
->
->*Natural 20:* The character has no gas at the moment and can now happily eat the inn’s food without worries of getting ill.
->
->*Passing the 14 DC:* The character needs to fart. The GM might award inspiration for roleplaying this well.
->
->*Failing the 14 DC:* The character needs to use the restroom immediately. They have the poisoned condition until they relieve their bowels.
->
->*Natural 1:* They gain the Poisoned condition plus a sudden and urgent case of diarrhea. Every ten minutes the character can make a new Intestinal Fortitude check, experiencing another urgent bout of diarrhea on a failure, or removal of all sickness and the Poisoned condition on a success.
->
->**Magical Healing:**<br>
->*Lesser Restoration* removes the Poisoned condition until the character makes their next check. <br>
->*Protection from Poison* and *Heal* will each remove the Poisoned condition and all need for future checks until they eat again.
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/mimic-mayhem/the-leisure-room|The Leisure Room]]
-
---- end-column ---
-
-Next: [[plots/mimic-mayhem/the-alley|The Alley]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/mimic-mayhem/the-leisure-room" class="internal-link">The Leisure Room</a></span>
+  <span class="nav-next">Next: <a href="plots/mimic-mayhem/the-alley" class="internal-link">The Alley</a> →</span>
+</div>

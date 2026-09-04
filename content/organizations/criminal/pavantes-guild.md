@@ -1,13 +1,17 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, organization/criminal, import, organization, pavantes-guild]
+tags: [Plot/Free-City-of-Haven, Organization, Organization/criminal, Organization/criminal/pavantes-guild]
 title: "Pavante's Guild"
-date modified: 2026-07-16, 9:18:37 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Pavante's Guild
-
-[[people/lucius-pavante|Lucius Pavante]], the head of a small law firm in [[settlements/the-north-corridor|The North Corridor]], is the master of [[organizations/criminal/the-black-hand|The Black Hand's]] guild that controls gambling, loansharking, and protection racketeering. He is a dark headed man of better than average height, who usually dresses well and fancies himself a gourmet. His operation is small, consisting of only some twenty men, but is responsible for far more than its share of total Black Hand revenues.
+>[!info]
+>**Type:** Guild, Thieves<br>
+>**Parent Organization:** [[organizations/criminal/the-black-hand|The Black Hand]]<br>
+>**Leader:** [[people/lucius-pavante|Lucius Pavante]]
+>
+[[people/lucius-pavante|Lucius Pavante]], the head of a small law firm in [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]], is the master of [[organizations/criminal/the-black-hand|The Black Hand's]] guild that controls gambling, loansharking, and protection racketeering. He is a dark headed man of better than average height, who usually dresses well and fancies himself a gourmet. His operation is small, consisting of only some twenty men, but is responsible for far more than its share of total Black Hand revenues.
 
 One of his men, a mid-level clerk at the [[landmarks/house-of-rand|House of Rand]], serves as the treasurer for Pavante's guild, and maintains an account there that some of the other guilds, particularly [[people/angelina|Angelina]]'s, draw upon from time to time. Another at the law office, maintains records for loan sharking and protection rackets, which are kept in a locked file in Pavante's personal office.
 

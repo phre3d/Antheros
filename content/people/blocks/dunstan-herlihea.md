@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Dunstan Herlihea
-date modified: 2026-07-16, 9:18:33 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Dunstan Herlihea
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** <br>
 **Profession:** Merchant/4th<br>
 **Challenge Rating:** 8<br>
@@ -20,30 +17,19 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 14 - None<br>
 **Hit Points:** 30<br>
-**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 14 (+2) | 10 (+0) | 12 (+1) | 15 (+2) | 10 (+0) | 12 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Charisma | Intelligence<br>
-**Damage Resistances:** Poison<br>**Condition Immunities:** Adv. Vs. Fear<br>**Languages:** Halfling | Common<br>**Challenge:** 8 / (XP)<br>**Senses:** <br>**Skills:** Lucky | Halfling Nimbleness
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Poison<br>
+**Condition Immunities:** Adv. Vs. Fear<br>
+**Languages:** Halfling | Common<br>
+**Challenge:** 8 / (XP)<br>
+**Senses:** <br>
+**Skills:** Lucky | Halfling Nimbleness
 
 # Actions
 

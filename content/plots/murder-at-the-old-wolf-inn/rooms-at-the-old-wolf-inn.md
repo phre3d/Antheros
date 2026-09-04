@@ -1,22 +1,28 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Rooms at the Old Wolf Inn
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Rooms at the Old Wolf Inn
 
-::::: {.columns id=Main}
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
+>
+>---
+>
+>![[plots/murder-at-the-old-wolf-inn/maps/owi-ground-floor.jpg]]
+>
+>---
+>
+>![[plots/murder-at-the-old-wolf-inn/maps/owi-upstairs.jpg]]
+>
+>---
+>
+>![[plots/murder-at-the-old-wolf-inn/maps/owi-basement.jpg]]
 
 # Outline
 
@@ -40,7 +46,7 @@ Oxgate is situated on the road in a narrow gorge. The surrounding mountains are 
 
 More than one shady merchant with dubious morals has decided to risk circumnavigating Oxgate to avoid paying the toll and additional taxes. These merchants regularly make use of local smugglers. One of the smuggling bands is led by Emirys Shadowdusk, who operates in the area around Oxgate and uses the Old Wolf Inn to store contraband in a hidden room in the basement.
 
-![[~attachments/dndline.png]]
+
 
 # ground floor  
 
@@ -88,7 +94,7 @@ Inside the outhouse is a practical compost toilet with a wooden lid, a basket wi
 
 The outhouse's ceiling was recently replaced by Inga, but the furious storm is doing its best to rip it off.
 
-![[~attachments/dndline.png]]
+
 
 # the stables
 
@@ -138,7 +144,6 @@ This room contains a range of saddles, bridles, harnesses, blankets, and other e
 
  **--> On a closer look, DC 8 Wisdom (Insight):**  You have a strong feeling that “William the Bard” isn't telling the whole truth. In fact, every other word that passes his lips rings false!
 
-![[~attachments/dndline.png]]
 
 # top floor  
 
@@ -278,11 +283,11 @@ The steel box is locked with a complicated gnomish lock that required a successf
 
  **--> On a closer look, DC 16 Intelligence (Investigation):** You study the foldable travel shrine. It is a triptych made in gold-painted wood featuring a depiction of the god of duty riding to battle on his golden dragon.  The symbol of the deity, a metal gauntlet, graces the top of the shrine. However, as you turn the shrine around, you find a small, inconspicuous latch that secures a pair of hidden doors. If the inner doors are opened, they reveal an exquisitely and disturbingly detailed carving of a gory scene, which portrays the demonic god Baal in the process of enslaving the world and punishing his adversaries.
 
-#### peculiar insights
+### peculiar insights
 
 If the characters start to search the room, let everyone make a DC 14 Wisdom (Insight) check. Characters who succeed realise that although Cael claims to be a mage and a scholar, there is a distinct lack of books and tomes in the room except for the assorted books on the shelves, which clearly belong to the inn.
 
-#### trap
+### trap
 
 The *steel box in the backpack is trapped* with an enchantment that strikes potential thieves or snooping busybodies with a lightning bolt. A creature that attempts to open the box or pick its lock without speaking the correct password out loud must make a *DC 14 Dexterity saving throw*, taking 2d8 lightning damage on a failed save, or half as much on a successful one.
 
@@ -322,7 +327,6 @@ You also find that one of the cooking books has been used frequently. As you fli
 
 The gold is the last of the money from Inga's adventuring days, and the apple brandy recipe is a closely guarded family secret. The section about frog leaves in the cooking book prompted Inga to use these for poisoning [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna's]] food, in the hope that he would avoid staying at the Old Wolf Inn in the future.
 
-![[~attachments/dndline.png]]
 
 # basement
 
@@ -372,31 +376,9 @@ This room contains a long wooden tub filled with water, diluted lye, and pine so
 
 Inga uses this room for laundering the inn's bed linen, tablecloths, the clothes of her guests, and other items. The wooden tub is used for soaking particularly dirty textiles.
 
-::: columnbreak  
-:::
-
-![[plots/murder-at-the-old-wolf-inn/table-of-contents|Table of Contents]]
-
-![[~attachments/dndline.png]]
-
-![[plots/murder-at-the-old-wolf-inn/maps/owi-ground-floor.jpg]]
-
-![[plots/murder-at-the-old-wolf-inn/maps/owi-upstairs.jpg]]
-
-![[plots/murder-at-the-old-wolf-inn/maps/owi-basement.jpg]]
-
-:::
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-Previous: [[plots/murder-at-the-old-wolf-inn/the-crime-scene|The Crime Scene]]
-```
-
-```col-md
-textAlign=right
-===
-Next: [[plots/murder-at-the-old-wolf-inn/unfolding-the-mystery|Unfolding the Mystery]]
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="[[plots/murder-at-the-old-wolf-inn/the-crime-scene]]" class="internal-link">The Crime Scene</a></span>
+  <span class="nav-next">Next: <a href="[[plots/murder-at-the-old-wolf-inn/unfolding-the-mystery]]" class="internal-link">Unfolding the Mystery</a> →</span>
+</div>

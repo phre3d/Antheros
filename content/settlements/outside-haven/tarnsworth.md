@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Howling-in-the-Woods, import, settlement]
+tags: [Plot/Howling-in-the-Woods, Settlement/tarnsworth]
 title: Tarnsworth
-date modified: 2026-07-16, 9:18:09 pm
+date modified: 2026-08-17, 12:45:53 pm
 ---
 
 # Tarnsworth
@@ -18,7 +18,7 @@ shadow: off
 
 # Description
 
-A small village on the [[locations/carlemere-river|Carlemere River]] about a day upstream from the [[locations/dorian-river|Dorian River]].
+A small village on the [[geography/carlemere-river|Carlemere River]] about a day upstream from the [[geography/dorian-river|Dorian River]].
 
 ## People of Interest
 
@@ -91,7 +91,7 @@ A small village on the [[locations/carlemere-river|Carlemere River]] about a day
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Id:** 74a3017c-0245-4f4d-92f8-8a894bf9261b<br>
 **Entity Type:** Article / settlement<br>

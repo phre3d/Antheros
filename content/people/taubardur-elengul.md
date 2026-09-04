@@ -1,232 +1,111 @@
 ---
 aliases: []
-tags: [elengul-family, erinhir, Free_City_of_Haven, import, npc, person]
+tags: [Organization/family/elengul-family, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/outlands/erinhir]
 title: Taubardur Elengul
-date modified: 2026-07-16, 9:18:19 pm
+date modified: 2026-08-20, 8:03:25 pm
 ---
 
 # Taubardur Elengul
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  590
+>
+>
+> **Class/Profession:**  Fighter 5th
+>
+>
+> **Places Encountered**
+>- [[landmarks/tarmialda-the-loft|Tarmialda 'The Loft']]
+>- [[settlements/haven/the-outlands/erinhir|Erinhir]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  [[organizations/families/elengul-family | Elengul Family]] <br>
+>**Race:**  [[/races/elf|Elven]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**  75 <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Elvish | Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-outlands/erinhir| Erinhir]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Taubardur  Elengul
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Taubardur (Taub to his friends) is young, only 75, and frequently shows his youth in the outbursts of energy for which young elves are noted. He helps out at his father's restraunt doing verious jobs as necessary. 
 
- He is enamored of [[person/adrielle-ilorim|Adrielle Ilorim]], and is making suit for her hand through her family. 
+Taubardur (Taub to his friends) is young, only 75, and frequently shows his youth in the outbursts of energy for which young elves are noted. He helps out at his father's restraunt doing verious jobs as necessary.
+
+ He is enamored of [[people/adrielle-ilorim|Adrielle Ilorim]], and is making suit for her hand through her family.
 
  [familytree:4bf38b25-3671-441b-ad91-c557b6c61c3f]
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|[[person/skorindir-elengul\|Skorindir Elengul]]<br> | <br> |
+***Biological:***
+
+ [[people/skorindir-elengul | Skorindir Elengul]],  
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/taubardur-elengul-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/taubardur-elengul-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/taubardur-elengul-person)
 
-````
-````col-md
-
-
-**ID #**  590
-
-
- **Class/Profession:**  Fighter 5th
-
-
- **Places Encountered** 
-- [[landmark/tarmialda-the-loft|Tarmialda 'The Loft']]
-- [[settlement/erinhir|Erinhir]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** [[organization/elengul-family|Elengul Family]]<br>
-**Race:** [[race/elven-race|Elven Race]]<br>
-
-
-#### Birth
-**Age:**  75<br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Elvish | Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[settlement/erinhir|Erinhir]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/taubardur-elengul]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

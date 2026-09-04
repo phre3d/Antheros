@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2328.248, 2405.102]
 mapmarker: Service
-title: Sundance - Inc.
-date modified: 2026-07-16, 9:18:40 pm
+title: Sundance - Inc
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
-# Sundance - Inc.
+# Sundance - Inc
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
 
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: H07 (MV)
 
-**Location:** [[landmarks/sundance-inc.|Sundance - Inc.]]<br>
+**Location:** [[landmarks/sundance-inc|Sundance - Inc.]]<br>
 **Location Type:** Dance
 
 **Description**<br>

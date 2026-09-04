@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, import, monster, statblock]
+tags: [Monster, Plot/Goblin-Trouble, statblock]
 title: Actions
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 ````col
@@ -48,13 +48,13 @@ Medium undead  lawful evil
 
 # Actions
 
-### Shortsword.
+## Shortsword
 
   **Melee weapon attack.**   to hit, reach 5 feet, one target.
 
   **Hit:**  5  piercing damage.  
 
-### Shortbow.
+## Shortbow
 
   **Ranged weapon attack.**   to hit, range 80 feet, one target.
 

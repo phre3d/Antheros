@@ -1,37 +1,42 @@
 ---
 aliases: []
-tags: [essence-water-plant, flora, import]
-title: Dragontears
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/water]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Dragontears
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-This rare, small, translucent succulent grows primarily in the low desert.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 52 gp  <br>
+>**Rarity:** Very Rare <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+This rare, small, translucent succulent grows primarily in the low desert. 
 
 # Natural Range
+
 Desert
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 When crushed, it exudes a sweet, milky white substance with numbing properties. 
 
 Properly prepared, determined by succeeding on an Intelligence (Nature) check (DC 15), Dragontear unguent promotes rapid healing, healing for 3d8 hit points and preventing scarring on successful application. 
 
 The unguent can be fatal when prepared incorrectly and applied to an open wound, as it's numbing properties can cause choking or heart failure.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-water|Essence of Water]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-water | Essence of Water ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -40,32 +45,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 52 gp<br>
-**Rarity:** Very Rare<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

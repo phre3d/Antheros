@@ -1,22 +1,35 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, guild/hearth, import, landmark, locncat_lodging, locntype_rooming_house, the-south-docks]
+tags: []
 title: "Geraldine's Rooms"
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
+
+---
+
+aliases:
+
+tags: [fcoh, the_south_docks, _locncat, _locntype, _guild_of_the_hearth, _building]
+
+---(location):lodging:rooming_house(location)
 
 # Geraldine's Rooms
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Rooming House (Residence) <br>
+>**Owner:**  [[people/geraldine|Geraldine]] <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    W07 (BT)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Apartment  <br>
 
 ## Description
 
@@ -26,95 +39,9 @@ Not the best kept place to stay but at least they have beds you don't have to sh
 
 Geraldine
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Rooming House (Residence)**
-
- **Owner:**  Geraldine
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   W07 (BT)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Apartment
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/geraldine|Geraldine]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 4aef489d-4bb4-4029-8db1-1f405a8d3440<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the_south_docks(location), locncat:lodging, locntype:rooming_house, guild_of_the_hearth(location), building
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

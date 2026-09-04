@@ -1,24 +1,26 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: scordraal-pakmydis
 name: Scordraal Pakmydas
 sex: male
 born: 1144
-children: "[[plots/the-gypsy-train/npcs/premirina-pakmydis|Premirina Pakmydis]]"
-children_id: premirina-pakmydis
+children: "[[plots/the-gypsy-train/npcs/premirina-pakmydis]]"
 sibling: "[[plots/the-gypsy-train/npcs/ambrosis-pakmydis]]"
 sibling_id: ambrosis-pakmydis
-spouse: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis|Cannelia Pakmydas]]"
+spouse: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis]]"
 spouse_id: cannelia-pakmydis
 title: Scordraal Pakmydis
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Scordraal Pakmydis
 
-Medium, humanoid (human), Chaotic Neutral
+>[!info] Portrait
+>![[plots/the-gypsy-train/images/scordraal-pakmydis.jpg]]
+
+*Medium, humanoid (human), Chaotic Neutral*
 
 **Profession:** Rogue (4th)
 
@@ -45,10 +47,9 @@ Medium, humanoid (human), Chaotic Neutral
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->![[plots/the-gypsy-train/images/scordraal-pakmydis.jpg]]
 
----
+
+
 
 # Description
 
@@ -58,17 +59,17 @@ Scordraal is a 4th-level human thief, chaotic neutral, with Str 13, Int 10, Wis 
 
 At one time, Balkrin rescued Scordraal from a wealthy baron’s dungeon when Scordraal was scheduled for execution. It was this act of great stealth and bravery that caused Scordraal to dedicate himself to Balkrin. Scordraal is the type of person to make a “secret” deal with the player char­acters and then tell Balkrin all about it.
 
----
+
 
 # Spellcasting
 
----
+
 
 # Special Abilities
 
 Bracers of Defence
 
----
+
 
 # Actions
 

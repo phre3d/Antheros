@@ -1,21 +1,21 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Rust Engineer
+date modified: 2026-08-13, 9:14:49 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Rust Engineer
-Medium undead (incorporeal, formerly humanoid) neutral
+
+>[!info] Image
+>![[plots/clockwork-tower/images/rust-engineer.png]]
+
+*Medium undead (incorporeal, formerly humanoid), neutral*
 
 **Armour Class:** 13 (natural armor)<br>
 **Hit Points:** 20 [roll:3d8 + 8]<br>
 **Proficiency Bonus:** <br>
-**Movement:** $\quad$ *Fly:* 30
+**Movement:** *Fly:* 30
 
 ---
 
@@ -34,42 +34,28 @@ Medium undead (incorporeal, formerly humanoid) neutral
 **Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks<br>
 **Damage Immunities:** Poison<br>
 **Condition Immunities:** Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/rust-engineer.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Incorporeal Movement
+## Incorporeal Movement
 
  The Rust Engineer can move through other creatures and objects as if they were difficult terrain. It takes 5  force damage if it ends its turn inside an object.
 
-### Repairing Touch
+## Repairing Touch
 
  As a bonus action, the Rust Engineer can touch a piece of machinery or a construct, repairing it for 7  hit points.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Rusting Touch
+## Rusting Touch
 
   **Melee Spell Attack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  9  necrotic damage. If the target is a creature, it can't regain hit points until the start of the Rust Engineer's next turn. If the target is a construct or a nonmagical metal object, it takes an extra 7  necrotic damage.
 
-### Haunting Repair (Recharge 5-6)
+## Haunting Repair (Recharge 5-6)
 
  The Rust Engineer targets one non-functional or damaged construct or mechanical object within 60 feet of it. The target returns to a functional state as if it had been repaired over the course of 1 hour of work. Constructs repaired this way become hostile and will attack the nearest creature until they are destroyed or until the Rust   Engineer loses concentration (as if concentrating on a spell).
-
-![[~attachments/dndline.png]]
 
 # Description
 

@@ -1,14 +1,18 @@
 ---
 aliases: []
-tags: [map-marker, tarnsworth]
-title: tavern
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-09-02, 1:13:33 pm
+location: [433, 350]
+mapmarker: Inns & Taverns
+tags: [Map/marker, Settlement/tarnsworth]
+title: Tavern
 ---
+
+# Tavern
 
 **Description** <br>
 Tavern in [[settlements/outside-haven/tarnsworth|Tarnsworth]]
 
-**Marker Type:** [[maps/~markertypes/inns-taverns|Inns & Taverns]] <br>
+**Marker Type:** [[maps/~markertypes/inns-&-taverns|Inns & Taverns]] <br>
 **Marker Group**
 
 **Location Indicated:** Unnamed tavern

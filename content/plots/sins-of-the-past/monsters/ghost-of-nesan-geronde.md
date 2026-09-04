@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, monster, npc, plot/Sins_of_the_Past, statblock]
+tags: [Monster, Person/npc, Plot/Sins-of-the-Past, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col

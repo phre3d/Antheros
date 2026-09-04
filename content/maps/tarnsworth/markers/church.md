@@ -1,9 +1,13 @@
 ---
 aliases: []
-tags: [map-marker, tarnsworth]
-title: church
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-09-02, 1:12:56 pm
+location: [272, 550]
+mapmarker: Religion
+tags: [Map/marker, Settlement/tarnsworth]
+title: Church
 ---
+
+# Church
 
 **Description** <br>
 Church in [[settlements/outside-haven/tarnsworth|Tarnsworth]]

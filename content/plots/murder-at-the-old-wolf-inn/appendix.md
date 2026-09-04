@@ -1,33 +1,27 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: "MatOWI: Appendix"
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # MatOWI: Appendix
 
----start-multi-column ---
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+# Timeline
 
-# timeline
-
-### previously
+## Previously
 
 - The Winterhold Guards frequently patrol the region, as the drow have recently increased their nightly raids.
 - Artemis and Jon were patrolling and found tracks of drow. They followed the tracks and discovered a cave in which the drow store captives and stolen goods. Artemis realised the site would be perfect for an ambush.
 - However, Jon is collaborating with the drow, so he decided to kill Artemis to keep the cave secret. He first staged a riding accident, but Artemis only broke a few ribs when he fell off his horse.
 - Artemis, Jon and Kara travelled to the Old Wolf Inn, where Artemis planned to write a report about the cave to his superior.
 
-### the night of the murder
+## The Night of the Murder
 
 - Upon arriving at the inn, Artemis demanded the best rooms as well as free meals. The innkeeper, Inga, is fed up with being used by the guards, and she dislikes their visits, as she is involved in illegal smuggling activities. She asked Enoch to collect frog leaves, a plant that can upset stomachs, and sprinkled them on Artemis' dinner in the hope that he would become nauseated and avoid the inn in the future.
 - During the evening, Artemis grew troubled by his injuries from the riding accident, but he tried to mask his discomfort. He turned pale and left the common room early after instructing everyone that he needs privacy for writing an important report.
@@ -40,30 +34,17 @@ shadow: off
 - Artemis drank the potion, not knowing that it was a poison, and died within an hour.
 - Later that night, Jon went downstairs, took the key to Artemis' room from the locker by the bar, and entered Artemis' room. After making sure that Artemis was dead, Jon removed the pages from Artemis' report that concerned the drow and their cave. He then locked the door, put the key back in the locker, and returned to his room, where he burned the pages.
 
-### the next day
+## The Next Day
 
 - The following day, the storm began to develop. Kara and Jon didn't knock on Artemis' door, as Artemis had requested privacy. However, when most of the day had passed with no sign of Artemis, they decided to check on him. When Artemis didn't open the door, they asked Inga to unlock the door, and his body was discovered.
 
---- end-column ---
 
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
---- end-multi-column
 
-![[~attachments/dndline.png]]
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/rewards-and-aftermath" class="internal-link">Rewards & Aftermath</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/npcs-and-monsters" class="internal-link">NPCs and Monsters</a> →</span>
+</div>
 
---- start-multi-column: Footer
-
-```column-settings  
-number of columns: 2  
-column size: [49%, 49%]
-border: [off]
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/murder-at-the-old-wolf-inn/rewards-and-aftermath|Rewards and Aftermath]]
-
---- end-column ---
-
---- end-multi-column

@@ -1,34 +1,26 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, npc, person]
-cssclasses:
-  - callouts-outlined
-title: M.A.I.N.T.E.N.A.N.C.E.
-date modified: 2026-07-16, 9:18:16 pm
+tags: [Person, Person/npc, Plot/Clockwork-Tower]
+title: M.A.I.N.T.E.N.A.N.C.E
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-# M.A.I.N.T.E.N.A.N.C.E.
+# M.A.I.N.T.E.N.A.N.C.E
 
-###
+>[!info] Image
+>![[plots/clockwork-tower/images/m.a.i.n.t.e.n.a.n.c.e.png]]
 
-**Full Name:**
-
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-One of [[person/constantine-chronosmith|Constantine Chronosmith]]'s grandest creations, M.A.I.N.T.E.N.A.N.C.E., or Mechanized Artificer Implementing Necessary Tasks Enabling Normal Activity, Networking, and Construct Efficiency, is a marvel of mechanical engineering. This giant automaton is tasked with the crucial role of maintaining the Clockwork Tower, ensuring that the gears continue to turn, the pendulums continue to swing, and the springs continue to bounce.
+
+One of [[plots/clockwork-tower/npcs/constantine-chronosmith|Constantine Chronosmith]]'s grandest creations, M.A.I.N.T.E.N.A.N.C.E., or Mechanized Artificer Implementing Necessary Tasks Enabling Normal Activity, Networking, and Construct Efficiency, is a marvel of mechanical engineering. This giant automaton is tasked with the crucial role of maintaining the Clockwork Tower, ensuring that the gears continue to turn, the pendulums continue to swing, and the springs continue to bounce.
 
 M.A.I.N.T.E.N.A.N.C.E.'s massive, intricate form is equipped with dozens of appendages, each specialized for a specific type of repair or modification. From fine manipulators capable of intricate clockwork adjustments to powerful hydraulic arms used for heavy lifting, this machine is the embodiment of Constantine's genius.
 
 Despite its intimidating appearance, M.A.I.N.T.E.N.A.N.C.E. is not inherently aggressive. It focuses on its duties and will only respond if directly attacked or if it perceives a significant threat to the Clockwork Tower. Its communication is entirely nonverbal, relying on an intricate series of mechanical noises. Understanding its communication requires a certain level of mechanical knowledge, making it a fascinating and potentially challenging interaction for adventurers.
 
-## Nonverbal Communication 
-[[person/m.a.i.n.t.e.n.a.n.c.e.|M.A.I.N.T.E.N.A.N.C.E.]] communicates through a series of mechanical noises, which can be deciphered with a DC 18 Intelligence (Arcana) or Wisdom (Insight) check. Success will allow players to understand its plea for resources.
+## Nonverbal Communication
 
-
-
+M.A.I.N.T.E.N.A.N.C.E. communicates through a series of mechanical noises, which can be deciphered with a DC 18 Intelligence (Arcana) or Wisdom (Insight) check. Success will allow players to understand its plea for resources.
 
 | Beep Sequence | Meaning |
 |---|---|
@@ -51,35 +43,9 @@ Despite its intimidating appearance, M.A.I.N.T.E.N.A.N.C.E. is not inherently ag
 | Two short beeps followed by a medium-pitched hum - Two short beeps | "Need [[material/ironwood-coal|Ironwood Coal]]. Important." |
 | Two short beeps followed by a high-pitched squeak - Short beep - Short beep - Long beep | "Need [[material/earthheart-emerald|Earthheart Emerald]]. Vital." |
 
-
 ## Plot: Clockwork Tower
+
 Though capable in combat, M.A.I.N.T.E.N.A.N.C.E. is primarily designed as a maintenance and repair unit. If the players engage with it nonviolently, they could potentially use its repair capabilities to their advantage or convince it to assist them in navigating the tower.
-
-
-````
-````col-md
-![[plots/clockwork-tower/images/m.a.i.n.t.e.n.a.n.c.e.png]]
-
-````
-`````
-
-![[dndline2.png]]
 
 >[!Statblock]+
 >![[plots/clockwork-tower/npcs/blocks/m.a.i.n.t.e.n.a.n.c.e]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

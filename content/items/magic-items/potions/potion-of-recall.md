@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Recall
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Recall
@@ -27,14 +27,14 @@ While under the effects of this potion, you gain the ability to perfectly recall
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled alcohol]]<br>
 **Essence(s):**   Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:** Minotaur horn
@@ -49,4 +49,3 @@ While under the effects of this potion, you gain the ability to perfectly recall
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

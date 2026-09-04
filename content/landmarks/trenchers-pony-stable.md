@@ -1,28 +1,33 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, stable, the-dell, type-stable]
+tags: [Haven/outlands/dell, Organization/professional/guild-of-the-beast, Plot/Free-City-of-Haven, Shop, Shop/service/stable]
 title: "Trencher's Pony Stable"
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Trencher's Pony Stable
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Stable (Service) <br>
+>**Owner:**  [[people/gallo-trencher|Gallo Trencher]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    F13 (IR)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Stables  <br>
 
 ## Stabling and proper care
 
 ## Description
 
-[[people/gallo-trencher|Gallo Trencher]] and his four stable boys - [[people/gib|Gib]], Dembo, Salbredor ("Sal"), and Lem - tend the ponies of visitors to [[settlements/the-dell|The Dell]]. They also rent and sell travel-worthy steeds to those in need. The stable has 30 stalls, and the stabling rate includes hot walking and a good brush down as well as food and bedding. At any moment, Gallo will have 1d4 (30%) to 2d6 (70%) ponies for sale or rent. Most of these will be serviceable, though not particularly fast or sturdy, steeds, though there is a 10% chance that a beast is literally on its last legs (conversely, if the buyer is a well-trained horseman, he should be able to find an above average pony among Trencher's merchandise).  
+[[people/gallo-trencher|Gallo Trencher]] and his four stable boys - [[people/gib|Gib]], Dembo, Salbredor ("Sal"), and Lem - tend the ponies of visitors to [[settlements/haven/the-outlands/the-dell|The Dell]]. They also rent and sell travel-worthy steeds to those in need. The stable has 30 stalls, and the stabling rate includes hot walking and a good brush down as well as food and bedding. At any moment, Gallo will have 1d4 (30%) to 2d6 (70%) ponies for sale or rent. Most of these will be serviceable, though not particularly fast or sturdy, steeds, though there is a 10% chance that a beast is literally on its last legs (conversely, if the buyer is a well-trained horseman, he should be able to find an above average pony among Trencher's merchandise).  
 
  After hours, one can frequently find a low stakes card game going on in the back room, where anyone is welcome to join.  
 
@@ -40,95 +45,9 @@ Good
 
 [[people/gib|Gib]] | [[people/pauli-bracegirdle|Pauli Bracegirdle]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Stable (Service)**
-
- **Owner:**  Gallo Trencher
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   F13 (IR)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Stables
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/gallo-trencher|Gallo Trencher]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 8a9ab4f3-6534-48d3-9b16-0d9bce2d6bcd<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-shop,type-stable,guild-of-the-beast-location,stable
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, monster, statblock]
+tags: [Monster, Plot/Dark-Nuns-Church, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ````col
@@ -54,17 +54,17 @@ Medium humanoid (any race) any
 
 # Actions
 
-### Multi-attack.
+## Multi-attack
 
  The Dark Knight makes two melee attacks.  
 
-### Great sword.
+## Great sword
 
    **Melee Weapon Attack:**  +5 to hit , reach 10 ft., one target.
 
   **Hit:**  10  slashing damage.  
 
-### Short sword
+## Short sword
 
   **Melee Weapon Attack:**  +3 to hit , reach 5 ft., one target.
 

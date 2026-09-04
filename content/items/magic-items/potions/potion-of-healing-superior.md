@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Healing, Superior
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Healing, Superior
@@ -27,14 +27,14 @@ You regain 8d4+8 hit points when you drink this potion.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Fire  Life  <br>
 **Spell Needed:** *Heal* <br>
 **Other:** Potion of Healing
@@ -49,4 +49,3 @@ You regain 8d4+8 hit points when you drink this potion.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

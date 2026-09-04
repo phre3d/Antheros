@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, npc, person]
+tags: [Person, Person/npc, Plot/Burgled-Budgie]
 title: Jenkins
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 # Jenkins

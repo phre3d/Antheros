@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, trademasters-square, type-tavern]
+tags: [Entertainment/tavern, Haven/north-corridor/trademasters-square, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: The Hanged Man
-date modified: 2026-07-16, 9:18:45 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Hanged Man
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/alonzo-boarstuffer|Alonzo Boarstuffer]] <br>
+>**District:** [[settlements/haven/the-north-corridor/trademasters-square|Trademasters' Square]] <br>
+>**Grid (Key) Ref.:**    O16 (GF)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## Caters to legal luminaries
 
@@ -70,95 +75,9 @@ Some of the lawyers described earlier can be occasionally found here with a clie
 
 Alonzo's stuffed boar is superb, if rarely served. Midway along the right wall stands a dress maker's dummy with ragged and bloodstained judge's robes draped upon it. These were the robes worn by High Judge Polder Marki on the day he proclaimed a group of lawyers (to their faces) as useless - he did not survive the statement.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Alonzo Boarstuffer
-
- **District:**  Trademasters' Square
-
- **Grid (Key) Ref.:**   O16 (GF)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/trademasters-square|Trademasters' Square]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/alonzo-boarstuffer|Alonzo Boarstuffer]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 6f703365-4d51-4c2c-ae5a-201bff349ce2<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Trademasters' Square<br>
-**Tags:** fcoh,trademasters-square-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

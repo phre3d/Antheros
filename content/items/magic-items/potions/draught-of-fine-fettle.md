@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Draught of Fine Fettle
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Draught of Fine Fettle
@@ -27,14 +27,14 @@ When you drink this potion, you gain immunity to being charmed, frightened, para
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Tarrasque claw
@@ -49,4 +49,3 @@ When you drink this potion, you gain immunity to being charmed, frightened, para
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

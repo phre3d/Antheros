@@ -1,26 +1,28 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, monster]
+tags: [Monster, Plot/Mimic-Mayhem]
 title: Tiny Mimic
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Tiny Mimic
 
-tiny monstrosity, neutral
+>[!info] Portrait
+> ![[plots/mimic-mayhem/images/tkn.rat-mimic-tiny.png]]
+
+*tiny monstrosity, neutral*
 
 **Armour Class:** 10<br>
 **Hit Points:** 5 <mark style="background:#d3f8b6">10</mark> <mark style="background:#fff88f">20</mark> <mark style="background:#ff4d4f">35</mark><br>
 **Proficiency Bonus:** <br>
 **Movement:** 15'
 
----
+
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  13(+1) |  16(+2) |  13(+1) |  5(-3) |  11(+0) |  6(-2) |
 
----
 
 **Senses:** Darkvision 60', passive perception 9<br>
 **Languages:** n/a<br>
@@ -30,10 +32,9 @@ tiny monstrosity, neutral
 **Damage Immunities:** acid<br>
 **Condition Immunities:** prone<br>
 
->[!infobox]
-> ![[plots/mimic_mayhem/images/tkn.rat-mimic-tiny.png]]
 
----
+
+
 
 # Special Abilities
 
@@ -49,7 +50,7 @@ tiny monstrosity, neutral
 
 <mark style="background:#ff4d4f">**Regeneration.** As one of their attacks, the mimic can swallow a pseudopod to instantly heal 5 hps. It regenerates a new pseudopod in 1d4 days.</mark>
 
----
+
 
 # Actions
 
@@ -63,7 +64,7 @@ tiny monstrosity, neutral
 *Melee Weapon Attack:* +3 to hit, <u>reach 5 ft.</u>, one target.  <br>
 *Hit:* 3 (1d4 + 1) piercing damage plus 2 (1d4) acid damage.
 
----
+# Level Scaling
 
 | Combined Party Level | Adjustment |
 |:---------------:|------------|
@@ -71,3 +72,6 @@ tiny monstrosity, neutral
 |13 to 30 | Add only the green special abilities.|
 |31 to 48 | Add the green and yellow special abilities.|
 |49 to 78 | Use all the colored special abilities |
+
+---
+**Source:** Mimic Mayhem

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2240.493, 4915.306]
 mapmarker: Shopping
 title: "Durbinmeyer's Mill"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Durbinmeyer's Mill

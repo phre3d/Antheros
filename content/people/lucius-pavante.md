@@ -1,233 +1,110 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, pavantes-guild, person, the-black-hand, the-south-docks]
+tags: [Organization/criminal/black-hand, Organization/criminal/pavantes-guild, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/commons/south-docks]
 title: Lucius Pavante
-date modified: 2026-07-16, 9:18:24 pm
+date modified: 2026-08-20, 8:03:21 pm
 ---
 
 # Lucius Pavante
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1305
+>
+>
+> **Class/Profession:**  Lawyer 7th
+>
+>
+> **Places Encountered**
+>- His office in [[settlements/haven/the-north-corridor/barristers-maze|Barristers' Maze]]
+>- The [[landmarks/courts|Courts]]
+>- [[settlements/haven/the-commons/the-south-docks|The South Docks]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-commons/the-south-docks| The South Docks]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**  [[organizations/criminal/pavantes-guild|Pavante's Guild]]
 
 **Full Name:**  Lucius  Pavante
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Lucius, the head of a small law firm in [[settlement/the-north-corridor|The North Corridor]], is the master of [[organization/the-black-hand|The Black Hand]] guild controlling gambling, loansharking, and protection racketeering. He is a dark headed man of better than average height, who usually dresses well and fancies himself a gourmet.
+
+Lucius, the head of a small law firm in [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]], is the master of [[organizations/criminal/the-black-hand|The Black Hand]] guild controlling gambling, loansharking, and protection racketeering. He is a dark headed man of better than average height, who usually dresses well and fancies himself a gourmet.
 
  His operation is small, consisting of only some twenty men, but is responsible for far more than its share of total Black Hand revenues.
 
-![[dndline.png]]
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/lucius-pavante-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/lucius-pavante-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/lucius-pavante-person)
 
-````
-````col-md
-
-
-**ID #**  1305
-
-
- **Class/Profession:**  Lawyer 7th
-
-
- **Places Encountered** 
-- His office in [[settlement/barristers-maze|Barristers' Maze]]
-- The [[landmark/courts|Courts]]
-- [[settlement/the-south-docks|The South Docks]]
-
-
- **Purse:**   gp
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-south-docks|The South Docks]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  [[Organization/Pavante's Guild|]]<br>
-**Other Affiliations:** 
-- [[organization/the-black-hand|The Black Hand]]
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/lucius-pavante]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

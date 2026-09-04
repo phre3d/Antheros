@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Steel
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Steel
@@ -31,14 +31,14 @@ An ancient sect created this potion to create an army of almost invulnerable sol
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Base:** [[/materials/aqua-regia|Aqua Regia]]<br>
 **Essence(s):**   Earth  Fire  <br>
 **Spell Needed:**  <br>
 **Other:** 4oz steel filings
@@ -53,4 +53,3 @@ An ancient sect created this potion to create an army of almost invulnerable sol
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

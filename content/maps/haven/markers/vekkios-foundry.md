@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3611.921, 398.98]
 mapmarker: Shopping
 title: "Vekkio's Foundry"
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Vekkio's Foundry

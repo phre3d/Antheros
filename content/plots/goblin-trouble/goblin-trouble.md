@@ -1,13 +1,21 @@
 ---
 aliases: []
-tags: [plot/Goblin-Trouble, import, plot]
+tags: [Plot, Plot/Goblin-Trouble]
 title: Goblin Trouble
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Goblin Trouble
 
-What follows is based on the Goblin Trouble module by Janek Sielicki (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign. It should also be noted that the original was for beginning characters and DMs so was scaled up for the campaign.
+>[!info]
+>## Table of Contents
+>![[plots/goblin-trouble/table-of-contents|Table of Contents]]
+>
+>---
+>
+>![[plots/goblin-trouble/images/goblin-trouble-cover.jpg]]
+
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Introduction
 
@@ -86,12 +94,7 @@ The following info can be alluded to upon meeting Mandyk or fully explained upon
 
 - “Three or four hours on foot.”
 
->[!infobox]
->![[plots/goblin-trouble/images/goblin-trouble-cover.jpg]]
->
->---
->
->![[plots/goblin-trouble/table-of-contents|Table of Contents]]
+
 
 # Credits
 

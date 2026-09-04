@@ -1,19 +1,22 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, plot]
+date modified: 2026-08-26, 2:30:54 pm
+tags: [Plot, Plot/Mimic-Mayhem]
 title: The Leisure Room
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 ![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]
 
 # The Leisure Room
 
-There is a ten-foot-wide stairwell leading down
+>[!info]
+>![[plots/mimic-mayhem/images/leisure-room-dm-map.jpg]]
+>
+>---
+>
+>![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
 
-fifteen feet to a large room. When the group gets to the
-
-bottom of the stairs, read the following:
+There is a ten-foot-wide stairwell leading down fifteen feet to a large room. When the group gets to the bottom of the stairs, read the following:
 
 >[!read-aloud]
 >Descending the stairs you arrive at the inn’s leisure room. A light flurry of snow falls through storm-battered holes in the thatch roof. Before you is a room filled with furnishings. There are no people here and no other exits. But you recognize the smell of mimic’s breath on the air, just like you smelled last night in the hallway and you know there are mimic here!
@@ -56,15 +59,15 @@ This fight involves 5 enemies:
 
 ### Behaviours
 
-At the start of the fight, the **rafter mimic** (huge)drops to the floor but has a speed of zero so it stays where it falls, dividing the room. The spaces on either side of it are half squares and therefore require squeezing (half movement, disadvantage to attacks, advantage to attackers.)  Jumping over the huge mimic requires a DC 15 Athletics check, advantage with a 10 foot running start.
+At the start of the fight, the **rafter mimic** (huge) drops to the floor but has a <u>speed of zero</u> so it stays where it falls, dividing the room. The spaces on either side of it are half squares and therefore require squeezing (half movement, disadvantage to attacks, advantage to attackers.)  <u>Jumping over the huge mimic requires a DC 15 Athletics check</u>, advantage with a 10 foot running start.
 
-The **chair mimic** (medium) and **hearth mimic** (large) will stay on their side of the room, using their spit attacks and taunting the PCs until someone comes to their side of the room.
+The **chair mimic** (medium) and **hearth mimic** (large) will<u> stay on their side of the room, using their spit attacks</u> and taunting the PCs until someone comes to their side of the room.
 
-Take note that the **hearth mimic** has a 10 foot reach with its pseudopod and the **rafter mimic** has a 15 foot reach.
+Take note that the <u>**hearth mimic** has a 10 foot reach</u> with its pseudopod and the <u>**rafter mimic** has a 15 foot reach.</u>
 
 The *large mimic can swallow small characters* and the *huge mimic can swallow medium size characters*.
 
-### No Fire!
+### No Fire
 
 The heroes must be careful not to burn down the inn, killing the occupants. Doing so would be worse than letting the mimics win.
 
@@ -72,43 +75,19 @@ The heroes must be careful not to burn down the inn, killing the occupants. Doin
 
 Hearing the commotion, the other guests rush down from the dining hall, a cloud of flatulence following them. They are obvioiusly upset about the loss of their traveling companions.
 
-## Things to investigate:
+# Things to investigate
 
 Inside the mimics are bits of undigested people–bones, gear, etc.
 
 The chest is padlocked (DC 12 Thieves’ Tools) and merely contains knitted blankets and Granny’s knitting materials. She likes to come down here in the evenings and work on them. Granny is the inn’s cook.
 
-Beneath the chest is a very obvious trap door. The chest keeps the wind from blowing the trap door open. Inside are three steps leading down to a crawl space beneath the building where firewood is stacked up. It is very low and easy to hit one’s head.
+Beneath the chest is a very obvious trap door. The chest keeps the wind from blowing the trap door open. Inside are <u>three steps leading down to a crawl space beneath the building</u> where firewood is stacked up. It is very low and easy to hit one’s head.
 
 Exiting here or out the front door will lead directly to [[plots/mimic-mayhem/the-stable|The Stable]].
 
->[!infobox]
->![[plots/mimic-mayhem/images/leisure-room-dm-map.jpg]]
->
->---
->
->![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
->
->---
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/mimic-mayhem/the-hallway-battle|The Hallway Battle]]
-
---- end-column ---
-
-Next: [[plots/mimic-mayhem/the-stable|The Stable]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/mimic-mayhem/the-hallway-battle" class="internal-link">The Hallway Battle</a></span>
+  <span class="nav-next">Next: <a href="plots/mimic-mayhem/the-stable" class="internal-link">The Stable</a> →</span>
+</div>

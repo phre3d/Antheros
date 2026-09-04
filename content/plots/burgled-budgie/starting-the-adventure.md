@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, plot]
+tags: [Plot, Plot/Burgled-Budgie]
 title: Starting the Adventure
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 ![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
@@ -33,9 +33,7 @@ Read or paraphrase the following:
 >[!Read Aloud]
 >The heavy wooden door to the hallway swings open and a petite elderly woman steps purposefully into your midst. Her clothing, fashionable and costly, is complemented by jewels sparkling on her wrists, neck, and ears. Her hair is secured with an elaborate ornament, exposing her angular face and contributing to her austere appearance.
 
-Lady Windlewood is upset by the loss of her bird and expects the PCs to find Beatrice, and quickly! She gets fed up with too much questioning and carries herself with a haughty disposition towards anyone who is not nobility themselves (especially non-humans). She responds very well to flattery and deference when addressing her. She also gives the PCs free rein of the house, so long as Higgins keeps an eye on them. She doesn’t broach the topic of payment, but if asked, she promises to pay each PC 100 gold coins on the return
-
-of her beloved pet.
+Lady Windlewood is upset by the loss of her bird and expects the PCs to find Beatrice, and quickly! She gets fed up with too much questioning and carries herself with a haughty disposition towards anyone who is not nobility themselves (especially non-humans). She responds very well to flattery and deference when addressing her. She also gives the PCs free rein of the house, so long as Higgins keeps an eye on them. She doesn’t broach the topic of payment, but if asked, she promises to pay each PC 100 gold coins on the return of her beloved pet.
 
 She has developed her own list of suspects:
 

@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, mill, the-dell, type-mill]
+tags: [Haven/outlands/dell, Organization/professional/guild-of-provenders, Plot/Free-City-of-Haven, Shop, Shop/service/mill]
 title: "Burdee's Mill"
-date modified: 2026-07-16, 9:18:57 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Burdee's Mill
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Mill (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    E14 (KG)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Mill  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Mill (Shopping)**
-
- **Owner:**  
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   E14 (KG)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Mill
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** fd8f8065-0ad1-4823-bf9e-ec9653f69e4d<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-shop,type-mill,guild-of-provenders-location,mill
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

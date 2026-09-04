@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Tehtaavilya Conindir
-date modified: 2026-07-16, 9:18:29 pm
+date modified: 2026-08-20, 8:03:31 pm
 ---
 
 # Tehtaavilya Conindir
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** High Elf<br>
 **Profession:** Noble/8th<br>
 **Challenge Rating:** 6<br>
@@ -20,38 +17,25 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Chain mail<br>
 **Hit Points:** 15<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 6 (-2) | 11 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 14 (+2) |
 
-![[dndline.png]]
-
 **Saving Throws:** <br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common | Choose 1<br>**Challenge:** 6 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common | Choose 1<br>
+**Challenge:** 6 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry
 
 # Spellcasting
 
 **Racial**
 
 1 Wizard cantrip of choice
-
-![[dndline.png]]
 
 # Actions
 

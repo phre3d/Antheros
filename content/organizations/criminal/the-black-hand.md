@@ -1,12 +1,17 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, organization/criminal, import, organization, the-black-hand]
+tags: [Plot/Free-City-of-Haven, Organization, Organization/criminal, Organization/criminal/black-hand]
 name: The Black Hand
 title: The Black Hand
-date modified: 2026-07-16, 9:18:37 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # The Black Hand
+
+>[!info]
+>**Type:** Guild, Thieves<br>
+>**Parent Organization:** <br>
+>**Leader:** Unknown
 
 During the long history of Haven's [[organizations/criminal/thieves-guild|Thieves Guild]], there have been numerous occasions when dissatisfied thieves, for one reason or another, have split from their parent organization to form rival operations of their own. Most of these rival groups were quickly subdued by the Guild, and the renegades (minus a few chosen to serve as examples to others with like minds) were returned to the fold. The latest and best organized of these renegade bands has been that group known in Haven as The Black Hand.
 
@@ -16,7 +21,10 @@ The Hand's organizers had pondered well the fate of their predecessors in rebell
 
 The original Black Hand organization consisted of several guilds, each led by one of the original malcontents, occasionally added to as the Black Hand diversified its operations. Meeting in council as co-equal guild masters, the founders perceived the need for a larger-than-life unifying symbol; the result was the mysterious, soon legendary Father [[people/marco|Marco]]. Today, only one of these original leaders remains, kept young by artificial means,  a twisted genius, now undisputed in his leadership, and obeyed by his subordinates as much from fear as from respect. Some years ago he began calling himself [[people/marco|Marco]] and now his original identity is mostly forgotten - man has merged with myth.
 
-Given the Thieves Guild's superior resources and entrenched position, the Hand has been forced to develop a different, more covert modus operandi than its rival. Rather than utilize a direct, centrally organized command chain, the Black Hand leadership runs a far more diffuse cellular system of semi¬autonomous guilds. Five such subordinate guilds, designated by the names of their masters, currently make up the Black Hand: one oversees mayhem of all sorts, and provides protection for the rest of the organization, one controls extortion, including loansharking and gambling, another runs Black Hand interests in smuggling and assorted vices, while two more handle traditional burglary, thieving, and second story operations. The "dues" paid by the member guilds are used by [[people/marco|Marco]] and his leaders to finance the more expensive components of a successful criminal network - the legitimate investments, arrangements with fences and informants, bribes for officials, and magical paraphernalia. The Hand's resources in these areas, however, are still far inferior to those of the Guild.
+Given the Thieves Guild's superior resources and entrenched position, the Hand has been forced to develop a different, more covert modus operandi than its rival. Rather than utilize a direct, centrally organized command chain, the Black Hand leadership runs a far more diffuse cellular system of semi-autonomous guilds. Five such subordinate guilds, designated by the names of their masters, currently make up the Black Hand: one oversees mayhem of all sorts, and provides protection for the rest of the organization, one controls extortion, including loansharking and gambling, another runs Black Hand interests in smuggling and assorted vices, while two more handle traditional burglary, thieving, and second story operations. The "dues" paid by the member guilds are used by [[people/marco|Marco]] and his leaders to finance the more expensive components of a successful criminal network - the legitimate investments, arrangements with fences and informants, bribes for officials, and magical paraphernalia. The Hand's resources in these areas, however, are still far inferior to those of the Guild.
+
+![[~attachments/org-chart-black-hand.png]]
+
 
 ## Joining the Hand
 
@@ -39,9 +47,7 @@ Each Black Hand member guild is divided into a number of small cells, the leader
 
 The two traditional thieving guilds are not large, containing but two or three cells whose leaders report directly to their master; the others are larger, with correspondingly complex organizations. The size of a cell varies according to its function. A cell of 'heavies' or muggers,  might contain as many as ten men, while cells of traditional thieves might contain as few as two or three. In general, members of one cell rarely know members of another, except from occasions when two or more cells have banded together for a large operation. Very large operations may demand the resources of two or more guilds, but this is extremely rare.
 
-This structure, while less efficient in theory than the highly centralized Thieves Guild, has in practice proved immensely successful at preventing infiltration of the Hand by the Thieves Guild or [[organizations/haven-city-watch|Haven City Watch]]. Such enemies have an easy time gaining access to the lower levels of the organization, but seldom seem to progress far. By shunting identified infiltrators into lower level cells, the Hand can continue to use their thieving skills without threat to the organization itself. Furthermore, the nature of the Hand has made crackdown or elimination difficult, since the cells usually operate independently from one another, and all but the highest cells are replaceable.
-
-![[org-chart-black-hand.png]]
+This structure, while less efficient in theory than the highly centralized Thieves Guild, has in practice proved immensely successful at preventing infiltration of the Hand by the Thieves Guild or [[settlements/haven/legal-system/haven-city-watch|Haven City Watch]]. Such enemies have an easy time gaining access to the lower levels of the organization, but seldom seem to progress far. By shunting identified infiltrators into lower level cells, the Hand can continue to use their thieving skills without threat to the organization itself. Furthermore, the nature of the Hand has made crackdown or elimination difficult, since the cells usually operate independently from one another, and all but the highest cells are replaceable.
 
 ---
 

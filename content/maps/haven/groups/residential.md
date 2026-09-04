@@ -1,8 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: residential
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+# Residential Markers 
+
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Residence"
+```

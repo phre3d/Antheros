@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, Mine_Your_Own_Business, plot]
+tags: [Plot, Plot/Mine-Your-Own-Business]
 title: Epilogue
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Epilogue

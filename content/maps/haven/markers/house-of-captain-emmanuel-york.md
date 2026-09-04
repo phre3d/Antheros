@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2766.003, 6479.592]
 mapmarker: Residence
 title: House of Captain Emmanuel York
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # House of Captain Emmanuel York

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, import, plot]
+tags: [Plot, Plot/Forest-of-Doom]
 title: Scene 1
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Scene 1

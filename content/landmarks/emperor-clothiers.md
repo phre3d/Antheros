@@ -1,28 +1,33 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-clothing, guild/loom, import, landmark, the-heights, type-general-clothing]
-title: "Emperor Clothiers: Fandril C. Cloess - Prop."
-date modified: 2026-07-16, 9:18:56 pm
+tags: [Haven/heights, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/general-clothing]
+title: "Emperor Clothiers: Fandril C. Cloess - Prop"
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
-# Emperor Clothiers: Fandril C. Cloess - Prop.
+# Emperor Clothiers: Fandril C. Cloess - Prop
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Clothing (Shopping) <br>
+>**Owner:**  [[people/fandril-c-cloess|Fandril C. Cloess]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G20 (CK)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Tailor  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Outfits with Style
+***Outfits with Style***
 
 ## Description
 
-Fandril is known around [[settlements/the-heights|The Heights]] as a quality tailor who produces good, well-fitting clothing, whose styles are conservative rather than trendy high fashion. This reputation is justifiable where his steady customers are concerned, for Fandril and his assistants are very competent craftsmen. They will cheat on the quality of a garment (sometimes shamefully), however, if they believe the customer will not know the difference - by using a poorer grade of fabric, skimping on the amount of stitching done, etc. Such a garment will wear out in 30-80% (20 + 1d6 X 10) of its normal lifetime.
+Fandril is known around [[settlements/haven/the-heights/the-heights|The Heights]] as a quality tailor who produces good, well-fitting clothing, whose styles are conservative rather than trendy high fashion. This reputation is justifiable where his steady customers are concerned, for Fandril and his assistants are very competent craftsmen. They will cheat on the quality of a garment (sometimes shamefully), however, if they believe the customer will not know the difference - by using a poorer grade of fabric, skimping on the amount of stitching done, etc. Such a garment will wear out in 30-80% (20 + 1d6 X 10) of its normal lifetime.
 
 ## Price Range
 
@@ -36,95 +41,9 @@ Shoddy/Excellent.
 
 [[people/romano-maggia|Romano Maggia]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Clothing (Shopping)**
-
- **Owner:**  Fandril C. Cloess
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G20 (CK)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Tailor
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/fandril-c.-cloess|Fandril C. Cloess]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 44024fa5-28f5-43f0-83c3-c5510db77371<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-shop,type-general-clothing,guild-of-the-loom-location,general-clothing
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

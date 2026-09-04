@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-landmark, Free_City_of_Haven, import, landmark, trade-island, type-other-landmark]
+tags: [Haven/trade-island, Landmark, Landmark/other, Plot/Free-City-of-Haven]
 title: "Wizard's Isle"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Wizard's Isle
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Other Landmark (Landmark) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/trade-island/trade-island|Trade Island]] <br>
+>**Grid (Key) Ref.:**    J14 (TD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## A wooded island off the western tip of Trade Island
 
@@ -24,95 +29,9 @@ shadow: off
 
 Long in the past is was used my smugglers as a stopover while transporting goods up-river. Now it is overgrown and see very few visitors.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Other Landmark (Landmark)**
-
- **Owner:**  
-
- **District:**  Trade Island
-
- **Grid (Key) Ref.:**   J14 (TD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/trade-island|Trade Island]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f00977cb-7b00-4ca7-a49f-f91af5b68763<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Trade Island<br>
-**Tags:** fcoh,trade-island-location,cat-landmark,type-other-landmark,landmark
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

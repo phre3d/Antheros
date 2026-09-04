@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-north-corridor, tobacco, type-tobacco]
+tags: [Haven/north-corridor, Organization/professional/guild-of-provenders, Plot/Free-City-of-Haven, Shop, Shop/goods/tobacco]
 title: "Dunstan's - Pipe Weed"
-date modified: 2026-07-16, 9:18:56 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Dunstan's - Pipe Weed
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tobacco (Shopping) <br>
+>**Owner:**  [[people/dunstan-herlihea|Dunstan Herlihea]] <br>
+>**District:** [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] <br>
+>**Grid (Key) Ref.:**    S15 (GO)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A smoker's haven - pipes and weed
+***A smoker's haven - pipes and weed***
 
 ## Description
 
@@ -32,95 +37,9 @@ High, for pipe weeds. Costly for pipes.
 
 Good, for the various smoking leafs. Superb for the hand-carved pipes (there is never a rough draw).
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tobacco (Shopping)**
-
- **Owner:**  Dunstan Herlihea
-
- **District:**  The North Corridor
-
- **Grid (Key) Ref.:**   S15 (GO)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-north-corridor|The North Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/dunstan-herlihea|Dunstan Herlihea]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** dff47bd3-0ab5-4de8-8a35-74eed05c08f1<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The North Corridor<br>
-**Tags:** fcoh,the-north-corridor-location,cat-shop,type-tobacco,guild-of-provenders-location,tobacco
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

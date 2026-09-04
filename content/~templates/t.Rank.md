@@ -1,4 +1,11 @@
-#rank 
+---
+aliases: []
+tags: [Rank]
+title: ///rank///
+date modified: 2026-08-08, 3:17:08 pm
+---
+
+# ///rank///
 
 >[!info]
 >Image
@@ -17,56 +24,28 @@
 >**Related Organizations:**
 >- [[organization/title]]
 
-# Title
-
-
-
-
-
 # Qualifications
-
 
 # Requirements
 
-
 # Appointment
-
 
 # Creation
 
-
 # Source of Authority
-
 
 # Duties
 
-
 # Responsibilities
-
 
 # Benefits
 
-
 # Accoutrements & Equipment
-
 
 # Removal or Dismissal
 
-
 # History
-
 
 # Cultural Significance
 
-
 # Notable Holders
-
-
-
-
-
-
-
-
-
-

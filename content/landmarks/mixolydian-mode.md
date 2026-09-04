@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, street-of-harps, type-tavern]
+tags: [Entertainment/tavern, Haven/south-corridor/street-of-harps, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: Mixolydian Mode
-date modified: 2026-07-16, 9:18:51 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Mixolydian Mode
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/ranna-campanella|Ranna Campanella]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    H07 (MW)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A Tavern
+***A Tavern***
 
 ## Description
 
@@ -50,7 +55,7 @@ Average
 
 ## Cash Box
 
-A small chest under counter contains [roll:1d6*5] in small change. At night all cash is secured in a heavy iron chest with a complexity 4 lock in a upstairs room.
+A small chest under counter contains  in small change. At night all cash is secured in a heavy iron chest with a complexity 4 lock in a upstairs room.
 
 ## Staff
 
@@ -72,108 +77,22 @@ Clientele are mostly local people, involved in performing in one form or another
 
 ## Rumors  
 
-Rumors are rife at the Mixolydian Mode, since the traveling entertainers usually pick up a good deal of interesting tidbits of information, and then share them with their comrades over beer and cold mutton. Many rumors are personal anecdotes and just plain gossip, useless to player characters within and around Haven (unless their weird and enjoy knowing who is having an affair with whom, and where they are doing it, and so forth…). The GM is given these rumors as a guide to creating others, and to use as teasers to involve the players in the [[plots/free-city-of-haven/haven-scenarios|Haven Scenarios]] in this and other sections.  
+Rumors are rife at the Mixolydian Mode, since the traveling entertainers usually pick up a good deal of interesting tidbits of information, and then share them with their comrades over beer and cold mutton. Many rumors are personal anecdotes and just plain gossip, useless to player characters within and around Haven (unless their weird and enjoy knowing who is having an affair with whom, and where they are doing it, and so forth…). The GM is given these rumors as a guide to creating others, and to use as teasers to involve the players in the [[plots/free-city-of-haven/haven-scenarios|Scenarios]] in this and other sections.  
 
 1. The unfortunate illness of Elarie Saspirando - she was unable to perform at that dinner party at the Berensten's. Her daughter is very worried. Algria Cambiata, her understudy, has been appearing for her and is doing very well. Rumor also has it that Algria is involved with Dominic Alderon, Elarie's former agent…
 2. [[people/fenris-redbeard|Fenris Redbeard]], the troubadour, is planning to take his troupe on the Road east to Mandalai (a city some 500 miles away) this spring but needs to hire some additional guards for the trip, (see "The Road Show" Adventure Opportunities, The South Corridor)
 3. There is a 10% chance that [[people/rael-gavotte|Rael Gavotte]] is giving another one of his famous parties tonight. There will be wine from Karidda, and you know how Rael's parties are… (see NPC's, The South Corridor)
 4. General sympathies of the performers craft in the class struggle between Guild and Nobility lie with the merchants, who support the arts and are usually good tippers.
-5. There is a gypsy girl on [[settlements/trade-island|Trade Island]] that can sing like a true bard - she belongs in the Guild school, not living like a vagabond. What a waste of talent! (see "[[plots/free-city-of-haven/scenarios/the-gypsy-nightingale|plots/Free City of Haven/Scenarios/The Gypsy Nightingale]]", Trade Island)
+5. There is a gypsy girl on [[settlements/haven/trade-island/trade-island|Trade Island]] that can sing like a true bard - she belongs in the Guild school, not living like a vagabond. What a waste of talent! (see "[[plots/free-city-of-haven/scenarios/the-gypsy-nightingale|The Gypsy Nightingale]]", Trade Island)
 6. The new play at the Muses' Theater may never open - 'tis said the spirit of the mage that the play is about haunts Theater. Just last week, a stagehand was thrown bodily from the stage when no one was near him - and he remains in a semi-comatose state, as if bewitched. Nobody will enter Theater now… (see "Muses' Theater" The South Corridor)
 
 ## Special Options
 
 The tavern that is the local "hangout" for bards, actors, etc. from the general neighborhood, and a hot spot for all kinds of news and gossip
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Ranna Campanella
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   H07 (MW)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/ranna-campanella|Ranna Campanella]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 11295957-2b7d-4d5c-bb99-2a0a765035f6<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

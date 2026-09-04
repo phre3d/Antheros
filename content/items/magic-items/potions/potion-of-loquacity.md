@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Loquacity
-date modified: 2026-07-16, 9:19:01 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Loquacity
@@ -33,14 +33,14 @@ In ancient times, this potion was commissioned by a king who hated the idea of t
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium Grease]]<br>
 **Essence(s):** Air    Life  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -55,4 +55,3 @@ In ancient times, this potion was commissioned by a king who hated the idea of t
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

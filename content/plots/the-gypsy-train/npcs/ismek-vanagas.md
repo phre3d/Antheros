@@ -6,18 +6,19 @@ name: Ismek Vanagas
 sex: male
 born: 1162
 mother-id: zanthira-vanagas
-father: "[[plots/the-gypsy-train/npcs/balkrin-vanagas|Balkrin Vanagas]]"
-father_id: balkrin-vanagas
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
-mother: "[[zanthira-vanagas|Zanthira Vanagas]]"
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
+mother: "[[plots/the-gypsy-train/npcs/zanthira-vanagas]]"
 mother_id: zanthira-vanagas
 title: Ismek Vanagas
 ---
 
 # Ismek Vanagas
 
-Small, humanoid (human), chaotic neutral
+>[!info] Portrait
+>IMAGE
+
+*Small, humanoid (human), chaotic neutral*
 
 **Profession:** Thief (0th)
 
@@ -44,10 +45,8 @@ Small, humanoid (human), chaotic neutral
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
 
 # Description
 

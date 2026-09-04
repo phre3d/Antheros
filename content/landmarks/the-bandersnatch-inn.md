@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, the-dell, type-inn]
+tags: [Haven/outlands/dell, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/inn]
 title: The Bandersnatch Inn
-date modified: 2026-07-16, 9:18:47 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Bandersnatch Inn
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Inn (Inns & Taverns) <br>
+>**Owner:**  [[people/dolby-spreeker|Dolby Spreeker]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    E13 (IN)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Inn  <br>
 
 ## A pleasant halfling inn
 
@@ -58,7 +63,7 @@ Many of the regular customers have their own [[people/mugs|Mugs]] hung on the so
 
 ## Customers
 
-About 4d10 during normal evening hours, 2d8 during non-prime hours, and up to 100 on "special" nights.
+About  during normal evening hours,  during non-prime hours, and up to 100 on "special" nights.
 
 There is only a 10% chance that all the rooms upstairs are full. About 50% of the crowd is comprised of regulars, who know each other extremely well.
 
@@ -72,95 +77,9 @@ Almost everyone here is exceptionally congenial to newcomers, and will help them
 
 Dolby occasionally gets a shipment of effervescent fruit wines from the halfling community of Spring Glade - their taste is reminiscent of champagne, but at about half the cost.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Inn (Inns & Taverns)**
-
- **Owner:**  Dolby Spreeker
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   E13 (IN)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Inn
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/dolby-spreeker|Dolby Spreeker]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 673b7551-f8ba-46cd-876a-1af1cec5e801<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-shop,type-inn,guild-of-the-hearth-location,inn
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

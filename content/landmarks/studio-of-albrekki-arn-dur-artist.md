@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [artist, cat-shop, Free_City_of_Haven, guild/artisan, import, landmark, the-cauldron, type-artist]
+tags: [Haven/outlands/cauldron, Organization/professional/guild-of-the-artisan, Plot/Free-City-of-Haven, Shop, Shop/goods/artist]
 title: Studio of Albrekki arn Dur - artist
-date modified: 2026-07-16, 9:18:48 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Studio of Albrekki arn Dur - artist
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Artist (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/the-cauldron|The Cauldron]] <br>
+>**Grid (Key) Ref.:**    A11 (KQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Artist (Shopping)**
-
- **Owner:**  
-
- **District:**  The Cauldron
-
- **Grid (Key) Ref.:**   A11 (KQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-cauldron|The Cauldron]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** b16de920-a734-4b5e-b4c0-92d47cdd0a3a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Cauldron<br>
-**Tags:** fcoh,the-cauldron-location,cat-shop,type-artist,guild-of-the-artisan-location,artist
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

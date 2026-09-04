@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Protection from Arrows
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Protection from Arrows
@@ -27,14 +27,14 @@ When you drink this potion, you gain a +2 bonus to AC against ranged weapon atta
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ When you drink this potion, you gain a +2 bonus to AC against ranged weapon atta
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

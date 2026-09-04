@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2295.918, 3431.309]
 mapmarker: Dining
 title: "Tarmialda 'The Loft'"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # Tarmialda 'The Loft'

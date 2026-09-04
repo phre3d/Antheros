@@ -1,13 +1,17 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, organization/criminal, import, organization, luccas-guild]
+tags: [Plot/Free-City-of-Haven, Organization, Organization/criminal, Organization/criminal/luccas-guild]
 title: "Lucca's Guild"
-date modified: 2026-07-16, 9:18:37 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Lucca's Guild
-
-[[people/paraggio-lucca|Paraggio Lucca]], the master of one of [[organizations/criminal/the-black-hand|The Black Hand's]] two traditional thieving guilds is a slender, boyish man with dark hair and an angular face. His guild consists of some three cells of highly competent thieves who operate mostly in [[settlements/the-commons|The Commons]] and North Corridor.
+>[!info]
+>**Type:** Guild, Thieves<br>
+>**Parent Organization:** [[organizations/criminal/the-black-hand|The Black Hand]]<br>
+>**Leader:** [[people/paraggio-lucca|Paraggio Lucca]]
+>
+[[people/paraggio-lucca|Paraggio Lucca]], the master of one of [[organizations/criminal/the-black-hand|The Black Hand's]] two traditional thieving guilds is a slender, boyish man with dark hair and an angular face. His guild consists of some three cells of highly competent thieves who operate mostly in [[settlements/haven/the-commons/the-commons|The Commons]] and North Corridor.
 
 ---
 

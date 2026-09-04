@@ -1,22 +1,30 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, material]
+tags: [Material, Plot/Clockwork-Tower]
 title: Chonosmith Brass
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Chonosmith Brass
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-A special alloy named in honor of [[person/constantine-chronosmith|Constantine Chronosmith]], this brass is particularly resistant to wear and corrosion. It's favored in the creation of long-lasting gears and clockwork mechanisms.A special alloy named in honor of [[person/constantine-chronosmith|Constantine Chronosmith]], this brass is particularly resistant to wear and corrosion. It's favored in the creation of long-lasting gears and clockwork mechanisms.
+>[!info]
+>**Type:** Metal<br>
+>**Value:** 3 gp / lb.<br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Solid <br>
+>**Related Professions**
 
----
+A special alloy named in honor of [[plots/clockwork-tower/npcs/constantine-chronosmith|Constantine Chronosmith]], this brass is particularly resistant to wear and corrosion. It's favored in the creation of long-lasting gears and clockwork mechanisms.
 
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
@@ -32,6 +40,7 @@ A special alloy named in honor of [[person/constantine-chronosmith|Constantine C
 ---
 
 # History & Usage
+
 ## History
 
 ## Discovery
@@ -54,40 +63,13 @@ A special alloy named in honor of [[person/constantine-chronosmith|Constantine C
 
 ## Reusability & Recycling
 
----
-
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
-
-```
-
-```col-md
-
-**Type:** Metal<br>
-**Value:** [b]3 gp / lb.[/b]<br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
 
 ---
 

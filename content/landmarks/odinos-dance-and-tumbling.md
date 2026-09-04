@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, street-of-harps, type-training]
+tags: [Haven/south-corridor/street-of-harps, Organization/professional/guild-of-tuition, Plot/Free-City-of-Haven, Shop/service/training]
 title: "Odino's Dance and Tumbling"
-date modified: 2026-07-16, 9:18:51 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Odino's Dance and Tumbling
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Training (Service) <br>
+>**Owner:**  [[people/odino|Odino]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    G08 (MQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Gym  <br>
 
 ## [[people/odino|Odino]] of Mandalai
 
@@ -28,95 +33,9 @@ The entire first floor is one large room. Mats are stacked neatly along a wall w
 
  [[people/odino|Odino]] has little money. Other than necessities, it is believed he takes the bulk of his money to the Temple of Eollana.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Training (Service)**
-
- **Owner:**  Odino
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   G08 (MQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Gym
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/odino|Odino]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** c0c50bf8-c167-4b7b-a409-90e6d2a447c9<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-education,type-training,guild-of-tuition-location,education
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

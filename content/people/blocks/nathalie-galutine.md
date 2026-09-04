@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Nathalie Galutine
-date modified: 2026-07-16, 9:18:30 pm
+date modified: 2026-08-20, 8:03:30 pm
 ---
 
 # Nathalie Galutine
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** High Elf<br>
 **Profession:** Sorceror/14th<br>
 **Challenge Rating:** 6<br>
@@ -20,30 +17,19 @@ flexGrow=2
 **Alignment:** Lawful Neutral<br>
 **Armour Class:** 15 - None<br>
 **Hit Points:** 104<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 14 (+2) | 14 (+2) | 15 (+2) | 14 (+2) | 20 (+5) |
 
-![[dndline.png]]
-
 **Saving Throws:** Constitution | Charisma<br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common | Choose 1<br>**Challenge:** 6 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Proficiency bonus +5 | Keen Senses (Adv. on Perception) | Fey Ancestry
-
-```
-
-```col-md
-
-
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common | Choose 1<br>
+**Challenge:** 6 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Proficiency bonus +5 | Keen Senses (Adv. on Perception) | Fey Ancestry
 
 # Spellcasting
 
@@ -61,8 +47,6 @@ flexGrow=2
 
 1 Wizard cantrip of choice
 
-![[dndline.png]]
-
 # Special Abilities
 
 **Sorcery Points:**  14
@@ -74,8 +58,6 @@ flexGrow=2
   **Fey Ancestry:**  Natalie has advantage on saves made to charm her and cannot be magically put to sleep.
   **Sorcerous power:**  Once per turn Natalie can expend 1 sorcery point to gain advantage on her next attack roll ability check or saving throw.
   **Beguiling Tongue:**  If Natalie rolls less than a 9 on the dice for a skill check that uses charisma she treats the roll as a 10.
-
-![[dndline.png]]
 
 # Actions
 

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, monster, statblock]
+tags: [Monster, Plot/Dark-Nuns-Church, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ````col
@@ -54,13 +54,13 @@ Medium Elemental Chaotic Evil
 
 # Actions
 
-### Bite
+## Bite
 
   **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
 
   **Hit:**  5  piercing damage.  
 
-### Claws
+## Claws
 
   **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
 

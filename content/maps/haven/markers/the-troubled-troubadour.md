@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2314.983, 3931.633]
 mapmarker: Inns & Taverns
 title: The Troubled Troubadour
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The Troubled Troubadour

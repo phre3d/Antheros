@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Choking
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Choking
@@ -31,14 +31,14 @@ Created by an enterprising tinkerer after observing the effects of smoky fires o
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** Charcoal, Smokestick
@@ -53,4 +53,3 @@ Created by an enterprising tinkerer after observing the effects of smoky fires o
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

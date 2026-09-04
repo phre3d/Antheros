@@ -5,30 +5,25 @@ cr_id: balkrin-vanagas
 name: Balkrin Vanagas
 sex: male
 born: 1128
-mother: "[[plots/the-gypsy-train/npcs/Hyrina-vanagasHyrina Vanagas]]"
+mother: "[[plots/the-gypsy-train/npcs/hyrina-vanagas]]"
 mother-id: hyrina-vanagas
-children:
-  - "[[plots/the-gypsy-train/npcs/Ismek-vanagasIsmek Vanagas]]"
-  - "[[plots/the-gypsy-train/npcs/Kordaal-vanagasKordaal Vanagas]]"
-  - "[[plots/the-gypsy-train/npcs/Selynis-vanagasSelynis Vanagas]]"
-children_id:
-  - ismek-vanagas
-  - kordaal-vanagas
-  - selynis-vanagas
-spouse: "[[plots/the-gypsy-train/npcs/Zanthira Vanagas]]"
+spouse: "[[plots/the-gypsy-train/npcs/zanthira-vanagas]]"
 spouse_id: zanthira-vanagas
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
-cousin: "[[plots/the-gypsy-train/npcs/Rymvid Galinys]]"
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
+cousin: "[[plots/the-gypsy-train/npcs/rymvid-galinys]]"
 cousin_id: rymvid-galinys
-friend: "[[plots/the-gypsy-train/npcs/Bronkar Prusas]]"
+friend: "[[plots/the-gypsy-train/npcs/bronkar-prusas]]"
 friend_id: bronkar-prusas
 title: Balkrin Vanagas
 ---
 
 # Balkrin Vanagas
 
-Medium, humanoiid (human), chaotic neutral
+>[!info] Portrait
+>![[plots/the-gypsy-train/images/balkrin-vanagas.jpg]]
+
+*Medium, humanoid (human), chaotic neutral*
 
 **Profession:** Fighter (5th)
 
@@ -50,8 +45,7 @@ Medium, humanoiid (human), chaotic neutral
 **Senses:** passive perception <br>
 **Skills:** Athletics, Intimidation, Persuasion, Carpenter's tools, Thieves Tools, all Gaming sets
 
->[!infobox]
->![[plots/the-gypsy-train/images/balkrin-vanagas.jpg]]
+
 
 ---
 

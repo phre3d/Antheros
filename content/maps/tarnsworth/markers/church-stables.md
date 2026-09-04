@@ -1,9 +1,13 @@
 ---
 aliases: []
-tags: [map-marker, tarnsworth]
-title: church-stables
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-09-02, 1:13:06 pm
+location: [203, 555]
+mapmarker: Religion
+tags: [Map/marker, Settlement/tarnsworth]
+title: Church Stables
 ---
+
+# Church Stables
 
 **Description** <br>
 Stables at the rear of the church
@@ -16,5 +20,5 @@ Stables at the rear of the church
 **Map:** [[maps/tarnsworth/tarnsworth|Tarnsworth]]
 
 **Location on Map** <br>
-*X co-ordinate:* 1244<br>
-*Y co-ordinate:* 1820
+*X co-ordinate:* 276.263<br>
+*Y co-ordinate:* 120.947

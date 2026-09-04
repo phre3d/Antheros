@@ -1,13 +1,18 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, plot]
+tags: [Plot, Plot/Clockwork-Tower]
 title: Chronos Lobby
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
+
+![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
 
 # Chronos Lobby
 
-The Chronos Lobby is an opulent entrance to the Clockwork Tower, featuring walls lined with ornate timepieces of all sizes. The main focus is a grand central timepiece that towers over the room. However, it is silent and lifeless, requiring numerous parts for restoration. The clockwork bird guides, [[person/tick-and-tock]], can be found here fluttering around, offering guidance to adventurers willing to listen. The required parts can be discovered in Haven's [[plots/great-junkyard]], a sprawling wasteland of discarded clockwork and machinery. There, adventurers might face Rust Engineers, ghosts of obsolete workers that were once alive with purpose.
+>[!info]
+>![[plots/clockwork-tower/table-of-contents|Table of Contents]]
+
+The Chronos Lobby is an opulent entrance to the Clockwork Tower, featuring walls lined with ornate timepieces of all sizes. The main focus is a grand central timepiece that towers over the room. However, it is silent and lifeless, requiring numerous parts for restoration. The clockwork bird guides, [[plots/clockwork-tower/npcs/tick-and-tock]], can be found here fluttering around, offering guidance to adventurers willing to listen. The required parts can be discovered in Haven's [[plots/clockwork-tower/great-junkyard]], a sprawling wasteland of discarded clockwork and machinery. There, adventurers might face Rust Engineers, ghosts of obsolete workers that were once alive with purpose.
 
 > [!read-aloud] **Read Aloud**
  >  
@@ -15,15 +20,11 @@ The Chronos Lobby is an opulent entrance to the Clockwork Tower, featuring walls
  >
  > A soft fluttering catches your ear, leading your gaze to two small clockwork birds darting between the clocks as they fly in synchronized harmony. Their wings, a blend of feathers and fine metals, glint in the ambient light. Landing before you, their mechanical eyes focus intently on you. With curious tilts of their heads, they seem poised with intelligence and purpose.
 
----
-
 # Additional Information
 
- **Grand Central Timepiece:**  A giant ornamental clock, currently non-functional. Restoring it might be key to helping reactivate the Clockwork Tower. Parts required for its restoration can be found in Haven's [[plots/great-junkyard]].
+ **Grand Central Timepiece:**  A giant ornamental clock, currently non-functional. Restoring it might be key to helping reactivate the Clockwork Tower. Parts required for its restoration can be found in Haven's [[plots/clockwork-tower/great-junkyard]].
 
- **[[person/tick-and-tock]]:**  These two clockwork birds are ready to assist adventurers in understanding the tower's mysteries. If approached diplomatically, they can offer hints, historical insights about [[person/constantine-chronosmith]], and guidance on potential dangers ahead. If the adventurers are aggressive or destructive, [[person/tick-and-tock]] can activate defense mechanisms or redirect them into more dangerous paths.
-
----
+ **[[plots/clockwork-tower/npcs/tick-and-tock|Tick and Tock]]:**  These two clockwork birds are ready to assist adventurers in understanding the tower's mysteries. If approached diplomatically, they can offer hints, historical insights about [[plots/clockwork-tower/npcs/constantine-chronosmith|Constantine Chronosmith]], and guidance on potential dangers ahead. If the adventurers are aggressive or destructive, Tick and Tock can activate defense mechanisms or redirect them into more dangerous paths.
 
 # Traversing Rooms in the Tower
 
@@ -31,13 +32,11 @@ The easiest way to picture the Tower interior is to imagine each room is on a se
 
 As the player climb/descend, they will feel a "lurch" in the pit of their stomachs  when they pass a point between rooms,  which  represents their translocation between areas (<u>DC 12 CON save to avoid 10 minutes of nausea, adjusted rolls under 7 means they actually vomit</u>).
 
-Players on either side of the translocation point can communicate normally but cannot see each other - all they see is that the stairway continues. Watching a player cross to the other side, it appears as if their body is streched in time as it is pulled through.
-
----
+Players on either side of the translocation point can communicate normally but cannot see each other - all they see is that the stairway continues. Watching a player cross to the other side, it appears as if their body is stretched in time as it is pulled through.
 
 # Communicating with Tick and Tock
 
-The PCs can ask [[person/tick-and-tock]] questions. The stuttering, sing-song manner of [[person/tick-and-tock]] can provide not only helpful hints to adventurers but also inject some lightheartedness into an otherwise serious and potentially intense environment of the Clockwork Tower. Here are some chirpy, stuttering, sing-song responses from [[person/tick-and-tock]] regarding locations inside the Clockwork Tower:
+The PCs can ask [[plots/clockwork-tower/npcs/tick-and-tock]] questions. The stuttering, sing-song manner of [[plots/clockwork-tower/npcs/tick-and-tock]] can provide not only helpful hints to adventurers but also inject some lightheartedness into an otherwise serious and potentially intense environment of the Clockwork Tower. Here are some chirpy, stuttering, sing-song responses from [[plots/clockwork-tower/npcs/tick-and-tock]] regarding locations inside the Clockwork Tower:
 
  **Regarding the Chronos Lobby:**
 
@@ -74,57 +73,51 @@ The PCs can ask [[person/tick-and-tock]] questions. The stuttering, sing-song ma
 - **Tick:**   "Chirp-chirp! Constantine's s-s-song, trapped in time, all along!"
 - **Tock:**   "Tock-tock! Wise yet wild, the inventor's spirit, time's lost child!"
 
----
-
 # Parts Needed to Restore the Grand Central Timepiece
 
 Below is a list of parts needed to restore the Grand Central Timepiece. They can be found in the [[plots/clockwork-tower/great-junkyard|Great Junkyard]].
 
-###  **Chronosmith's Balance Wheel**  
+##  **Chronosmith's Balance Wheel**  
 
  Central to the timepiece's operation, this wheel will replace the damaged section of the Grand Central Timepiece.
 
-###  **Temporal Mainspring**  
+##  **Temporal Mainspring**  
 
  A source of energy, this mainspring can store and manage the flow of time, crucial for the clock's mechanisms.
 
-###  **Timeless Pivot**  
+##  **Timeless Pivot**  
 
  Essential for the clock's tick-tock motion, this pivot ensures smooth and continuous operation.
 
-###  **Everlasting Spring**  
+##  **Everlasting Spring**  
 
  The clock will require a continuous energy source, and this spring ensures that the clock doesn't need to be constantly wound up.
 
-###  **Crank of Quickening:**  
+##  **Crank of Quickening:**  
 
  To initially set the time and start the clock, this crank will make the process faster.
 
----
-
 # Wear and Tear Restoration Tasks for the Chronos Lobby
 
-###  **Dusty Timepieces**
+##  **Dusty Timepieces**
 
 - **Task:**  Clean each clock and hourglass.
 - **Directions:**  Simple cleaning requires a <u>Dexterity check (can use tinker's tools) (DC 8)</u>. Casting the Prestidigitation spell can instantly clean a single timepiece.
 
-###  **Misaligned Clock Hands**
+##  **Misaligned Clock Hands**
 
 - **Task:**  Realignment to ensure accurate timekeeping.
 - **Directions:**  Players can make an <u>Intelligence check (using tinker's tools). DC 12</u> ensures all smaller clocks are synced. Failing by 5 or more causes a clock to break, needing further repairs.
 
-###  **Unlubricated Gears**
+##  **Unlubricated Gears**
 
 - **Task:**  Lubricate the gears of the clocks to ensure smooth movement.
 - **Directions:**  Requires oil or an equivalent substance. Applying oil without damaging the clocks requires a <u>Dexterity check (can use tinker's tools) (DC 10)</u>. Failure by 5 or more could cause temporary damage to a clock.
 
-###  **Cracked Glass on Timepieces**
+##  **Cracked Glass on Timepieces**
 
 - **Task:**  Replace or mend the glass.
 - **Directions:**  Glass can be replaced with materials found in the junkyard. Alternatively, a Mending spell can repair minor cracks. Replacing requires a <u>Dexterity check (using tinker's tools) (DC 12)</u> to ensure it's done without further damage.
-
----
 
 # Environmental Actions
 
@@ -133,8 +126,6 @@ On initiative count 20 (losing initiative ties), the Clockwork Tower activates a
 1. **Time Dilation:**  A section of the lobby warps time, making actions within it faster or slower. This can hasten or slow players, affecting their speed and action economy for one round as though affected by the Haste or Slow spell.
 2. **Temporal Echo:**  An illusory duplicate of one of the PCs appears, mimicking their actions but operating on a delay. This echo might distract or confuse players, potentially misdirecting their attacks.
 
----
-
 # Monster
 
 ![[plots/clockwork-tower/monsters/clockwork-sentinel|Clockwork Sentinal]]<br>
@@ -142,21 +133,11 @@ On initiative count 20 (losing initiative ties), the Clockwork Tower activates a
 
 # NPC
 
-![[plots/clockwork-tower/npcs/tick-and-tock]]
+![[plots/clockwork-tower/npcs/tick-and-tock|Tick and Tick]]
 
->[!infobox]
->![[plots/clockwork-tower/table-of-contents|Table of Contents]]
-
----
-
-````col
-```col-md
-Previous: 3d4f5d6a-d60f-4f59-97a2-c989bfc88849
-```
-
-```col-md
-textAlign=right
-===
-Next: f1faca19-130f-4e86-a79b-ca1bfd5d6354
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/clockwork-tower/the-watchmakers-shop" class="internal-link">The Watchmaker's Shop</a></span>
+  <span class="nav-next">Next: <a href="plots/clockwork-tower/artificers-library" class="internal-link">Artificer's Library    </a> →</span>
+</div>

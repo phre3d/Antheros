@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, settlement]
+tags: [Settlement/mandalai]
 title: Mandalai
-date modified: 2026-07-16, 9:18:09 pm
+date modified: 2026-08-17, 12:45:53 pm
 ---
 
 # Mandalai
@@ -70,7 +70,7 @@ shadow: off
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Id:** af32e79a-42d1-4531-8f42-287dc5154892<br>
 **Entity Type:** Article / settlement<br>

@@ -1,9 +1,13 @@
 ---
 aliases: []
-tags: [map-marker, tarnsworth]
-title: headmans-house
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-09-02, 1:13:27 pm
+location: [363, 555]
+mapmarker: Residence
+tags: [Map/marker, Settlement/tarnsworth]
+title: "Headman's House"
 ---
+
+# Headman's House
 
 **Description** <br>
 The headman Georgeson's house

@@ -1,22 +1,26 @@
 ---
 aliases: []
-tags: [import, map]
+tags: [Map]
 title: Description
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
----start-multi-column: MainBody
+# Antheros
+>[!info]
+>**Compass:** <br>
+>
+>**Location:**<br>
+>**Organization:**
+>
+>**Campaign(s):** [[campaign/campaign|Haven Irregulars]] 
+>
+>**Image Name:** Antheros.jpg<br>
+>**Image #** 5661356<br>
+>
+>**Markers:**
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 29%]
-border: [off]
-shadow: off
-```
 
-# Description
-
-A map of the known world, centered on the [[settlements/free-city-of-haven]].
+A map of the known world, centered on the [[settlements/haven/free-city-of-haven|Free City of Haven]].
 
 # Image
 
@@ -24,19 +28,7 @@ A map of the known world, centered on the [[settlements/free-city-of-haven]].
 
 # Legend
 
---- end-column ---
 
-**Image Name:** Antheros.jpg<br>
-**Image #** 5661356<br>
-**Compass:** <br>
 
-**Location:**<br>
-**Organization:**
 
-**Campaign(s):**
 
-**Markers:**
-
-- [[maps/antheros/haven]]
-
---- end-multi-column

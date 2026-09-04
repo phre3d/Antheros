@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3564.983, 897.959]
 mapmarker: Entertainment
 title: T. Barnum Pott Memorial Museum
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # T. Barnum Pott Memorial Museum
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: C11 (LD)
 
-**Location:** [[landmarks/t.-barnum-pott-memorial-museum|T. Barnum Pott Memorial Museum]]<br>
+**Location:** [[landmarks/t-barnum-pott-memorial-museum|T. Barnum Pott Memorial Museum]]<br>
 **Location Type:** Museum
 
 **Description**<br>

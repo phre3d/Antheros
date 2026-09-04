@@ -1,20 +1,20 @@
 ---
 aliases: []
-tags: [import, rank]
+tags: [Rank]
 title: Guild Master
-date modified: 2026-07-16, 7:54:52 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Guild Master
 
----start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>**Type:**
+>
+>**Status:**
+>
+>**Form of Address:** Guildmaster, or less formally, Master
+>
+>**Length of Term:** Until the Guild Masters demand a change
 
 # Description
 
@@ -52,18 +52,4 @@ By popular vote or violent overthrow, depending upon the guild.
 
 # Notable Holders
 
---- end-column ---
 
-**Type:**
-
-**Status:**
-
-**Form of Address:** Guild Master, or less formally, Master
-
-**Reports-to Rank:** [[ranks/guild-grandmaster|Guild Grandmaster]]
-
-**Length of Term:** Until membership, or the Grandmaster demands a change.
-
---- end-multi-column
-
----

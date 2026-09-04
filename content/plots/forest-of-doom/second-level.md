@@ -1,21 +1,28 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, import, plot]
+date modified: 2026-08-29, 2:36:48 pm
+tags: [Plot, Plot/Forest-of-Doom]
 title: "FoD: Second Level"
-date modified: 2026-07-16, 9:18:15 pm
 ---
+
+![[plots/forest-of-doom/images/forest-of-doom-header.png]]
 
 # FoD: Second Level
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
-==Elevation ranges from 200 feet to 300 feet above ground level== 
+>[!info]
+>![[plots/forest-of-doom/table-of-contents]]
+>
+>---
+>
+>![[plots/forest-of-doom/maps/second-level.jpg]]
 
-## 15. Snare Trap 
-> [!read-aloud] **Read Aloud** 
+# Outline
+
+==Elevation ranges from 200 feet to 300 feet above ground level==
+
+## 15. Snare Trap
+
+> [!read-aloud] **Read Aloud**
  >  
  > The ascending, spiraling passageway ends at an archway that opens into the outside air. A small wooden door is in plain sight along the inner wall of the corridor right at the end of the ascent, and seems to lead back into the tree. There is light here in the outside area – just enough illumination to make out general features, such as the door.
 
@@ -24,10 +31,11 @@ flexGrow=2.5
 - The rope of entanglement will remain stretched out to its full length and will  ==not attempt to entwine other characters unless they try to grab it or sever it== . This rope can entangle up to four man-sized creatures before its length is “used up,” at which point the first character grabbed by it will have been pulled back up to a point just below the branch.
 - ==If the rope is severed or untied==  from its mooring within the false doorway, any characters being held by it who aren't also anchored to the branch will plummet to the ground.
 
-## 16. Rat Cage 
-> [!read-aloud] **Read Aloud** 
+## 16. Rat Cage
+
+> [!read-aloud] **Read Aloud**
  >  
- > The door to this room is different from all the others in the fortress. It is made of metal mesh reinforced by wood strips, with a sliding panel in the bottom of the door. The entire door is also hinged and latched.  By looking through the mesh, characters can see a large number of giant rats inside the chamber 
+ > The door to this room is different from all the others in the fortress. It is made of metal mesh reinforced by wood strips, with a sliding panel in the bottom of the door. The entire door is also hinged and latched.  By looking through the mesh, characters can see a large number of giant rats inside the chamber
 
 The  ==door can be opened wide==  if anyone cares to enter the room. IIf they do, there are  ==15 rats== , which are used as food for the giant owl nesting in  **area 17**  .
 
@@ -39,11 +47,11 @@ The way to get a rat out of the room without actually entering the chamber is to
 - Then slide the panel open again, kill the rat before it can escape, and throw the carcass to the owl to allow the party unimpeded access to the rope bridge.
 - Once they figure out what the rats are for, characters may also figure out that it's a good idea to kill two rats and save one to give to the owl on their return trip.
 
-## 17. Owl Nest 
-> [!read-aloud] **Read Aloud** 
+## 17. Owl Nest
+
+> [!read-aloud] **Read Aloud**
  >  
  > The passage leading past the rat cage opens onto a large branch. Thirty feet from the opening is an assortment of twigs and small branches and a large nest. Sleeping in the nest is a giant owl.  To the right, twenty feet from the opening and ten feet away from the owl's nest, an long rope bridge is anchored into the branch, extending across to another branch.
- 
 
 - ==If characters approach the rope bridge without first tossing a dead rat==  in the direction of the owl, the bird will screech a warning and move toward the party, attempting to cut off their access to the bridge.
 - It is possible for  ==one character, or two at most, to run to the bridge==  and begin to move along its length before the owl gets within attacking range – but in such a case, the  ==character(s) on the bridge will be the owl's preferred target== , and they will be hard pressed to keep their footing on the bridge while the owl is hovering over them and swiping at them with its claws and beak.
@@ -54,13 +62,14 @@ The way to get a rat out of the room without actually entering the chamber is to
 - ==If characters move toward the nest== , the owl will abandon any characters on the bridge and move to defend (to the death) the two eggs in its nest.
 - All of these possible  ==problems can be avoided if the bird is fed one of the rats== . It will snatch up the carcass and retire to its nest, taking  ==five rounds to devour its meal== . During this time, the party can move onto and across the bridge without resistance.
 
- ==The rope bridge is somewhat rickety== , but strong enough to support a fully armored human (or any smaller creature). 
+ ==The rope bridge is somewhat rickety== , but strong enough to support a fully armored human (or any smaller creature).
 
 - Characters who  ==attempt to negotiate it at their full normal movement rate==  have a 5% chance per point of dexterity to make it all the way across without losing their balance and possibly falling.
 - If a character loses his balance while on the bridge, he or she must make a <u>DC 10 dexterity check to avoid falling</u> off.
 - The  ==danger of slipping and falling can be negated==  if characters move across the bridge cautiously, going at half their normal movement rate – which should still give them plenty of time to get across the bridge and through the passage into  **area 18**  before the owl gets hungry again.
 
-## 18. Corridor of Captives 
+## 18. Corridor of Captives
+
  ==The door leading to this area==  is locked on the inside but can be opened easily from the outside. It will swing shut and lock behind any character or group who enters the corridor if it is not propped open. The corridor has no light sources of its own; as soon as the door is opened, much wailing and whimpering can be heard coming from the darkness ahead.
 
 This long, curved corridor has  ==no features except for many pairs of wrist and ankle shackles==  set into the walls –  ==and the unfortunate creatures connected to those shackles== . It is a “holding hall” for prisoners of the drow, humanoids who have been captured out in the forest as well as inside the fortress and who, for one reason or another, are unsuitable for slave work.
@@ -77,25 +86,27 @@ Sets of chains and shackles are  ==spaced about 20 feet apart==  along both the 
 
  ==Seven of the other nine prisoners==  that characters will encounter on their way through this corridor are almost as bad off as the first victim –  ==able to do nothing but scream and wail, begging for their release== . They are unarmored, in very poor health, and would not be of any measurable benefit to the party if they were released. Some of them may actually beg the adventurers to end their suffering, instead of screaming to be freed.
 
- ==The two healthy prisoners==  – captured most recently of all – are shackled in the last two spots in the corridor, at the foot of the ramp that leads to area 19. 
+ ==The two healthy prisoners==  – captured most recently of all – are shackled in the last two spots in the corridor, at the foot of the ramp that leads to area 19.
 
 - The  ==first is a female dwarven fighter==   who is armored but weaponless. If freed, she  ==will follow the adventurers and will be willing to assist==  them in any way she can that does not involve a direct threat to her life.
 - The second is  ==a 3rd level female human wizard==   whose only remaining spell at this time is magic missile. If freed,  ==she will also follow and assist== .
 
-## 19.	Guard Room 
-This sparsely furnished, irregular chamber, located behind an  ==unlocked door== , is occupied by  ==a 2nd level male drow fighter==  who is “guarding” the prisoners. 
+## 19.	Guard Room
+
+This sparsely furnished, irregular chamber, located behind an  ==unlocked door== , is occupied by  ==a 2nd level male drow fighter==  who is “guarding” the prisoners.
 
 - The captives in the corridor don't need to be looked after closely; basically, the guard in this area is only responsible for making  ==sporadic checks of the corridor to see if any prisoners have died.==  When he finds a body, he unlocks the shackles holding it and arranges for the remains to be transported to the fertilizer pit. A key, which fits any of the shackles in the corridor, is on a cord around his neck.
 - The  ==guard is accustomed to hearing the delirious moans and groans of the prisoners== , and will not be alerted to the presence of intruders by any sounds or statements the captives might make. He will be  ==automatically surprised if the party approaches the door with caution==  and pulls it open quickly.
 - The guard  ==will be able to hear if any attempt is made to release a prisoner from any of the five sets of chains closest==  to the door of this room. If this occurs, he will burst from the room, attacking only if a lone character is the adversary.  ==If outnumbered== , he will try to flee in a counter-clockwise direction, heading back out of the corridor and toward the first level to sound an alarm. He will  ==only engage in combat if an opponent stands in his way== , and under no circumstances will he lead the party clockwise through the corridor and deeper into the fortress.
 
-## 20.	Shadow in the Shadows 
-This roughly square chamber lies behind  ==a heavy wooden door==  that can be locked from the outside but is  ==not locked at the present time== . 
+## 20.	Shadow in the Shadows
+
+This roughly square chamber lies behind  ==a heavy wooden door==  that can be locked from the outside but is  ==not locked at the present time== .
 
 - The  ==room is pitch dark== , and even if the chamber is illuminated by light sources carried by characters, the  ==northeast corner will remain shrouded in shadow== . This is because a  ==four-foot-high partition of wood==  (indicated on the map by dotted lines) has been built up, closing off access to the corner except through a narrow passageway along the north wall.
 - ==Characters who advance close enough==  to the partition to see over the top of it will spot a gem in the corner of the chamber, glowing with a faint red color and seemingly suspended in the shadows a few inches off the ground.
 
-The shadows cast by the  ==partitions are designed to conceal the presence of a shadow demon==  whose inert body lies in the corner (at the spot marked “x”). 
+The shadows cast by the  ==partitions are designed to conceal the presence of a shadow demon==  whose inert body lies in the corner (at the spot marked “x”).
 
 - The demon has cast a  *magic jar* , causing its life force to be contained within the gem that is hung around its neck.
 - The demon will try to  ==take over the mind of the first character who approaches==  to the outer edge of the partition, or who comes through the narrow passageway and moves toward the gem.
@@ -104,7 +115,7 @@ The shadows cast by the  ==partitions are designed to conceal the presence of a 
 
 If a player is successfully posessed, give them the shadow demon's stat sheet and the following instructions to play the demon as described.
 
->[!Note] Instructions for the Player whose Character was Posessed
+>[!note] Instructions for the Player whose Character was Posessed
 >You have been posessed by a  *shadow demon*  via a  spell.  The demon, whose body was behind the partition, cast their life force into the glowing gem (behind the partion) and from there, waited for a victim - you.  Your character's life force is now inside the gem and can see/sense what is happening nearby but cannot interact with the world outside the gem.
 >
 >You are now playing as the demon inside your head.
@@ -116,7 +127,7 @@ If a player is successfully posessed, give them the shadow demon's stat sheet an
 > - If the party takes the gem, it must be carried by  **you and only you** .
 > - If necessary to protect the gem - from your party or someone else - you will fight to the death.
 >
->You have access to your character's physical weapons and attacks. You do  **not**  have access to your character's skills or magic except for what comes from an item you carry.  You have however, gained the  innate capabilities of the demon: 
+>You have access to your character's physical weapons and attacks. You do  **not**  have access to your character's skills or magic except for what comes from an item you carry.  You have however, gained the  innate capabilities of the demon:
 >
 > - **Light Sensitivity.**  While in bright light, you have disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 > - **Shadow Stealth.**  While in dim light or darkness, you can take the Hide action as a bonus action.
@@ -124,7 +135,7 @@ If a player is successfully posessed, give them the shadow demon's stat sheet an
 >
 >In addition, some of your ability scores have changed to that of the demon: INT: 14, WIS: 13, CHA: 14.
 
- ==If the party is somehow able to neutralize or immobilize the possessed==  character, the demon will attempt to abandon the possessed character.   
+ ==If the party is somehow able to neutralize or immobilize the possessed==  character, the demon will attempt to abandon the possessed character.
 
  - If the gem is within 100', the demon's life force will travel instantaneously back into the gem, and the once-possessed character will regain control of their mind.
  - If the gem is not within 100' the demon will bide it's time.
@@ -134,25 +145,25 @@ If a player is successfully posessed, give them the shadow demon's stat sheet an
 
 Upon a successful return to its own body, the demon will lie in wait for the party to return.
 
-## 21. Farther from the Jar 
-> [!read-aloud] **Read Aloud** 
- >  
- > This chamber is empty and has no distinguishing features.
+## 21. Farther from the Jar
 
-## 22. Perilous Pool 
-> [!read-aloud] **Read Aloud** 
- >  
- > The only noteworthy feature of this oblong chamber is a shallow pool containing what appears to be a shimmering liquid.
- 
+> [!read-aloud] **Read Aloud**
+ >  This chamber is empty and has no distinguishing features.
+
+## 22. Perilous Pool
+
+> [!read-aloud] **Read Aloud**
+ >The only noteworthy feature of this oblong chamber is a shallow pool containing what appears to be a shimmering liquid.
 
  - Any and all characters who move to within 5 feet of the edge of the pool while facing toward the pool will  ==see their reflection in the surface, and will soon discover that the pool is actually a type of mirror of opposition== .
  - Duplicates of characters who look into the pool  ==will come into being one round later== , so that the mirror's true nature will not be immediately evident to the party, and more than one character might approach the pool before its delayed-action magic goes into effect.
  - Any  ==duplicate will attack only the character who was duplicated== , ignoring the presence of any other party members who may be in the room,  ==unless or until another party member joins==  in the attack against someone else's magical adversary.
 
-## 23.	Cleric's Chamber 
+## 23.	Cleric's Chamber
+
 This room, located behind an unlocked door, is the study and living quarters of  ==a female drow cleric of 4th level== . She will be  ==oblivious to the presence of characters in the area outside her chambers== , because she is deep in meditation, praying for replenishment of her spells. Her meditation will end at precisely the moment a character pulls open the door to her quarters (but she is susceptible to being surprised).
 
- - ==In addition to the innate magic abilities==  possessed by all female drow, this cleric has the following spells: 
+ - ==In addition to the innate magic abilities==  possessed by all female drow, this cleric has the following spells:
   - cure light wounds,
   - protection from good,
   - sanctuary,
@@ -160,60 +171,37 @@ This room, located behind an unlocked door, is the study and living quarters of 
   - and spiritual hammer.
  - If outnumbered, she will attempt to escape into  **area 22**  and from there into and through  **area 24** , using her superior movement rate to outdistance the intruders and warn the occupants of the uppermost level.
 
-The room contains ordinary furnishings of no particular value, plus a  ==wooden chest that is locked and protected with a poison-needle trap== . 
+The room contains ordinary furnishings of no particular value, plus a  ==wooden chest that is locked and protected with a poison-needle trap== .
 
  - Anyone who opens the chest without finding and removing  ==the trap will take 2-8 points of damage==  from the needle and must save vs. poison or fall unconscious for 2-5 turns.
- - The chest contains 
+ - The chest contains
   - ordinary clothing and personal items,
   - a suit of +1 chainmail sized to fit a female elf,
   - 20 gold pieces in a leather pouch,
   - and three gems worth 10, 25, and 125 gp.
 
-## 24. Catwalk Challenge 
-> [!read-aloud] **Read Aloud** 
- >  
- > After going up the ramp leading from  **area 22** , characters will find themselves on a narrow catwalk elevated slightly off the floor of the chamber and set off from the surrounding area by a wooden ledge three feet high and six inches thick. The catwalk is too narrow to allow anything other than single-file passage through this chamber. The terrain on either side of the catwalk appears to be overgrown with mushrooms and other sorts of fungus. The catwalk twists around, following the path indicated by the dotted line on the map.
+## 24. Catwalk Challenge
 
+> [!read-aloud] **Read Aloud**
+ >After going up the ramp leading from  **area 22** , characters will find themselves on a narrow catwalk elevated slightly off the floor of the chamber and set off from the surrounding area by a wooden ledge three feet high and six inches thick. The catwalk is too narrow to allow anything other than single-file passage through this chamber. The terrain on either side of the catwalk appears to be overgrown with mushrooms and other sorts of fungus. The catwalk twists around, following the path indicated by the dotted line on the map.
 
  - The area  ==around and beneath the catwalk has been magically altered == by a  *hallucinatory terrain*  spell. The surface of this chamber is  ==actually covered by a series of jagged wooden spikes==  that have been chiseled out of the floor. The spikes are all between 2 and 3 feet tall and are very closely packed together.
  - If a  ==character vaults over the ledge framing the catwalk== , the hallucinatory terrain will be dispelled as soon as that character drops down on the outside of the ledge and falls onto the spikes below. A character will always take damage from the spikes, but has a chance to make a saving throw for half damage. To avoid taking full damage 4d4, the character must make  ==a DC 15 Dexterity save.==
  - Any  ==character who lowers himself carefully==  into the area of the spikes, once they have been "discovered,” will not take damage from the descent.
 
-> [!read-aloud] **Read Aloud** 
- >  
- > Twenty feet from the foot of the ramp leading up to the third level, the catwalk opens out into a clearing.
- 
+> [!read-aloud] **Read Aloud**
+>Twenty feet from the foot of the ramp leading up to the third level, the catwalk opens out into a clearing.
 
-Right at the edge of this clearing (at the location marked “x” on the catwalk), the party's  ==progress will be impeded by a powerful (32 hit points) giant spider==  that has been trained to attack any non-drow character or creature who advances this far into the chamber. 
+Right at the edge of this clearing (at the location marked “x” on the catwalk), the party's  ==progress will be impeded by a powerful (32 hit points) giant spider==  that has been trained to attack any non-drow character or creature who advances this far into the chamber.
 
  - The spider will  ==begin by dropping a bundle of webbing==  on the first character in line, and on the same round will then drop itself down from the darkness above and attack either the character ensnared in the webbing or the next character in line (50% chance of each).
  - A character holding a light source above his or her head and actively scanning the ceiling of the chamber has a 20% chance of detecting the presence of the spider just before the creature drops its webbing, thus negating the spider's chance to surprise the invaders.
 
 Any character in the area of the spikes must move slowly (at a 3" rate). In addition, characters in the spikes must save vs. dexterity on d20 every round to avoid stumbling and taking 1-6 points of damage.
 
-```
-
-```col-md
-
-![[table-of-contents]]
-
----
-![[images/second-level.jpg]]
-
-```
-````
-
-````col
-```col-md
-Previous:
-929de3fc-6875-4969-a7c5-3964465b4954
-
-```
-
-```col-md
-
-Next:
-b05da8f8-0c57-44b2-abe1-d96d335d9877
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/forest-of-doom/first-level" class="internal-link">First Level</a></span>
+  <span class="nav-next">Next: <a href="plots/forest-of-doom/third-level" class="internal-link">Third Level</a> →</span>
+</div>

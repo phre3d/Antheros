@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [148.763, 97.5704]
 mapmarker: Inns & Taverns
 title: Golden Wheat Inn
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Golden Wheat Inn
@@ -16,7 +16,7 @@ date modified: 2026-07-16, 9:18:38 pm
 *Foundry:* 750, 2150<br>
 *Leaflet:* []
 
-**Marker Type:** Inns & Taverns
+**Marker Type:** [[maps/~markertypes/inns-&-taverns|Inns & Taverns]] 
 
 **Map Ref:** --
 

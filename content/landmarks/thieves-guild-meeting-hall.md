@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-guild, Free_City_of_Haven, guild, import, landmark, the-labyrinth, type-guildhouse]
+tags: [Building/guildhouse, Haven/labyrinth, Organization/criminal/thieves-guild, Plot/Free-City-of-Haven]
 title: "Thieves' Guild Meeting Hall"
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Thieves' Guild Meeting Hall
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Guildhouse (Guild) <br>
+>**Owner:**   <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    P04 (TI)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Guildhall  <br>
 
 ## Central hall for guild meetings
 
@@ -24,93 +29,9 @@ shadow: off
 
 The main meeting hall, used for large meetings of guild leaders, initiations, ceremonies, and other purposes. When not in use, all trappings are removed, leaving what appears to be an abandoned warehouse. The door to the alley is locked unless a meeting is planned.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Guildhouse (Guild)**
-
- **Owner:**  
-
- **District:**  
-
- **Grid (Key) Ref.:**   P04 (TI)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Guildhall
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/criminal/thieves-guild|Thieves Guild]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ab9730d0-fb57-454f-8298-83418b61a7b2<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-guild,type-guildhouse,guild
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

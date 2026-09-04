@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, the-dell, type-large-house]
+tags: [Building/residential/large-house,Haven/outlands/dell, Plot/Free-City-of-Haven]
 title: Residence of Rigaletto and Paladin Brandybuck
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Residence of Rigaletto and Paladin Brandybuck
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Large House (Residence) <br>
+>**Owner:**  [[people/rigaletto-brandybuck|Rigaletto Brandybuck]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    D13 (IQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** House, Large  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Where [[settlements/the-dell|The Dell]]'s most prominent citizens entertain the city's elite
+## Where [[settlements/haven/the-outlands/the-dell|The Dell]]'s most prominent citizens entertain the city's elite
 
 ## Exterior
 
@@ -44,95 +49,9 @@ In addition to the Brandybucks, an elderly halfling woman named Lissa Glass serv
 
 Paladin has, among his personal effects, the stuffed heads of several wild beasts (bagged in the dark wilds of the local taxidermist), a collection of cloth-bound volumes on military history, and a huge bronze statue of a halfling warrior in full fighting pose. Rigaletto of course has an expensive wardrobe of silks and velvets, and a number of beautiful masterworks culled from his shop over the years. He also owns an obsidian and jade chess set, and has a map of Haven and its surrounding territories that fills an entire wall of his study.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Large House (Residence)**
-
- **Owner:**  Rigaletto Brandybuck
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   D13 (IQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** House, Large
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/rigaletto-brandybuck|Rigaletto Brandybuck]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3f22d6d9-f04b-45f0-a699-def607d901c7<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-residence,type-large-house,residence
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

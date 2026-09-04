@@ -1,23 +1,14 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, item, magic-item, statblock]
+tags: [Item, Item/magic-item, Plot/Clockwork-Tower, statblock]
 title: Temporal Quill
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
-
----start-multi-column: Top
-
-```column-settings  
-number of columns: 2  
-column size: [59%, 39%]
-border: [off]
-alignment: [left, center]
-shadow: off
-```
 
 # Temporal Quill
 
-  Source: Penny Blood Adventures
+>[!info] Image
+>![[plots/clockwork-tower/images/temporal-quill.png]]
 
 **Item Type:** Wondrous Item<br>
 **Rarity:** Uncommon<br>
@@ -25,19 +16,9 @@ shadow: off
 **Weight:** <br>
 **Attunement:**
 
---- end-column ---
-
-![[plots/clockwork-tower/images/temporal-quill.png]]
-
---- end-multi-column
-
----
-
 # Properties
 
 Temporal Quill
-
----
 
 # Description
 
@@ -45,34 +26,4 @@ This elegant feather quill has an ethereal sheen. Its tip perpetually glistens a
 
 ---
 
---- start-multi-column: ArmourWeapon
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 50%]
-border: [off, off]
-```
-
-# Armour Details
-
-**Armour Type:**
-
-**Armour Class:**
-
-**Strength Requirement:**
-
---- end-column ---
-
-# Weapon Details
-
-**Subtype:** None
-
-**Damage:**
-
-**Secondary Damage:**
-
-**Damage Type:** None
-
-**Range:**
-
---- end-multi-column
+**Source:** Penny Blood Adventures

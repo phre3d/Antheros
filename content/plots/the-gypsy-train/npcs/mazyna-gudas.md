@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: mazyna-gudas
 name: Mazyna Gudas
@@ -8,15 +8,18 @@ sex: female
 born: 1165
 mother: "[[plots/the-gypsy-train/npcs/tierza-gudas]]"
 mother_id: tierza-gudas
-father: "[[plots/the-gypsy-train/npcs/javyd-gudas|Javyd Gudas]]"
-father_id: javyd-gudas
 title: Mazyna Gudas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
+father: "[[javyd-gudas|Javyd Gudas]]"
+father_id: javyd-gudas
 ---
 
 # Mazyna Gudas
 
-Medium, humanoid (half-elf), chaotic good
+>[!info] Portrait
+>IMAGE
+
+*Medium, humanoid (half-elf), chaotic good*
 
 **Profession:**
 
@@ -43,10 +46,9 @@ Medium, humanoid (half-elf), chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
+
 
 # Description
 
@@ -55,15 +57,15 @@ Medium, humanoid (half-elf), chaotic good
 **Flaws:** <br>
 **Suggested Environments**
 
----
+
 
 # Spellcasting
 
----
+
 
 # Special Abilities
 
----
+
 
 # Actions
 

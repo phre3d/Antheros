@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2236.735, 6522.126]
 mapmarker: Inns & Taverns
 title: Rose Garden Inn
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Rose Garden Inn

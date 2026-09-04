@@ -1,118 +1,37 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, street-of-silk-veils, type-brothel]
+tags: [Entertainment/brothel, Haven/labyrinth/street-of-silk-veils, Plot/Free-City-of-Haven]
 title: "Heaven's Gate"
-date modified: 2026-07-16, 9:18:54 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Heaven's Gate
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Brothel (Entertainment) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-labyrinth/the-street-of-silk-veils|The Street of Silk Veils]] <br>
+>**Grid (Key) Ref.:**    M06 (DS)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Brothel / Whorehouse  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A close as you can get without dying
+***A close as you can get without dying***
 
 ## Description
 
 The decor here is based on someone's view of heaven - lots of clouds and soft light.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Brothel (Entertainment)**
-
- **Owner:**  
-
- **District:**  The Street of Silk Veils
-
- **Grid (Key) Ref.:**   M06 (DS)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Brothel / Whorehouse
-
-**Parent Location:**
-
-[[settlements/the-street-of-silk-veils|The Street of Silk Veils]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 457d7604-99af-4447-9eb7-7e9994c4a93e<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Silk Veils<br>
-**Tags:** fcoh,street-of-silk-veils-location,cat-entertainment,type-brothel,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

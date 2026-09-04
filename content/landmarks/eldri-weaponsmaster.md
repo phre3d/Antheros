@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-dwarrow, type-training]
+tags: [Haven/outlands/dwarrow, Organization/professional/guild-of-tuition, Plot/Free-City-of-Haven, Shop/service/training]
 title: Eldri - Weaponsmaster
-date modified: 2026-07-16, 9:18:56 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Eldri - Weaponsmaster
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Training (Service) <br>
+>**Owner:**  [[people/eldri|Eldri]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    A13 (HY)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Dojo  <br>
 
 ## Training and Exercise
 
@@ -42,95 +47,9 @@ Excellent
 
 [[people/sikki|Sikki]] | [[people/novig|Novig]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Training (Service)**
-
- **Owner:**  Eldri
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   A13 (HY)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Dojo
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/eldri|Eldri]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ab805285-e548-4601-a82f-1aeebcebd6de<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-education,type-training,guild-of-tuition-location,education
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

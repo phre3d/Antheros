@@ -1,12 +1,17 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, organization/criminal, import, organization, cariadocs-guild]
+tags: [Plot/Free-City-of-Haven, Organization, Organization/criminal, Organization/criminal/cariadocs-guild]
 title: "Cariadoc's Guild"
-date modified: 2026-07-16, 9:18:37 pm
+date modified: 2026-08-17, 12:46:22 pm
 ---
 
 # Cariadoc's Guild
 
+>[!info]
+>**Type:** Guild, Thieves<br>
+>**Parent Organization:** [[organizations/criminal/the-black-hand|The Black Hand]]<br>
+>**Leader:** [[people/cariadoc|Cariadoc]]
+>
 [[people/cariadoc|Cariadoc]] is a short, broad-shouldered man with a handsome' face and a wide grin. His cheerful expression conceals a temperament cold and vicious, and a disposition rarely better than dourly melancholy. [[people/cariadoc|Cariadoc]] grins widest while watching the death throes of his enemies, and likes to be present when his men torture and interrogate opponents. He is the master of [[organizations/criminal/the-black-hand|The Black Hand]] guild that controls assassination and murder for hire, and his thugs and toughs provide protection and strong-arm support for other Hand guilds.
 
 [[people/cariadoc|Cariadoc's]] operation is tripartite. The most elite and highly trained members of his guild are the two small cells of assassins, who are used to eliminate prominent Black Hand enemies, double agents, and others who cross the Hand, or get in its way. The efficiency of these killers, at least for those who know of them, causes them to be one of the Hand's most feared instruments. If the Hand is approached by an outside source to hire contract killers, and the price is right (as much as 50,000 gold pieces if the victim is highly placed or well-guarded), [[people/cariadoc|Cariadoc's]] assassins may be placed upon the job.

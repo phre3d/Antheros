@@ -1,230 +1,109 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, ohlfaardt-family, person, the-heights]
+tags: [Organization/family/ohlfaardt-family, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/heights]
 title: Wilverado
-date modified: 2026-07-16, 9:18:18 pm
+date modified: 2026-08-20, 8:03:26 pm
 ---
 
 # Wilverado
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  143
+>
+>
+> **Class/Profession:**  Fighter 3rd
+>
+>
+> **Places Encountered**
+>- Wherever [[people/sui-tuong-ding|Sui Tuong Ding]] is when she leaves the Ohlfaardt residence
+>- [[settlements/haven/the-heights/the-heights|The Heights]]
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  [[organizations/families/ohlfaardt-family | Ohlfaardt Family]] <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-heights/the-heights| The Heights]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Built like the dockworker he once was, he now works for [[person/neberhard-ohlfaardt|Neberhard Ohlfaardt]], along with three others filling a job officially described as "personal assistant". It is however primarily aimed at keeping [[person/sui-tuong-ding|Sui Tuong Ding]] out of the clutches of other men. If someone is spotted spending too much time with Sui, Wilverado will mention the fact to [[person/skiff-borden|Skiff Borden]], the lead “personal assistant”. 
+
+Built like the dockworker he once was, he now works for [[people/neberhard-ohlfaardt|Neberhard Ohlfaardt]], along with three others filling a job officially described as "personal assistant". It is however primarily aimed at keeping [[people/sui-tuong-ding|Sui Tuong Ding]] out of the clutches of other men. If someone is spotted spending too much time with Sui, Wilverado will mention the fact to [[people/skiff-borden|Skiff Borden]], the lead “personal assistant”.
 
  [familytree:75bdd2f3-51b7-4071-8d64-174d67830f68]
 
----
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/wilverado-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/wilverado-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/wilverado-person)
 
-````
-````col-md
-
-
-**ID #**  143
-
-
- **Class/Profession:**  Fighter 3rd
-
-
- **Places Encountered** 
-- Wherever [[person/sui-tuong-ding|Sui Tuong Ding]] is when she leaves the Ohlfaardt residence
-- [[settlement/the-heights|The Heights]]
-
-
- **Purse:**   gp
-
----
----
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** [[organization/ohlfaardt-family|Ohlfaardt Family]]<br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-heights|The Heights]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-![[people/blocks/wilverado]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

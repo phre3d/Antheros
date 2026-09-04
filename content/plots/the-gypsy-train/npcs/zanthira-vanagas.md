@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: zanthira-vanagas
 name: Zanthira Vanagas
@@ -17,12 +17,15 @@ children_id:
 spouse: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
 spouse_id: balkrin-vanagas
 title: Zanthira Vanagas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Zanthira Vanagas
 
-Medium, humanoid (human), chaotic neutral
+>[!info] Portrait
+>IMAGE
+
+*Medium, humanoid (human), chaotic neutral*
 
 **Profession:** Rogue (2nd)
 
@@ -49,10 +52,8 @@ Medium, humanoid (human), chaotic neutral
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
 
 # Description
 
@@ -66,13 +67,13 @@ Zanthira is a 2nd-level human thief, chaotic neutral, with Str 7, Int 7, Wis 14,
 
 Zanthira will only use her bow if the caravan is attacked. She will use her *dagger* against any non-gypsy who enters her wagon without permission – and such permission is *very* seldom granted.
 
----
+
 
 # Special Abilities
 
 **+7 arrows for her bow**
 
----
+
 
 # Actions
 

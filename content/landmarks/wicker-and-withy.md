@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [basket-maker, cat-shop, crafters-guild, Free_City_of_Haven, import, landmark, the-north-corridor, type-basket-maker]
+tags: [Haven/north-corridor, Organization/professional/crafters-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/basket-maker]
 title: Wicker and Withy
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Wicker and Withy
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Basket Maker (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] <br>
+>**Grid (Key) Ref.:**    R17 (GQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Fine baskets, hampers, etc.
+## Fine baskets, hampers, etc
 
 ## Description
 
@@ -34,95 +39,9 @@ Fair to Good, depending on who made what.
 
  Jurana is best with wicker (she can make shields of wicker also, but only does so as special commission, 50% of the cost on the order), and Selaan is excellent with the lighter withies; Lilia is the business brains of the crew, but she is capable of producing baskets of fair quality.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Basket Maker (Shopping)**
-
- **Owner:**  
-
- **District:**  The North Corridor
-
- **Grid (Key) Ref.:**   R17 (GQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-north-corridor|The North Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 2135a504-5238-4238-be55-60e135b1688c<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The North Corridor<br>
-**Tags:** fcoh,the-north-corridor-location,cat-shop,type-basket-maker,crafters-guild-location,basket-maker
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

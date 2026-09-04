@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-heights, type-victualer, victualer]
+tags: [Haven/heights, Organization/professional/guild-of-provenders, Plot/Free-City-of-Haven, Shop, Shop/consumable/victualer]
 title: "Goodreau's Market"
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Goodreau's Market
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Victualer (Shopping) <br>
+>**Owner:**  [[people/goodreau|Goodreau]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G20 (CJ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Everything you want in a shop and a little bit more
+***Everything you want in a shop and a little bit more***
 
 ## Description
 
@@ -36,95 +41,9 @@ Good.
 
 [[people/graella-maggia|Graella Maggia]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Victualer (Shopping)**
-
- **Owner:**  Goodreau
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G20 (CJ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/goodreau|Goodreau]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 40d89b21-19b9-4402-9f89-66ed04f8da1d<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-shop,type-victualer,guild-of-provenders-location,victualer
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

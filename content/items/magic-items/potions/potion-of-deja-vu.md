@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Deja-Vu
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Deja-Vu
@@ -33,14 +33,14 @@ A clumsy alchemist created this time manipulative potion to 'correct' mistakes.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -55,4 +55,3 @@ A clumsy alchemist created this time manipulative potion to 'correct' mistakes.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

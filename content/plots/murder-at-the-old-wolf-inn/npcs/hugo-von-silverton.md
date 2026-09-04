@@ -1,17 +1,16 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+tags: [Person, Person/npc, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Hugo von Silverton
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Hugo von Silverton
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
+
+
 Hugo von Silverton is a middle-aged male human commoner (NG) with thin, black hair combed over his balding patch. He is rather chubby and wears golden rings on all of his fingers. Hugo is dressed in a fine velvet coat jacket and a silk scarf, which are in radical conflict with his sturdy boots, simple black linen shirt, and ill-fitting trousers. He speaks in a nasal voice with an exaggerated upper-class accent.
 
 Hugo is a travelling merchant and has years of experience with tough hHaggling and one-sided agreements. While talkative, Hugo is fidgety and jumps at both shadows and sudden noises. 
@@ -53,28 +52,9 @@ To make things worse, although Hugo doesn't sell poisons, since the customers ar
 
 All Hugo wants is for the storm to pass so that he can put as many miles between himself and the inn as quickly as possible.
 
-
-````
-````col-md
-![[plots/murder-at-the-old-wolf-inn/images/hugo.png]]
-
-
-
-````
-`````
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/npcs/enoch-the-birdwhisperer" class="internal-link">Enoch the Bridwhisperer</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer" class="internal-link">Inga Broadhammer</a> →</span>
+</div>

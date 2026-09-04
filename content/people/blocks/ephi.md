@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Ephi
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Ephi
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Tiefling<br>
 **Profession:** Warlock/5th<br>
 **Challenge Rating:** 2<br>
@@ -20,30 +17,18 @@ flexGrow=2
 **Alignment:** Chaotic Neutral<br>
 **Armour Class:** 16 - Leather<br>
 **Hit Points:** 38<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 16 (+3) | 12 (+1) | 13 (+1) | 13 (+1) | 18 (+4) |
 
-![[dndline.png]]
-
 **Saving Throws:** Wisdom | Charisma<br>
-**Damage Resistances:** Fire<br>**Languages:** Infernal | Common<br>**Challenge:** 2 / (XP)<br>**Senses:** Darkvision 60'' | Passive Perception 13<br>**Skills:** Deception +6 | Stealth + 5 | Perception +3
-
-```
-
-```col-md
-
-
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Fire<br>
+**Languages:** Infernal | Common<br>
+**Challenge:** 2 / (XP)<br>
+**Senses:** Darkvision 60'' | Passive Perception 13<br>
+**Skills:** Deception +6 | Stealth + 5 | Perception +3
 
 # Spellcasting
 
@@ -65,8 +50,6 @@ flexGrow=2
 
 *Hellish Rebuke*  (as 2nd level) | Darkness
 
-![[dndline.png]]
-
 # Special Abilities
 
 **Pact of the Tome:**  Ephi knows 3 cantrips from any spell list.
@@ -78,8 +61,6 @@ flexGrow=2
   **Hidden in plain sight:**  Targets affected by Ephi's spells suffer disadvantage to perception checks to locate her.
 
   **Infernal Legacy:**  Ephi knows the  *Thaumaturgy*  cantrip and can cast the hellish rebuke spell as a 2nd-level spell and the Darkness spell once per long rest.
-
-![[dndline.png]]
 
 # Actions
 

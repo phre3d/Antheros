@@ -1,116 +1,35 @@
 ---
 aliases: []
-tags: [cat-shop, footwear, Free_City_of_Haven, guild/loom, import, landmark, the-cauldron, type-footwear]
+tags: [Haven/outlands/cauldron, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/footwear]
 title: "Kobri's Cobblery"
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Kobri's Cobblery
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Footwear (Shopping) <br>
+>**Owner:**  [[people/kobri|Kobri]] <br>
+>**District:** [[settlements/haven/the-outlands/the-cauldron|The Cauldron]] <br>
+>**Grid (Key) Ref.:**    B12 (KD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Cobbler  <br>
 
 ## NPC Encounters
 
 [[people/kobri|Kobri]] | [[people/zbyssso|Zbyssso]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Footwear (Shopping)**
-
- **Owner:**  Kobri
-
- **District:**  The Cauldron
-
- **Grid (Key) Ref.:**   B12 (KD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Cobbler
-
-**Parent Location:**
-
-[[settlements/the-cauldron|The Cauldron]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/kobri|Kobri]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 75dfab20-112e-40fe-9289-fe1c2bf9e643<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Cauldron<br>
-**Tags:** fcoh,the-cauldron-location,cat-shop,type-footwear,guild-of-the-loom-location,footwear
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

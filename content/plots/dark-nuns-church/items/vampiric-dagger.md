@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, item, statblock]
+tags: [Item, Plot/Dark-Nuns-Church, statblock]
 title: Vampiric Dagger
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ---start-multi-column: Top
@@ -37,7 +37,7 @@ shadow: off
 
 # Properties
 
-### Use
+## Use
 
 Whenever you hit a creature with this magical weapon, the dagger deals the standard 1d4 piercing damage plus an additional 1d6 necrotic damage as it endeavors to transfer the life substance of its prey to its bearer.
 

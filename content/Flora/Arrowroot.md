@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-air-plant, flora, import]
-title: Arrowroot
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/air]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Arrowroot
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-An unusual, wood-stemmed plant dappled brown and white. The roots are very shallow in soil and extend vertically to form a teepee like structure at the base of the plant.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 25 gp  <br>
+>**Rarity:** Rare <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+An unusual, wood-stemmed plant dappled brown and white. The roots are very shallow in soil and extend vertically to form a teepee like structure at the base of the plant. 
 
 # Natural Range
+
 Deserts
 
----
 
 # Common Use(s)
-## Unaltered Form
-The stem can be dried and ground and mixed with oil to create a frothy polishing oil that can add a +1 to a weapon's damage without the need for magic or craftsmanship for a 8 hours.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-air|Essence of Air]]
-- Can be used in potion making
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
 
----
+The stem can be dried and ground and mixed with oil to create a frothy polishing oil that can add a +1 to a weapon’s damage without the need for magic or craftsmanship for a 8 hours.
+
+Used in crafting as a source of [[materials/essence-of-air | Essence of Air ]].
+
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 25 gp<br>
-**Rarity:** Rare<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

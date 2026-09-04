@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-life-plant, flora, import]
-title: Bloodgrass
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/life]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Bloodgrass
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 9 sp  <br>
+>**Rarity:** Common <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
 A wide-bladed grass with a red-tinted central vein running the length of the blade that grows in small bunches.
 
 # Natural Range
+
 Grassland and Forests
 
----
 
 # Common Use(s)
-## Unaltered Form
-Bloodgrass can be ground into a thick brown paste that can be added and mixed into most potions and drinks to become adequate food equivalent to a day's rations for the party.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-life|Essence of Life]]
-- Can be used in potion making
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
 
----
+Bloodgrass can be ground into a thick brown paste that can be added and mixed into most potions and drinks to become adequate food equivalent to a day’s rations for the party.
+
+Used in crafting as a source of [[materials/essence-of-life | Essence of Life ]].
+
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 9 sp<br>
-**Rarity:** Common<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

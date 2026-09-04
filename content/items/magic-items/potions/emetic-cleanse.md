@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Emetic Cleanse
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Emetic Cleanse
@@ -12,7 +12,7 @@ date modified: 2026-07-16, 9:19:03 pm
 >**Rarity:** Rare <br>
 >**Effect Category:** Health
 >
->**Application:**Ingest <br>
+>**Application:** Ingest <br>
 >**Duration:** 2 rounds
 >
 >**Price:** 5,300gp
@@ -35,14 +35,14 @@ An alchemist created this potion to help keep subjects alive a bit longer while 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):**   Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -57,4 +57,3 @@ An alchemist created this potion to help keep subjects alive a bit longer while 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

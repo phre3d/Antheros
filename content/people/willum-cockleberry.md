@@ -1,228 +1,107 @@
 ---
 aliases: []
-tags: [crafters-guild, Free_City_of_Haven, import, npc, person, the-cauldron]
+tags: [Organization/professional/crafters-guild, Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/outlands/cauldron]
 title: Willum Cockleberry
-date modified: 2026-07-16, 9:18:18 pm
+date modified: 2026-08-20, 8:03:26 pm
 ---
 
 # Willum Cockleberry
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1532
+>
+>
+> **Class/Profession:**  Merchant 5th
+>
+>
+> **Places Encountered**
+>- [[landmarks/cockleberrys-cabinets|Cockleberry's Cabinets]]
+>- [[settlements/haven/the-outlands/the-cauldron|The Cauldron]]
+>
+>
+> **Purse:**   sp
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/halfling|Halfling]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Halfling | Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-outlands/the-cauldron| The Cauldron]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Willum  Cockleberry
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-A portly halfling with red hair and spectacles who has a taste for fine ale and bad puns (he's known as "Cackle-berry" behind his back). His sense of humor occasionally appears even in his woodcarving, such as flowers with [[person/tiny|Tiny]] impish faces or knot designs that appear hopelessly snarled.
 
----
+A portly halfling with red hair and spectacles who has a taste for fine ale and bad puns (he's known as "Cackle-berry" behind his back). His sense of humor occasionally appears even in his woodcarving, such as flowers with [[people/tiny|Tiny]] impish faces or knot designs that appear hopelessly snarled.
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/willum-cockleberry-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/willum-cockleberry-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/willum-cockleberry-person)
 
-````
-````col-md
-
-
-**ID #**  1532
-
-
- **Class/Profession:**  Merchant 5th
-
-
- **Places Encountered** 
-- [[landmark/cockleberrys-cabinets|Cockleberry's Cabinets]]
-- [[settlement/the-cauldron|The Cauldron]]
-
-
- **Purse:**   sp
-
----
----
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/halfling-race|Halfling Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Halfling | Common<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[settlement/the-cauldron|The Cauldron]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-![[people/blocks/willum-cockleberry]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

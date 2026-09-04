@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [93, plot, plot/The_Gypsy_Train]
+tags: [Plot, Plot/The-Gypsy-Train]
 title: The Wandering Folk Train
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 >[!info]
@@ -43,7 +43,7 @@ date modified: 2026-07-16, 9:18:12 pm
 
 # The Wandering Folk Train
 
-### A Moving Scenario for AD&D
+## A Moving Scenario for AD&D
 
 **Note:** This has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign. Key changes include converting stats to D&D 5e and renaming "gypsy" to "wandering folk".
 

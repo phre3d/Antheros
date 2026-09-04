@@ -1,28 +1,33 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livery, the-south-corridor, type-livery]
+tags: [Haven/south-corridor, Organization/professional/guild-of-the-beast, Plot/Free-City-of-Haven, Shop, Shop/service/livery]
 title: "Tobler's Livery Stable"
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Tobler's Livery Stable
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Livery (Shopping) <br>
+>**Owner:**  [[people/cocoa-tobler|Cocoa Tobler]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    J04 (OX)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Stables  <br>
 
 ## Carriages for rent - and horses, even dogs
 
 ## Description
 
-If one needs a heavy wagon and team, or a horse and carriage, or a pony cart, or a dog cart (etc., etc., etc.), in the vicinity of [[settlements/the-south-corridor|The South Corridor]], there is only place to patronize. "Cocoa" Tobler's livery stable can supply almost any kind of vehicle from a small dog cart (suitable for one's youngest daughter) to a heavy wain (suitable for a trip to the farthest reaches of the known world), and motive power of proportional capability - he has animals available from dogs to oxen.  
+If one needs a heavy wagon and team, or a horse and carriage, or a pony cart, or a dog cart (etc., etc., etc.), in the vicinity of [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]], there is only place to patronize. "Cocoa" Tobler's livery stable can supply almost any kind of vehicle from a small dog cart (suitable for one's youngest daughter) to a heavy wain (suitable for a trip to the farthest reaches of the known world), and motive power of proportional capability - he has animals available from dogs to oxen.  
 
  Tobler's reputation in Haven is good and well deserved. If the conveyance will be leaving the city gates, the client has his choice. Either buy it (and the team), or pay the full rental (plus some extra) in advance (Tobler's no fool!) for a stable hand to travel along and bring the rig and team back (one of the stable hands is currently on his way to Emor with a rig).  
 
@@ -36,95 +41,9 @@ If one needs a heavy wagon and team, or a horse and carriage, or a pony cart, or
 
 Good (the pulling teams don't die in the first five miles, or even five hundred!
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Livery (Shopping)**
-
- **Owner:**  Cocoa Tobler
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   J04 (OX)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Stables
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/cocoa-tobler|Cocoa Tobler]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** b7393403-609b-4603-8aa9-4a2b6b908066<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-shop,type-livery,guild-of-the-beast-location,livery
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1956.819, 6112.245]
 mapmarker: Service
-title: "Longshoreman's Inc."
-date modified: 2026-07-16, 9:18:41 pm
+title: "Longshoreman's Inc"
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
-# Longshoreman's Inc.
+# Longshoreman's Inc
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
 
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:41 pm
 
 **Map Ref:** Map Ref.: T06 (AZ)
 
-**Location:** [[landmarks/longshoremans-inc.|Longshoreman's Inc.]]<br>
+**Location:** [[landmarks/longshoremans-inc|Longshoreman's Inc.]]<br>
 **Location Type:** Stevedores
 
 **Description**<br>

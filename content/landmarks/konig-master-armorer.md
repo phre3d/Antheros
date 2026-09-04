@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [armor, armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-dwarrow, type-armor]
+tags: [Haven/outlands/dwarrow, Organization/professional/armorers-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/armor]
 title: Konig - Master Armorer
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Konig - Master Armorer
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Armor (Shopping) <br>
+>**Owner:**  [[people/konig|Konig]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    B14 (HQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Protection with Strength
+***Protection with Strength***
 
 ## Description
 
@@ -56,95 +61,9 @@ The news of [[people/konig|Konig]]'s campaign has begun to spread through the ci
 
 [[people/konig|Konig]] specializes in making armor of great strength. For a cost of 3x his normal rates, he can make a suit of chain armor that absorbs 4 hits of damage per successful blow (instead of the usual 2 hits), or plate armor that absorbs 6 hits per blow. These special items are not in [[people/konig|Konig]]'s current price war.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Armor (Shopping)**
-
- **Owner:**  Konig
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   B14 (HQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/konig|Konig]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 12463be6-53ad-455c-ada9-603e19a2f9ea<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-shop,type-armor,armorers-guild-location,armor
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, monster, statblock]
+tags: [Monster, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col
@@ -56,19 +56,19 @@ Large giant Chaotic Neutral
 
 # Actions
 
-### Fist  
+## Fist  
 
   **Melee Weapon Attack:**  +5 to hit, reach 5 ft., one target. <br>
   **Hit:**  2d6 + 3 bludgeoning damage.  
 
-### Rock.
+## Rock
 
   **Ranged Weapon Attack:**  +5 to hit, range 100/400 ft., one target. <br>
   **Hit:**  1d10 + 2 bludgeoning damage.
 
-## Reactions
+# Reactions
 
-### Bash
+## Bash
 
   If a Stenbumling troll takes damage, it can use its reaction to backhand a creature within 5 feet. On a hit, the creature takes  bludgeoning damage, and it is shoved 15 feet and becomes Prone.
 

@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-goods, guild/merchants, import, landmark, the-dell, type-general-goods]
+tags: [Haven/outlands/dell, Organization/professional/merchants, Plot/Free-City-of-Haven, Shop, Shop/goods/general-goods]
 title: The Mathom House
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Mathom House
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Goods (Shopping) <br>
+>**Owner:**  [[people/renna-buckwalter|Renna Buckwalter]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dell|The Dell]] <br>
+>**Grid (Key) Ref.:**    E13 (IV)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** General Store  <br>
 
 ## Antiques and Collectibles
 
@@ -28,95 +33,9 @@ shadow: off
 
  A shopper searching for a particular category of item has only a 10% chance of finding it (god knows Renna doesn't have the foggiest idea where it might be). Anyone who indicates that they are carefully browsing through a particular pile of items, however, has a 70% chance of finding an item of good or excellent quality (Roll two d10 to determine the type of item found and its cost (Type: 1-2 ceramic, 3-4 glass, 5 woodworking, 6-7 leather products, 8 metallic non-weapon item, 9 book or scroll, 10 painting or sculpture. Cost: 1-2 low, 3-7 fair, 8-10 high).
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Goods (Shopping)**
-
- **Owner:**  Renna Buckwalter
-
- **District:**  The Dell
-
- **Grid (Key) Ref.:**   E13 (IV)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** General Store
-
-**Parent Location:**
-
-[[settlements/the-dell|The Dell]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/renna-buckwalter|Renna Buckwalter]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** a4e62244-49e3-437c-aa1b-98923d53135e<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dell<br>
-**Tags:** fcoh,the-dell-location,cat-shop,type-general-goods,merchants-guild-location,general-goods
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

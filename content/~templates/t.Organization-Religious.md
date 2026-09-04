@@ -1,75 +1,53 @@
-#organization/religious 
+---
+aliases: []
+tags: [Organization/religious]
+title: 
+date modified: 2026-08-08, 3:15:43 pm
+---
+
+# //religion name///
+
 >[!info]
 ># General Information
->**Leader:** 
+>**Leader:**
 >
->**Leader Title:** 
+>**Leader Title:**
 >
 >**Alternate Names:**
 >
 >**Motto/Slogan:**
 >
->**Demonym:** 
+>**Demonym:**
 >
 >**Parent Organization:**
 >
->**Founding Date:** 
+>**Founding Date:**
 >
->**Founders:** 
+>**Founders:**
 >
 >**Geographic Location(s):**  
+***Tagline***
 
-# Title
+# Description
 
-## Description
+# Mythology
 
+# Origins
 
+# Cosmology
 
+# Tenets of Faith
 
-## Mythology
+# Priesthood / Structure
 
+# Ethics
 
+# Granted Divine Powers
 
+# Political Intrigue & Influence
 
-## Origins
+# Worship
 
-
-## Cosmology
-
-
-
-## Tenets of Faith
-
-
-
-## Priesthood / Structure
-
-
-
-## Ethics
-
-
-
-
-## Granted Divine Powers
-
-
-
-
-## Political Intrigue & Influence
-
-
-
-## Worship
-
-
-
-
-## Sects
-
-
-
-
-
+# Sects
 
 ---

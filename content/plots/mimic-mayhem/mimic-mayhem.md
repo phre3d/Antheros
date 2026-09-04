@@ -1,16 +1,27 @@
 ---
 aliases: []
-tags: [import, plot]
+date modified: 2026-08-26, 2:30:43 pm
+tags: [Plot, Plot/Mimic-Mayhem]
 title: Mimic Mayhem
-date modified: 2026-07-16, 9:18:15 pm
 ---
 
 ![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]  
 
 # Mimic Mayhem
 
-### aka Pilgrim's Peak, aka Ratstew Gap
+>[!info]
+>![[plots/mimic-mayhem/images/mimic-mayhem-cover.jpg]]
+>
+> ---
+>
+>![[plots/mimic-mayhem/table-of-contents]]
 
+***aka Pilgrim's Peak, aka Ratstew Gap***
+<br><br><br>
+
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
+
+<br><br><br>
 **IMPORTANT:** Do not tell your players the name of the one-shot or that they will be facing mimics! Instead, I recommend calling this adventure Pilgrim’s  Peak or Ratstew Gap.
 
 # Character Level & Difficulty
@@ -56,10 +67,3 @@ This adventure has many illustrations intended to be shared with your players. I
 2. Use the included digital art. In the zip file there is artwork you can share with your players, either by opening the file and sharing your screen or by sending them the art file.
 
 3. Sharing a URL. Next to each illustration is a URL. You can copy and paste this direct link to your players.
-
->[!infobox]
->![[plots/mimic-mayhem/images/mimic-mayhem-cover.jpg]]
->
-> ---
->
->![[plots/mimic-mayhem/table-of-contents]]

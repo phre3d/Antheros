@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [capital, Free_City_of_Haven, import, settlement]
+tags: [Plot/Free-City-of-Haven, Settlement/herudana]
 title: Herudana
-date modified: 2026-07-16, 9:18:09 pm
+date modified: 2026-08-17, 12:45:53 pm
 ---
 
 # Herudana
@@ -74,7 +74,7 @@ Oriental flavour
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Id:** 9165fd2f-d607-4579-83a7-eae6c838997f<br>
 **Entity Type:** Article / settlement<br>

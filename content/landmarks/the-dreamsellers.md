@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [brotherhood-of-the-amalgam, cat-shop, Free_City_of_Haven, import, landmark, potion, the-labyrinth, type-potions]
+tags: [Haven/labyrinth, Organization/professional/brotherhood-of-the-amalgam, Plot/Free-City-of-Haven, Shop, Shop/magic/potions]
 title: "The Dreamseller's"
-date modified: 2026-07-16, 8:06:14 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Dreamseller's
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Potions (Shopping) <br>
+>**Owner:**  [[people/lucius-the-claw|Lucius the Claw]] <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    M03 (FK)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Apothecary  <br>
 
 ## Potions for a Price
 
@@ -60,93 +65,9 @@ Just Lucius.
 
 Lucius stocks primarily opium, and potions to induce sleep, reduce pain, etc. These and other legal concoctions are kept in a locked cabinet in the front room. The more powerful and dangerous drugs are hidden under a loose floor board in Lucius' bedroom, and include potions and powders to induce ferocity, or to break down the will, as well as certain addictive drugs and poisons.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Potions (Shopping)**
-
- **Owner:**  Lucius the Claw
-
- **District:**  
-
- **Grid (Key) Ref.:**   M03 (FK)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Apothecary
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/lucius-the-claw|Lucius the Claw]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 2b3d0c1b-8ec3-470b-8f51-485e4bf3e00f<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-shop,type-potions,brotherhood-of-the-amalgam-location,potions
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,26 +1,31 @@
 ---
 aliases: []
-tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-south-corridor, type-street]
+tags: [Haven/south-corridor, Landmark, Landmark/street, Plot/Free-City-of-Haven]
 title: The Cleff
-date modified: 2026-07-16, 9:18:46 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Cleff
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Street (Landmark) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    H07 (ME)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Street  <br>
 
 ## Description
 
-A narrow street near [[settlements/the-south-corridor|The South Corridor]]. It is lined with old stucco and half-timbered row homes and apartments. Balconies, porches, and covered walkways line the street, with ornate wood and iron work. Window boxes and hanging plants adorn the old homes.  
+A narrow street near [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]. It is lined with old stucco and half-timbered row homes and apartments. Balconies, porches, and covered walkways line the street, with ornate wood and iron work. Window boxes and hanging plants adorn the old homes.  
 
  These houses and apartments are charming and comfortable, as well as moderately priced. The people who live here are all musicians, who are based semi-permanently in Haven. Many have families and children.  
 
@@ -32,95 +37,9 @@ A narrow street near [[settlements/the-south-corridor|The South Corridor]]. It i
 
 [[people/largo-profundo|Largo Profundo]] and family | [[people/rosina-maloti|Rosina Maloti]] | [[people/phineous-tarkin|Phineous Tarkin]] | [[people/robin-oleary|Robin O'Leary]] | [[people/helvia-larksong|Helvia Larksong]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Street (Landmark)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   H07 (ME)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Street
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/families/maggia-family|Maggia Family]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 4c5b107f-5d33-4bbf-87c8-a0d16335a80a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-landmark,type-street,landmark
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,21 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: shopping
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+# Shopping Markers
 
-- [[maps/thieves-market/markers/frogals]]
-- [[maps/thieves-market/markers/biff-tekk-butcher]]
-- [[maps/thieves-market/markers/vaunea-dawncaller-kolae-gileana-poultry-products]]
-- [[maps/thieves-market/markers/ballard-lindsey-produce|Ballard Lindsey - Produce]]
-- [[maps/thieves-market/markers/mustard-fennel]]
-- [[maps/thieves-market/markers/barbara-weyr-rugs-carpets]]
-- [[maps/thieves-market/markers/daran-tiko-furniture]]
-- [[maps/thieves-market/markers/ballard-lindsey-produce]]
-- [[maps/thieves-market/markers/picket-post-merchandise]]
-- [[maps/thieves-market/markers/vorikooreis-herbs-minor-potions]]
-- [[maps/thieves-market/markers/brodskys]]
-- [[maps/thieves-market/markers/beydom-son-general-goods]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Shopping"
+```

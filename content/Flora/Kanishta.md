@@ -1,35 +1,40 @@
 ---
 aliases: []
-tags: [essence-earth-plant, flora, import]
-title: Kanishta
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/earth]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Kanishta
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 7 gp  <br>
+>**Rarity:** Uncommon <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
 A short plant that grows in tendrils across the ground sprouting broad fluffy leaves, the kanishta thrives in the cold environment. Growing beneath the ground is a thick, dark colored root.
 
 # Natural Range
+
 Arctic
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 Although it is extremely bitter tasting, chewing on the root provides temporary relief from the cold weather. 
 
 Those that chew it express a feeling of warmth passing through their body, and a sense of renewed strength, gaining resistance to cold and frost damage, and +1 to Strength checks for 4 hours.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-earth|Essence of Earth]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-earth | Essence of Earth ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -38,32 +43,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 7 gp<br>
-**Rarity:** Uncommon<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

@@ -1,16 +1,17 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, import, monster, statblock]
+tags: [Monster, Plot/Forest-of-Doom, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
+
 # Tentamort
-Small Beast Neutral
+
+>[!info] Portrait
+> image
+> 
+*Small, Beast, Neutral*
 
 **Armour Class:** 17<br>
 **Hit Points:** 76 [roll:8d6+52]<br>
@@ -31,28 +32,33 @@ Small Beast Neutral
 **Languages:** None<br>
 **Challenge:** 6 / (XP)
 
-```
 
-```col-md
-
-<<< Image Here >>>
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
 Multiattack: Tentacles x2. -- constriction / paralysed
 
-![[~attachments/dndline.png]]
+
 
 # Actions
 
-Tentacle. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 3 (1d6) damage. One of the long tentacles is a powerful constrictor. If it hits a victim it will lash for 1-6 hit points of damage. A natural. roll of 20, or a roll 2 or more greater than that required to hit, means that it has wrapped itself round a victim, pinning his arms to his sides, and will auto￾matically (no 'to hit' roll needed) constrict for 1-6 hit points of damage each round thereafter until the tentacle or its victim is dead.  Tentacle. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 3 (1d6) damage. The other long tentacle has a hollow needle of bone, 6\" long, at its end. That tentacle will also flail a victim for 1-6 hit points of damage and will also wrap itself round a victim on the required roll (20 or 2 or more greater than normal). This tentacle does not constrict; instead, the melee round following the one in which the victim was trapped, the needle will be inserted into the victim's flesh and he will be paralysed instantly unless he makes a successful saving throw. Through the needle, the creature will then inject a saliva-like fluid into the victim, taking two melee rounds to inject a full dose if the victim is man-sized. (This takes but one round if the victim is smaller than man-sized, three or four rounds if larger than man-sized). When the necessary dose has been administered, the victim's internal organs will begin to soften and the creature will suck them out of the victim's body through the needle. A man will die after two melee rounds of this treatment (adjust this figure as above for creatures smaller or larger than man-sized). If the tentacle is 'killed' during the time in which the saliva is being injected, it will detach from the victim and cure disease must be administered within an hour or the victim will die. Once the dose of saliva has been administered, however, only more powerful curative magicwill save the victim from death within an hour even if the tentacle is detached immediately. The heal spell will be effective, as will regenerate followed by cure wounds
+## Tentacle 1.
+***Melee Weapon Attack:*** +7 to hit, reach 10 ft., one target. <br>
+***Hit:*** 3 (1d6) damage. <br>
+One of the long tentacles is a powerful constrictor. If it hits a victim it will lash for 1-6 hit points of damage. 
+- A natural. roll of 20, or a roll 2 or more greater than that required to hit, means that it has wrapped itself round a victim, pinning his arms to his sides, and will automatically (no 'to hit' roll needed) constrict for 1-6 hit points of damage each round thereafter until the tentacle or its victim is dead.  
 
-![[~attachments/dndline.png]]
+## Tentacle 2. 
+***Melee Weapon Attack:*** +7 to hit, reach 10 ft., one target.  <br>
+***Hit:*** 3 (1d6) damage. 
+The other long tentacle has a hollow needle of bone, 6" long, at its end. That tentacle will also flail a victim for 1-6 hit points of damage and will also wrap itself round a victim on the required roll (20 or 2 or more greater than normal). 
+- This tentacle does not constrict; instead, the melee round following the one in which the victim was trapped, the needle will be inserted into the victim's flesh and he will be paralysed instantly unless he makes a successful saving throw. 
+- Through the needle, the creature will then inject a saliva-like fluid into the victim, taking two melee rounds to inject a full dose if the victim is man-sized. (This takes but one round if the victim is smaller than man-sized, three or four rounds if larger than man-sized). When the necessary dose has been administered, the victim's internal organs will begin to soften and the creature will suck them out of the victim's body through the needle. 
+- A medium sized creature will die after two melee rounds of this treatment (adjust this figure as above for smaller or larger creatures). 
+- If the tentacle is 'killed' during the time in which the saliva is being injected, it will detach from the victim and cure disease must be administered within an hour or the victim will die. Once the dose of saliva has been administered, however, only more powerful curative magicwill save the victim from death within an hour even if the tentacle is detached immediately. 
+- The heal spell will be effective, as will regenerate followed by cure wounds
+
+
 
 # Description
 

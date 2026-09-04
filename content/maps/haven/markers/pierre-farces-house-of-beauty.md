@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2318.367, 6259.881]
 mapmarker: Shopping
 title: "Pierre Farce's House of Beauty"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Pierre Farce's House of Beauty

@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, scholars-triangle, type-medical]
+tags: [Haven/outlands/cauldron/scholars-triangle, Plot/Free-City-of-Haven, Shop, Shop/service/medical, type-medical]
 title: The Surgery
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Surgery
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Medical (Medical) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/scholars-triangle|Scholar's Triangle]] <br>
+>**Grid (Key) Ref.:**    E10 (TM)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Hospital  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Medical (Medical)**
-
- **Owner:**  
-
- **District:**  Scholar's Triangle
-
- **Grid (Key) Ref.:**   E10 (TM)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Hospital
-
-**Parent Location:**
-
-[[settlements/scholars-triangle|Scholar's Triangle]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 56d5f3b5-ff37-44f1-97ef-441e60e68775<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Scholar's Triangle<br>
-**Tags:** fcoh,scholars-triangle-location,cat-shop,type-medical,medical
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

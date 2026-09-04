@@ -1,29 +1,25 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Clockwork Servant
+date modified: 2026-08-13, 9:00:17 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Clockwork Servant
-Small construct unaligned
+
+>[!info]
+>![[plots/clockwork-tower/images/clockwork-servant.png]]
+
+*Small construct unaligned*
 
 **Armour Class:** 14 (natural armor)<br>
 **Hit Points:** 28 [roll:8d6]<br>
 **Proficiency Bonus:** <br>
 **Movement:** 30
 
----
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) | 8 (-1) |
-
----
 
 **Saving Throws:** <br>
 **Skills:** Perception +2<br>
@@ -33,50 +29,36 @@ Small construct unaligned
 
 **Damage Immunities:** Poison<br>
 **Condition Immunities:** Charmed, Exhaustion, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/clockwork-servant.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Constructed Nature.
+## Constructed Nature
 
  The Clockwork Servant doesn't require air, food, drink, or sleep.
 
-### Magic Resistance.
+## Magic Resistance
 
  The Clockwork Servant has advantage on saving throws against spells and other magical effects.
 
-### Repair Mode.
+## Repair Mode
 
   The Clockwork Servant can spend its action to regain 1d6 Hit Points. This ability can't be used again until the Clockwork Servant <u>completes a short or long rest</u>.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Clockwork Servant makes two slam attacks.
 
-### Slam
+## Slam
 
   **Melee Weapon Attack:**  +4 to hit , reach 5 ft., one target.
 
   **Hit:**  5  bludgeoning damage.
 
-### Assist (Recharge 5-6)
+## Assist (Recharge 5-6)
 
  The Clockwork Servant can assist its allies within a 30-foot radius, granting them <u>advantage on the next ability check or attack roll</u> they make before the end of their next turn.
-
-![[~attachments/dndline.png]]
 
 # Description
 

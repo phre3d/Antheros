@@ -1,17 +1,21 @@
 ---
 aliases: []
-tags: [container, item]
+tags: [Item, Item/container]
 title: "Dungeoneer's Pack"
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Dungeoneer's Pack
 
-````col
-```col-md
-flexGrow=2.5
-===
+>[!info]
+>**Rarity:** Common
+>
+>**Weight:** 5 lbs + contents<br>
+>**Dimensions:** <br>
+>**Base Price:** 10 gp
+
 A basic backpack that can hold 1 cubic foot of gear weighing up to 30 lbs. Additional items may be strapped to the outside. It comes with:
+
 - a crowbar
 - a hammer
 - 10 pitons
@@ -20,14 +24,3 @@ A basic backpack that can hold 1 cubic foot of gear weighing up to 30 lbs. Addit
 - 10 days of rations
 - a waterskin
 - 50 feet of hempen rope
-```
-
-```col-md
-**Rarity:** Common
-
-**Weight:** 5 lbs + contents<br>
-**Dimensions:** <br>
-**Base Price:** 10 gp
-
-```
-````

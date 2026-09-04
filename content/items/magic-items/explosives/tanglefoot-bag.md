@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Tanglefoot Bag
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Tanglefoot Bag
@@ -31,14 +31,14 @@ Large creatures have advantage on saving throws against the effects of the goo. 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium Grease]]<br>
 **Essence(s):**   Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ Large creatures have advantage on saving throws against the effects of the goo. 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

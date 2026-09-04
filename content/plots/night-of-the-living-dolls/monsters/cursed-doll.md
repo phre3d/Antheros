@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, monster, plot/Night-of-the-Living-Dolls, statblock]
+tags: [Monster, Plot/Night-of-the-Living-Dolls, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col
@@ -57,19 +57,19 @@ Medium Construct Lawful Evil
 
 # Actions
 
-### Necrotic Grasp
+## Necrotic Grasp
 
   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  9  necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.  
 
-### Charm
+## Charm
 
  **Recharge 5–6**
 
  The cursed doll targets one creature it can see within 30 feet. The target must succeed on a DC 15 Wisdom saving throw or be charmed for 1 minute. While charmed, the creature regards the cursed doll as a trusted ally and protector. The charmed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
-### Animate Toys
+## Animate Toys
 
  **Recharge 5–6**
 

@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-south-corridor, type-weapons, weapons]
+tags: [Haven/south-corridor, Organization/professional/armorers-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/weapons]
 title: Tedius and Sprig
-date modified: 2026-07-16, 9:18:47 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Tedius and Sprig
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Weapons (Shopping) <br>
+>**Owner:**  [[people/arthol-tedius|Arthol Tedius]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    C08 (PZ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Best arrows and bolts around
 
@@ -52,97 +57,9 @@ There is a vault of arrowheads worth I ,000 GP.
 
 30% chance of visitors that come in are allergic to something in the shop. 10% chance of un-controllable sneezing.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Weapons (Shopping)**
-
- **Owner:**  Arthol Tedius
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   C08 (PZ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/arthol-tedius|Arthol Tedius]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-- [[people/aldegott-sprig|Aldegott Sprig]]
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 2759c57e-f754-418b-b6e1-92277730a156<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-shop,type-weapons,armorers-guild-location,weapons
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,13 +1,13 @@
 ---
 aliases: []
+date modified: 2026-08-30, 2:56:51 pm
 tags: []
 title: The Confederation of the Ten Cities
-date modified: 2026-07-16, 9:19:03 pm
 ---
 
 # The Confederation of the Ten Cities
 
-When the [[organizations/namori-empire|Namori Empire]] ruled most of known Antheros, the Ten Cities were provincial capitals established after the major westward expansion. As the empire faltered, the cities banded together to hasten the return of Imperial armies to their eastern homeland. Today, they are self-ruling but bound together economically, essentially a confederation of independent states.  Each city-state has its own form of government, ranging from republic to monarchy, to theocracy, and bureaucratic.
+When the [[organizations/geopolitical/namori-empire|Namori Empire]] ruled most of known Antheros, the Ten Cities were provincial capitals established after the major westward expansion. As the empire faltered, the cities banded together to hasten the return of Imperial armies to their eastern homeland. Today, they are self-ruling but bound together economically, essentially a confederation of independent states.  Each city-state has its own form of government, ranging from republic to monarchy, to theocracy, and bureaucratic.
 
 The following city states are members in the Ten Cities:
 
@@ -15,7 +15,7 @@ The following city states are members in the Ten Cities:
 - [[settlements/outside-haven/bredakis|Bredakis]]
 - [[settlements/outside-haven/dhar-ankes|dhar-Ankes]]
 - [[settlements/outside-haven/emor|Emor]]
-- **[[settlements/free-city-of-haven|Free City of Haven]]**
+- **[[settlements/haven/free-city-of-haven|Free City of Haven]]**
 - [[settlements/outside-haven/larnwick|Larnwick]]
 - [[settlements/outside-haven/onryx|Onryx]]
 - [[settlements/outside-haven/penkurth|Penkurth]]
@@ -41,71 +41,133 @@ While once an almost globe-spanning empire, Namori has shrunk back down to a siz
 - [[settlements/outside-haven/herudana|Herudana]]
 - [[settlements/outside-haven/krufna-brut|Krufna Brut]]
 - [[settlements/outside-haven/kura-lutrin|Kura Lutrin]]
-- [[settlements/outside-haven/Namotto|Namotto]]
+- [[settlements/outside-haven/namotto|Namotto]]
 
 # Peoples of Antheros
 
-- [[races/avanthar]]
-- [[races/centaur]]
-- [[races/dwarf]]
-- [[races/elf]]
-- [[races/gnome]]
-- [[races/goliath]]
-- [[races/half-elf]]
-- [[races/halfling]]
-- [[races/human]]
-- [[races/tiefling]]
+## Main Racial Groups
+
+- [[races/dwarf|Dwarf]]
+- [[races/elf|Elf]]
+- [[races/gnome|Gnome]]
+- [[races/half-elf|Half-Elf]]
+- [[races/halfling|Halfling]]
+- [[races/human|Human]]
+- [[races/tiefling|Tiefling]]
+
+## Others
+
+- [[races/avanthar|Avanthar]]
+- [[races/centaur|Centaur]]
+- [[races/goliath|Goliath]]
 
 # Items
 
+## Magic Items
+### Explosives
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "items/magic-items/explosives"
+SORT title 
+```
+
+### Potions
+
+```dataviewjs
+let files = dv.pages('"items/magic-items/potions"').sort(p => p.title ?? p.file.name);
+let list = files.map(p => `- [[${p.file.path}|${p.title ?? p.file.name}]]`).join("\n");
+
+dv.el("div", list, {attr: {style: "column-count: 3; column-gap: 2em;"}});
+```
+
+### Weapons
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "items/magic-items/weapons"
+SORT title 
+```
+
+
+### Others
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "items/magic-items" 
+WHERE file.folder = "items/magic-items"
+SORT title 
+```
+
+
+
+
 # Geography
 
-- [[locations/carlemere-river]]
-- [[locations/dorian-river]]
-- [[locations/ironwood-forest]]
-- [[locations/khuz-mountains]]
-- [[locations/lake-derwall]]
-- [[locations/luminous-caverns]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "geography"
+SORT title 
+```
 
 # Flora
 
+```dataviewjs
+let files = dv.pages('"flora"').sort(p => p.title ?? p.file.name);
+let list = files.map(p => `- [[${p.file.path}|${p.title ?? p.file.name}]]`).join("\n");
+
+dv.el("div", list, {attr: {style: "column-count: 3; column-gap: 2em;"}});
+```
+
 # Fauna
 
-- [[species/horses|On Horses]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "fauna"
+SORT title 
+```
 
 # Languages
 
-- [[languages/dwarven-language|Dwarven Language]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "languages"
+SORT title 
+```
 
 # Deities & Religions
 
-- [[religions/on-deities-and-religion]]
+- [[religions/religions|Deities & Religions]]
 
 # Commerce & Trade
 
 ## Professions
 
-- [[professions/alchemist]]
-- [[professions/blacksmith]]
-- [[professions/brewer]]
-- [[professions/courtesan]]
-- [[professions/distiller]]
-- [[professions/herbalist]]
-- [[professions/poisoner]]
-- [[professions/vintner]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "professions"
+SORT title 
+```
 
-## Trade Organizations
+## Professional Organizations
 
-[[organizations/guilds/guilds-of-haven]]
+[[organizations/professional-guilds|Guilds of Haven]]
+
+```dataviewjs
+let files = dv.pages('"organizations/professional"').sort(p => p.title ?? p.file.name);
+let list = files.map(p => `- [[${p.file.path}|${p.title ?? p.file.name}]]`).join("\n");
+
+dv.el("div", list, {attr: {style: "column-count: 3; column-gap: 2em;"}});
+```
+
 
 # Ranks and Titles
 
-[[ranks/guild-grandmaster]]
-
-[[ranks/guild-master]]
-
-[[ranks/luna]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "ranks"
+SORT title 
+```
 
 # History
 
-[[timelines/general-history|Key Events]]
+[[timelines/general-history|General History]]
+
+

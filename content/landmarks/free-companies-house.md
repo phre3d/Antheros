@@ -1,120 +1,37 @@
 ---
 aliases: []
-tags: [brotherhood-of-free-companies, cat-guild, Free_City_of_Haven, guild, import, landmark, the-south-corridor, type-guildhouse]
+tags: [Building/guildhouse, Haven/south-corridor, Organization/fighting, Plot/Free-City-of-Haven]
 title: Free Companies House
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Free Companies House
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Merc's 'r Us
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Guildhouse (Guild) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    M08 (OE)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Guildhall  <br>
 
 ## Description
 
-Haven HQ for the Brotherhood of Free Companies. If you are looking to hire, or join a mercenary company this is the place to start as representatives of all the local companies can be found here.
+Common meeting hall shared by the various mercenary groups around Haven. Services for individual members can be found here. While both men and women are welcome,  most female mercenaries prefer [[maps/haven/markers/lydian-house|Lydian House]].
 
-Services for individual Brotherhood member can be found here - for men and women. It should be noted however that most female mercenaries join the Lydian Sisterhood instead.
+If one is looking to hire a mercenary or two "off the books", you might be able to do so here (or Lydian House) but formal contracts are done via [[maps/haven/markers/summ-mercenaries|Summ Mercenaries]].
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Guildhouse (Guild)**
-
- **Owner:**  
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   M08 (OE)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Guildhall
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/brotherhood-of-free-companies|Brotherhood of Free Companies]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** c7102ee5-78b8-460e-81c5-716629f47e31<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-guild,type-guildhouse,guild,brotherhood-of-free-companies-location
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

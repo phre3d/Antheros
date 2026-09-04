@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3551.717, 376.531]
 mapmarker: Residence
 title: Home of Balin arn Malbar
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Home of Balin arn Malbar

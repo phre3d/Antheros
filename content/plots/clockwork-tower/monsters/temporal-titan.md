@@ -1,16 +1,15 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Temporal Titan
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Temporal Titan
-Huge Contruct Unaligned
+
+>[!info] Image
+
+*Huge Contruct, Unaligned*
 
 **Armour Class:** 18 (natural)<br>
 **Hit Points:** 190 (20d12 + 60)<br>
@@ -34,40 +33,26 @@ Huge Contruct Unaligned
 **Damage Resistances:** Magic<br>
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-<<< Image Here >>>
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
 **Temporal Phasing.**  As a bonus action, the Temporal Titan can phase out of time, allowing it to move through other creatures and objects as if they were difficult terrain. It takes 5  force damage <u>if it ends its turn inside an object</u>. It remains phased out until the end of its next turn.   **Immutable Form.**  The Temporal Titan is immune to any spell or effect that would alter its form.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Temporal Titan makes two slam attacks.  
 
-### Slam
+## Slam
 
    **Melee Weapon Attack:**  +12 to hit, reach 10 ft., one target.
 
   **Hit:**  27 (4d8 + 7) bludgeoning damage.  
 
-### Temporal Disruption (Recharge 5-6)
+## Temporal Disruption (Recharge 5-6)
 
  The Temporal Titan emits a <u>wave of temporal energy in a 30-foot radius</u>. Each creature in that area must succeed on a <u>DC 16 Wisdom saving throw or be affected by the slow spell for 1 minute</u>. Affected creatures can make another Wisdom saving throw at the end of each of their turns, ending the effect on a success.
-
-![[~attachments/dndline.png]]
 
 # Description
 

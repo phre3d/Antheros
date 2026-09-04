@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, construction, Free_City_of_Haven, guild/erectors, import, landmark, the-cauldron, type-construction]
+tags: [Haven/outlands/cauldron, Organization/professional/guild-of-erectors, Plot/Free-City-of-Haven, Shop, Shop/service/construction]
 title: Kwartz - Stonemason
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Kwartz - Stonemason
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Construction (Service) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/the-cauldron|The Cauldron]] <br>
+>**Grid (Key) Ref.:**    A10 (KL)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Construction (Service)**
-
- **Owner:**  
-
- **District:**  The Cauldron
-
- **Grid (Key) Ref.:**   A10 (KL)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-cauldron|The Cauldron]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 256ba77f-25fd-49ec-9527-73aa6db1271d<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Cauldron<br>
-**Tags:** fcoh,the-cauldron-location,cat-shop,type-construction,guild-of-erectors-location,construction
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

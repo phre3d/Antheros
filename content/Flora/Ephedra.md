@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-life-plant, flora, import]
-title: Ephedra
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/life]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Ephedra
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-This small succulent sedum produces small offshoots which hold between 8 and 16 small leaves.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 22 gp  <br>
+>**Rarity:** Rare <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+This small succulent sedum produces small offshoots which hold between 8 and 16 small leaves. 
 
 # Natural Range
+
 Desert and Mountains
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 These leaves can then be dried and ground into a powder to mix with a poultice or potion to increase the tier of a healing die by 1, turning a d6 into a d8, etc. This effect can be used during short rests or with healing magic as a poultice, or can be used by adding to a health potion
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-life|Essence of Life]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-life | Essence of Life ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 22 gp<br>
-**Rarity:** Rare<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

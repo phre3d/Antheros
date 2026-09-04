@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-guild, Free_City_of_Haven, guild, guild/entertainers, import, landmark, street-of-harps, type-guildhouse]
+tags: [Building/guildhouse, Haven/south-corridor/street-of-harps, Organization/professional/guild-of-entertainers, Plot/Free-City-of-Haven]
 title: Guildhall of Entertainers
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Guildhall of Entertainers
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Guildhouse (Guild) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    G06 (LZ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Guildhall  <br>
 
 ## A Place to Hang One's Lute
 
@@ -40,99 +45,13 @@ From the lobby one can also go down hallways to the various Guild offices, or to
 
 ## Special Options
 
-The [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]], dominated by the bards and traditional musicians, holds a near monopoly on performance-for-money in Haven. All entertainers must be licensed by the Guild, and pay a 10% tithe of their earnings to the Guild. In return, the Guild provides training, some health provisions, pensions for retirement, and reasonable job security.  
+The [[organizations/professional/guild-of-entertainers|Guild of Entertainers]], dominated by the bards and traditional musicians, holds a near monopoly on performance-for-money in Haven. All entertainers must be licensed by the Guild, and pay a 10% tithe of their earnings to the Guild. In return, the Guild provides training, some health provisions, pensions for retirement, and reasonable job security.  
 
  Any bard player character who wishes to work as a bard must become a Guild member. This includes auditioning for the Guildmaster of the player's particular specialty (STA CHA with a +1 per level) and paying the tithes, plus a 10gp initiation fee. A green bard (level 1-3) may enroll in the School or study under one of the journeymen (or masters if one will accept him) for very low rates. An intermediate or veteran level character is considered a journeyman, and has more job opportunities, but his training will cost more, and an elite level bard is accorded the respect due a master of the craft.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Guildhouse (Guild)**
-
- **Owner:**  
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   G06 (LZ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Guildhall
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 25e4e595-8496-4eda-9132-424fcea4cb79<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-guild,type-guildhouse,guild-of-entertainers-location,guild
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

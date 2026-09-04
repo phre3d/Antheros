@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Digging
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Digging
@@ -31,14 +31,14 @@ An enterprising mine owner decided he could get more productivity from his worke
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
+**Base:** [[/materials/aluminum-grease|Aluminium Grease]]<br>
 **Essence(s):** Air    Earth  Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** Badger claws
@@ -53,4 +53,3 @@ An enterprising mine owner decided he could get more productivity from his worke
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,270 +1,105 @@
-#import #person 
-# Title
+---
+aliases: []
+tags: [Person ]
+title: 
+date modified: 2026-08-08, 3:15:53 pm
+---
 
-### 
+# Name
 
-**Full Name:**     (nee )  a.k.a.  
+>[!info]
+>Portrait
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  139
+>
+> **Class/Profession:**  Scholar 2nd
+>
+> **Places Encountered**
+>
+>
+>
+> **Purse:**   gp
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:**  <br>
+>
+>### Origins
+>**Family:**   <br>
+>**Race:**   <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**  <br>
+>**Date of Birth:**  <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**  
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**    <br>
+>**Circumstances of Death:**  
+>
+>#### Current State
+>**Alignment:**     <br>
+>**Known Language(s):**  <br>
+>**Current Status:**  <br>
+>**Current Residence:**    <br>
+>**Current Location:**    <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization(s):**  
 
-`````col
-````col-md
-flexGrow=2.5
-===
+**Full Name:**      <!-- honorific firstname middlename lastname suffix nee maidenname (a.k.a.   ) -->
+
 # General Info
-
-
----
-
-# Physical Description
-## General Physical Condition
-## General Physical Condition
-
-
-## Body Features
+>[!author-tip]
+>key introductory info such as general characteristics, history, employment, etc.
 
 
 
-## Facial Features
-
-
-## Identifying Characteristics
-
-
-## Physical Quirks
-
-
-## Special Abilities
-
-
-## Apparel & Accessories
-
-
-## Specialized Equipment
-
-
----
-
-## Personal History
-# Mental Characteristics
-
-
-## Gender Identity
-
-
-## Sexuality
-
-
-## Education
-
-
-## Employment
-
-
-## Accomplishments & Achievements
-
-
-## Failures and Embarrassments
-
-
-## Mental Trauma
-
-
-## Intellectual Characteristics
-
-
-## Morality & Philosophy
-
-
-## Taboos
-
-
----
-
-# Personality Characteristics
-## Motivation
-
-
-## Savvies & Ineptitudes
-
-
-## Likes & Dislikes
-
-
-## Virtues & Perks
-
-
-## Vices & Flaws
+# Physical
+>[!author-tip]
+>e.g. physique, body features, facial features, identifying characteristics, physical quirks, clothing, items etc.
 
 
 
-## Tics & Quirks
+# Mental
+>[!author-tip]
+>e.g. ideals, bonds, flaws, intellect, morality, taboos, gender/sexuality, education, accomplishments, failures/embarrassments, mental trauma, etc.
 
 
-## Hygiene
+
+# Family
+>[!author-tip]
+>e.g. parents, siblings, children, important ancestors, etc.
 
 
-## Representation & Legacy
-
-
----
 
 # Social
-## Titles
+>[!author-tip]
+>e.g. titles, wealth. contacts,  affiliations, religious view, social aptitude, mannerisms, speech, etc.
 
 
-## Reign
 
 
-## Contacts, Relations, & other Affiliations
 
-
-## Family Ties
-
-
-## Religious Beliefs
-
-
-## Social Aptitude
-
-
-## Mannerisms
-
-
-## Pets & Hobbies
-
-
-## Speech
-
-
-## Wealth
-
-
-
-# Divine / Deity
-**Classification:** <br>
-**Physical Realm:** <br>
-**Church / Cult:** <br>
-
-## Divine Domain(s)
-
-
-## Artifacts
-
-
-## Holy Books and Codes
-
-
-## Divine Symbols & Sigils
-
-
-## Tenets of Faith
-
-
-## Holidays
-
-
-## Divine Goals
-
-
----
-
-# Relationships
-
-## Parents
-
-| Biological | Adoptive |
-|------------|----------|
-|[[Person/\|]]<br>[[Person/\|]] | [[Person/\|]]<br>[[Person/\|]] |
-
-## Siblings
-**See:** [World Anvil Link]()
-
-## Children
-**See:** [World Anvil Link]()
-
-## Ancestors
-**See:** [World Anvil Link]()
-
-````
-````col-md
-![[~attachments/.jpg]]
----
-
-
----
-
-
----
-
-**Character Prototype:** 
----
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** <br>
-
-#### Origins
-**Family:** [[Organization/|]]<br>
-**Race:** [[Race/|]]<br>
-**Secondary Ethnicities/Cultures:** 
-- [[ethnicity/title|title]]
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  <br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[/|]]<br>
-
-#### Affiliations
-**Deity:**  [[Religion/|]]<br>
-**Affiliated Organization:**  [[Organization/|]]<br>
-**Other Affiliations:** 
-- [[organization/title|Title]]
-
-
----
-
-
-
----
-
-
----
-
-````
-`````
-
----
-
-
-
-
-
-
-<!-- Standard page footer -->
-![[~attachments/dndline.png]]
-````col
-```col-md
-Previous: 
-```
-
-```col-md
-textAlign=right
-===
-Next: 
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

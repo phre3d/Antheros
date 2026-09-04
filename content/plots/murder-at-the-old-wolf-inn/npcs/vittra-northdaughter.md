@@ -1,18 +1,16 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+tags: [Person, Person/npc, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Vittra Northdaughter
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Vittra Northdaughter
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
-Vittra Northdaughter is a tall and statuesque female half-orc tribal warrior (Neutral). She keeps her long hair in rows of braids and wears rugged outdoor clothes together with a fur cloak. The many tattoos that cover her face and body indicate a Hinterland origin. She tends to think carefully before she speaks.
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
+
+Vittra Northdaughter is a tall and statuesque female tiefling tribal warrior (Neutral). She keeps her long hair in rows of braids and wears rugged outdoor clothes together with a fur cloak. The many tattoos that cover her face and body indicate a Hinterland origin. She tends to think carefully before she speaks.
 
 Vittra is a nomad who often spends the autumn near Oxgate before travelling south for the winter. She was born with a strangely shaped purple birthmark, which her tribe considered a sign of bad luck. After a hunting accident when she was a teenager, the tribe's shaman foretold that she would one day divide and break the tribe. Vittra was forced to leave, and now wanders the wilderness in solitude. 
 
@@ -47,26 +45,9 @@ In addition, Vittra knows that someone is hiding in the stables, but she believe
 ## what she lies about  
 Vittra always tells the truth. According to the traditions in the Hinterlands, lying is strictly forbidden and taboo. However, Vittra dislikes meddling in other people's business, so she might choose to withhold some information.
 
-````
-````col-md
-![[plots/murder-at-the-old-wolf-inn/images/vittra.png]]
-
-
-````
-`````
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/npcs/kara-tanner" class="internal-link">Kara Tanner</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/npcs/william-fastfinger" class="internal-link">William Fastfinger</a> →</span>
+</div>

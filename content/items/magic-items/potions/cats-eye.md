@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: "Cat's Eye"
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Cat's Eye
@@ -12,7 +12,7 @@ date modified: 2026-07-16, 9:19:03 pm
 >**Rarity:** Common <br>
 >**Effect Category:** Sense
 >
->**Application:**Ingest <br>
+>**Application:** Ingest <br>
 >**Duration:** 8 hours
 >
 >**Price:** 150gp
@@ -27,14 +27,14 @@ Causes your eyes to take on a cat-like appearance, allowing you to see in dim li
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ Causes your eyes to take on a cat-like appearance, allowing you to see in dim li
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

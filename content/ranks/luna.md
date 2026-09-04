@@ -1,24 +1,24 @@
 ---
 aliases: []
-tags: [rank]
+tags: [Rank]
 title: Luna
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Luna
 
----start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>**Type:**
+>
+>**Status:**
+>
+>**Form of Address:** Luna
+>
+>**Length of Term:** Until defeated in a fair challenge that is accepted as such by the pack.
 
 # Description
 
-The lead female in a pack of werewolves. They are often the pack Alpha's mate but that isn't a requirement for the role
+The lead female in a pack of werewolves. They are usually the pack Alpha's mate but that isn't always the case.
 
 # Qualifications
 
@@ -28,18 +28,3 @@ Be a female werewolf in a pack.
 
 Be able to defeat any challenger.
 
---- end-column ---
-
-**Type:** <br>
-
-**Status:** <br>
-
-**Form of Address:** <br>
-
-**Reports-to Rank:** Alpha
-
-**Length of Term:** Until defeated in a fair challenge that is accepted as such by the pack.<br>
-
---- end-multi-column
-
----

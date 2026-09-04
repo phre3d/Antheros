@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Evasion
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Evasion
@@ -27,14 +27,14 @@ If you are subjected to an effect that allows you to make a Dexterity saving thr
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled alcohol|Distilled alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled alcohol]]<br>
 **Essence(s):** Air    Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** Demilich tooth
@@ -49,4 +49,3 @@ If you are subjected to an effect that allows you to make a Dexterity saving thr
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

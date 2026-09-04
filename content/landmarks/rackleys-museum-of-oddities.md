@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, thieves-market, type-museum]
+tags: [Entertainment/museum, Haven/south-corridor/thieves-market, Plot/Free-City-of-Haven]
 title: "Rackley's Museum of Oddities"
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Rackley's Museum of Oddities
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Museum (Entertainment) <br>
+>**Owner:**  [[people/bensoaman-rackley|Bensoaman Rackley]] <br>
+>**District:** [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]] <br>
+>**Grid (Key) Ref.:**    J04 (OZ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Museum  <br>
 
 ## If it's weird, they have it
 
@@ -26,95 +31,9 @@ shadow: off
 
  Bensoaman Is always looking for new oddities to display in his halls, and will usually pay well for a true oddity. He will even let groups use one of the many maps or charts he has accumulated, in search of new and wondrous things he can display. He is not interested in the treasure the group might find, just the truly unusual. Of the 346 maps and charts he owns, there are 35 (a 10% chance) which lead to actual treasures. Of the rest, 173 (50%) are totally worthless fakes, 69 (20%) have already been sacked by one group of adventurers or another, and the rest are nearly Impossible to read or have some important piece missing.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Museum (Entertainment)**
-
- **Owner:**  Bensoaman Rackley
-
- **District:**  Thieves' Market
-
- **Grid (Key) Ref.:**   J04 (OZ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Museum
-
-**Parent Location:**
-
-[[settlements/thieves-market|Thieves' Market]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/bensoaman-rackley|Bensoaman Rackley]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 971da95e-98ba-4569-a629-a46d73e0fe9d<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Thieves' Market<br>
-**Tags:** fcoh,thieves-market-location,cat-entertainment,type-museum,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

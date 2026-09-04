@@ -1,231 +1,109 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/south-corridor]
 title: "Turlough O'Carolan"
-date modified: 2026-07-16, 9:18:18 pm
+date modified: 2026-08-20, 8:03:26 pm
 ---
 
 # Turlough O'Carolan
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  727
+>
+>
+> **Class/Profession:**  Bard 11th
+>
+>
+> **Places Encountered**
+>- Street of Harps
+>- [[landmarks/guildhall-of-entertainers|Guildhall of Entertainers]]
+>- [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/human|Human]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Common | Choose 1 <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-south-corridor/the-south-corridor| The South Corridor]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Turlough  O'Carolan
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-An old man with a careworn face and long grey hair and beard meticulously trimmed, and pale, sightless eyes. His voice is rich and full, his fingers restless except when on the strings of his harp. His clothes are of good quality, embroidered with intricate designs, and he wears some finely crafted jewelry. 
 
- Old Turlough is well-revered in Haven; his mind is still quite sharp, but he has been ill of late and tires easily, falling asleep over his beloved harp. A song is rare, but wonderful. Turlough knows more of bardic lore than almost any bard in Haven, but his memory is fading, and needs the stimulus of a song. If asked, he can tell of the legendary harp, Dragonsbane. 
+An old man with a careworn face and long grey hair and beard meticulously trimmed, and pale, sightless eyes. His voice is rich and full, his fingers restless except when on the strings of his harp. His clothes are of good quality, embroidered with intricate designs, and he wears some finely crafted jewelry.
+
+ Old Turlough is well-revered in Haven; his mind is still quite sharp, but he has been ill of late and tires easily, falling asleep over his beloved harp. A song is rare, but wonderful. Turlough knows more of bardic lore than almost any bard in Haven, but his memory is fading, and needs the stimulus of a song. If asked, he can tell of the legendary harp, Dragonsbane.
 
  Turlough lives on Holly Road with a housekeeper, Fyrda, who looks after him.
 
----
-
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/turlough-o26230393Bcarolan-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/turlough-o26230393Bcarolan-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/turlough-o26230393Bcarolan-person)
 
-````
-````col-md
-
-
-**ID #**  727
-
-
- **Class/Profession:**  Bard 11th
-
-
- **Places Encountered** 
-- Street of Harps
-- [[landmark/guildhall-of-entertainers|Guildhall of Entertainers]]
-- [[settlement/the-south-corridor|The South Corridor]]
-
-
----
----
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Common | Choose 1<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-south-corridor|The South Corridor]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-![[people/blocks/turlough-ocarolan]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

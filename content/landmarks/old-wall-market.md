@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-goods, guild/merchants, import, landmark, the-labyrinth, type-general-goods]
+tags: [Haven/labyrinth, Organization/professional/merchants, Plot/Free-City-of-Haven, Shop, Shop/goods/general-goods]
 title: Old Wall Market
-date modified: 2026-07-16, 9:18:51 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Old Wall Market
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** General Goods (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-labyrinth/the-labyrinth|The Labyrinth]] <br>
+>**Grid (Key) Ref.:**    P05 (EN)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** General Store  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**General Goods (Shopping)**
-
- **Owner:**  
-
- **District:**  The Labyrinth
-
- **Grid (Key) Ref.:**   P05 (EN)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** General Store
-
-**Parent Location:**
-
-[[settlements/the-labyrinth|The Labyrinth]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 17629d2a-0878-4020-8f18-21e27b46ef31<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-shop,type-general-goods,merchants-guild-location,general-goods
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

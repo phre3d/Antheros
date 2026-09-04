@@ -1,22 +1,25 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: ryndana-gudas
 name: Ryndana Gudas
 sex: female
 born: 1156
-father: "[[plots/the-gypsy-train/npcs/javyd-gudas|Javyd Gudas]]"
-father_id: javyd-gudas
-mother: "[[tierza-gudas|Tierza Gudas]]"
+mother: "[[plots/the-gypsy-train/npcs/tierza-gudas]]"
 mother_id: tierza-gudas
 title: Ryndana Gudas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
+father: "[[plots/the-gypsy-train/npcs/javyd-gudas]]"
+father_id: javyd-gudas
 ---
 
 # Ryndana Gudas
 
-Medium, humanoid (half-elf), chaotic good
+>[!info] Portrait
+>IMAGE
+
+*Medium, humanoid (half-elf), chaotic good*
 
 **Profession:** Wizard (1st)
 
@@ -43,10 +46,9 @@ Medium, humanoid (half-elf), chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
+
 
 # Description
 
@@ -60,17 +62,16 @@ Because of Kordaal’s apparent intentions, the situation between the Vanagas an
 
 Because Kordaal is the next leader of the caravan and as such is exempt from having to “buy” his bride, Javyd Gudas cannot charge the young man for his daughter’s hand and therefore cannot make the money that he might have looked forward to. So far, Javyd does not regret this, and instead feels that Ryndana’s marriage to Kordaal might help to increase the gypsies’ respect for his hybrid family.
 
----
+
 
 # Spellcasting
 
 Ryndana has begun her spell book, which she keeps under her pillow. She has recorded three spells: *charm person*, *light,* and *read magic.*
 
----
+
 
 # Special Abilities
 
----
 
 # Actions
 

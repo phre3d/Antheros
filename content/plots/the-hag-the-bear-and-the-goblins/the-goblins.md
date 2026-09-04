@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Hag-Bear-Goblin, import, plot]
+tags: [Plot, Plot/Hag-Bear-Goblin]
 title: The Goblins
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # The Goblins

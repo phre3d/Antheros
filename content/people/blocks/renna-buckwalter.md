@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Renna Buckwalter
-date modified: 2026-07-16, 9:18:30 pm
+date modified: 2026-08-20, 8:03:30 pm
 ---
 
 # Renna Buckwalter
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Lightfoot Halfling<br>
 **Profession:** Merchant/3rd<br>
 **Challenge Rating:** 6<br>
@@ -20,25 +17,15 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 14 - None<br>
 **Hit Points:** 19<br>
-**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 9 (-1) | 11 (+0) | 11 (+0) | 12 (+1) | 8 (-1) | 6 (-2) |
 
-![[dndline.png]]
-
 **Saving Throws:** Charisma | Intelligence<br>
-**Condition Immunities:** Adv. Vs. Fear<br>**Languages:** Halfling | Common<br>**Challenge:** 6 / (XP)<br>**Senses:** <br>**Skills:** Lucky | Halfling Nimbleness | Naturally Stealthy
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
+**Condition Immunities:** Adv. Vs. Fear<br>
+**Languages:** Halfling | Common<br>
+**Challenge:** 6 / (XP)<br>
+**Senses:** <br>
+**Skills:** Lucky | Halfling Nimbleness | Naturally Stealthy

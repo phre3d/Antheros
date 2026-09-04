@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Poison Smoke
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Poison Smoke
@@ -27,14 +27,14 @@ As an action, you can throw this vial up to 20 feet, shattering it on impact. Ma
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium Grease|Calcium Grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium Grease]]<br>
 **Essence(s):** Air    <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ As an action, you can throw this vial up to 20 feet, shattering it on impact. Ma
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

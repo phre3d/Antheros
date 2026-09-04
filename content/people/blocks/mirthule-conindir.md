@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Mirthule Conindir
-date modified: 2026-07-16, 9:18:30 pm
+date modified: 2026-08-20, 8:03:30 pm
 ---
 
 # Mirthule Conindir
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** High Elf<br>
 **Profession:** Fighter/2nd<br>
 **Challenge Rating:** 5<br>
@@ -20,38 +17,25 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 15 - Leather<br>
 **Hit Points:** 15<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 10 (+0) | 10 (+0) | 8 (-1) | 10 (+0) | 14 (+2) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Constitution<br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common | Choose 1<br>**Challenge:** 5 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common | Choose 1<br>
+**Challenge:** 5 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry
 
 # Spellcasting
 
 **Racial**
 
 1 Wizard cantrip of choice
-
-![[dndline.png]]
 
 # Actions
 

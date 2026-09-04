@@ -2,7 +2,7 @@
 aliases: []
 tags: []
 title: table-of-contents
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 **[[plots/mine-your-own-business/mine-your-own-business|Mine Your Own Business]]** <br>
@@ -11,9 +11,9 @@ date modified: 2026-07-16, 9:18:13 pm
 &nbsp;&nbsp;&nbsp;&nbsp;- **[[plots/mine-your-own-business/the-mine|The Mine]]** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- **[[plots/mine-your-own-business/epilogue|Epilogue]]** <br>
 **NPCs**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [[people/gingar-terion|Mayor Gingar Terion]] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [[people/theresia-terion|Theresia Terion]] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [[people/rico-suavay|Rico Suavay]]   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/mine-your-own-business/npcs/gingar-terion|Mayor Gingar Terion]] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/mine-your-own-business/npcs/theresia-terion|Theresia Terion]] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/mine-your-own-business/npcs/rico-suavay|Rico Suavay]]   <br>
 **[[plots/mine-your-own-business/monsters|Monsters]]**   <br>
  **Items**<br>
  &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/mine-your-own-business/items/ebony-whistle-of-taming|Ebony Whistle of Taming]]

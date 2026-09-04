@@ -1,132 +1,33 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, thieves-market, type-other-services]
+tags: [Haven/south-corridor/thieves-market, Plot/Free-City-of-Haven, Shop, Shop/service/barber]
 title: "Fernando 'Fig' Garo - Barbering Service"
-date modified: 2026-07-16, 9:18:56 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Fernando 'Fig' Garo - Barbering Service
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Service / Barber <br>
+>**Owner:**   <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**   TM-03
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Market stall  <br>
 
 Pleasant conversation (Fig knows all the gossip of the city), decent barbering, non-slip shaves, and your ears and throat in one piece when you leave - there's little else to say here.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Service / Barber**
-
- **Location:**  Thieves Market
-
- **Map Reference:**  TM-03
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Market stall
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
----
-
- **Stall Type:** Small Tent
-
- **# Occupants:**  Owner
-
- **Prices:**  Fair
-
- **Quality:** Fair
-
- **Variety:**  Narrow
-
- **Honesty:** 55
-
- **Haggle Desire:** ?X
-
- **Haggle Ability:**  H
-
- **Purse:**  15gp
-
----
-
-### World Anvil Metadata
-
-**Id:** 3bb49d12-4cfc-41b7-9652-a61257ceb5e9<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Thieves' Market<br>
-**Tags:** fcoh,thieves-market-location,cat-shop,type-other-services
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

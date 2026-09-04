@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2461.224, 2768.044]
 mapmarker: Shopping
-title: Enchantments Ltd.
-date modified: 2026-07-16, 9:18:41 pm
+title: Enchantments Ltd
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-# Enchantments Ltd.
+# Enchantments Ltd
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
 
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:41 pm
 
 **Map Ref:** Map Ref.: H09 (NU)
 
-**Location:** [[landmarks/enchantments-ltd.|Enchantments Ltd.]]<br>
+**Location:** [[landmarks/enchantments-ltd|Enchantments Ltd.]]<br>
 **Location Type:** Magic
 
 **Description**<br>

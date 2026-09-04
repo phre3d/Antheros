@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, plot]
+tags: [Plot/Free-City-of-Haven/scenario]
 title: Silks and Slavery
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # Silks and Slavery

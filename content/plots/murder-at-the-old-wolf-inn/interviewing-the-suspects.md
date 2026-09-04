@@ -1,22 +1,16 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Interviewing the Suspects
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Interviewing the Suspects
 
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
 A key part of figuring out who murdered [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna]] is gathering useful information by talking to the NPCs. Almost everyone at the Old Wolf Inn has something to hide – for one reason or another.
 
@@ -35,26 +29,10 @@ The suspects are:
 
 --- end-column ---
 
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
---- end-multi-column
-
-![[~attachments/dndline.png]]
-
---- start-multi-column: Footer
-
-```column-settings  
-number of columns: 2  
-column size: [49%, 49%]
-border: [off]
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/murder-at-the-old-wolf-inn/solving-the-murder|Solving the Murder]]
-
---- end-column ---
-
-Next: [[plots/murder-at-the-old-wolf-inn/the-crime-scene|The Crime Scene]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/solving-the-murder" class="internal-link">Solving the Murder</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/the-crime-scene" class="internal-link">The Crime Scene</a> →</span>
+</div>

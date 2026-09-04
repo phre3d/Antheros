@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Evil
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Evil
@@ -31,14 +31,14 @@ Created by the cleric Seraphaes to assist in his quest to destroy all evil weapo
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure Alcohol|Pure Alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure Alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Powdered Demon Horn
@@ -53,4 +53,3 @@ Created by the cleric Seraphaes to assist in his quest to destroy all evil weapo
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

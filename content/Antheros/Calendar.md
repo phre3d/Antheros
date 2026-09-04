@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [antheros, calendar]
+tags: [Antheros, Antheros/calendar]
 title: The Calendar
-date modified: 2026-07-16, 9:19:08 pm
+date modified: 2026-08-17, 12:46:33 pm
 ---
 
 # The Calendar
 
-The calendar as commonly used across the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]] consists of 12 months of 28 days. After each three-month period there is a week-long festival "month" inserted, resulting in a year that is 364 days long.
+The calendar as commonly used across the [[organizations/geopolitical/confederation-of-the-ten-cities|Confederation of the Ten Cities]] consists of 12 months of 28 days. After each three-month period there is a week-long festival "month" inserted, resulting in a year that is 364 days long.
 
 The year 1 was declared upon the founding of the 2nd Namori Empire which came at the end of its westward expansion. Because of this the year is sometimes suffixed "2E".
 

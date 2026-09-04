@@ -1,11 +1,21 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, organization, type-family]
+tags: [Plot/Free-City-of-Haven, Organization/family/ohlfaardt-family]
 title: Ohlfaardt Family
-date modified: 2026-07-16, 9:18:37 pm
+date modified: 2026-08-17, 12:46:22 pm
 ---
 
 # Ohlfaardt Family
+
+>[!info]
+>### General Information
+>**Patriarch:** [[people/neberhard-ohlfaardt|Neberhard Ohlfaardt]]
+>
+>**Matriarch:**
+>
+>**Motto/Slogan**:
+>
+>**Main Residence:** [[landmarks/ohlfaardt-family-residence|Ohlfaardt Family Residence]]
 
 The Ohlfaardts own massive plots of rangeland to the southeast of Haven, and have traditionally been Haven's largest supplier of cured meat products. This role has been somewhat reduced over the years, because 1) the availability of relatively inexpensive magic have made it possible for wealthier merchants to buy storage chests with permanent Cold spells embedded in them; and 2) the expansion of cottage industry in Haven has resulted in the construction of large slaughter-house complexes which are close enough to food markets so that proprietors can pick up a day's worth of fresh meat every morning.
 
@@ -13,16 +23,14 @@ The Ohlfaardts have unequivocally refused to change in step with the times, and 
 
 The last five generations of Counts Ohlfaardt have been uniformly miserly men, who enjoyed counting their money more than spending it. The current Count, [[people/neberhard-ohlfaardt|Neberhard]], fit this model perfectly until, at the ripe old age of sixty, he cast caution to the winds, and wed a voluptuous young maiden ([[people/sui-tuong-ding|Sui Tuong Ding]]) of fifteen while on a journey to exotic [[settlements/outside-haven/herudana|Herudana]]. The other aristocratic families look upon Neberhard's sudden transformation as scandalous; they consider it even more shocking, however, that he has spent a fortune on fine jewels and gowns to crown his lady's beauty.
 
-The family's home in Haven is located in [[settlements/the-heights|The Heights]]
+The family's home in Haven is located in [[settlements/haven/the-heights/the-heights|The Heights]]
 
----
 
-**Family Leader:** [[people/neberhard-ohlfaardt|Neberhard Ohlfaardt]]
 
-**Members:**
+# Family Members and Close Associates
 
 ```dataview
-LIST
-FROM #ohlfaardt-family
-SORT file.name
+LIST WITHOUT ID link(file.name, title)
+FROM "people"
+WHERE contains(tags, "ohlfaardt-family")
 ```

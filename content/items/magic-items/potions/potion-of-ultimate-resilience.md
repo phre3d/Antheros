@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Ultimate Resilience
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Ultimate Resilience
@@ -27,14 +27,14 @@ Drinking this potion grants advantage on all saving throws. This effect cannot b
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Fire  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** Kraken eye
@@ -49,4 +49,3 @@ Drinking this potion grants advantage on all saving throws. This effect cannot b
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

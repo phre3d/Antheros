@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, the-south-docks, type-inn]
+tags: [Haven/commons/south-docks, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/inn]
 title: "Alekhine's Boarding House"
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:31 pm
 ---
 
 # Alekhine's Boarding House
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Inn (Inns & Taverns) <br>
+>**Owner:**  [[people/alekhine|Alekhine]] <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    U06 (AQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Inn  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Cheap rooms, no questions
+***Cheap rooms, no questions***
 
 ## Description
 
@@ -28,95 +33,9 @@ The three story tenement is frequented by sailors on shore leave in Haven, or be
 
 The only other employee is a sullen half-orc named [[people/kradoc|Kradoc]], who makes a half-hearted attempt to keep the place clean. He is nosier than his boss, and will not hesitate to eavesdrop on an interesting conversation, if the opportunity arises. Nor is he above petty theft, if he thinks he can get away from it.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Inn (Inns & Taverns)**
-
- **Owner:**  Alekhine
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   U06 (AQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Inn
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/alekhine|Alekhine]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f5005b26-7cf7-49d0-8d9f-33cc3d01e641<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the-south-docks-location,cat-shop,type-inn,guild-of-the-hearth-location,inn
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

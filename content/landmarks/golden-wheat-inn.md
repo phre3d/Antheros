@@ -1,108 +1,34 @@
 ---
 aliases: []
-tags: [import, landmark]
+tags: []
 title: Golden Wheat Inn
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Golden Wheat Inn
 
---- start-multi-column: MainBody
+>[!info]
+>![[golden-wheat-inn-1st.webp]]
+>![[golden-wheat-inn-2nd.webp]]
+>
+>---
+>
+>**Type:** Inn <br>
+>**Owner:**   <br>
+>**Location:**  Village of [[settlements/outside-haven/oakridge|Oakridge]]<br>
+>**Grid (Key) Ref.:**  n/a
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:**   <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+"The Wheat" acts as a social center for the town of [[settlements/outside-haven/oakridge|Oakridge]] and is a central hub for stories centered there: [[plots/mine-your-own-business/mine-your-own-business|Mine Your Own Business]] and [[plots/the-hag-the-bear-and-the-goblins/the-hag-the-bear-and-the-goblins|The Hag the Bear and the Goblins]].
 
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**<center>Golden Wheat Inn</center>**
-
- **1st Floor** ![[plots/mine-your-own-business/maps/golden-wheat-inn-1st.webp]]
-
- **2nd Floor** ![[plots/mine-your-own-business/maps/golden-wheat-inn-2nd.webp]]
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:**
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 2e8039a0-c375-4a81-b791-35067f65cf76<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Oakridge<br>
-**Tags:**
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

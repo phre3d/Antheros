@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Actions
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Cogsprocket Spider
+date modified: 2026-08-13, 9:05:13 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Cogsprocket Spider
-Small construct (spider) unaligned
+
+>[!info] Image
+>![[plots/clockwork-tower/images/cogsprocket-spider.png]]
+
+*Small construct (spider), unaligned*
 
 **Armour Class:** 13 (natural armor)<br>
 **Hit Points:** 27 [roll:6d6 + 6]<br>
@@ -33,30 +33,18 @@ Small construct (spider) unaligned
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/cogsprocket-spider.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Actions
 
-### Bite
+## Bite
 
   **Melee Weapon Attack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  5  piercing damage.
 
-### Repair
+## Repair
 
  The Cogsprocket Spider can repair a construct, including itself, restoring 5  hit points.
-
-![[~attachments/dndline.png]]
 
 # Description
 

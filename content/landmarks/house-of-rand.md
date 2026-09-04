@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [banking, cat-shop, Free_City_of_Haven, import, landmark, the-north-corridor, type-banking]
+tags: [Haven/north-corridor, Plot/Free-City-of-Haven, Shop, Shop/service/banking]
 title: House of Rand
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # House of Rand
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Banking (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-north-corridor/the-north-corridor|The North Corridor]] <br>
+>**Grid (Key) Ref.:**    Q16 (GD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Bank / Treasury  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Banking, real estate, and commodities
+***Banking, real estate, and commodities***
 
 ## Description
 
@@ -56,95 +61,9 @@ The Rand brothers, the three clerks, and four [[people/bank-guards|Bank Guards]]
 
 There is a 35% chance of encountering other customers, one (75%) or two. These will usually be very wealthy people.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Banking (Shopping)**
-
- **Owner:**  
-
- **District:**  The North Corridor
-
- **Grid (Key) Ref.:**   Q16 (GD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Bank / Treasury
-
-**Parent Location:**
-
-[[settlements/the-north-corridor|The North Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/families/rand-family|Rand Family]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** a3539989-f5f7-4026-b788-c2e9a20b9c57<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The North Corridor<br>
-**Tags:** fcoh,the-north-corridor-location,cat-shop,type-banking,banking
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

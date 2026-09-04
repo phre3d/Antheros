@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Tzindala
-date modified: 2026-07-16, 9:18:29 pm
+date modified: 2026-08-20, 8:03:31 pm
 ---
 
 # Tzindala
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Half-Elf<br>
 **Profession:** Singer, Storyteller/3rd<br>
 **Challenge Rating:** 6<br>
@@ -20,30 +17,18 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Leather<br>
 **Hit Points:** 19<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 9 (-1) | 16 (+3) | 8 (-1) | 15 (+2) | 13 (+1) | 11 (+0) |
 
-![[dndline.png]]
-
 **Saving Throws:** <br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common | Choose 1<br>**Challenge:** 6 / (XP)<br>**Senses:** Darkvision 60''<br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common | Choose 1<br>
+**Challenge:** 6 / (XP)<br>
+**Senses:** Darkvision 60''<br>
 
 # Actions
 

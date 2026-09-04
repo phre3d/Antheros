@@ -1,16 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: dining
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+# Dining Markers
 
-- [[maps/haven/markers/the-lamb-and-lime]]
-- [[maps/haven/markers/the-blue-harper]]
-- [[maps/haven/markers/garduccios]]
-- [[maps/haven/markers/the-hanged-man]]
-- [[maps/haven/markers/the-aerie]]
-- [[maps/haven/markers/tarmialda-the-loft]]
-- [[maps/thieves-market/markers/laudie-dalys-cooked-food|Laudie Daly's Cooked Food]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Dining"
+```

@@ -1,77 +1,66 @@
-#settlement 
+---
+aliases: []
+tags: [Settlement]
+title: 
+date modified: 2026-08-13, 8:18:44 pm
+---
+
+# Name
 
 >[!info]
->Image
+>Map
 >
 >---
 >
 >**Type:** <br>
 >**Other Name(s):** <br>
->**Located In:** [[/]]
->
 >**Population:** <br>
 >**Demonym:** <br>
+>
+>---
+>
+>**Ruler:** <br>
+>**Ruling Organization:**  <br>
 >**Founded:** <br>
->**Ruined:** 
+>**Founders:**
 >
->**Ruler:** [[people/]] <br>
->**Rank:** [[ranks/]] <br>
->**Ruling Organization:** [[organizations/]] <br>
->**Other Rulers:** 
->- [[people/title]]
+>---
 >
->**Founders:** 
->- [[people/title]]
+>**Location:**<br>
+>**Grid (Key) Ref.:**   
+>
 
+***Tagline***
 
-
-
-# Title
-
+# Description
 
 
 # Demographics
 
-
 # Government
-
 
 # Defenses
 
-
 # Industry & Trade
-
 
 # Infrastructure
 
-
 # Districts
-
 
 # Assets
 
-
 # Guilds & Factions
-
 
 # History
 
-
 # Points of Interest
-
 
 # Tourism
 
-
 # Architecture
-
 
 # Geography
 
-
 # Climate
 
-
 # Natural Resources
-
-

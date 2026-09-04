@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1572.126, 6279.592]
 mapmarker: Shopping
 title: "Jasmine's House of Tattoos"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Jasmine's House of Tattoos

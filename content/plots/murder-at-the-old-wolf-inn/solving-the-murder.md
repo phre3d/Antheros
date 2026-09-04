@@ -1,22 +1,16 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Solving the Murder
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Solving the Murder
 
----start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
 # Outline
 
@@ -68,28 +62,10 @@ At dawn when the storm is moving on, the NPCs will gather in the common room, an
 
 At this point, there are several alternative endings to the adventure depending on the characters' actions. (See chapter 8 for more information.)
 
---- end-column ---
 
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
-
---- end-multi-column
-
-![[~attachments/dndline.png]]
-
---- start-multi-column: Footer
-
-```column-settings  
-number of columns: 2  
-column size: [49%, 49%]
-border: [off]
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/murder-at-the-old-wolf-inn/arriving-at-the-inn]]
-
---- end-column ---
-
-Next: [[plots/murder-at-the-old-wolf-inn/interviewing-the-suspects]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="[[plots/murder-at-the-old-wolf-inn/arriving-at-the-inn]]" class="internal-link">Arriving at the Inn</a></span>
+  <span class="nav-next">Next: <a href="[[plots/murder-at-the-old-wolf-inn/interviewing-the-suspects]]" class="internal-link">Interviewing the Suspects</a> →</span>
+</div>

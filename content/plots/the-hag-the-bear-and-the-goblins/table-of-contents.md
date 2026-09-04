@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Hag-Bear-Goblin, toc]
+tags: [Plot/Hag-Bear-Goblin, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 **[[plots/the-hag-the-bear-and-the-goblins/the-hag-the-bear-and-the-goblins|Introduction]] ** <br>
@@ -15,9 +15,9 @@ date modified: 2026-07-16, 9:18:11 pm
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/the-hag-the-bear-and-the-goblins/the-goblins|The Goblins]]   <br>
 **[[plots/the-hag-the-bear-and-the-goblins/epilogue|Epilogue]]** <br>
 **NPCs**   <br>
- &nbsp;&nbsp;&nbsp;&nbsp;- [[people/lanita|Lanita]] (priestess)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;- [[people/thomas-tank-ingyn|Thomas 'Tank' Ingyn]] (farmer)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;- [[people/rico-suavay|Rico Suavay]] (inkeeper)   <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/the-hag-the-bear-and-the-goblins/npcs/lanita|Lanita]] (priestess)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/the-hag-the-bear-and-the-goblins/npcs/thomas-tank-ingyn|Thomas 'Tank' Ingyn]] (farmer)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/mine-your-own-business/npcs/rico-suavay|Rico Suavay]] (inkeeper)   <br>
  **Monsters**   <br>
  &nbsp;&nbsp;&nbsp;&nbsp;- [Ludmilla]( https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#ludmilla) (the hag)<br>
  &nbsp;&nbsp;&nbsp;&nbsp;- [Bonemeal](https://www.worldanvil.com/w/antheros-phre3d/a/hbg3A-monsters-plot#bonemeal) (wolf)<br>

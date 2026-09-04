@@ -1,226 +1,104 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, the-south-corridor]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Settlement/haven/south-corridor]
 title: Kikitabra
-date modified: 2026-07-16, 9:18:25 pm
+date modified: 2026-08-20, 8:03:20 pm
 ---
 
 # Kikitabra
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  269
+>
+>
+> **Class/Profession:**  Dancer 3rd
+>
+>
+> **Places Encountered**
+>- [[landmarks/the-silver-stringed-bouzouki|The Silver Stringed Bouzouki]]
+>- [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Female <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  [[/races/elf|Elven]]  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**  18 <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Elvish | Common <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/the-south-corridor/the-south-corridor| The South Corridor]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Kikitabra
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-Kiki is a dancer, and a damn good one. She currently works at [[landmark/the-silver-stringed-bouzouki|The Silver Stringed Bouzouki]]. She is aware of [[person/bozulouski-piringolli|Bozulouski Piringolli]]'s interest in her but is not interested given his age (63) and is doing her best to stay out of his way.
 
-![[dndline.png]]
+Kiki is a dancer, and a damn good one. She currently works at [[landmarks/the-silver-stringed-bouzouki|The Silver Stringed Bouzouki]]. She is aware of [[people/bozulouski-piringolli|Bozulouski Piringolli]]'s interest in her but is not interested given his age (63) and is doing her best to stay out of his way.
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/kikitabra-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/kikitabra-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/kikitabra-person)
 
-````
-````col-md
-
-
-**ID #**  269
-
-
- **Class/Profession:**  Dancer 3rd
-
-
- **Places Encountered** 
-- [[landmark/the-silver-stringed-bouzouki|The Silver Stringed Bouzouki]]
-- [[settlement/the-south-corridor|The South Corridor]]
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/elven-race|Elven Race]]<br>
-
-
-#### Birth
-**Age:**  18<br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Elvish | Common<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/the-south-corridor|The South Corridor]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/kikitabra]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

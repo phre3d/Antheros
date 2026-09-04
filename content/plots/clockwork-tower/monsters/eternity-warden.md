@@ -1,16 +1,16 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Eternity Warden
+date modified: 2026-08-13, 9:13:17 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Eternity Warden
-Large construct (humanoid) lawful neutral
+
+>[!info] Image
+>![[plots/clockwork-tower/images/eternity-warden.png]]
+
+*Large construct (humanoid), lawful neutral*
 
 **Armour Class:** 19 (natural armor)<br>
 **Hit Points:** 210 (20d10 + 100)<br>
@@ -33,54 +33,42 @@ Large construct (humanoid) lawful neutral
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/eternity-warden.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Immutable Form
+## Immutable Form
 
  The Eternity Warden is immune to any spell or effect that would alter its form.
 
-### Magic Resistance
+## Magic Resistance
 
  The Eternity Warden has advantage on saving throws against spells and other magical effects.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack
+## Multiattack
 
  The Eternity Warden makes two slam attacks.
 
-### Slam
+## Slam
 
   **Melee Weapon Attack:**  +11 to hit , reach 10 ft., one target.
 
   **Hit:**  19  bludgeoning damage.
 
-### Temporal Ray (Recharge 5-6)
+## Temporal Ray (Recharge 5-6)
 
  The Eternity Warden unleashes a beam of condensed temporal energy from its staff in <u>a line 60 feet long and 5 feet wide</u>. Each creature in the line must make a <u>DC 18 Dexterity saving throw</u>. On a failed save, a creature takes 33  force damage and is slowed (as the Slow spell) until the end of the Eternity Warden's next turn. On a successful save, a creature takes half the damage and isn't slowed.
 
-### Temporal Shift (1/Day)
+## Temporal Shift (1/Day)
 
  The Eternity Warden can teleport, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-![[~attachments/dndline.png]]
-
 # Description
 
-Standing over ten feet tall, its body is a complex amalgamation of brass, steel, and crystal, powered by an ever-shifting core of temporal energy. In one hand, it carries a large staff, pulsating with the same energy.   One of the most formidable inhabitants of the Clockwork Tower, the Eternity Warden is a mechanical marvel. The Eternity Warden was one of Constantine's earliest and most successful creations, designed to safeguard the Timepiece of Eternity from any threats. Its purpose ingrained into its very being, it tirelessly patrols the tower, ready to utilize its timewarping abilities at the first sign of intrusion. With the ability to slow down time, teleport across short distances, and withstand significant damage, the Eternity Warden is a formidable foe for any who dare threaten the integrity of the Clockwork Tower.
+Standing over ten feet tall, its body is a complex amalgamation of brass, steel, and crystal, powered by an ever-shifting core of temporal energy. In one hand, it carries a large staff, pulsating with the same energy.   One of the most formidable inhabitants of the Clockwork Tower, the Eternity Warden is a mechanical marvel.
+
+The Eternity Warden was one of Constantine's earliest and most successful creations, designed to safeguard the Timepiece of Eternity from any threats. Its purpose ingrained into its very being, it tirelessly patrols the tower, ready to utilize its timewarping abilities at the first sign of intrusion. With the ability to slow down time, teleport across short distances, and withstand significant damage, the Eternity Warden is a formidable foe for any who dare threaten the integrity of the Clockwork Tower.
 
 ---
 

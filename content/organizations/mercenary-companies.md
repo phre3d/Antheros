@@ -1,20 +1,26 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, organization, type-military-mercenary-group]
+tags: [Plot/Free-City-of-Haven, Organization/fighting ]
 title: Mercenary Companies
-date modified: 2026-07-16, 9:18:37 pm
+date modified: 2026-08-17, 12:46:22 pm
 ---
 
 # Mercenary Companies
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>**Alternate Names:**
+>
+>**Motto/Slogan**:
+>
+>**Demonym:**
+>
+>**Leader:**
+>
+>**Leader Title:**
+>
+>**Parent Organization:**
+>
+>**Geographic Location**
 
 # Description
 
@@ -26,50 +32,9 @@ Occasionally, in the past, various companies have been hired for "road-cleaning"
 
 A number of reasonably large mercenary contingents (200 to 500 men each) regularly station themselves at the three towns of the Borgonnin Pass through the Mountains of Peace, the pass taken by the Long Road. They provide protection for groups of travelers and caravans using the pass, which is unfortunately infested with Lizarim (the townspeople appreciate the mercenaries' presence too - fewer successful raids by the lizard-men). These companies are nearly always on the lookout for new recruits, since the casualty rates for duty in the Pass are not low. The pay is high, about five times the regular rates, but the risk factor is at the same level.
 
-In the city, the sworn swords (the common appellation for mercenaries in general) will tend to congregate at the hall of the major guild, [[landmarks/free-companies-house|Free Companies House]] (located on Caravan Street near the corner of Galenkris), or at the Lydian House the home in Haven, of the [[organizations/lydian-sisterhood|Lydian Sisterhood]] (other mercenary guilds exist but are not represented in Haven). At other times, many mercenaries can be found at one of three different taverns in the area of the Free Companies guild house, [[landmarks/the-brass-blade|The Brass Blade]], [[landmarks/ludwigs-brauhaus|Ludwig's Brauhaus]], and the [[landmarks/bull-of-anathor|Bull of Anathor]]. Few outsiders (obvious non-soldiers) are welcomed at these taverns when the mercenaries are in full attendance, but likely recruits might be tolerated (at least for a beer or two, and a question or three).
+In the city, the sworn swords (the common appellation for mercenaries in general) will tend to congregate at the hall of the major guild, [[landmarks/free-companies-house|Free Companies House]] (located on Caravan Street near the corner of Galenkris), or at the Lydian House the home in Haven, of the [[organizations/fighting/lydian-sisterhood|Lydian Sisterhood]] (other mercenary guilds exist but are not represented in Haven). At other times, many mercenaries can be found at one of three different taverns in the area of the Free Companies guild house, [[landmarks/the-brass-blade|The Brass Blade]], [[landmarks/ludwigs-brauhaus|Ludwig's Brauhaus]], and the [[landmarks/bull-of-anathor|Bull of Anathor]]. Few outsiders (obvious non-soldiers) are welcomed at these taverns when the mercenaries are in full attendance, but likely recruits might be tolerated (at least for a beer or two, and a question or three).
 
-## Signing Up
-
-Joining a mercenary company is not overly difficult. Surviving in one may be. Most companies are in need of fighting personnel at any given time, and will accept anyone who is relatively strong, dexterous, and trained with the weapons favored by the men of the company - swords, pikes, etc. To determine whether a character would be acceptable to a company commander as a recruit:
-
-- Total STR, DEX and CON
-- Add 2 for each point of STR > 14, DEX > 13, and/or CON > 15.
-- Add 5 if the potential recruit is Intermediate, 15 if Veteran, and 20 if Elite
-- Add 5 for every weapon favored by the company in which the character is trained, 10 additional for each of these in which he has expertise/proficiency
-- If the company uses shields, add 10 for shield training
-- Add 2 for each combat plus with proper weapons
-- If the recruit can provide their own mount, add 10
-
-Using the total as a percentage, roll D100 to see if the commander accepts the recruit in his company. Experienced soldiers have a chance equal to
-
-(100 - # higher level people in the company / 100) / 3 times (# in the troop / 100)
-
-of being offered a command position of some sort (the greater the difference between roll and figure to beat, the better the position should be).
-
- **<center>Mercenary Weekly Pay Scales</center>**
-
-| Type | Elite | Veteran | Intermediate | Green  |
-|---|---|---|---|---|
-| Light Infantry | 25gp | 20gp | 15gp | 10gp  |
-| Medium Infantry | 30gp | 25gp | 18gp | 13gp  |
-| Heavy Infantry | 40gp | 33gp | 23gp | 18gp  |
-| Shock | 50gp | 43gp | 30gp | 25gp  |
-| Light Cavalry | 40gp | 35gp | 25gp | 20gp  |
-| Heavy Cavalry | 50gp | 43gp | 33gp | 28gp  |
-| Cataphract | 65gp | 55gp | 40gp | 35gp  |
-| Archers | 30gp | 23gp | 15gp | 10gp  |
-| Scouts | 30gp | 23gp | 15gp | 10gp  |
-| Engineers | 40gp | 30gp | 17gp | 10gp  |
-
-Pay in a mercenary company is usually in arrears unless the group has just returned from a relatively successful campaign. Normally, the commander is responsible for maintenance of the men (room and board). Weaponry, armor and clothing are the responsibility of the men themselves, as are other than basic daily food requirements (beer, steak, etc.). Those commanders who have developed large companies usually have some in-city guard position or easy caravan duty to provide income for their men when they are not engaged on active duty.
-
-Should anyone wish to hire a mercenary company or possibly found a troop, the above pay scales may be used. To find the cost for a company or troop, total the amounts for the various types of soldier in the troop by percentage of experience level. The resultant sum is the weekly cost of the mercenary company. Or attempt to hire one of the mercenary bands outlined below.
-
-The normal contract is for a minimum of 4 weeks but this is negotiable, at a cost if the duration is shorter.
-
-A note to the wise: few mercenary commanders take well to being cheated out of agreed upon sums for duty, whether combat or garrison. It is not unknown for the contractor hiring a company to be overrun and conquered himself when he tried to withhold the mercenaries' hard-earned gold.
-
-## Mercenary Companies In Haven
+# Mercenary Companies In Haven
 
 The companies that may be found in Haven at any given time are listed below, including style of fighting (racial type denoted), general type of armor and favored weapon(s), percentages of various experience levels comprising the company, weekly pay requirements (for the entire company), and chance of being in Haven (and therefore available) at any given time. The better companies will usually be less available, since they may get hired as soon as they hit town.
 
@@ -126,200 +91,51 @@ Note that the amounts in the following tables are what the overall commander of 
 | Muri arn Balor "Ironarm"      | 5      | Dwarven      | Heavy infantry      | Chain or semi-plate Shield      | Battle axe (shield slung) Sword or hammer      | 15% Elite 30% Veteran 35% Intermediate 20% Green      | 13,775      | 25%    |
 | Yusuf ben Azreddin      | 4      | Mixed      | Light cavalry      | Leather or light chain Small shield      | Lance  Bow  Saber      | 15% Elite 30% Veteran 45% Intermediate 10% Green      | 14,875      | 25%    |
 
----
+# Signing Up
 
-# Common Information
+Joining a mercenary company is not overly difficult. Surviving in one may be. Most companies are in need of fighting personnel at any given time, and will accept anyone who is relatively strong, dexterous, and trained with the weapons favored by the men of the company - swords, pikes, etc. To determine whether a character would be acceptable to a company commander as a recruit:
 
-## Basics
+- Total STR, DEX and CON
+- Add 2 for each point of STR > 14, DEX > 13, and/or CON > 15.
+- Add 5 if the potential recruit is Intermediate, 15 if Veteran, and 20 if Elite
+- Add 5 for every weapon favored by the company in which the character is trained, 10 additional for each of these in which he has expertise/proficiency
+- If the company uses shields, add 10 for shield training
+- Add 2 for each combat plus with proper weapons
+- If the recruit can provide their own mount, add 10
 
-**Type:** Military, Mercenary Group<br>
-**Alternate Names:** <br>
-**Motto/Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:**
+Using the total as a percentage, roll D100 to see if the commander accepts the recruit in his company. Experienced soldiers have a chance equal to
 
-**Founders**
+(100 - # higher level people in the company / 100) / 3 times (# in the troop / 100)
 
-**Predecessor Organizations**
+of being offered a command position of some sort (the greater the difference between roll and figure to beat, the better the position should be).
 
-**Successor Organizations**
+ **<center>Mercenary Weekly Pay Scales</center>**
 
-**Geographic Location / Base Settlement / HQ**
+| Type | Elite | Veteran | Intermediate | Green  |
+|---|---|---|---|---|
+| Light Infantry | 25gp | 20gp | 15gp | 10gp  |
+| Medium Infantry | 30gp | 25gp | 18gp | 13gp  |
+| Heavy Infantry | 40gp | 33gp | 23gp | 18gp  |
+| Shock | 50gp | 43gp | 30gp | 25gp  |
+| Light Cavalry | 40gp | 35gp | 25gp | 20gp  |
+| Heavy Cavalry | 50gp | 43gp | 33gp | 28gp  |
+| Cataphract | 65gp | 55gp | 40gp | 35gp  |
+| Archers | 30gp | 23gp | 15gp | 10gp  |
+| Scouts | 30gp | 23gp | 15gp | 10gp  |
+| Engineers | 40gp | 30gp | 17gp | 10gp  |
 
-**Related Ethnicities**
+Pay in a mercenary company is usually in arrears unless the group has just returned from a relatively successful campaign. Normally, the commander is responsible for maintenance of the men (room and board). Weaponry, armor and clothing are the responsibility of the men themselves, as are other than basic daily food requirements (beer, steak, etc.). Those commanders who have developed large companies usually have some in-city guard position or easy caravan duty to provide income for their men when they are not engaged on active duty.
 
-**Related Species**
+Should anyone wish to hire a mercenary company or possibly found a troop, the above pay scales may be used. To find the cost for a company or troop, total the amounts for the various types of soldier in the troop by percentage of experience level. The resultant sum is the weekly cost of the mercenary company. Or attempt to hire one of the mercenary bands outlined below.
 
-## Leadership
+The normal contract is for a minimum of 4 weeks but this is negotiable, at a cost if the duration is shorter.
 
-**Leader:** <br>
-**Leader Title:** <br>
-**Ruling Organization:** <br>
-**Family Leader:**
+A note to the wise: few mercenary commanders take well to being cheated out of agreed upon sums for duty, whether combat or garrison. It is not unknown for the contractor hiring a company to be overrun and conquered himself when he tried to withhold the mercenaries' hard-earned gold.
 
-## Structure
 
-## Culture
-
-## Public Agenda
-
-## Assets
-
-## History
-
-## Disbandment
-
-![[DnDLine.png|Slogan**: <br>
-**Demonym:** <br>
-**Parent Organization:** <br>
-**Founding Date:** <br>
-**Dissolution Date:**
-
-**Founders**
-
-**Predecessor Organizations**
-
-**Successor Organizations**
-
-**Geographic Location / Base Settlement / HQ**
-
-**Related Ethnicities**
-
-**Related Species**
-
-## Leadership
-
-**Leader:** <br>
-**Leader Title:** <br>
-**Ruling Organization:** <br>
-**Family Leader:**
-
-## Structure
-
-## Culture
-
-## Public Agenda
-
-## Assets
-
-## History
-
-## Disbandment
-
----
-
-# Geopolitical Organizations
-
-**Capital:** <br>
-**Power Structure System:** <br>
-**Government System:** <br>
-**Head of State:** <br>
-**Head of Government:** <br>
-**Economic System:** <br>
-**Official State Religion:**
-
-**Neighboring Geopolitical Organizations**
-
-**Recognized/Official Languages**
-
-## Gazetteer
-
-## Currency
-
-## Legislative Body
-
-## Judicial Body
-
-## Executive Body
-
-## Demography & Population
-
-## Foreign Relations
-
-## Laws
-
-## Territory
-
-## Military
-
-## Religion
-
-## Agriculture & Industry
-
-## Trade & Transport
-
-## Exports
-
-## Imports
-
-## Education
-
-## Infrastructure
-
-## Technological & Scientific Level
-
----
-
-# Religious Organizations
-
-**Deities**
-
-# Mythology
-
-# Origins
-
-# Cosmology
-
-# Tenets of Faith
-
-# Priesthood
-
-# Ethics
-
-# Granted Divine Powers
-
-# Political Intrigue & Influence
-
-# Worship
-
-# Sects
-
----
-
-# Military Organizations
-
-**Formation Type:**  
-
-**Training Level:**
-
-**Veterancy:**
-
---- end-column ---
-
-**Image:**
-
-### World Anvil Metadata
-
-**Id:** 1f566952-526a-46ee-924e-c5f90b98505b<br>
-**Entity Type:** Article / organization<br>
-**Category:** City Watch and Military<br>
-**Tags:** fcoh,type-military-mercenary-group
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

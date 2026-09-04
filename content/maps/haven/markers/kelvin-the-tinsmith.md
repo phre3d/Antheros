@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1269.064, 4905.102]
 mapmarker: Shopping
 title: Kelvin the Tinsmith
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Kelvin the Tinsmith

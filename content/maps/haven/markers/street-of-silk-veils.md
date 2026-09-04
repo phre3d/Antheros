@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2104.1016, 3941.1337]
 mapmarker: Landmark
 title: Street of Silk Veils
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Street of Silk Veils
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:40 pm
 
 **Map Ref:** Map Ref.: M06 ()
 
-**Location:** [[settlements/the-street-of-silk-veils|The Street of Silk Veils]]<br>
+**Location:** [[settlements/haven/the-labyrinth/the-street-of-silk-veils|The Street of Silk Veils]]<br>
 **Location Type:** Street
 
 **Description**<br>

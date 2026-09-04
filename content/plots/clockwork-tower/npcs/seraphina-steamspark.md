@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, guild/metalsmiths, import, npc, person, the-labyrinth]
+tags: [Haven/labyrinth, Organization/professional/metalsmiths, Person, Person/npc, Plot/Clockwork-Tower]
 title: Seraphina Steamspark
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # Seraphina Steamspark

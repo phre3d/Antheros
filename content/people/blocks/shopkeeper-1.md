@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Shopkeeper 1
-date modified: 2026-07-16, 9:18:29 pm
+date modified: 2026-08-20, 8:03:30 pm
 ---
 
 # Shopkeeper 1
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** Trader/8th<br>
 **Challenge Rating:** 7<br>
@@ -20,30 +17,16 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Padded<br>
 **Hit Points:** 23<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 13 (+1) | 13 (+1) | 13 (+1) | 12 (+1) | 8 (-1) | 16 (+3) |
 
-![[dndline.png]]
-
 **Saving Throws:** Wisdom | Intelligence<br>
-**Languages:** Common | Choose 1<br>**Challenge:** 7 / (XP)<br>**Senses:** <br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Common | Choose 1<br>
+**Challenge:** 7 / (XP)<br>
+**Senses:** <br>
 
 # Actions
 

@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, the-dwarrow, tobacco, type-tobacco]
+tags: [Haven/outlands/dwarrow, Organization/professional/guild-of-provenders, Plot/Free-City-of-Haven, Shop, Shop/goods/tobacco]
 title: Bambur - Tobacconist
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Bambur - Tobacconist
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tobacco (Shopping) <br>
+>**Owner:**  [[people/bambur|Bambur]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    A13 (HN)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Pipes, weed, and accessories
+***Pipes, weed, and accessories***
 
 ## Description
 
@@ -54,11 +59,11 @@ Only [[people/bambur|Bambur]].
 
 ## Customers
 
-70% chance of 1d4 patrons in the shop at any time. Most will be chatting loudly with [[people/bambur|Bambur]] in the rear of the room, pipes in hand. The most common subject talked about is women (politics is rarely discussed here).
+70% chance of  patrons in the shop at any time. Most will be chatting loudly with [[people/bambur|Bambur]] in the rear of the room, pipes in hand. The most common subject talked about is women (politics is rarely discussed here).
 
 ## NPC Encounters
 
-[[people/a.-gori-greataxe|A. Gori Greataxe]] | Thriven
+[[people/a-gori-greataxe|A. Gori Greataxe]] | Thriven
 
 ## Outstanding Items
 
@@ -68,95 +73,9 @@ Dwarven tobaccos tend to have a good bit harsher taste than halfling pipe weed. 
 
 The best of the dwarven tobaccos is universally agreed to be Drumhold Glen. It costs about 3x more than any other blend in the shop and is worth the difference. [[people/bambur|Bambur]] keeps his supply of it under lock and key, in the bottom left-hand drawer of the desk.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tobacco (Shopping)**
-
- **Owner:**  Bambur
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   A13 (HN)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/bambur|Bambur]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** e73bb284-b3f1-4f19-a938-c3267a73ed1e<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-shop,type-tobacco,guild-of-provenders-location,tobacco
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

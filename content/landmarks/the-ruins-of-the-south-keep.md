@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-landmark, Free_City_of_Haven, import, landmark, trade-island, type-ruin]
+tags: [Haven/trade-island, Landmark, Landmark/ruin, Plot/Free-City-of-Haven]
 title: The Ruins of the South Keep
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Ruins of the South Keep
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Ruin (Landmark) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/trade-island/trade-island|Trade Island]] <br>
+>**Grid (Key) Ref.:**    Q09 (RQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Ruins  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Ruin (Landmark)**
-
- **Owner:**  
-
- **District:**  Trade Island
-
- **Grid (Key) Ref.:**   Q09 (RQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Ruins
-
-**Parent Location:**
-
-[[settlements/trade-island|Trade Island]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3acbea6f-7bf0-48e6-bdf8-74d957d41f1f<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Trade Island<br>
-**Tags:** fcoh,trade-island-location,cat-landmark,type-ruin,landmark
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

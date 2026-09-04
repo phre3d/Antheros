@@ -1,26 +1,30 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, monster]
+tags: [Monster, Plot/Mimic-Mayhem]
 title: Medium Mimic
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Medium Mimic
 
-medium monstrosity, neutral
+>[!info] Portraits
+> ![[plots/mimic-mayhem/images/tkn.barrel-mimic-medium.png]]
+> ![[plots/mimic-mayhem/images/tkn.chair-mimic-medium.png]]
+>![[plots/mimic-mayhem/images/tkn.stable-post-mimic-medium.png]]
+
+*medium monstrosity, neutral*
 
 **Armour Class:** 14 (natural armour)<br>
 **Hit Points:** 20 <mark style="background:#d3f8b6">45</mark> <mark style="background:#fff88f">70</mark> <mark style="background:#ff4d4f">90</mark><br>
 **Proficiency Bonus:** <br>
 **Movement:** 15'
 
----
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  17(+3) |  12(+1) |  15(+2) |  5(-3) |  13(+1) |  8(-1) |
 
----
+
 
 **Senses:** Darkvision 60', passive perception 11<br>
 **Languages:** n/a<br>
@@ -30,12 +34,9 @@ medium monstrosity, neutral
 **Damage Immunities:** acid<br>
 **Condition Immunities:** prone<br>
 
->[!infobox]
-> ![[plots/mimic_mayhem/images/tkn.barrel-mimic-medium.png]]
-> ![[plots/mimic_mayhem/images/tkn.chair-mimic-medium.png]]
->![[plots/mimic_mayhem/images/tkn.stable-post-mimic-medium.png]]
 
----
+
+
 
 # Special Abilities
 
@@ -51,7 +52,7 @@ medium monstrosity, neutral
 
 <mark style="background:#ff4d4f">**Regeneration.** As one of their attacks, the mimic can swallow a pseudopod to instantly heal 20 hps. It regenerates a new pseudopod in 1d4 days.</mark>
 
----
+
 
 # Actions
 
@@ -69,7 +70,7 @@ medium monstrosity, neutral
 *Ranged Weapon Attack:* +4 to hit, <u>range 30 ft.</u>, one target. <br>
 *Hit:* 4 (1d8) acid damage.
 
----
+# Level Scaling
 
 | Combined Party Level | Adjustment |
 |:---------------:|------------|
@@ -77,3 +78,6 @@ medium monstrosity, neutral
 |13 to 30 | Add only the green special abilities.|
 |31 to 48 | Add the green and yellow special abilities.|
 |49 to 78 | Use all the colored special abilities |
+
+---
+**Source:** Mimic Mayhem

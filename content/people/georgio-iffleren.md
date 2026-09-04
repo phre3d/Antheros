@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, maggia-family, npc, person, the-heights]
+tags: [Haven/heights, Organization/family/maggia-family, Person, Person/npc]
 title: Georgio Iffleren
-date modified: 2026-07-16, 9:18:26 pm
+date modified: 2026-08-20, 8:03:18 pm
 ---
 
 # Georgio Iffleren
@@ -11,122 +11,23 @@ date modified: 2026-07-16, 9:18:26 pm
 
 **Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
+
 Georgio is the head of security for the Maggio family
 
-![[dndline.png]]
-
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Social
 
-
-
-
 ## Contacts, Relations, & other Affiliations
-Works as the head of security for the [[organization/maggia-family|Maggia Family]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
+Works as the head of security for the [[organizations/families/maggia-family|Maggia Family]]
 
 # Relationships
 
@@ -137,18 +38,21 @@ Works as the head of security for the [[organization/maggia-family|Maggia Family
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/georgio-iffleren-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/georgio-iffleren-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/georgio-iffleren-person)
 
 ````
 ````col-md
-![[~attachments/.jpg]]
-![[dndline.png]]
+IMAGE
+
 
 
 
@@ -162,8 +66,8 @@ Works as the head of security for the [[organization/maggia-family|Maggia Family
 **Sex:** male<br>
 
 #### Origins
-**Family:** [[organization/maggia-family|Maggia Family]]<br>
-**Race:** [[race/half-elven-race|Half-Elven Race]]<br>
+**Family:** [[organizations/maggia-family|Maggia Family]]<br>
+**Race:** [[races/half-elf|Half-Elven]]<br>
 
 
 #### Birth
@@ -189,26 +93,9 @@ Works as the head of security for the [[organization/maggia-family|Maggia Family
 
 
 
-![[dndline.png]]
+
 
 
 ````
+
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

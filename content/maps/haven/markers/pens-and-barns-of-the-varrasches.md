@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2621.105, 995.918]
 mapmarker: Shopping
 title: Pens and Barns of the Varrasches
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Pens and Barns of the Varrasches

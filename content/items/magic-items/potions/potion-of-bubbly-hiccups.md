@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Bubbly Hiccups
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Bubbly Hiccups
@@ -35,14 +35,14 @@ An assassin created this potion as a tool to remove poisons from his body.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Distilled Alcohol|Distilled Alcohol]]<br>
+**Base:** [[/materials/distilled-alcohol|Distilled Alcohol]]<br>
 **Essence(s):** Air    Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -57,4 +57,3 @@ An assassin created this potion as a tool to remove poisons from his body.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

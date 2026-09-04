@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [10-cities, import, settlement]
+tags: [Organization/geopolitical/ten-cities, Settlement/brighton]
 title: Brighton
-date modified: 2026-07-16, 9:18:09 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Brighton
@@ -18,7 +18,7 @@ shadow: off
 
 # Description
 
-One of the [[organizations/confederation-of-the-ten-cities|Confederation of the Ten Cities]]
+One of the [[organizations/geopolitical/confederation-of-the-ten-cities|Confederation of the Ten Cities]]
 
 # Demographics
 

@@ -5,18 +5,21 @@ cr_id: aldor-pakmydis
 name: Aldor Pakmydas
 sex: male
 born: 1155
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
 twin: "[[plots/the-gypsy-train/npcs/albar-pakmydis]]"
 twin_id: albar-pakmydis
-father: "[[ambrosis-pakmydis|Ambrosis Pakmydas]]"
+father: "[[plots/the-gypsy-train/npcs/ambrosis-pakmydis]]"
 father_id: ambrosis-pakmydis
 title: Aldor Pakmydas
 ---
 
 # Aldor Pakmydas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -43,8 +46,7 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 

@@ -1,22 +1,30 @@
 ---
 aliases: []
-tags: [import, material, potion-base]
+tags: [Material, Material/potion-base]
 title: Calcium Grease
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Calcium Grease
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-Tallow-based greases were the earliest lubricants developed by [[profession/alchemist|Alchemists]] and as a result are  relatively inexpensive to manufacture and are still in use.
+>[!info]
+>**Type:** Composite<br>
+>**Value:** <br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Solid <br>
+>**Related Professions** [[professions/herbalist|Herbalist]], [[professions/alchemist|Alchemist]]
 
----
+Tallow-based greases were the earliest lubricants developed by [[professions/alchemist|Alchemists]] and as a result are  relatively inexpensive to manufacture and are still in use.
 
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
@@ -26,19 +34,20 @@ Tallow-based greases were the earliest lubricants developed by [[profession/alch
 ## Geology/Geography
 
 ## Origin
-Made by [[profession/alchemist|Alchemists]]
+
+Made by [[professions/alchemist|Alchemists]]
 
 ## Half Life / Deterioration / Expiration
 
----
-
 # History & Usage
+
 ## History
 
 ## Discovery
 
 ## Common Use
-Used by [[profession/herbalist|Herbalists]] as a base for making  *common*  potions.
+
+Used by [[professions/herbalist|Herbalists]] as a base for making  *common*  potions.
 
 ## Cultural Significance and Usage
 
@@ -59,38 +68,12 @@ Used by [[profession/herbalist|Herbalists]] as a base for making  *common*  poti
 ---
 
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
-
-```
-
-```col-md
-
-**Type:** Composite<br>
-**Value:** <br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-<br>- [[profession/herbalist|Herbalist]]<br>- [[profession/alchemist|Alchemist]]<br>
 
 ---
 

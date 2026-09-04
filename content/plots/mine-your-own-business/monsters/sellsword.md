@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, Mine_Your_Own_Business, monster, statblock]
+tags: [Monster, Plot/Mine-Your-Own-Business, statblock]
 title: Special Abilities
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col
@@ -50,19 +50,19 @@ Medium Humanoid (any race) Any non-lawful
 
 # Actions
 
-### Longsword
+## Longsword
 
   **Melee Weapon Atack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  8  slashing damage.
 
-### Shortsword
+## Shortsword
 
    **Melee Weapon Atack:**  +5 to hit , reach 5 ft., one target.
 
   **Hit:**  7  piercing damage.
 
-### Light Crossbow
+## Light Crossbow
 
    **Ranged Weapon Atack:**  +4 to hit , range 80/320 ft., one target.
 

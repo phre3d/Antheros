@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, plot/Night-of-the-Living-Dolls, plot]
+tags: [Plot, Plot/Night-of-the-Living-Dolls]
 title: Night of the Living Dolls
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Night of the Living Dolls
@@ -13,7 +13,7 @@ flexGrow=2.5
 ===
 # Outline
 # Foreword 
-What follows is based on the Night of the Living Dolls module from Penny Blood Adventures (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign. 
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Introduction 
 "Night of the Living Dolls" is a horror-themed one-shot adventure for Dungeons & Dragons 5th Edition, designed 

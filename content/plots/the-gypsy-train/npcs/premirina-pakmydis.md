@@ -5,18 +5,22 @@ cr_id: premirina-pakmydis
 name: Premirina Pakmydas
 sex: female
 born: 1166
-father: "[[plots/the-gypsy-train/npcs/scordraal-pakmydis|Scordraal Pakmydis]]"
 father-id: scordraal-pakmydis
-mother: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis|Cannelia Pakmydis]]"
+mother: "[[plots/the-gypsy-train/npcs/cannelia-pakmydis]]"
 mother-id: cannelia-pakmydis
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
 title: Premirina Pakmydis
+father: "[[scordraal-pakmydis|Scordraal Pakmydas]]"
+father_id: scordraal-pakmydis
 ---
 
 # Premirina Pakmydis
 
-Small, humanoid (human), chaotic good
+>[!info] Portrait
+>IMAGE
+
+*Small, humanoid (human), chaotic good*
 
 **Profession:**
 
@@ -43,10 +47,8 @@ Small, humanoid (human), chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
 
----
+
 
 # Description
 
@@ -56,7 +58,6 @@ Premirina is a quiet six-year-old girl who spends most of her time with [[plots/
 
 Premirina is a 0-level human, chaotic good, with AC 10 and 2 hp. She has no armor and no weapons­
 
----
 
 # Actions
 

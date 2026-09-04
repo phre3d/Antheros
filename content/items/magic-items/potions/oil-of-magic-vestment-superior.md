@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Magic Vestment, Superior
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Magic Vestment, Superior
@@ -29,14 +29,14 @@ The coated item is magical and grants a bonus of +3 to AC. Coated clothing is tr
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Aluminium grease|Aluminium grease]]<br>
+**Base:** [[/materials/aluminum-grease|Aluminium grease]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -51,4 +51,3 @@ The coated item is magical and grants a bonus of +3 to AC. Coated clothing is tr
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

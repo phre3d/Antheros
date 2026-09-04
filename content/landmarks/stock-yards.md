@@ -1,112 +1,31 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/beast, import, landmark, livestock, the-horse-market, type-livestock]
+tags: [Haven/south-corridor/horse-market, Organization/professional/guild-of-the-beast, Plot/Free-City-of-Haven, Shop, Shop/goods/livestock]
 title: Stock Yards
-date modified: 2026-07-16, 9:18:48 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Stock Yards
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Livestock (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/horse-market|Horse Market]] <br>
+>**Grid (Key) Ref.:**    B08 (PQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Livestock (Shopping)**
-
- **Owner:**  
-
- **District:**  Horse Market
-
- **Grid (Key) Ref.:**   B08 (PQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/horse-market|Horse Market]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 437b4d90-7690-4b32-8510-e60e46cfc29a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Horse Market<br>
-**Tags:** fcoh,the-horse-market-location,cat-shop,type-livestock,guild-of-the-beast-location,livestock
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

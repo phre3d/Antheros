@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [coverpage, Forest_of_Doom, image, import]
+tags: [Plot/Forest-of-Doom/cover]
 title: Forest of Doom (cover).png
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # Forest of Doom (cover).png

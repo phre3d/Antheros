@@ -1,24 +1,26 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: bronkar-prusas
 name: Bronkar Prusas
 sex: male
 born: 1139
-spouse: "[[plots/the-gypsy-train/npcs/trynkara-prusas|Trynkara Prusas]]"
+spouse: "[[plots/the-gypsy-train/npcs/trynkara-prusas]]"
 spouse-id: trynkara-prusas
 children: "[[plots/the-gypsy-train/npcs/dinmiel-prusas]]"
-children_id: dinmiel-prusas
 friend: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
 friend_id: balkrin-vanagas
 title: Bronkar Prusas
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Bronkar Prusas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -45,8 +47,7 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Nomog-Geaya
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Nomog-Geaya
@@ -27,14 +27,14 @@ For 1 minute after drinking this potion, your weapon attacks deal an extra 7 (2d
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Earth  Fire  <br>
 **Spell Needed:**  <br>
 **Other:** Strong Hobgoblin heart
@@ -49,4 +49,3 @@ For 1 minute after drinking this potion, your weapon attacks deal an extra 7 (2d
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

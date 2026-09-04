@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Corrosive Spit
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Corrosive Spit
@@ -31,14 +31,14 @@ A reclusive wizard discovered how dragons could survive with corrosive elements 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
+**Base:** [[/materials/aluminum-grease|Aluminum Grease]]<br>
 **Essence(s):**   Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** Sulfuric Acid
@@ -53,4 +53,3 @@ A reclusive wizard discovered how dragons could survive with corrosive elements 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

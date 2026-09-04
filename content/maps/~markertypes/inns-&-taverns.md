@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, map-marker-type]
+tags: [Map/marker-type]
 title: inns-&-taverns
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 ---start-multi-column: MainBody
@@ -30,6 +30,6 @@ shadow: off
 
 --- end-column ---
 
-![[maps/~markertypes/inns-taverns.png]]
+![[maps/~markertypes/inns-&-taverns.png]]
 
 --- end-multi-column

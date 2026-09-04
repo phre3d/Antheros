@@ -1,230 +1,108 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, npc, person, scenarios, thieves-market]
+tags: [Person, Person/npc, Plot/Free-City-of-Haven, Plot/Free-City-of-Haven/scenario, Settlement/haven/south-corridor/thieves-market]
 title: Muggles
-date modified: 2026-07-16, 9:18:22 pm
+date modified: 2026-08-20, 8:03:22 pm
 ---
 
 # Muggles
 
-###
+>[!info]
+>
+>---
+>
+>**Character Prototype:**  
+>
+>---
+>
+>**ID #**  1756
+>
+>
+> **Class/Profession:**  Wizard 5th
+>
+>
+> **Places Encountered**
+>- [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]]
+>- [[plots/free-city-of-haven/haven-scenarios|Scenarios]]
+>
+>---
+>
+>---
+>
+>#### Presentation
+>**Eyes:**   <br>
+>**Hair:**  <br>
+>**Pigmentation:**  <br>
+>**Height:**   <br>
+>**Weight:**  <br>
+>**Sex:** Male <br>
+>
+>### Origins
+>**Family:**  <br>
+>**Race:**  <br>
+>**Secondary Ethnicities/Cultures:**
+>
+>#### Birth
+>**Age:**   <br>
+>**Date of Birth:**    <br>
+>**Place of Birth:**  <br>
+>**Circumstances of Birth:**
+>
+>#### Death
+>**Date of Death:**    <br>
+>**Place of Death:**   <br>
+>**Circumstances of Death:**
+>
+>#### Current State
+>**Alignment:**    <br>
+>**Known Language(s):**  Demonic | Common | Elvish | Dwarvish <br>
+>**Current Status:**  <br>
+>**Current Residence:**   <br>
+>**Current Location:**   [[settlements/haven/free-city-of-haven| Free City of Haven]]   <br>
+>
+>#### Affiliations
+>**Deity:**   <br>
+>**Affiliated Organization:**
 
 **Full Name:**  Muggles
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-See scenario [[plots/the-lady-in-the-bottle|The Lady in the Bottle]] 
 
-Spells: Invisibility, Voice Toss, Sleep, Noise, Detect Chaos, [[person/moonlight|Moonlight]]. 
+See scenario [[plots/free-city-of-haven/scenarios/the-lady-in-the-bottle|The Lady in the Bottle]]
 
-Is in fact a transformed mage, [[person/cassilda|Cassilda]]
+Spells: Invisibility, Voice Toss, Sleep, Noise, Detect Chaos, [[people/moonlight|Moonlight]].
 
-![[dndline.png]]
+Is in fact a transformed mage, [[people/cassilda|Cassilda]]
 
 # Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
 ## Parents
 
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
+***Biological:***
+
+$1
+
+***Adoptive:***
+
+$1
+
+***Foster:*** <br>
 
 ## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/muggles-person)
 
 ## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/muggles-person)
 
 ## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/muggles-person)
 
-````
-````col-md
-
-
-**ID #**  1756
-
-
- **Class/Profession:**  Wizard 5th
-
-
- **Places Encountered** 
-- [[settlement/thieves-market|Thieves' Market]]
-- [[article/scenarios|Scenarios]]
-
-
----
-![[dndline.png]]
-
-
-#### Presentation
-**Eyes:**  <br>
-**Hair:** <br>
-**Pigmentation:** <br>
-**Height:**  <br>
-**Weight:** <br>
-**Sex:** Male<br>
-
-#### Origins
-**Family:** <br>
-**Race:** <br>
-
-
-#### Birth
-**Age:**  <br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  Demonic | Common | Elvish | Dwarvish<br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  [[article/free-city-of-haven|Free City of Haven]]<br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
-![[dndline.png]]
-
-
-````
-`````
-
-![[dndline.png]]
-
-![[people/blocks/muggles]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

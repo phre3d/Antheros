@@ -1,11 +1,28 @@
 ---
 aliases: []
-tags: [import, profession]
+tags: [Profession]
 title: Courtesan
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:52 pm
 ---
 
 # Courtesan
+
+>[!info]
+>**Alternative Names:**  
+>
+>**Guild:**
+>
+>**Famous in the Field:**
+>
+>**Other Associated Professions:**
+>
+>**Related Locations:**
+>
+>**Employed By:**
+>
+>**Ranks & Titles:**
+>
+>**Related Technologies:**
 
 Being a courtesan is not a "lesser" profession and its existence is taken for granted. While sex is part of the role (and some courtesans never grow beyond this), being a higher ranking courtesan is much more and involves the overall enjoyment of one's company.
 
@@ -15,26 +32,6 @@ Courtesans, both male and female, are performing artists and entertainers traine
 
 Because of the closeness to a customer that a courtesan may achieve they are sometimes used as spies. The more honourable ones whoever look down upon the mere idea of betraying a confidence.
 
----
-
-# Career
-
-## Qualifications
-
-## Career Progression
-
-## Payment & Reimbursement
-
-## Benefits
-
----
-
-# Perception
-
-## Purpose / Function
-
-## Demand
-
 ## Legality
 
   Legal in Haven
@@ -42,28 +39,6 @@ Because of the closeness to a customer that a courtesan may achieve they are som
 ## Social Status
 
 Depends on the courtesan's training and standing within the profession. Higher level courtesans are sought out by customers of any gender or social standing.
-
-## Demographics
-
-## History
-
-![[DnDLine.png| Function
-
-## Demand
-
-## Legality
-
-  Legal in Haven
-
-## Social Status
-
-Depends on the courtesan's training and standing within the profession. Higher level courtesans are sought out by customers of any gender or social standing.
-
-## Demographics
-
-## History
-
----
 
 # Operations
 
@@ -82,38 +57,3 @@ Sex, companionship, entertainment, confidant.
 ## Hazards
 
 Customers
-
->[!infobox]
-><br><br><br><br>
->**Alternative Names:**  
->
->**Guild:**
->
->**Famous in the Field:**
->
->**Other Associated Professions:**
->
->**Related Locations:**
->
->**Employed By:**
->
->**Ranks & Titles:**
->
->**Related Vehicles:**
->
->**Related Technologies:**
-
----
-
----start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column

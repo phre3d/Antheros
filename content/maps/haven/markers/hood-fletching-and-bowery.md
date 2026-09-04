@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1511.224, 1952.738]
 mapmarker: Shopping
 title: Hood - Fletching and Bowery
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Hood - Fletching and Bowery

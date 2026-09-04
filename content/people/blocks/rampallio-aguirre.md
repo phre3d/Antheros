@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Rampallio Aguirre
-date modified: 2026-07-16, 9:18:30 pm
+date modified: 2026-08-20, 8:03:30 pm
 ---
 
 # Rampallio Aguirre
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** Fighter/4th<br>
 **Challenge Rating:** 8<br>
@@ -20,30 +17,16 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Chain mail<br>
 **Hit Points:** 28<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 9 (-1) | 7 (-2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Constitution<br>
-**Languages:** Common | Choose 1<br>**Challenge:** 8 / (XP)<br>**Senses:** <br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Common | Choose 1<br>
+**Challenge:** 8 / (XP)<br>
+**Senses:** <br>
 
 # Actions
 

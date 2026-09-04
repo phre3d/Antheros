@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, magic-street, type-tavern]
+tags: [Entertainment/tavern, Haven/south-corridor/magic-street, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: "Wizard's Watering Hole"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Wizard's Watering Hole
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-south-corridor/magic-street|Magic Street]] <br>
+>**Grid (Key) Ref.:**    H09 (NX)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A place of unrealistic enjoyment, suspiciously low prices, and visual spectacle.
+## A place of unrealistic enjoyment, suspiciously low prices, and visual spectacle
 
 ## Description
 
@@ -111,95 +116,9 @@ This deep bowl of sugared and candied fruits rests under a large jellyfruit. Pop
 
 Refer to Twisted Taverns, page 4,  *The Seeker' s Guide to Twisted Taverns*
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  
-
- **District:**  Magic Street
-
- **Grid (Key) Ref.:**   H09 (NX)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/magic-street|Magic Street]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 95c27479-4136-4e53-a515-3cab7fd64899<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Magic Street<br>
-**Tags:** fcoh,magic-street-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

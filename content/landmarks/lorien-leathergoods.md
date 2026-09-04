@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hide, import, landmark, leatherworker, the-south-corridor, type-leatherworker]
+tags: [Haven/south-corridor, Organization/professional/guild-of-the-hide, Plot/Free-City-of-Haven, Shop, Shop/goods/leatherworker]
 title: Lorien Leathergoods
-date modified: 2026-07-16, 9:18:52 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Lorien Leathergoods
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Leatherworker (Shopping) <br>
+>**Owner:**  [[people/sindra|Sindra]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    K11 (JC)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Craftsman, Leatherworker  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Nice leatherwork and tanning
+***Nice leatherwork and tanning***
 
 ## Description
 
@@ -46,7 +51,7 @@ High.
 
 ## Cash Box
 
-A leather bag lies on a shelf in the rear working area. It contains 1d10 x 1d10gp.
+A leather bag lies on a shelf in the rear working area. It contains  x 1d10gp.
 
 ## Staff
 
@@ -54,7 +59,7 @@ A leather bag lies on a shelf in the rear working area. It contains 1d10 x 1d10g
 
 ## Customers
 
-There are 1d4 customers in the shop on the average (nearly half of them will be elves).
+There are  customers in the shop on the average (nearly half of them will be elves).
 
 ## NPC Encounters
 
@@ -64,95 +69,9 @@ There are 1d4 customers in the shop on the average (nearly half of them will be 
 
 A lightly tanned but perfectly made leather jacket hangs in the front window. It bears the design of a strong dwarf with a pretty tavern girl slung over one shoulder (and a wineskin slung over the other). It is dwarf-sized and priced at 1,000gp.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Leatherworker (Shopping)**
-
- **Owner:**  Sindra
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   K11 (JC)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Craftsman, Leatherworker
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/sindra|Sindra]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f6e8c906-a300-404d-8243-723bb9563ce4<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-shop,type-leatherworker,guild-of-the-hide-location,leatherworker
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

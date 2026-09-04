@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2890.493, 725.51]
 mapmarker: Shopping
 title: Darius and Sons - Saddlers
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Darius and Sons - Saddlers

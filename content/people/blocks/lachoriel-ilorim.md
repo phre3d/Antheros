@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Lachoriel Ilorim
-date modified: 2026-07-16, 9:18:31 pm
+date modified: 2026-08-20, 8:03:29 pm
 ---
 
 # Lachoriel Ilorim
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Wood Elf<br>
 **Profession:** Noble/4th<br>
 **Challenge Rating:** 5<br>
@@ -20,30 +17,19 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Leather<br>
 **Hit Points:** 12<br>
-**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 13 (+1) | 7 (-2) | 11 (+0) | 14 (+2) | 12 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** <br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common<br>**Challenge:** 5 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry | Mask of the Wild
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common<br>
+**Challenge:** 5 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry | Mask of the Wild
 
 # Actions
 

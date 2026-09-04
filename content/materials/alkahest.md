@@ -1,25 +1,37 @@
 ---
 aliases: []
-tags: [import, material, potion-base]
+tags: [Material, Material/potion-base]
 title: Alkahest
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Alkahest
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>**Type:** Composite<br>
+>**Value:** <br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Liquid
+>
+>**Related Professions** [[professions/herbalist|Herbalist]],  [[professions/alchemist|Alchemist]]
+
 Alkahest is the universal solvent, capable  of dissolving any composite substance, including gold, without altering or destroying its fundamental components. By extracting from composite substances their fundamental virtues and properties, alchemists hoped to gain control of invaluable medical healing properties.
 
 ---
 
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
+
 Highly corrosive
 
 ## Compounds
@@ -27,21 +39,24 @@ Highly corrosive
 ## Geology/Geography
 
 ## Origin
-[[profession/alchemist|Alchemists]] who create alkhest guard their reagents and process very carefully. It is passed down from master to specially deserving students.
+
+[[professions/alchemist|Alchemists]] who create alkhest guard their reagents and process very carefully. It is passed down from master to specially deserving students.
 
 ## Half Life / Deterioration / Expiration
 
 ---
 
 # History & Usage
+
 ## History
 
 ## Discovery
 
 ## Common Use
-Used by [[profession/alchemist|Alchemists]] to break down verious compounds into their constituent components.
 
-Also used by [[profession/herbalist|Herbalists]] as a base for making  *legendary*  potions.
+Used by [[professions/alchemist|Alchemists]] to break down verious compounds into their constituent components.
+
+Also used by [[professions/herbalist|Herbalists]] as a base for making  *legendary*  potions.
 
 ## Cultural Significance and Usage
 
@@ -62,57 +77,18 @@ Also used by [[profession/herbalist|Herbalists]] as a base for making  *legendar
 ---
 
 # Distribution
+
 ## Trade & Market
-Sold by [[profession/alchemists]] in small quantities.
+
+Sold by [[professions/alchemist|Alchemist]] in small quantities.
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Composite<br>
-**Value:** <br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-<br>- [[profession/herbalist|Herbalist]]<br>- [[profession/alchemist|Alchemist]]<br>
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

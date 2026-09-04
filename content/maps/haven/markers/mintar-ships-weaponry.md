@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1925.187, 6196.939]
 mapmarker: Shopping
 title: "Mintar - Ship's Weaponry"
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Mintar - Ship's Weaponry

@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, plot/Sins_of_the_Past, statblock]
+tags: [Person, Person/npc, Plot/Sins-of-the-Past, statblock]
 title: Ambrose Everdawn
-date modified: 2026-07-16, 9:18:34 pm
+date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Ambrose Everdawn
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** City of the Dead Caretaker<br>
 **Challenge Rating:** 1 (100 XP)<br>
@@ -22,16 +19,14 @@ flexGrow=2
 **Hit Points:** 13 [roll:2d10+2]<br>
 **Movement:** 30
 
-![[dndline.png]]
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 17 (+3) | 16 (+3) | 14 (+2) | 10 (+0) | 11 (+0) | 13 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength, Constitution<br>
-**Languages:** Common, Elvish<br>**Challenge:** 1 (100 XP) / (XP)<br>**Senses:** passive Perception 12<br>
+**Languages:** Common, Elvish<br>
+**Challenge:** 1 (100 XP) / (XP)<br>
+**Senses:** passive Perception 12<br>
 
 ```
 
@@ -41,15 +36,16 @@ flexGrow=2
 
 
 ```
+
 ````
 
-![[dndline.png]]
+
 
 # Description
 
 City of the Dead caretaker. He is a tall man in his fifties, with a straight posture, long gray beard, and gray robes. He enjoys his work and likes to tell jokes full of dark humor.
 
-![[dndline.png]]
+
 
 # Actions
 

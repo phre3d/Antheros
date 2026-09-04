@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Deathly Fetor
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Deathly Fetor
@@ -31,14 +31,14 @@ Created by a necromancer to make it easier to study the undead in their natural 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium Grease]]<br>
 **Essence(s):**   Earth  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Entrails of any undead creature
@@ -53,4 +53,3 @@ Created by a necromancer to make it easier to study the undead in their natural 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,20 +1,27 @@
 ---
 aliases: []
-tags: [Free_City_of_Haven, import, language]
+tags: [Plot/Free-City-of-Haven, Language]
 title: Dwarven Language
-date modified: 2026-07-16, 9:40:01 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Dwarven Language
 
----start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>**Parent Language(s)**
+>
+>**Spoken By:**  [[races/dwarf|Dwarves]]
+>
+>**Common Phrases** <br>
+>
+>**Common Female Names** <br>
+>
+>**Common Male Names** <br>
+>
+>**Common Unisex Names** <br>
+>
+>**Common Family Names** <br>
+>
 
 # Description
 
@@ -79,46 +86,10 @@ Unlike many of the other races, who prefer to keep their cultural heritage secre
 
 # Structural Markers
 
---- end-column ---
 
-**Parent Language(s)**
-
-**Spoken By**
-
-- [[races/dwarf|Dwarf]]
-
-**Common Phrases** <br>
-
-**Common Female Names** <br>
-
-**Common Male Names** <br>
-
-**Common Unisex Names** <br>
-
-**Common Family Names** <br>
-
----
-
-### World Anvil Metadata
-
-**Id:** 42256458-13cf-4a77-aa71-bda19f673522<br>
-**Entity Type:** Article / language<br>
-**Category:** Languages<br>
-**Tags:** fcoh
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

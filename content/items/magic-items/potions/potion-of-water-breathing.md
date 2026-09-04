@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Water Breathing
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Water Breathing
@@ -27,14 +27,14 @@ You can breathe underwater for 1 hour after drinking this potion.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):** Air    Water<br>
 **Spell Needed:** *Water Breathing* <br>
 **Other:**
@@ -49,4 +49,3 @@ You can breathe underwater for 1 hour after drinking this potion.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

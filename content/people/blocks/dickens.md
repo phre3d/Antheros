@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Dickens
-date modified: 2026-07-16, 9:18:33 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Dickens
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** Rogue/7th<br>
 **Challenge Rating:** 10<br>
@@ -20,30 +17,16 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Leather<br>
 **Hit Points:** 39<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 14 (+2) | 14 (+2) | 12 (+1) | 9 (-1) | 9 (-1) | 4 (-3) |
 
-![[dndline.png]]
-
 **Saving Throws:** Dexterity | Intelligence<br>
-**Languages:** Common | Choose 1<br>**Challenge:** 10 / (XP)<br>**Senses:** <br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Common | Choose 1<br>
+**Challenge:** 10 / (XP)<br>
+**Senses:** <br>
 
 # Actions
 

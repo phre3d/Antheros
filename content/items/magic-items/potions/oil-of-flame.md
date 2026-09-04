@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Flame
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Flame
@@ -29,14 +29,14 @@ For 1 hour, the coated weapon deals an additional 1d6 fire damage. A flammable o
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium grease]]<br>
 **Essence(s):**   Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -51,4 +51,3 @@ For 1 hour, the coated weapon deals an additional 1d6 fire damage. A flammable o
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

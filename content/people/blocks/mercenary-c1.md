@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Mercenary C1
-date modified: 2026-07-16, 9:18:31 pm
+date modified: 2026-08-20, 8:03:29 pm
 ---
 
 # Mercenary C1
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Half-Orc<br>
 **Profession:** Fighter/7th<br>
 **Challenge Rating:** 12<br>
@@ -20,30 +17,17 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Padded<br>
 **Hit Points:** 54<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 13 (+1) | 13 (+1) | 14 (+2) | 14 (+2) | 13 (+1) | 11 (+0) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Constitution<br>
-**Languages:** Orc | Common<br>**Challenge:** 12 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Menacing | Relentless Endurance | Savage Attacks
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Orc | Common<br>
+**Challenge:** 12 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Menacing | Relentless Endurance | Savage Attacks
 
 # Actions
 

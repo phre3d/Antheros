@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Radiant Burst
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Radiant Burst
@@ -37,14 +37,14 @@ This potion was created as the ultimate weapon by a cultist fanatic who made it 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):** Air    Earth  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -59,4 +59,3 @@ This potion was created as the ultimate weapon by a cultist fanatic who made it 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

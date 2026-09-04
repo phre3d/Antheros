@@ -1,22 +1,21 @@
 ---
 aliases: []
-tags: [import, rank]
+tags: [Rank]
 title: Guild Grandmaster
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Guild Grandmaster
 
----start-multi-column: MainBody
+>[!info]
+>**Type:**
+>
+>**Status:**
+>
+>**Form of Address:** Grandmaster, or less formally, Master
+>
+>**Length of Term:** Until the Guild Masters demand a change
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
 
 In cases where multiple smaller guilds band together under a single umbrella, they elect a Grandmaster who leads the group as a whole.
 
@@ -50,16 +49,3 @@ By popular vote or violent overthrow, depending upon the guild.
 
 # Notable Holders
 
---- end-column ---
-
-**Type:**
-
-**Status:**
-
-**Form of Address:** Grandmaster, or less formally, Master
-
-**Length of Term:** Until the Guild Masters demand a change
-
---- end-multi-column
-
----

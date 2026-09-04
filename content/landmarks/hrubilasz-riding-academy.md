@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-education, education, Free_City_of_Haven, guild/tuition, import, landmark, the-horse-market, type-training]
+tags: [Haven/south-corridor/horse-market, Organization/professional/guild-of-tuition, Plot/Free-City-of-Haven, Shop/service/training]
 title: Hrubilasz Riding Academy
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Hrubilasz Riding Academy
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Training (Service) <br>
+>**Owner:**  [[people/bandolero-hrubilasz|Bandolero Hrubilasz]] <br>
+>**District:** [[settlements/haven/the-south-corridor/horse-market|Horse Market]] <br>
+>**Grid (Key) Ref.:**    B09 (PT)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Stables  <br>
 
 ## Both steed and rider taught
 
@@ -26,95 +31,9 @@ shadow: off
 
 Costs for courses at the school begin at 150gp a month, including boarding for the horse. The more complicated the course, the higher the price. Most men are satisfied with their steeds at the end of a course at Hrubilasz' school.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Training (Service)**
-
- **Owner:**  Bandolero Hrubilasz
-
- **District:**  Horse Market
-
- **Grid (Key) Ref.:**   B09 (PT)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Stables
-
-**Parent Location:**
-
-[[settlements/horse-market|Horse Market]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/bandolero-hrubilasz|Bandolero Hrubilasz]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 8c42ffef-d6f8-4d87-a38e-d5cf23d84222<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Horse Market<br>
-**Tags:** fcoh,the-horse-market-location,cat-education,type-training,guild-of-tuition-location,education
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,33 +1,38 @@
 ---
 aliases: []
-tags: [essence-fire-plant, flora, import]
-title: Sandberry Bush
-date modified: 2026-07-16, 9:19:03 pm
+tags: [Flora, Essence/fire]
+title: 
+date modified: 2026-08-08, 3:11:15 pm
 ---
 
 # Sandberry Bush
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-Small bushes with waxy green leaves, the sandberry bush grows in the remote reaches of the Shaar. It has small yellow berries that have a bitter taste, but can be brewed to make a soothing tea. The few nomadic tribes that pass through the Shaar pick the berries as a remedy for insomnia.
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Value:** 14 sp  <br>
+>**Rarity:** Common <br>
+>**Related Professions:** [[professions/herbalist|Herbalist]]<br>
+
+
+Small bushes with waxy green leaves, the sandberry bush grows in the remote reaches of the Shaar. It has small yellow berries that have a bitter taste, but can be brewed to make a soothing tea. The few nomadic tribes that pass through the Shaar pick the berries as a remedy for insomnia. 
 
 # Natural Range
+
 Deserts
 
----
 
 # Common Use(s)
-## Unaltered Form
+
+> [!author-tip]
+> Consider how it's use - more or less as-is, or as an ingredient
+
 Acts as a sleep aid, if the consumer is willing, inducing a 6-hour sleep cycle with no negative side effects.
 
-## As an Ingredient
-- Can be processed to produce  [[material/essence-of-fire|Essence of Fire]]
-- Can be used in potion making
+Used in crafting as a source of [[materials/essence-of-fire | Essence of Fire ]].
 
----
 
 # Distribution
 ## Trade & Market
@@ -36,32 +41,5 @@ Can be found for sale by herbalists or in magic/alchemical supply shops. Occasio
 
 ## Storage
 
+
 ## Law & Regulation
-
----
-
-```
-
-```col-md
-**Value:** 14 sp<br>
-**Rarity:** Common<br>
-**Related Professions**<br>
-
-```
-````
-
-<!-- Standard page footer -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

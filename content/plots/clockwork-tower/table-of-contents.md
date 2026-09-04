@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, toc]
-title: table-of-contents
-date modified: 2026-07-16, 9:18:16 pm
+tags: [Plot/Clockwork-Tower, toc]
+title: Table of Contents
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 **[[plots/clockwork-tower/clockwork-tower|Introduction]]**<br>
@@ -13,7 +13,7 @@ date modified: 2026-07-16, 9:18:16 pm
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/haven-ironworks|Haven Ironworks]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/great-junkyard|Great Junkyard]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/luminous-caverns|Luminous Caverns]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/the-watchmaker|The Watchmaker]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/the-watchmakers-shop|The Watchmaker]]<br>
 **The Tower**  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/chronos-lobby|Chronos Lobby]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [[plots/clockwork-tower/artificers-library|Artificer's Library]]<br>

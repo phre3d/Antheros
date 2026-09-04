@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Night-of-the-Living-Dolls, toc]
+tags: [Plot/Night-of-the-Living-Dolls, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 **[[plots/night-of-the-living-dolls/night-of-the-living-dolls|Introduction]]**<br>

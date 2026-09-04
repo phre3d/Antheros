@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1814.983, 4102.041]
 mapmarker: Shopping
 title: "Avrodel's Wine Shop"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Avrodel's Wine Shop

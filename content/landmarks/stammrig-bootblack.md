@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, footwear, Free_City_of_Haven, guild/loom, import, landmark, the-dwarrow, type-footwear]
+tags: [Haven/outlands/dwarrow, Organization/professional/guild-of-the-loom, Plot/Free-City-of-Haven, Shop, Shop/goods/footwear]
 title: Stammrig - Bootblack
-date modified: 2026-07-16, 9:18:48 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Stammrig - Bootblack
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Footwear (Shopping) <br>
+>**Owner:**  [[people/stammrig|Stammrig]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    A14 (HW)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Cobbler  <br>
 
 ## Boots and Other Footwear
 
@@ -32,95 +37,9 @@ High
 
 Good
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Footwear (Shopping)**
-
- **Owner:**  Stammrig
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   A14 (HW)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Cobbler
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/stammrig|Stammrig]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** df187bc6-d5a9-4090-87f6-5d07732ee240<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-shop,type-footwear,guild-of-the-loom-location,footwear
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

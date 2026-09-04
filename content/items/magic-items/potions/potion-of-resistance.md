@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Resistance
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Resistance
@@ -27,14 +27,14 @@ When you drink this potion you gain resistance to one type of damage chosen rand
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):** Air    Earth  Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:** The essence required depnds on the desired form of resistence: acid (water), cold (air), fire (fire), force (air), lightning (fire), necrotic (shadow), poison (shadow), psychic (life), radiant (life) or thunder (earth).
@@ -49,4 +49,3 @@ When you drink this potion you gain resistance to one type of damage chosen rand
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

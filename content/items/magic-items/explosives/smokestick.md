@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Smokestick
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Smokestick
@@ -31,21 +31,21 @@ The stick is consumed after 1 round, and the smoke dissipates naturally over a p
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** Calcium Grease<br>
+**Base:** [[materials/calcium-grease|Calcium Grease]]<br>
 **Essence(s):** Air    <br>
 **Spell Needed:**  <br>
 **Other:** Alchemist's Fire
 
 ## Results from Identify Spell
 
-*Crafter:* Alchemist <br>
+*Crafter:* [[professions/alchemist|Alchemist]] <br>
 *Base:* Calcium Grease <br>
 *Essence(s):*  Air     <br>
 *Spell Emulated:* None detected
@@ -53,4 +53,3 @@ The stick is consumed after 1 round, and the smoke dissipates naturally over a p
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

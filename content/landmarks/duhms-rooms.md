@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, landmark, rooming-house, the-commons, type-rooming-house]
+tags: [Building/residential/rooming-house, Haven/commons, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop]
 title: "Duhm's Rooms"
-date modified: 2026-07-16, 9:18:56 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Duhm's Rooms
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Rooming House (Residence) <br>
+>**Owner:**  [[people/glumin-duhm|Glumin Duhm]] <br>
+>**District:** [[settlements/haven/the-commons/the-commons|The Commons]] <br>
+>**Grid (Key) Ref.:**    W12 (AD)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Apartment building / Tenament  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A rooming house
+***A rooming house***
 
 ## Description
 
@@ -74,95 +79,9 @@ There are usually rooms and suites available. Since there are less of the suites
 
  South Docks
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Rooming House (Residence)**
-
- **Owner:**  Glumin Duhm
-
- **District:**  The Commons
-
- **Grid (Key) Ref.:**   W12 (AD)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Apartment building / Tenament
-
-**Parent Location:**
-
-[[settlements/the-commons|The Commons]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/glumin-duhm|Glumin Duhm]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f83b9e6a-745d-459a-b363-a6759cb707bd<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Commons<br>
-**Tags:** fcoh,the-commons-location,cat-shop,type-rooming-house,guild-of-the-hearth-location,rooming-house
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

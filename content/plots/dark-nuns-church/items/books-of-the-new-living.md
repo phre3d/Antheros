@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, item, statblock]
+tags: [Item, Plot/Dark-Nuns-Church, statblock]
 title: Books of the New Living
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # Books of the New Living

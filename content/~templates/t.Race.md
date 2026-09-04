@@ -1,5 +1,13 @@
-#race
->[!info] 
+---
+aliases: []
+tags: [Race]
+title: 
+date modified: 2026-08-08, 3:16:34 pm
+---
+
+# ///race name///
+
+>[!info]
 ># General
 >**Ability Score Increase:** <br>
 >**Age:**  <br>
@@ -8,7 +16,7 @@
 >**Speed:**   <br>
 >**Languages:**   <br>
 >**Parent Race:** <br>
->**Sub Race(s):**   
+>**Sub Race(s):**
 >
 ># Traits
 >**Trait 1.**  
@@ -17,40 +25,28 @@
 >
 >**Trait 3.**  
 
-# Name
-
-
-
-
-# Physical Description 
-
+# Physical Description
 
 # Sub-races
-## Sub-race 1
 
+## Sub-race 1
 
 ## Sub-race 2
 
+# Society
 
-# Society 
+# Relations
 
+# Alignment and Religion
 
-# Relations 
-
-
-# Alignment and Religion 
-
-
-# Adventurers 
-
-
+# Adventurers
 
 # Naming Traditions
-## Feminine Names
 
+## Feminine Names
 
 ## Masculine Names
 
-
 ---
+
 *Source:*     <!-- Original Source of the item -->

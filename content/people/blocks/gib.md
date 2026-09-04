@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Gib
-date modified: 2026-07-16, 9:18:32 pm
+date modified: 2026-08-20, 8:03:28 pm
 ---
 
 # Gib
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Lightfoot Halfling<br>
 **Profession:** Rogue/2nd<br>
 **Challenge Rating:** 4<br>
@@ -20,30 +17,18 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 15 - None<br>
 **Hit Points:** 6<br>
-**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 7 (-2) | 15 (+2) | 3 (-4) | 9 (-1) | 12 (+1) | 8 (-1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Dexterity | Intelligence<br>
-**Condition Immunities:** Adv. Vs. Fear<br>**Languages:** Halfling | Common<br>**Challenge:** 4 / (XP)<br>**Senses:** <br>**Skills:** Lucky | Halfling Nimbleness | Naturally Stealthy
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Condition Immunities:** Adv. Vs. Fear<br>
+**Languages:** Halfling | Common<br>
+**Challenge:** 4 / (XP)<br>
+**Senses:** <br>
+**Skills:** Lucky | Halfling Nimbleness | Naturally Stealthy
 
 # Actions
 

@@ -1,19 +1,14 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, plot]
+tags: [Plot, Plot/Dark-Nuns-Church]
 title: NPCs, Monsters, and Items
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ![[plots/dark-nuns-church/images/the-dark-nuns-church-header.jpg]]
 
 # NPCs, Monsters, and Items
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
 The Dark Nun's Church introduces several new NPCs, Monsters, and Items unique to the plot. 
 
 # Non-Player Characters 

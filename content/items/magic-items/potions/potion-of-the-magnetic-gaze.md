@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Magnetic Gaze
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Magnetic Gaze
@@ -31,14 +31,14 @@ The wizard Silvornious specialized in iron golem magic and needed a way to move 
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure alcohol|Pure alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure alcohol]]<br>
 **Essence(s):**   Earth  Fire  Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Iron filings
@@ -53,4 +53,3 @@ The wizard Silvornious specialized in iron golem magic and needed a way to move 
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

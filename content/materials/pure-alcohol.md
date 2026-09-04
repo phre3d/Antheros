@@ -1,25 +1,37 @@
 ---
 aliases: []
-tags: [import, material, potion-base]
+tags: [Material, Material/potion-base]
 title: Pure Alcohol
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Pure Alcohol
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
-By taking distilled alcohol and applying mechanical and chemical filters, an [[profession/alchemist|Alchemist]] can make alcohol in its purist form.
+>[!info]
+>**Type:** Organic<br>
+>**Value:** <br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:**
+>
+>**Related Professions:** [[professions/herbalist|Herbalist]],  [[professions/alchemist|Alchemist]]
+
+By taking distilled alcohol and applying mechanical and chemical filters, an [[professions/alchemist|Alchemist]] can make alcohol in its purist form.
 
 ---
 
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
+
 Highly flammable in liquid form and the vapor can be explosive.
 
 ## Compounds
@@ -27,19 +39,22 @@ Highly flammable in liquid form and the vapor can be explosive.
 ## Geology/Geography
 
 ## Origin
-Made by [[profession/alchemist|Alchemists]]
+
+Made by [[professions/alchemist|Alchemists]]
 
 ## Half Life / Deterioration / Expiration
 
 ---
 
 # History & Usage
+
 ## History
 
 ## Discovery
 
 ## Common Use
-Dangerous to drink in significant quantity but still consumed by people with a death wish.  Used by [[profession/herbalist|Herbalists]] as a base for making  *very rare*  potions.
+
+Dangerous to drink in significant quantity but still consumed by people with a death wish.  Used by [[professions/herbalist|Herbalists]] as a base for making  *very rare*  potions.
 
 ## Cultural Significance and Usage
 
@@ -60,56 +75,16 @@ Dangerous to drink in significant quantity but still consumed by people with a d
 ---
 
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Organic<br>
-**Value:** <br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-<br>- [[profession/herbalist|Herbalist]]<br>- [[profession/alchemist|Alchemist]]<br>
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

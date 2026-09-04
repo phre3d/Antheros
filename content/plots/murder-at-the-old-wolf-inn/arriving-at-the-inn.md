@@ -1,26 +1,19 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Arriving at the Inn
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Arriving at the Inn
 
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
 > [!read-aloud] **Read Aloud**
-
-The wind howls, and lightning bolts spar with each other across the darkening sky. The heavy rain blurs your vision, but further ahead you see the welcoming sight of a warm, roadside inn.
+>The wind howls, and lightning bolts spar with each other across the darkening sky. The heavy rain blurs your vision, but further ahead you see the welcoming sight of a warm, roadside inn.
 
 Built three centuries ago to withstand the cold weather and harsh wind of the mountains, the Old Wolf Inn is a two-storey building in stone with tarred exposed oak beams and white chalk cladding. The stables are located in an adjacent stone building, and there is a small outhouse around the corner of the inn.
 
@@ -35,12 +28,11 @@ When the characters enter, they find themselves in a warm and cosy common room. 
 A dwarven woman with braided hair stands behind the bar. She flinches when the door to the inn opens, and looks wide-eyed at the characters.
 
 > [!read-aloud] **Read Aloud**
- >  
- > “Greetings,” the dwarf says in an unsteady tone and rubs her palms against her apron. “I am [[plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer|Inga Broadhammer]], the innkeeper.”
-
-There is a long pause before Inga clears her voice and continues: “You are, of course, welcome to stay for the night. But I'm afraid that there has been an accident…”
-
-She trails off and takes a deep breath. “You see, a dead body has just been found here at the inn.”
+ >  “Greetings,” the dwarf says in an unsteady tone and rubs her palms against her apron. “I am [[plots/murder-at-the-old-wolf-inn/npcs/inga-broadhammer|Inga Broadhammer]], the innkeeper.”
+>
+>There is a long pause before Inga clears her voice and continues: “You are, of course, welcome to stay for the night. But I'm afraid that there has been an accident…”
+>
+>She trails off and takes a deep breath. “You see, a dead body has just been found here at the inn.”
 
 Inga offers the characters and the other guests a round of free drinks. She asks the characters if they wish to order food and lodgings for the night, before she disappears into the kitchen.
 
@@ -49,12 +41,11 @@ Inga offers the characters and the other guests a round of free drinks. She asks
 Two of the guests are a pair of soldiers in the armour and cornflower-blue cloaks of the Winterhold Guards. They are discussing something in between them in low but agitated voices. After a moment, they leave their place in front of the fireplace and approach the characters.
 
 > [!read-aloud] **Read Aloud**
- >  
- > “My name is [[plots/murder-at-the-old-wolf-inn/npcs/kara-tanner|Kara Tanner]],” one of them says, “and this is [[plots/murder-at-the-old-wolf-inn/npcs/jon-callion|Jon Callion]]. We're soldiers from the Winterhold Guards. Our commander, Lieutenant [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna]], has just been found dead in his room upstairs.”
-
-“Foul play may have been involved,” Jon adds quietly, “but we don't yet know for sure.”
-
-“Nevertheless,” Kara continues bluntly, “it is possible that a murder has been committed. Would you be willing to look into the matter?”
+>“My name is [[plots/murder-at-the-old-wolf-inn/npcs/kara-tanner|Kara Tanner]],” one of them says, “and this is [[plots/murder-at-the-old-wolf-inn/npcs/jon-callion|Jon Callion]]. We're soldiers from the Winterhold Guards. Our commander, Lieutenant [[plots/murder-at-the-old-wolf-inn/npcs/artemis-nahanna|Artemis Nahanna]], has just been found dead in his room upstairs.”
+>
+>“Foul play may have been involved,” Jon adds quietly, “but we don't yet know for sure.”
+>
+>“Nevertheless,” Kara continues bluntly, “it is possible that a murder has been committed. Would you be willing to look into the matter?”
 
 ## the guest who came in from the cold
 
@@ -96,28 +87,10 @@ If the characters order the house's finest wine, they notice that the wine is fr
 
 Inga received the wine as part of her payment for hiding smuggling goods in the Hidden room (Area 19) in the basement.
 
---- end-column ---
 
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
-
---- end-multi-column
-
-![[~attachments/dndline.png]]
-
---- start-multi-column: Footer
-
-```column-settings  
-number of columns: 2  
-column size: [49%, 49%]
-border: [off]
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/murder-at-the-old-wolf-inn/mysterious-clues]]
-
---- end-column ---
-
-Next: [[plots/murder-at-the-old-wolf-inn/solving-the-murder]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/mysterious-clues" class="internal-link">Mysterious Clues</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/solving-the-murder" class="internal-link">Solving the Murder</a> →</span>
+</div>

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [3492.534, 4876.531]
 mapmarker: Service
 title: Mother Yosofal the Witch
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Mother Yosofal the Witch

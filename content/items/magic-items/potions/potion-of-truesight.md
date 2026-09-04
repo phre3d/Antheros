@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Truesight
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Truesight
@@ -27,14 +27,14 @@ When you drink this potion, you gain truesight to a distance of 120 feet.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 17+<br>
 **Crafting Time:** 25 weeks<br>
 **Crafting DC:** 25
 
 ## Ingredients
 
-**Base:** [[/materials/Alkahest|Alkahest]]<br>
+**Base:** [[/materials/alkahest|Alkahest]]<br>
 **Essence(s):** Air    Earth  Life  Shadow  Water<br>
 **Spell Needed:** *True Seeing* <br>
 **Other:** Arcanaloth eye, Demilich tooth, Erinyes feather, Eye of the Empyrean, Eye of the Sphinx, Marilith head, Nothic eye
@@ -49,4 +49,3 @@ When you drink this potion, you gain truesight to a distance of 120 feet.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

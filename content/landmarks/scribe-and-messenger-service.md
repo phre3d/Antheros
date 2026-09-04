@@ -1,32 +1,37 @@
 ---
 aliases: []
-tags: [cat-transportation, Free_City_of_Haven, guild/drayers, import, landmark, the-heights, transportation, type-courier]
+tags: [Haven/heights, Organization/professional/guild-of-drayers, Plot/Free-City-of-Haven, Shop/service/courier, Shop/service/transportation]
 title: Scribe and Messenger Service
-date modified: 2026-07-16, 9:18:48 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Scribe and Messenger Service
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Courier (Service) <br>
+>**Owner:**  [[people/culver-trask|Culver Trask]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G20 (CE)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Transportation station  <br>
 
 ## A writer's ability without the cramp
 
 ## Description
 
-[[people/culver-trask|Culver Trask]] and Janus Domenici Trask a husband-and-wife team, endeavor to provide decent service for the nobles of [[settlements/the-heights|The Heights]]. He is a tall middle-aged merchant with hair still jet black, and piercing gray eyes. Possessed of a humble self-image, he is genuinely grateful for his modest business successes, and strives to provide rapid service for his customers (he will make urgent or private personal deliveries himself, and can be trusted to keep a confidence - except from his wife, whom he worships completely). Janus is the daughter of Pietro Domenici, a local ship's captain and explorer of some small renown, who was lost at sea when she was a young woman. She is still a striking woman with hip length auburn hair and greenish eyes, but the years of indoor labor have left her pale and wan, and she seems to have forgotten how to smile. She will not travel by water since her father's tragedy, though she loved to sail in her youth.
+[[people/culver-trask|Culver Trask]] and Janus Domenici Trask a husband-and-wife team, endeavor to provide decent service for the nobles of [[settlements/haven/the-heights/the-heights|The Heights]]. He is a tall middle-aged merchant with hair still jet black, and piercing gray eyes. Possessed of a humble self-image, he is genuinely grateful for his modest business successes, and strives to provide rapid service for his customers (he will make urgent or private personal deliveries himself, and can be trusted to keep a confidence - except from his wife, whom he worships completely). Janus is the daughter of Pietro Domenici, a local ship's captain and explorer of some small renown, who was lost at sea when she was a young woman. She is still a striking woman with hip length auburn hair and greenish eyes, but the years of indoor labor have left her pale and wan, and she seems to have forgotten how to smile. She will not travel by water since her father's tragedy, though she loved to sail in her youth.
 
 ## Exterior
 
-The shop occupies the lower floor of a two-story white wood-frame building with Tudor styling. It is one of a long row of closely bunched buildings of the same construction, which line one side of [[landmarks/boutique-lane|Boutique Lane]]. A sign above the door depicts a winged messenger skimming the heavens with a scroll tucked underneath his arm.
+The shop occupies the lower floor of a two-story white wood-frame building with Tudor styling. It is one of a long row of closely bunched buildings of the same construction, which line one side of [[settlements/haven/the-heights/boutique-lane|Boutique Lane]]. A sign above the door depicts a winged messenger skimming the heavens with a scroll tucked underneath his arm.
 
 ## Interior
 
@@ -54,7 +59,7 @@ Janus and Culver and the other two scribes are daily within the shop. There are 
 
 ## Customers
 
-The clientele is primarily guild families, with an occasional commission from a noble house. There will normally be 1d100:
+The clientele is primarily guild families, with an occasional commission from a noble house. There will normally be :
 
 - 01-70 = no customers
 - 71-90 = 1 customer
@@ -65,95 +70,9 @@ The clientele is primarily guild families, with an occasional commission from a 
 
 The Trasks produce well-calligraphed invitations, personal messages, and public notices, and will provide for distribution of these materials inside the city or within a 25 mile radius (they did the invitations for both the betrothal ball and the wedding ceremony for the Duke's niece just recently). The cost is 1gp per sheet (additional for special inks and parchments). Almost all work is produced in the Common tongue, as the staff has very limited facility with other languages.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Courier (Service)**
-
- **Owner:**  Culver Trask
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G20 (CE)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Transportation station
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/culver-trask|Culver Trask]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3f6dab82-2a47-4013-99bd-788ba412cd1a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-transportation,type-courier,guild-of-drayers-location,transportation
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

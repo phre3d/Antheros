@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, plot/Sins_of_the_Past, statblock]
+tags: [Person, Person/npc, Plot/Sins-of-the-Past, statblock]
 title: Rani Dathret
-date modified: 2026-07-16, 9:18:30 pm
+date modified: 2026-08-20, 8:03:30 pm
 ---
 
 # Rani Dathret
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** Bandit<br>
 **Challenge Rating:** 1/8<br>
@@ -22,16 +19,14 @@ flexGrow=2
 **Hit Points:** 1 [roll:2d8+3]<br>
 **Movement:** 30
 
-![[dndline.png]]
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-![[dndline.png]]
-
 **Saving Throws:** <br>
-**Languages:** Common<br>**Challenge:** 1/8 / (XP)<br>**Senses:** passive Perception 10<br>
+**Languages:** Common<br>
+**Challenge:** 1/8 / (XP)<br>
+**Senses:** passive Perception 10<br>
 
 ```
 
@@ -41,15 +36,16 @@ flexGrow=2
 ![[5653748.png]]
 
 ```
+
 ````
 
-![[dndline.png]]
+
 
 # Description
 
 She is a human from a very poor noble house and joined the Jackals to make for a living. She is one of the two survivors after Nesan's attack. Currently, she is imprisoned inside the mirror (c.f. Sins of the Past).
 
-![[dndline.png]]
+
 
 # Actions
 

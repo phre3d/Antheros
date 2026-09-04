@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1065.306, 3705.799]
 mapmarker: Shopping
-title: The Offices of Miller & Co.
-date modified: 2026-07-16, 9:18:39 pm
+title: The Offices of Miller & Co
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
-# The Offices of Miller & Co.
+# The Offices of Miller & Co
 
 **Map:** [[maps/haven/haven|Free City of Haven]]
 
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:39 pm
 
 **Map Ref:** Map Ref.: C12 (LE)
 
-**Location:** [[landmarks/the-offices-of-miller-co.|The Offices of Miller & Co.]]<br>
+**Location:** [[landmarks/the-offices-of-miller-co|The Offices of Miller & Co.]]<br>
 **Location Type:** Cooper
 
 **Description**<br>

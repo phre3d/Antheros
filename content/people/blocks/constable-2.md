@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Constable 2
-date modified: 2026-07-16, 9:18:33 pm
+date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Constable 2
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Wood Elf<br>
 **Profession:** Ranger/11th (Archer)<br>
 **Challenge Rating:** 18<br>
@@ -20,30 +17,19 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Padded<br>
 **Hit Points:** 89<br>
-**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 35&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 17 (+3) | 16 (+3) | 17 (+3) | 14 (+2) | 12 (+1) | 14 (+2) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Dexterity<br>
-**Damage Resistances:** Adv. Vs. Charm<br>**Condition Immunities:** Sleep<br>**Languages:** Elvish | Common<br>**Challenge:** 18 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry | Mask of the Wild
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Adv. Vs. Charm<br>
+**Condition Immunities:** Sleep<br>
+**Languages:** Elvish | Common<br>
+**Challenge:** 18 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Keen Senses (Adv. on Perception) | Fey Ancestry | Mask of the Wild
 
 # Actions
 

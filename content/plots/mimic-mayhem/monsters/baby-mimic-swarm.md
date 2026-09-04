@@ -1,26 +1,29 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, monster]
+tags: [Monster, Plot/Mimic-Mayhem]
 title: Baby Mimic Swarm
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Baby Mimic Swarm
+>[!info] Portrait
+> ![[plots/mimic-mayhem/images/tkn.mimic-swarm-medium.png]]
 
-medium swarm of tiny monstrosities, neutral
+
+*medium swarm of tiny monstrosities, neutral*
 
 **Armour Class:** 10<br>
 **Hit Points:** 5 10 20 35<br>
 **Proficiency Bonus:** <br>
 **Movement:** 25
 
----
+
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  7(-2) |  11(+0) |  9(-1) |  2(-4) |  9(-1) |  3(-4) |
 
----
+
 
 **Senses:** Darkvision 60', passive perception 9<br>
 **Languages:** n/a<br>
@@ -31,10 +34,9 @@ medium swarm of tiny monstrosities, neutral
 **Damage Immunities:** acid<br>
 **Condition Immunities:** charmed, frightened, grappled, paralysed, petrified, prone, restrained, stunned<br>
 
->[!infobox]
-> ![[plots/mimic_mayhem/images/tkn.mimic-swarm-medium.png]]
 
----
+
+
 
 # Special Abilities
 
@@ -44,7 +46,7 @@ medium swarm of tiny monstrosities, neutral
 
 **Magic Resistance.** The mimic swarm has advantage on all saving throws against spells and magic.
 
----
+
 
 # Actions
 
@@ -53,3 +55,4 @@ medium swarm of tiny monstrosities, neutral
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 ---
+**Source:** Mimic Mayhem

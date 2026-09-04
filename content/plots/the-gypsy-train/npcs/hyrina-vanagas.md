@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [npc, person, plot/The_Gypsy_Train]
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
 cr_type: person
 cr_id: hyrina-vanagas
 name: Hyrina Vanagas
@@ -10,12 +10,15 @@ born: 1110
 children: "[[plots/the-gypsy-train/npcs/balkrin-vanagas]]"
 children_id: balkrin-vanagas
 title: Hyrina Vanagas (Mama Hyrina)
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Hyrina Vanagas (Mama Hyrina)
 
-Medium, humanoid (human), chaotic good
+>[!info] Portrait
+>![[plots/the-gypsy-train/Images/mama-hyrina.jpg]]
+
+*Medium, humanoid (human), chaotic good*
 
 **Profession:** Wizard (6th)
 
@@ -42,8 +45,7 @@ Medium, humanoid (human), chaotic good
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->![[plots/The Gypsy Train/Images/Mama Hyrina.jpg]]
+
 
 ---
 
@@ -61,15 +63,9 @@ She may approach one or more of the characters in the group, offering to read th
 
 Mama’s wagon is arcanely decorated and contains many objects typically possessed by magic-users. Hidden in a locked chest beneath her bed is Mama’s spell book. In addition to the spells she presently carries, it also contains information on the casting of *affect normal fires*, *friends*, *ventriloquism*, *detect invisibility*, *fool’s gold*, *forget*, *magic mouth*, *clairaudience,* and *fly.* By using several of her spells in combination or in succession, it is possible for Mama to stage a very convincing (although fake) seance.
 
----
-
 # Spellcasting
 
----
-
 # Special Abilities
-
----
 
 # Actions
 

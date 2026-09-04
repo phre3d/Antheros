@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Balkin arn Boltar
-date modified: 2026-07-16, 9:18:34 pm
+date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Balkin arn Boltar
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Hill Dwarf<br>
 **Profession:** Fighter/5th<br>
 **Challenge Rating:** 7<br>
@@ -20,30 +17,19 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Leather<br>
 **Hit Points:** 25<br>
-**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 15 (+2) | 13 (+1) | 10 (+0) | 8 (-1) | 7 (-2) | 7 (-2) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Constitution<br>
-**Damage Resistances:** Poison<br>**Condition Immunities:** Adv. Vs. Poisoning<br>**Languages:** Dwarvish |  Common<br>**Challenge:** 7 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Dwarven Resilience | Stonecutting | Dwarven Toughness
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Damage Resistances:** Poison<br>
+**Condition Immunities:** Adv. Vs. Poisoning<br>
+**Languages:** Dwarvish |  Common<br>
+**Challenge:** 7 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Dwarven Resilience | Stonecutting | Dwarven Toughness
 
 # Actions
 

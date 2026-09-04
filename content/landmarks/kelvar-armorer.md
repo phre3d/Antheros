@@ -1,28 +1,33 @@
 ---
 aliases: []
-tags: [armor, armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-heights, type-armor]
+tags: [Haven/heights, Organization/professional/armorers-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/armor]
 title: Kelvar - Armorer
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Kelvar - Armorer
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Armor (Shopping) <br>
+>**Owner:**  [[people/kelvar|Kelvar]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G20 (CP)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Excellent Armor
+***Excellent Armor***
 
 ## Description
 
-[[people/kelvar|Kelvar]] is the only dwarven artisan who chooses to work in [[settlements/the-heights|The Heights]]. He lives a solitary existence very near the city's North Gate, and it is said that his past holds some dark secret that makes him isolate himself from the rest of the dwarven community. Whatever his reasons are, his customers reward him handsomely for his services in his present locale, and his suits of chain and plate armor are usually worth their inflated price. There is a 70% chance that his goods will absorb 10% more hits than a normal suit of armor before it is rendered useless, and a 25% chance that they will absorb 25% more. [[people/kelvar|Kelvar]] is very gruff with his customers and has no use for idle chatter. If a customer persists in asking [[people/kelvar|Kelvar]] questions (especially personal ones), subtract 20% from the above stated chances of receiving an above standard product (and there is also a 10% chance that the armor produced by [[people/kelvar|Kelvar]] under these conditions will absorb 10% less hits than a normal set).
+[[people/kelvar|Kelvar]] is the only dwarven artisan who chooses to work in [[settlements/haven/the-heights/the-heights|The Heights]]. He lives a solitary existence very near the city's North Gate, and it is said that his past holds some dark secret that makes him isolate himself from the rest of the dwarven community. Whatever his reasons are, his customers reward him handsomely for his services in his present locale, and his suits of chain and plate armor are usually worth their inflated price. There is a 70% chance that his goods will absorb 10% more hits than a normal suit of armor before it is rendered useless, and a 25% chance that they will absorb 25% more. [[people/kelvar|Kelvar]] is very gruff with his customers and has no use for idle chatter. If a customer persists in asking [[people/kelvar|Kelvar]] questions (especially personal ones), subtract 20% from the above stated chances of receiving an above standard product (and there is also a 10% chance that the armor produced by [[people/kelvar|Kelvar]] under these conditions will absorb 10% less hits than a normal set).
 
 ## Price Range
 
@@ -32,95 +37,9 @@ Costly.
 
 Excellent
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Armor (Shopping)**
-
- **Owner:**  Kelvar
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G20 (CP)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/kelvar|Kelvar]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3187fc00-afbf-4c19-b15a-037f7139f700<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-shop,type-armor,armorers-guild-location,armor
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

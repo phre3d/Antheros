@@ -1,33 +1,24 @@
 ---
 aliases: []
-tags: [import, material]
+tags: [Material]
 title: Essence of Earth
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Essence of Earth
 
---- start-multi-column: Main
-
-```column-settings   
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-alignment: [left]
-shadow: [off]
-```
-
-# Description
+>[!info]
+>**Type:** Metaphysical<br>
+>**Value:** <br>
+>**Rarity:**
+>
+>**Related Professions** [[professions/herbalist|Herbalist]],  [[professions/alchemist|Alchemist]]
 
 One of the six mystical essences, it is a key ingredient used by [[professions/herbalist|Herbalists]] / [[professions/alchemist|Alchemists]]  alike.
-
- ---
 
 # Origin
 
 Created by [[professions/herbalist|Herbalists]] and [[professions/alchemist|Alchemists]] by processing various plants and other materials.
-
- ---
 
 # Distribution
 
@@ -39,38 +30,18 @@ None
 
 Used immediately as it cannot be stored
 
---- end-column ---
-
-**Type:** Metaphysical<br>
-**Value:** <br>
-**Rarity:**
-
-**Related Professions**
-
-<br>- [[professions/herbalist|Herbalist]]<br>- [[professions/alchemist|Alchemist]]<br>
-
-**Source Plants**
+# Source Plants
 
 ```dataview
 LIST
-FROM #essence-earth-plant
+FROM "flora"
+WHERE contains(tags, "material/essence/earth")
 SORT file.name
 ```
 
---- end-multi-column
-
-<!-- Page Footer for Previous/Next -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [believers-lane, cat-religion, Free_City_of_Haven, import, landmark, religion, type-temple]
+tags: [Building/religious/temple, Haven/north-corridor/believers-lane, Plot/Free-City-of-Haven, Religion]
 title: Temple of Ea
-date modified: 2026-07-16, 9:18:47 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # Temple of Ea
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Temple (Religion) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-north-corridor/believers-lane|Believer's Lane]] <br>
+>**Grid (Key) Ref.:**    R11 (HM)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Cathedral / Great temple  <br>
 
 ## Goddess of the Air
 
@@ -24,95 +29,9 @@ shadow: off
 
 The Temple of Ea is very new to Believers' Lane. For years, this small cult useed to worship outside Caravan Gate. In the past few months, the cult has seen a phenomenal growth in membership, and a corresponding rise in contributions. The sect has managed to lease a relatively large building (and immediately removed the roof of the major chamber), and now conducts its rites, worshipping the open air, in relative opulence.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Temple (Religion)**
-
- **Owner:**  
-
- **District:**  Believer's Lane
-
- **Grid (Key) Ref.:**   R11 (HM)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Cathedral / Great temple
-
-**Parent Location:**
-
-[[settlements/believers-lane|Believer's Lane]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** cb867d0d-7d50-4ee2-af89-8d6d317863c6<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Believer's Lane<br>
-**Tags:** fcoh,believers-lane-location,cat-religion,type-temple,religion
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

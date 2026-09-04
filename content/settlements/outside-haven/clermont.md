@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, settlement]
+tags: [Settlement/clermont]
 title: Cleremont
-date modified: 2026-07-16, 9:18:09 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # Cleremont
@@ -18,7 +18,7 @@ shadow: off
 
 # Description
 
-Clermont is a town on the ocean, just southeast of the [[locations/dorian-river|Dorian River]] delta.
+Clermont is a town on the ocean, just southeast of the [[geography/dorian-river|Dorian River]] delta.
 
 # Demographics
 
@@ -72,7 +72,7 @@ Clermont is a town on the ocean, just southeast of the [[locations/dorian-river|
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Id:** 4650cd05-9640-4688-b248-a60e104b0030<br>
 **Entity Type:** Article / settlement<br>

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1381.309, 2331.633]
 mapmarker: Government
 title: The Grey Halls
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The Grey Halls
@@ -18,7 +18,7 @@ date modified: 2026-07-16, 9:18:39 pm
 
 **Marker Type:** Government
 
-**Map Ref:** Map Ref.: G04
+**Map Ref:** G04
 
 **Location:** [[landmarks/the-grey-halls|The Grey Halls]]<br>
 **Location Type:** Prison

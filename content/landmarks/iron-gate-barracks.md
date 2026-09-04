@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-government, Free_City_of_Haven, government-of-haven, import, landmark, the-cauldron, type-guard]
+tags: [Haven/outlands/cauldron, Organization/government, Organization/legal/haven-city-watch, Plot/Free-City-of-Haven]
 title: Iron Gate Barracks
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Iron Gate Barracks
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** City Guard (City Guard) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/the-cauldron|The Cauldron]] <br>
+>**Grid (Key) Ref.:**    A12 (KA)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Guard post / house  <br>
 
 ## A City Guard station
 
@@ -28,95 +33,9 @@ The Iron Gate Barracks is home to 40 guards, of which about 10 are on duty at an
 
 Drobur arn Fegli
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**City Guard (City Guard)**
-
- **Owner:**  
-
- **District:**  The Cauldron
-
- **Grid (Key) Ref.:**   A12 (KA)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Guard post / house
-
-**Parent Location:**
-
-[[settlements/the-cauldron|The Cauldron]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** [[organizations/haven-city-watch|Haven City Watch]]<br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f2837d28-776e-4cfa-aa45-d5a3ea74fa9c<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Cauldron<br>
-**Tags:** fcoh,the-cauldron-location,cat-government,type-guard,government
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

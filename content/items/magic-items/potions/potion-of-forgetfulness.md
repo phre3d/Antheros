@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Forgetfulness
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Forgetfulness
@@ -31,14 +31,14 @@ Created by a seer to remove haunting visions from her head,
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Pure Alcohol|Pure Alcohol]]<br>
+**Base:** [[/materials/pure-alcohol|Pure Alcohol]]<br>
 **Essence(s):**   Fire  Life  Shadow  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ Created by a seer to remove haunting visions from her head,
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Sanctuary
-date modified: 2026-07-16, 9:19:00 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of Sanctuary
@@ -31,14 +31,14 @@ The effect ends if you make an attack or cast a spell
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Life  Water<br>
 **Spell Needed:** *Sanctuary* <br>
 **Other:**
@@ -53,4 +53,3 @@ The effect ends if you make an attack or cast a spell
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

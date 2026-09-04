@@ -1,18 +1,11 @@
 ---
 aliases: []
-tags: [article, Free_City_of_Haven, import]
+tags: [Plot/Free-City-of-Haven]
 title: Major Families and Power Brokers
-date modified: 2026-07-16, 9:19:06 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Major Families and Power Brokers
-
->[!info]
->### World Anvil Metadata
->**Id:** 811c464e-b13e-4e6c-80f3-52b3a5ae3d1e<br>
->**Entity Type:** Article / article<br>
->**Category:** Major Families & Power Brokers<br>
->**Tags:** fcoh
 
 ## Nobility
 
@@ -29,11 +22,11 @@ date modified: 2026-07-16, 9:19:06 pm
 
 ## Great Guilders
 
-- [[people/hamlin-blackbourne|Hamlin Blackbourne]] (Grandmaster, [[organizations/guilds/guild-of-the-loom|Guild of the Loom]]) and the [[organizations/families/blackbourne-family|Blackbourne Family]]
-- [[people/gilberto-maggia|Gilberto Maggia]] (Grandmaster, [[organizations/guilds/guild-of-provenders|Guild of Provenders]]) and the [[organizations/families/maggia-family|Maggia Family]]
-- [[people/heidel-varrasch|Heidel Varrasch]] (Grandmaster, [[organizations/guilds/guild-of-drayers|Guild of Drayers]]) and the [[organizations/families/varrasch-family|Varrasch Family]]
-- [[people/nimrodel|Nimrodel]] (Grandmaster, [[organizations/guilds/guild-of-the-ship|Guild of the Ship]])
-- [[people/salvatore-celinni|Salvatore Celinni]] (Grandmaster, [[organizations/guilds/guild-of-the-artisan|Guild of the Artisan]])
+- [[people/hamlin-blackbourne|Hamlin Blackbourne]] (Grandmaster, [[organizations/professional/guild-of-the-loom|Guild of the Loom]]) and the [[organizations/families/blackbourne-family|Blackbourne Family]]
+- [[people/gilberto-maggia|Gilberto Maggia]] (Grandmaster, [[organizations/professional/guild-of-provenders|Guild of Provenders]]) and the [[organizations/families/maggia-family|Maggia Family]]
+- [[people/heidel-varrasch|Heidel Varrasch]] (Grandmaster, [[organizations/professional/guild-of-drayers|Guild of Drayers]]) and the [[organizations/families/varrasch-family|Varrasch Family]]
+- [[people/nimrodel|Nimrodel]] (Grandmaster, [[organizations/professional/guild-of-the-ship|Guild of the Ship]])
+- [[people/salvatore-celinni|Salvatore Celinni]] (Grandmaster, [[organizations/professional/guild-of-the-artisan|Guild of the Artisan]])
 
 ## Wealthy Merchants
 
@@ -45,7 +38,7 @@ date modified: 2026-07-16, 9:19:06 pm
 
 ## Guilds
 
-- [[organizations/guilds/guild-of-entertainers|Guild of Entertainers]]
+- [[organizations/professional/guild-of-entertainers|Guild of Entertainers]]
 	- [[people/rael-gavotte|Rael Gavotte]], Guild Magistrate
 	- [[people/largo-profundo|Largo Profundo]], Singing Master
 	- [[people/helvia-larksong|Helvia Larksong]], Master of Journeymen

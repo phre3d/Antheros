@@ -1,23 +1,21 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, plot]
+tags: [Plot, Plot/Clockwork-Tower]
 title: "Artificer's Library"
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
+
+![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
 
 # Artificer's Library
 
->[!infobox]
->![[plots/clockwork-tower/images/clockwork-tower-header.jpg]]
->
->---
->
+>[!info]
 >![[plots/clockwork-tower/table-of-contents|Table of Contents]]
 
 This grand room with high ceilings and a damaged roof houses the Clockwork Tower's wealth of knowledge. However, adventurers must tread carefully as the Archives are protected by Cogsprocket Spiders, small constructs tasked with repairing and maintaining the historical records which are not particularly fond of intruders.
 
 > [!read-aloud] **Read Aloud**
- >  The room you've entered has a grandeur about it; tall ceilings stretch high above you, bearing evidence of past opulence, now marred by wear and damage over time. Great bookshelves appear throughout the room, though many are toppled or in disarray. Intricate cogs and gears are embedded in the design of the room, especially overhead along the ceiling where there is a set of tracks and mechanisms above the shelving. At several locations the tracks are borken or misaligned.
+ >  The room you've entered has a grandeur about it; tall ceilings stretch high above you, bearing evidence of past opulence, now marred by wear and damage over time. Great bookshelves appear throughout the room, though many are toppled or in disarray. Intricate cogs and gears are embedded in the design of the room, especially overhead along the ceiling where there is a set of tracks and mechanisms above the shelving. At several locations the tracks are broken or misaligned.
  >
  > Curiously, the air is filled with a subtle rhythmic ticking, punctuated by the skittering sound of many legs. As you venture further, you spot mechanical spiders moving among the shelves, their crystalline eyes focused on their tasks or turning toward you with wary caution.
 
@@ -29,29 +27,29 @@ Within the Artificer's Library lies the Chronos Codex, an artifact of unparallel
 
 > [!read-aloud] **Read Aloud**
  >  
- > - **[[person/tick]]:**   "Chirp-chirp! Cogsprocket Sp-sp-spiders lurk, guarding knowledge, their tireless work!"
+ > - **[[plots/clockwork-tower/npcs/tick-and-tock|Tick]]:**   "Chirp-chirp! Cogsprocket Sp-sp-spiders lurk, guarding knowledge, their tireless work!"
  > 
- >- **[[person/tock]]:**   "Tock-tock! Mind where you s-s-step, or in spiders' web, you might get swept!"
+ >- **[[plots/clockwork-tower/npcs/tick-and-tock|Tock]]:**   "Tock-tock! Mind where you s-s-step, or in spiders' web, you might get swept!"
 
 # Books found in the library
 
-###  **Chronosmith's Compendium of Clockwork Arcana**  
+##  **Chronosmith's Compendium of Clockwork Arcana**  
 
  This hefty, leather-bound tome has a cover adorned with intricate etchings of gears and runes. It was penned by [[plots/clockwork-tower/npcs/constantine-chronosmith|Constantine Chronosmith]] himself and contains a wealth of knowledge on clockwork devices and temporal magic. Flipping through the pages, adventurers can find a section dedicated to the Chronos Resonator. It not only describes the Resonator's function but also lists its essential components, making references to the Crank of Quickening, Echoing Cog, and Temporal Fragment. The book also provides clues on proper alignment techniques for these components. A character who spends 1 hour reading this section can make one Arcana check with advantage when attempting to restore the Chronos Resonator.
 
-###  **Temporal Fragments: A Study in Theoretical Arcanodynamics**  
+##  **Temporal Fragments: A Study in Theoretical Arcanodynamics**  
 
  This scroll is stored in a decorative, cylindrical container that looks much more recent than the surrounding volumes. It's a highly technical paper, filled with mathematical equations and magical symbols. At the heart of it, the paper theorizes on the nature of "temporal fragments," which are essential components of devices that manipulate time, such as the Chronos Resonator. A character who takes time to decipher the scroll (<u>requires a DC 15 Arcana check and 30 minutes of concentration</u>) gains a unique insight into the Temporal Fragment needed for the Chronos Resonator. This understanding grants a one-time advantage on the DC 20 Arcana check required to align the Temporal Fragment with the Temporal Core of the Resonator.
 
-###  **Guardians of Gear and Cog: A History of Clockwork Constructs**  
+##  **Guardians of Gear and Cog: A History of Clockwork Constructs**  
 
   This historical account describes the origins and advancements in clockwork constructs throughout the ages. It delves into the various types of constructs, their purposes, and their roles in society, from simple clockwork toys to advanced Clockwork Sentinels. Illustrations pepper the pages, showing the intricate designs of these mechanical wonders. A character who spends 2 hours reading this book gains advantage on History or Arcana checks related to clockwork constructs for the next 7 days.
 
-###  **Celestial Orbits and Temporal Flux**  
+##  **Celestial Orbits and Temporal Flux**  
 
  The Alchemy of Time: A scholarly tome filled with complex diagrams and charts mapping the flow of celestial bodies and their potential influence on the passage of time. It's a challenging read, laden with advanced magical theories that ponder the relationship between the heavens and time itself. Characters who successfully read and comprehend this book (requires a <u>DC 18 Arcana check and 2 hours of study</u>) can use the celestial patterns described within to gain a one-time reroll for any failed saving throw against spells or effects that manipulate time.
 
-###  **The Pocket Guide to Arcane Sigils**  
+##  **The Pocket Guide to Arcane Sigils**  
 
  This small, pocket-sized book offers a comprehensive overview of commonly used arcane symbols, glyphs, and runes. While it is designed to be more of a reference guide than a scholarly text, it provides valuable information for anyone working with arcane arts, including brief notes on potential uses or misuses of each symbol. Characters who spend at least 30 minutes skimming through this guide can add +1 to any single Arcana check related to identifying arcane symbols for the next 24 hours.
 
@@ -188,6 +186,6 @@ On initiative count 20 (losing initiative ties), the Library takes a lair action
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>
 <div class="page-nav">
-  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
-  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+  <span class="nav-prev">← Previous: <a href="plots/clockwork-tower/chronos-lobby" class="internal-link">Chronos Lobby    </a></span>
+  <span class="nav-next">Next: <a href="plots/clockwork-tower/assembly-room" class="internal-link">Assembly Room    </a> →</span>
 </div>

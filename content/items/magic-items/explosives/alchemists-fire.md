@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: "Alchemist's Fire"
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Alchemist's Fire
@@ -31,14 +31,14 @@ A creature can end this damage by using its action to make a DC 10 Dexterity che
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Fire  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ A creature can end this damage by using its action to make a DC 10 Dexterity che
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

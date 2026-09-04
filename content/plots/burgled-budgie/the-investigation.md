@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, plot]
+tags: [Plot, Plot/Burgled-Budgie]
 title: The Investigation
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 ![[plots/burgled-budgie/images/burgled-budgie-header.jpg]]
@@ -35,7 +35,7 @@ Several items of interest can be found here:
 - A DC 14 Investigation check reveals a crumpled piece of paper near the base of a bookshelf. On its surface is a crudely-inked drawing of a bird, colored red, orange, and yellow with various shades of wax.
 
 - A DC 16 Investigation check reveals that the carpet beneath the feather is scorched, the fibers having fused together from continuous heat.
- 
+$1
 - A DC 18 Investigation check reveals a masterwork lockpick on the floor near the cage. It’s partially buried in the carpet’s thick pile.
 
 - A DC 20 Perception check while examining the crumpled paper reveals a lingering scent on its surface. This is Herbert’s strong cologne, some of which has rubbed off on the paper and is identifiable to people who have interacted with him.
@@ -66,7 +66,7 @@ Sooner or later, the PCs’ attention will probably turn to the pet shop where B
 
 This large store is crowded with cages, crates, and other containers full of animals of all sorts. The various animal noises blend into a cacophony that is nearly overwhelming, nearly drowning out the sound of the bell as you enter the door. A young halfling woman behind the counter grins broadly at you and a brown gnome stands in the corner, cooing gently at a vibrant green bird.
 
-### Karvatticus Fletcher
+## Karvatticus Fletcher
 
 Karvatticus is very friendly and talkative, and always looking for the opportunity to make a sale. When the PCs first approach he’ll try to entice them into buying various (mis-identified) exotic animals, such as an Emerald Sparrow or a Matriculated Newt.
 
@@ -77,7 +77,7 @@ If the PCs bring up Beatrice, he’ll grow a bit distrustful of them, grousing a
 - One week ago, he sold Herbert an ordinary blue budgie.
 - Karvatticus has never come across a budgie like Beatrice before or since, although Herbert has been constantly harassing him for information about where the gnome found her.
 
-### Pemma Stoutfoot
+## Pemma Stoutfoot
 
 Pemma is the cheerful halfling cashier currently working the storefront. She is helpful, sensible, and positive. She’s easily convinced to look up Herbert’s name and business information if it’s to help Karvatticus out. She can give a description of Herbert and doesn’t think much of him.
 

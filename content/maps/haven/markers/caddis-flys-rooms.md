@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1095.595, 3790.816]
 mapmarker: Residence
 title: "Caddis Fly's Rooms"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Caddis Fly's Rooms

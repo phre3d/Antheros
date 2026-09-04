@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, npc, person, plot/Sins_of_the_Past]
+tags: [Person, Person/npc, Plot/Sins-of-the-Past]
 title: Rani Dathret
-date modified: 2026-07-16, 9:18:20 pm
+date modified: 2026-08-20, 8:03:24 pm
 ---
 
 # Rani Dathret
@@ -11,123 +11,21 @@ date modified: 2026-07-16, 9:18:20 pm
 
 **Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
-She is a human from a very poor noble house and joined [[organization/the-jackals|The Jackals]] to make for a living. 
 
-She is one of the two survivors after [[person/nesan-gerondes|Nesan Geronde's]] attack in [[plots/sins-of-the-past|Sins of the Past]]. At the start of the that module she is imprisoned inside the mirror - whether she gets out depends on the party's actions.
+She is a human from a very poor noble house and joined [[organizations/criminal/the-jackals|The Jackals]] to make for a living.
 
-![[dndline.png]]
+She is one of the two survivors after [[people/nesan-geronde|Nesan Geronde's]] attack in [[plots/sins-of-the-past/sins-of-the-past|Sins of the Past]]. At the start of the that module she is imprisoned inside the mirror - whether she gets out depends on the party's actions.
 
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
@@ -138,18 +36,21 @@ She is one of the two survivors after [[person/nesan-gerondes|Nesan Geronde's]] 
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/rani-dathret-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/rani-dathret-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/rani-dathret-person)
 
 ````
 ````col-md
-![[~attachments/.jpg]]
-![[dndline.png]]
+IMAGE
+
 
 
 
@@ -164,7 +65,7 @@ She is one of the two survivors after [[person/nesan-gerondes|Nesan Geronde's]] 
 
 #### Origins
 **Family:** <br>
-**Race:** [[race/human-race|Human Race]]<br>
+**Race:** [[races/human|Human]]<br>
 
 
 #### Birth
@@ -186,30 +87,13 @@ She is one of the two survivors after [[person/nesan-gerondes|Nesan Geronde's]] 
 
 #### Affiliations
 **Deity:**  <br>
-**Affiliated Organization:**  [[Organization/The Jackals|]]<br>
+**Affiliated Organization:**  [[organizations/The Jackals|]]<br>
 
 
 
-![[dndline.png]]
+
 
 
 ````
+
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

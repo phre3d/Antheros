@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/word, import, landmark, scribe, street-of-harps, type-scribe]
+tags: [Haven/south-corridor/street-of-harps, Organization/professional/guild-of-the-word, Plot/Free-City-of-Haven, Shop, Shop/service/scribe]
 title: Music Copiers
-date modified: 2026-07-16, 9:18:51 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Music Copiers
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Scribe (Shopping) <br>
+>**Owner:**  [[people/bennichio-lapiz|Bennichio Lapiz]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]] <br>
+>**Grid (Key) Ref.:**    H07 (MC)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## [[people/bennichio-lapiz|Bennichio Lapiz]], prop.
+***[[people/bennichio-lapiz|Bennichio Lapiz]], prop***
 
 ## Description
 
@@ -54,101 +59,15 @@ The chief scribe, [[people/farris|Farris]], usually oversees the work and keeps 
 
 ## Customers
 
-There is a 40% chance of 1d8 customers at any time with an additional 75% chance of an additional 2d3 during lunch hours (11:30am - 1:00pm).
+There is a 40% chance of  customers at any time with an additional 75% chance of an additional  during lunch hours (11:30am - 1:00pm).
 
 ## Outstanding Items
 
 This shop puts out very high quality products, and is very well known, thus Bennichio does not feel he needs fancy (as well as expensive) frills. The shop is very Spartan, and little is wasted.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Scribe (Shopping)**
-
- **Owner:**  Bennichio Lapiz
-
- **District:**  The Street of Harps
-
- **Grid (Key) Ref.:**   H07 (MC)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-street-of-harps|The Street of Harps]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/bennichio-lapiz|Bennichio Lapiz]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** ea378301-58f6-4f7e-98c7-fd361656086f<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Street of Harps<br>
-**Tags:** fcoh,street-of-harps-location,cat-shop,type-scribe,guild-of-the-word-location,scribe
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

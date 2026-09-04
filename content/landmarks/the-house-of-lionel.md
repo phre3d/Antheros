@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/hearth, import, inn, landmark, the-south-corridor, type-inn]
+tags: [Haven/south-corridor, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven, Shop, Shop/service/inn]
 title: The House of Lionel
-date modified: 2026-07-16, 9:18:45 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The House of Lionel
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Caravanserai (Inns & Taverns) <br>
+>**Owner:**  [[people/lionel-hardesty|Lionel Hardesty]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    L08 (OI)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Caravanserai  <br>
 
 ## Accommodations for caravans of any size
 
@@ -38,7 +43,7 @@ Always, regardless.
 
 ## Price Range
 
-Reputedly fair. In view of Lionel's lack of ability in [[articles/haggling|Haggling]] and firmness, Low to Cheap for lodging. The people running the pub have the good sense not to be bluffed, so prices there are still fair to high
+Reputedly fair. In view of Lionel's lack of ability in [[articles/haggling|haggling]] and firmness, Low to Cheap for lodging. The people running the pub have the good sense not to be bluffed, so prices there are still fair to high
 
 ## Quality
 
@@ -52,95 +57,9 @@ Kept by the manager of the pub and inn, not Lionel.
 
 Lots, of all descriptions
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Caravanserai (Inns & Taverns)**
-
- **Owner:**  Lionel Hardesty
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   L08 (OI)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Caravanserai
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/lionel-hardesty|Lionel Hardesty]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** a5c86be7-b0a2-4e22-8ba4-72f9e67303dd<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-shop,type-inn,guild-of-the-hearth-location,inn
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

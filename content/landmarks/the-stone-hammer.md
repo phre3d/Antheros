@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-dwarrow, type-tavern]
+tags: [Entertainment/tavern, Haven/outlands/dwarrow, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: The Stone Hammer
-date modified: 2026-07-16, 9:18:44 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # The Stone Hammer
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/tolbin-ironhand|Tolbin Ironhand]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    B13 (HO)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## Good Brew - Good Stew
 
@@ -35,7 +40,7 @@ The tavern comprises the first underground floor, and consists of four rooms:
 1. a large common room filled with long benches, with two roaring fireplaces on its east and west walls, and two bars,
 2. a smaller dining room, with its own fireplace and eight tables (seating for 48),
 3. the kitchen
-4. a small private meeting room, kept locked under normal circumstances. The room may be rented by anyone, and is sometimes used for meetings of the [[organizations/brotherhood-of-the-broken-blade|Brotherhood of the Broken Blade]] (see Dwarrow, Scenarios).
+4. a small private meeting room, kept locked under normal circumstances. The room may be rented by anyone, and is sometimes used for meetings of the [[organizations/political/brotherhood-of-the-broken-blade|Brotherhood of the Broken Blade]] (see Dwarrow, Scenarios).
 
 On the next floor down, there are six sleeping chambers - two private rooms, and 4 rooms sleeping up to 4 each, Tolbin's own two room suite, and a liquor storage area. There are two connecting stairways to this floor. One in the common room, and one in the corridor that runs between the kitchen and the private meeting room.
 
@@ -61,7 +66,7 @@ Behind each of the bars, there is a slotted hole that empties into a metal box w
 
 ## Customers
 
-3d8 during the afternoon hours, and 4d20 during the evening. The crowd tends to be very boisterous.
+ during the afternoon hours, and  during the evening. The crowd tends to be very boisterous.
 
 There is a 40% chance on any given day that all the rooms in the Inn will be rented out by sundown, and a 15% chance that one of the roomers will be an old traveling companion of Tolbin's.
 
@@ -75,95 +80,9 @@ About 75% of the patrons will be dwarven, but non-dwarves should not feel uncomf
 
 The Hammer offers filling, hearty food and drink for a fair price. Its rooms are well-kept and clean, but are rather small, and no bathing facilities are available (All the beds are dwarven size, except in one of the 4 person rooms).
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Tolbin Ironhand
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   B13 (HO)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/tolbin-ironhand|Tolbin Ironhand]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** bc6496c4-1ba0-4a37-9992-4e15a3f097a8<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

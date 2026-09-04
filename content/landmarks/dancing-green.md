@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-landmark, Free_City_of_Haven, import, landmark, the-cauldron, type-park]
+tags: [Haven/outlands/cauldron, Landmark, Landmark/park, Plot/Free-City-of-Haven]
 title: Dancing Green
-date modified: 2026-07-16, 9:18:57 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Dancing Green
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Park (Landmark) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-outlands/the-cauldron|The Cauldron]] <br>
+>**Grid (Key) Ref.:**    D11 (KV)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Park  <br>
 
 ## A public park
 
@@ -28,95 +33,9 @@ An open grassy park with scattered trees, Dancing Green is a fairground, market 
 
 [[people/kai|Kai]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Park (Landmark)**
-
- **Owner:**  
-
- **District:**  The Cauldron
-
- **Grid (Key) Ref.:**   D11 (KV)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Park
-
-**Parent Location:**
-
-[[settlements/the-cauldron|The Cauldron]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** f2d5ae5e-52a9-4655-ac9b-49456a5196d8<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Cauldron<br>
-**Tags:** fcoh,the-cauldron-location,cat-landmark,type-park,landmark
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

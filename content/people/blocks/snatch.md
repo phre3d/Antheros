@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Snatch
-date modified: 2026-07-16, 9:18:29 pm
+date modified: 2026-08-20, 8:03:31 pm
 ---
 
 # Snatch
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Tiefling<br>
 **Profession:** Rogue/4th<br>
 **Challenge Rating:** 5<br>
@@ -20,28 +17,18 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 17 - Padded<br>
 **Hit Points:** 13<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 5 (-3) | 17 (+3) | 6 (-2) | 7 (-2) | 6 (-2) | 13 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Dexterity | Intelligence<br>
-**Damage Resistances:** Fire<br>**Languages:** Infernal | Common<br>**Challenge:** 5 / (XP)<br>**Senses:** Darkvision 60''<br>**Skills:** Infernal Legacy (see spells)
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
+**Damage Resistances:** Fire<br>
+**Languages:** Infernal | Common<br>
+**Challenge:** 5 / (XP)<br>
+**Senses:** Darkvision 60''<br>
+**Skills:** Infernal Legacy (see spells)
 
 ## Cast at Will
 
@@ -52,8 +39,6 @@ Thaumaturgy (cantrip)
 **Racial**
 
 @3rd Level:  **Hellish Rebuke**  | @5th Level:  **Darkness**
-
-![[dndline.png]]
 
 # Actions
 

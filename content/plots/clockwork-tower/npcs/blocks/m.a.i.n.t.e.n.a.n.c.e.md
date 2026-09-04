@@ -1,11 +1,11 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, npc, person, statblock]
-title: M.A.I.N.T.E.N.A.N.C.E.
-date modified: 2026-07-16, 9:18:16 pm
+tags: [Person, Person/npc, Plot/Clockwork-Tower, statblock]
+title: M.A.I.N.T.E.N.A.N.C.E
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
-# M.A.I.N.T.E.N.A.N.C.E.
+# M.A.I.N.T.E.N.A.N.C.E
 
 ````col
 ```col-md

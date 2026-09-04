@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, general-goods, import, landmark, thieves-market, type-general-goods]
+tags: [Haven/south-corridor/thieves-market, Plot/Free-City-of-Haven, Shop, Shop/goods/general-goods]
 title: "Pickett 'Lefty' Post - Merchandise"
-date modified: 2026-07-16, 9:18:50 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Pickett 'Lefty' Post - Merchandise
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Shop / General Goods <br>
+>**Owner:**   <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**   TM-12
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Market stall  <br>
 
 Lefty (he is missing his right hand at the wrist courtesy of Haven's justice and Lefty's one mistake as a burglar) deals in a plethora of different items. He knows some types of merchandise (particularly jewelry and metalwork) quite well, and has at least a nodding acquaintance with most others.
 
@@ -33,113 +38,9 @@ Most of his illicit dealings are conducted after dark so Lefty is one of the few
 
 Robbery attempts have been made on Lefty and his stock, and one or two have actually succeeded. In most cases, however, the local thieves and pickpockets have acted to protect their source of money and various would-be robbers have been found dead, handless, or nailed to walls in the vicinity of Thieves' Market. No Guild thief will touch Lefty and attempts at robbery have nearly always been by unaligned out-of-towners.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Shop / General Goods**
-
- **Location:**  Thieves Market
-
- **Map Reference:**  TM-12
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Market stall
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
----
-
- **Stall Type:**  Pavillion
-
- **# Occupants:**  Owner + 1
-
- **Prices:**  Low-High
-
- **Quality:**  Poor-Good
-
- **Variety:**  Broad
-
- **Honesty:**  40
-
- **Haggle Desire:**  $
-
- **Haggle Ability:**  H
-
- **Purse:**  1,000gp
-
----
-
-### World Anvil Metadata
-
-**Id:** f195c9b2-9b6b-479d-b5ba-930469dbb799<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Thieves' Market<br>
-**Tags:** fcoh,thieves-market-location,cat-shop,type-general-goods,general-goods
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

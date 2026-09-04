@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Faith Shielding
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Faith Shielding
@@ -27,14 +27,14 @@ When you drink this potion, you gain a +2 bonus to AC and are surrounded by a sh
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 11+<br>
 **Crafting Time:** 12.5 weeks<br>
 **Crafting DC:** 22
 
 ## Ingredients
 
-**Base:** [[/materials/Aluminium Grease|Aluminium Grease]]<br>
+**Base:** [[/materials/aluminum-grease|Aluminium Grease]]<br>
 **Essence(s):** Air    Earth  Life  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -49,4 +49,3 @@ When you drink this potion, you gain a +2 bonus to AC and are surrounded by a sh
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1050.697, 3712.245]
 mapmarker: Residence
 title: The House of Mr. Rasputin
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # The House of Mr. Rasputin
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:39 pm
 
 **Map Ref:** Map Ref.: L03 (EU)
 
-**Location:** [[landmarks/the-house-of-mr.-rasputin|The House of Mr. Rasputin]]<br>
+**Location:** [[landmarks/the-house-of-mr-rasputin|The House of Mr. Rasputin]]<br>
 **Location Type:** Large House
 
 **Description**<br>

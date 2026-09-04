@@ -1,22 +1,16 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: The Storm is Gathering
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # The Storm is Gathering
 
-::::: {.columns id=Main}
-
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
 # Outline
 
@@ -59,24 +53,10 @@ When the characters have left the musicians, one random character realises that 
 
 The missing item was stolen by one of the bards who doubles as an opportunistic thief. No weapons, armour, spell foci, or more valuable items have been stolen.
 
-::: columnbreak
 
-:::
-
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
-
-![[~attachments/dndline.png]]
-
-:::
-
-````col
-```col-md
-Previous: 962ce8c7-174a-4e73-89a4-3c544b40bb91
-```
-
-```col-md
-textAlign=right
-===
-Next: 21e8ade6-7e28-4999-b1db-5d52e905b211
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

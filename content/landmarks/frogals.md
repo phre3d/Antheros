@@ -1,30 +1,35 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, pawnbroker, thieves-market, type-pawnbroker]
+tags: [Haven/south-corridor/thieves-market, Plot/Free-City-of-Haven, Shop, Shop/service/pawnbroker]
 title: "Frogal's"
-date modified: 2026-07-16, 9:18:55 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # Frogal's
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Pawnbroker (Shopping) <br>
+>**Owner:**  [[people/kevin-derg|Kevin Derg]] <br>
+>**District:** [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]] <br>
+>**Grid (Key) Ref.:**    I05 (OV)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## A pawn shop of distinction
+***A pawn shop of distinction***
 
 ## Description
 
-The original owner of this pawn shop is no longer among the living, though his name still decorates the door. The current owner, [[people/kevin-derg|Kevin Derg]], is a sharp bargainer ([[articles/haggling|Haggling]]) , but is relatively honest in his dealings. His trader ratings are:
+The original owner of this pawn shop is no longer among the living, though his name still decorates the door. The current owner, [[people/kevin-derg|Kevin Derg]], is a sharp bargainer (haggle:), but is relatively honest in his dealings. His trader ratings are:
 
-- Purse - 7,000gp
+   - Purse - 7,000gp
 - Fields - Jewelry, Glassblowing*, Dyeing, Tanning, Perfumery, Tailoring
 - Dealing Outside Normal Fields - 50?
 - Min/Max Offers - 15%/40% of value
@@ -32,95 +37,9 @@ The original owner of this pawn shop is no longer among the living, though his n
 
  The variety in Frogal's is Very Wide. Prices in general tend to Low to Fair, while Quality is Fair to Excellent. Few magic items (5% chance) are to be found, but people have been known to make superb finds in this shop.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Pawnbroker (Shopping)**
-
- **Owner:**  Kevin Derg
-
- **District:**  Thieves' Market
-
- **Grid (Key) Ref.:**   I05 (OV)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/thieves-market|Thieves' Market]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/kevin-derg|Kevin Derg]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 5ea8220f-7789-4f2c-8485-75af8df49c0a<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Thieves' Market<br>
-**Tags:** fcoh,thieves-market-location,cat-shop,type-pawnbroker,pawnbroker
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

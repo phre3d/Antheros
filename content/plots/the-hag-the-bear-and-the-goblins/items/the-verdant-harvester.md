@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Hag-Bear-Goblin, import, item]
+tags: [Item, Plot/Hag-Bear-Goblin]
 title: The Verdant Harvester
-date modified: 2026-07-16, 9:18:12 pm
+date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # The Verdant Harvester
@@ -61,7 +61,7 @@ However, there is a caveat – the plant requires fertile soil to flourish. The 
 
 ---
 
-### World Anvil Metadata
+## World Anvil Metadata
 
 **Id:** 6da03dd1-55ed-42bf-a006-df61f59858e6<br>
 **Entity Type:** Article / item<br>

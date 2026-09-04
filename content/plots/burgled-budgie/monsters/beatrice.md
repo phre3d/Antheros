@@ -1,25 +1,29 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, monster]
+tags: [Monster, Plot/Burgled-Budgie]
 title: Beatrice
-date modified: 2026-07-16, 9:18:18 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 # Beatrice
 
-Small elemental, neutral good
+>[!info] Portrait
+>![[plots/burgled-budgie/images/wax-drawing.jpg]]
+
+
+*Small elemental, neutral good*
 
 **Armour Class:** 14<br>
 **Hit Points:** 45 (6d10 + 12)<br>
 **Movement:** 20 ft. $\quad$ *Fly:* 50 ft.
 
----
+
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 |  10(+0) |  19(+4) |  14(+2) |  14(+2) |  10(+0) |  16(+3) |
 
----
+
 
 **Damage Resistances.** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -31,10 +35,9 @@ Small elemental, neutral good
 
 **Challenge.** 3 (700 XP)
 
->[!infobox]
->![[plots/burgled-budgie/images/wax-drawing.jpg]]
 
----
+
+
 
 # Special Abilities
 
@@ -46,7 +49,7 @@ In addition, Beatrice can enter a hostile creature’s space and stop there. The
 
 **Water Susceptibility.** While in fire form, Beatrice is susceptible to water. For every 5 feet she moves in water, or for every gallon of water splashed on her, she takes 1 cold damage.
 
----
+
 
 # Actions
 
@@ -58,7 +61,7 @@ In addition, Beatrice can enter a hostile creature’s space and stop there. The
 
 *If Beatrice is in fire form*, a creature or flammable object hit by her claw attack ignites. Until someone takes an action to douse the fire, the creature or object *takes 5 (1d10) fire damage at the start of each of its turns.*
 
----
+
 
 # Description
 

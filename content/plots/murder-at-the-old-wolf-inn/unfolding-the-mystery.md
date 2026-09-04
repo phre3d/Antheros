@@ -1,22 +1,16 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, plot]
+tags: [Plot, Plot/Murder-at-the-Old-Wolf-Inn]
 title: Unfolding the Mystery
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ![[plots/murder-at-the-old-wolf-inn/images/matowi-page-header.jpg]]
 
 # Unfolding the Mystery
 
-::::: {.columns id=Main}
-
-```column-settings
-number of columns: 2
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
 
 # Outline
 
@@ -46,13 +40,13 @@ However, before the characters can reply, [[plots/murder-at-the-old-wolf-inn/npc
 
 Only [[plots/murder-at-the-old-wolf-inn/npcs/enoch-the-birdwhisperer|Enoch the Birdwhisperer]] doesn't appear to be entirely surprised by Inga's revelation.
 
-## if the characters can't provide any contrary evidence or make the real murderer confess:
+## if the characters can't provide any contrary evidence or make the real murderer confess
 
 [[plots/murder-at-the-old-wolf-inn/npcs/kara-tanner|Kara Tanner]] and [[plots/murder-at-the-old-wolf-inn/npcs/jon-callion|Jon Callion]] will arrest Inga and take her to Winterhold to face justice, and the adventure ends.
 
 Jon will later double-cross the drow and reveal their cave to his superiors. However, the drow never truly trusted him, and Jon is eventually found dead in the woods with a poisoned dart buried in his neck.
 
-## if the characters point out Jon Callion as the murderer:
+## if the characters point out Jon Callion as the murderer
 
 [[plots/murder-at-the-old-wolf-inn/npcs/jon-callion|Jon Callion]] will pretend to be both surprised and offended to be accused of the murder. However, if he is pressed with questions that he can't answer, or if the characters have gathered compelling evidence, he will snap and admit that he poisoned Artemis. Jon's handsome face is contorted by an ugly sneer.
 
@@ -88,26 +82,11 @@ The creature is the late Lieutenant [[plots/murder-at-the-old-wolf-inn/npcs/arte
 
 If the characters search Jon's person, they find two bottles of  *drow poison*  and one  *Potion of Healing*  without a label. The glass bottle matches the  *healing potions*  that can be found in [[plots/murder-at-the-old-wolf-inn/npcs/hugo-von-silverton|Hugo von Silverton]]'s room. There is also an empty poison bottle that Jon used to poison Hugo's wine.
 
-::: columnbreak
 
-:::
 
-![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
-
-![[~attachments/dndline.png]]
-
-:::
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-Previous: [[plots/murder-at-the-old-wolf-inn/rooms-at-the-old-wolf-inn|Rooms at the Old Wolf Inn]]
-```
-
-```col-md
-textAlign=right
-===
-Next: [[plots/murder-at-the-old-wolf-inn/rewards-and-aftermath|Rewards and Aftermath]]
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="[[plots/murder-at-the-old-wolf-inn/rooms-at-the-old-wolf-inn]]" class="internal-link">Rooms at the Old Wolf Inn</a></span>
+  <span class="nav-next">Next: <a href="[[plots/murder-at-the-old-wolf-inn/rewards-and-aftermath]]" class="internal-link">Rewards and Aftermath</a> →</span>
+</div>

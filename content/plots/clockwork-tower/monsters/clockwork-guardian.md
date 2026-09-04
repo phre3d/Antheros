@@ -1,29 +1,25 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, monster, statblock]
-title: Special Abilities
-date modified: 2026-07-16, 9:18:17 pm
+tags: [Monster, Plot/Clockwork-Tower, statblock]
+title: Clockwork Guardian
+date modified: 2026-08-13, 9:00:22 pm
 ---
 
-````col
-```col-md
-flexGrow=2
-===
 # Clockwork Guardian
-Large construct (humanoid) Unaligned
+
+>[!info] Image
+>![[plots/clockwork-tower/images/clockwork-guardian.png]]
+
+*Large construct (humanoid) Unaligned*
 
 **Armour Class:** 19 (natural armour)<br>
 **Hit Points:** 142 [roll:15d10 + 60]<br>
 **Proficiency Bonus:** <br>
 **Movement:** 30
 
----
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 22 (+6) | 14 (+2) | 19 (+4) | 8 (-1) | 14 (+2) | 7 (-2) |
-
----
 
 **Saving Throws:** <br>
 **Skills:** <br>
@@ -33,60 +29,48 @@ Large construct (humanoid) Unaligned
 
 **Damage Immunities:** Poison, Psychic<br>
 **Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned<br>
-```
-
-```col-md
-
-![[plots/clockwork-tower/images/clockwork-guardian.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
 
 # Special Abilities
 
-### Immutable Form.
+## Immutable Form
 
  The guardian is immune to any spell or effect that would alter its form.
 
-### Magic Resistance.
+## Magic Resistance
 
  The guardian has advantage on saving throws against spells and other magical effects.
 
-### Integrated Weapons.
+## Integrated Weapons
 
  The guardian's weapon attacks are magical.
 
-### Stalwart Defense.
+## Stalwart Defense
 
  When the guardian takes damage, it can choose to take no damage instead. It can't use this trait again <u>until it has a short or long rest</u>.
 
-![[~attachments/dndline.png]]
-
 # Actions
 
-### Multiattack.
+## Multiattack
 
  The guardian makes three blade arm attacks.
 
-### Blade Arm.
+## Blade Arm
 
   **Melee Weapon Attack:**  +10 to hit , reach 10 ft., one target.
 
   **Hit:**  16  slashing damage.
 
-### Net Launcher.
+## Net Launcher
 
    **Ranged Weapon Attack:**  +6 to hit , range 20/40 ft., one target.
 
   **Hit:**  The target is restrained. A creature can use its action to make a <u>DC 18 Strength check</u>, freeing itself or another creature within its reach on a success. Dealing 10 slashing damage to the net (AC 10) also frees the creature without harming it and destroys the net.  
 
-### Steam Blast (Recharge 5-6).
+## Steam Blast
+
+*(Recharges on 5-6)*
 
  The guardian releases a burst of scalding steam in a <u>15-foot cone</u>. Each creature in that area takes 27  fire damage unless they make a <u>DC 16 Dexterity saving throw</u>, in wihch case they take half-damage.
-
-![[~attachments/dndline.png]]
 
 # Description
 

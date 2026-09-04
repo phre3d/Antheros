@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Howling-in-the-Woods, import, plot]
+tags: [Plot, Plot/Howling-in-the-Woods]
 title: Silencing the Howl
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-17, 12:45:56 pm
 ---
 
 # Silencing the Howl

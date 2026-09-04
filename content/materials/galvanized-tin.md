@@ -1,22 +1,29 @@
 ---
 aliases: []
-tags: [plot/clockwork-tower, import, material]
+tags: [Material, Plot/Clockwork-Tower]
 title: Galvanized Tin
-date modified: 2026-07-16, 9:18:38 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Galvanized Tin
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Description
+>[!info]
+>**Type:** Metal<br>
+>**Value:** 8sp per lb.<br>
+>**Rarity:**
+>
+>**Odour:** <br>
+>**Taste:** <br>
+>**Colour:** <br>
+>**Boiling Point:** <br>
+>**Melting/Freezing Point:** <br>
+>**Density:**  <br>
+>**Common State:** Solid
+
 A protective metal known for its resistance to rusting and corrosion. It's used in the creation of weather-resistant structures and machinery.
 
----
-
 # Properties
+
 ## Physical Characteristics
 
 ## Properties
@@ -29,9 +36,8 @@ A protective metal known for its resistance to rusting and corrosion. It's used 
 
 ## Half Life / Deterioration / Expiration
 
----
-
 # History & Usage
+
 ## History
 
 ## Discovery
@@ -54,58 +60,17 @@ A protective metal known for its resistance to rusting and corrosion. It's used 
 
 ## Reusability & Recycling
 
----
-
 # Distribution
+
 ## Trade & Market
 
 ## Storage
 
 ## Law & Regulation
 
-```
-
-```col-md
-
-**Type:** Metal<br>
-**Value:** 8sp per lb.<br>
-**Rarity:** 
-
-**Odour:** <br>
-**Taste:** <br>
-**Colour:** <br>
-**Boiling Point:** <br>
-**Melting/Freezing Point:** <br>
-**Density:**  <br><br>
-**Common State:** 
-
-**Related Locations**
-
-**Related Species**
-
-**Related Items**
-
-**Related Technologies**
-
-**Related Professions**
-
----
-
-```
-````
-
-<!-- Footer for Previous/Next Page -->
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1639.472, 2978.571]
 mapmarker: Landmark
 title: Fountain of Porpidolphus
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Fountain of Porpidolphus

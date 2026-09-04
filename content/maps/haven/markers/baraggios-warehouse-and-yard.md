@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1371.429, 2478.248]
 mapmarker: Service
 title: "Baraggio's Warehouse and Yard"
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Baraggio's Warehouse and Yard

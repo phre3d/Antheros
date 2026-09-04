@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Yohan
-date modified: 2026-07-16, 9:18:29 pm
+date modified: 2026-08-20, 8:03:31 pm
 ---
 
 # Yohan
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Human<br>
 **Profession:** Ranger/7th<br>
 **Challenge Rating:** 13<br>
@@ -20,30 +17,16 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 16 - Leather<br>
 **Hit Points:** 59<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 13 (+1) | 14 (+2) | 15 (+2) | 11 (+0) | 14 (+2) | 8 (-1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Strength | Dexterity<br>
-**Languages:** Elvish | Orcish | Common<br>**Challenge:** 13 / (XP)<br>**Senses:** <br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Elvish | Orcish | Common<br>
+**Challenge:** 13 / (XP)<br>
+**Senses:** <br>
 
 # Actions
 

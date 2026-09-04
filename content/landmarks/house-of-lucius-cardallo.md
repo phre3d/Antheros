@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-residence, Free_City_of_Haven, import, landmark, residence, trademasters-square, type-large-house]
+tags: [Building/residential/large-house,Haven/north-corridor/trademasters-square, Plot/Free-City-of-Haven]
 title: House of Lucius Cardallo
-date modified: 2026-07-16, 9:18:53 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # House of Lucius Cardallo
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Large House (Residence) <br>
+>**Owner:**  [[people/lucius-cardallo|Lucius Cardallo]] <br>
+>**District:** [[settlements/haven/the-north-corridor/trademasters-square|Trademasters' Square]] <br>
+>**Grid (Key) Ref.:**    N16 (GY)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** House, Large  <br>
 
 ## The house that bribes built
 
@@ -28,95 +33,9 @@ The house where the High Judge lives
 
 Lucius Cardallo
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Large House (Residence)**
-
- **Owner:**  Lucius Cardallo
-
- **District:**  Trademasters' Square
-
- **Grid (Key) Ref.:**   N16 (GY)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** House, Large
-
-**Parent Location:**
-
-[[settlements/trademasters-square|Trademasters' Square]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/lucius-cardallo|Lucius Cardallo]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3fb788d4-632a-4100-85ce-e2f5df839dba<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: Trademasters' Square<br>
-**Tags:** fcoh,trademasters-square-location,cat-residence,type-large-house,residence
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

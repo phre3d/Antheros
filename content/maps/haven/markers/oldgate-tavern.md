@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2215.306, 3151.717]
 mapmarker: Inns & Taverns
 title: Oldgate Tavern
-date modified: 2026-07-16, 9:18:40 pm
+date modified: 2026-08-17, 12:46:25 pm
 ---
 
 # Oldgate Tavern

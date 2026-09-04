@@ -2,7 +2,7 @@
 aliases: []
 tags: []
 title: legend
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 | Pin | Location Type  |Pin | Location Type  |Pin | Location Type  |

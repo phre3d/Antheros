@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [2216.003, 2381.633]
 mapmarker: Shopping
 title: Wig and Masque
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:23 pm
 ---
 
 # Wig and Masque

@@ -1,24 +1,29 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, import, landmark, other-services, the-heights, type-other-services]
+tags: [Haven/heights, Plot/Free-City-of-Haven, Shop, Shop/service/other]
 title: Othmar the Astrologer
-date modified: 2026-07-16, 9:18:50 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Othmar the Astrologer
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Other Services (Service) <br>
+>**Owner:**  [[people/othmar|Othmar]] <br>
+>**District:** [[settlements/haven/the-heights/the-heights|The Heights]] <br>
+>**Grid (Key) Ref.:**    G20 (CF)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Readings from the stars
+***Readings from the stars***
 
 ## Description
 
@@ -54,101 +59,15 @@ This is strictly a one-man operation.
 
 ## Customers
 
-There is a 15% chance 1d100 that [[people/othmar|Othmar]] is engaged in a reading. If so, he will gruffly tell all visitors to "come back later. I'm extremely busy!"
+There is a 15% chance  that [[people/othmar|Othmar]] is engaged in a reading. If so, he will gruffly tell all visitors to "come back later. I'm extremely busy!"
 
 ## NPC Encounters
 
 [[people/mathilde-hochritter|Mathilde Hochritter]] | [[people/talia-blackbourne|Talia Blackbourne]] | [[people/gilberto-maggia|Gilberto Maggia]] | [[people/claudia-de-la-riis|Claudia de la Riis]] | [[people/antonio-berensten|Antonio Berensten]] | [[people/joffa-the-barakite|Joffa the Barakite]]
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Other Services (Service)**
-
- **Owner:**  Othmar
-
- **District:**  The Heights
-
- **Grid (Key) Ref.:**   G20 (CF)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-heights|The Heights]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/othmar|Othmar]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 59873ecf-6f7c-4b1b-85bd-b35b79b913de<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Heights<br>
-**Tags:** fcoh,the-heights-location,cat-shop,type-other-services,other-services
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

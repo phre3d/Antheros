@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, import, landmark, the-labyrinth, type-gaming]
+tags: [Entertainment/gaming, Entertainment/tavern, Haven/labyrinth, Plot/Free-City-of-Haven]
 title: "Rocky's Tavern and Arena"
-date modified: 2026-07-16, 9:18:49 pm
+date modified: 2026-08-20, 8:01:33 pm
 ---
 
 # Rocky's Tavern and Arena
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Gaming (Entertainment) <br>
+>**Owner:**  [[people/rocky|Rocky]] <br>
+>**District:**  <br>
+>**Grid (Key) Ref.:**    N04 (FT)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Bets and gaming
 
@@ -32,95 +37,11 @@ Fighting cocks should be rated at the beginning of their careers for HP (2d6 + 8
 
  Each time a cock wins a fight, it gains 1 point of experience. If it kills its opponent while sustaining less than half its HP in damage, it gains 2 experience points. These may be added to HP (1HP for 2EP) or to DEX (1 point for 3EP). Cocks start fighting at about 6 months of age, and seldom live beyond 60 months. Their fighting prime ends at about 30 months of age, and a saving roll against 1/2 DEX is required monthly after this to avoid the loss of a point of DEX; 1 point is lost automatically every 4 months in any case.
 
- [[settlements/the-labyrinth|The Labyrinth]] is a reasonably fertile source of fighting cocks. The inhabitants frequently care more for their birds than for their children. Two of the larger cock breeder/trainers in the area are Nelido Silver- thumb and Benno the Crab (a bent and gnarled little man with a peculiar way of walking sidewise). Both are frequently in attendance at [[people/rocky|Rocky]]'s, and are happy to sell birds to those wishing to buy - a good bird (reroll any HP or DEX result of 13 or less) will normally cost about 250 GP.
+ [[settlements/haven/the-labyrinth/the-labyrinth|The Labyrinth]] is a reasonably fertile source of fighting cocks. The inhabitants frequently care more for their birds than for their children. Two of the larger cock breeder/trainers in the area are Nelido Silver- thumb and Benno the Crab (a bent and gnarled little man with a peculiar way of walking sidewise). Both are frequently in attendance at [[people/rocky|Rocky]]'s, and are happy to sell birds to those wishing to buy - a good bird (reroll any HP or DEX result of 13 or less) will normally cost about 250 GP.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Gaming (Entertainment)**
-
- **Owner:**  Rocky
-
- **District:**  
-
- **Grid (Key) Ref.:**   N04 (FT)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/rocky|Rocky]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 6891be71-604f-4fdc-8aa2-5b27876362ef<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Labyrinth<br>
-**Tags:** fcoh,the-labyrinth-location,cat-entertainment,type-gaming,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

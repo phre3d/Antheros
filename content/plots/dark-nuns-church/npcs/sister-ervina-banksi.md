@@ -1,21 +1,17 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, npc, person]
+tags: [Person, Person/npc, Plot/Dark-Nuns-Church]
 title: Sister Ervina Banksi
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 # Sister Ervina Banksi
 
-###
+>[!info] Portrait
+>![[plots/dark-nuns-church/images/sister-ervina-banksi-nolabel.png]]
 
-**Full Name:**
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
+
 # Description 
 Sister Ervina Banksi is a 38 year old female lightfoot halfling acolyte.
 
@@ -32,198 +28,8 @@ Sister Ervina Banksi is a 38 year old female lightfoot halfling acolyte.
 
 # Plot Hook 
 - She has been hexed and is now constantly hungry.
-- Appears in the [[plots/dark-nuns-church|Dark Nun's Church]]
+- Appears in the [[plots/dark-nuns-church/dark-nuns-church|Dark Nun's Church]]
 
 ---
 
-# Physical Description
-## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## Personal History
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Personality Characteristics
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Relationships
-
-## Parents
-
-| Biological | Adoptive |
-|------------|----------|
-|<br> | <br> |
-
-## Siblings
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/sister-ervina-banksi-person)
-
-## Children
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/sister-ervina-banksi-person)
-
-## Ancestors
-**See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/sister-ervina-banksi-person)
-
-````
-````col-md
-![[~attachments/.jpg]]
----
-
-
-
-
-#### Presentation
-**Eyes:**  Blue<br>
-**Hair:** Long, wavy, grey<br>
-**Pigmentation:** Soft golden<br>
-**Height:**  3' 1"<br>
-**Weight:** <br>
-**Sex:** Female<br>
-
-#### Origins
-**Family:** <br>
-**Race:** [[race/halfling-race|Halfling Race]]<br>
-
-
-#### Birth
-**Age:**  38<br>
-**Date of Birth:**  <br>
-**Place of Birth:** <br>
-
-#### Death
-**Date of Death:**  <br>
-**Place of Death:** <br>
-**Circumstances of Death:** 
-
-#### Current State
-**Alignment:** <br>
-**Known Language(s):**  <br>
-**Current Status:** <br>
-**Current Residence:** <br>
-**Current Location:**  <br>
-
-#### Affiliations
-**Deity:**  <br>
-**Affiliated Organization:**  <br>
-
-
-
----
-
-
-````
-`````
-
----
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+*Source:* The Dark Nun's Church

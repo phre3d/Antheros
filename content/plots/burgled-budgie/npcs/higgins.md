@@ -1,13 +1,24 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, npc, person]
+tags: []
 title: Name
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
+---
+
+---
+
+aliases: []
+tags: [npc, person, plot/Burgled-Budgie]
+title: Name
+date modified: 2026-07-25, 4:55:14 pm
 ---
 
 # Name
 
-Medium, human, Lawful Neutral
+>[!info] Portrait
+>![[plots/burgled-budgie/images/higgins.jpg]]
+
+*Medium, human, Lawful Neutral*
 
 Higgins will accompany the PCs as they search for clues and interview the manor’s inhabitants.
 
@@ -15,8 +26,6 @@ If the PCs discuss the crime with Higgins, he will admit that although Lady Wind
 
 If asked about the other staff, he notes that several of the maids approached him throughout the day to let him know that Jane was missing from her bed during the night, but he doesn’t know why and hasn’t had the chance to question her himself. Nevertheless, he trusts all of his staff, as he interviews them personally before they’re brought into the household as servants.
 
->[!infobox]
->![[plots/burgled-budgie/images/higgins.jpg]]
 
 ---
 

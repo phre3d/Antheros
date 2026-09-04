@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item]
+tags: [Item/magic-item]
 title: Pomander of Warding
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Pomander of Warding
@@ -29,14 +29,14 @@ Undead creatures of CR 2 or lower that enter this area must make a Wisdom saving
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Aqua Regia|Aqua Regia]]<br>
+**Base:** [[/materials/aqua-regia|Aqua Regia]]<br>
 **Essence(s):** Air    Shadow  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -51,4 +51,3 @@ Undead creatures of CR 2 or lower that enter this area must make a Wisdom saving
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

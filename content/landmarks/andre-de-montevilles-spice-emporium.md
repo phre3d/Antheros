@@ -1,118 +1,37 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/provenders, import, landmark, spices, the-south-docks, type-spices]
+tags: [Haven/commons/south-docks, Organization/professional/guild-of-provenders, Plot/Free-City-of-Haven, Shop, Shop/consumable/spices]
 title: "Andre de Monteville's Spice Emporium"
-date modified: 2026-07-16, 9:18:58 pm
+date modified: 2026-08-20, 8:01:31 pm
 ---
 
 # Andre de Monteville's Spice Emporium
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Spices (Shopping) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-commons/the-south-docks|The South Docks]] <br>
+>**Grid (Key) Ref.:**    V07 (BR)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Right off the boat fresh!
+## Right off the boat fresh
 
 ## Description
 
-Seller of imported spices
+Seller of [[people/imported|Imported]] spices
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Spices (Shopping)**
-
- **Owner:**  
-
- **District:**  The South Docks
-
- **Grid (Key) Ref.:**   V07 (BR)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-south-docks|The South Docks]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 54db5f08-11bb-45d0-9aa1-8ad837c952dc<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Docks<br>
-**Tags:** fcoh,the-south-docks-location,cat-shop,type-spices,guild-of-provenders-location,spices
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

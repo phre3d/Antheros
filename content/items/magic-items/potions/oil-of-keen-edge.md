@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Keen Edge
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Keen Edge
@@ -29,14 +29,14 @@ The coated weapon is magical and scores a critical hit on a roll of 19 or 20.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium grease|Lithium grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium grease]]<br>
 **Essence(s):**   Earth  Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -51,4 +51,3 @@ The coated weapon is magical and scores a critical hit on a roll of 19 or 20.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

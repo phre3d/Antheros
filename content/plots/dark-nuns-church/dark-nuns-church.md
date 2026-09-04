@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, plot]
+tags: [Plot, Plot/Dark-Nuns-Church]
 title: "Dark Nun's Church"
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ![[plots/dark-nuns-church/images/the-dark-nuns-church-header.jpg]]
@@ -14,7 +14,7 @@ date modified: 2026-07-16, 9:18:16 pm
 flexGrow=2.5
 ===
 # Foreword 
-What follows is taked from the  ** *The Dark Nun's Church* **  module published by [Penny Blood Adventures](https://www.pennybloodadventures.com/). It has been changed to fit the world and campaign (and to adjust some grammar that bothered me).
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
 
 # Introduction 
 People are going missing. Religious chanting can be heard in the middle of the night. A foul smell rises from the depths of a dark and evil church!
@@ -72,7 +72,7 @@ People from Kilwich have been taken against their will to the church. The innkee
 
  **Editor:**  Mike Paulick
 
-### Special Thanks
+## Special Thanks
 
 To my wife and to my two adventurers in arms, Jake and Dom.
 

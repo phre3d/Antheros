@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Climbing
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Climbing
@@ -27,14 +27,14 @@ When you drink this potion, you gain a climbing speed equal to your walking spee
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):** Air    <br>
 **Spell Needed:**  <br>
 **Other:** Giant Spider Leg
@@ -49,4 +49,3 @@ When you drink this potion, you gain a climbing speed equal to your walking spee
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

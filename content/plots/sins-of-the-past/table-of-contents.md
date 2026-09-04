@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/Sins_of_the_Past, toc]
+tags: [Plot/Sins-of-the-Past, toc]
 title: table-of-contents
-date modified: 2026-07-16, 9:18:11 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 **[[plots/sins-of-the-past/sins-of-the-past|Sins of the Past]]**   OR   **[[plots/sins-of-the-past/bridge-intro|Bridge Intro]]** <br>

@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Zbyssso
-date modified: 2026-07-16, 9:18:28 pm
+date modified: 2026-08-20, 8:03:31 pm
 ---
 
 # Zbyssso
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Goblin<br>
 **Profession:** Wizard/3rd<br>
 **Challenge Rating:** 5<br>
@@ -20,30 +17,16 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 14 - None<br>
 **Hit Points:** 14<br>
-**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 30&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 11 (+0) | 9 (-1) | 16 (+3) | 16 (+3) | 8 (-1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Intelligence | Wisdom<br>
-**Languages:** Goblin | Common<br>**Challenge:** 5 / (XP)<br>**Senses:** <br>
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Languages:** Goblin | Common<br>
+**Challenge:** 5 / (XP)<br>
+**Senses:** <br>
 
 # Actions
 

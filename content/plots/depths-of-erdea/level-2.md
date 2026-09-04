@@ -1,20 +1,35 @@
 ---
 aliases: []
-tags: [plot/depths-of-erdea, import, plot]
+tags: [Plot, Plot/Depths-of-Erdea]
 title: Level 2
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ![[plots/depths-of-erdea/images/depths-of-erdea-header.png]]
 
 # Level 2
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
-# Notes 
+>[!info]
+>![[plots/depths-of-erdea/table-of-contents]]
+>
+>---
+>
+>![[plots/depths-of-erdea/maps/depths-of-erdea-level-2.webp]]
+> 
+>---
+>
+>## Wandering Monster Table
+>
+>| <center>2d3</center> | Result  |
+>|---|---|
+>| <center>2.</center> | Roll on the  [[plots/depths-of-erdea/level-1\|Level 1]] wandering monster table.  |
+>| <center>3.</center> | 1d4 Giant Weasels. If this encounter is in an<br>area adjacent to a secret door, there is a 50%<br>chance that the weasels are coming through <br>said door.  |
+>| <center>4.</center> | 1d3 Carcass Scavengers  |
+>| <center>5.</center> | 1 Troll  |
+>| <center>6.</center> | Roll on the [[plots/depths-of-erdea/level-1\|Level 1]] wandering monster table.  |
+>
+> \* There are no wandering monsters in areas 41, 42 and 43.
+
 This level contains three distinct sub-levels. The main areas (24-37) are linked to level 1 above and level 2 below. Areas 38-40 are a series of secret chambers and passages that link to the main areas as well as having their own stairs access to level 3. This secret area was once the home of the family assassin, but is now overrun with giant weasels who have learned how to trigger the level's secret doors. All secret doors on this level are opened by applying pressure to a “loose” stone one foot above floor level (or in the case of the one in the floor, one foot from the outer edge of the door). Finally, the family crypt in areas 41-43 also have their own links to the levels above and below.
 
 ## Entrances & Egresses 
@@ -25,9 +40,9 @@ This level contains three distinct sub-levels. The main areas (24-37) are linked
 - **Area 42:**  stairs up to level 1, area 23.
 
 ## Wandering Monsters 
-Roll every turn, 1 in 6 chance. Roll 2d3 on the wandering monster chart below.
+Roll every turn, 1 in 6 chance. Roll 2d3 on the wandering monster chart at right. Note that there are NO wandering monsters in areas 41, 42 and 43.
 
-![[~attachments/dndline.png]]
+
 
 # Level 2 Key 
 ## 24. Great Hall 
@@ -89,40 +104,12 @@ The northern portion of this space has an arched ceiling and magical stone shelv
 
 ## 43. Embalming Chamber 
 The door to this room is locked. There is a massive stone table in the centre of the room, and jars of embalming fluid surrounding it.
-```
 
-```col-md
-![[plots/depths-of-erdea/table-of-contents]]
 
-![[~attachments/dndline.png]]
 
-**<center>Wandering Monster Table</center>**
-
-| <center>2d3</center> | Result  |
-|---|---|
-| <center>2.</center> | Roll on the  [[plots/depths-of-erdea/level-1\|Level 1]] wandering monster table.  |
-| <center>3.</center> | 1d4 Giant Weasels. If this encounter is in an area adjacent to a secret door, there is a 50% chance that the weasels are coming through said door.  |
-| <center>4.</center> | 1d3 Carcass Scavengers  |
-| <center>5.</center> | 1 Troll  |
-| <center>6.</center> | Roll on the [[plots/depths-of-erdea/doe_-level-1\|Level 1]] wandering monster table.  |
-
- * There are no wandering monsters in areas 41, 42 and 43.
-
-![[~attachments/dndline.png]]
-
-```
-````
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-Previous: [[plots/depths-of-erdea/level-1|Level 1]]
-```
-
-```col-md
-textAlign=right
-===
-Next: [[plots/depths-of-erdea/level-3|Level 3]]
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/depths-of-erdea/level-1" class="internal-link">Level 1</a></span>
+  <span class="nav-next">Next: <a href="plots/depths-of-erdea/level-3" class="internal-link">Level 3</a> →</span>
+</div>

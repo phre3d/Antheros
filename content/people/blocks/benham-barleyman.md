@@ -1,16 +1,13 @@
 ---
 aliases: []
-tags: [import, npc, person, statblock]
+tags: [Person, Person/npc, statblock]
 title: Benham Barleyman
-date modified: 2026-07-16, 9:18:34 pm
+date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Benham Barleyman
 
-````col
-```col-md
-flexGrow=2
-===
+
 **Race:** Lightfoot Halfling<br>
 **Profession:** Rogue/8th<br>
 **Challenge Rating:** 9<br>
@@ -20,30 +17,18 @@ flexGrow=2
 **Alignment:** Unaligned<br>
 **Armour Class:** 17 - Padded<br>
 **Hit Points:** 33<br>
-**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:* 0
-
-![[dndline.png]]
+**Movement:** 25&nbsp;&nbsp;&nbsp;&nbsp; *Burrow:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Swim:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Climb:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Fly:* 0&nbsp;&nbsp;&nbsp;&nbsp; *Hover:*
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 | 9 (-1) | 17 (+3) | 8 (-1) | 8 (-1) | 15 (+2) | 13 (+1) |
 
-![[dndline.png]]
-
 **Saving Throws:** Dexterity | Intelligence<br>
-**Condition Immunities:** Adv. Vs. Fear<br>**Languages:** Halfling | Common<br>**Challenge:** 9 / (XP)<br>**Senses:** <br>**Skills:** Lucky | Halfling Nimbleness | Naturally Stealthy
-
-```
-
-```col-md
-
-**Source:** The Free City of Haven<br>
-
-
-```
-````
-
-![[dndline.png]]
+**Condition Immunities:** Adv. Vs. Fear<br>
+**Languages:** Halfling | Common<br>
+**Challenge:** 9 / (XP)<br>
+**Senses:** <br>
+**Skills:** Lucky | Halfling Nimbleness | Naturally Stealthy
 
 # Actions
 

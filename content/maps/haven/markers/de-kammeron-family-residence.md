@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1882.653, 5890.493]
 mapmarker: Residence
 title: de Kammeron Family Residence
-date modified: 2026-07-16, 9:18:42 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # de Kammeron Family Residence

@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of the Glib Tongue
-date modified: 2026-07-16, 9:18:59 pm
+date modified: 2026-08-17, 12:46:30 pm
 ---
 
 # Potion of the Glib Tongue
@@ -31,14 +31,14 @@ A minor noble with social anxiety had the keep's alchemist devise a potion to le
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium Grease]]<br>
 **Essence(s):** Air    Fire  Life  <br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ A minor noble with social anxiety had the keep's alchemist devise a potion to le
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

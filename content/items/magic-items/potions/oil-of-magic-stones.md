@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Oil of Magic Stones
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Oil of Magic Stones
@@ -31,14 +31,14 @@ If thrown, they have the Thrown property, a range of 20/60 feet, and deal 1d4 da
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 0.5 weeks<br>
 **Crafting DC:** 10
 
 ## Ingredients
 
-**Base:** [[/materials/Calcium grease|Calcium grease]]<br>
+**Base:** [[/materials/calcium-grease|Calcium grease]]<br>
 **Essence(s):**   Earth  <br>
 **Spell Needed:**  <br>
 **Other:** 10 drops of nitric acid
@@ -53,4 +53,3 @@ If thrown, they have the Thrown property, a range of 20/60 feet, and deal 1d4 da
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

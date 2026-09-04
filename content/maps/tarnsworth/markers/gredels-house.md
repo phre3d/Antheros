@@ -1,9 +1,13 @@
 ---
 aliases: []
-tags: [map-marker, tarnsworth]
-title: gredels-house
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-09-02, 1:13:17 pm
+location: [353, 673]
+mapmarker: Residence
+tags: [Map/marker, Settlement/tarnsworth]
+title: "Gredel's House"
 ---
+
+# Gredel's House
 
 **Description** <br>
 The house of Gredel

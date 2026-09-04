@@ -1,15 +1,14 @@
 ---
 aliases: []
-tags: [import, map-marker-group]
-title: government
-date modified: 2026-07-16, 9:18:42 pm
+tags: [Map/marker-group]
+title: Markers in the group
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
-**Markers in the group:**
+# Government Markers
 
-- [[maps/haven/markers/courts]]
-- [[maps/haven/markers/the-navy-yard-of-haven]]
-- [[maps/haven/markers/hall-of-the-council-of-boroughs]]
-- [[maps/haven/markers/the-gray-halls]]
-- [[maps/haven/markers/the-mint]]
-- [[maps/haven/markers/mayors-palace]]
+```dataview
+LIST WITHOUT ID link(file.name, title)
+FROM "maps/haven/markers"
+WHERE mapmarker = "Government"
+```

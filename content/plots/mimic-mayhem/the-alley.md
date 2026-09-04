@@ -1,18 +1,27 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, plot]
+date modified: 2026-08-26, 2:30:50 pm
+tags: [Plot, Plot/Mimic-Mayhem]
 title: The Snow Shrine
-date modified: 2026-07-16, 9:18:14 pm
 ---
 
 ![[plots/mimic-mayhem/images/mimic-mayhem-header.jpg]]
 
 # The Snow Shrine
 
+>[!info]
+>![[plots/mimic-mayhem/images/alley-dm-map.jpg]]
+>
+>---
+>
+>![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
+>
+>---
+
 Upon exiting the stable, a new scene unfolds…
 
 >[!read-aloud]
->Emerging from the stable, your eyes are momentarily blinded by the bright sunlight glaring off the snow. You hear the playful flirty voices of Milo and Rosy. As your vision comes into focus, you see the halfling pilgrims are building something out of snow.
+>Emerging from the stable, your eyes are momentarily blinded by the bright sunlight glaring off the snow. You hear the playful flirty voices of Mazlo and Rosy. As your vision comes into focus, you see the halfling pilgrims are building something out of snow.
 
 A DC 12 Investigation or Religion check will recognize the snow sculpture as a crude shrine to Fharlanghn.
 
@@ -21,7 +30,7 @@ Their pilgrimage was supposed to culminate with the building of a shrine. They s
 After some interaction, read the following:
 
 >[!read-aloud]
->Milo’s belly grumbles loudly and he glances over at the outhouse, clearly waiting for the current occupant to emerge. Clutching his belly he winces and says, “I don’t think those rat meat  sausages agreed with me.”
+>Mazlo’s belly grumbles loudly and he glances over at the outhouse, clearly waiting for the current occupant to emerge. Clutching his belly he winces and says, “I don’t think those rat meat  sausages agreed with me.”
 >
 >“Me neither,” says Rosy, also eyeing the outhouse. “But I don’t think it was rat meat. My great aunt Bilba would always make rat meat pies for Mid-Winter Feast and they– “ she belches loudly with a sour face, “ –and they tasted very different.”
 >
@@ -90,33 +99,9 @@ Buried characters are grappled. It takes a *DC 10 Athletics check to emerge from
 
 After this fight, they will continue on to the back of the [[plots/mimic-mayhem/the-solution|gift shop]].
 
->[!infobox]
->![[plots/mimic-mayhem/images/alley-dm-map.jpg]]
->
->---
->
->![[plots/mimic-mayhem/table-of-contents|Table of Contents]]
->
->---
-
-<!-- Standard footer using "Multi-Columns" plugin -->
-
----
-
----start-multi-column ---
-
-```column-settings
-number of columns: 2
-column size: [49%, 49%]
-border: off
-shadow: off
-alignment: [Left, Right]
-```
-
-Previous: [[plots/mimic-mayhem/the-stable|The Stable]]
-
---- end-column ---
-
-Next: [[plots/mimic-mayhem/the-solution|The Solution]]
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/mimic-mayhem/the-stable" class="internal-link">The Stable</a></span>
+  <span class="nav-next">Next: <a href="plots/mimic-mayhem/the-solution" class="internal-link">The Solution</a> →</span>
+</div>

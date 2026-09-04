@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [1413.265, 2250.697]
 mapmarker: Inns & Taverns
 title: "Dunk's Tavern"
-date modified: 2026-07-16, 9:18:41 pm
+date modified: 2026-08-17, 12:46:26 pm
 ---
 
 # Dunk's Tavern

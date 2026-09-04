@@ -1,23 +1,23 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, npc, person]
+tags: [Person, Person/npc, Plot/Burgled-Budgie]
 title: Herbert Spillwyrt
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 # Herbert Spillwyrt
 
-Medium humanoid (half-elf), N
+>[!info] Portrait
+>[!info] Portrait[[plots/burgled-budgie/images/herbert-spillwyrt.webp]]
+>(AI created)
+
+*Medium humanoid (half-elf), Neutral*
 
 **Profession:** Wizard (18th)
 
 **Armour Class:** 12 (15 with Mage Armour)<br>
 **Hit Points:** 99 (18d8 + 18)<br>
 **Movement:** 30 ft.
-
->[!infobox]
->![[plots/burgled-budgie/images/herbert-spillwyrt.webp]]
->(AI created)
 
 ---
 
@@ -44,13 +44,13 @@ Medium humanoid (half-elf), N
 
 Herbert is arrogant, rude, and self-centered. He is accustomed to getting his way, and thinks (often rightly) that he is the smartest person in the vicinity. Although he is fastidiously clean himself, he often works in cluttered environments.
 
----
+
 
 # Special Abilities
 
 **Magic Resistance.** Hubert has advantage on saving throws against spells and other magical effects.
 
----
+
 
 # Spellcasting
 
@@ -78,7 +78,7 @@ He can cast *shield* and *enlarge/reduce* at will and has the following wizard s
 
 - **9th level** (1 slot): *true polymorph*
 
----
+
 
 # Actions
 

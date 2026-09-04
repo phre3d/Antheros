@@ -1,13 +1,16 @@
 ---
 aliases: []
-tags: [plot/Mimic-Mayhem, npc, person]
-date modified: 2026-07-16, 9:18:14 pm
+date modified: 2026-08-26, 2:29:24 pm
+tags: [Person, Person/npc, Plot/Mimic-Mayhem]
 title: Granny Pickles
 ---
 
 # Granny Pickles
 
-medium, humanoid (human), chaotic good
+>[!info] Portrait
+>![[plots/mimic-mayhem/images/granny-pickles.png]]
+
+*medium, humanoid (human), chaotic good*
 
 **Profession:** Cook
 
@@ -15,25 +18,15 @@ medium, humanoid (human), chaotic good
 **Hit Points:** 3<br>
 **Movement:** 25'
 
----
-
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 |---------|---------|---------|---------|---------|---------|
 |  () |  () |  () |  () |  () |  () |
-
----
 
 **Languages:** common<br>
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->![[plots/mimic-mayhem/images/granny-pickles.png]]
-
----
-
 # Description
 
----
-
-**Source:** [[plots/mimic-mayhem/mimic-mayhem|Mimic Mayhem]]
+<hr>
+**Source:** Mimic Mayhem

@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [map-marker]
+tags: [Map/marker]
 location: [4801.02, 4953.758]
 mapmarker: Shopping
 title: U.N. Owen - Jeweler
-date modified: 2026-07-16, 9:18:39 pm
+date modified: 2026-08-17, 12:46:24 pm
 ---
 
 # U.N. Owen - Jeweler
@@ -20,7 +20,7 @@ date modified: 2026-07-16, 9:18:39 pm
 
 **Map Ref:** Map Ref.: P16 (GI)
 
-**Location:** [[landmarks/u.n.-owen-jeweler|U.N. Owen - Jeweler]]<br>
+**Location:** [[landmarks/un-owen-jeweler|U.N. Owen - Jeweler]]<br>
 **Location Type:** Jeweler
 
 **Description**<br>

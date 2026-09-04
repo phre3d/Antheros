@@ -1,118 +1,37 @@
 ---
 aliases: []
-tags: [cat-shop, Free_City_of_Haven, guild/drayers, import, landmark, the-commons, type-warehouse, warehouse]
+tags: [Building/warehouse, Haven/commons, Organization/professional/guild-of-drayers, Plot/Free-City-of-Haven, Shop, Shop/service/warehouse]
 title: "D'Lormaii Warehouses"
-date modified: 2026-07-16, 9:18:57 pm
+date modified: 2026-08-20, 8:01:32 pm
 ---
 
 # D'Lormaii Warehouses
 
---- start-multi-column: MainBody
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Warehouse (Service) <br>
+>**Owner:**   <br>
+>**District:** [[settlements/haven/the-commons/the-commons|The Commons]] <br>
+>**Grid (Key) Ref.:**    U07 (BQ)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Warehouse, Commercial  <br>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
-
-## Boxes and barrels and sacks, oh my!
+***Boxes and barrels and sacks, oh my***
 
 ## Description
 
 Just a big boring building with boxes, crates, sacks, barrels, etc.  And some rats
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Warehouse (Service)**
-
- **Owner:**  
-
- **District:**  The Commons
-
- **Grid (Key) Ref.:**   U07 (BQ)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Warehouse, Commercial
-
-**Parent Location:**
-
-[[settlements/the-commons|The Commons]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** <br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 3a5f7e56-5d1b-4fa7-a2e3-b7591b5c3c19<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Commons<br>
-**Tags:** fcoh,the-commons-location,cat-shop,type-warehouse,guild-of-drayers-location,warehouse
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

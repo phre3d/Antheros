@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [plot/dark-nuns-church, import, monster, statblock]
+tags: [Monster, Plot/Dark-Nuns-Church, statblock]
 title: Actions
-date modified: 2026-07-16, 9:18:16 pm
+date modified: 2026-08-17, 12:45:57 pm
 ---
 
 ````col
@@ -48,7 +48,7 @@ Tiny Construct Neutral Evil
 
 # Actions
 
-### Razor Sharp Nails
+## Razor Sharp Nails
 
   **Melee Weapon Attack:**  +3 to hit , tech 5 ft., one target.
 

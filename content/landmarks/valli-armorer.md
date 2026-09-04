@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [armor, armorers-guild, cat-shop, Free_City_of_Haven, import, landmark, the-dwarrow, type-armor]
+tags: [Haven/outlands/dwarrow, Organization/professional/armorers-guild, Plot/Free-City-of-Haven, Shop, Shop/goods/armor]
 title: Valli - Armorer
-date modified: 2026-07-16, 9:18:43 pm
+date modified: 2026-08-20, 8:01:35 pm
 ---
 
 # Valli - Armorer
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Armor (Shopping) <br>
+>**Owner:**  [[people/valli|Valli]] <br>
+>**District:** [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]] <br>
+>**Grid (Key) Ref.:**    B15 (HR)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Shop, Generic  <br>
 
 ## Protection with Comfort
 
@@ -56,95 +61,9 @@ Normally Good, at present Mediocre/Good
 
 As the sign implies, [[people/valli|Valli]]'s specialty is making chain armor that provides normal protection, but inhibits its wearer's activities less. For 2x his normal rates, [[people/valli|Valli]] can make a suit of chain that does not reduce characters DEX when worn, and reduces DEX by only -1 (normal penalties are -1 and -2 respectively).
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Armor (Shopping)**
-
- **Owner:**  Valli
-
- **District:**  The Dwarrow
-
- **Grid (Key) Ref.:**   B15 (HR)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Shop, Generic
-
-**Parent Location:**
-
-[[settlements/the-dwarrow|The Dwarrow]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/valli|Valli]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** 73c16ca8-454b-4ccd-b0c5-7850bedefebd<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The Dwarrow<br>
-**Tags:** fcoh,the-dwarrow-location,cat-shop,type-armor,armorers-guild-location,armor
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

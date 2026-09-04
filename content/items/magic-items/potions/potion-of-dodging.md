@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Potion of Dodging
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Potion of Dodging
@@ -31,14 +31,14 @@ Commissioned by the warlord Oriias to boost his chances of survival in combat.
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium Grease]]<br>
 **Essence(s):** Air    Fire  Water<br>
 **Spell Needed:**  <br>
 **Other:**
@@ -53,4 +53,3 @@ Commissioned by the warlord Oriias to boost his chances of survival in combat.
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

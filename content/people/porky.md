@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [import, npc, person, supporting-cast, the-city-watch]
+tags: [Campaign/supporting-cast, Person, Person/npc, Plot/The-City-Watch]
 title: Porky
-date modified: 2026-07-16, 9:18:21 pm
+date modified: 2026-08-20, 8:03:23 pm
 ---
 
 # Porky
@@ -11,121 +11,19 @@ date modified: 2026-07-16, 9:18:21 pm
 
 **Full Name:**  Henk      Porky
 
-`````col
-````col-md
-flexGrow=2.5
-===
 # General Info
+
 A somewhat overweight, ageing, half-orc. Former adventuring partner of Lyza and Marcus, now the proprietor of The Giggling Gryphon.
 
-![[dndline.png]]
-
 # Physical Description
+
 ## General Physical Condition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 ## Personal History
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Personality Characteristics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
-
 # Social
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[dndline.png]]
 
 # Relationships
 
@@ -136,18 +34,21 @@ A somewhat overweight, ageing, half-orc. Former adventuring partner of Lyza and 
 |<br> | <br> |
 
 ## Siblings
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/porky-person)
 
 ## Children
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/porky-person)
 
 ## Ancestors
+
 **See:** [World Anvil Link](https://www.worldanvil.com/w/antheros-phre3d/a/porky-person)
 
 ````
 ````col-md
-![[~attachments/.jpg]]
-![[dndline.png]]
+IMAGE
+
 
 
 
@@ -162,7 +63,7 @@ A somewhat overweight, ageing, half-orc. Former adventuring partner of Lyza and 
 
 #### Origins
 **Family:** <br>
-**Race:** [[race/half-orc-race|Half-Orc Race]]<br>
+**Race:** [[races/half-orc|Half-Orc]]<br>
 
 
 #### Birth
@@ -188,26 +89,9 @@ A somewhat overweight, ageing, half-orc. Former adventuring partner of Lyza and 
 
 
 
-![[dndline.png]]
+
 
 
 ````
+
 `````
-
-![[dndline.png]]
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

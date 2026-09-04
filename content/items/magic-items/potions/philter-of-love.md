@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/potion]
+tags: [Item/magic-item/potion]
 title: Philter of Love
-date modified: 2026-07-16, 9:19:02 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Philter of Love
@@ -27,14 +27,14 @@ You become charmed by the first creature you see within the first ten minutes of
 
 ## Crafting
 
-**Crafted By:** [[profession/|Herbalist]]<br>
+**Crafted By:** [[professions/herbalist|Herbalist]]<br>
 **Crafter Level:** Level 1+<br>
 **Crafting Time:** 1 weeks<br>
 **Crafting DC:** 15
 
 ## Ingredients
 
-**Base:** [[/materials/Alcohol|Alcohol]]<br>
+**Base:** [[/materials/alcohol|Alcohol]]<br>
 **Essence(s):**   Life  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Brewed on a new moon
@@ -49,4 +49,3 @@ You become charmed by the first creature you see within the first ten minutes of
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

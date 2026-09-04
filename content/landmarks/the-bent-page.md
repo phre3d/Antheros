@@ -1,22 +1,27 @@
 ---
 aliases: []
-tags: [cat-entertainment, entertainment, Free_City_of_Haven, guild/hearth, import, landmark, the-south-corridor, type-tavern]
+tags: [Entertainment/tavern, Haven/south-corridor, Organization/professional/guild-of-the-hearth, Plot/Free-City-of-Haven]
 title: The Bent Page
-date modified: 2026-07-16, 9:18:46 pm
+date modified: 2026-08-20, 8:01:34 pm
 ---
 
 # The Bent Page
 
---- start-multi-column: MainBody
-
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
-
-# Description
+>[!info]
+>IMAGE
+>
+>---
+>
+>**Type:** Tavern (Inns & Taverns) <br>
+>**Owner:**  [[people/arlog-gutray|Arlog Gutray]] <br>
+>**District:** [[settlements/haven/the-south-corridor/the-south-corridor|The South Corridor]] <br>
+>**Grid (Key) Ref.:**    J10 (JG)
+>
+>---
+>
+>**Alternate Name(s):**  <br>
+>**Founding Date:**   <br>
+>**Type:** Pub / Tavern / Restaurant  <br>
 
 ## All night bar
 
@@ -46,7 +51,7 @@ Fair.
 
 ## Cash Box
 
-Each serving maid collects and holds her own tips. The main cash box is hidden under the bar, next to the bouncer. It has no lock and contains 1d6 x 1d8gp in assorted coins.
+Each serving maid collects and holds her own tips. The main cash box is hidden under the bar, next to the bouncer. It has no lock and contains  x 1d8gp in assorted coins.
 
 ## Staff
 
@@ -58,101 +63,15 @@ The bouncer is [[people/urb-brassknuckle|Urb Brassknuckle]], a mean and tough Ur
 
 ## Customers
 
-Folk that come here tend to be students and commoners from [[settlements/the-cauldron|The Cauldron]] looking for a night on the town for a good price.
+Folk that come here tend to be students and commoners from [[settlements/haven/the-outlands/the-cauldron|The Cauldron]] looking for a night on the town for a good price.
 
 ## Outstanding Items
 
 Arlog enjoys reading and has amassed a collection of over 500 books. They are in his private library near his personal quarters, which are on the second floor of the shop.
 
-# Purpose / Function
-
-# Design
-
-# Entries & Exits
-
-# Sensory & Appearance
-
-# Denizens
-
-# Contents & Furnishings
-
-# Valuables
-
-# Hazards & Traps
-
-# Special Properties
-
-# Architecture
-
-# Alterations
-
-# Defences
-
-# Environment & Effects
-
-# History
-
-# Tourism
-
---- end-column ---
-
-**Image:** n/a
-
-**Tavern (Inns & Taverns)**
-
- **Owner:**  Arlog Gutray
-
- **District:**  The South Corridor
-
- **Grid (Key) Ref.:**   J10 (JG)
-
----
-
-**Alternate Name(s):**  
-
-**Founding Date:**
-
-**Date of Ruin:**
-
-**Type:** Pub / Tavern / Restaurant
-
-**Parent Location:**
-
-[[settlements/the-south-corridor|The South Corridor]]
-
-**Connected Rooms:**
-
-**Ruler/Owner:** [[people/arlog-gutray|Arlog Gutray]]<br>
-**Owner Rank:** <br>
-**Additional Ruler/Owner(s):**
-
-**Owning Organization:** <br>
-**Organizations Contesting Ownership:**
-
-**Included Vehicle:** n/a
-
----
-
-### World Anvil Metadata
-
-**Id:** d5976734-958f-46d4-be01-ee5915b28d02<br>
-**Entity Type:** Article / landmark<br>
-**Category:** Places: The South Corridor<br>
-**Tags:** fcoh,the-south-corridor-location,cat-entertainment,type-tavern,guild-of-the-hearth-location,entertainment
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="XXXX" class="internal-link">XXXX</a> →</span>
+</div>

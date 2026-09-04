@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [item/magic-item/explosive]
+tags: [Item/magic-item/explosive]
 title: Dragon Egg
-date modified: 2026-07-16, 9:19:03 pm
+date modified: 2026-08-17, 12:46:31 pm
 ---
 
 # Dragon Egg
@@ -29,14 +29,14 @@ If the dragon's egg cask suffers any fire or lightning damage, it explodes at th
 
 ## Crafting
 
-**Crafted By:** [[profession/|Alchemist]]<br>
+**Crafted By:** [[professions/alchemist|Alchemist]]<br>
 **Crafter Level:** Level 5+<br>
 **Crafting Time:** 5 weeks<br>
 **Crafting DC:** 19
 
 ## Ingredients
 
-**Base:** [[/materials/Lithium Grease|Lithium Grease]]<br>
+**Base:** [[/materials/lithium-grease|Lithium Grease]]<br>
 **Essence(s):**   Earth  Fire  Shadow  <br>
 **Spell Needed:**  <br>
 **Other:** Barrel, chest or similar container
@@ -51,4 +51,3 @@ If the dragon's egg cask suffers any fire or lightning damage, it explodes at th
 ---
 
 *Source:*     <!-- Original Source of the item -->
-

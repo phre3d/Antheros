@@ -6,13 +6,12 @@ name: Ambrosis Pakmydas
 sex: male
 born: 1132
 children:
-  - "[[plots/the-gypsy-train/npcs/albar-pakmydis|Albar Pakmydis]]"
+  - "[[plots/the-gypsy-train/npcs/albar-pakmydis]]"
   - "[[plots/the-gypsy-train/npcs/aldor-pakmydis|Aldor Pakmydis]]"
 children_id:
-  - albar-pakmydis
   - aldor-pakmydis
-tags: [npc, person, plot/The_Gypsy_Train]
-date modified: 2026-07-16, 9:18:12 pm
+tags: [Person, Person/npc, Plot/The-Gypsy-Train]
+date modified: 2026-08-17, 12:45:54 pm
 sibling: "[[plots/the-gypsy-train/npcs/scordraal-pakmydis]]"
 sibling_id: scordraal-pakmydis
 title: Ambrosis Pakmydas
@@ -20,7 +19,10 @@ title: Ambrosis Pakmydas
 
 # Ambrosis Pakmydas
 
-size, race (type), alignment
+>[!info] Portrait
+>IMAGE
+
+*size, race (type), alignment*
 
 **Profession:**
 
@@ -47,8 +49,7 @@ size, race (type), alignment
 **Senses:** <br>
 **Skills:**
 
->[!infobox]
->IMAGE
+
 
 ---
 

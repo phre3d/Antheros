@@ -1,21 +1,35 @@
 ---
 aliases: []
-tags: [Forest_of_Doom, import, plot]
-title: "Key: Forest of Doom"
-date modified: 2026-07-16, 9:18:15 pm
+date modified: 2026-08-29, 2:36:30 pm
+tags: [Plot, Plot/Forest-of-Doom]
+title: Forest of Doom
 ---
 
-# Key: Forest of Doom
+![[plots/forest-of-doom/images/forest-of-doom-header.png]]
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
-# Note 
-*This has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.*
+# Forest of Doom
 
-# Introduction 
+>[!info]
+>![[forest-of-doom-cover.png]]
+>
+>---
+>
+>![[plots/forest-of-doom/table-of-contents]]
+>
+>---
+>
+>**Completion Date:** <br>
+>
+>**Related Characters:**
+>
+>**Related Organizations:**
+>
+>**Related Locations:**
+
+***This adventure has been modified version from the original adventure (full credits, below). It has been changed to fit the world of Antheros and the Haven Irregulars campaign.***
+
+# Introduction
+
 For as far back in time as the tales of history stretch, the area bordering what is now the Lands of Launewt has been a foreboding, practically impenetrable forest. When the lords who ruled the various borderlands united to form the Council of Launewt a century ago, the forest was in the same physical condition as it is now: thick, dark, and expansive, said to be so dense at the center that sunlight pervaded the foliage only on the brightest days.
 
 The forest is also, as it has always been, home to all manner of vicious animals and evil-minded denizen. The animals are generally only dangerous when one intrudes on their territory. The more intelligent evil creatures of the forest, however, often come out to the borderlands to make trouble. In even the oldest historical accounts, mention is made of sporadic raids by the evil creatures on villages and outposts in the borderlands. These tribulations have long been a fact of life for the citizens of the Lands of Launewt – bothersome, sometimes to the extreme, but usually not mounted by a large enough force to do any lasting damage.
@@ -40,42 +54,9 @@ Now, another such opportunity is being offered to a band of adventurers who seem
 
 “We know that goblins are certainly not 'noble' – and, from what we have learned about them, they do not see themselves as noble. These words, if they are more than just the ravings of a mad gob-lin, seem to point to the existence of an evil force stronger and more devious than the goblins themselves. But the exact nature of this force is still unknown to us.
 
-“I strongly suspect,” continued the young lord, “that the creature or organization called 'Arron' is responsible for pulling together the evil creatures of the forest into a fighting force that threatens the life and property of every resident of the Lands of Launewt. As revenge for my father's death, I want proof that the evil designs of Arron have been ruined and the threat to our homeland destroyed. I offer you 5,000 gold pieces as a reward, plus the gratitude of everyone in the Lands of Launewt. Even those who have foolishly refused to recognize the threat will see the wrongness of their views when your proof is put before them.” 
+“I strongly suspect,” continued the young lord, “that the creature or organization called 'Arron' is responsible for pulling together the evil creatures of the forest into a fighting force that threatens the life and property of every resident of the Lands of Launewt. As revenge for my father's death, I want proof that the evil designs of Arron have been ruined and the threat to our homeland destroyed. I offer you 5,000 gold pieces as a reward, plus the gratitude of everyone in the Lands of Launewt. Even those who have foolishly refused to recognize the threat will see the wrongness of their views when your proof is put before them.”
 
 After the adventurers accept the young lord's offer, he concludes his instructions to them with a brief description of how to get to the edge of the forest. It is at this point, on the fringe of the unknown territory, where the adventure begins.
-
-```
-
-```col-md
-
-![[forest-of-doom-cover.png]]
-
----
-
-![[table-of-contents]]
-
----
-
-**Completion Date:** <br>
-
-**Parent Plot:**  
-
-**Related Characters:**
-
-**Related Organizations:**
-
-**Related Locations:**
-
----
-
-### World Anvil Metadata
-**Id:** 6b9d7813-3339-4536-919e-f73d2250c9ae<br>
-**Entity Type:** Article / plot<br>
-**Category:** Module: Forest of Doom<br>
-**Tags:** FoD-plot
-
-```
-````
 
 # Credits
 
@@ -86,17 +67,9 @@ For a party of 4-8 characters, each of 4th-7th level<br>
 First place, Module Design Contest category A-2<br>
 As published in  *Dragon Magazine* , issue 73, May 1983
 
----
-
-````col
-```col-md
-
-```
-
-```col-md
-
-Next:
-350849f5-1244-4df4-92ee-c7a96bc702f8
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">   </span>
+  <span class="nav-next">Next: <a href="plots/forest-of-doom/general-information" class="internal-link">General Information</a> →</span>
+</div>

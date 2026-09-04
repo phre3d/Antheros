@@ -1,17 +1,15 @@
 ---
 aliases: []
-tags: [import, plot/Murder-at-the-Old-Wolf-Inn, npc, person]
+tags: [Person, Person/npc, Plot/Murder-at-the-Old-Wolf-Inn]
 title: William Fastfinger
-date modified: 2026-07-16, 9:18:13 pm
+date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # William Fastfinger
 
-`````col
-````col-md
-flexGrow=2.5
-===
-# General Info
+>[!info]
+>![[plots/murder-at-the-old-wolf-inn/table-of-contents]]
+
 William Fastfinger is a male gnome bandit (CG). He has wavy hair and an elaborately trimmed short beard that he is very proud of. Several silver piercings decorate one of his ears, and he has a large tattoo in the shape of a soaring dragon on his shoulder.  William wears traveller's clothes, studded leather armour, and a fetching black-and-red chequered cloak.  
 
 He introduces himself as "William the Bard" (see what he hides, below).
@@ -49,25 +47,10 @@ He was present when the smugglers threatened [[plots/murder-at-the-old-wolf-inn/
 
 If asked why he is hiding in the stables, William will claim that he can't afford to rent a room. Howver, if he is pressured, he will admit that he saw two Winterhold Guards in the window and didn't want them to see him because of his “twin brother,” who has been involved in criminal activities.
 
-````
-````col-md
-![[plots/murder-at-the-old-wolf-inn/images/william.png]]
 
-````
-`````
-
-<!-- Standard page footer -->
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="plots/murder-at-the-old-wolf-inn/npcs/vittra-northdaughter" class="internal-link">Vittra Northdaughter</a></span>
+  <span class="nav-next">Next: <a href="plots/murder-at-the-old-wolf-inn/monsters/stenbumling-troll" class="internal-link">Stenbumling Troll</a> →</span>
+</div>

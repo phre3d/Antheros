@@ -1,13 +1,17 @@
 ---
 aliases: []
-tags: [plot/burgled-budgie, npc, person]
+tags: [Person, Person/npc, Plot/Burgled-Budgie]
 title: Tibbles
-date modified: 2026-07-16, 9:18:17 pm
+date modified: 2026-08-17, 12:45:58 pm
 ---
 
 # Tibbles
 
-Cat Familiar, N
+>[!info] Portrait
+>![[plots/burgled-budgie/images/tibbles.jpg]]
+>(AI created)
+
+*Cat Familiar, N*
 
 >[!read aloud]
 >This little orange tabby has white paws and green eyes that sparkle with uncanny intelligence. A black collar of tooled leather is fastened around her neck.
@@ -18,9 +22,6 @@ She can speak aloud thanks to an enchantment on the collar. She won’t willingl
 
 Her collar is a [[plots/burgled-budgie/items/collar-of-communication|Collar of Communication]].
 
->[!infobox]
->![[plots/burgled-budgie/images/tibbles.jpg]]
->(AI created)
 
 ---
 
