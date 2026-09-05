@@ -11,7 +11,7 @@
 3. [[settlements/haven/trade-island/trade-island|Trade Island]]
 4. [[settlements/haven/trade-island/the-bridges|The Bridges]]
 5. [[settlements/haven/the-commons/the-commons|The Commons]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-commons/the-south-docks|The South Docks]]<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-commons/the-south-docks|The South Docks]]<br>
 6. [[settlements/haven/the-labyrinth/the-labyrinth|The Labyrinth]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-labyrinth/the-street-of-silk-veils|The Street of Silk Veils]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-forgotten-city|The Forgotten City]]<br>
@@ -20,14 +20,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-south-corridor/magic-street|Magic Street]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-south-corridor/south-caravan-street|South Caravan Street]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-south-corridor/the-street-of-harps|The Street of Harps]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-south-corridor/the-cleff|The Cleff]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]]
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-south-corridor/the-cleff|The Cleff]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]]
 8. [[settlements/haven/the-outlands/the-outlands|The Outlands]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-outlands/erinhir|Erinhir]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-outlands/the-dell|The Dell]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-outlands/the-cauldron|The Cauldron]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[[settlements/haven/the-outlands/scholars-triangle|Scholar's Triangle]]
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-outlands/erinhir|Erinhir]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-outlands/the-dwarrow|The Dwarrow]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-outlands/the-dell|The Dell]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-outlands/the-cauldron|The Cauldron]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; [[settlements/haven/the-outlands/scholars-triangle|Scholar's Triangle]]
 
 **Governing Haven**<br>
 1. [[settlements/haven/government/government-of-haven|Government]]<br>

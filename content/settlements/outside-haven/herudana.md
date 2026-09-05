@@ -1,26 +1,37 @@
 ---
 aliases: []
-tags: [Plot/Free-City-of-Haven, Settlement/herudana]
-title: Herudana
-date modified: 2026-08-17, 12:45:53 pm
+date modified: 2026-09-04, 12:39:09 pm
+tags: [Settlement]
+title: Heurdana
 ---
 
-# Herudana
+# Heurdana
 
----start-multi-column: MainBody
+>[!info]
+>Map
+>
+>---
+>
+>**Type:** <br>
+>**Other Name(s):** <br>
+>**Population:** <br>
+>**Demonym:** <br>
+>
+>---
+>
+>**Ruler:** <br>
+>**Ruling Organization:**  <br>
+>**Founded:** <br>
+>**Founders:**
+>
+>---
+>
+>**Location:**<br>
+>**Grid (Key) Ref.:**
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+***Tagline***
 
-# Description
-
-Large city
-
-Oriental flavour
+DESCRIPTION GOES HERE
 
 # Demographics
 
@@ -52,48 +63,9 @@ Oriental flavour
 
 # Natural Resources
 
---- end-column ---
-
-**Image:**
-
-**Type:** Large city<br>
-**Other Name(s):** <br>
-**Located In:**
-
-**Population:** <br>
-**Demonym:** <br>
-**Founded:** <br>
-**Runied:**
-
-**Ruler:**  <br>
-**Rank:**  <br>
-**Ruling Organization:**  <br>
-**Other Rulers:**
-
-**Founders:**
-
----
-
-## World Anvil Metadata
-
-**Id:** 9165fd2f-d607-4579-83a7-eae6c838997f<br>
-**Entity Type:** Article / settlement<br>
-**Category:** The Namori Empire<br>
-**Tags:** fcoh,capital
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

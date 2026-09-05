@@ -1,8 +1,8 @@
 ---
 aliases: []
+date modified: 2026-09-04, 1:12:07 pm
 tags: [Monster, Plot/The-City-Watch, statblock]
 title: Special Abilities
-date modified: 2026-08-17, 12:45:55 pm
 ---
 
 ````col

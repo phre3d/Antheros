@@ -28,7 +28,7 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** <br>
 
 **Summary**<br>
-Jillie was supposed to meet [[people/martin|Martin]] at the [[landmark/gryphon|Gryphon]] but doesn't show up.
+Jillie was supposed to meet [[campaign/player-characters/martin-plowhearth|Martin Plowhearth]] at the [[landmarks/the-giggling-gryphon|Gryphon]] but doesn't show up.
 
 **Description**<br>
 

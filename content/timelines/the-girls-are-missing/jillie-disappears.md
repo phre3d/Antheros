@@ -27,7 +27,7 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** <br>
 
 **Summary**<br>
-Jillie disappears sometime between leaving work at noon, and 8pm when she was supposed to meet [[people/martin|Martin]].
+Jillie disappears sometime between leaving work at noon, and 8pm when she was supposed to meet [[campaign/player-characters/martin-plowhearth|Martin]].
 
 Reason is not sinister - her mom is sick and she's helping look after 
 her.

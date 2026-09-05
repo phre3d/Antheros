@@ -12,6 +12,7 @@ date modified: 2026-08-17, 12:45:53 pm
 >
 >---
 >
+>## Table of Content
 >![[settlements/haven/table-of-contents]]
 >
 >---
@@ -166,6 +167,6 @@ Haven is unique in that it has a [[settlements/haven/government/public-transit|P
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>
 <div class="page-nav">
-  <span class="nav-prev">← Previous: <a href="XXXX" class="internal-link">XXXX</a></span>
-  <span class="nav-next">Next: <a href="XXXX" class="internal-link">382855a0-8975-4580-8c45-37b214223a08</a> →</span>
+  <span class="nav-prev">    </span>
+  <span class="nav-next">Next: <a href="settlements/haven/the-heights/the-heights" class="internal-link">The Heights</a> →</span>
 </div>

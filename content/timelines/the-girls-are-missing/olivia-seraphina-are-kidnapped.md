@@ -28,7 +28,7 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** <br>
 
 **Summary**<br>
-Seraphona and [[people/olivia|Olivia]] were are taken around 10:30pm.
+[[plots/clockwork-tower/npcs/seraphina-steamspark|Seraphina]] and [[plots/clockwork-tower/npcs/olivia-chronosmith|Olivia]] were are taken around 10:30pm.
 
 **Description**<br>
 

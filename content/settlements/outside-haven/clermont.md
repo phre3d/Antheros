@@ -1,24 +1,41 @@
 ---
 aliases: []
-tags: [Settlement/clermont]
-title: Cleremont
-date modified: 2026-08-17, 12:45:54 pm
+tags:
+  - Settlement
+title:
+date modified: 2026-08-13, 8:18:44 pm
 ---
 
-# Cleremont
 
---- start-multi-column: MainBody
+# Name
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+>[!info]
+>Map
+>
+>---
+>
+>**Type:** <br>
+>**Other Name(s):** <br>
+>**Population:** <br>
+>**Demonym:** <br>
+>
+>---
+>
+>**Ruler:** <br>
+>**Ruling Organization:**  <br>
+>**Founded:** <br>
+>**Founders:**
+>
+>---
+>
+>**Location:**<br>
+>**Grid (Key) Ref.:**   
+>
 
-# Description
+***Tagline***
 
 Clermont is a town on the ocean, just southeast of the [[geography/dorian-river|Dorian River]] delta.
+
 
 # Demographics
 
@@ -49,49 +66,3 @@ Clermont is a town on the ocean, just southeast of the [[geography/dorian-river|
 # Climate
 
 # Natural Resources
-
---- end-column ---
-
-**Image:**
-
-**Type:** <br>
-**Other Name(s):** <br>
-**Located In:**
-
-**Population:** <br>
-**Demonym:** <br>
-**Founded:** <br>
-**Runied:**
-
-**Ruler:**  <br>
-**Rank:**  <br>
-**Ruling Organization:**  <br>
-**Other Rulers:**
-
-**Founders:**
-
----
-
-## World Anvil Metadata
-
-**Id:** 4650cd05-9640-4688-b248-a60e104b0030<br>
-**Entity Type:** Article / settlement<br>
-**Category:** Cities, Towns, Villages<br>
-**Tags:**
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column

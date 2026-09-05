@@ -7,16 +7,34 @@ date modified: 2026-08-17, 12:45:53 pm
 
 # Tarnsworth
 
----start-multi-column: MainBody
+>[!info]
+>><a class="internal-link" href="maps/tarnsworth/tarnsworth"><img src="plots/howling-in-the-woods/maps/tarnsworth-village.png"/></a>
+>
+>---
+>
+>**Type:** Village<br>
+>**Other Name(s):** <br>
+>**Located In:**
+>
+>**Population:** 100ish??<br>
+>**Demonym:** <br>
+>**Founded:** <br>
+>**Runied:**
+>
+>**Ruler:**  <br>
+>**Rank:**  <br>
+>**Ruling Organization:**  <br>
+>**Other Rulers:**
+>
+>**Founders:**
+>
+>---
+>
+>**Associated Plots**
+>
+>>[[plots/howling-in-the-woods/howling-in-the-woods|Howling in the Woods]]
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
 
-# Description
 
 A small village on the [[geography/carlemere-river|Carlemere River]] about a day upstream from the [[geography/dorian-river|Dorian River]].
 
@@ -33,84 +51,14 @@ A small village on the [[geography/carlemere-river|Carlemere River]] about a day
 2. 
 3.
 
-# Demographics
 
-# Government
 
-# Defenses
 
-# Industry & Trade
 
-# Infrastructure
 
-# Districts
-
-# Assets
-
-# Guilds & Factions
-
-# History
-
-# Points of Interest
-
-# Tourism
-
-# Architecture
-
-# Geography
-
-# Climate
-
-# Natural Resources
-
---- end-column ---
-
-**Image:**
-
-**Associated Plots**
-
-- Howling in the Woods
-
----
-
-**Type:** Village<br>
-**Other Name(s):** <br>
-**Located In:**
-
-**Population:** 100ish??<br>
-**Demonym:** <br>
-**Founded:** <br>
-**Runied:**
-
-**Ruler:**  <br>
-**Rank:**  <br>
-**Ruling Organization:**  <br>
-**Other Rulers:**
-
-**Founders:**
-
----
-
-## World Anvil Metadata
-
-**Id:** 74a3017c-0245-4f4d-92f8-8a894bf9261b<br>
-**Entity Type:** Article / settlement<br>
-**Category:** Tarnsworth<br>
-**Tags:** HitW
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

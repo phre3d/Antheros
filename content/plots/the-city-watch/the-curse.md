@@ -1,8 +1,8 @@
 ---
 aliases: []
+date modified: 2026-09-04, 1:12:48 pm
 tags: [Plot, Plot/The-City-Watch]
 title: "TCW: The Curse"
-date modified: 2026-08-17, 12:45:54 pm
 ---
 
 # TCW: The Curse

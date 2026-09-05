@@ -63,19 +63,9 @@ There's a small shop catering to the community's needs, offering a range of gene
 
 
 
-
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

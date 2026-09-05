@@ -1,22 +1,40 @@
 ---
 aliases: []
-tags: [Settlement/mandalai]
-title: Mandalai
-date modified: 2026-08-17, 12:45:53 pm
+tags:
+  - Settlement
+title:
+date modified: 2026-08-13, 8:18:44 pm
 ---
 
 # Mandalai
 
---- start-multi-column: MainBody
+>[!info]
+>Map
+>
+>---
+>
+>**Type:** <br>
+>**Other Name(s):** <br>
+>**Population:** <br>
+>**Demonym:** <br>
+>
+>---
+>
+>**Ruler:** <br>
+>**Ruling Organization:**  <br>
+>**Founded:** <br>
+>**Founders:**
+>
+>---
+>
+>**Location:**<br>
+>**Grid (Key) Ref.:**   
+>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+***Tagline***
 
-# Description
+DESCRIPTION GOES HERE
+
 
 # Demographics
 
@@ -48,48 +66,10 @@ shadow: off
 
 # Natural Resources
 
---- end-column ---
 
-**Image:**
-
-**Type:** <br>
-**Other Name(s):** <br>
-**Located In:**
-
-**Population:** <br>
-**Demonym:** <br>
-**Founded:** <br>
-**Runied:**
-
-**Ruler:**  <br>
-**Rank:**  <br>
-**Ruling Organization:**  <br>
-**Other Rulers:**
-
-**Founders:**
-
----
-
-## World Anvil Metadata
-
-**Id:** af32e79a-42d1-4531-8f42-287dc5154892<br>
-**Entity Type:** Article / settlement<br>
-**Category:** Geography<br>
-**Tags:**
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

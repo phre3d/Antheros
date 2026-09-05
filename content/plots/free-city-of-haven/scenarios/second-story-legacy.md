@@ -2,33 +2,41 @@
 aliases: []
 tags: [Plot/Free-City-of-Haven/scenario]
 title: Second Story Legacy
-date modified: 2026-08-17, 12:45:57 pm
+date modified: 2026-08-08, 3:16:11 pm
 ---
 
 # Second Story Legacy
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
+>[!info]
+>**Locations/Start**  <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;The [[settlements/haven/the-labyrinth/the-labyrinth|Labyrinth]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[landmarks/the-pendragon-inn|The Pendragon Inn]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[landmarks/delmarvas-fine-eggs-and-poultry|Delmarva's Fine Eggs and Poultry]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;Horse Gate Barracks<br>
+>
+>**Key Participants**  <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;Julio <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;Lucia Marino
+
+
+
 ## Players' Information 
 The players are approached by a boy of about 14, plainly dressed in a worn tunic and breeches, who asks them if they would be willing to take on a "risky gig for a nice lady whot needs some help". If they appear interested, he will explain that a lady he knows who has been kind to him and his friends, lost her husband, a Guild thief, some months ago in the destruction of Rogues' Roost. The thief had completed a job that very night, and the Guild has been pressuring the widow to produce the take from that lucrative robbery. Unfortunately, she does not know where he cached his booty, and is afraid for her life, and those of her children. She is willing to split the proceeds with whoever can help her locate the cache and get her and her children safely out of Haven.
 
-The boy, a street urchin named Julio, has been on the lookout for adventuring types, preferably from out of town, and not members of the Guild. He will lead the players down several side streets in a roundabout route to a quiet street of old row houses in the upper end of the [[settlement/labyrinth|Labyrinth]], just off Southbridge Street, near [[settlement/thieves-market|Thieves' Market]]. 
+The boy, a street urchin named Julio, has been on the lookout for adventuring types, preferably from out of town, and not members of the Guild. He will lead the players down several side streets in a roundabout route to a quiet street of old row houses in the upper end of the [[settlements/haven/the-labyrinth/the-labyrinth|Labyrinth]], just off Southbridge Street, near [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]]. 
 
-There the lady in question, Lucia Marino, will explain that her husband did a second story job at [[landmark/the-pendragon-inn|The Pendragon Inn]] on Street of Caravans the night of the fire, and must have cached the loot somewhere for safekeeping. After stopping for a late dinner, he went over to the Guild headquarters to report, and never returned. Since he stopped at home, the Guild believes that he must have told Lucia where the cache was and have been threatening her unless she reveals where the loot is hidden. 
+There the lady in question, Lucia Marino, will explain that her husband did a second story job at [[landmarks/the-pendragon-inn|The Pendragon Inn]] on Street of Caravans the night of the fire, and must have cached the loot somewhere for safekeeping. After stopping for a late dinner, he went over to the Guild headquarters to report, and never returned. Since he stopped at home, the Guild believes that he must have told Lucia where the cache was and have been threatening her unless she reveals where the loot is hidden. 
 
 The only clue she has is a chance comment her husband made about finding a good nest for the "stuff", where it wasn't going to hatch out too early. He seemed to find this amusing but did not explain it further.
 
 ## GM's Notes 
-Lucia's husband, a skilled second-story man named Petri, robbed a spice merchant's room in [[landmark/the-pendragon-inn|The Pendragon Inn]] on Caravan Street while the latter was out dining. 
+Lucia's husband, a skilled second-story man named Petri, robbed a spice merchant's room in [[landmarks/the-pendragon-inn|The Pendragon Inn]] on Caravan Street while the latter was out dining. 
 
-The booty included 200gp in cash, around 500gp in small pearls and gems, a letter of credit drawn on the House of Denarian in Mandalai worth 1,200gp, and one worth 500gp drawn on the [[landmark/house-of-rand|House of Rand]] in Haven, some personal jewelry worth about 300gp, and a small vial of cinnamon. 
+The booty included 200gp in cash, around 500gp in small pearls and gems, a letter of credit drawn on the House of Denarian in Mandalai worth 1,200gp, and one worth 500gp drawn on the [[landmarks/house-of-rand|House of Rand]] in Haven, some personal jewelry worth about 300gp, and a small vial of cinnamon. 
 
-There was also a locked leather case that contained, in carefully padded niches, a half dozen ornate eggs, made of enameled copper and encrusted with pearls and gems, each with a [[person/tiny|Tiny]] replica of a different bird inside. The birds magically appear to move and sing if the egg is taken from its case, and each is worth around 2,000gp. 
+There was also a locked leather case that contained, in carefully padded niches, a half dozen ornate eggs, made of enameled copper and encrusted with pearls and gems, each with a [[people/tiny|Tiny]] replica of a different bird inside. The birds magically appear to move and sing if the egg is taken from its case, and each is worth around 2,000gp. 
 
-Petri hid the eggs and other booty in one of his favorite caches, [[landmark/delmarvas-fine-eggs-and-poultry|Delmarva's Fine Eggs and Poultry]] (QY), on the Horseshoe. The shop sells eggs and young live hens and has a large shed in the back where the laying hens are housed, right against the Old Wall; Petri hid the loot under a loose section of floor, under the nest boxes. The henhouse also happens to be on the shortest possible route from the Pendragon to Petri's home near [[settlement/thieves-market|Thieves' Market]].
+Petri hid the eggs and other booty in one of his favorite caches, [[landmarks/delmarvas-fine-eggs-and-poultry|Delmarva's Fine Eggs and Poultry]] (QY), on the Horseshoe. The shop sells eggs and young live hens and has a large shed in the back where the laying hens are housed, right against the Old Wall; Petri hid the loot under a loose section of floor, under the nest boxes. The henhouse also happens to be on the shortest possible route from the Pendragon to Petri's home near [[settlements/haven/the-south-corridor/thieves-market|Thieves' Market]].
 
 The players have several avenues to pursue in trying to solve this riddle. They can seek more information as to exactly what was stolen, either at the Pendragon, or from the local constabulary (Horse Gate Barracks), which might shed some light on Petri's cryptic joke. 
 
@@ -42,41 +50,9 @@ Without some clue concerning the eggs, or some idea of looking for something to 
 
 If the GM wishes to make the adventure more complicated, it is quite possible that the lieutenant who has been hassling Lucia for the money is having her house watched. The players would then be followed by Guild operatives who would wait until it seemed that they had found the cache before moving in.
 
-```
-
-```col-md
-**Locations/Start**  
-
-- [[settlement/the-labyrinth|The Labyrinth]]
-- [[landmark/the-pendragon-inn|The Pendragon Inn]]
-- [[landmark/delmarvas-fine-eggs-and-poultry|Delmarva's Fine Eggs and Poultry]]
-- [[landmark/horsegate-barracks|Horsegate Barracks]]
-
- **Key Participants**  
-
-- Julio (deceased)
-- [[person/lucia-marina|Lucia Marina]]
-
----
-
-### World Anvil Metadata
-**Id:** e9a83f7d-9906-4570-a8d8-6bbe7a978936<br>
-**Entity Type:** Article / plot<br>
-**Category:** Haven Encounters and Scenarios<br>
-**Tags:** FCoH-plot
-```
-````
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

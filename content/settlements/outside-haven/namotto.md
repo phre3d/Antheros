@@ -1,14 +1,14 @@
 ---
 aliases: []
-tags: [Settlement/namotto]
-title: ///name///
-date modified: 2026-08-13, 8:18:44 pm
+date modified: 2026-09-04, 12:41:18 pm
+tags: [Settlement]
+title: Namotto
 ---
 
 # Namotto
 
 >[!info]
->Image
+>Map
 >
 >---
 >
@@ -27,10 +27,11 @@ date modified: 2026-08-13, 8:18:44 pm
 >---
 >
 >**Location:**<br>
->**Grid (Key) Ref.:**   
->
+>**Grid (Key) Ref.:**
 
-# Title
+***Tagline***
+
+DESCRIPTION GOES HERE
 
 # Demographics
 
@@ -61,3 +62,10 @@ date modified: 2026-08-13, 8:18:44 pm
 # Climate
 
 # Natural Resources
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

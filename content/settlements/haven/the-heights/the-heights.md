@@ -1,8 +1,8 @@
 ---
 aliases: []
+date modified: 2026-09-04, 12:22:09 pm
 tags: [Plot/Free-City-of-Haven, Settlement, Settlement/district]
 title: The Heights
-date modified: 2026-08-17, 12:45:53 pm
 ---
 
 # The Heights
@@ -31,6 +31,7 @@ date modified: 2026-08-17, 12:45:53 pm
 >---
 >
 >**Persons of Interest**<br>
+>
 >>The [[organizations/families/savonna-family|Savonna Family]]<br>
 >The [[organizations/families/de-kammeron-family|de Kammeron Family]]<br>
 >The [[organizations/families/de-la-riis-family|de la Riis Family]]<br>
@@ -43,8 +44,6 @@ date modified: 2026-08-17, 12:45:53 pm
 >The [[organizations/families/maggia-family|Maggia Family]]<br>
 >The [[organizations/families/blackbourne-family|Blackbourne Family]]<br>
 >The [[organizations/families/varrasch-family|Varrasch Family]]<br>
->
-
 
 Since the time when [[settlements/haven/free-city-of-haven|Free City of Haven]] expanded to its present boundaries, the city's aristocracy have made their homes atop this rambling, fertile greensward overlooking the north banks of the Dorian. Many of the stately residences were adorned with elaborately landscaped gardens, pools, and private stables, or set off from public view by high stone walls or hedges. In these surroundings, the nobility entertained themselves lavishly; feasts, and hunts in the nearby countryside, and bacchanalian revels that were the stuff of legend in the commoner parts of town.
 
@@ -61,7 +60,7 @@ In many ways, the successful guildsmen have attempted to imitate the social more
 ```dataview
 LIST WITHOUT ID link(file.name, title)
 FROM "people"
-WHERE contains(tags, "heights") 
+WHERE contains(tags, "heights")
 ```
 
 # Places
@@ -76,7 +75,7 @@ WHERE contains(tags, "heights")
 
 While a party is wandering through the area roll d1000 to determine what random encounter they may have. Note that some encounters may happen in multiple locations in the city so feel free to ignore the results if the event is a one-off and already happened.
 
-| [roll:d1000] | Link  |
+| d1000 | Link  |
 |---|---|
 | 001-083 | [CentaurCab](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Centaur_Cab)  |
 | 084-125 | [Warning](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Warning)  |
@@ -90,10 +89,6 @@ While a party is wandering through the area roll d1000 to determine what random 
 | 770-831 | [Crotofiran](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Crotofiran)  |
 | 832-914 | [JingleBells](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Jingle_Bells)  |
 | 915-000 | [OldMan](https://www.worldanvil.com/w/antheros-phre3d/a/street-encounters-plot#Old_Man)  |
-
-
-
-
 
 <!-- Standard footer using HTML, which transfers to Quartz -->
 <hr>

@@ -13,7 +13,7 @@ date modified: 2026-08-20, 8:03:16 pm
 >---
 >
 >as Byelaya Tainley
->![[~attachments/Tainley, Byelaya (aka Bianca).jpg]]
+>![[~attachments/tainley-byelaya-aka-bianca.jpg]]
 >---
 >
 >**Character Prototype:**  

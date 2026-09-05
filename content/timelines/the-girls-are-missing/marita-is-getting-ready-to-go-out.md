@@ -28,11 +28,11 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** <br>
 
 **Summary**<br>
-Maggie (Maggia maid, elf) reported that she helped get [[people/marita|Marita]] ready to go out shopping - probably on [[landmark/boutique-lane|Boutique Lane]] (Maggie isn't positive).  She suspects that Marita will go first to [[landmark/pierre-farces-house-of-beauty|Pierre Farce's House of Beauty]].
+Maggie (Maggia maid, elf) reported that she helped get [[people/marita-maggia|Marita]] ready to go out shopping - probably on [[settlements/haven/the-heights/boutique-lane|Boutique Lane]] (Maggie isn't positive).  She suspects that Marita will go first to [[landmarks/pierre-farces-house-of-beauty|Pierre Farce's House of Beauty]].
 
-Marrie reported that Marita was wearing her favourite blue dress and had her [[item/unicorn-pendant|unicorn pendant]] - she rearely goes anywhere without it.
+Marrie reported that Marita was wearing her favourite blue dress and had her [[items/magic-items/pendant-of-the-sisters-of-the-unicorn|unicorn pendant]] - she rarely goes anywhere without it.
 
-Maggie also suspects that Marita may be meeting with Antonio but doesn't know.
+Maggie also suspects that Marita may be meeting with [[people/blocks/antonio-berensten|Antonio]]but doesn't know.
 
 **Description**<br>
 

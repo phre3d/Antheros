@@ -28,7 +28,7 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** <br>
 
 **Summary**<br>
-Somewhere between 1pm and 2pm, [[people/marita|Marita]] leaves the residence to go shopping.  Nobody in the family saw her leave and all Maggie (the maid) can say is sometime a little while after after 1pm.
+Somewhere between 1pm and 2pm, [[people/marita-maggia|Marita]] leaves the residence to go shopping.  Nobody in the family saw her leave and all Maggie (the maid) can say is sometime a little while after after 1pm.
 
 **Description**<br>
 

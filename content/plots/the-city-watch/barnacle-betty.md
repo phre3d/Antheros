@@ -1,12 +1,11 @@
 ---
 aliases: []
+date modified: 2026-09-04, 1:12:48 pm
 tags: [Person, Person/npc, Plot/The-City-Watch, statblock]
 title: Barnacle Betty
-date modified: 2026-08-20, 8:03:27 pm
 ---
 
 # Barnacle Betty
-
 
 **Race:** Half-Elf<br>
 **Profession:** Pirate Captain<br>

@@ -23,7 +23,7 @@ Temperate climates
 
 Ground cover in a garden
 
-Used in crafting as a source of [[material/essence-of-fire|Essence of Fire]]
+Used in crafting as a source of [[materials/alcohol|alcohol]]
 
 # Distribution
 ## Trade & Market

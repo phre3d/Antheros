@@ -7,11 +7,22 @@ date modified: 2026-08-17, 12:45:54 pm
 
 # The Girls are Missing
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
+>[!info]
+>**Related Characters:** <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[person/byelaya-tainley|Byelaya Tainley]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[person/jillie-ferndew|Jillie Ferndew]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[person/marita-maggia|Marita Maggia]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[person/olivia-chronosmith|Olivia Chronosmith]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[person/seraphina-steamspark|Seraphina Steamspark]]
+>
+>**Related Organizations:**<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[organization/criminal/the-black-hand|The Black Hand]]
+>
+>**Related Locations:**<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[landmark/fine-silks-and-fabrics|Fine Silks and Fabrics]]<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;[[landmark/the-blue-lantern|The Blue Lantern]]
+
+
 This isn't part of a module but rather a series of events that may or may not be related to each other.  They interweave in time with the all disappearances taking place between 10th of Wealsun and the 12th.  Unless you want to include [[person/byelaya-tainley|Byelaya Tainley]] , in which case it goes back further - to the 24th of Coldeven.  (c.f. Timeline page: [[timeline/the-girls-are-missing/!the-girls-are-missing|The Girls Are Missing]])
 
 # Olivia and Seraphina 
@@ -48,38 +59,3 @@ A couple days ago (9th of Wealsun) she was spotted by [[person/cortina-de-la-rii
 # Jillie 
 [[person/martin-plowhearth|Martin Plowhearth's]] girlfriend [[person/jillie-ferndew|Jillie Ferndew]] has disappeared but the reason is not sinister. After getting off work on the 11th of Wealsun she went home where she found her mother quite ill. She was distracted by looking after her and forgot to let anyone know.
 
-**Related plot(s):**  None
-
-```
-
-```col-md
-**Related Characters:**
-- [[person/byelaya-tainley|Byelaya Tainley]]
-- [[person/jillie-ferndew|Jillie Ferndew]]
-- [[person/marita-maggia|Marita Maggia]]
-- [[person/olivia-chronosmith|Olivia Chronosmith]]
-- [[person/seraphina-steamspark|Seraphina Steamspark]]
-
-**Related Organizations:**
-- [[organization/criminal/the-black-hand|The Black Hand]]
-
-**Related Locations:**
-- [[landmark/fine-silks-and-fabrics|Fine Silks and Fabrics]]
-- [[landmark/the-blue-lantern|The Blue Lantern]]
-
-```
-````
-
-![[~attachments/dndline.png]]
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````

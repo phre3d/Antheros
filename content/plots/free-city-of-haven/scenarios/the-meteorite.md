@@ -2,16 +2,20 @@
 aliases: []
 tags: [Plot/Free-City-of-Haven/scenario]
 title: The Meteorite
-date modified: 2026-08-17, 12:45:57 pm
+date modified: 2026-08-08, 3:16:11 pm
 ---
 
 # The Meteorite
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
+>[!info]
+>**Start/Locations**<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+>
+>**Key Participants**  <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+
+
 ## Players Information 
 A number of weeks ago, a shooting star was seen to pass over Haven, falling to the north. It was later learned that it had impacted somewhere in the Khuz Mountains (the ancestral territory of the dwarves).
 
@@ -22,7 +26,7 @@ Both temples have priests stationed at the major gates of the city, the Caravan 
 
 The priests are looking for fighter-types, thieves, and scholars primarily. Fighters should have a minimum total of 10 points in each of the physical requisites (STR, DEX, CON). Thieves should have proficiency in Stealth and Investigation, since they will be doing the majority of the scouting for the group. 
 
-Pay scales depend on the skills possessed by the person, each person being considered separately. Mountaineering skill, knowledge of tracking, cartographic ability, and first aid knowledge are being sought. Trapping skill and a knowledge of the native tongue of the dwarves are also considered assets. Base pay for a fighter or thief would be 5gp per day, with a 1gp per day increase for any skill in the first four, and 5sp (half a gold piece) per day for either of the secondary skills. Base pay for a scholar would be double that of the fighter or thief, with a corresponding increase in the bonuses for the skills - scholars would be expected to have primary fields of knowledge in either arcane lore, natural history, astrology (astronomy), or cultural history and analysis (particularly the dwarven culture). 
+Pay scales depend on the skills possessed by the person, each person being considered separately. Mountaineering skill, knowledge of tracking, cartographic ability, and first aid knowledge are being sought. Trapping skill and a knowledge of the native tongue of the dwarves are also considered assets. Base pay for a fighter or thief would be 5gp per day, with a 1gp per day increase for any skill in the first four, and 5sp (half a gold piece) per day for either of the secondary skills. Base pay for a scholar would be double that of the fighter or thief, with a corresponding increase in the bonuses for the skills >&nbsp;&nbsp;&nbsp;&nbsp;scholars would be expected to have primary fields of knowledge in either arcane lore, natural history, astrology (astronomy), or cultural history and analysis (particularly the dwarven culture). 
 
 If a bard would be willing to travel with the expedition, he would be welcomed (bards frequently fulfill diplomatic duties, similar to those of the Heralds) and would receive the same pay scale as the scholars. 
 
@@ -32,37 +36,9 @@ The GM is responsible for designing the actual territory involved (there is a li
 
 This scenario may be run as a team adventure, by having one team representing each temple. Internecine warfare is possible, and the scenario should be carefully run if handled in the team manner. It is assumed that both temples have spies in the other camp, and neither will be able to gain much more than a one day lead on the other by leaving early. Peace has been enforced on both temples by the Council, and is enforced by the City Guard (who will incarcerate any who violate the prohibition - this is a minor crime, and will draw only 10 to 40 days of prison, unless someone has been killed). Of course, once outside the city's boundaries, anything goes - and the chances are good that one or the other side of this contest will meet a bloody end.
 
-```
-
-```col-md
-**Start / Locations** 
-
-- 
-
-**Key Participants** 
-
-- 
-
----
-
-### World Anvil Metadata
-**Id:** 75fac0c9-9e23-4daf-9621-d06ef5f88554<br>
-**Entity Type:** Article / plot<br>
-**Category:** Haven Encounters and Scenarios<br>
-**Tags:** FCoH-plot
-```
-````
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

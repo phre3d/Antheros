@@ -28,7 +28,7 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** <br>
 
 **Summary**<br>
-[[people/marita|Marita]] was supposed to meet [[people/antonio|Antonio]] @ 8am but never shows up.
+[[people/marita-maggia|Marita]] was supposed to meet [[people/antonio-berensten|Antonio]] @ 8am but never shows up.
 
 **Description**<br>
 

@@ -7,10 +7,12 @@ date modified: 2026-08-20, 8:03:25 pm
 
 # Torik
 
-````col
-```col-md
-flexGrow=2
-===
+>[!info] Portrait
+>![[~attachments/torik.jpg]]
+
+*Medium humanoid (human), Chaotic Good*
+
+
 **Race:** Human<br>
 **Profession:** <br>
 **Proficiency Bonus:** 0<br>
@@ -38,16 +40,6 @@ flexGrow=2
 **Senses:** <br>
 **Skills:** 
 
-```
-
-```col-md
-
-![[~attachments/torik.jpg]]
-
-```
-````
-
----
 
 # Description
 
@@ -59,4 +51,4 @@ Taken under [[campaign/player-characters/turin-windrider|Turin Windrider's]] win
 **Bonds:** home<br>
 **Flaws:** getting into trouble<br>
 
----
+

@@ -28,7 +28,7 @@ date modified: 2026-08-17, 12:45:52 pm
 >**Background Colour:** #d33115<br>
 
 **Summary**<br>
-[[people/byelaya-tainley|Byelaya Tainley]] leaves home and becomes the courtesan [[people/bianca|Bianca]], working at [[landmark/the-blue-lantern|The Blue Lantern]] on [[settlements/the-street-of-silk-veils|The Street of Silk Veils]].
+[[people/byelaya-tainley|Byelaya Tainley]] leaves home and becomes the courtesan [[people/bianca|Bianca]], working at [[landmarks/the-blue-lantern|The Blue Lantern]] on [[settlements/haven/the-labyrinth/the-street-of-silk-veils|The Street of Silk Veils]].
 
 **Description**<br>
 

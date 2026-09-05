@@ -1,24 +1,40 @@
 ---
 aliases: []
-tags: [Organization/geopolitical/ten-cities, Settlement/brighton]
-title: Brighton
-date modified: 2026-08-17, 12:45:54 pm
+tags:
+  - Settlement
+title:
+date modified: 2026-08-13, 8:18:44 pm
 ---
 
 # Brighton
 
----start-multi-column: MainBody
+>[!info]
+>Map
+>
+>---
+>
+>**Type:** <br>
+>**Other Name(s):** <br>
+>**Population:** <br>
+>**Demonym:** <br>
+>
+>---
+>
+>**Ruler:** <br>
+>**Ruling Organization:**  <br>
+>**Founded:** <br>
+>**Founders:**
+>
+>---
+>
+>**Location:**<br>
+>**Grid (Key) Ref.:**   
+>
 
-```column-settings  
-number of columns: 2  
-column size: [69%, 30%]
-border: [off]
-shadow: off
-```
+***Tagline***
 
 # Description
 
-One of the [[organizations/geopolitical/confederation-of-the-ten-cities|Confederation of the Ten Cities]]
 
 # Demographics
 
@@ -49,40 +65,3 @@ One of the [[organizations/geopolitical/confederation-of-the-ten-cities|Confeder
 # Climate
 
 # Natural Resources
-
---- end-column ---
-
-**Image:**
-
-**Type:** <br>
-**Other Name(s):** <br>
-**Located In:**
-
-**Population:** <br>
-**Demonym:** <br>
-**Founded:** <br>
-**Runied:**
-
-**Ruler:**  <br>
-**Rank:**  <br>
-**Ruling Organization:**  <br>
-**Other Rulers:**
-
-**Founders:**
-
---- end-multi-column
-
----
-
---- start-multi-column: PreviousNext
-
-```column-settings  
-number of columns: 2  
-column size: [50%, 49%]
-border: [off, off]
-alignment: [left, right]
-```
-
---- end-column ---
-
---- end-multi-column

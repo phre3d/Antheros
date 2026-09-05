@@ -1,14 +1,15 @@
 ---
 aliases: []
-tags: [Settlement/kure-lutrin]
-title: Kura-Lutrin
-date modified: 2026-08-18, 1:06:17 pm
+tags:
+  - Settlement
+title:
+date modified: 2026-08-13, 8:18:44 pm
 ---
 
-# Kura-Lutrin
+# Kura Lutrin
 
 >[!info]
->Image
+>Map
 >
 >---
 >
@@ -27,9 +28,13 @@ date modified: 2026-08-18, 1:06:17 pm
 >---
 >
 >**Location:**<br>
->**Grid (Key) Ref.:**
+>**Grid (Key) Ref.:**   
+>
 
-# Title
+***Tagline***
+
+DESCRIPTION GOES HERE
+
 
 # Demographics
 
@@ -60,3 +65,11 @@ date modified: 2026-08-18, 1:06:17 pm
 # Climate
 
 # Natural Resources
+
+
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>

@@ -22,7 +22,7 @@ Coastal
 
 When ground into a salve, it will remedy all pain in a person's feet over the course of a short rest.
 
-Used in crafting as a source of [[material/essence-of-water|Essence of Water]].
+Used in crafting as a source of [[materials/essence-of-water|Essence of Water]].
 
 # Distribution
 

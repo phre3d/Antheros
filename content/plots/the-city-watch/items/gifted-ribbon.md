@@ -1,8 +1,8 @@
 ---
 aliases: []
+date modified: 2026-09-04, 1:12:48 pm
 tags: [Item, Item/magic-item]
 title: Gifted Ribbon
-date modified: 2026-08-17, 12:45:55 pm
 ---
 
 # Gifted Ribbon

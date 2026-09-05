@@ -2,18 +2,22 @@
 aliases: []
 tags: [Plot/Free-City-of-Haven/scenario]
 title: The Return of the Prodigal Rig
-date modified: 2026-08-17, 12:45:57 pm
+date modified: 2026-08-08, 3:16:11 pm
 ---
 
 # The Return of the Prodigal Rig
 
-````col
-```col-md
-flexGrow=2.5
-===
-# Outline
+>[!info]
+>**Locations/Start**  <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;South Corridor<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;Tobler's Livery Stable
+>
+>**Key Participants**  <br>  
+>&nbsp;&nbsp;&nbsp;&nbsp;[[people/cocoa-tobler|Cocoa Tobler]]
+
+
 ## Players' Information 
-[[person/cocoa-tobler|Cocoa Tobler]], the owner of the livery stable, is currently looking to hire a small party (no more than four) to travel westward looking for four teams and rigs he rented out (with wranglers) for a three month journey some five months ago. He knows they were supposed to go to Belakor, and return - they are quite overdue, and Cocoa suspects foul play. 
+[[people/cocoa-tobler|Cocoa Tobler]], the owner of the livery stable, is currently looking to hire a small party (no more than four) to travel westward looking for four teams and rigs he rented out (with wranglers) for a three month journey some five months ago. He knows they were supposed to go to Belakor, and return >&nbsp;&nbsp;&nbsp;&nbsp;they are quite overdue, and Cocoa suspects foul play. 
 
 He will provide mounts and a small fund for travel expenses and can make arrangements with one of the avanthari messenger services to relay information. If the party locates the missing men, rigs, and teams, but do not wish to return, they can simply send the mounts back with the returning group. 
 
@@ -30,38 +34,9 @@ Obviously the wagon party has been waylaid by bandits, and the rigs are gone for
 
 The wranglers had put the wagons and stock up for the night when they arrived and gone carousing in one of the taverns down by the docks. They were subsequently shanghaied, and it is very likely that they are somewhere afloat along the coast.
 
-```
-
-```col-md
-**Locations/Start**  
-
-- [[settlement/the-south-corridor|The South Corridor]]
-- [[landmark/toblers-livery-stable|Tobler's Livery Stable]]
-
-**Key Participants**  
-
-- [[person/cocoa-tobler|Cocoa Tobler]]
-
----
-
-### World Anvil Metadata
-**Id:** db16f023-4932-47a3-b8eb-4989497ab7b8<br>
-**Entity Type:** Article / plot<br>
-**Category:** Haven Encounters and Scenarios<br>
-**Tags:** FCoH-plot
-```
-````
-
----
-
-````col
-```col-md
-
-```
-
-```col-md
-textAlign=right
-===
-
-```
-````
+<!-- Standard footer using HTML, which transfers to Quartz -->
+<hr>
+<div class="page-nav">
+  <span class="nav-prev">← Previous: <a href="" class="internal-link">XXXX</a></span>
+  <span class="nav-next">Next: <a href="" class="internal-link">XXXX</a> →</span>
+</div>
